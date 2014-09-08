@@ -1,5 +1,4 @@
 import test
-# import pytest.mark.randomize
 
 def is_harshad(n):
     return (n % sum(split_digits(n))) == 0
@@ -31,8 +30,19 @@ def test_is_harshad():
     assert is_harshad2(54) == True
     assert is_harshad2(23) == False
 
+def group_count(list_char):
+    resDict = {}
+    for c in list_char:
+        resDict[c] = resDict.get(c, 0) + 1
+    return resDict
 # def test_is_harshad():
 #     return False
     
 test_is_harshad()
 test_split_digits()
+
+def factorial(n):
+    return n * factorial(n-1) if n > 0 else 1
+        
+def factorial2(n):
+    return reduce(lambda x,y: x*y, range(1,n+1))
