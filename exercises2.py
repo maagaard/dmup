@@ -46,3 +46,28 @@ def factorial(n):
         
 def factorial2(n):
     return reduce(lambda x,y: x*y, range(1,n+1))
+
+
+class SortedKeysDict(dict):
+
+    def __init__(self, *args, **kwargs):
+        self.update(*args, **kwargs)  # use the free update to set keys
+        sorted_keys = sorted(self)
+        new_dict = {}
+        for key in sorted_keys:
+            new_dict[key] = self[key]
+
+        print new_dict
+        
+        self = new_dict
+
+
+        # self = sorted(self)
+        
+
+    # def __init__(self, dict):
+    #     self.items = dict
+
+
+
+
