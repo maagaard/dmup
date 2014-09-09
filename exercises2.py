@@ -1,4 +1,5 @@
 import test
+from collections import OrderedDict
 
 def is_harshad(n):
     return (n % sum(split_digits(n))) == 0
@@ -53,11 +54,11 @@ class SortedKeysDict(dict):
     def __init__(self, *args, **kwargs):
         self.update(*args, **kwargs)  # use the free update to set keys
         sorted_keys = sorted(self)
-        new_dict = {}
+        new_dict = collections.OrderedDict()
         for key in sorted_keys:
             new_dict[key] = self[key]
 
-        print new_dict
+        print new_dict.keys()
         
         self = new_dict
 
