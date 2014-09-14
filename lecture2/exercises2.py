@@ -14,7 +14,10 @@ def split_digits(n):
     return res
     
 def is_harshad2(n):
-    return (n % (sum(map(int, str(n))))) == 0
+    try:
+        return (n % (sum(map(int, str(n))))) == 0
+    except ZeroDivisionError:
+        return True
 
 def test_split_digits():
     assert split_digits(123) == [3,2,1]
