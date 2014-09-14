@@ -55,40 +55,33 @@ def factorial2(n):
 
 class SortedKeysDict(dict):
 
-    def __init__(self, *args, **kwargs):
-        self.update(*args, **kwargs)  # use the free update to set keys
+    # def __init__(self, *args, **kwargs):
+    #     self.update(*args, **kwargs)  # use the free update to set keys
+    #     sorted_keys = sorted(self)
+    #     new_dict = {} #collections.OrderedDict()
+    #     for key in sorted_keys:
+    #         new_dict[key] = self[key]
+
+    #     print new_dict.keys()
+    #     self = new_dict
+
+    def items(self):
         sorted_keys = sorted(self)
-        new_dict = {} #collections.OrderedDict()
-        for key in sorted_keys:
-            new_dict[key] = self[key]
+        return [(key, self[key]) for key in sorted_keys]
+         # print sorted_keys
+    
+    def keys(self):
+        return sorted(self)
 
-        print new_dict.keys()
-        self = new_dict
-
-    def __getkeys__(self):
-        sorted_keys = sorted(self)
-        items = [(key, self[key]) for key in sorted_keys]
-        # print sorted_keys
-        return 'hej'
-
-        # self = sorted(self)
-    def __getitem__(self, key):
-
-        return 'hej'
-
-    def __contains__(self,key):
-
-        return 'hej'
-
-
-    # def __init__(self, dict):
-    #     self.items = dict
+    def values(self):
+        return [self[key] for key in sorted(self)]
 
 
 def testDict():
     s = SortedKeysDict({'a':4,'b':1,'e':4,'c':9,'o':2,'f':6})
     print s.items()
     print s.keys()
+    print s.values()
 
 
 
