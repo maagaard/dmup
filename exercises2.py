@@ -1,5 +1,6 @@
 import test
 from collections import OrderedDict
+import numpy
 
 def is_harshad(n):
     return (n % sum(split_digits(n))) == 0
@@ -54,20 +55,85 @@ class SortedKeysDict(dict):
     def __init__(self, *args, **kwargs):
         self.update(*args, **kwargs)  # use the free update to set keys
         sorted_keys = sorted(self)
-        new_dict = collections.OrderedDict()
+        new_dict = {} #collections.OrderedDict()
         for key in sorted_keys:
             new_dict[key] = self[key]
 
         print new_dict.keys()
-        
         self = new_dict
 
+    def __getkeys__(self):
+        sorted_keys = sorted(self)
+        items = [(key, self[key]) for key in sorted_keys]
+        # print sorted_keys
+        return 'hej'
 
         # self = sorted(self)
-        
+    def __getitem__(self, key):
+
+        return 'hej'
+
+    def __contains__(self,key):
+
+        return 'hej'
+
 
     # def __init__(self, dict):
     #     self.items = dict
+
+
+def testDict():
+    s = SortedKeysDict({'a':4,'b':1,'e':4,'c':9,'o':2,'f':6})
+    print s.items()
+    print s.keys()
+
+
+
+def matrixComputation():
+    fid = open('simple_matrix.txt', 'r')
+    s = fid.read()
+    fid.close()
+
+    matrix = []
+    row = []
+
+    rowCount = 0
+    columnCount = 0
+
+    matrix.append(row)
+
+    for char in s:
+        if is_number(char):
+            row.append(int(char))
+            # matrix[rowCount][columnCount]
+            ++columnCount
+        elif char == '\n':
+            ++rowCount
+            row = []
+            matrix.append(row)
+
+    npmatrix = numpy.matrix(matrix)    
+    print numpy.dot(2,npmatrix)
+
+
+def is_number(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+
+
+
+def euler13():
+    numbers = []
+    total = 0
+    with open('euler13.txt', 'r') as f:
+        for line in f:
+            total+=int(line)
+    print str(total)[:10]
+
+
 
 
 
