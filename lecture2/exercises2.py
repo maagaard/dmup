@@ -109,7 +109,7 @@ def matrixComputation():
             matrix.append(row)
 
     npmatrix = numpy.matrix(matrix)    
-    print numpy.dot(2,npmatrix)
+    print npmatrix*2
 
 
 def is_number(s):
