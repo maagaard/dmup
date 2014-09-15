@@ -128,9 +128,3 @@ def euler13():
         for line in f:
             total+=int(line)
     print str(total)[:10]
-
-
-
-
-
-
