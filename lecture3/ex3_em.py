@@ -5,6 +5,8 @@ from scipy.stats import chi2
 import random
 import matplotlib.pyplot as plt
 import pandas as pd
+import networkx as nx
+
 
 def matrixrank(A, tol=None):
 	"""Compute rank"""
@@ -35,6 +37,8 @@ def stat(samples, sets):
 	# rv = chi2(S)
 	# fig, ax = plt.subplots(1, 1)	
 	# ax.plot(x, rv.pdf(x), 'k-', lw=2, label='frozen pdf')
+
+
 def lol():
 	x = np.arange(0, 5, 0.1);
 	y = np.sin(x)
@@ -46,8 +50,50 @@ def lol():
 
 
 def coauth():
-	authors = pd.read_csv('coauthors.csv', index_col=False, sep='\t')
-	print authors.shape, authors.ndim
+	authors = pd.read_csv('coauthors.csv', header=None, index_col=False, sep='\t')
+	author_counts = pd.read_csv('coauthors.csv', header=0, index_col=False, sep='\t')
+	matrix = np.matrix(authors.as_matrix())
+	matrix_counts = np.matrix(author_counts.as_matrix())
+	# print matrix
+	# print authors
+	# print matrix[0,1]
+
+	author_dict = {}
+	sums = []
+
+	for row in matrix_counts[0:,1:]:
+		sums.append(sum(row))
+		
+	count = 0
+
+	for row in matrix:
+		++count
+		# author_dict[row[0]] = 
+		# for author_dict[row[0]] = sum(row[0,1:])
+
+	max_index = sums.index(max(sums))
+
+	# print max_index
+	# print matrix[max_index+1]
+	# print sum(matrix_counts[max_index,1:])
+
+
+	# G = nx.Graph()
+	print matrix_counts[0:,1:]
+	dt=[('weight',int),('cost',int)]
+	A = np.matrix(matrix_counts[0:,1:], dt)
+
+	G=nx.from_numpy_matrix(A)
+
+
+
+		# for value in row[0,1:]:
+			
+		
+		# print row
+		# for value in row[0:][0:]:
+		# 	print value
+
 
 
 coauth()
