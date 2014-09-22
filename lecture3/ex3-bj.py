@@ -4,7 +4,7 @@ from math import sqrt
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import chi2
-import pandas as pd
+from scipy.optimize import minimize, rosen 
 
 def matrixrank(A, tol=None):
     U, s, V = svd(A)
@@ -22,4 +22,13 @@ def plot_gauss_thing():
     width = 1 * (bins[1] - bins[0])
     center = (bins[:-1] + bins[1:]) / 2
     plt.bar(center, hist, align='center', width=width)
+    plt.show()
+
+    
+ig = [[1.3, 1], [0.7,1], [0.8,1], [1.9,1], [1.2,1]]
+optimize_me = lambda x,y: (1-x)**2 + 100 * (y-x**2)**2
+
+def plot_optimize_me():
+    X = np.linspace(-100,100,256,endpoint=True)
+    plt.plot(X, optimize_me(X,X))
     plt.show()
