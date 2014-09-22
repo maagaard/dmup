@@ -1,0 +1,84 @@
+
+
+From cdshaw@cs.uregina.ca Fri Aug 27 05:34:49 MET 1999
+Received: from MERCURY.CS.UREGINA.CA (TIMELORD.CS.UREGINA.CA [142.3.200.53])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id FAA21527
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 27 Aug 1999 05:34:47 +0200 (METDST)
+Received: from GRENFELL.CS.UREGINA.CA (GRENFELL.CS.UREGINA.CA [142.3.223.50])
+	by MERCURY.CS.UREGINA.CA (8.9.3/8.9.3) with ESMTP id VAA21076
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 26 Aug 1999 21:28:34 -0600 (CST)
+From: Chris Shaw <cdshaw@cs.uregina.ca>
+Received: by GRENFELL.CS.UREGINA.CA (8.9.3/GRENFELL.CS.UREGINA.CA) id VAA25115; Thu, 26 Aug 1999 21:28:26 -0600 (CST)
+Date: Thu, 26 Aug 1999 21:28:26 -0600 (CST)
+Message-Id: <25115.199908270328@GRENFELL.CS.UREGINA.CA>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: CFP: New Paradigms in Information Visualsation + Manipulation
+Status: RO
+X-Status: 
+
+Call for Papers
+
+Workshop on New Paradigms in Information Visualization and Manipulation
+
+November 5-6, 1999
+Kansas City, Missouri
+
+In Conjunction with the ACM Conference on Information and Knowledge
+Management (CIKM'99)
+
+http://www.cs.umbc.edu/conferences/cikm/npiv/npiv99cfp.html
+
+The CIKM'99 Workshop on New Paradigms in Information Visualization and
+Manipulation will be a forum for presentation and discussion of new ideas
+and techniques for accessing, visualizing and manipulating information.
+Topics of interest include, but are not restricted to:
+
+   * visualization of multidimensional information spaces;
+   * visualization of large, dynamic information collections;
+   * shared virtual environments and simulations;
+   * dynamic data visualization;
+   * applications of virtual reality, including VRML;
+   * multi-modal information displays;
+   * applications of Internet tools such as MUDs, MOOs, and IRCs;
+   * document and corpus metrics;
+   * visual data mining and knowledge discovery;
+   * Web or network-based visualization;
+   * applications in document analysis;
+   * software and hardware architectures to support information
+     visualization;
+   * and social interaction in multi-user information visualization systems.
+
+We are particularly interested in reports of work in progress,
+implementation techniques, and practical experience with visualization of
+information collections of all sizes. A significant portion of the workshop
+agenda will be devoted to discussion of pending research questions, and
+directions for future work in this area.
+
+Prospective participants are invited (but not required) to submit position
+papers. The suggested maximum length is four pages. The position papers will
+be reviewed by the organizing committee, and accepted papers will appear in
+the workshop proceedings. The accepted papers will be selected for informal
+presentation at the workshop. Accepted papers that were submitted
+electronically will be available via WWW by early November.
+
+Final Proceedings will be published by ACM Press after the workshop. Watch
+this space for further information about preparation of camera-ready copy
+for accepted papers.
+
+Mail papers in either ASCII or HTML to ebert@cs.umbc.edu by September 15,
+1999. We prefer e-mail submissions, but authors who lack e-mail access may
+send papers to Dr. David Ebert, Department of Computer Science and
+Electrical Engineering, University of Maryland Baltimore County, Baltimore,
+MD 21250 USA. Submissions should include the title, author(s), author's
+affiliation, e-mail address, fax number and postal address. In case of
+multiple authors, please indicate which author is responsible for
+correspondence.
+
+For more information on the CIKM'99 conference, please see the CIKM'99 Web
+page: http://www.cs.umbc.edu/conferences/cikm/npiv/npiv99cfp.html
+
+                Important Dates
+
+ Paper submission deadline  September 15, 1999
+ Notification of acceptance October 13, 1999
+ Workshop date              November 5-6, 1999

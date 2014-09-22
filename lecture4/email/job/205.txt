@@ -1,0 +1,73 @@
+
+
+From spm-request@mailbase.ac.uk Wed Oct 20 07:27:53 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id HAA01490
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 20 Oct 1999 07:27:52 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id GAA20550;
+	Wed, 20 Oct 1999 06:27:42 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id GAA26429;
+        Wed, 20 Oct 1999 06:25:18 +0100 (BST)
+Received: from ns.klab.caltech.edu (qmailr@ns.klab.caltech.edu [131.215.4.133]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id GAA26423;
+        Wed, 20 Oct 1999 06:25:14 +0100 (BST)
+Received: (qmail 3781 invoked by uid 1094); 20 Oct 1999 05:25:15 -0000
+Date: Tue, 19 Oct 1999 22:25:14 -0700 (PDT)
+Reply-To: Geraint Rees <geraint@klab.caltech.edu>
+Message-ID: <Pine.SUN.3.96.991019222303.3704C-100000@goethe.klab.caltech.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: Caltech postdoc position available
+From: Geraint Rees <geraint@klab.caltech.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+NEURAL CORRELATES OF ASSOCIATIVE CONDITIONING IN HUMANS AND RODENTS
+
+Profs.  David Anderson and  Christof Koch at the California Institute
+of   Technology  in   Southern   California  are   looking  for   two
+post-doctoral fellows  for a period up  to three years to  work on the
+neural basis  of classical  associative conditioning in  humans (using
+behavioral  measures and  functional  MRI brain  imaging) and  rodents
+(using similar behavioral  paradigms, coupled with pharmacological and
+molecular  lesioning  techniques).   One  fellow, based  in  the  Koch
+laboratory,  should  have a  background  in  human  sensory or  memory
+psychophysics,  or fMRI  studies.  The  other, based  in  the Anderson
+laboratory,   should   have   a   background  in   rodent   behavioral
+neuroscience,  preferably with  some experience  in neuropharmacology,
+anatomy or lesioning studies.
+
+The start  time is negotiable,  but can be immediately.   Salary level
+will depend upon the applicant's  experience, but will be no less than
+$26,000 per year.  The California  Institute of Technology is an equal
+opportunity employer.
+
+To apply,  please send a vita  containing a brief  summary of research
+experience.  Please include the names of at least two references.
+
+==================================================================
+Dr. Christof Koch
+Professor
+California Institute of Technology
+
+Division of Biology, 139-74
+Caltech
+Pasadena, CA 91125
+USA
+
+FAX: 	(626) 796-8876
+email:	koch@klab.caltech.edu
+Web:	http://www.klab.caltech.edu
+==================================================================
+
+
+

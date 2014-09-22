@@ -1,0 +1,378 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May  5 13:50:19 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA11286;
+	Wed, 5 May 1999 13:50:10 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29995;
+          5 May 99 2:14 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29993;
+          5 May 99 2:09 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23842;
+          5 May 99 2:08 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29740; 3 May 99 14:07 EDT
+Received: from dudley.holycross.edu by CS.CMU.EDU id aa08771;
+          3 May 99 14:07:16 EDT
+Received: from HCDOMAIN-Message_Server by dudley.holycross.edu
+	with Novell_GroupWise; Mon, 03 May 1999 14:05:42 -0400
+Message-Id: <s72dad36.022@dudley.holycross.edu>
+X-Mailer: Novell GroupWise 5.5
+Date: Mon, 03 May 1999 14:05:32 -0400
+From: Karsten Stueber <KSTUEBER@holycross.edu>
+To: connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: SPP program, housing and conference registration
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id NAA11286
+Status: RO
+X-Status: 
+
+This e-mail contains information about the preliminary program, on-campus
+housing, and conference registration. It also contains a Conference
+Pre-registration form and an On- Campus Housing reservation form. On-
+Campus Housing is limited. You are therefore advised to reserve a room
+ASAP. (Latest by May 24, 1999). Please note also that the On-Campus 
+Reservation and Conference Registration have to be sent to different
+addresses. For information about the finalized program and further travel
+information please check the SPP conference web page at http://www.hfac.uh.edu/cogsci/spp/wwwanlmt.htm
+
+
+PRELIMINARY PROGRAM OF
+THE 25th ANNIVERSARY MEETING OF
+THE SOCIETY FOR PHILOSOPHY AND PSYCHOLOGY
+(For the exact program, please check the SPP
+website in the first week of May)
+
+STANFORD UNIVERSITY
+JUNE 19-22, 1999
+
+The first panel will be on Saturday, June 19, 1999 at 3:30pm. The last
+session will be on Tuesday Morning, June 22, 1999.
+
+SYMPOSIA:
+
+Symposium I: Theory of Mind: Infants and Primates
+	Confirmed speakers:
+		Alison Gopnik (Psychology, UC Berkeley)
+		Daniel Povinelli (New Iberia Research Center, USL)
+
+Symposium II: Frontiers in Cognitive Neuroscience
+	 Confirmed speakers:
+		Gregory McCarthy (Brain Imaging & Analysis Center, Duke)
+		Lynn Robertson (Martinez VA & UC Berkeley)
+
+Symposium III: "Then and Now in Philosophy and Psychology"
+	  Confirmed speakers:
+		Hilary Putnam (Philosophy, Harvard)
+		Roger Shepard (Psychology, Stanford)
+
+Symposium IV: Past, Present, and Future of SPP (Special Panel Discussion)
+	Panelists:
+		Patrick Suppes (Philosophy, Stanford)
+		Daniel Dennett (Philosophy, Tufts)
+		Stephen Stich  (Philosophy, Rutgers)
+		Kathleen Akins (Philosophy, Simon Fraser)
+		Stevan Harnad  (Cognitive Science, Southampton)
+
+INVITED SPEAKERS:
+
+Session I: Mechanism of Pain
+	Allan Basbaum (Neuroscience, UCSF)
+
+[Other invited and symposium speakers unlisted due to pending confirmation]
+
+CONTRIBUTED SESSIONS
+
+A. Belief and Explanation
+	Carol Slater (Alma College) No 'There' There: Ruth Millikan,
+	Lloyd Morgan, and the Case of the Missing Indexicals"
+	Kristen Andrews and Peter Verbeek (University of Minnesota)
+Prediction,
+	Explanation, and Folk Psychology
+
+B. Belief and Thought
+	Eric Schwitzgebel (University of California, Riverside)
+	In-Between Believing
+	Lawrence A. Beyer (Stanford University) Do We Believe Only
+	What We Take to Be True?
+
+C. Mind and Brain
+	William Bechtel (Washington University, St. Louis) and Robert
+	N. McCauley (Emory University) Heuristic Identity Theory (or Back
+to
+	the Future): The Mind-Body Problem Against the Background of
+Research
+	Strategies in Cognitive Neuroscience"
+
+	Max Velmans (University of London) How to Make Sense of the
+	Causal Interactions Between Consciousness and the Brain
+
+	Bruce Mangan (University of California, Berkeley) The Fallacy
+	of Functional Exclusion
+
+D. Functions of the Senses
+	Brian Keeley (Washington University, St. Louis / University of
+Northern
+	Iowa) Making Sense of Modalities"
+
+	Alva Noe (University of California, Santa Cruz) What Change
+Blindness
+	Really Teaches Us About Vision
+
+	Bernard Baars (The Wright Institute) Criteria for
+	Consciousness in the Brain: Methodological Implications of Recent
+	Developments in Visual Neuroscience"
+
+E. Cognition
+	Jesse Prinz (Washington University, St. Louis) Mad Dogs and
+	Englishmen: Concept Nativism Reconsidered
+
+	Muhammad Ali Khalidi (American University) Two Models of Innateness
+
+	James Blackmon, David Byrd, Robert Cummins, Pierre Poirier,
+	Martin Roth (University of California, Davis) Systematicity and the
+	Cognition of Structural Domains
+
+F. Representation and Pain
+	Stephanie Beardman (Rutgers University) The Choice Between Actual
+and
+	Remembered Pain
+
+	Murat Aydede (University of Chicago) Pain Qualia and
+	Representationalism
+
+	William Robinson (Iowa State) Representationalism and Epiphenomenalism
+
+
+
+POSTER PRESENTATIONS
+
+Tim Bayne (University of Arizona)
+H. Looren de Jong (Vrije Universiteit, Amsterdam)
+Donald Dryden (Duke University)
+Sanford Goldberg (Grinell College)
+Daniel Haybron (Rutgers University)
+David Hunter (Buffalo State University)
+Ariel Kernberg (University College, London)
+Stan Klein (UC-Berkeley)
+Uriah Kriegel (Brown University)
+John Kulvicki (University of Chicago)
+Justin Leiber (University of Houston)
+Ron Mallon (Rutgers University)
+Shaun Maxwell (Queens University, Canada)
+Lawrence Roberts (SUNY Binghamton)
+Teed Rockwell
+Peter Ross (Pomona College)
+James Taylor (Bowling Green State University)
+Charles Twardy (Indiana University)
+Ruediger Vaas (University of Stuttgart & University of Hohenheim)
+Adam Vinueza (University of Colorado)
+Jonathan Weinberg (Rutgers University)
+Josh Weisberg (City University of New York)
+Tadeusz Zawidzki (Washington University, St. Louis)
+Jing Zhu (University of Waterloo, Canada)
+
+
+	Conference Pre-Registration Form
+
+Mail completed form with check or money order made payable to Society for
+Philosophy and Psychology, ASAP (It has to be received no later than June
+8, 1999) to:Karsten Stueber;Secretary-Treasurer; SPP; Department of
+Philosophy; College of the Holy Cross; PO Box 137A; Worcester, MA 01610
+
+Name                                                                      
+           
+
+Address                                                                   
+          
+
+	                                                                  
+            
+
+	                                                                  
+             
+
+Daytime Phone (   )                   Fax(   )                    
+
+e-mail                                                                    
+         
+
+Institutional Affiliation                                                 
+  
+
+                                            
+
+Conference Registration Fee
+
+Member:$40
+
+Nonmember:$60
+
+Student: $15
+
+Banquet and Presidential Address
+($48 per person, including taxes and tips)
+
+	$48 per person x       #of persons						$        
+
+August 1998-July 1999 SPP Membership Dues
+(New Members pay member conference registration fees)
+
+ Regular Member: $25
+
+ Student: $5
+
+
+Contributions to William James Graduate Student Award
+$        
+
+
+Total	$        
+
+
+
+
+On Campus Accommodations:
+
+Rates:
+51.00 per night for single
+39.00 per person per night for shared
+These rates include daily continental  breakfast and weekly maid service
+(beds are made upon arrival but only common areas are cleaned each day). 
+Linen and Towels will be provided but you may wish to bring extra towels
+since we will not have daily maid service.
+
+Reservations:
+
+All Rooms must be paid in advance. Only three-day packages may be
+reserved.  That is, each on campus resident must  pay, in advance,  for
+(at least) three nights, regardless of intended check-in/check-out
+date.
+
+	a single room on campus 				 153.00
+In order to reserve 					please send a
+check for
+	a double room on campus				 117/person
+
+In order to be assured a room,  Your check MUST  be received not later
+than May 24, 1999
+
+Please fill out the On Campus Housing registration form and make sure to
+indicate your Name, Address, phone number, gender, and roommate preference,
+if any. 
+
+Roommate Preferences: If you have a preferred roommate,  please indicate
+the person with whom you intend to room. If you wish to be assigned a
+roommate, please indicate your gender.
+
+Check-in Time: 1-3 at American Studies House in the governor's Corner
+Complex.
+
+Late Check-in:  Late arrivals will check in at Summer Conference Office at
+the Elliot Program Center, near the governor's Corner Complex.
+
+Check-out.  By noon, Tuesday, June 22.
+
+Additional Nights:  Additional may be arranged with Stanford Summer
+Conference Services at the rate of 43.75/night for single 32.00/night for
+doubles (no continental breakfast included). Those requesting additional
+nights will pay the Summer Conferences Services directly for additional
+nights.  If you wish additional nights, indicate so in writing and we will
+pass word onto them.
+
+Key Deposit: Each on campus resident will be required to leave a refundable
+$70.00 key deposit.
+
+Special Services:  Participants or attendees needing special arrangements
+to accommodate a disability may request accommodations by contacting
+Kenneth Taylor.  Request should by made by May 15th, 1999.  phone
+650-723-2547.  e-mail taylor@turing.stanford.edu, fax: 650-723-0985
+
+Phone Services:  Pay phones are available in each dorm. Individual rooms
+do not have phones, however.
+
+On Campus Parking:  Daily parking permits for $2.00/day may be purchased
+at check-in and at conference registration.
+
+
+
+On Campus Housing Reservation Form
+
+Mail completed form with check or money order made payable to Society for
+Philosophy and Psychology, ASAP (It has to be received latest by May 24,
+1999) to:
+ Kenneth Taylor
+Department of Philosophy
+Stanford University
+Stanford, CA 94022.
+
+
+
+Name  (Mr. or Ms.)                                                        
+                       
+
+
+Address                                                                   
+          
+
+	                                                                  
+            
+
+	                                                                  
+             
+
+Daytime Phone (   )                          Fax(   )                   
+
+
+e-mail                                                                    
+         
+
+
+Institutional Affiliation                                                 
+  
+
+
+Name of Preferred Roommate:                                      
+
+
+Reservation for a single room on campus (three days)
+$153.00/per person
+
+Reservation  for a double room on campus(three days)			
+$117/person
+
+Total: $              
+
+Alternate Accommodations:
+
+For those preserving to stay off campus,  a small number of rooms have
+been blocked off at the Cardinal Hotel in downtown Palo Alto, about a mile
+from the center of Campus, but close to many fine restaurants, bars, and
+shopping.  To reserve a room at the Cardinal call:
+650-323-5101.  Rates: 107+ tax for both double and single rooms.
+
+The Cardinal Hotel is located at
+235 Hamilton Ave
+Palo Alto, California.
+
+Be sure to Mention the Society for Philosophy and Psychology to receive
+the Stanford Rate.
+
+This block of rooms will be released as of May 19th, 1999 and will be
+available only on a first-come, first-serve basis thereafter.
+
+For additional hotels and other visitor information consult the following
+web page:
+
+http://www.stanford.edu/home/visitors/index.html
+
+Program Co-Chair:	Guven Guzeldere guven@aas.duke.edu.
+Program Co-Chair:	Steven Harnad harnad@coglit.soton.ac.uk
+President (1999): 	Brian Cantwell Smith smithbc@indiana.edu
+Secretary-Treasurer:	Karsten Stueber kstueber@holycross.edu
+Local Arrangements:	Kenneth Taylor taylor@csli.stanford.edu
+
+

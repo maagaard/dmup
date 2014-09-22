@@ -1,0 +1,109 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Thu Mar 26 10:51:32 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA07267;
+	Thu, 26 Mar 1998 10:51:25 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa00589;
+          25 Mar 98 18:45:12 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa00585;
+          25 Mar 98 18:35:50 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19083;
+          25 Mar 98 18:35 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19337; 25 Mar 98 18:31 EST
+Received: from karon.his.se by RI.CMU.EDU id aa08248; 25 Mar 98 18:31:39 EST
+Received: from ida.his.se (mhost.ida.his.se) by karon.his.se (5.0/his.se-970409)
+	id AA20524; Thu, 26 Mar 1998 00:42:47 +0100
+Received: from balder.ida.his.se by ida.his.se (5.x/SMI-SVR4-ida-2)
+	id AA20855; Thu, 26 Mar 1998 00:31:09 +0100
+Received: from ida.his.se by balder.ida.his.se (SMI-8.6/SMI-SVR4-ida-2)
+	id AAA12964; Thu, 26 Mar 1998 00:31:03 +0100
+Sender: leila@ida.his.se
+Message-Id: <351993B6.DDE4DF@ida.his.se>
+Date: Thu, 26 Mar 1998 00:31:03 +0100
+From: Leila Khammari <leila@ida.his.se>
+Organization: Hoegskolan i Skoevde
+X-Mailer: Mozilla 4.04 [en] (X11; I; SunOS 5.5.1 sun4u)
+Mime-Version: 1.0
+To: Leila <leila@ida.his.se>
+Subject: ICANN 98 - EXTENDED DEADLINE
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+_________________________________________________________________
+
+ICANN 98 - DEADLINE EXTENDED to Monday, March 30
+
+Due to numerous requests for an extension of the ICANN 98 
+paper submission deadline, all papers received by
+
+        Monday, March 30, 11.00 p.m. CET
+
+will be included in the review process.
+
+_________________________________________________________________
+
+8th INTERNATIONAL CONFERENCE ON ARTIFICIAL NEURAL NETWORKS
+ 
+September 1-4, 1998, Skoevde, Sweden
+
+For details see: http://www.his.se/ida/icann98/
+
+_________________________________________________________________
+
+SUBMISSION
+
+Submissions are sought in all areas of artficial neural network
+research, in particular
+
+        - Theory
+        - Applications
+        - Computational Neuroscience & Brain Theory
+        - Connectionist Cognitive Science
+        - Autonomous Robotics & Adaptive Behaviour
+        - Hardware & Implementations
+
+Papers of maximum 6 pages can be submitted by March 30, 1998,
+
+* either ELECTRONICALLY via the web-service 
+* or via EXPRESS/COURIER MAIL to the conference secretariat.
+ 
+Templates for LaTeX, Word and Framemaker are available for down-
+load. For details please see:
+
+        http://www.his.se/ida/icann98/submission
+
+or contact the conference secretariat (see below).
+
+All papers accepted for oral or poster presentation will appear 
+in the conference proceedings published by Springer-Verlag.
+
+_________________________________________________________________
+
+IMPORTANT DATES
+
+March 30, 1998          - NEW DEADLINE, papers must be received
+May 6, 1998             - notification of acceptance
+May 28, 1998            - camera ready papers must be received
+September 1, 1998       - ICANN 98 tutorials
+September 2-4, 1998     - ICANN 98 takes place
+
+_________________________________________________________________
+
+CONFERENCE SECRETARIAT
+
+ICANN 98
+Hoegskolan Skoevde
+Hoegskolevaegen 1
+S-541 28 Skoevde
+SWEDEN
+
+Email:          icann98@ida.his.se
+
+Telefax:        +46 (0)500-46 47 25
+
+WWW:            http://www.his.se/ida/icann98/
+
+_________________________________________________________________

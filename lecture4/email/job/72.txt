@@ -1,0 +1,69 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Feb 17 17:39:20 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id RAA09745;
+	Wed, 17 Feb 1999 17:39:12 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa03249;
+          17 Feb 99 6:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa03247;
+          17 Feb 99 5:56 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27733;
+          17 Feb 99 5:56 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa04063; 17 Feb 99 5:26 EST
+Received: from cedar.dcs.shef.ac.uk by EDRC.CMU.EDU id aa16989;
+          17 Feb 99 5:25:54 EST
+Received: from bayes.dcs.shef.ac.uk (bayes.dcs.shef.ac.uk [143.167.8.235])
+	by cedar.dcs.shef.ac.uk (8.9.1b+Sun/8.9.1) with ESMTP id KAA17315
+	for <connectionists@cs.cmu.edu>; Wed, 17 Feb 1999 10:24:26 GMT
+Received: (from niranjan@localhost)
+	by bayes.dcs.shef.ac.uk (8.9.1b+Sun/8.9.1) id KAA08190
+	for connectionists@cs.cmu.edu; Wed, 17 Feb 1999 10:24:46 GMT
+Date: Wed, 17 Feb 1999 10:24:46 GMT
+From: Mahesan Niranjan <m.niranjan@dcs.shef.ac.uk>
+Message-Id: <199902171024.KAA08190@bayes.dcs.shef.ac.uk>
+To: one postdoc and one PhD studentship available: "Univ. of Sheffield"@dcs.shef.ac.uk;
+Subject: JobJobJob
+Status: RO
+X-Status: 
+
+
++++++Job++++++++Job+++++++++Job++++++++Job++++++++++Job++++++++Job++++++++
+
+Department of Computer Science,
+The University of Sheffield, 
+England.
+
+
+    Post-Doctoral Research Assistant and PhD Studentship in 
+            Neural Networks and Machine Learning.
+
+Applications are invited for a post-doctoral research assistant and a 
+PhD student to work on an EPSRC funded project: ``Critical Evaluation 
+of Bayesian Methods in Neural Networks''. Both positions are for three 
+years and available for immediate start.
+
+The age-linked salary for the RA is in the range 15,735 - 20,107 pounds 
+per annum; standard EPSRC rules apply to the studentship.
+
+A longer description of the project can be found
+      http://www.dcs.shef.ac.uk/~niranjan/jobs/rafp.html
+
+To apply, an application package should be obtained from:
+
+Personnel Department
+The University of Sheffield 
+Firth Court,
+Sheffield
+S10 2TN 
+
+http://www.shef.ac.uk/jobs; Phone: 44 144 222 1631
+
+Closing date 01 March 1999 
+
+For informal inquiries and any specific questions on the research, 
+contact
+
+Email: M.Niranjan@dcs.shef.ac.uk; Phone: 44 114 222 1805
+
++++++Job++++++++Job+++++++++Job++++++++Job++++++++++Job++++++++Job++++++++

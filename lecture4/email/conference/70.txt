@@ -1,0 +1,172 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Sun Mar 22 20:56:46 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id UAA21234;
+	Sun, 22 Mar 1998 20:56:38 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ab20677;
+          22 Mar 98 1:31:51 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id ab20674;
+          22 Mar 98 1:07:29 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13686;
+          22 Mar 98 1:07 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab20761; 21 Mar 98 14:43 EST
+Received: from rumor.research.att.com by CS.CMU.EDU id aa17522;
+          21 Mar 98 14:41:25 EST
+Received: from research.att.com ([135.207.30.100]) by rumor; Sat Mar 21 14:36:23 EST 1998
+Received: from amontillado.research.att.com ([135.207.24.32]) by research-clone; Sat Mar 21 14:36:25 EST 1998
+Received: from radish.research.att.com (radish.research.att.com [135.207.24.16])
+	by amontillado.research.att.com (8.8.7/8.8.7) with ESMTP id OAA03372;
+	Sat, 21 Mar 1998 14:36:23 -0500 (EST)
+From: "Michael J. Kearns" <mkearns@research.att.com>
+Received: (from mkearns@localhost) by radish.research.att.com (8.7.5/8.7) id OAA22406; Sat, 21 Mar 1998 14:36:14 -0500 (EST)
+Date: Sat, 21 Mar 1998 14:36:14 -0500 (EST)
+Message-Id: <199803211936.OAA22406@radish.research.att.com>
+To: Connectionists@CS.cmu.edu
+Subject: NIPS*98 Call for Papers
+Cc: mkearns@research.att.com
+Status: RO
+X-Status: 
+
+
+			CALL FOR PAPERS -- NIPS*98
+
+	 Neural Information Processing Systems -- Natural and Synthetic 
+		  Monday November 30 - Saturday December 5, 1998
+			      Denver, Colorado
+
+This is the twelfth meeting of an interdisciplinary conference which brings
+together cognitive scientists, computer scientists, engineers, neuroscientists,
+physicists, and mathematicians interested in all aspects of neural processing
+and computation.  The conference will include invited talks and oral and
+poster presentations of refereed papers.  The conference is single track
+and is highly selective.  Preceding the main session, there will be one day
+of tutorial presentations (Nov. 30), and following it there will be two days 
+of focused workshops on topical issues at a nearby ski area (Dec. 4-5). Major
+categories for paper submission, with example subcategories (by no means
+exhaustive), are as follows:
+
+Algorithms and Architectures: supervised and unsupervised learning algorithms,
+model selection algorithms, active learning algorithms, feedforward and 
+recurrent network architectures, localized basis functions, mixture models, 
+belief networks, graphical models, Gaussian processes, factor analysis, 
+topographic maps, combinatorial optimization.
+
+Applications: handwriting recognition, DNA and protein sequence analysis,
+expert systems, fault diagnosis, medical diagnosis, analysis of medical 
+images, data analysis, database mining, network traffic, music processing, 
+time-series prediction, financial analysis.
+
+Artificial Intelligence: inductive reasoning, problem solving and planning,
+natural language, hybrid symbolic-subsymbolic systems.
+
+Cognitive Science: perception and psychophysics, neuropsychology, cognitive 
+neuroscience, development, conditioning, human learning and memory, attention, 
+language. 
+
+Implementation: analog and digital VLSI, optical neurocomputing systems,
+novel neurodevices, simulation tools.
+
+Neuroscience: neural encoding, spiking neurons, synchronicity, sensory 
+processing, systems neurophysiology, neuronal development, synaptic 
+plasticity, neuromodulation, dendritic computation, channel dynamics. 
+
+Reinforcement Learning and Control: exploration, planning, navigation, 
+Q-learning, TD-learning, dynamic programming, robotic motor control, 
+process control, Markov decision processes.
+
+Speech and Signal Processing: speech recognition, speech coding, speech
+synthesis, auditory scene analysis, source separation, hidden Markov 
+models, models of human speech perception.
+
+Theory: computational learning theory, statistical physics of learning,
+information theory, prediction and generalization, regularization, 
+Boltzmann machines, Helmholtz machines, decision trees, support vector 
+machines, online learning, dynamics of learning algorithms, approximation 
+and estimation theory, learning of dynamical systems, model selection, 
+complexity theory.
+
+Visual Processing: image processing, image coding, object recognition, 
+visual psychophysics, stereopsis, motion detection and tracking.
+
+REVIEW CRITERIA: All submitted papers will be thoroughly refereed on the
+basis of technical quality, significance, and clarity.  Novelty of the work
+is also a strong consideration in paper selection, but to encourage
+interdisciplinary contributions, we will consider work which has been
+submitted or presented in part elsewhere, if it is unlikely to have been seen
+by the NIPS audience.  Authors should not be dissuaded from submitting recent
+work, as there will be an opportunity after the meeting to revise accepted
+manuscripts before submitting final camera-ready copy.
+
+PAPER FORMAT: Submitted papers may be up to seven pages in length, including
+figures and references, using a font no smaller than 10 point. Text is to 
+be confined within a 8.25in by 5in rectangle. Submissions failing to follow 
+these guidelines will not be considered. Authors are strongly encouraged to 
+use the NIPS LaTeX style files obtainable by anonymous FTP at the site given 
+below.  Papers must indicate (1) physical and e-mail addresses of all authors; 
+(2) one of the nine major categories listed above, and a subcategory if desired;
+(3) if the work, or any substantial part thereof, has been submitted to or has 
+appeared in other scientific conferences; (4) the authors' preference, if any, 
+for oral or poster presentation (this preference will play no role in paper 
+acceptance); and (5) author to whom correspondence should be addressed.
+
+SUBMISSION INSTRUCTIONS: Send eight copies of submitted papers to the address
+below; electronic or FAX submission is not acceptable.  Include one
+additional copy of the abstract only, to be used for preparation of the
+abstracts booklet distributed at the meeting.  SUBMISSIONS MUST BE RECEIVED
+BY MAY 22, 1998.  From within the U.S., submissions will be accepted if mailed
+first class and postmarked by May 19, 1998.
+
+Mail submissions to:
+
+   Sara A. Solla 
+   NIPS*98 Program Chair
+   Department of Physiology 
+   Ward Building 5-003, MC211
+   Northwestern University Medical School 
+   303 E. Chicago Avenue
+   Chicago, IL 60611-3008, USA 
+
+Mail general inquiries and requests for registration material to:
+
+   NIPS Foundation
+   Computational Neurobiology Laboratory
+   Salk Institute for Biological Studies
+   10010 North Torrey Pines Road
+   La Jolla, CA 92037
+   
+   FAX: (619)587-0417
+   E-mail: nipsinfo@salk.edu
+
+Copies of the LaTeX style files for NIPS are available via anonymous ftp at
+
+   ftp.cs.cmu.edu (128.2.206.173) in /afs/cs/Web/Groups/NIPS/formatting
+
+The style files and other conference information may also be retrieved via
+World Wide Web at
+
+   http://www.cs.cmu.edu/Web/Groups/NIPS
+
+NIPS*98 Organizing Committee: General Chair, Michael Kearns, AT&T Labs
+Research; Program Chair, Sara Solla, Northwestern University; Publications
+Chair, David Cohn, Harlequin; Tutorial Chair, Klaus Mueller, GMD First;
+Workshops Co-Chairs, Richard Zemel, University of Arizona, and Sue
+Becker, McMaster University; Publicity Chair, Jonathan Baxter, Australian
+National University; Treasurer, Bartlett Mel, University of Southern
+California; Web Master, Doug Baker, Carnegie Mellon University; Government
+Liaison, Gary Blasdel, Harvard Medical School; Contracts, Steve Hanson,
+Rutgers University, Scott Kirkpatrick, IBM, Gerry Tesauro, IBM.
+
+NIPS*98 Program Committee: Andrew Barto, University of Massachusetts; 
+Joachim Buhmann, University of Bonn; Yoav Freund, AT&T Labs Research; 
+Lars Kai Hansen, Danish Technical University; Nathan Intrator, Brown 
+University; Robert Jacobs, University of Rochester; Esther Levin, AT&T 
+Labs Research; Alexandre Pouget, Georgetown University; David Saad, Aston 
+University; Lawrence Saul, AT&T Labs Research; Sara Solla, Northwestern 
+University (chair); Sebastian Thrun, Carnegie Mellon University; Yair 
+Weiss, MIT. 
+
+	    DEADLINE FOR RECEIPT OF SUBMISSIONS IS MAY 22, 1998
+
+			    - please post -
+

@@ -1,0 +1,189 @@
+
+
+From ekpark@cstp.umkc.edu Wed Oct 15 18:48:29 MET 1997
+Received: from helios.cstp.umkc.edu (helios.cstp.umkc.edu [134.193.2.39]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id SAA03023 for <fnielsen@eivind.imm.dtu.dk>; Wed, 15 Oct 1997 18:48:27 +0200 (METDST)
+Received: by helios.cstp.umkc.edu (8.7.5/SMI-SVR4)
+Date: Wed, 15 Oct 1997 11:39:23 -0500 (CDT)
+From: Eun Kyo Park <ekpark@cstp.umkc.edu>
+Message-Id: <199710151639.LAA28636@helios.cstp.umkc.edu>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Re: CIKM'97 Registration
+X-Sun-Charset: US-ASCII
+Status: RO
+X-Status: 
+
+
+Thanks for the reg. form by email and please send me the payment ASAP !!!!
+
+Thanks,
+
+Dr. EK Park
+Treasurer fro NPIVM97
+
+
+----- Begin Included Message -----
+
+>From fnielsen@eivind.imm.dtu.dk Wed Oct 15 11:02 CDT 1997
+Resent-Message-Id: <199710151602.LAA28613@helios.cstp.umkc.edu>
+Resent-Date: Wed, 15 Oct 1997 11:08:13 CDT
+Resent-From: <ekpark@CSTP.UMKC.EDU>
+Resent-To: <ekpark@cstp.umkc.edu>
+Date: Wed, 15 Oct 1997 18:10:44 +0200 (METDST)
+From: Finn Aarup Nielsen <fnielsen@eivind.imm.dtu.dk>
+To: ekpark@CSTP.UMKC.EDU
+CC: Finn Aarup Nielsen <fnielsen@eivind.imm.dtu.dk>
+Subject: CIKM'97 Registration
+MIME-Version: 1.0
+
+
+
+Registration for: Finn Aarup Nielsen
+
+I understood from David Ebert's email of october 10th (concerning NPIVM) 
+that I could do my registration via email: 
+
+> The deadline for advance registration for CIKM'97 is October 15.  
+> Registration can be done by mail, e-mail or fax with the details 
+> described in the registrations forms (see below). 
+
+... And I will arrange the payment tomorrow. Is this OK?
+
+Yours Sincerely Finn
+
+PS: registration below.
+__________________________________________________________________
+
+	Finn Aarup Nielsen, BScEE, MScE, Research Assistant
+	Section for Digital Signal Processing (DSP)
+	Department of Mathematical Modelling (IMM)
+	Technical University of Denmark (DTU)
+	Mail: Bygning 321, DTU, DK-2800 Lyngby
+	Site: Bygning 305.218, DTU, DK-2800 Lyngby
+	mailto:fnielsen@eivind.imm.dtu.dk
+	http://hendrix.imm.dtu.dk/staff/fnielsen/
+	Phone:(+45) 45 25 39 21, Fax: (+45) 45 87 25 99
+__________________________________________________________________
+
+
+
+
+paper number:	Workshop NPIVM'97 paper (no number)
+
+paper title:	Interactive Information Visualization in Neuroimaging
+
+Paper authors: 		Finn Aarup Nielsen and Lars Kai Hansen
+
+
+
+First Name:		Finn Aarup
+Last Name:		Nielsen
+
+Title (Dr/Mr/Ms/Prof.): Mr 
+Position:		Research Assistant
+Company/Univ.: 		Tech. Univ. of Denmark 
+Dept.:			IMM
+
+Address:		Building 321
+City:                   Lyngby
+State:                  _____
+Zip/Postal Code:	DK-2800
+Country:		Denmark
+Phone:			(+45) 45 25 39 21
+Fax:			(+45) 45 87 25 99
+E-mail:			fnielsen@eivind.imm.dtu.dk
+
+==============================================================================
+
+ADVANCE RATE(Registration form and payment received by Oct. 10, 1997):
+
+CIKM97 Reg. Fee:
+                   ACM
+               ____Member($350.00) _X_Non-Member($400.00)___Student($250.00) 
+
+
+Tutorial Reg. Fee:
+                   ACM
+(each half day)____Member($200.00) _X_Non-Member($250.00)___Student($125.00)
+
+(each one day) ____Member($300.00) ____Non-Member($350.00) ___Student($220.00)
+                                       ____
+        Circle your choice: T1  T2  T3 |T4|  T5  T6  T7  T8  T9 (see belowfor
+                                       ----                  tutorial titles)
+
+Workshop Reg. Fee:
+                   ACM
+         (each)____Member($325.00) _X_Non-Member($375.00)___Student($250.00)
+                                 ____________
+   Circle your choice: W1(GIS97) |W2(NPIVM97)| (see below for workshop titles)
+                                 ------------
+===============================================================================
+
+LATE/ONSITE RATE (Received AFTER October 6, 1997):
+
+CIKM97 Reg. Fee:        
+                   ACM
+               ____Member($400.00) ____Non-Member($450.00) ___Student($275.00)
+
+Tutorial Reg. Fee:       
+                   ACM
+(each half day)____Member($250.00) ____Non-Member($300.00) ___Student($150.00)
+
+(each one day) ____Member($350.00) ____Non-Member($400.00) ___Student($250.00)
+
+        Circle your choice: T1  T2  T3  T4  T5  T6  T7  T8  T9 (see below for
+                                                               tutorial titles)
+
+Workshop Reg. Fee:
+                   ACM
+         (each)____Member($375.00) ____Non-Member($425.00) ___Student($275.00)
+
+      Circle your choice: W1(GIS97)  W2(NPIVM97) (see below for workshop titles)
+
+-------------------------------------------------------------------------------
+
+Total Reg. Fees (from above)                $_1025__________
+Extra Page Charge:(US$150.00 per page)      $_______________
+Extra Conf. Reception Tickets: ($40/each)   $_______________
+Extra Conf. Banquet Tickets: ($50/each)     $_______________
+Extra copy of conf. proceedings: ($50/each) $_______________
+Extra Workshop Reception Tickets:($40/each) $_______________
+
+                     Total Fees Enclosed: US$_1025_________________ 
+                            ** Make check/money order payable to ACM/CIKM97 **
+
+Check method of payment: _X_Check/money order (payable to ACM/CIKM97)
+
+                         ___Company Purchase Order number:_____________________
+                            (we accept P.O only from companies in USA and 
+                             "ONSITE RATE" (see above) is applied to each P.O)
+
+Signature:___________________________ Date:_1997-10-15_________________
+
+
+ACM membership number (required for member rate):___________________________
+
+
+* Please let us know if you are or not planning to attend any of the following
+  events (please put "yes" or "no"): 
+ ________________________________________________________________________
+|                                        | WILL ATTEND | WILL NOT ATTEND |
+|________________________________________|_____________|_________________|
+|Nov. 10   Reception 6:30-8:00PM         |  yes        |                 |
+|----------------------------------------|-------------|-----------------|
+|Nov. 11   Banquet   7:00-10:00PM        |  yes        |                 |
+|----------------------------------------|-------------|-----------------|
+|Nov. 13   Workshop Reception (Workshop  |  yes        |                 |
+|          attendees only) 6:30-8:00PM   |             |                 |
+|________________________________________|_____________|_________________|
+
+
+
+
+
+
+
+
+
+
+----- End Included Message -----
+

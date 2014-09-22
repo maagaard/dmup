@@ -1,0 +1,37 @@
+
+
+From cdshaw@cs.uregina.ca Tue Nov  2 05:08:54 MET 1999
+Received: from MERCURY.CS.UREGINA.CA (TIMELORD.CS.UREGINA.CA [142.3.200.53])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id FAA13320
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 2 Nov 1999 05:08:53 +0100 (MET)
+Received: from GRENFELL.CS.UREGINA.CA (GRENFELL.CS.UREGINA.CA [142.3.223.50])
+	by MERCURY.CS.UREGINA.CA (8.9.3/8.9.3) with ESMTP id WAA05279
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 1 Nov 1999 22:10:28 -0600 (CST)
+From: Chris Shaw <cdshaw@cs.uregina.ca>
+Received: by GRENFELL.CS.UREGINA.CA (8.9.3/GRENFELL.CS.UREGINA.CA) id WAA00750; Mon, 1 Nov 1999 22:10:20 -0600 (CST)
+Date: Mon, 1 Nov 1999 22:10:20 -0600 (CST)
+Message-Id: <750.199911020410@GRENFELL.CS.UREGINA.CA>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: New Paradigms in Information Visualsation + Manipulation
+Status: RO
+X-Status: 
+
+Call for Papers
+
+Workshop on New Paradigms in Information Visualization and Manipulation
+
+November 6, 1999
+Kansas City, Missouri
+
+In Conjunction with the ACM Conference on Information and Knowledge
+Management (CIKM'99)
+
+See the program at:
+http://www.cs.umbc.edu/cikm/npiv/npiv99_schedule.html
+
+Chris Shaw      David Ebert
+Program Co-Chairs, NPIVM'99
+Chris Shaw               University of Regina
+cdshaw@cs.URegina.ca     Assistant Professor 
+Acting Director          Institute for Computational Discovery, UofR
+http://www.cs.uregina.ca/~cdshaw

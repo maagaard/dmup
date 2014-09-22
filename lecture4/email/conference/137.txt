@@ -1,0 +1,822 @@
+
+
+From owner-sig-wtk@sense8.com  Thu Aug 20 17:36:49 1998
+Received: from asbestos.eai.com (gate-asbestos.eai.com [12.10.41.146])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id RAA01460
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 20 Aug 1998 17:36:47 +0200 (METDST)
+Received: from goliath.eai.com (relay [10.1.1.81])
+	by asbestos.eai.com (8.8.7/8.8.7) with ESMTP id IAA29221;
+	Thu, 20 Aug 1998 08:32:11 -0700 (PDT)
+Received: from mail1.eai.com (majordom@mail1.eai.com [10.10.1.7])
+	by goliath.eai.com (8.8.7/8.8.7) with ESMTP id KAA11196;
+	Thu, 20 Aug 1998 10:36:02 -0500 (CDT)
+Really-From: owner-sig-wtk@sense8.com
+Received: (from majordom@localhost) by mail1.eai.com (8.6.12/8.6.9) id HAA18182 for sig-wtk-outgoing; Thu, 20 Aug 1998 07:31:56 -0700
+Message-ID: <35DC378D.4487EB71@cs.uni-sb.de>
+Date: Thu, 20 Aug 1998 16:49:49 +0200
+From: Stephan Diehl <diehl@cs.uni-sb.de>
+X-Mailer: Mozilla 3.04 (X11; U; SunOS 4.1.4 sun4m)
+MIME-Version: 1.0
+To: vrml99-pc@cs.uni-sb.de
+Subject: sig-wtk: CFP: VRML99 (4th Intl. Conf. on VRML & Web 3D Technologies)
+Content-Type: multipart/mixed; boundary="------------6201DD5652BFA1D762319AC4"
+Sender: owner-sig-wtk@sense8.com
+Precedence: bulk
+Reply-To: Stephan Diehl <diehl@cs.uni-sb.de>
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+
+--------------6201DD5652BFA1D762319AC4
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Announcement + Call For Papers                   
+ 
+           VRML99
+ 
+ the Fourth International Conference
+ on the Virtual Reality Modeling
+ Language and Web 3D Technologies
+
+
+     http://www.c-lab.de/vrml99 
+
+ Paderborn, Germany, 23-26 Feb 1999
+
+############################################################################
+    
+The annual VRML Symposium is the worldwide most important event for 
+the VRML and Web 3D community. Its purpose is to bring together
+researchers, developers, product vendors, content creators and other
+contributors interested in using or enhancing VRML and Web 3D
+technology.
+The first two days of the conference feature courses and workshops, 
+the second two days peer-reviewed papers and panels. 
+
+We encourage authors working with VRML, Java3D, Chromeffects,Metastreams 
+and related standards to inform the community about advances in these 
+areas by submitting their work or proposal to any of the events
+described below. 
+
+A variety of different social events will be organized during the
+evenings. After the successful VRML95 (San Diego), VRML97 (Monterey)
+and VRML98 (Monterey), VRML99 is being held for the first time in
+Europe.
+
+
+############################################################################
+
+Papers
+
+
+VRML99 will accept papers in the categories applications, research and
+systems. All content must be innovative and important to the advancement
+of VRML and Web 3D technologies. We will also accept a limited number of
+position papers. Position papers should present visionary and
+stimulating
+ideas about the evolution of 3D Web technologies and how these
+technologies
+should be used. Papers will be reviewed by the international program
+committee and should present unpublished original work. Papers can be
+submitted in electronic form or in traditional print form. Submissions
+should contain a title and abstract, as wells as the names, affiliations 
+and email addresses of the authors. Regular papers should be at most
+12 normally typeset pages including figures and references; position 
+papers should be at most 6 pages. 
+
+############################################################################
+
+Videos
+
+
+Video submissions complementing a technical paper will be given special
+treatment in the video proceedings. Videos are to be considered for the
+inclusion in a tape loop, which will run in the VRML99 lobby. For better
+projection quality analog Betacam SP is the preferred video format, but
+also VHS and SVHS (PAL and NTSC) are acceptable. 
+
+############################################################################
+
+Panels
+
+
+VRML99 panels will ideally address current burning issues in the VRML
+and
+the Web 3D community. A good panel will be of interest to the audience, 
+have informed, opinionated, controversial speakers and will be focused 
+enough to have a coherent discussion. A panel proposal should contain a
+title, motivation, as well as names, affiliations and email addresses of
+potential panelists. 
+
+############################################################################
+
+Workshops and Courses
+
+
+VRML99 is looking for a number of dynamic workshops and courses.
+Workshop
+participants will present work in progress or discuss current and future
+trends. Courses should teach established or promising techniques and
+uses of VRML and Web 3D technologies. A workshop proposal should contain
+a
+title, motivation and goals, a description of the format
+(mini-conference,
+Working Group meeting or other) and of the content (agenda or topic
+list), as well as names, affiliations and email addresses of the chair
+or
+co-chairs. A course proposal should contain a title, motivation, table
+of contents, format (half-day of full-day), as well as names,
+affiliations
+and email addresses of the tutor(s). In addition it should indicate
+whether the course was given before and what kind of additional
+material (e.g. lecture notes) will be provided for the audience. 
+
+############################################################################
+
+Web 3D RoundUP
+
+
+Top 3D tools and content developers demonstrate latest Web 3D technology
+and applications in a fast-paced, exciting format. Bleeding-edge 3D
+applications on the Web including VRML, Java3D and Chrome will face
+off Tuesday night at 6PM in a fast-paced competition in front of a
+merciless audience. Contributors from all over the globe will have one
+to four minutes to demonstrate their applications, many of which are
+still in alpha development, and win over the crowd. Attendees at the
+event are all armed with noisemakers (for approval and disapproval)
+and the entire front row is equipped with Nerf launchers at the ready 
+for demos that run overtime, taking the concept of demo or die to 
+the next level. In less than an hour and a half, over 3 dozen new
+ideas will be demonstrated to a technically demanding audience
+intolerant
+of marketing sizzle. This event played to a packed house at SIGGRAPH 96,
+97
+and 98, VRML 97 and 98, as the VRML DemoSIG. 
+
+############################################################################
+
+VRML Gallery and VRML.ART
+
+
+The VRML Gallery features all submitted applications. This year for the 
+first time we will have a focused section on art and we encourage
+artists and commercial designers who work in VRML to submit their
+material 
+in digital form for the VRML.ART.
+
+############################################################################
+
+Exhibition
+
+
+There will be an exhibition at VRML99. Similar conditions apply as on
+previous conferences. We are looking for new products, innovative tools 
+and other high-performance VRML and Web 3D technology. 
+
+############################################################################
+
+Deadlines
+
+
+ Paper
+                                                 12 Oct 1998
+ Notification of Acceptance
+                                                 2 Nov 1998
+ Video submission
+                                                 15 Jan 1999
+ Panel submission 
+                                                 14 Nov 1998
+ Workshop and Course submission
+                                                 23 Oct 1998
+ Web 3D RoundUP submission
+                                                 15 Jan 1999
+ Gallery and VRML.ART submission
+                                                 15 Jan 1999
+ Exhibition
+                                                 15 Jan 1999
+
+############################################################################
+
+Submission Procedure
+
+
+Papers, proposals for workshops, panels and courses, as well as 
+contributions for the VRML Gallery and VRML.ART should be send by
+electronic mail  to the program chair (diehl@cs.uni-sb.de).  
+Acceptable formats are plain text, HTML, PDF, and Postscript.
+
+For further publication and presentation information for
+SIGGRAPH-sponsored
+conferences see: http://www.siggraph.org/publications/prep/
+
+############################################################################
+
+Organizing and Program Committee
+
+
+ Chair:          Christian Bauer, Bauer & Freunde; Stuhlfelden, Austria
+
+ Program Chair:  Stephan Diehl, University of Saarland; Saarbruecken,
+Germany 
+
+ Program Co-Chair: Jean-Francis Balaguer, Artemedia; Lausanne,
+Switzerland 
+ 
+Program Committee
+                 Don Brutzman, Naval Postgraduate School; Monterey, USA 
+                 Paolo Carraro, Bell Laboratories; Holmdel, New Jersey,
+USA 
+                 Steve Carson, GSC Associates; Las Cruces, USA 
+                 Bruce Damer, Digital Space Corp.; USA 
+                 Jens Dauner, Fraunhofer IAO; Stuttgart, Germany
+                 Gitta Domik, University of Paderborn; Paderborn,
+Germany 
+                 Ludger Froebel, German Aerospace Estab.; Cologne,
+Germany 
+                 Christian Geiger, C-LAB; Paderborn, Germany 
+                 Yasuaki Honda, Sony Corp.; Tokyo, Japan 
+                 Joerg Kloss, VRASP Europe; Trier, Germany 
+                 Juergen Landauer, GFT Informationssysteme; Boeblingen,
+Germany 
+                 Richard Puk, Intelligraphics Incorporated; Carlsbad,
+USA 
+                 Sandy Ressler, NIST, USA 
+                 Theresa Marie Rhyne, Lockheed Martin, USA 
+                 Maureen Stone, Xerox PARC; Palo Alto, USA 
+                 Kornel Szabo, University of Zurich; Zurich, Switzerland 
+                 Val Watson, NASA Ames Research Center; Mountain View,
+USA 
+
+ Panels          Holger Krumm, HNI; Paderborn, Germany
+ Workshops       Frank Freykamp, C-LAB; Paderborn, Germany 
+ Courses         David Marsland, WebCubed 3D Education; San Jose, USA
+ Web 3D RoundUP  Timothy Childs; San Francisco, USA;
+ VRML Gallery    Eric Mason, Faceforward; USA 
+ VRML.ART        Karel Dudesek, Van Gogh TV; Seevetal/Germany 
+                 and Vienna/Austria
+ Exhibition      Marilyn Reed, Mecklermedia; USA (for the US)
+                 Gerd Schulz, C-LAB; Paderborn, Germany (for Europe)
+ Proceedings and CD-ROM Production
+                 Stephen N. Spencer, Ohio State University / Siggraph;
+USA 
+ Video Proceedings Production 
+                 Kornel Szabo, University of Zurich; Zurich, Switzerland 
+ Local Chair     Gerd Schulz, C-LAB; Paderborn, Germany
+ Evangelists     Marc Pesce, Blitcom; Santa Monica, USA
+                 Alexander Voegele, Berlin Economic Development Corp.;
+Berlin
+ Treasurer       Ben Delaney, CyberEdge Informations Services Inc.;
+                 Sausalito, USA
+ Sponsorships Chair
+                 Alex Lightman, Hollyworlds; Santa Monica, USA 
+ Press / Public Relations
+                 Tom Sperlich, Headware; Munich, Germany
+ Registration, Travel and Accommodations
+                 Andrea Westphal-Stuehrenberg, C-Lab; Paderborn, Germany
+ Audio/Video     Reinhardt Hardtke, HNF; Paderborn, Germany
+
+############################################################################
+
+The VRML event series is sponsored by ACM SIGGRAPH and ACM SIGCOMM,
+and is in cooperation with the VRML Consortium and the Gesellschaft 
+fuer Informatik.
+
+
+---------------------------------------------------------------
+Dr. Stephan Diehl           Tel.: ++49-681/302-3915
+EMAIL: diehl@cs.uni-sb.de   WWW: http://www.cs.uni-sb.de/~diehl    
+---------------------------------------------------------------
+              There is no place like $HOME
+---------------------------------------------------------------
+
+--------------6201DD5652BFA1D762319AC4
+Content-Type: text/html; charset=iso-8859-1; name="cfp-frame.html"
+Content-Disposition: inline; filename="cfp-frame.html"
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by uni-sb.de id RAA23542
+
+<BASE HREF=3D"/RW/users/diehl/vrml99/cfp-frame.html">
+
+<html>
+
+<head>
+<title>Call for Papers</title>
+<base href=3D"http://www.c-lab.de/vrml99/">
+</head>
+
+<body TEXT=3D"#FDAB17" LINK=3D"#FDAB17" VLINK=3D"#C0C0C0" bgcolor=3D"#000=
+000">
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td width=3D"100%"><font face=3D"Arial">Announcement + Call For Paper=
+s <br>
+    <strong><big><big><big>VRML99</big></big></big></strong><br>
+    the Fourth International Conference on the Virtual Reality Modeling L=
+anguage and Web 3D
+    Technologies<br>
+    Paderborn, Germany, 23-26 Feb 1999</font></td>
+    <td><p align=3D"right"><font face=3D"Arial"><a href=3D"http://www.c-l=
+ab.de/vrml99/index.html" target=3D"_top"><img src=3D"images/ani_vrml.gif"=
+ alt=3D"VRML99 Logo (63859 Byte)" border=3D"0" WIDTH=3D"141" HEIGHT=3D"87=
+"></a></font></td>
+  </tr>
+</table>
+</div><div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252">&nbsp;&nbsp; </td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">The annual VRML Symposium is the worldwide most i=
+mportant event for
+the VRML and Web 3D community. Its purpose is to bring together researche=
+rs, developers,
+product vendors, content creators and other contributors interested in us=
+ing or enhancing
+VRML and Web 3D technology. The first two days of the conference feature =
+courses and
+workshops, the second two days peer-reviewed papers and panels. </font></=
+p>
+
+<p><font face=3D"Arial">We encourage authors working with VRML, Java3D, C=
+hromeffects,
+Metastreams and related standards to inform the community about advances =
+in these areas by
+submitting their work or proposal to any of the events described below. <=
+/font></p>
+
+<p><font face=3D"Arial">A variety of different social events will be orga=
+nized during the
+evenings. After the successful VRML95 (San Diego), VRML97 (Monterey) and =
+VRML98
+(Monterey), VRML99 is being held for the first time in Europe.</font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Papers</strong><=
+/font></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">VRML99 will accept papers in the categories appli=
+cations, research
+and systems. All content must be innovative and important to the advancem=
+ent of VRML and
+Web 3D technologies. We will also accept a limited number of position pap=
+ers. Position
+papers should present visionary and stimulating ideas about the evolution=
+ of 3D Web
+technologies and how these technologies should be used. Papers will be re=
+viewed by the
+international program committee and should present unpublished original w=
+ork. Papers can
+be submitted in electronic form or in traditional print form. Submissions=
+ should contain a
+title and abstract, as wells as the names, affiliations and email address=
+es of the
+authors. Regular papers should be at most 12 normally typeset pages inclu=
+ding figures and
+references; position papers should be at most 6 pages. </font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Videos</strong><=
+/font></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">Video submissions complementing a technical paper=
+ will be given
+special treatment in the video proceedings. Videos are to be considered f=
+or the inclusion
+in a tape loop, which will run in the VRML99 lobby. For better projection=
+ quality analog
+Betacam SP is the preferred video format, but also VHS and SVHS (PAL and =
+NTSC) are
+acceptable. </font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Panels</strong><=
+/font></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">VRML99 panels will ideally address current burnin=
+g issues in the
+VRML and the Web 3D community. A good panel will be of interest to the au=
+dience, have
+informed, opinionated, controversial speakers and will be focused enough =
+to have a
+coherent discussion. A panel proposal should contain a title, motivation,=
+ as well as
+names, affiliations and email addresses of potential panelists. </font></=
+p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Workshops and Co=
+urses</strong></font></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">VRML99 is looking for a number of dynamic worksho=
+ps and courses.
+Workshop participants will present work in progress or discuss current an=
+d future trends.
+Courses should teach established or promising techniques and uses of VRML=
+ and Web 3D
+technologies. <br>
+A workshop proposal should contain a title, motivation and goals, a descr=
+iption of the
+format (mini-conference, Working Group meeting or other) and of the conte=
+nt (agenda or
+topic list), as well as names, affiliations and email addresses of the ch=
+air or co-chairs.
+A course proposal should contain a title, motivation, table of contents, =
+format
+(half-day of full-day), as well as names, affiliations and email addresse=
+s of the
+tutor(s). In addition it should indicate whether the course was given bef=
+ore and what
+kind of additional material (e.g. lecture notes) will be provided for the=
+ audience. </font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Web 3D RoundUP</=
+strong></font></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">
+Top 3D tools and content developers demonstrate latest Web 3D technology =
+and
+applications in a fast-paced, exciting format.
+
+Bleeding-edge 3D applications on the Web including VRML, Java3D and Chrom=
+e
+will face off Tuesday night at 6PM in a fast-paced competition in front o=
+f a
+merciless audience. Contributors from all over the globe will have one to=
+ four
+minutes to demonstrate their applications, many of which are still in alp=
+ha
+development, and win over the crowd. Attendees at the event are all armed=
+ with
+noisemakers (for approval and disapproval) and the entire front row is
+equipped
+with Nerf launchers at the ready for demos that run overtime, taking the
+concept of demo or die to the next level.  In less than an hour and a hal=
+f,
+over 3 dozen new ideas will be demonstrated to a technically demanding
+audience intolerant of marketing sizzle.=20
+This event played to a packed house at SIGGRAPH
+96, 97 and 98, VRML 97 and 98, as the VRML DemoSIG.=20
+</font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><strong><font face=3D"Arial">VRML Gallery and=
+ <a href=3D"vrmlart.htm">VRML.ART</a></font></strong></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">The VRML Gallery features all submitted applicati=
+ons. This year for
+the first time we will have a focused section on art and we encourage art=
+ists and
+commercial designers who work in VRML to submit their material in digital=
+ form for the <a href=3D"vrmlart.htm">VRML.ART</a>.</font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Exhibition</stro=
+ng></font></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">There will be an exhibition at VRML99. Similar co=
+nditions apply as
+on previous conferences. We are looking for new products, innovative tool=
+s and other
+high-performance VRML and Web 3D technology. </font></p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><font face=3D"Arial"><strong>Deadlines</stron=
+g></font></td>
+  </tr>
+</table>
+</div><div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td><font face=3D"Arial">Paper</font></td>
+    <td><p align=3D"right"><font face=3D"Arial">12 Oct 1998</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Notification of Acceptance</font></td>
+    <td align=3D"right"><font face=3D"Arial">2 Nov 1998</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Video submission</font></td>
+    <td align=3D"right"><font face=3D"Arial">15 Jan 1999</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Panel submission </font></td>
+    <td align=3D"right"><font face=3D"Arial">14 Nov 1998</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Workshop and Course submission</font></td>
+    <td align=3D"right"><font face=3D"Arial">23 Oct 1998</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Web 3D RoundUP submission</font></td>
+    <td align=3D"right"><font face=3D"Arial">15 Jan 1999</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Gallery and VRML.ART submission</font></td>
+    <td align=3D"right"><font face=3D"Arial">15 Jan 1999</font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial">Exhibition</font></td>
+    <td align=3D"right"><font face=3D"Arial">15 Jan 1999</font></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align=3D"right"></td>
+  </tr>
+</table>
+</div><div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><strong><font face=3D"Arial">Submission Proce=
+dure</font></strong></td>
+  </tr>
+</table>
+</div>
+
+<p><font face=3D"Arial">Papers, proposals for workshops, panels and cours=
+es, as well as
+contributions for the VRML Gallery and VRML.ART should be send by electro=
+nic mail&nbsp; to
+the program chair <a href=3D"mailto:(diehl@cs.uni-sb.de">(diehl@cs.uni-sb=
+.de</a>).&nbsp;
+Acceptable formats are plain text, HTML, PDF, and Postscript.<br>
+</font></p>
+
+<p><font face=3D"Arial">For further publication and presentation informat=
+ion for
+SIGGRAPH-sponsored conferences see: <a href=3D"http://www.siggraph.org/pu=
+blications/prep" target=3D"_blank">http://www.siggraph.org/publications/p=
+rep</a></font>/</p>
+<div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><strong><font face=3D"Arial">Organizing and P=
+rogram Committee</font></strong></td>
+  </tr>
+</table>
+</div><div align=3D"left">
+
+<table border=3D"0">
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Chair: <=
+/font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:chri=
+s@well.com">Christian
+    Bauer, Bauer &amp; Freunde; Stuhlfelden, Austria</a></font></small></=
+td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Program =
+Chair:</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:dieh=
+l@cs.uni-sb.de">Stephan
+    Diehl, University of Saarland; Saarbr=FCcken, Germany</a> </font></sm=
+all></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Program =
+Co-Chair(s)</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:bala=
+guer@artemedia.ch">Jean-Francis
+    Balaguer, Artemedia; Lausanne, Switzerland</a> </font></small></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Program =
+Committee</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial">Don Brutzman, Naval Po=
+stgraduate School;
+    Monterey, USA <br>
+    Paolo Carraro, Bell Laboratories; Holmdel, New Jersey, USA <br>
+    Steve Carson, GSC Associates; Las Cruces, USA <br>
+    Bruce Damer, Digital Space Corp.; USA <br>
+    Jens Dauner, Fraunhofer IAO; Stuttgart, Germany<br>
+    Gitta Domik, University of Paderborn; Paderborn, Germany <br>
+    Ludger Fr=F6bel, German Aerospace Estab.; Cologne, Germany <br>
+    Christian Geiger, C-LAB; Paderborn, Germany <br>
+    Yasuaki Honda, Sony Corp.; Tokyo, Japan <br>
+    J=F6rg Kloss, VRASP Europe; Trier, Germany <br>
+    J=FCrgen Landauer, GFT Informationssysteme; B=F6blingen, Germany <br>
+    Richard Puk, Intelligraphics Incorporated; Carlsbad, USA <br>
+    Sandy Ressler, NIST, USA <br>
+    Theresa Marie Rhyne, Lockheed Martin, USA <br>
+    Maureen Stone, Xerox PARC; Palo Alto, USA <br>
+    Kornel Szabo, University of Zurich; Zurich, Switzerland <br>
+    Val Watson, NASA Ames Research Center; Mountain View, USA </font></sm=
+all></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Panels</=
+font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:hok@=
+hni.uni-paderborn.de">Holger
+    Krumm, HNI; Paderborn, Germany</a></font></small></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Workshop=
+s</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:frey=
+kamp@c-lab.de">Frank
+    Freykamp, C-LAB; Paderborn, Germany </a></font></small></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Courses<=
+/font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:learn3d@WEBCUBED.COM"><small><fo=
+nt face=3D"Arial">David
+    Marsland, WebCubed 3D Education; San Jose, USA</font></small></a></td=
+>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Web 3D R=
+oundUP</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:vrml=
+99@curve.net">Timothy
+    Childs; San Francisco, USA;</a></font></small></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">VRML Gal=
+lery</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:jem@ece.uwaterloo.ca"><small><fo=
+nt face=3D"Arial">Eric
+    Mason, Faceforward; USA </font></small></a></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">VRML.ART=
+</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:kdudesek@compuserve.com"><small>=
+<font face=3D"Arial">Karel
+    Dudesek, Van Gogh TV; Seevetal/Germany and Vienna/Austria</font></sma=
+ll></a></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Exhibiti=
+on</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:mari=
+lyn@mecklermedia.com">Marilyn
+    Reed, Mecklermedia; USA (for the US)</a><br>
+    <a href=3D"mailto:gerd@c-lab.de">Gerd Schulz, C-LAB; Paderborn, Germa=
+ny (for Europe)</a></font></small></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Proceedi=
+ngs and CD-ROM Production</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:spencer@siggraph.org"><small><fo=
+nt face=3D"Arial">Stephen
+    N. Spencer, Ohio State University / Siggraph; USA </font></small></a>=
+</td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Video Pr=
+oceedings Production</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:szabo@ifi.unizh.ch"><small><font=
+ face=3D"Arial">Kornel
+    Szabo, University of Zurich; Zurich, Switzerland</font></small></a></=
+td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Local Ch=
+air </font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:gerd=
+@c-lab.de">Gerd Schulz,
+    C-LAB; Paderborn, Germany</a></font></small></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Evangeli=
+sts</font></small></td>
+    <td valign=3D"top"><font face=3D"Arial"><a href=3D"mailto:pesce@blitc=
+om.net"><small>Marc Pesce,
+    Blitcom; Santa Monica, USA</small></a><br>
+    <a href=3D"mailto:voegele@wf-berlin.de"><small>Alexander V=F6gele, Be=
+rlin Economic
+    Development Corp.; Berlin</small></a></font></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Treasure=
+r</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:ben@cyberedge.com"><small><font =
+face=3D"Arial">Ben Delaney,
+    CyberEdge Informations Services Inc.; Sausalito, USA</font></small></=
+a></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Sponsors=
+hips Chair</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:alex@hollyworlds.com"><small><fo=
+nt face=3D"Arial">Alex
+    Lightman, Hollyworlds; Santa Monica, USA </font></small></a></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Press / =
+Public Relations</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:102354.627@compuserve.com"><smal=
+l><font face=3D"Arial">Tom
+    Sperlich, Headware; Munich, Germany</font></small></a></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Registra=
+tion, Travel and
+    Accommodations</font></small></td>
+    <td valign=3D"top"><a href=3D"mailto:maxim@c-lab.de"><small><font fac=
+e=3D"Arial">Andrea
+    Westphal-St=FChrenberg, C-Lab; Paderborn, Germany</font></small></a><=
+/td>
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"><small><font face=3D"Arial">Audio/Vi=
+deo</font></small></td>
+    <td valign=3D"top"><small><font face=3D"Arial"><a href=3D"mailto:rhar=
+dtke@hnf.de">Reinhardt
+    Hardtke, HNF; Paderborn, Germany</a></font></small></td>
+
+  </tr>
+  <tr>
+    <td valign=3D"top" width=3D"160"></td>
+    <td valign=3D"top"></td>
+  </tr>
+</table>
+</div><div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#525252"><strong><font face=3D"Arial">The VRML event s=
+eries is sponsored by ACM
+    SIGGRAPH and ACM SIGCOMM, and is in cooperation with the VRML Consort=
+ium and the
+    Gesellschaft f=FCr Informatik. </font></strong></td>
+  </tr>
+</table>
+</div><div align=3D"left">
+
+<table border=3D"0" width=3D"100%">
+  <tr>
+    <td></td>
+    <td><p align=3D"right"><font color=3D"#F0A010" face=3D"Arial"><small>=
+<small><small>Local
+    organization by</small></small></small><br>
+    <a href=3D"http://www.c-lab.de" target=3D"_blank"><img src=3D"images/=
+clab_black125.gif" width=3D"63" height=3D"31" alt=3D"C-LAB Logo (3396 Byt=
+e)" border=3D"0" align=3D"bottom"></a></font></td>
+  </tr>
+  <tr>
+    <td><font face=3D"Arial"><small><small><a href=3D"mailto:gerd@c-lab.d=
+e">webmaster</a></small></small></font></td>
+    <td><p align=3D"right"><font color=3D"#F0A010" face=3D"Arial"><small>=
+<small><small>last update: <!--webbot bot=3D"Timestamp" S-Type=3D"EDITED"=
+ S-Format=3D"%d.%m.%y %H:%M" startspan -->18.08.98 16:32<!--webbot bot=3D=
+"Timestamp" endsppan i-checksum=3D"17139" --></small></small></small></fo=
+nt></td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
+
+--------------6201DD5652BFA1D762319AC4--

@@ -1,0 +1,51 @@
+
+
+From spm-request@mailbase.ac.uk Wed Mar 17 08:20:44 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id IAA16473
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 17 Mar 1999 08:20:43 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id HAA08926;
+	Wed, 17 Mar 1999 07:28:44 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id HAA29010;
+        Wed, 17 Mar 1999 07:28:10 GMT
+Received: from ns.klab.caltech.edu (qmailr@ns.klab.caltech.edu [131.215.4.133]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id HAA29004;
+        Wed, 17 Mar 1999 07:28:07 GMT
+Received: (qmail 5604 invoked by uid 1094); 17 Mar 1999 07:28:07 -0000
+Date: Tue, 16 Mar 1999 23:28:06 -0800 (PST)
+Reply-To: Geraint Rees <geraint@goethe.klab.caltech.edu>
+In-Reply-To: <199903170715.CAA02568@EECS-ATH-35.mit.edu>
+Message-ID: <Pine.SUN.3.96.990316232358.5467B-100000@goethe.klab.caltech.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: Re: question regarding spm software
+From: Geraint Rees <geraint@goethe.klab.caltech.edu>
+To: Andy Tsai <atsai@MIT.EDU>
+Cc: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+Dear Andy,
+
+There is an example fMRI dataset available at
+http://www.fil.ion.ucl.ac.uk/spm/data/ that you may find useful. It's a
+simple auditory activation experiment that we acquired a few years ago and
+use on the SPM course, and should be helpful in testing/learning SPM. Both
+raw (i.e. needing realignment, normalising and smoothing) and
+pre-processed (ready for statistics) timeseries are available. 
+
+Best wishes,
+
+Geraint
+
+
+
+

@@ -1,0 +1,124 @@
+
+
+From www-vrml-approval@vrml.org Fri Jul  4 09:14:49 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id PAA19184 for <fnielsen@eivind.imm.dtu.dk>; Fri, 4 Jul 1997 15:14:47 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id FAA17686; Wed, 2 Jul 1997 05:12:10 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id FAA17673; Wed, 2 Jul 1997 05:12:06 -0400 (EDT)
+Received: from ns.research.att.com by world.std.com (5.65c/Spike-2.0)
+	id AA11811; Wed, 2 Jul 1997 05:12:06 -0400
+Received: from research.att.com ([135.205.32.20]) by ns; Wed Jul  2 05:11:02 EDT 1997
+Received: from amontillado.research.att.com ([135.207.24.32]) by research; Wed Jul  2 05:08:33 EDT 1997
+Received: from arran.research.att.com (arran.research.att.com [135.207.24.12])
+	by amontillado.research.att.com (8.8.5/8.8.5) with ESMTP id FAA11502;
+	Wed, 2 Jul 1997 05:07:38 -0400 (EDT)
+From: Vijay Saraswat <vj@research.att.com>
+Received: (from vj@localhost) by arran.research.att.com (8.7.5/8.7) id FAA15347; Wed, 2 Jul 1997 05:07:38 -0400 (EDT)
+Date: Wed, 2 Jul 1997 05:07:38 -0400 (EDT)
+Message-Id: <199707020907.FAA15347@arran.research.att.com>
+To: www-vrml@vrml.org
+Subject: CFP --- Modeling and Reasoning in Virtual Worlds
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+Apologies for duplicates (I am being selective on the lists this
+goes to).
+
+        Workshop on Modeling and Reasoning in Virtual Worlds
+              Virtual Worlds and Simulation Conference
+                   1998 Western MultiConference
+                          January 11-14
+                Catamaran Resort Hotel, San Diego
+           http://www.scs.org/confernc/wmc98/wmc98cfp.html
+
+
+Virtual worlds are one of the most compelling sites for research
+in modeling and reasoning to emerge in recent years. Such worlds
+(see e.g. Meadows, telnet://meadows.research.att.com:7777 and
+Pueblo, http://www.pc.maricopa.edu/community/pueblo/) are
+characterized by hundreds of people (e.g. K-12 students)
+connecting regularly (possibly from all over the Internet)
+building, playing, interacting (with each other, with "bots") in
+a persistent, object-oriented, user-extensible, text-rich
+context. Such worlds are often extraordinarily engaging for their
+participants: for instance in the last five months on Meadows, a
+handful of adults and approximately 200 children in Grades 4-9
+have built over 10,000 objects (with varying levels of
+sophistication and fidelity) -- homes (rooms, appliances,
+toilets, swimming-pools, pets), hotels, cars, car rental
+agencies, shopping malls, cities, mythical monsters, fish,
+mazes...
+
+Fundamental questions about modeling, representation and
+reasoning arise in this context.  What kinds of ontologies are a
+suitable basis for such extraordinarily rich and diverse
+user-constructed worlds?  What kinds of theories of space, time,
+action, change, causation and common-sense reasoning might one
+build into such worlds?  How can such worlds be designed to
+facilitate experimentation with different "frameworks for
+physics"/protocols of interaction? What principles of
+construction must be followed in order to allow the designs of
+hundreds of such world participants to inter-operate with each
+other, within a virtual world and across virtual worlds?  How can
+one design in-situ reasoners that can reason with
+world-constructions (and learn from past interactions) to help
+human participants in designing, configuring, building,
+monitoring, diagnosing/debugging systems and processes embedded
+in such worlds?  How does one build intelligent
+navigators/browsers that can recognize --- amidst the tens of
+thousands of objects and processes --- parts of the world
+"interesting" along given dimensions?  What kinds of
+visual/model-based "construction environments" might one deploy
+to make it easier to build such worlds? How does one design
+natural language interaction systems that can leverage the
+situated/contexted nature of interaction in these spaces?  How
+can (collections of) software agents (bots) be designed to take
+advantage of the presence of other bots, the structure of the
+virtual world and interaction with people?  What frameworks for
+ownership and control are needed to foster collaborative work in
+such worlds, while safeguarding intellectual property?  How can
+multiple modalities of interaction (text, audio, speech,
+animation) be coordinated to present a coherent experience for
+participants?
+
+This meeting aims to bring together theoreticians and
+practitioners from a variety of communities interested in some of
+these questions --- e.g., qualitative physics and model-based
+reasoning, model-based planning and diagnosis, hybrid
+(continuous/discrete)and real-time reasoning, knowledge
+representation, virtual worlds, constraint and visual
+programming, interactive theater. 
+
+Submissions (email plain-text to Workshop Chair) are invited on
+all aspects of modeling and reasoning in virtual worlds,
+including, but not limited to the broad questions raised above.
+Particularly welcome are experience papers focused on practical
+issues that arise in the construction of such virtual worlds, and
+papers proposing theoretical frameworks within which such
+questions can be addressed.
+
+
+IMPORTANT DATES
+  o July 7: 2-page Extended Abstracts due. 
+  o July 15: Notification of decision.
+  o August 15: Initial Submission of final papers.
+  o September 15: Reviewer feedback
+  o Oct 31: Camera ready copy
+
+Meeting Organization
+ Workshop Chair: 
+    Vijay Saraswat (vj@research.att.com)
+ Conference chairs: 
+    Kirstie Bellman (kbellman@darpa.mil)
+    Chris Landauer (cal@aero.org) 
+
+
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

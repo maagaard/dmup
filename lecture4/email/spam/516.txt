@@ -1,0 +1,144 @@
+
+
+From spm-request@mailbase.ac.uk Wed Jul 28 03:32:48 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id DAA03160
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 28 Jul 1999 03:32:18 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id CAA00522;
+	Wed, 28 Jul 1999 02:27:10 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id CAA05646;
+        Wed, 28 Jul 1999 02:25:45 +0100 (BST)
+Received: from isca.vghks.gov.tw (isca.vghks.gov.tw [203.68.94.1]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id CAA05584;
+        Wed, 28 Jul 1999 02:24:50 +0100 (BST)
+Received: from mtwu by isca.vghks.gov.tw (SMI-8.6/SMI-SVR4)
+	id JAA01424; Wed, 28 Jul 1999 09:07:50 +0800
+Message-Id: <199907280107.JAA01424@isca.vghks.gov.tw>
+Date: Wed, 28 Jul 1999 09:01:05 -0000
+X-MSMail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+MIME-Version: 1.0
+Content-Type: text/plain; charset=BIG5
+Content-Transfer-Encoding: 8bit
+Subject: =?BIG5?B?Rnc6IFtGd2Q6IEZ3OiDC4LFIIDogp9ahSS0tLaywpEaleMZXXQ==?=
+From: "Wu, Ming-Ting" <mtwu@isca.vghks.gov.tw>
+To: "Friend, Lin Dipl.-Ing. Keh-La" <klarlin@uni-duisburg.de>,
+        "Friends, Lin James" <lccyccwt@ms4.hinet.net>,
+        "GE, CHANG SARAH" <SARAH.CHANG@taiwan.med.ge.com>,
+        "GE, CHAO ALBERT" <ALBERT.CHAO@gemsa.med.ge.com>,
+        "GE, DIANNA GOH," <DIANNA.GOH@taiwan.med.ge.com>,
+        "GE, FAN OSCAR" <OSCAR.FAN@taiwan.med.ge.com>,
+        "GE, JASON CHEN," <JASON.CHEN@taiwan.med.ge.com>,
+        "GE, KAKAR AMIT" <AMIT.KAKAR@gemsa.med.ge.com>,
+        "GE, Karthikeyan Kuppusamy" <Karthikeyan.Kuppusamy@amermsx.med.ge.com>,
+        "GE, Kelley, Douglas" <Douglas.Kelley@amermsx.med.ge.com>,
+        "GE, LO ELLIE" <ELLIE.LO@taiwan.med.ge.com>,
+        "GE, RICHARD HUANG," <RICHARD.HUANG@taiwan.med.ge.com>,
+        "GE, WONG VINCENT" <VINCENT.WONG@taiwan.med.ge.com>,
+        "GE,VICTOR (MED,SVC TAP TW ) HUANG," <VICTOR.HUANG@taiwan.med.ge.com>,
+        "MGH, Iris Chen" <iris@nmr.mgh.harvard.edu>,
+        "MGH, Jenifer" <jennifer@nmr.mgh.harvard.edu>,
+        "MGH, Kwong Ken" <kwong@nmr.mgh.harvard.edu>,
+        "MGH, Wald Lawrence L." <wald@nmr.mgh.harvard.edu>,
+        "MR, Lin Fa-hsuan" <fhlin@MIT.EDU>,
+        "MR, Robert Cox" <rwcox@post.its.mcw.edu>,
+        "MR, Robert Laio lcc@ms1.hinet.net" <lcc@ms1.hinet.net>,
+        "MR, Wang JJ jwang@fil.ion.ucl.ac.uk" <jwang@fil.ion.ucl.ac.uk>,
+        "NCKU, Prof Sun" <ynsun@mail.ncku.edu.tw>,
+        "NSYSU, Hsu Cheng-Chung" <cchsu@impala.cie.nsysu.edu.tw>,
+        "NSYSU, huang wen-chen" <wenh@chna.chna.edu.tw>,
+        "NSYSU, Lee Chungnan" <cnlee@mail.nsysu.edu.tw>,
+        "NSYSU, Wang Chun-feng" <jimfang1@ms19.hinet.net>,
+        "NSYSU, Yeh chinson2" <chinson@mail.intellect.com.tw>,
+        "NTU, Chung HW" <chung@cc.ee.ntu.edu.tw>,
+        "NTU, Kai-Hsiang Chuang," <khchuang@me.ee.ntu.edu.tw>,
+        "NTUH, Chang yeuchang" <yeuchang@ntumc1.mc.ntu.edu>,
+        "Radiology, Hogan" <dhogan@ry.rsna.org>,
+        "Siemens, Daisy Chien" <daisy.chien@siemens.com.hk>,
+        "SPM, MAILBASE SPM" <spm@mailbase.ac.uk>,
+        "VGH_KS Yang, Chien-fang" <cfyang@isca.vghks.gov.tw>,
+        "VGH_KS, Chen PC" <pcchen@isca.vghks.gov.tw>,
+        "VGH_KS, Hsiao CC" <cchsiao@isca.vghks.gov.tw>,
+        "VGH_KS, Lai PH" <phlai@ksts.seed.net.tw>,
+        "VGH_KS, Pan, HB" <panhb@isca.vghks.gov.tw>,
+        "VGH_KS, shshi" <shshi@isca.vghks.gov.tw>,
+        "VGH_KS,Cheng Shung-Chung" <sccheng@isca.vghks.gov.tw>,
+        "VGH-TC,Tsai, Chi-Wen		" <hubt@vghtc.vghtc.gov.tw>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Wu, Ming-Ting" <mtwu@isca.vghks.gov.tw>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Dear Friends:
+Speak out for Taiwan's future, please !
+
+Best Regards
+
+Ming-Ting
+
+======================
+Wu, Ming-ting M.D.
+Department of Radiology
+Kaohsiung Veterans General Hospital
+386 Ta-chung 1st Rd., 813
+Kaohsiung, Taiwan
+Tel: (O) 886-7-3422121 ext 6205, 6235, 6212
+       (H) 886-7-3461096
+Fax: (O) 886-7-3468301
+       (H) 886-7-3461096
+e-mail: mtwu@isca.vghks.gov.tw
+
+
+
+----------
+> 送件者: jchsieh1 <jchsieh1@ms4.hinet.net>
+> 收件者: 陳方佩 <fpchen@vghtpe.gov.tw>; 莊天佑 <tychuang@vghtpe.gov.tw>;
+張泰階 <tjchang@vghtpe.gov.tw>; 袁懷璧 <hbyuan@vghtpe.gov.tw>; 洪崇修
+<qwhung@ms24.hinet.net>; 江淑瓊 <scchiang@vghtpe.gov.tw>; Ping-Wing Lui
+<pwlui@vghtpe.gov.tw>; ming-ting wu <mtwu@isca.vghks.gov.tw>; Maria Su
+<mrsu@vghtpe.gov.tw>; Lin yungyang <yungyang@neuro.hut.fi>; jason
+<jason@jason.bme.ncku.edu.tw>; Iris Chen <iris@NMR.MGH.Harvard.EDU>;
+GreenEver Medical Ltd. <grever@ms14.hinet.net>; Fa-Hsuan Lin
+<fhlin@me.ee.ntu.edu.tw>; Fa-Hsuan Lin <fhlin@MIT.EDU>; D.-D. Tang
+<ddtang@vghtpe.gov.tw>; Bai Chuang Shyu <bmbai@ccvax.sinica.edu.tw>; Andrew
+Chen <ac@smi.auc.dk>; Albert Ming-Hui YEN <albtyen@email.gcn.net.tw>
+> 主旨: Fw: [Fwd: Fw: 轉寄 : 快！---為了台灣]
+> 日期: 1999年7月28日 AM 04:03
+> 
+> Daphne Lee wrote:
+> 
+> > >主旨: Fw: 轉寄 : 快！---為了台灣
+> > >
+> > >
+> > >
+> > >>> 美國「時代週刊」的網站上正在進行台灣是不是一個國家的投票。
+> > >>>
+> > >>>  if 認同台灣是一個國家，請到下面網址投下一票！
+> > >>>
+> > >>> 亦可以將此訊息傳給支持的朋友..................
+> > >>>
+> > >>> < http://cgi.pathfinder.com/time/asia/polls/state2.html >
+> > >>>
+> > >
+> 
+> > >
+> 
+> --
+> Li Hsieh
+> Purdue University
+> Department of Audiology and Speech Sciences
+> West Lafayette, IN 47907-1353
+> Tel.: (765) 494-6710
+> FAX:  (765) 494-0771
+> 
+> 
+> 

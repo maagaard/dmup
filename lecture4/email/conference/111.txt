@@ -1,0 +1,303 @@
+
+
+From pascal@icsc.ab.ca  Wed Jun 10 05:27:34 1998
+Received: from bernie.compusmart.ab.ca (root@bernie.compusmart.ab.ca [199.185.131.34])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id FAA00299
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 10 Jun 1998 05:27:32 +0200 (METDST)
+From: pascal@icsc.ab.ca
+Received: from user920.kel1volnet5.net (remote445.compusmart.ab.ca [206.75.85.162]) by bernie.compusmart.ab.ca (8.8.5/8.8.5) with SMTP id VAA07315; Tue, 9 Jun 1998 21:16:06 -0600 (MDT)
+Date: Tue, 9 Jun 1998 21:16:06 -0600 (MDT)
+Message-Id: <199806100316.VAA07315@bernie.compusmart.ab.ca>
+To: flynn@mimd.stanford.edu
+Subject: Announcement / CFP
+Reply-To: pascal@icsc.ab.ca
+Status: RO
+X-Status: 
+
+Third International ICSC Symposia on
+INTELLIGENT INDUSTRIAL AUTOMATION (IIA'99)
+http://www.icsc.ab.ca/iia99.htm
+and
+SOFT COMPUTING (SOCO'99)
+http://www.icsc.ab.ca/soco99.htm
+
+June 1-4, 1999 at the Palazzo Ducale in Genova, Italy
+
+
+INTRODUCTION
+The International Symposia on Intelligent Industrial Automation (IIA'99) and Soft Computing (SOCO'99) intend to encompass short-to-long-term effects of Advanced Information Technology, Soft Computing and other related 'Intelligent Technolgies' in application fields such as Industrial Automation, Control, Diagnostics, Computer Vision, Robotics, Speech Recognition and Machine Translation. The general aim of the Symposia is to address and underline the existing and emerging relationships between automation, manufacturing and Intelligent Technolgies, with particular emphasis on Soft Computing. 
+
+Contributions are sought on intelligent automation and manufacturing with emphasis on current and potential applications, with a broad interest in all the engineering disciplines, computer science and related technology fields.
+
+Following the success of IIA/SOCO'96 (Reading, England) and IIA/SOCO'97 (Nîmes, France), the third symposium will be held in Genova, Italy. The IIA/SOCO series have established themselves as a platform for scientists and practitioners from academic, governmental and industrial institutions to discuss new developments and results in the field of intelligent technologies. A further follow-up conference has already been scheduled for the year 2001 in Paisley, Scotland.
+
+
+PURPOSE OF IIA'99 and SOCO'99
+Advances in Soft Computing and related techniques: Theory and Applications.
+
+AIT (Advanced Information Technology) is one of the major technological drivers in the advancement of modern society. Nowadays any major achievement, related to any field of research, is strongly supported by proper AIT based tools. Very often, such achievements have only been possible after a proper AIT approach has been designed and implemented. It is widely known that AIT has a very strong impact on society itself, radically changing the skills and competencies required in order to contribute to the everyday human environment. 
+
+Given that nowadays the major effort in AIT development is spent in the so called 'Soft-Computing' arena and that some of the major and indeed, surprising, achievements in industrial applications come from the application of soft-computing techniques, the two symposia (IIA'99 and SOCO'99) will have many common areas of interest, namely:
+
+- Neural Networks
+- Fuzzy Logic
+- Genetic Algorithms
+- Chaos Theory
+- AI and Expert Systems
+- Machine Learning
+- Pattern Recognition and Image Understanding
+
+The programs of the two conferences will, however, reflect different themes: 
+
+- IIA'99 will be directed toward the medium-to-short term, application 
+  driven, research area  in Intelligent Technologies.
+
+- SOCO'99 is directed toward the long term research in area of Soft Computing 
+
+In order to try to overcome the usual borderline existing between theory and application, the two symposia are run jointly, organized in a way to have partial overlap with some joint sessions and some common plenary sessions.
+
+
+
+AIM OF IIA'99/SOCO'99
+1. To give both a wide and a deep view of advances in AIT advancement 
+   offered by soft-computing technologies. 
+2. To give both the industrial and academic researcher the opportunity 
+   to discuss together real problems and opportunities. 
+3. To collect 'best practice' and information on how to perform 
+   experiments, tests and design products and processes embedding 
+   and/or using soft-computing technologies. 
+4. To explicitly and actively function as a 'technology broker', 
+   giving the opportunity for people to become aware of new problems 
+   and possible solutions and giving the possibility of finding 
+   technological partners for joint research and/or future application 
+   programs.
+
+
+TOPICS OF IIA'99
+
+IIA'99 will include contributions in the research area of Soft Computing Application and, more in general, related to medium-to-short term and application driven developments Advanced Information Technology and Industrial Intelligent Technology.
+
+Particular emphasis will be laid on industrial realization, experimental application, application methodology development and/or formalization, quantitative and qualitative problem modeling.
+
+Contributions are sought mainly in the areas based on the list below:
+
+a) Industrial Area 
+   - Industry
+   - Energy
+   - Transportation
+   - Services
+   - Consumer
+   - etc.
+
+b) High-Tech Area 
+   - Innovative Control and Diagnostics
+   - Computer Vision
+   - Robotics and Remote Sensing
+   - Speech Recognition and Machine Translation
+   - etc.
+
+c) Green-Tech Area 
+   - Intelligent Resource Management
+   - Intelligent Pollutant Management
+   - User Behavior Modeling
+   - Intelligent Traffic Control
+   - etc.
+
+
+TOPICS OF SOCO'99
+
+SOCO'99 will include contributions on long term research (theory development, enhanced approaches, formal methods comparisons, applications, etc.) in the area of soft-computing. Contributions  are sought in areas based on the list below, which is indicative only. 
+
+- Neural Networks
+- Fuzzy Logic
+- Rough Sets
+- Genetic Algorithms and Evolutionary Computing
+- Chaos Theory
+- AI and Expert Systems
+- Probabilistic Reasoning
+- Machine Learning
+- Learning Algorithms and Intelligent Control
+- Pattern Recognition and Image Understanding
+- Distributed Intelligence
+- Self-Organizing Systems
+- Fuzzy Databases and Information Retrieval
+- Educational Aspects of Soft Computing
+
+
+SPECIAL SESSION
+A special session on 'Intelligent Systems in Control and Process Optimization' including a plenary lecture is sponsored by the IFS Network and organized by Alberto Servida, Italy. Contributions are welcome.
+
+
+CONFERENCE LOCATION
+The symposia will be held at the Palazzo Ducale, a beautiful historic building in the city centre of Genova, Italy
+
+
+SPONSORS
+IIA'99 and SOCO'99 are sponsored by:
+- Ansaldo S.p.A.
+- DISI - Department of Computer and Information Sciences at the University
+  of Genoa, Italy
+- Commune di Genova, Italy
+- University of Genova, Italy
+- Cybernetics and Biophysics National Group of the National Research Council
+- IEEE Neural Network Council Italian Regional Interest Group
+- International Neural Networks Society and INNS Special Interest Group Italy
+- Thematic Network IFS (Intelligent Forecasting System for Refineries and 
+  Power Systems)
+- ICSC International Computer Science Conventions, Canada/Switzerland
+
+
+IIA'99 SYMPOSIUM COMMITTEE
+- Honorary Chair
+  Yutaka Kuwahara, R & D Centre, Hitachi Europe Ltd.
+
+- Symposium Chair
+  Riccardo Parenti, Ansaldo Ricerche, Genova, Italy
+
+- Symposium Vice Chair
+  Colin Fyfe, University of Paisley, Scotland, U.K.
+
+- Scientific Secretary
+  Carla Penno, Ansaldo Ricerche, Genova, Italy
+
+- International Scientific Committee
+  Roberto Baratti, Italy
+  Zeungnam Bien, Korea
+  Piero Bonissone, USA
+  Pierre Borne, France 
+  Hans-Heinrich Bothe, Switzerland/Germany
+  Abhay Bulsari, Finland
+  Daniele Caviglia, Italy
+  Vincent Chapurlat, France
+  Raja Chatila, France 
+  Richard D. Colbaugh, USA
+  Anna Maria Colla, Italy
+  Clarence W. de Silva, Canada
+  H.A. Donegan, U.K.
+  José R. Dorronsorro, Spain
+  Patrick Gallinari, France
+  Edoardo Gilardi, Italy
+  Madan M. Gupta, Canada
+  Henry H. Hexmoor, USA
+  R.J. Howlett, U.K
+  Charles McLean, USA
+  Antony A. Maciejewski, USA
+  Janine Magnier, France
+  Franco Masulli, Italy
+  Fazel Naghdy, Australia
+  Saeid Nahavandi, Australia
+  Charles C. Nguyen, USA
+  David Pearson, France
+  Duc T. Pham, U.K.
+  Brian Roffel, Netherlands
+  Alberto Servida, Italy
+  Peter Vas, U.K.
+  Leonello Zaquini, Italy
+  Jacek M. Zurada, USA
+
+
+SOCO'99 SYMPOSIUM COMMITTEE
+- Honorary Chair
+  Antonio di Nola, University di Napoli Federico II, Naples, Italy
+
+- Symposium Chair
+  Francesco Masulli, University of Genoa, Italy
+
+- Symposium Vice Chair
+  Colin Fyfe, University of Paisley, Scotland, U.K.
+
+- International Scientific Committee
+  Henry Abarbanel, USA
+  Ethem Alpaydin, Turkey
+  Peter G. Anderson, USA
+  Valeriu Beiu, USA
+  Gerardo Beni, USA
+  Franco Bignone, Italy
+  Freimut Bodendorf, Germany
+  Andrej Dobnikar, Slovenia
+  Marco Dorigo, Belgium
+  Gerard Dray, France
+  Marco Gori, Italy
+  Hans Hellendoorn, Netherlands
+  Laszlo Koczy, Hungary
+  Mohammad Jamshidi, USA
+  James Keller, USA
+  Bart Kosko, USA
+  Ludmila Kuncheva, U.K.
+  Franz Kurfess, USA
+  Sadaaki Miyamoto, Japan
+  Claudio Moraga, Germany
+  Pietro Morasso, Italy
+  Francesco Carlo Morabito, Italy
+  David W. Pearson, France
+  Réjean Plamondon, Canada
+  Henrik Saxen, Finland
+  George D. Smith, U.K.
+  Nigel Steele, U.K.
+  Leonard Studer, Switzerland
+  Yoshinori Uesaka, Japan
+
+
+CALL FOR PAPERS
+Prospective authors are requested to send a draft paper (maximum 7 pages) for review by the International Scientific Committee. All submissions must be written in English, starting with a succinct statement of the problem, the results achieved, their significance and a comparison with previous work, as well as a list of references.
+
+The submissions should also include:
+- Title of conference (SOCO'99 or IIA'99) 
+- Type of paper (regular, demonstration, tutorial or invited) 
+- Title of proposed paper 
+- Authors names, affiliations, addresses 
+- Name of author to contact for correspondence 
+- E-mail address and fax # of contact author 
+- Topics which best describe the paper (max. 5 keywords) 
+- Short c.v. of authors
+
+Contributions are welcome from those working in industry and having experience in the topics of this symposium as well as from academics. 
+
+Symposium language is English. 
+
+Invited sessions, tutorial papers, demonstrations and contributions to the special session on 'Intelligent Systems in Control and Process Optimization' are also encouraged.
+
+
+SUBMISSION OF PAPERS
+Submissions must be sent by September 10, 1998 either by
+
+- Electronic mail (recommended) to operating@icsc.ab.ca
+  (Text, PostScript or Word files)
+  or
+- Fax to ICSC Canada +1-403-387-4329
+  or
+- Airmail (2 copies) to:       
+  ICSC Canada
+  P.O. Box 279
+  Millet, AB T0C 1Z0
+  Canada
+
+
+IMPORTANT DATES
+Submission of Draft Papers:    September 10, 1998
+Notification of Acceptance:    November 30, 1998
+Delivery of Final Papers:      January 31, 1999
+Tutorials and Workshops:       June 1, 1999
+IIA'99/SOCO'99 Symposia:       June 2-4, 1999
+
+
+FURTHER INFORMATION
+For more detailed information, please consult the following websites:
+- IIA'99:   http://www.icsc.ab.ca/iia99.htm
+- SOCO'99:  http://www.icsc.ab.ca/soco99.htm
+
+or forward any questions to the Conference Organizer
+mailto:operating@icsc.ab.ca
+
+
+CONFERENCE ORGANIZER
+ICSC
+International Computer Science Conventions
+P.O. Box 279
+Millet, Alberta T0C 1Z0
+Canada
+
+EMAIL:   mailto:operating@icsc.ab.ca
+URL:     http://www.icsc.ab.ca
+FAX:     +1-403-387-4329   (after January 25, 1999: +1-780-387-4329)
+PHONE:   +1-403-387-3546   (after January 25, 1999: +1-780-387-3546)

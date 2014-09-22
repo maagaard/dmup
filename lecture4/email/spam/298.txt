@@ -1,0 +1,46 @@
+
+
+From 570445@JADFiy.com  Sun Jan 31 22:15:19 1999
+Received: from nhmaster.nanhai.gd.cn ([210.75.40.1] (may be forged))
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA11717
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 31 Jan 1999 22:15:15 +0100 (MET)
+From: 570445@JADFiy.com
+Received: from hal by nhmaster.nanhai.gd.cn (SMI-8.6/SMI-SVR4)
+	id FAA01824; Mon, 1 Feb 1999 05:11:56 +0800
+Date: Mon, 1 Feb 1999 05:11:56 +0800
+Message-Id: <199901312111.FAA01824@nhmaster.nanhai.gd.cn>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Free Shopping Cart For Your Website!
+Status: RO
+X-Status: 
+
+Now you can get the free use of a Secure Electronic Commerce Shopping Cart
+and a free SSL Server Certificate. The shopping cart is one of the finest
+on the market and includes the following features:
+
+- Supports UPS ground (USA) shipping rate charts 
+- Product database search feature 
+- Supports Cybercash credit card transactions 
+- Ability to store order information in a secure file 
+- Supports Secure Transactions (SSL) 
+- Works with frames 
+- Automatic field validation
+- Ability to mail the order to multiple email addresses 
+- Supports a percentage discount rate 
+- Supports multiple currencies 
+- Ability to stay on same page when item is purchased 
+- Ability to order more than one item at a time 
+- Receipt sent to customer 
+- Header and footer files can be included in the customer receipt
+- Ability to accept and verify credit card numbers 
+- Eight different types of shipping supported 
+- Three shipping algorithms supported 
+- Ability to add in sales tax
+- Ability to keep track of what the user has purchased from page to page,
+  even if they use the back button. (No cookies used) 
+
+This offer is valid only for customers who host web sites with our
+clients. Call now to find out how to get your free Secure Electronic
+Shopping Cart (970) 349-0796 (United States).
+
+Thank you.

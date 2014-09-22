@@ -1,0 +1,88 @@
+
+
+From www-vrml-owner@hardly.hotwired.com Fri Aug 30 06:06 MET 1996
+Received: from hardly.hotwired.com by eivind.ei.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA29845; Fri, 30 Aug 1996 06:06:14 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id UAA10726 for www-vrml14; Thu, 29 Aug 1996 20:31:37 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id UAA10696 for www-vrml-out; Thu, 29 Aug 1996 20:31:30 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id UAA10684 for <www-vrml@hardly.hotwired.com>; Thu, 29 Aug 1996 20:31:25 -0700 (PDT)
+Received: from cs.nps.navy.mil (cs.nps.navy.mil [131.120.1.13]) by wired.com (8.7.4/8.7.3) with SMTP id UAA29212 for <www-vrml@wired.com>; Thu, 29 Aug 1996 20:31:08 -0700 (PDT)
+Received: from capella.cs.nps.navy.mil by cs.nps.navy.mil (4.1/SMI-4.1)
+	id AA08619; Thu, 29 Aug 96 20:25:16 PDT
+From: brutzman@cs.nps.navy.mil (Don Brutzman)
+Received: by capella.cs.nps.navy.mil (4.1) id AA25244; Thu, 29 Aug 96 20:25:16 PDT
+Message-Id: <9608300325.AA25244@capella.cs.nps.navy.mil>
+Subject: VRML 97 Call for Participation
+To: www-vrml@wired.com (Virtual Reality Modeling Language list)
+Date: Thu, 29 Aug 1996 20:25:15 -0700 (PDT)
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+
+                  VRML 97                        Call For Participation!
+
+           February 24-26, 1997
+
+  Hyatt Regency, Monterey California, USA       http://www.sdsc.edu/vrml97
+----------------------------------------------------------------------------
+
+Announcing VRML 97, a technical symposium focusing upon the research,
+technology, and applications of VRML, the Virtual Reality Modeling Language.
+To be held in Monterey California, Monday-Wednesday February 24-26 1997.
+VRML 97 will be a 3-day technical forum including courses and in-depth
+workshop discussions on the first day, followed by paper presentations,
+panels, exhibits, and demonstrations on the following two days.
+
+Technical paper submissions are encouraged.  Submissions will be peer
+reviewed and selected based upon technical merit.  Paper submission
+guidelines will be available soon.  Suggested topic areas include 3D
+graphics, networking, content, behaviors, interfaces, modeling, simulation,
+multi-user environments and standards.  Questions about paper submission 
+can be directed to:
+
+   * vrml97-papers@sdsc.edu
+
+Course, workshop and panel ideas are encouraged and should be submitted to:
+
+   * vrml97-courses@sdsc.edu
+   * vrml97-workshops@sdsc.edu
+   * vrml97-panels@sdsc.edu
+
+        Date                               Activity
+   ----------------  -----------------------------------------------------
+
+   September 15,     Early registration opens and the registration forms
+   1996              go on-line
+
+   October 15,       Paper submissions due, Course, workshop, and panel
+   1996              proposals due
+
+   November 15,      Paper reviews complete, authors notified of
+   1996              acceptance, review comments returned to authors, and
+                     advance program goes on-line
+
+   December 15,      Early registration closes, late registration opens,
+   1996              paper camera-ready copy due
+
+   February 15,      Late registration closes
+   1997    
+
+   February 24,      On-site registration opens, VRML 97 courses and
+   1997              workshops all-day
+
+   February 25-26,   VRML 97 papers, panels, demonstrations, and exhibits
+   1997              all-day
+
+----------------------------------------------------------------------------
+
+
+all the best, Don
+-- 
+Don Brutzman  Naval Postgraduate School, Code UW/Br Root 200  work 408.656.2149
+              Monterey California 93943-5000 USA              fax  408.656.3679
+Virtual worlds/underwater robots/Internet http://www.stl.nps.navy.mil/~brutzman

@@ -1,0 +1,66 @@
+
+
+From spm-request@mailbase.ac.uk Mon Mar 29 16:29:25 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id QAA27964
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 29 Mar 1999 16:29:24 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA15012;
+	Mon, 29 Mar 1999 15:36:38 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA29439;
+        Mon, 29 Mar 1999 15:25:20 +0100 (BST)
+Received: from mailrelay1.lrz-muenchen.de (mailrelay1.lrz-muenchen.de [129.187.254.101]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id PAA29429;
+        Mon, 29 Mar 1999 15:25:16 +0100 (BST)
+Received: from gnf99m.nefo.med.uni-muenchen.de by mailout.lrz-muenchen.de with ESMTP for spm@mailbase.ac.uk; Mon, 29 Mar 1999 16:25:17 +0200
+Received: from BRAIN/SpoolDir by brain.nefo.med.uni-muenchen.de (Mercury 1.43);
+    29 Mar 99 16:25:15 +0100
+Received: from SpoolDir by BRAIN (Mercury 1.43); 29 Mar 99 16:24:46 +0100
+Received: from 138.245.96.45 (138.245.96.45) by brain.nefo.med.uni-muenchen.de (Mercury 1.43) with ESMTP;
+    29 Mar 99 16:24:42 +0100
+Message-Id: <36FF8D26.576D75AE@nefo.med.uni-muenchen.de>
+Date: Mon, 29 Mar 1999 16:24:53 +0200
+X-Mailer: Mozilla 4.01 (Macintosh; I; PPC)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Contrasts
+From: Thomas Stephan <tstephan@nefo.med.uni-muenchen.de>
+To: Mailing-Liste SPM <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Thomas Stephan <tstephan@nefo.med.uni-muenchen.de>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear SPM-Authors,
+
+I have a question regarding the article 'The Trouble with Cognitive
+Subtraction' (Neuroimage 4, 97-104 (1996)).
+Figure 4 in this article shows the SPMs of three different contrasts,
+built from the stimulation conditions A, B, C and D.
+These contrasts are: 
+  (B+C) - (A+D)
+  (D+C) - (A+B)
+  (C-D) - (B-A)
+
+How can these contrasts be entered into SPM ?
+
+Thank you,
+Thomas Stephan
+
+-- 
+======================================================================
+Thomas Stephan                Email: tstephan@nefo.med.uni-muenchen.de
+Klinikum Grosshadern
+Neurologisches Forschungshaus
+Marchioninistr. 23            Fon: +49 089 / 7095-4809
+81377 Muenchen                Fax: +49 089 / 7095-4801
+======================================================================

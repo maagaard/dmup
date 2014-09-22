@@ -1,0 +1,61 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sun Jan 16 07:18:05 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id HAA10202;
+	Sun, 16 Jan 2000 07:18:01 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa04176;
+          15 Jan 2000 23:16 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa04174;
+          15 Jan 2000 23:05 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16738;
+          15 Jan 2000 23:04 EST
+Resent: Sat, 15 Jan 2000 23:04:25 -0500
+Resent: "webadmin@cnbc "
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29341; 15 Jan 2000 20:34 EST
+Received: from dns.vghtpe.gov.tw by cs.cmu.edu id aa20136; 15 Jan 2000 20:32 EST
+Received: from fmrilab by isc1.vghtpe.gov.tw (SMI-8.6/SMI-SVR4)
+	id JAA19472; Sun, 16 Jan 2000 09:31:41 +0800
+From: Jen-Chuen Hsieh <jchsieh@vghtpe.gov.tw>
+Message-ID: <006b01bf5fc1$92bab660$c43efea9@fmrilab>
+To: connectionists@cs.cmu.edu
+Subject: Faculty and Post-doc positions available
+Date: Sun, 16 Jan 2000 09:32:26 +0800
+Status: RO
+X-Status: 
+
+Faculty and Post-Doc Position(s) Available at in Taiwan (National Yang-Ming
+University and Taipei Veterans General Hospital) on
+fMRI/Magnetoencephalography, Advanced Signal Processing, and Human Brain
+Science (preferably cognitive neuropsychology).
+
+Wanted:
+Cognitive neuroscientists, cognitive neuropsychologist, programmers,
+computer scientists, and physicists to join our growing Human Brain Rseaarch
+Group. The National Yang-Ming University and Taipei-Veterans General
+Hospital of Taiwan have in the campus an encampossing setup of PET, 3T-MRI,
+whole-head MEG, ERP and TMS for brain research.
+
+
+With my best regards!
+
+JC
+
+--------------------------------------------------
+Jen-Chuen Hsieh, MD, PhD
+Associate Professor & Project Coordinator
+Integrated Brain Research Unit
+Taipei Veterans General Hospital;
+Institute of Neuroscience, School of Life Science
+Department of Medicine, School of Medicine
+National Yang-Ming University
+
+No.201, Sect.2, Shih-Pai Rd.
+112, Taipei
+Taiwan
+email: jchsieh@vghtpe.gov.tw
+tel: (886)-2-28757480
+fax: (886)-2-28757612
+
+
+

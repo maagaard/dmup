@@ -1,0 +1,454 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Tue Mar 31 04:23:28 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id EAA25648;
+	Tue, 31 Mar 1998 04:22:41 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ab13167;
+          30 Mar 98 15:06:35 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id ab13165;
+          30 Mar 98 14:52:51 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa25796;
+          30 Mar 98 14:52 EST
+Received: by ux3.sp.cs.cmu.edu id ae10724; 30 Mar 98 14:41 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa10404; 30 Mar 98 14:33 EST
+Received: from avion.cs.umd.edu by RI.CMU.EDU id aa16468; 30 Mar 98 14:31:52 EST
+Received: by avion.cs.umd.edu (8.8.5/UMIACS-0.9/04-05-88)
+	id OAA07714; Mon, 30 Mar 1998 14:31:42 -0500 (EST)
+Date: Mon, 30 Mar 1998 14:31:42 -0500 (EST)
+From: "James A. Reggia" <reggia@cs.umd.edu>
+Message-Id: <199803301931.OAA07714@avion.cs.umd.edu>
+To: Connectionists@cs.cmu.edu, ISWCN@WCCF.MIT.EDU, SMBnet@fconvx.ncifcrf.gov,
+        cogpsy@neuro.psy.soton.ac.uk, comp-neuro@smaug.bbb.caltech.edu,
+        nacs@umdd.umd.edu, neuron@CATTELL.psych.upenn.edu,
+        psycho-pharm@netcom.com, reggia@cs.umd.edu
+Subject: REGISTRATION OPEN: Neural Modeling of Brain/Cognitive Disorders
+Status: RO
+X-Status: 
+
+
+                   REGISTRATION IS NOW OPEN
+
+ 1998 Workshop on Neural Modeling of Brain and Cognitive Disorders
+                       June 4 - 6, 1998
+
+Registration is now available for the Second International Workshop on
+Neural Modeling of Brain and Cognitive Disorders this June.    
+Registration can be done by printing and mailing in the forms below, 
+or by using our online registration at
+
+    http://www.cs.umd.edu/~reggia/workshop/
+
+Further information is also available from: 
+
+  Cecilia Kullman
+  UMIACS
+  A. V. Williams Bldg. 
+  University of Maryland 
+  College Park, MD 20742 USA 
+
+  Tel: (301) 405-0304 
+  Fax: (301) 314-9658  
+  email: cecilia@umiacs.umd.edu
+
+A program listing is available below.
+
+  
+ *****************************************************************
+
+
+			   REGISTRATION FORM
+
+        NEURAL MODELING OF BRAIN AND COGNITIVE DISORDERS WORKSHOP
+			    College Park, Md
+			     June 4-6, 1998
+
+Name:  ___________________________________________________
+
+Affiliation:  ________________________________________________
+
+Address:  _________________________________________________
+
+_________________________________________________________
+
+Telephone:  ___________________________
+
+Fax:  ________________________________
+
+e-mail:  ______________________________
+
+
+___  $95  Conference fee before 5/10/98
+___  $110 Conference fee after 5/10/98
+___  $45  Student fee 
+
+Conference fee includes admission, proceedings, coffee and reception.
+Students must provide a copy of a student I.D. card or a letter
+from an advisor for proof of student status.
+
+Amount Enclosed:  $________________
+
+Method of payment:
+
+____  Check.  All checks must be in US dollars and payable to
+      "UMIACS-Neural Modeling Workshop."
+
+____  Visa
+
+____  Mastercard
+
+____  Discover
+
+Credit card number:  _______________________________________
+
+Expiration date:  _________________
+
+Name on card:  ________________________________________
+
+We accept registrations by mail, fax, email, telephone or on-line
+at our web site.  If you register on-line or by e-mail, then you
+should immediately submit credit card information by mail, fax or
+telephone.  Disclaimer: UMIACS is not responsible for lost or stolen
+credit card information submitted by email or online registration.
+Registration by mail or fax is strongly preferred for security reasons.
+
+The number of workshop participants is limited.  Registration
+is not guaranteed until payment is received.  
+
+On-line registration is at:   http://www.cs.umd.edu/~reggia/workshop/
+
+RETURN BY MAY 10, 1998 TO:
+Cecilia Kullman
+UMIACS
+University of Maryland
+College Park, MD  20742, USA
+Tel.: (301) 405-0304.  Fax: (301) 314-9658
+e-mail: cecilia@umiacs.umd.edu
+
+
+
+
+****************************************************************************
+
+			   HOTEL RESERVATION FORM
+  		          Neural Modeling Workshop
+		        The Inn and Conference Center
+		   University of Maryland University College
+
+Please reserve the following accommodations:
+
+___  $79 Single Occupancy
+
+___  $94 Double Occupancy
+
+Arrival Date: ____________
+
+Departure Date: ____________
+
+___  Smoking		___ Non-smoking
+
+___  Deposit check enclosed in the amount of $  ____________
+
+___  Credit card guarantee:
+		
+	Credit card number: _____________________________
+		
+	Credit card expiration date: ____________
+
+	Name on card: ______________________________
+
+
+
+Name:  ___________________________________________
+
+Affiliation:  _________________________________________
+
+Address:  __________________________________________
+
+__________________________________________________
+
+Telephone:  _________________________________________
+
+Fax:  ______________________________________________
+
+
+Rates are per room per night.  All rates are subject to a 5% occupancy
+tax.  All reservations must be accompanied by a deposit of one night's 
+room rate plus tax, or a credit card guarantee.  Guaranteed reservations
+will be held until 6:00 a.m. the following day.  Reservations not canceled
+prior to 6:00 p.m. on the arrival day will be charged one night's room rate 
+plus tax.
+
+SEND BY MAY 10, 1998 TO:
+Reservations
+The Inn and Conference Center
+University of Maryland University College
+University Boulevard at Adelphi Road
+College Park, MD  20742, USA
+Tel.: (301) 985-7310 or -7300, Fax: (301) 985-7850
+
+
+ ************************************************************************
+
+
+  SECOND INTERNATIONAL WORKSHOP ON
+  NEURAL MODELING OF BRAIN AND COGNITIVE DISORDERS 
+
+  Sponsors:
+
+     National Institute of Mental Health
+     Whitaker Foundation
+     National Institute of Neurological Disorders and Stroke
+     National Institute of Deafness and Other Communication Disorders
+     National Institute of Child Health and Human Development
+     Univ. of Maryland Inst. for Advanced Computer Studies
+     Center for Neural Basis of Cognition, CMU & Univ. of Pittsburgh 
+     Adams Super Center for Brain Studies, Tel Aviv
+     Neuroscience and Cognitive Science Program, UMCP
+
+  A workshop on Neural Modeling of Brain and Cognitive Disorders will be 
+  held on June 4 - 6, 1998 at the University of Maryland, College Park, just 
+  outside of Washington, DC.  The focus of this meeting will be on the 
+  lesioning of neural network models to study disorders in neurology,
+  neuropsychology and psychiatry, such as Alzheimer's disease, amnesia, aphasia,
+  depression, epilepsy, neglect, parkinsonism, schizophrenia, and stroke.  
+  These models attempt to explain how specific  neuroanatomical 
+  and neurophysiological changes can result in various clinical manifestations, 
+  and to investigate the functional organization of the symptoms that result 
+  from specific brain disorders. A Proceedings consisting of abstracts from 
+  the presentations will be available for attendees.
+
+  The emphasis at the workshop will be on reviewing and discussing new 
+  contributions to this field since the first meeting was held in 1995. 
+  Many of the invited contributions from the first workshop appeared in a 
+  World Scientific book last year; see web page indicated below.
+  
+  The latest information about this meeting can be found at
+
+             http://www.cs.umd.edu/~reggia/workshop/
+  
+  Program Committee: 
+  Rita Berndt (UMAB), Avis Cohen  (UMCP), Tim Gale (Univ. Hertfordshire), 
+  Helen Gigley  (ONR), Dennis Glanzman (NIMH), Barry Gordon (Hopkins),
+  Michael Hasselmo (Harvard), James McClelland (CMU), James Reggia (UMCP),
+  Eytan Ruppin (Tel Aviv), Greg Siegel (San Diego), Nitish Thankor (Hopkins).
+  
+  
+PROGRAM
+
+ORAL PRESENTATIONS
+
+
+THURSDAY, JUNE 4
+
+
+AMNESIA/ALZHEIMER'S DISEASE
+ Discussant and Chair: John Lisman, Brandeis University
+ Pablo Alvarez,  Boston University
+    A Neural Model of Retrograde Amnesia and Memory Consolidation
+ Michael Hasselmo,  Harvard University
+    Memory Function and Dysfunction in a Network Simulation of the Hippocampal
+    Formation
+ David Horn, Tel Aviv University
+    Multimodular Networks and Semantic Memory Impairments
+ Mark Gluck, Rutgers University
+    The Hippocampus: Information Gateway to Memory
+ Jaap Murre, University of Amsterdam
+    Computational Modeling of Semantic Dementia: 
+    New Evidence for a Consolidation Process
+
+
+LANGUAGE/COGNITIVE DISORDERS
+ Discussant and Chair: Gary Dell, University of Illinois
+ Kate Mayall, University of Birmingham 
+    A Connectionist Model of Peripheral Dyslexia: Loss of Letter Location
+    in Attentional Dyslexia
+ Jay McClelland, Carnegie-Mellon University 
+    Reopening the Critical Period: A Hebbian Account of Interventions 
+    that Induce Change in Language Perception
+ Risto Miikkulainen, University of Texas at Austin
+    Dyslexic and Aphasic Impairments in a Self-Organizing Model 
+    of the Lexicon
+ David Plaut, Carnegie-Mellon University 
+    Systematicity and Specialization in Semantics: A Connectionist Account 
+    of Optic Aphasia
+ Martha Farah, University of Pennsylvania
+    Superadditive Effects of Multiple Lesions in a Connectionist 
+    Architecture: Implications for Optic Aphasia
+
+    
+      (*** POSTER SESSION AND RECEPTION Thursday Evening ***)
+
+
+FRIDAY, JUNE 5
+
+
+STROKE AND EPILEPSY
+ Discussant and Chair: Mark Hallett, NINDS
+ Bill Lytton, Univ. of Wisconsin & Wm. S. Middleton VA Hospital
+    Unmasking Unmasked: Neural Dynamics Explains Appearance of Hidden
+    Connections Following Stroke
+ James Reggia, University of Maryland 
+    Lateralization and Lesioning of a Two Hemispheric Model of Single-word
+    Reading
+ Eytan Ruppin, Tel-Aviv University
+    On the Pathogenesis of Ischemic Damage: A Neuro-metabolic Model
+ Terrence Sejnowski, Howard Hughes Medical Institute and 
+    Salk Institute
+     Modeling  Absence Epilepsy
+ Steven Schiff, Children's National Medical Center
+    Periodic Orbits: A New Language for Modeling Neuronal Dynamics
+    with Applications to Epilepsy
+  
+
+ NEGLECT AND RELATED DISORDERS 
+ Discussant and Chair: Marlene Behrmann, Carnegie Mellon University
+ Mike Mozer, University of Colorado 
+    Object-Based Frames of Reference are not Required to Explain 
+    Object-Based Deficits in Hemispatial Neglect
+ Alexandre Pouget, Georgetown University
+    A Neural Theory of Hemineglect
+ Richard Shillcock, University of Edinburgh 
+    Connectionist Modelling of Unilateral Visual Neglect: the
+    Crossover Effect in Line Bisection
+ Rita Sloan Berndt & Carol Whitney, University of Maryland 
+    Positional Reading Errors: A New Interpretation of Right
+    Neglect Dyslexia
+  
+
+SATURDAY, JUNE 7
+
+
+SCHIZOPHRENIA/PSYCHIATRY
+ Discussant and Chair: William Carpenter, Maryland Psychiatric Research
+ Jonathan Cohen, University of Pittsburgh and Carnegie-Mellon University
+     Driving Subjects to Distraction: Empirical and Computational Modeling
+     Studies of Cognitive Control and Its Disturbance in Schizophrenia
+ Ralph Hoffman,  Yale University
+     Using Neural Networks to Explore Neurodevelopmental Models of
+     Schicophremia
+ Stephen Grossberg, Boston University
+    What do Schizophrenia, Parkinsonism, and Depression Have in Common?
+ Sunjay Berdia, Yale University
+    Neural Network Modeling of the Wisconsin Card Sorting Test
+ Greg Siegle, San Diego State Univ. and Univ. of California, 
+    San Diego 
+    A Neural Network Model of Affective Interference in Depression
+
+
+PARKINSONISM/OTHER BASAL GANGLIA DISORDERS
+ Discussant and Chair: Steven Wise, NIMH
+ Jose Contreras-Vidal, Arizona State University
+    A Neural Network Model of the Effects of L-dopa Therapy in Parkinson's
+    Disease
+ Donald Borrett, Toronto East General Hospital
+    Recurrent Neural Networks and Parkinson's Disease
+ Rolf Kotter, University of Dusseldorf
+    Striatal Mechanisms in Parkinson's Disease: Insights from
+    Computer Modeling
+
+
+THE FUTURE: SCIENTIFIC AND FUNDING EXPECTATIONS
+ Dennis Glanzman, National Institute of Mental Health
+
+
+
+POSTER PRESENTATIONS
+
+MEMORY DISORDERS
+ Jack Gelfand and Kevin Chen, Princeton University
+   Simulation of Deficits in Working Memory Function Due to Modulation
+   Irregularities of Thalamo-Cortical Loops
+ Julie Higgins, William  Milberg and Regina McGlinchey-Berroth,
+  Harvard Medical School
+  The GAIN/DECAY hypothesis of the Semantic Memory Deficit in Alzheimer's
+  Disease 
+ David Horn,  Nir Levy, Eliezer Masliah and Eytan Ruppin, 
+  Tel Aviv University and UCSD
+  A Computational Investigation of Alzheimer's Disease Pathology
+ Oury Monchi and John Taylor, King's College London
+  A Neural Network Model of Working Memory Deficits in Parkinson's Disease and
+  Schizophrenia
+ Adrian Opre and Peter Andras, Babes-Bolyai University
+  An Artificial Neural Network for Simulation and Study of the Amnesia
+  Syndrome
+ 
+
+LANGUAGE DISORDERS
+ Matthew Goldrick and Brenda Rapp, Johns Hopkins University
+  The Interaction of Semantics and Phonology in Word Production:
+  Computational Simulation and Theory Evaluation
+ Argye  Hillis, Brenda Rapp & Matthew Goldrick, 
+  Johns Hopkins Univ. Medical Inst.
+  A Pattern of Phonological Errors in Spoken Word Comprehension and Production:   Implications for Interactive Theories of Spoken Language
+ Richard Shillcock and Padraic Monaghan, University of Edinburgh
+  Foveal Splitting and Modelling Word Recognition
+
+
+NEUROLOGICAL DISORDERS
+ John Canfield and Michael Carter, University of New Hampshire
+  Epileptiform Bursting in a Disinhibited Recurrent Neural Network
+ John Demiris, University of Edinburgh
+  A Computational Model of Human Movement Imitation
+ Witali  Dunin-Barkowski, John Orem and Donald  Wunsch, Texas Tech University
+  Cerebellar Pathologies and Ondine's Curse
+ Piotr Franaszczuk, Pawel Kudela and Gregory  Bergey, UMAB and Warsaw University
+   A Neural Network Model of Propagation of Burst Activity
+ G. Gaal, Emory University
+   Deriving Jacobian and Functional Connectivity Matrices From Neural
+   Recordings With The Aim To Model Arm Movement Control
+ Tim  Gale, D. John Done and Ray  Frank, Univ. of Hertfordshire and 
+    QEII Hospital
+  Simulating Disorders of Visual Object Recognition in a Modular Neural
+  Network Architecture 
+ Claus  Hilgetag, Rolf Kotter, and  Malcolm Young, University of Newcastle 
+     upon Tyne and
+ Heinrich-Heine University Dusseldorf
+  Bilateral Competition and Paradoxical Lesion Effects
+
+
+NEGLECT AND ATTENTION DEFICITS
+ Andrew Amos and  Stephen Lewandowsky, University of Western Australia
+  Cortical-Subcortical Loops and Attentional Deficits in Schizophrenia,
+  Parkinson's Disease, and Huntington's Disease
+ Padraic Monoghan, Louise Kelly and Richard Shillcock, University of Edinburgh
+  Connectionist Modelling of Neglect Dyslexia
+ Raymond L. Ownby, University of Miami School of Medicine
+  Computational Models of Disorders of Attention: Simulation of Neglect,
+  Extinction, and Sustained Attention Deficits
+
+
+PSYCHIATRIC DISORDERS
+ Jean-Claude Dreher and Emmanuel Guigon, Univ. of Paris VI Jussieu
+  A Model of Dopamine Modulation on Sustained Activities in Prefrontal
+  Cortex
+ Lorenz Leumann and Hansruedi Fruh, University of Zurich
+  A Real-World Neural Network Approach to the Primary Acoustic Startle Circuit
+  and Prepulse Inhibition
+ Joanne  Luciano, Harvard Medical School, Massachusetts General Hospital
+  Modeling Unipolar Depression Treatment Response and Recovery Dynamics:  An
+    Integrated and Convergent Approach
+ Alastair Reid and David Willshaw, University of Edinburgh
+  Modeling Prefrontal Cortex Delay-Cells and Their Role in Schizophrenia
+ Eytan Ruppin and Asnat Greenstein-Messica, Tel-Aviv University
+  Delayed NMDA Maturation, Synaptic Runaway and Schizophrenia 
+ Charles Webster, Duquesne University
+  Computer Modeling of the Psychology and Neurology of Adaptive Depression
+
+
+BASAL GANGLIA DISORDERS
+ Gregory  Berns and Terrence Sejnowski, University of Pittsburgh,
+    Howard Hughes Medical Institute, and Salk Institute
+  A Computational Model of the Basal Ganglia and the Effect of Pallidotomy on
+  Sequence Learning
+ Michael Crowley, Amanda Bischoff and Michael  Arbib, University
+  of Southern California
+  Basal Ganglia Function: Sensory Expectation and the Suppression of Unwanted
+  States
+ J. Randall Gobbel, Carnegie Mellon University
+  Biophysical Models of Hierarchical Sequence Execution in the Healthy and
+  Parkinsonian Neostriatum
+ P. Watters and M. Patel, Macquarie University
+  Parkinson's Disease and Dopamine Regulation: Implications for Semantic
+  Processing
+

@@ -1,0 +1,146 @@
+
+
+From ekpark@helios.cstp.umkc.edu Wed Apr 14 23:36:23 MET 1999
+Received: from helios.cstp.umkc.edu (helios.cstp.umkc.edu [134.193.2.39])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id XAA24753
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 14 Apr 1999 23:35:26 +0200 (METDST)
+Received: (from ekpark@localhost)
+	by helios.cstp.umkc.edu (8.9.1/8.9.1) id QAA09537;
+	Wed, 14 Apr 1999 16:33:56 -0500 (CDT)
+Date: Wed, 14 Apr 1999 16:33:56 -0500 (CDT)
+From: Eun Kyo Park <ekpark@cstp.umkc.edu>
+Message-Id: <199904142133.QAA09537@helios.cstp.umkc.edu>
+To: Lars-Ake.j.Isaksson@telia.se, bastiaan@cs.vu.nl, corinne.plazanet@epfl.ch,
+        dcerra@mkp.com, fnielsen@eivind.imm.dtu.dk,
+        francoise.de-coninck@inrialpes.fr, hoya@dbsun3.kaist.ac.kr,
+        jonas.u.christiansson@telia.se, kimoto@dq.isl.ntt.co.jp,
+        miyazaki@cs.it-chiba.ac.jp, nick.walker@fulcrum.com,
+        richard.pearson@bt-sys.bt.co.uk, takeda@icot.or.jp,
+        volker@teco.uni-karlsruhe.de, xtian@co.umist.ac.uk
+Subject: ACM CIKM99 CFP
+Status: RO
+X-Status: 
+
+
+
+                          ACM CIKM'99 CALL FOR PAPERS
+                       Eighth International Conference on 
+                      Information and Knowledge Management 
+                    November 2-6, 1999, Kansas City, MO, USA 
+                               Crowne Plaza Hotel
+
+                     Sponsored  by ACM SIGIR and ACM SIGMIS
+                          In Cooperation with CST-UMKC
+                (pending approval of sponsorship/in cooperation)
+
+CIKM '99 will bring together leading researchers and developers in a wide variety of 
+scientific areas, with a common interest in improving information and knowledge 
+management technologies. Its objective is to provide a forum for the discussion and 
+dissemination of recent advances in the area, and to foster collaboration between 
+the database, information retrieval, and artificial intelligence communities. The 
+focus of the conference is new and original research results in the areas of 
+theoretical foundations, design, implementation, and applications of information and
+knowledge management. We solicit papers in the following areas, but are not limited 
+to:
+
+     Intelligent Search            Data Mining, Knowledge and Resource Discovery
+     Interactive Data Exploration  Cooperating and Interoperable Federated Systems
+     Digital Libraries             Logical and Physical Database Design
+     Intelligent Info Systems      Hypertext and Hypermedia 
+     Intelligent Agents            Info Filtering and Summarization 
+     Data Warehouses/OLAP          Info Classification and Organization    
+     Distributed Object Management Multicast and Data/Knowledge Sharing         
+     Multimedia Database Systems   Mobile Databases and Wireless Computing 
+     Dynamic Databases             Active and Extensible Databases 
+     Temporal/Spatial Databases    Integrating Databases and Info Retrieval 
+     Data and Info Visualization   Eng./Scientific and Design Databases
+     Knowledge Management          Heterogeneous and Distributed Systems 
+  
+PAPER SUBMISSION:
+
+Authors are invited to submit complete and original papers. Papers that may be submitted
+for consideration include those that have not previously been published in another forum, 
+or are not currently being published or reviewed by another journal or conference. All 
+submitted papers will be refereed for quality, originality and relevance.  Of particular 
+interest are papers which address experiences with concrete applications.  All accepted 
+papers will appear in the conference proceedings, to be published by ACM Press, provided 
+at least one author attends the conference to present the paper.  Manuscripts should 
+include an abstract and be limited to 5000 words. Submissions should include the title, 
+author(s), author's affiliation, e-mail address, tel/fax numbers and postal address. In 
+case of multiple authors, please indicate which author is responsible for correspondence 
+and preparing the camera ready paper for the proceedings. Seven copies of the manuscript 
+should be submitted by May 1, 1999 to the appropriate Program Committee Co-Chair:
+
+   Dr. Susan Gauch, CIKM'99 (IR track)   Dr. Il-Yeol Song,  CIKM'99 (DBMS track)
+   ITTC, Nichols Hall                    College of Information Science and Technology 
+   University of Kansas                  Drexel University, 32nd Chestnut Street 
+   Lawrence, KS 66045 USA	         Philadelphia, PA 19104, USA
+   sgauch@eecs.ukans.edu                 song@drexel.edu
+   785-864-7755                          215-895-2489  
+
+IMPORTANT DATES:   Full papers, workshops, tutorials due : May  1, 1999 
+                   Notification of acceptance            : August 2, 1999 
+                   Camera ready papers due               : September 1, 1999 
+
+WORKSHOPS: Send proposals to Dr. Konstantinos Kalpakis, CIKM'99 Workshops Chair,
+           Dept. of EECS, UMBC, 1000 Hilltop Circle, Baltimore, MD 21228 USA,  
+           kalpakis@cs.umbc.edu, 410-455-3143
+
+TUTORIALS: Send proposals to Dr. Costas Tsatsoulis, CIKM'99 Tutorials Chair, 
+           ITTC, Nichols Hall, University of Kansas, Lawrence, KS 66045 USA, 
+           tsatsoul@eecs.ukans.edu
+
+For more information about the conference, please visit the CIKM web site 
+www.cs.umbc.edu/cikm/1999; or contact the General Chairs Kia Makki or E.K. Park.
+---------------------------------------------------------------------------------------
+
+GENERAL CHAIRS: Kia Makki, USL (kia@usl.edu) and E.K. Park, UMKC (ekpark@cstp.umkc.edu)
+
+PROGRAM CHAIRS: Susan Gauch and Il-Yeol Song
+
+PUBLICITY CHAIR: David Grossman, dagr@jnpcs.com
+
+LOCAL ARRANGEMENT CHAIR: Jerry Stach, stach@cstp.umkc.edu
+
+TECHNICAL PROGRAM COMMITTEE:
+
+Karl Aberer, Germany          Maristella  Agosti, Italy     James Allan, USA
+Paolo Atzeni, Italy           Elisa Bertino, Italy          Peter Buneman, USA
+Jan Buzydlowski, USA          Jamie Callan, USA             Arbee Chen, Taiwan
+Su-Shing Chen, USA            Sophie Cluet, France          Bruce Croft, USA
+Karen Davis, USA              Susan Dumais, USA             Ramez Elmasri, USA
+David Embley, USA             Peter Fankhauser, Germany     Reginald Ferber, Germany
+Edward A. Fox, USA            Hans-Peter Frei, Switzerland  Jim French, USA
+Norbert Fuhr, Germany         George Gardarin, France       Lee Giles, USA
+Forouzan Golshani, USA        Michael Halper, USA           Jiawei Han, Canada
+Donna Harman, USA             Lewis Hassell, USA            Yannis Ioannidis, Greece/USA
+Trevor Jones, USA             Wolfgang Klas, Germany        Jin-Ho Kim, Korea
+Myung-Ho Kim, Korea           Judith Klavens, USA           Bob Krovetz, USA
+Sukhamay Kundu, USA           K.L. Kwok, USA                Alberto H. Laender, Brazil
+Mounia Lalmas, UK             Roger Lee, USA                Suk-Kyun Lee, Korea
+Xia Lin, USA                  Tok Wang Ling, Singapore      Chengwen Liu, USA
+Kia Makki, USA                Sam Makki, Australia          Gail Michell, USA
+Mukesh Mohania, Australia     Erich J. Neuhold, Germany     Niki Pissinou, USA
+A. Steven Pollitt, UK         Calton Pu, USA                Berthier Ribeiro-Neto, Brazil
+Neil Rowe, USA                Fereidoon Sadri, USA          Mark Sanderson, UK
+Peter Schauble, Switzerland   Timos Sellis, Greece          Cyrus Shahabi, USA
+Paraic Sheridan, USA          Kyuseok Shim, USA             Alan F. Smeaton, Ireland
+Stefano Spaccapietra, Switzer Amanda Spink, USA             Junping Sun, USA 
+Toby J. Teorey, USA           Ulrich Thiel, Germany         Richard Tong, USA
+Suk-Chung Yoon, USA           Charles L. Viles, USA         Ellen Voorhees, USA
+Philip Yu, USA                Kyu-Young Whang, Korea        
+------------------------------------------------------------------------------------------
+
+The following workshops/symposium are planned in conjunction with ACM CIKM99 and please 
+visit CIKM99 homepage above for more information on paper submition to each workshop:
+
+ 1. Web Information and Data Management (WIDM'99): Program Chair, Dr. Cyrus Shahabi
+    (shahabi@usc.edu); http://dimlab.usc.edu/widm99  or visit CIKM99 homepage.
+
+ 2. Data Warehousing and OLAP (DOLAP99): Program Chair, Dr. I.Y. Song (songiy@drexel.edu);
+    http://www.pages.drexel.edu/faculty/songiy/dolap99.html or CIKM99 homepage.
+
+ 3. Symposium on Advances in Geographic Information Systems (GIS99): 
+    Program Chair, Dr. Claudia Bauzer Medeiros (cmbm@dcc.unicamp.br);
+    http://www.dcc.unicamp.br/~cmbm/acmgis99 or CIKM99 homepage.
+------------------------------------------------------------------------------------------

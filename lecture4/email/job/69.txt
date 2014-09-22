@@ -1,0 +1,92 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Feb 13 00:36:06 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA26506
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 13 Feb 1999 00:36:04 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20792;
+          12 Feb 99 17:00 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20778;
+          12 Feb 99 16:53 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21084;
+          12 Feb 99 16:53 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab05305; 12 Feb 99 13:54 EST
+Received: from [157.228.12.13] by RI.CMU.EDU id aa26302; 12 Feb 99 13:52:43 EST
+Received: from skuld.sunderland.ac.uk [157.228.106.130] 
+	by isis.sunderland.ac.uk with smtp (Exim 1.82 #2)
+	id 10BNhv-0007Ko-00; Fri, 12 Feb 1999 18:52:55 +0000
+Received: from sunderland.ac.uk by skuld.sunderland.ac.uk (SMI-8.6/SMI-SVR4)
+	id SAA10703; Fri, 12 Feb 1999 18:46:28 GMT
+Sender: Stefan.Wermter@sunderland.ac.uk
+Message-ID: <36C47704.712E6D2F@sunderland.ac.uk>
+Date: Fri, 12 Feb 1999 18:46:28 +0000
+From: Stefan Wermter <stefan.wermter@sunderland.ac.uk>
+X-Mailer: Mozilla 4.5 [en] (X11; I; SunOS 5.6 sun4u)
+X-Accept-Language: de
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>
+CC: stefan.wermter@sunderland.ac.uk
+Subject: Job: Research Network Assistant
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+Part-time Research Network Assistant
+
+Applications are invited for a two year research network
+assistant position. You will support a new international research
+network in the areas of neural networks and computational
+neuroscience in the framework of the EPSRC project EmerNet.
+The exciting new project examines the possible benefits of
+neuroscience and brain architectures for computational neural
+networks in the future.
+
+The candidate will play a key role in the support of this international
+research network including set up of web server for the
+network, restricted web programming, design and maintenance
+of web pages, collection of material in computational neuroscience,
+organisational  support and administration for international
+workshops and technical writing.
+
+Candidates should have a degree in a Computing/Neurobiology/
+Neuroscience discipline and an interest in artificial neural
+networks and computational neuroscience.  Good communication
+and technical writing skills are required and some software
+engineering experience is  an advantage.  There will be a
+possibility to register for PhD part-time if so desired.
+
+18.5 hours per week
+12,733 - 14,222 (pro-rata)
+
+Informal enquiries welcomed by Professor Dr Stefan Wermter,
+e-mail Stefan.Wermter@sunderland.ac.uk
+
+Ref No:  CETS48
+Closing Date:  25/2/99
+
+Application forms and further particulars are available by
+telephoning extensions  3578, 2429, 2055, or 2425
+or E-Mail employee.recruitment@sunderland.ac.uk
+quoting appropriate reference number.
+
+
+
+********************************************
+Professor Stefan Wermter
+Research Chair in Intelligent Systems
+University of Sunderland
+Centre of Informatics
+School of Computing, Engineering and Technology
+St Peters Way
+Sunderland SR6 0DD
+United Kingdom
+
+phone: +44 191 515 3279
+fax:   +44 191 515 2781
+email: stefan.wermter@sunderland.ac.uk
+http://www.his.sunderland.ac.uk/
+http://osiris.sunderland.ac.uk/~cs0stw/
+********************************************
+

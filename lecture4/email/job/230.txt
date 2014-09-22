@@ -1,0 +1,63 @@
+
+
+From spm-request@mailbase.ac.uk Mon Nov 22 09:35:25 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id JAA23079
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 22 Nov 1999 09:35:24 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id IAA27489;
+	Mon, 22 Nov 1999 08:36:28 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id IAA18547;
+        Mon, 22 Nov 1999 08:34:23 GMT
+Received: from printhost.beckman.uiuc.edu (printhost.beckman.uiuc.edu [130.126.116.212]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id IAA18540;
+        Mon, 22 Nov 1999 08:34:19 GMT
+Received: from [130.126.116.237] (dialin07.beckman.uiuc.edu [130.126.116.237])
+	by printhost.beckman.uiuc.edu (8.8.8/8.8.8) with ESMTP id CAA17552
+	for <spm@mailbase.ac.uk>; Mon, 22 Nov 1999 02:36:39 -0600 (CST)
+Mime-Version: 1.0
+X-Sender: gjd@casper.beckman.uiuc.edu
+Message-Id: <v04210100b45ea15aa379@[130.126.116.237]>
+Date: Mon, 22 Nov 1999 02:38:13 -0500
+Content-Type: text/plain; charset="us-ascii" ; format="flowed"
+Subject: Post-Doctoral Position in Functional Imaging & Neuropsychology
+From: "Gregory J. DiGirolamo" <gjd@uiuc.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Gregory J. DiGirolamo" <gjd@uiuc.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+Cognitive Neuroscience Laboratory
+Beckman Institute
+University of Illinois at Urbana-Champaign
+Urbana, Illinois 61801
+USA
+
+
+A 2 year post-doctoral position is available at the Beckman Institute 
+at the University of Illinois. This position will involve working 
+with Amnesia and Neglect patients and doing functional MRI in both 
+patient populations and normal subjects. These projects will 
+investigate plasticity of neural and cognitive function and intact 
+cognitive processes in these patient populations.
+
+Candidates with experience with patient populations, functional 
+neuroimaging, and SPM analysis package are especially encouraged to 
+apply. Please send (via email or mail) a vita and reference 
+information to:
+
+Dr. Gregory J. DiGirolamo
+Beckman Institute
+University of Illinois at Urbana-Champaign
+405 North Mathews Avenue
+Urbana, IL 61801
+USA
+email: gjd@uiuc.edu
+

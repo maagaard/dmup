@@ -1,0 +1,48 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Dec 17 18:02:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id SAA15684;
+	Fri, 17 Dec 1999 18:02:35 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20525;
+          17 Dec 99 9:15 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20523;
+          17 Dec 99 9:06 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03420;
+          17 Dec 99 9:06 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa18876; 17 Dec 99 7:35 EST
+Received: from clyde.stir.ac.uk by cs.cmu.edu id aa27065; 17 Dec 99 7:35 EST
+Received: from nevis.stir.ac.uk (nevis.stir.ac.uk [139.153.129.2])
+          by clyde.stir.ac.uk (8.8.8/8.8.4) with ESMTP
+	  id MAA22690 for <connectionists@cs.cmu.edu>; Fri, 17 Dec 1999 12:34:29 GMT
+Received: (from pjh@localhost)
+	by nevis.stir.ac.uk (8.8.6/8.8.6) id MAA22213;
+	Fri, 17 Dec 1999 12:35:10 GMT
+Date: Fri, 17 Dec 1999 12:35:10 +0000 (GMT)
+From: Peter Hancock <p.j.b.hancock@psych.stir.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Faculty posts in Computing Science
+Message-ID: <Pine.HPP.3.90.991217122612.1813d-100000@nevis.stir.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+The computing science department at the University of Stirling has vacancies
+for two chairs (full professors) and two lecturers.  They would be very
+interested in people doing research in neural networks, to join the existing
+interdisciplinary group here.  The official closing date has past, but anyone
+interested might still contact Prof. Ken Turner, kjt@cs.stir.ac.uk. 
+
+http://www.cs.stir.ac.uk/jobs/
+
+-------------------------------------------------------------------------
+Peter Hancock                                       
+Department of Psychology               0 0    Face          Centre for
+University of Stirling                  |   Research  and   Cognitive and
+FK9 4LA, UK                            \_/    Group         Computational
+Phone 01786 467675  Fax 01786 467641                        Neuroscience
+pjh@psych.stir.ac.uk   http://www-psych.stir.ac.uk/~pjh
+-------------------------------------------------------------------------
+ 
+

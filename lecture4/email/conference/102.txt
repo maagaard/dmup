@@ -1,0 +1,147 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU Thu May 21 12:30:45 MET 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id MAA11580;
+	Thu, 21 May 1998 12:30:39 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa18303;
+          21 May 98 2:08:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa18301;
+          21 May 98 1:59:50 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19495;
+          21 May 98 1:59 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17321; 21 May 98 0:53 EDT
+Received: from wiley.csusb.edu by EDRC.CMU.EDU id aa26149; 21 May 98 0:52:47 EDT
+Received: (from georgiou@localhost) by wiley.csusb.edu (8.8.5/8.6.11) id VAA21678; Wed, 20 May 1998 21:51:29 -0700 (PDT)
+Date: Wed, 20 May 1998 21:51:29 -0700 (PDT)
+Message-Id: <199805210451.VAA21678@wiley.csusb.edu>
+From: georgiou@wiley.csusb.edu
+To: connectionists@cs.cmu.edu
+Subject: Last Call for Papers: ICCIN'98
+Status: RO
+X-Status: 
+
+		   3rd International Conference on
+
+	COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE (ICCIN'98)
+
+	     Sheraton Imperial Hotel & Convention Center
+		Research Triangle Park, North Carolina
+	  October 24-28, 1998 (Tutorials are on October 23)
+
+	      Summary Submission Deadline: June 1, 1998
+	       Decision & Notification: August 1, 1998
+
+
+Conference Co-chairs:
+
+Subhash C. Kak, Louisiana State University
+Jeffrey P. Sutton, Harvard University
+
+Plenary Speakers include the following:
+
++-----------------------------------------------------------------------+
+|James Anderson   |Panos J. Antsaklis |John Baillieul  |Walter Freeman  |
+|-----------------+-------------------+----------------+----------------|
+|David Fogel      |Stephen Grossberg  |Stuart Hameroff |Yu Chi Ho       |
+|-----------------+-------------------+----------------+----------------|
+|Thomas S.Huang   |George J. Klir     |Teuvo Kohonen   |John Koza       |
+|-----------------+-------------------+----------------+----------------|
+|Richard G. Palmer|Zdzislaw Pawlak    |Karl Pribram    |Azriel Rosenfeld|
+|-----------------+-------------------+----------------+----------------|
+|Julius T. Tou    |I.Burhan Turksen   |Paul J. Werbos  |A.K.C.Wong      |
+|-----------------+-------------------+----------------+----------------|
+|Lotfi A. Zadeh   |Hans J.Zimmermann  |                |                |
++-----------------------------------------------------------------------+
+
+This conference is part of the Fourth Joint Conference Information
+Sciences.
+
+Organizing Committee:
+
+George M. Georgiou, California State University, Chair
+Grigorios Antoniou, Griffith University, Australia
+Catalin Buiu, Romania
+Richard Burright, State Univ. of N.Y., Binghamton
+Ian Cresswell, University of Central England, U.K.
+S. Das, University of California, Berkeley
+S.C. Dutta Roy, India
+Laurene Fausett, Florida Institute of Technology
+Paulo Gaudiano, Boston, University
+Masafumi Hagiwara, Keio Univ., Japan
+Ugur Halici, METU, Turkey
+Akira Hirose, University of Tokyo
+Arun Jagota, University of California, Riverside
+Boris Kovalerchuk, Central Washington University
+E.V. Krishnamurthy, Australian National University, Canberra
+Ping Liang, University of California, Riverside
+Jacek Mandziuk, Warsaw Univ. of Technology, Poland
+Jonathan Marshall, University of N. Carolina
+Bimal Mathur, Rockwell CA
+Kishan Mehrotra, Syracuse
+Ouri Monchi, King's College London, UK
+Haluk Ogmen, University of Houston
+Ed Page, South Carolina
+Mitja Perus, National Institute of Chemistry, Slovenia
+Vladimir Radevski, Univ. of Paris, FRANCE
+Raghu Raghavan, National Univ. of Singapore
+W.A. Porter, University of Alabama
+Ed Rietman, Bell Labs
+Christos Schizas, University of Cyprus
+Harold Szu, USL
+M. Trivedi, UCSD
+Sudhir Trivedi, Southern University
+John Sutherland, AND Corporation, Canada
+Nicolae Varachiu, National Institute of Microtechnology, Romania
+Dan Ventura, Brigham Young University
+E. Vityaev, Russia
+Paul Wang, Duke University
+Sumio Watanabe, Tokyo Institute of Technology, Japan
+Edward K. Wong, Polytechnic University, NY, USA
+
+Areas for which papers are sought include:
+
+   o Artificial Life
+   o Artificially Intelligent NNs
+   o Associative Memory
+   o Cognitive Science
+   o Computational Intelligence
+   o Efficiency/Robustness Comparisons
+   o Evolutionary Computation for Neural Networks
+   o Feature Extraction & Pattern Recognition
+   o Implementations (electronic, Optical, Biochips)
+   o Intelligent Control
+   o Learning and Memory
+   o Neural Network Architectures
+   o Neurocognition
+   o Neurodynamics
+   o Neuro-Quantum Information Processing
+   o Optimization
+   o Parallel Computer Applications
+   o Quantum Neurocomputing
+   o Theory of Evolutionary Computation
+
+Summary Submission Deadline: June 1, 1998
+
+Decision & Notification: August 1, 1998
+
+Papers will be accepted based on summaries. A summary shall not exceed 4 pages
+of 10-point font, double-column, single-spaced text, with figures and tables
+included. Required deposits and other information:
+http://www.ee.duke.edu/~gu/JCIS98/conf.html 
+
+For the 3rd ICCIN, send 3 copies of summaries to:
+
+George M. Georgiou
+Computer Science Department
+California State University
+San Bernardino, CA 92407-2397
+U.S.A.
+georgiou@csci.csusb.edu
+
+Tutorial and other registration information can be found in the announcement
+of the Fourth Joint Conference Information Sciences:
+http://www.ee.duke.edu/~gu/JCIS98/
+
+
+ICCIN'98 Conference Web site: http://www.csci.csusb.edu/iccin

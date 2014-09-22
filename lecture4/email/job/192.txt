@@ -1,0 +1,63 @@
+
+
+From spm-request@mailbase.ac.uk Fri Oct  8 18:34:36 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id SAA20879
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 8 Oct 1999 18:34:35 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id RAA20939;
+	Fri, 8 Oct 1999 17:32:55 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id RAA10822;
+        Fri, 8 Oct 1999 17:29:12 +0100 (BST)
+Received: from ciao.cc.columbia.edu (cu12097@ciao.cc.columbia.edu [128.59.59.11]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id RAA10802;
+        Fri, 8 Oct 1999 17:29:07 +0100 (BST)
+Received: from localhost by ciao.cc.columbia.edu (8.9.3/8.9.3) with ESMTP id MAA17243
+	for <spm@mailbase.ac.uk>; Fri, 8 Oct 1999 12:29:07 -0400 (EDT)
+Date: Fri, 8 Oct 1999 12:29:06 -0400 (EDT)
+Original-Sender: er22@columbia.edu
+Message-ID: <Pine.GSO.4.10.9910081224150.25093-100000@ciao.cc.columbia.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by naga.mailbase.ac.uk id RAA10802
+Subject: Position/Image Analyst
+From: Eric  Rubin <er22@columbia.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Eric  Rubin <er22@columbia.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+POSITION AVAILABLE NOW:
+Brain Imaging Analyst
+Division on Substance Abuse, Columbia University Department of Psychiatry
+
+We use neuroimaging to study the human brain pathways involved in
+cocaine'Õs acute and chronic effects on mood, cognition, and behavior. We
+seek a collaborator to help analyze functional (PET, using ECAT EXACT HR+)
+and structural (MRI) data. Work will entail implementation of existing
+software for PET and MRI analysis, plus development of novel analytic
+methods. Background in quantitative psychology or neurobiology,
+statistics, or mathematics required.  Applicant should have either Ph.D.,
+or Master'Õs degree plus two years of relevant experience. Facility with
+UNIX, Matlab and C++ required.  Minimum 2 year commitment. AA/EOE.
+
+Send CV and three letters of recommendation to 
+Dr. Eric Rubin
+Unit #66, NYSPI
+1051 Riverside Dr.
+New York City, NY 10032, USA
+E-mail:er22@columbia.edu 
+
+
+
+

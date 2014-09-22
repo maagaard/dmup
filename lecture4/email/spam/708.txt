@@ -1,0 +1,192 @@
+
+
+From Webmaster@RobotBooks.com Sun Nov 28 03:41:30 MET 1999
+Received: from hendrix.imm.dtu.dk (hendrix.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id DAA03263
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 28 Nov 1999 03:41:29 +0100 (MET)
+From: Webmaster@RobotBooks.com
+Received: from proxy4.ba.best.com (root@proxy4.ba.best.com [206.184.139.15])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id DAA04878
+	for <www@hendrix.imm.dtu.dk>; Sun, 28 Nov 1999 03:42:58 +0100 (MET)
+Received: from c998836-a (c998836-a.smateo1.sfba.home.com [24.5.200.103])
+	by proxy4.ba.best.com (8.9.3/8.9.2/best.out) with SMTP id SAA06350
+	for <www@hendrix.imm.dtu.dk>; Sat, 27 Nov 1999 18:41:47 -0800 (PST)
+Date: Sat, 27 Nov 1999 18:41:47 -0800 (PST)
+To: www@hendrix.imm.dtu.dk
+Subject: Robot Books Update
+Organization: Robot Books.com
+Message-Id: <E0MZDTPG.U4747180@RobotBooks.com>
+Status: RO
+X-Status: 
+
+************************************
+*****  Robot Books.com Update  *****
+************************************
+
+We have made quite a few changes to http://www.RobotBooks.com 
+since our last newsletter. When you visit us again, here are some 
+of the new things you will find:
+
+
+What's New:
+*************************************
+
+(1) "Applied Robotics" With CD-ROM
+
+This book guides you through the steps of creating a small, 
+rolling robot. It is a practical, project-oriented book and 
+includes projects on the mechanical platform, DC motor control, 
+R/C servo control, sensory input, and microcontrollers. You will 
+be introduced to all the challenging aspects of robotic systems 
+including mechanical design, sensory systems, electronic control, 
+and computer software intelligence. Along the way, you'll also 
+learn about fuzzy logic, subsumption, and microcontrollers.
+
+"Applied Robotics" is now 20% off!
+
+Visit our "Hobby Robots" page for more info on this book.
+*************************************
+
+
+(2) "Microcontroller Projects with Basic Stamps" With CD-ROM
+
+This is a great way to learn about Basic Stamp programming. 
+Basic Stamp is the brand name of a microcontroller chip that is 
+widely used in the "brains" of electronic devices and robots. 
+This book teaches the principles and processes of microcontroller 
+development by demonstrating how to program the tiny Basic Stamp. 
+The companion CD-ROM contains a tool that converts the your Basic 
+program to the assembly language required to run a PIC 
+microcontroller.
+
+"Microcontroller Projects with Basic Stamps" is now 20% off!
+
+Visit our "Robot Electronics" page for more info on this book.
+*************************************
+
+
+(3) "The Electronics Pocket Handbook" 
+
+This book brings together the most important electronics charts, 
+tables, definitions and formulas in one place. It contains all 
+the component data, formulas, standards, symbols and codes 
+commonly used in electronics, plus an extensive dictionary of 
+computer and electronics terms.
+
+"The Electronics Pocket Handbook"  is now 20% off!
+
+Visit our "Robot Electronics" page for more info on this book.
+*************************************
+
+
+(4) "Mechanisms and Mechanical Devices Sourcebook"
+
+This book is not new, but it deserves special notice because it 
+has finally gone on sale!
+
+This is our favorite book on Mechanical design, and one of our 
+over-all favorite titles. It features an amazing collection of 
+"pre-invented" linkages, cams, gears, clutches, brakes, and 
+classical mechanisms.  The 447 large format pages with over 2300 
+illustrations make each of the devices easy to understand and 
+replicate. My copy is well worn and dog-eared from years of study 
+and use. Many of the devices are just simple combinations of 
+gears, links, chains, and levers, that are well within the 
+abilities of the Sunday garage tinkerer.  We give it our highest 
+recommendation.  Get your copy now at 20% off! 
+
+Visit our "Robot Mechanics" page for more info on this book.
+*************************************
+
+
+(5) "Cambrian Intelligence" by Rodney A. Brooks
+
+Will we build intelligent robots from the brain down, or from the 
+legs up? Rodney Brooks, the controversial director of MIT's 
+Artificial Intelligence Laboratory, is betting on the latter. 
+"Cambrian Intelligence", composed of eight papers written between 
+1985 and 1991, explores the technical and philosophical aspects 
+of behavior-based robotics, offering much for the interested mind 
+to ponder. 
+
+Visit our "Robot Minds" page for more info on this book.
+*************************************
+
+
+(6) "The Unofficial Guide to Lego Mindstorms Robots"
+
+Based on hands-on robot projects, the book features descriptions 
+of advanced mechanical techniques, programming with third-party 
+software, working with more than one kit, and sources of extra 
+parts. It goes far beyond what you'll find in the official 
+documentation.
+
+"The Unofficial Guide to Lego Mindstorms Robots" is now 20% off!
+
+Visit our "Lego Mindstorms" page for more info on this book.
+*************************************
+
+
+(7) Our subscription offer for "Robot Science & Technology" has 
+been surprisingly popular. If you have not heard about this 
+magazine, please visit our "Robot Magazines" page and take a look 
+at it. The latest issue features hobby combat robots!
+*************************************
+
+
+(8) "Extreme Machines: Incredible Robots" Video
+
+See fantastic footage of some of the worlds most advanced and 
+amazing robots including shots of Rodney Brooks, author of 
+"Cambrian Intelligence", putting "COG" through its paces; Hans 
+Moravec, author of "Robot", explaining his vision for the future 
+of robotics; a time-lapse video of Mark Tilden constructing one 
+of his simple robots in less than an hour; the Honda P5 robot, 
+which looks like a man in a robot costume, walking and climbing 
+stairs; videos of several other robots climbing (or attempting to 
+climb) stairs; a cool underwater crab-like robot; the six-leg 
+truck-sized Adaptive Suspension Vehicle featured in the book 
+"Machines that Walk"; Bart Everett, author of "Sensors for Mobile 
+Robots", and his "urban warfare" robot that packs a small caliber 
+machine gun; and get a sneak preview of NASA's 12 inch long "Nano 
+Rover", the next planetary rover that will be making big news in 
+an upcoming NASA mission!
+
+Visit our "Robot Movies" page for more info on this film.
+**************************************
+
+
+(9) New Robot Dog from ROBOTIX includes a wireless remote control 
+and four electric motors. Easy snap-together construction makes 
+this the perfect gift for the roboticist in your family! 
+
+Visit our "Kits and Toys" page for more info on this robot.
+**************************************
+
+
+(10) We have added a new line of classic collectable tin and 
+die-cast robots. Perfect stocking stuffers! See our "Kits and 
+Toys" page for details.
+**************************************
+
+
+(11) K'NEX Robot toy sale! Get your Christmas shopping done early 
+and save 20% on our line of K'NEX robots!
+**************************************
+
+Visit us at http://www.robotbooks.com
+
+If you have any suggestions or comments, please email me at:
+webmaster@robotbooks.com
+
+
+To unsubscribe reply to this email with the word "UNSUBSCRIBE" in the 
+subject line.
+
+
+
+Thanks,
+
+
+Carlo Bertocchini
+http://www.robotbooks.com/

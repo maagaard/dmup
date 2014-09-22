@@ -1,0 +1,42 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Feb 12 05:44:53 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA16670;
+	Fri, 12 Feb 1999 05:44:47 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18419;
+          11 Feb 99 21:37 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18417;
+          11 Feb 99 21:32 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20019;
+          11 Feb 99 21:31 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19313; 11 Feb 99 20:53 EST
+Received: from exchange1.ntu.edu.sg by RI.CMU.EDU id aa17608;
+          11 Feb 99 20:50:56 EST
+Received: by EXCHANGE1 with Internet Mail Service (5.5.2232.9)
+	id <1P7MDACZ>; Fri, 12 Feb 1999 09:51:03 +0800
+Message-ID: <6665AC0C667ED11186E308002BB487E10366D0F7@exchange2>
+From: "Jagath C Rajapakse (Dr)" <ASJagath@ntu.edu.sg>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Subject: Postdoc position available in brain image analysis
+Date: Fri, 12 Feb 1999 09:50:52 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2232.9)
+Content-Type: text/plain
+Status: RO
+X-Status: 
+
+Postdoctoral Position Available in Brain Image Analysis
+
+A postdoctoral research fellow position is available to work under 
+the supervision of Dr. Jagath C. Rajapakse in the School of Applied 
+Science, Nanyang Technological University, Singapore. The fellow will
+involve in a joint research project between the school and Singapore
+General Hospital investigating analysis of functional MR time-series
+and segmentation of neuroanatomical structures in structural MR head 
+scans. Knowledge in image processing and experience in programming in 
+C++ are required. Candidate should have a Ph.D. in a related field. 
+For further information, contact: Dr. Jagath Rajapakse, School of 
+Applied Science, Nanyang Technological University, N4 Nanyang Avenue,
+Singapore 639798. Email: asjagath@ntu.edu.sg,
+Phone: +65 790 5802, Fax: +65 792 6559

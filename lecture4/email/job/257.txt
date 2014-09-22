@@ -1,0 +1,74 @@
+
+
+From spm-request@mailbase.ac.uk Wed Jan  5 16:57:07 MET 2000
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id QAA09111
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 5 Jan 2000 16:57:04 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA14850;
+	Wed, 5 Jan 2000 15:57:35 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA09687;
+        Wed, 5 Jan 2000 15:54:55 GMT
+Received: from mail.med.cornell.edu (smtp.med.cornell.edu [140.251.3.3]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id PAA09650;
+        Wed, 5 Jan 2000 15:54:32 GMT
+Received: from [140.251.58.66] by mail.med.cornell.edu
+          (Netscape Messaging Server 3.6)  with ESMTP id AAA23D46
+          for <spm@mailbase.ac.uk>; Wed, 5 Jan 2000 10:54:03 -0500
+Message-Id: <v03100002b4991b140901@[140.251.58.66]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 5 Jan 2000 11:02:37 -0500
+Subject: NIMH Supported Functional Neuroimaging Fellowship
+From: David Silbersweig <dasilber@mail.med.cornell.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: David Silbersweig <dasilber@mail.med.cornell.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+NIMH SUPPORTED FUNCTIONAL NEUROIMAGING RESEARCH FELLOWSHIP
+
+COGNITIVE NEUROIMAGING OF PSYCHIATRIC DISORDERS
+FUNCTIONAL NEUROIMAGING LABORATORY, WEILL MEDICAL COLLEGE OF CORNELL UNIVERSITY
+
+An NIMH grant for training clinical researchers in the cognitive
+neuroimaging of psychiatric disorders provides fellowship support for an MD
+or MD-PhD, preferably with psychiatry or neurology training, with serious
+intent for a research career.  Prior imaging, and cognitive or basic
+neuroscience experience is useful.  Training is centered around 2 years of
+intensive, mentored involvement in a research project.  Training also
+involves a curriculum covering the following topics in the context of
+neuropsychiatric functional neuroimaging: principles of neuropsychiatry and
+behavioral neuroscience, hypothesis generation and study design,
+development of cognitive probes, physics of image acquisition, mathematics
+and statistics of image processing and analysis, and interpretation of
+results.  Projects include 1.5 and 3T fMRI studies of neural circuits
+underlying symptom formation in schizophrenia, affective disorders and
+anxiety disorders.  Mentors include Drs. David Silbersweig, Emily Stern,
+Yihong Yang and Hong Pan in the Functional Neuroimaging Laboratory.  Dr.
+Michael Posner is also involved in the training program.
+
+Applications submitted by Feb. 10 should include a CV, three reference
+letters and a letter indicating interests relevant to the grant.  Send
+application to:
+
+Drs. David Silbersweig and Emily Stern,
+Directors, Functional Neuroimaging Laboratory
+Department of Psychiatry
+Box 140, Rm F-1303
+Weill Medical College of Cornell University
+1300 York Avenue
+New York, N.Y.   10021    USA
+
+Inquiries can be sent by email to: dasilber@med.cornell.edu
+
+The Medical College is an equal opportunity employer. EEO/AA/M/F/D/V
+
+

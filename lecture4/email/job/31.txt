@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Nov 26 03:38:57 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA10165;
+	Thu, 26 Nov 1998 03:38:51 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ad24042;
+          25 Nov 98 19:23 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab24028;
+          25 Nov 98 19:10 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23045;
+          25 Nov 98 19:09 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa26972; 25 Nov 98 13:55 EST
+Received: from sirocco.CC.McGill.CA by CS.CMU.EDU id aa23511;
+          25 Nov 98 13:55:22 EST
+Received: from juliette.mcgill.ca (B57-04.DAS.McGill.CA [198.168.184.124])
+	by sirocco.cc.mcgill.ca (8.9.1/8.9.1) with SMTP id NAA10085
+	for <connectionists@cs.cmu.edu>; Wed, 25 Nov 1998 13:55:19 -0500 (EST)
+Message-Id: <3.0.2.32.19981125135718.007a2430@psych.mcgill.ca>
+X-Sender: shultz@psych.mcgill.ca
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.2 (32)
+Date: Wed, 25 Nov 1998 13:57:18 -0500
+To: connectionists@cs.cmu.edu
+From: Tom Shultz <shultz@psych.mcgill.ca>
+Subject: Academic position at McGill
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+Dear Connectionists,
+
+Here is a notice for an academic position at McGill University that may
+interest you or your colleagues or students. Please feel free to circulate
+this notice. 
+
+MCGILL UNIVERSITY DEPARTMENT OF PSYCHOLOGY   The Department of Psychology
+of McGill University seeks applicants for a tenure-track position at the
+Assistant Professor level in Cognitive Psychology broadly construed. We
+seek applicants with a strong program of research and teaching in areas
+such as cognitive psychology, computational modeling, decision-making,
+cognitive neuroscience. The Department has excellent facilities for
+interdisciplinary research through its links with McGill Cognitive Science,
+the Montreal Neurological Institute, and related departments. The deadline
+for receipt of completed applications is February 1, 1999, with an
+anticipated starting date of September 1, 1999. Applicants should arrange
+for three confidential letters of recommendation to be sent to the address
+below. Statements of current and proposed areas of research and teaching,
+curriculum vitae, selected reprints, and other relevant material should
+also be sent to: Thomas Shultz, Chair, Cognitive Psychology Search
+Committee, Department of Psychology, McGill University, 1205 Dr. Penfield
+Avenue, Montreal, Quebec, Canada H3A 1B1. In accordance with Canadian
+immigration requirements, priority will be given to Canadian citizens and
+permanent residents of Canada. McGill University is committed to equity in
+employment.  
+
+Although priority is given to Canadian citizens and permanent residents of
+Canada, final decisions will be based on the relative excellence of
+candidates. Therefore, non-Canadians should seriously consider applying if
+they are interested in the position. 
+
+Neural network modelers with an interest in cognition and neuroscience are
+particularly encouraged to apply. 
+
+Cheers,
+Tom
+
+--------------------------------------------------------
+Thomas R. Shultz, Professor, Department of Psychology, 
+McGill University, 1205 Penfield Ave., Montreal, Quebec,
+Canada H3A 1B1. 
+E-mail: shultz@psych.mcgill.ca
+http://www.psych.mcgill.ca/labs/lnsc/html/Lab-Home.html
+Phone: 514 398-6139
+Fax: 514 398-4896
+--------------------------------------------------------

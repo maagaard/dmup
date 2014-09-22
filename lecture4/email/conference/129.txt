@@ -1,0 +1,86 @@
+
+
+From hintz@hendrix.imm.dtu.dk  Fri Jun 26 12:23:33 1998
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id MAA06720
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 26 Jun 1998 12:23:31 +0200 (METDST)
+Received: from localhost by hendrix.imm.dtu.dk via SMTP (950413.SGI.8.6.12/940406.SGI)
+	 id MAA15907; Fri, 26 Jun 1998 12:10:43 +0200
+X-Received: from eivind.imm.dtu.dk by hendrix.imm.dtu.dk via ESMTP (950413.SGI.8.6.12/940406.SGI)
+	for <hintz@hendrix.imm.dtu.dk> id MAA15870; Fri, 26 Jun 1998 12:08:52 +0200
+X-Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id MAA06707
+	for <hintz@eivind.imm.dtu.dk>; Fri, 26 Jun 1998 12:21:35 +0200 (METDST)
+X-Received: from romberg.math.ntnu.no (153@romberg.math.ntnu.no [129.241.15.150])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with SMTP id MAA29027
+	for <mhm@imm.dtu.dk>; Fri, 26 Jun 1998 12:09:46 +0200 (METDST)
+X-Received: (qmail 24086 invoked by uid 23554); 26 Jun 1998 10:07:02 -0000
+Delivered-To: tgt+workshop98@math.ntnu.no
+X-Received: (qmail 24081 invoked by uid 23554); 26 Jun 1998 10:07:02 -0000
+From: "Thomas Gorm Theting" <tgt@math.ntnu.no>
+Message-Id: <980626120701.ZM24078@math.ntnu.no>
+Date: Fri, 26 Jun 1998 12:07:01 +0200
+X-Mailer: Z-Mail (4.0.1 13Jan97)
+To: tgt+workshop98@math.ntnu.no
+Subject: 2nd Workshop on Industrial Mathematics for Nordic Ph.D. students
+Cc: tgt+workshop98contacts@math.ntnu.no
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+ReSent-Date: Fri, 26 Jun 1998 12:10:10 +0200 (METDST)
+ReSent-From: Mads Hintz-Madsen <hintz@hendrix.imm.dtu.dk>
+ReSent-To: Finn Aarup Nielsen <fnielsen@hendrix.imm.dtu.dk>,
+        "Pedro H. Soerensen" <phs@hendrix.imm.dtu.dk>
+ReSent-Message-ID: <Pine.SGI.3.96.980626121010.15885A@hendrix.imm.dtu.dk>
+Status: RO
+X-Status: 
+
+
+###################################################
+##                                               ##
+##    2nd Workshop on Industrial Mathematics     ##
+##          for Nordic PhD. students             ##
+##                                               ##
+###################################################
+              Trondheim 26.06 1998
+
+Hello again to all of you !
+
+The organising committee have not received much interest
+from students outside Norway  to participate on
+the workshop. This may be due to a high registration fee
+of NOK 1850,-.
+
+The organising committee have however succeeded to
+get financial support from NORFA to cover some of
+the expenses. The new registration fee is NOK 600,-.
+
+We hope those of you participating  last year, will
+promote this arrangement among your fellow students,
+and even consider to join the workshop yourself.
+
+We hope those of you already being willing to participate
+will use the time until the new deadline (below) to
+inspire your fellow students to join the arrangement.
+
+The new time schedule
+       15 May          Second announcement.
+NOTE ->17 July         Deadline for submitting abstracts.
+       20 July         Acceptance notice to participants (per email).
+       24 July         Deadline for registration and payment.
+       4-6 September   2nd workshop.
+
+The workshop home page :
+http://www.math.ntnu.no/~tgt/workshop/2ndworkshop.html
+
+
+
+Organising  Committee
+
+-- 
+_______________________________________________________________________
+
+Thomas Gorm Theting                       Dep. of Mathematical Sciences,
+Osloveien 58 B                            NTNU, Gloshaugen,
+N-7018 Trondheim                          N-7034 Trondheim 
+Norway                                    Norway        
+Tlf +47/73532120                          Tlf +47/735 91650

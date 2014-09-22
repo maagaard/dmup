@@ -1,0 +1,45 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May 12 05:01:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA04862;
+	Wed, 12 May 1999 05:00:54 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16500;
+          11 May 99 14:22 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16495;
+          11 May 99 14:03 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02244;
+          11 May 99 14:02 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa04832; 11 May 99 3:48 EDT
+Received: from [150.203.126.44] by CS.CMU.EDU id aa03872; 11 May 99 3:47:57 EDT
+Received: from reid.anu.edu.au (reid [150.203.126.7])
+	by syseng.anu.edu.au (8.8.8/8.8.8) with ESMTP id RAA16582;
+	Tue, 11 May 1999 17:47:21 +1000 (EST)
+From: Peter Bartlett <Peter.Bartlett@syseng.anu.edu.au>
+Received: (from bartlett@localhost)
+	by reid.anu.edu.au (8.8.8/8.8.8) id RAA26686;
+	Tue, 11 May 1999 17:47:21 +1000 (EST)
+Message-Id: <199905110747.RAA26686@reid.anu.edu.au>
+Subject: position in machine learning at ANU
+To: colt@cs.uiuc.edu, connectionists@cs.cmu.edu, ai-stats@watstat.uwaterloo.ca,
+        ml@ics.uci.edu, mlnet@swi.psy.uva.nl
+Date: Tue, 11 May 1999 17:47:20 +1000 (EST)
+X-Mailer: ELM [version 2.4 PL24]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+The Machine Learning Group at the Australian National University
+is advertising a position in theoretical and experimental machine
+learning.
+
+It's a continuing research + graduate teaching position at academic
+level C ("Fellow" = assistant/associate professor).  Closing date
+is June 4.
+
+See http://wwwrsise.anu.edu.au/ad.html#LevC_ML for the advertisement
+and details.
+-- 
+Peter Bartlett.

@@ -1,0 +1,75 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Apr 16 20:22:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA18447;
+	Fri, 16 Apr 1999 20:22:44 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17937;
+          16 Apr 99 13:06 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17931;
+          16 Apr 99 12:56 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27609;
+          16 Apr 99 12:55 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa20003; 16 Apr 99 9:26 EDT
+Received: from [146.191.32.5] by RI.CMU.EDU id aa18086; 16 Apr 99 9:25:54 EDT
+Received: from Gate-Message_Server by wpmail.paisley.ac.uk
+	with Novell_GroupWise; Fri, 16 Apr 1999 14:07:06 +0000
+Message-Id: <s717440a.087@wpmail.paisley.ac.uk>
+X-Mailer: Novell GroupWise 4.1
+Date: Fri, 16 Apr 1999 14:06:36 +0000
+From: Mark Girolami <giro-ci0@wpmail.paisley.ac.uk>
+To: Connectionists@cs.cmu.edu
+Subject: PhD Studentship Available
+Status: RO
+X-Status: 
+
+Could you please post the details of this PhD studentship please.
+
+----------------------------------------------------------------------------------------
+
+Funded PhD Studentship Available
+Computational Intelligence Research Unit
+Department of Computing and Information Systems 
+University of Paisley
+
+Since the emergence and explosive growth of the World Wide
+Web (WWW) there has been a commensurate growth in the
+availability of online information. Efficient searching and retrieval of
+relevant information from the WWW has lagged behind this growth
+and intelligent information retrieval methods are now required as a
+matter of urgency. This particular challenge is attracting great
+interest from the machine learning research community and many
+software companies are closely monitoring the research output.
+There are two main approaches to online information retrieval, (1)
+query based and (2) taxonomic. The query based approach relies
+on methods such as search engines; which take a users query
+and this is compared with an existing document collection to find
+the most likely match. The taxonomic approach relies on manual
+organisation of the information (online documents) into hierarchic
+categorisations of the document collection. It is accepted that the
+design of information retrieval systems utilising a number of
+intelligent computing paradigms may provide the key to improved
+information access. This project proposes the fusion of both
+unsupervised and supervised computational models to adaptively
+build and maintain suitable document hierarchies (an example
+being Kohonen's WEBSOM) and then rank and classify existing as
+well as incoming new documents based on user queries (an
+example being Bayesian networks). 
+
+Three years of  University funding, for a  PhD studentship, is
+available for this project. This project will be carried out in
+collaboration with a US based software company. Interested
+candidates should contact:-
+
+Dr Mark Girolami
+Senior Lecturer
+Computational Intelligence Research Unit
+University of Paisley
+High Street, Paisley
+PA1 2BE
+Scotland
+
+Tel : +44 141 848 3317
+Fax: +44 141 848 3542
+giro0ci@paisley.ac.uk
+

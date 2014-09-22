@@ -1,0 +1,106 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 10 01:18:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA07077;
+	Tue, 10 Aug 1999 01:18:30 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab07083;
+          9 Aug 99 17:48 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab07081;
+          9 Aug 99 17:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18417;
+          9 Aug 99 17:35 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa03925; 9 Aug 99 5:59 EDT
+Received: from [147.188.192.9] by RI.CMU.EDU id aa12096; 9 Aug 99 5:58:52 EDT
+Received: from edward.cs.bham.ac.uk (actually host edward) 
+          by frank.cs.bham.ac.uk with SMTP (MMTA) with ESMTP;
+          Mon, 9 Aug 1999 10:53:35 +0100
+Received: by edward.cs.bham.ac.uk (8.8.8+Sun/client/2.0)        id KAA04028;
+          Mon, 9 Aug 1999 10:53:43 +0100 (BST)
+Date: Mon, 9 Aug 1999 10:53:43 +0100 (BST)
+From: Xin Yao <X.Yao@cs.bham.ac.uk>
+Message-Id: <199908090953.KAA04028@edward.cs.bham.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Combinations of EC and NNs
+Status: RO
+X-Status: 
+
+             The First IEEE Symposium on Combinations of 
+             Evolutionary Computation and Neural Networks 
+
+                           Co-sponsored by 
+                      IEEE Neural Network Council
+        The Center for Excellence in Evolutionary Computation
+
+                           May 11-12, 2000 
+                The Gunter Hotel, San Antonio, TX, USA 
+
+Symposium URL: http://www.cs.bham.ac.uk/~xin/ecnn2000 
+
+CALL FOR PAPERS
+
+The recent increasing interest in the synergy between evolutionary
+computation and neural networks provides an impetus for a symposium
+dedicated to furthering our understanding of this synergy and the
+potential utility of hybridizing evolutionary and neural techniques. 
+The First IEEE Symposium on Combinations of Evolutionary Computation 
+and Neural Networks will offer a forum that focuses specifically on 
+the hybridization of evolutionary and neural computation. 
+In particular, papers are solicited in the areas of
+
++ evolutionary training of neural networks, 
++ evolutionary design of network topologies, 
++ evolution of learning (weight updating) rules, 
++ evolving solutions to inverse neural network problems, 
++ the performance of alternative variation operators in designing 
+  neural networks, 
++ comparisons between evolutionary and other training methods, 
++ evolving developmental rules for neural network design, and 
++ the use of coevolution in optimizing neural networks for pattern 
+  recognition, gaming, or other applications. 
+
+Other topics that combine evolutionary and neural computation are also
+welcome. Submitted papers should represent unpublished, original work.
+
+PAPER SUBMISSION
+
+Send three (3) copies of your manuscript to 
+
+Xin Yao
+School of Computer Science 
+The University of Birmingham 
+Edgbaston, Birmingham B15 2TT
+U.K. 
+Email: x.yao@cs.bham.ac.uk 
+
+All three hardcopies should be printed on 8.5 by 11 inch or A4 paper using
+11 point Times. Allow at least one inch (25mm) margins on all borders. A
+paper must include a title, an abstract, and the body and references. It
+must also include the names and addresses of all authors, their email
+addresses, and their telephone/fax numbers. The length of submitted papers
+must be no more than 15 single-spaced, single-column pages, including all
+figures, tables, and references. Shorter papers are encouraged.
+
+In addition to hardcopies, please send a postscript file of your paper
+(gzipped if possible) to facilitate electronic reviewing to the following
+email address: x.yao@cs.bham.ac.uk. Please check the symposium's web site
+http://www.cs.bham.ac.uk/~xin/ecnn2000 for more details as they become
+available.
+
+SUBMISSION DEADLINE:  DECEMBER 1, 1999 
+
+General Chair: Xin Yao 
+
+Programme Chair: D.B. Fogel
+
+PROGRAMME COMMITTEE:
+
+ P.J. Angeline	K. Chellapilla 	J.-C. Chen 	S.-B. Cho
+ D.B. Fogel 	G.W. Greenwood 	L. Guan 	N. Kasabov
+ S. Lucas 	N. Murshed 	V. Nissen 	M. Rizki
+ R. Salomon 	G. Yen 		B.-T. Zhang 	Q. Zhao
+
+The Symposium follows The 9th IEEE International Conference on Fuzzy Systems
+(FUZZ-IEEE2000), Hilton Palacio del Rio, San Antonio, TX, USA, 7-10 May 1999. 
+(URL: http://fuzzieee2000.cs.tamu.edu/)
+

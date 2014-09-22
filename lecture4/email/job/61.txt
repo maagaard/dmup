@@ -1,0 +1,69 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Feb  6 07:40:28 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA16038;
+	Sat, 6 Feb 1999 07:40:07 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02206;
+          5 Feb 99 20:29 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02204;
+          5 Feb 99 20:24 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11241;
+          5 Feb 99 20:24 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa23073; 5 Feb 99 20:05 EST
+Received: from simon.sysc.pdx.edu by EDRC.CMU.EDU id aa04681;
+          5 Feb 99 20:05:46 EST
+Received: from sysc.pdx.edu (zadeh.sysc.pdx.edu [131.252.30.54])
+	by sysc.pdx.edu (8.9.1/8.9.1) with ESMTP id RAA04631;
+	Fri, 5 Feb 1999 17:05:36 -0800 (PST)
+Message-ID: <36BB96FD.F83AF184@sysc.pdx.edu>
+Date: Fri, 05 Feb 1999 17:12:30 -0800
+From: "George G. Lendaris" <lendaris@sysc.pdx.edu>
+X-Mailer: Mozilla 4.5 [en] (Win95; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@CS.cmu.edu
+Subject: Director Position: Systems Science
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Director, Interdisciplinary Systems Science Ph.D. Program.
+Looking for a dynamic, creative individual to lead a unique
+established interdisciplinary Ph.D. program to international
+prominence, building on resurgent interest in areas such as
+complexity, chaos, learning and adaptation. The existing program at
+Portland State University involves a core component and relationships
+with a dozen academic units with a current enrollment of 145 students.
+
+The Systems Science core faculty currently comprises three tenure
+track and one adjunct faculty.  In addition to the general duties
+associated with directing and administrating the Program, the Director
+is expected to 1) provide strong interaction with faculty and
+administration of participating department/schools; 2) cultivate
+collaborative research and teaching among the faculty in Systems
+Science, Social Sciences, Natural Sciences, Mathematics, Engineering,
+and Business; 3) teach as an additional core faculty member; 4) guide
+the establishment of a new Masters in Systems Science (currently in
+the approval process); 5) initiate and guide activities to expand
+funding for research and program development; and 6) direct the
+student recruiting efforts.
+
+Applicants should have an earned doctorate in Systems Science or
+related discipline and experience in an academic setting including
+teaching, research publications and grants.
+
+Additional information about the Program is available at
+http://www.sysc.pdx.edu/.
+
+Applicants should submit 1) A letter of application; 2) a vita; and 3)
+three names of reference to Nancy A. Perrin, Chair Search Committee,
+Portland State University, P.O. Box 751-SYSC, Portland, OR  97207.
+Review of applications will begin on Feb. 26, 1999, and will continue
+until position is filled.
+
+PSU is an affirmative action/equal opportunity institution.
+----------------------------------------------------------------
+
+

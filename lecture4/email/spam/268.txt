@@ -1,0 +1,30 @@
+
+
+From Webmaster@RobotBooks.com  Sun Jan  3 20:38:13 1999
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id UAA24918
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 3 Jan 1999 20:38:12 +0100 (MET)
+From: Webmaster@RobotBooks.com
+Received: from proxy3.ba.best.com (root@proxy3.ba.best.com [206.184.139.14])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id UAA11873
+	for <www@hendrix.imm.dtu.dk>; Sun, 3 Jan 1999 20:43:22 +0100 (MET)
+Received: from user (dynamic15.pm01.san-mateo.best.com [205.149.174.15])
+	by proxy3.ba.best.com (8.9.1/8.9.0/best.out) with SMTP id LAA13709
+	for <www@hendrix.imm.dtu.dk>; Sun, 3 Jan 1999 11:42:03 -0800 (PST)
+Date: Sun, 3 Jan 1999 11:42:03 -0800 (PST)
+To: www@hendrix.imm.dtu.dk
+Subject: Robots
+Organization: RobotBooks.com
+Message-Id: <65944E21.GY587Q9N@RobotBooks.com>
+Status: RO
+X-Status: 
+
+I saw your web page and I thought you might be interested in
+adding another link to it. This is a great source of robot books,
+kits, movies, and toys: http://www.robotbooks.com
+
+
+Thanks,
+
+
+Carlo Bertocchini

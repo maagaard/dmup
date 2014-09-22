@@ -1,0 +1,90 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Dec 29 00:04:52 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id AAA02685;
+	Wed, 29 Dec 1999 00:04:42 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21857;
+          28 Dec 99 15:08 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21854;
+          28 Dec 99 14:53 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17960;
+          28 Dec 99 14:53 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17652; 28 Dec 99 10:12 EST
+Received: from bionix.biols.susx.ac.uk by edrc.cmu.edu id aa11597;
+          28 Dec 99 10:11 EST
+Received: from id ([139.184.163.55] helo=biols.susx.ac.uk)
+	by bionix.biols.susx.ac.uk with esmtp (Exim 2.12 #5)
+	id 122yI2-000PFQ-00; Tue, 28 Dec 1999 15:11:58 +0000
+Sender: rjb@skinner.boltz.cs.cmu.edu
+Message-ID: <3868D327.17B716BB@biols.susx.ac.uk>
+Date: Tue, 28 Dec 1999 15:11:35 +0000
+From: Roland Baddeley <rjb@biols.susx.ac.uk>
+Organization: Laboratory of Experimental Psychology, Sussex University
+X-Mailer: Mozilla 4.6 [en] (X11; I; OSF1 V4.0 alpha)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu, Roland Baddeley <rjb@bionix.biols.susx.ac.uk>,
+        cvnet@skivs.ski.org
+Subject: Post doctoral position in early vision available 
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Applications are invited to apply to work on an EPSRC funded project
+``Early visual processing and the effects of variable illumination'',
+studying the implication of the natural illumination variation on
+human low level vision using computer modeling and Bayesian statistics
+methods and the collection of natural image statistics. 
+
+This post-doctoral position is available for 3 years starting
+date Monday March 20th 2000. Final application date Monday January
+28, 2000.
+
+The position will involve working with Dr Roland Baddeley and Dr
+Daniel Osorio at the School of Biological Sciences in the laboratory
+of Experimental Psychology,q and Neuroscience, Sussex University. The
+applicants will be
+expected to have experience in programming (they will be using MATLAB
+but this can be learned). Experience in any of the following would be
+useful: colour or lightness constancy, natural image statistics, image
+processing, visual psychophysics, computational modeling of visual
+processing, neural network modeling.
+
+This project will involve two stages. Firstly a data base of natural
+images will be created. By covering all possible surfaces with a
+coating of known reflectance, and then placing a card of known
+reflectance and orientation at all locations within a scene, for each
+image we will work out the relative contribution of the illumination
+it is possible to decompose the final image into the contributions
+from illumination, surface orientation, and surface reflectance.
+
+This data base will be used to explore the hypothesis that much of
+early vision is concerned with extracting the contributions of the
+underlying reflectance and surface orientation from the original
+intensity image- in other words that illumination, which varies over
+at least 11 orders of magnitude, can be viewed as noise. To do this,
+the statistics of the reflectance, surface orientation, and the
+illumination will be use to calculate Bayes optimal filtering
+methods. The characteristics of these ``filters'' will then be
+compared to those inferred to be operating in low level vision.
+
+The position is for 3 years and the wage is at research assistant A
+scale. 
+
+Candidates should send a detailed CV together with the names and
+addresses of two referee's to Dr Roland Baddeley, Laboratory of
+Experimental Psychology, School of Biology, Sussex University, Falmer
+Brighton BN1 9QG. More details can be found by emailing Roland
+Baddeley on rjb@biols.susx.ac.uk
+ 
+Closing date, January 28,  2000
+
+-- 
+Dr Roland Baddeley
+Laboratory of Experimental Psychology
+Sussex University, Falmer
+Tel: (01273) 678961
+Fax: (01273) 678611
+WWW: http://www.biols.susx.ac.uk/Home/Roland_Baddeley/

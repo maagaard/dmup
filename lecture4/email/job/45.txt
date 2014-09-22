@@ -1,0 +1,89 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Dec 17 06:14:05 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA15986;
+	Thu, 17 Dec 1998 06:14:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06335;
+          16 Dec 98 21:29 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06333;
+          16 Dec 98 21:21 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23036;
+          16 Dec 98 21:20 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa15948; 16 Dec 98 15:22 EST
+Received: from l2r.cs.uiuc.edu by EDRC.CMU.EDU id aa22836;
+          16 Dec 98 15:22:04 EST
+Received: from cs.uiuc.edu (l2r.cs.uiuc.edu [128.174.244.40])
+	by l2r.cs.uiuc.edu (8.9.1/8.9.1) with ESMTP id OAA10205;
+	Wed, 16 Dec 1998 14:21:54 -0600 (CST)
+Sender: danr@cs.uiuc.edu
+Message-ID: <36781662.C6648EC2@cs.uiuc.edu>
+Date: Wed, 16 Dec 1998 14:21:54 -0600
+From: Dan Roth <danr@cs.uiuc.edu>
+X-Mailer: Mozilla 4.06 [en] (X11; U; SunOS 5.6 sun4u)
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>,
+        hybrid-list <hybrid-list@cs.ua.edu>,
+        "uai@CS.ORST.EDU" <uai@CS.ORST.EDU>, colt <colt@cs.uiuc.edu>,
+        "corpora@hd.uib.no" <corpora@hd.uib.no>
+Subject: postdoctoral fellowship
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Postdoctoral Fellows Program 
+
+	Beckman Institute for Advanced Science and Technology 
+		at the 
+	University of Illinois at Urbana-Champaign. 
+
+
+This is an invitation to apply for postdoctoral fellowships at the
+Beckman Institute for Advanced Science and Technology at the
+University of Illinois at Urbana-Champaign. 
+
+
+   The Beckman Institute for Advanced Science and Technology at the
+   University of Illinois at Urbana-Champaign is an inter- and
+   multidisciplinary research institute devoted to basic research in
+   the physical sciences and engineering, and in the life and
+   behavioral sciences. Its primary mission is to foster
+   interdisciplinary work of the highest quality in an environment
+   that transcends many of the limitations inherent in traditional
+   university organizations and structures.
+
+   Research at the Institute focuses on three broadly defined themes:
+   biological intelligence, human-computer intelligent interaction,
+   and molecular and electronic nanostructures.  Eighteen research
+   groups, composed of faculty and students from sixteen UIUC
+   departments, work within and across these three areas.
+
+
+Many research areas that are of interest to readers of this list are
+relevant to Beckman Institute research in general and to the
+postdoctoral fellows program in particular.
+
+All aspects of the learning sciences (Computational, Biological,
+etc. ), Natural Language (Computational aspects, Psycholinguistics),
+and many other topics in Biological and Artificial Intelligence are of
+interest.
+
+Please consult the Beckman Institute web page at 
+http://www.beckman.uiuc.edu/
+
+and the Beckman fellows program at
+http://www.beckman.uiuc.edu/outreach/fellowshome.html
+
+If interested, don't hesitate to contact me directly for further
+information. Notice that the due date for applying is January 8.
+
+	Dan 
+
+----------------------------------------------------------------------
+Dan Roth
+Department of Computer Science, University of Illinois, Urbana/Champaign
+1304 W. Springfield Ave.                            Urbana IL 61801
+Phone: (217) 244-7068   (217) 244-6813 (Sec)   Fax: +(217) 244-6500
+e-mail: danr@cs.uiuc.edu               http://L2R.cs.uiuc.edu/~danr
+----------------------------------------------------------------------

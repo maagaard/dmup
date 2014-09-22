@@ -1,0 +1,67 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sun Oct  4 09:26:34 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id JAA05167;
+	Sun, 4 Oct 1998 09:26:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05762;
+          4 Oct 98 0:29 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05760;
+          4 Oct 98 0:18 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12330;
+          4 Oct 98 0:18 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa26103; 3 Oct 98 9:37 EDT
+Received: from alumnus.caltech.edu by EDRC.CMU.EDU id aa20984;
+          3 Oct 98 9:37:17 EDT
+Received: (from ingber@localhost)
+	by alumnus.caltech.edu (8.9.1/8.9.1) id GAA07992
+	for connectionists@cs.cmu.edu; Sat, 3 Oct 1998 06:37:06 -0700 (PDT)
+Message-ID: <19981003083705.A7988@ingber.com>
+Date: Sat, 3 Oct 1998 08:37:05 -0500
+From: Lester Ingber <ingber@ingber.com>
+To: connectionists@cs.cmu.edu
+Subject: Open R&D Positions in Computational Finance/Chicago
+Reply-To: Lester Ingber <ingber@ingber.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 0.93.2i
+X-FTP: ftp.ingber.com
+X-URL: http://www.ingber.com/
+X-URL-ALT: http://www.alumni.caltech.edu/~ingber/
+X-PGP-FINGER: ingber@alumni.caltech.edu
+Status: RO
+X-Status: 
+
+* Open R&D Positions in Computational Finance/Chicago
+DRW Investments, LLC, a proprietary trading firm based at the Chicago
+Mercantile Exchange, with a branch office in London, is expanding its
+research department to support trading.
+
+* Programmer/Analyst   --  Full Time
+At least 1-2 years experience programming in C or C++.  Must have
+excellent background in Math, Physics, or similar disciplines.
+Flexible hours in intense environment.  Requires strong commitment to
+several ongoing projects with shifting priorities.  See
+http://www.ingber.com/ for some papers and code used on current
+projects.  Please email Lester Ingber <ingber@drwtrading.com> with a
+resume or any questions regarding these positions.
+
+* Graduate Student(s)  --  Part Time (1 or 2)
+We would like to sponsor theses in computational finance that might
+impact our trading practices.  Would require at least weekly
+face-to-face contact with DRW personnel.  See http://www.ingber.com/
+for some papers on current projects.  Please email Lester Ingber
+<ingber@drwtrading.com> with a resume or any questions regarding these
+positions.
+
+* Systems Administrator -- Full Time
+The primary role is to oversee and manage a heterogeneous network.
+Essential skills required are Windows NT, any flavor of Unix, TCP/IP
+networking and some programming skills in any language.  1-2 years
+experience required.  Please email Man Wei Tam <mwt@drwtrading.com> with
+a resume or any questions regarding the position.
+
+-- 
+ /* Lester Ingber                                 Lester Ingber Research *
+  * PO Box 06440     Wacker Dr PO Sears Tower     Chicago, IL 60606-0440 *
+  * http://www.ingber.com/  ingber@ingber.com  ingber@alumni.caltech.edu */

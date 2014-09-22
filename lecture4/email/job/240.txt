@@ -1,0 +1,104 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Dec  1 00:47:04 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id AAA17968;
+	Wed, 1 Dec 1999 00:47:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab10448;
+          30 Nov 99 15:42 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab10446;
+          30 Nov 99 15:30 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18982;
+          30 Nov 99 15:30 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa00868; 30 Nov 99 13:56 EST
+Received: from grey.Colorado.EDU by edrc.cmu.edu id aa23694; 30 Nov 99 13:55 EST
+Received: (from oreilly@localhost)
+	by grey.colorado.edu (8.9.3/8.9.3) id LAA22260;
+	Tue, 30 Nov 1999 11:55:30 -0700
+Date: Tue, 30 Nov 1999 11:55:30 -0700
+Message-Id: <199911301855.LAA22260@grey.colorado.edu>
+X-Authentication-Warning: grey.colorado.edu: oreilly set sender to oreilly@grey.colorado.edu using -f
+From: "Randall C. O'Reilly" <oreilly@grey.colorado.edu>
+To: connectionists@cs.cmu.edu
+CC: mozer@neuron.cs.colorado.edu, munakata@kore.psy.du.edu,
+        miyake@psych.colorado.edu
+Subject: Graduate Training @ CU & DU
+Reply-to: oreilly@psych.colorado.edu
+Status: RO
+X-Status: 
+
+		 Computational Cognitive Neuroscience
+		    University of Colorado Boulder
+				 and
+			 University of Denver
+
+		   Graduate Training Opportunities
+
+This is an invitation to apply for graduate training in cognitive
+neuroscience and/or computational cognitive neuroscience at the
+University of Colorado Boulder (CU) Departments of Psychology and
+Computer Science (integrated with the Institute of Cognitive Science,
+ICS), and the University of Denver (DU) Department of Psychology and
+program in Developmental Cognitive Neuroscience (DCN).
+
+CU and DU have a strong common interest in computational cognitive
+neuroscience, and researchers in both universities are funded by the
+NSF, NIH, NIDCD, and the McDonnell Foundation to support graduate
+students in cognitive neuroscience.  Close collaborations exist across
+the two campuses.
+
+A major focus of interest here is in understanding working memory and
+the cognitive role of the prefrontal cortex (PFC).  We apply
+converging cognitive neuroscience methodologies, including
+computational (neural network models), behavioral, developmental, and
+neuropsychological approaches.  Other topics of interest include
+executive function, language, learning and memory and the roles of the
+hippocampus and the cortex, developmental dissociations and
+task-dependent behaviors, attention, and invariant object recognition.
+
+We have a strong nucleus of cognitive neuroscientists focused on
+developing mechanistic, computational frameworks for understanding how
+the brain performs cognitive functions, and exploring these ideas
+using a wide range of empirical methods.  This environment provides a
+unique opportunity to interact closely with active scientists
+exploring problems at the forefront of cognitive neuroscience.
+
+The departments at CU and DU are highly regarded, and have a strong
+international reputation for high quality scientific research and
+training.  The DU psych department is ranked No. 2 in the world in
+publication impact, and the CU psych department is consistently in the
+top 20 of the US News & World Report rankings.
+
+In addition to providing an exciting research environment and hosting
+the annual Neural Information Processing Systems conference, the
+greater Denver/Boulder area offers an exceptional quality of life.
+Spectacularly situated at the eastern edge of the Rockies, this area
+provides a wide variety of extraordinary outdoor activities, an
+average of 330 sunny days per year, and also affords a broad range of
+cultural activities.
+
+Graduate students should apply to the most appropriate department for
+their specific interests.  Deadlines are Jan 1 for CU and Jan 15 for
+DU.  For more information, full lists of associated faculty, and
+instructions on applying to the graduate programs, see the following
+web sites:
+
+CU Overview Web Page:   http://www.cs.colorado.edu/~mozer/resgroup.html 
+CU Psychology:		http://psych-www.colorado.edu/
+CU Computer Science:	http://www.cs.colorado.edu/
+CU ICS:			http://psych-www.colorado.edu/ics/home.html
+DU Psychology:		http://www.du.edu/psychology/
+DU DCN:			http://www.du.edu/psychology/DCNWHOLE.htm
+
+One or more of the following faculty should be contacted for any
+further information.
+
+Akira Miyake, CU Psych, miyake@psych.colorado.edu, 
+        http://psych-www.colorado.edu/faculty/miyake.html
+Michael Mozer, CU CS, mozer@cs.colorado.edu, 
+	http://www.cs.colorado.edu/~mozer/Home.html
+Yuko Munakata, DU Psych, munakata@kore.psy.du.edu,
+        http://kore.psy.du.edu/munakata
+Randall O'Reilly, CU Psych, oreilly@psych.colorado.edu,
+        http://psych.colorado.edu/~oreilly
+

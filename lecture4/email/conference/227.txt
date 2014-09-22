@@ -1,0 +1,87 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Feb 25 22:21:02 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA07418;
+	Thu, 25 Feb 1999 22:20:55 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab25735;
+          25 Feb 99 14:16 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab25729;
+          25 Feb 99 14:06 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08729;
+          25 Feb 99 14:05 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab20926; 25 Feb 99 13:01 EST
+Received: from dingo.cns.ed.ac.uk by RI.CMU.EDU id aa23666;
+          25 Feb 99 13:00:00 EST
+Received: (from bruce@localhost)
+	by dingo.cns.ed.ac.uk (8.9.1/8.9.1) id RAA01257;
+	Thu, 25 Feb 1999 17:59:03 GMT
+Date: Thu, 25 Feb 1999 17:59:03 GMT
+From: Bruce Graham <B.Graham@anc.ed.ac.uk>
+Message-Id: <199902251759.RAA01257@dingo.cns.ed.ac.uk>
+Subject: ICANN*99 Call for Tutorial Proposals
+To: Connectionists@cs.cmu.edu, comp-neuro@smaug.bbb.caltech.edu
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-MD5: 1syO6TgDx3xZHQNDw/KXvA==
+Status: RO
+X-Status: 
+
+
+                          CALL FOR PROPOSALS
+
+                   ICANN*99 Conference Tutorials
+                          7 September 1999
+                         Edinburgh, Scotland
+
+
+
+Tutorials on current topics in the fields of research covered by
+ICANN99 will be held on Tuesday 7 September 1999, the first day
+of the ICANN conference program.  Proposals by qualified
+individuals interested in giving a half-day tutorial are
+solicited. Topics should fall within the broadly defined area of
+neural networks research, including: Theory and Algorithms;
+Neurobiology and Computational Neuroscience; Cognitive Modelling;
+Industrial, Commercial and Medical Applications; Hardware and
+Neuromorphic Engineering; Control, Robotics and Adaptive Behaviour.
+
+It is planned to run at least 6 tutorials of around 3 hours each:
+3 in parallel in the morning and another 3 in the afternoon.
+Attendees will pay a registration fee and tutors will be given
+some recompense for their time and effort.  Consequently we seek
+very high quality proposals.
+
+This call for proposals can be found at: 
+http://www.iee.org.uk/Conf/ICANN/
+and further information will be added as it becomes available.
+
+Submission Instructions
+-----------------------
+
+Interested parties should submit via e-mail a short proposal for a
+tutorial of interest by 29 March, 1999 to Dr Bruce Graham
+(B.Graham@ed.ac.uk), Institute for Adaptive and Neural Computation,
+University of Edinburgh.  Proposals should include an outline of
+the tutorial contents and your background and qualifications for
+giving such a tutorial.  The final programme of tutorials will be
+decided by the middle of April.
+
+If e-mail is unavailable, mail or fax so as to arrive by the deadline to:
+
+  ICANN*99 Tutorials
+  c/o Dr Bruce Graham
+  Institute for Adaptive and Neural Computation
+  Division of Informatics, 
+  University of Edinburgh
+  2 Buccleuch Place, 
+  Edinburgh EH8 9LW, Scotland, UK 
+  
+  Fax: +44-131-650-4406
+
+
+	    PROPOSALS MUST BE RECEIVED BY MARCH 29 1999
+
+(Bruce Graham, IANC, Division of Informatics, University of Edinburgh)
+

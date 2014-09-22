@@ -1,0 +1,24 @@
+
+
+From security@earthlink.net Fri Oct  8 02:46:49 MET 1999
+Received: from ostrich.prod.itd.earthlink.net (ostrich.prod.itd.earthlink.net [207.217.120.14])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id CAA13974
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 8 Oct 1999 02:46:47 +0200 (METDST)
+From: security@earthlink.net
+Received: from scaup.prod.itd.earthlink.net ([207.217.120.49])
+	by ostrich.prod.itd.earthlink.net (8.8.7/8.8.5) with ESMTP id FAA22471
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 7 Oct 1999 05:15:33 -0700 (PDT)
+Received: from mail.earthlink.net (1Cust146.tnt1.huntsville.al.da.uu.net [63.10.51.146])
+	by scaup.prod.itd.earthlink.net (8.9.3/8.9.3) with SMTP id FAA24025;
+	Thu, 7 Oct 1999 05:09:13 -0700 (PDT)
+Date: Thu, 7 Oct 1999 05:09:13 -0700 (PDT)
+Message-Id: <199910071209.FAA24025@scaup.prod.itd.earthlink.net>
+Reply-To: security@earthlink.net
+To: security@earthlink.net
+Subject: hey..
+Status: RO
+X-Status: 
+
+hey this is jessica, i just got my new website up and i was wonderin if you would check it out for me? the address is http://username07.tripod.com or if your lazy like me just click <a href="http://username07.tripod.com">here</a>, thanks! 
+-jessica :]
+

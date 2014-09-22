@@ -1,0 +1,111 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Mar  9 21:57:57 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA01585
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Mar 1999 21:57:55 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20274;
+          9 Mar 99 14:18 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20272;
+          9 Mar 99 14:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04617;
+          9 Mar 99 14:08 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab06402; 9 Mar 99 12:15 EST
+Received: from [137.73.66.6] by EDRC.CMU.EDU id aa24451; 9 Mar 99 12:14:55 EST
+Received: from kcl.ac.uk (Kaspar.mech.kcl.ac.uk [137.73.20.187])
+	by mail.kcl.ac.uk (8.9.3/8.9.3) with ESMTP id RAA10051
+	for <Connectionists@CS.cmu.edu>; Tue, 9 Mar 1999 17:03:41 GMT
+Message-ID: <36E55484.AA3CF242@kcl.ac.uk>
+Date: Tue, 09 Mar 1999 17:04:04 +0000
+From: "Althoefer, Kaspar" <Kaspar.Althoefer@kcl.ac.uk>
+Organization: King's College London
+X-Mailer: Mozilla 4.05 [en] (Win95; I)
+MIME-Version: 1.0
+To: Connectionists@CS.cmu.edu
+Subject: Research Studentship at King's College London, UK
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by mail.kcl.ac.uk id RAA10051
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id VAA01585
+Status: RO
+X-Status: 
+
+Connectionists@CS.cmu.edu
+
+
+Dear Colleagues,
+
+I have a Research Studentship available here in London, UK, to work on
+waste pipe inspection involving research on sensors and neural networks.
+
+Details are attached. If you know of anyone interested please feel free
+to pass this information on.
+
+Best regards,
+
+Kaspar Althoefer.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+|_/ I N G'S
+| \ COLLEGE
+L O N D O N           Department  of  Mechanical  Engineering
+Founded1829
+
+
+                           Research Studentship
+
+                  A MULTI-SENSOR SYSTEM FOR SEWER INSPECTION
+
+                          A Collaborative Project with
+              North West Water, Water Research Centre and Telespec Ltd.
+                            sponsored by the EPSRC
+
+
+A research studentship is available in the Department of Mechanical
+Engineering as a result of a recently awarded grant by the EPSRC. The
+Department was awarded the top rating, 5*, in the 1996 Research
+Assessment Exercise and excellent facilities for both computational and
+experimental research are available. The project is co-sponsored by
+North West Water, the Water Research Centre (WRc) and Telespec Ltd.
+
+The three-year project involves the development of a novel sensor device
+for the inspection of waste pipes and the classification of the acquired
+sensor data. Applications are welcome from candidates with an interest
+to pursue research in the areas of sensors, digital signal processing
+and neural networks.
+
+Applicants will preferably hold, or expect to obtain, a good first or
+higher degree in mechanical engineering, electronic engineering or a
+related subject, and will have programming ability. Applicants will be
+expected to register for research studies leading to the MPhil/PhD
+degree.
+
+The studentship covers tuition fees at U.K./E.U. student rate and an
+annual maintenance allowance of £ 8,482 for three years.
+
+Applications in the form of a curriculum vita with the names of two
+academic referees must be sent to:
+
+Ms Nicola Nayler, Ref: EPSRC/KAA, Division of Engineering, King’s
+College London, Strand, London WC2R 2LS, e-mail:
+Nicola.Nayler@kcl.ac.uk.
+
+All applications must be received by 15 April 1999.
+
+
+Informal enquiries can be made to Dr Kaspar Althoefer at the address
+below:
+
+Dr Kaspar Althoefer, Department of Mechanical Engineering, King's
+College, Strand, London WC2R 2LS, UK, TEL: +44 (0)171 873 2431, e-mail:
+Kaspar.Althoefer@kcl.ac.uk, http://www.eee.kcl.ac.uk/~kaspar.
+
+
+
+                  Promoting excellence in teaching, learning & research
+                       Equality of opportunity is College policy
+
+
+
+

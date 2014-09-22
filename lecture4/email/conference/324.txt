@@ -1,0 +1,75 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk Tue Oct 26 12:02:30 MET 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) id MAA14118
+	for dspstaff-list; Tue, 26 Oct 1999 12:02:28 +0200 (METDST)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id MAA14105;
+	Tue, 26 Oct 1999 12:02:24 +0200 (METDST)
+Received: from eivind.imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.9.3 (PHNE_18979)/8.9.3) with ESMTP id MAA03881;
+	Tue, 26 Oct 1999 12:04:03 +0200 (METDST)
+Message-ID: <38157C89.47FAEC07@eivind.imm.dtu.dk>
+Date: Tue, 26 Oct 1999 12:03:53 +0200
+From: Matt <mgl@eivind.imm.dtu.dk>
+Organization: Technical University of Denmark
+X-Mailer: Mozilla 4.7 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "dspstaff@eivind.imm.dtu.dk" <dspstaff@eivind.imm.dtu.dk>,
+        "dspstud@eivind.imm.dtu.dk" <dspstud@eivind.imm.dtu.dk>
+Subject: IEEE-INNS-ENNS Neural Net Conf
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+FYI,
+
+Updated submission method....
+
+Matt
+
+---
+PLEASE, READ THE NEW ENHANCED SUBMISSION PROCEDURE!!!!
+HELP US TO SERVE YOU BETTER. THANKS
+
+
+========================================================================
+    IEEE-INNS-ENNS INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS
+
+           Grand Hotel di Como, Como, Italy - 24-27 July 2000 
+
+Sponsored by the IEEE Neural Network Council, the International Neural 
+Network Society, and the European Neural Network Society
+
+Submission deadline is 15 DECEMBER 1999. Full papers in the final 
+version must be submitted (accepted papers will be published as 
+submitted). Papers will be reviewed by senior researchers in the field. 
+Acceptance/rejection will be emailed by 30 March 2000. Accepted papers 
+will be published in only if the registration form and payment for one 
+of the authors will be received by 30 April 2000 (see the complete 
+call for papers for details).
+
+For the complete call for papers with the detailed enhanced submission 
+procedure and other information, visit the conference web site at 
+http://www.ims.unico.it/2000ijcnn.html
+
+======================================================================
+
+
+======================================================================
+To subscribe the list send an email to listproc@ims.unico.it
+The body of the message must contain ONLY the following line
+
+SUBSCRIBE CONFERENCES lastname firstname
+
+where lastname and firstname must be replaced by your last and 
+first name respectively. Do not put any signature or any other
+message: they will be ignored and may result in error messages.
+======================================================================

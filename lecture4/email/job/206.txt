@@ -1,0 +1,105 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Oct 26 04:02:19 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id EAA08920;
+	Tue, 26 Oct 1999 04:02:13 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10054;
+          25 Oct 99 20:18 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10052;
+          25 Oct 99 20:04 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23571;
+          25 Oct 99 20:04 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa07473; 25 Oct 99 11:11 EDT
+Received: from pluto.lgu.ac.uk by cs.cmu.edu id aa21970; 25 Oct 99 11:11 EDT
+Received: from th215_ab.lgu.ac.uk (tow8131.lgu.ac.uk [140.97.8.131])
+	by pluto.lgu.ac.uk (8.9.1/8.9.1) with SMTP id QAA18515;
+	Mon, 25 Oct 1999 16:16:30 +0100 (BST)
+From: Tony Browne <abrowne@lgu.ac.uk>
+Reply-To: abrowne@lgu.ac.uk
+To: connectionists@cs.cmu.edu
+Cc: neuron-uk@mailbase.ac.uk
+Subject: Postdoc + PhD in UK
+Message-ID: <SIMEON.9910251605.E@th215_ab.lgu.ac.uk>
+Date: Mon, 25 Oct 1999 16:11:05 +0100 (GMT Daylight Time)
+Priority: NORMAL
+X-Mailer: Simeon for Win32 Version 4.1.3 Build (39)
+X-Authentication: none
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Status: RO
+X-Status: 
+
+Two research posts (Portsmouth/London) are available for projects in Biological Data Mining, one post-doctoral research fellow and one research studentship.
+
+A Postdoctoral Research Fellow is required for the project
+"Biological data mining: A comparison of neural network and symbolic
+techniques" funded by the joint BBSRC/EPSRC programme in bioinformatics.
+
+The Research Fellow will be based in the Centre for Molecular Design at
+the University of Portsmouth.
+
+This post requires either a graduate with a PhD in Computer Science,
+Cognitive Science, Mathematics or a related subject, with an interest
+in applying machine learning techniques in the field of bioinformatics;
+or a graduate with a PhD in the Life Sciences with a thorough
+understanding of bioinformatics and strong mathematical and programming
+skills.
+
+The successful candidate will be required to:
+
+* design, implement and test novel numerical algorithms in a high-level programming language
+* apply new and existing software to biological datasets
+* perform statistical analyses of the results
+
+The ideal candidate will possess knowledge in some of the following
+areas:
+
+* experience of developing neural networks in high level programming languages
+* strong mathematical and statistical skills (including Bayesian statistics)
+* an understanding of symbolic machine learning techniques
+* skills in Matlab, C/C++, Unix
+* an awareness of current developments in bioinformatics
+
+The starting salary for this post will be in the range stlg 17,606 - 19,203.
+
+
+A Postgraduate Research Student is required to perform research on using neural networks with biological and chemical datasets.
+The Research Student will be based in the School of Computing,
+Information Systems and Mathematics at London Guildhall University.
+This post requires either a graduate with a good first degree in Computer Science,
+Cognitive Science, Mathematics or a related subject, with an interest
+in applying machine learning techniques in the field of bioinformatics;
+or a graduate with a good first degree in the Life Sciences with a thorough
+understanding of bioinformatics and strong mathematical and programming
+skills.
+
+The successful candidate will be required to:
+
+* design, implement and test novel numerical algorithms in a high-level programming language
+* apply new and existing software to biological datasets
+* perform statistical analyses of the results
+
+A tax-free bursary is provided for this post, to a level commensurate with standard 
+research council PHD studentships.
+
+The candidate will be encouraged to register for a PhD. 
+As this studentship is internally funded some formal teaching will be required 
+(typically up to 6 hours of laboratory supervision).
+
+
+Both of the above posts will be of 3 years duration, and will start as soon as possible.
+
+To apply please e-mail a CV (in text format) including the names (and e-mail addresses) of two
+referees to Dr. Antony Browne (abrowne@lgu.ac.uk) by 19th November 1999. 
+
+=======================================================
+Dr. Antony Browne
+School of Computing, Information Systems & Mathematics
+London Guildhall University
+100 Minories
+London EC3 1JY, UK
+Tel: (+44) 0207 320 3106
+Fax: (+44) 0207 320 1717
+=======================================================
+

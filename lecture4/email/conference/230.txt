@@ -1,0 +1,550 @@
+
+
+From bartz@gris.uni-tuebingen.de  Fri Feb 19 16:59:17 1999
+Received: from mx01.uni-tuebingen.de (root@mx01.uni-tuebingen.de [134.2.3.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id QAA13248
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 19 Feb 1999 16:59:15 +0100 (MET)
+From: bartz@gris.uni-tuebingen.de
+Received: from sowa (sowa.gris.uni-tuebingen.de [134.2.176.72])
+	by mx01.uni-tuebingen.de (8.8.8/8.8.8) with SMTP id RAA01310
+	for <@mx01.uni-tuebingen.de:fnielsen@eivind.imm.dtu.dk>; Fri, 19 Feb 1999 17:02:02 +0100
+Received: by sowa (950413.SGI.8.6.12/930416.SGI)
+	for fnielsen@eivind.imm.dtu.dk id RAA08353; Fri, 19 Feb 1999 17:02:02 +0100
+Date: Fri, 19 Feb 1999 17:02:02 +0100
+Message-Id: <199902191602.RAA08353@sowa>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: 2nd CFP: IEEE Visualization 1999
+Status: RO
+X-Status: 
+
+=======================================================================
+
+Second    C A L L   F O R   P A R T I C I P A T I O N
+
+
+
+
+                Vis99 IEEE Visualization 1999
+                     Celebrating Ten Years
+                    Call for Participation
+                 October 24 - October 29, 1999
+                  San Francisco Airport Hyatt
+                   San Francisco, California
+
+    THE INSTITUTE OF ELECTRICAL & ELECTRONICS ENGINEERS, INC.
+
+                     IEEE COMPUTER SOCIETY
+
+                        Sponsored by the
+IEEE Computer Society Technical Committee on Visualization and Graphics 
+                 In Cooperation with ACM/SIGGRAPH
+
+VISUALIZATION is a vital research and applications frontier shared by
+a variety of science, medical, engineering, business, and
+entertainment fields. The tenth IEEE Visualization conference focuses
+on interdisciplinary methods. Collaboration among developers and users
+of visualization methods across all of science, engineering, medicine,
+and commerce is addressed at Visualization '99. Sunday through Tuesday
+of Conference Week will include tutorials, symposia, and
+mini-workshops. Papers, panels, case studies, and late-breaking hot
+topics will be presented Wednesday through Friday.
+
+We invite you to participate in IEEE Visualization '99 by submitting
+your original research through papers, panels, case studies, late
+breaking hot topics, and demonstrations. Share your perspectives
+through panels and workshops, or your experience through
+tutorials. Please select the forum appropriate to your submission,
+where it will be considered by your peers for presentation. Particular
+focuses on parallel techniques in visualization and information
+visualization are addressed in special two-day symposia.
+
+For further information on the conference or symposia contact:
+
+Steve Bryson, Conference Co-Chair, NASA Ames Research Center -
++1-650-604-4524 - Fax: +1-650-604-3957 - bryson@nas.nasa.gov
+
+Theresa-Marie Rhyne, Conference Co-Chair, 
+Lockheed Martin/US EPA Scientific Visualization Center - 
++1-919-541-0207 - Fax: +1-919-541-0056 - trhyne@vislab.epa.gov
+
+See the conference web page for complete up-to-date information and 
+submission details at http://www.erc.msstate.edu/vis99
+
+The three conference tracks cover: 
+
+Visualization Algorithms: Volume Rendering, Flow Visualization,
+Isosurfaces, Compression, Vector and Tensor Visualization,
+Sonification, etc.
+
+Visualization Techniques: Information Visualization, Databases, 
+Human Perception, Human Factors, Multi-Variate Visualization, 
+Virtual Reality, etc.
+
+Visualization Applications: Archaeology, Astrophysics, Aerospace,
+Automotive, Biomedicine, Chemistry, Education, Electronics,
+Environment, Finance, Mathematics, Mechanics, Molecular Biology,
+Physics, Virtual Reality, WWW, Java, VRML, HTML, AVS, Data Explorer,
+Iris Explorer, Khoros, etc.
+
+
+IMPORTANT DATES 
+
+March 31: Conference papers, Panels, Case Studies, Tutorials,
+	Mini-Workshops, BOF proposals, InfoVis '99 papers, and 
+	PVG '99 papers due 
+May 30: Conference papers, Panels, Case Studies, Tutorials,
+	Mini-Workshops, BOF proposals, and InfoVis '99, and 
+	PVG '99 selections announced 
+June 15: Conference Late Breaking Hot Topics and Demonstration proposals due 
+July 1: InfoVis '99 Late Breaking Hot Topics papers due 
+July 15: Final Conference papers, final InfoVis '99 papers, 
+	and PVG '99 papers due to publisher 
+August 1: Conference Late Breaking Hot Topics selections announced 
+August 21: Conference Late Breaking Hot Topics final papers due to publisher 
+August 31: Conference Late Breaking Hot Topics video submissions due 
+September 25: Close of Early Registration 
+October 24: Conference Commences
+October 25: InfoVis '99 and PVG '99 Commence
+
+
+Conference Papers (due March 31, 1999)
+
+Papers are solicited that present research results related to all
+areas of visualization. Original papers are limited to 5,000
+words. The submission of NTSC VHS video (up to 5 minutes in length) to
+accompany the paper is strongly recommended. Please submit 7 copies of
+all materials to Bernd Hamann (at the address below). Accepted papers
+will be included in the conference proceedings; the videos will be
+included in the conference video proceedings. In addition, we must
+receive, by submission deadline, a complete paper submission
+form. Paper submissions (hard copy only) should be sent to Bernd
+Hamann, Center for Image Processing and Integrated Computing, 2343
+Academic Surge Building, One Shields Avenue, University of California,
+Davis, CA 95616-8553, USA - +1-530-754-9157 - hamann@cs.ucdavis.edu
+
+
+Panel Proposals (due March 31, 1999)
+
+Panels should address the most important issues in visualization
+today. Panel proposals should describe the topic to be addressed and
+identify the prospective panelists. Each panelist should include a
+position statement on the topic and a short biography (limit 500 words
+for both per panelist). The statements will be included in the
+conference proceedings. Panel proposals (hard copy or email) should be
+sent to J. Edward Swan, Naval Research Laboratory, Code 5580, 4555
+Overlook Ave. SW, Washington, D.C. 20375, USA - +1-202-404-4984 - 
+Fax: +1-202-767-1122 - swan@ait.nrl.navy.mil
+
+
+Case Study Papers (due March 31, 1999)
+
+Case studies are reports on how visualization has contributed to the
+analysis of data. They may have an application focus or relate to the
+visualization process. Possible application areas include physical,
+life, social and information sciences, engineering, and commerce. An
+emphasis on lessons learned from practical experience is strongly
+encouraged, particularly where visualization has been employed in a
+real, working environment. A short paper limited to 2500 words
+(maximum 4 pages B/W plus 1 page color) will be included in the
+conference proceedings. Images and/or NTSC VHS video to accompany the
+paper are recommended; the video will be included in the conference
+video proceedings. Submit six copies of all materials. Case study
+submissions (hard copy only) should be sent to David Kao, NASA Ames
+Research Center, M/S T27A-2, Moffett Field, CA 94035-1000, USA -
+davidkao@nas.nasa.gov
+
+
+Late Breaking Hot Topics Papers (due June 15, 1999)
+
+Submissions will be accepted on Late Breaking Hot Topics that pertain
+to all areas of Visualization. These submissions must be original, may
+show work in progress, and may not exceed 1000 words or a maximum of 4
+pages including images. Images and/or NTSC VHS video to accompany the
+paper are recommended; the video will be included in the conference
+video proceedings. Accepted papers will be published and distributed
+at the conference. Authors of accepted papers will have an opportunity
+to submit a revised paper. Submissions will be done
+electronically. Submission details can be found at the conference web
+site or by contracting Craig Wittenbrink at
+craig_wittenbrink@hpl.hp.com Videotapes should be sent to Craig
+M. Wittenbrink, Hewlett-Packard Laboratories, 1501 Page Mill Rd,
+MS3U-4, Palo Alto, CA 94304-1126, USA - +1-650-857.2329 - 
+Fax: +1-650-852-3791
+
+
+Tutorial Proposals (due March 31, 1999)
+
+Tutorials are full or half-day presentations designed to cover
+specific visualization methods or application areas in depth. Subjects
+can include, but are not limited to, standard visualization
+techniques, existing languages or toolkits, mathematical fundamentals,
+databases, usability analysis, or commercialization of software. It is
+the intention of the Vis '99 tutorial committee to provide one
+classroom equipped with workstations for hands-on
+instruction. Tutorials proposing to use this interactive classroom
+should clearly state this preference, and also how the course is
+designed for this setting. For more detailed information concerning
+submission and format content, see the conference web site, or contact
+Kelly Gaither, Mississippi State University, P.O. Box 9627,
+Mississippi State University, MS 39762, USA - +1-601-325-2067 - 
+Fax: +1-601-325-7692 - kelly@erc.msstate.edu
+
+
+Mini-Workshop and Birds-of-a-Feather Proposals (due March 31, 1999)
+
+Proposals may be submitted for Mini-Workshops and evening
+Birds-Of-A-Feather (BOF) gatherings on visualization methods or
+application areas. They should deal with state-of-the-art topics and
+involve experts in the field. Proposals devoted to a particular
+discipline's methods and needs are encouraged. Mini-Workshop and
+Birds-of-a-Feather Proposals (hard copy or email) should be sent to
+Rob Erbacher, University of Idaho, Department of Computer Science,
+Moscow, ID 83844-1010, USA - erbacher@cs.uidaho.edu
+
+
+Demonstration Proposals (due June 15, 1999)
+
+Visualization '99 is a unique opportunity to present your products or
+research to visualization experts from a wide variety of fields. We
+invite demonstrations of commercial hardware, software, integrated
+systems, peripherals, literature, as well as academic research. We
+encourage demonstrators to have technical representatives in
+attendance. For more information on participating in Visualization '99
+demonstrations, contact Upul Obeysekare at obey@ctc.com
+
+
+Creative Applications Lab (due July 15, 1999)
+
+The Creative Applications Lab (CAL) is designed to let Visualization
+'99 attendees run their software to show off their latest work. CAL
+will have a variety of computers available. For details on
+participating in the CAL, see the conference web site or contact Kelly
+Gaither at +1-601-325-2067 - kelly@erc.msstate.edu
+
+
+Parallel Visualization and Graphics Symposium (PVG '99)
+
+Co-sponsored by the IEEE Computer Society and  ACM/SIGGRAPH
+October 25-26, 1999 - San Francisco Airport Hyatt - San Francisco, California
+
+The First Parallel Visualization and Graphics Symposium (the successor
+to the Parallel Rendering Symposium) will be held October 1999 in
+conjunction with IEEE Visualization '99. Papers and case studies
+containing original work in all areas of parallel visualization and
+graphics are solicited. Case studies describe how parallel
+visualization and graphics techniques have contributed to achieving a
+concrete objective for a specific application. Of special interest are
+submissions on using clusters of commodity PCs and graphics cards for
+high-performance visualization and graphics tasks.
+
+Suggested topics include:
+
+- Visualization algorithms 
+- Graphics algorithms 
+- Frameworks and application programmer interfaces 
+- Load balancing, scheduling 
+- Hardware and software architectures 
+- Performance modeling and analysis 
+- Real-time systems for 3D virtual reality
+- Internet-based visualization 
+- Visualizing extremely large datasets 
+- High-performance computation/visualization environments
+
+Submissions: The deadline for submissions is March 31, 1999. Final
+papers will be limited to 8 proceedings pages plus one page of color
+figures. Case studies are limited to four proceeding pages plus one
+page of color figures. To submit a contribution, e-mail your
+submission in compressed postscript format to: hwshen@nas.nasa.gov.
+
+Please specify the type of submission in the subject line of your
+e-mail (PAPER or CASE STUDY). In addition, please send five copies of
+any accompanying NTSC video to the following postal address:
+
+Han-Wei Shen, NASA Ames Research Center, Mail Stop T27A-2, Moffett
+Field, CA 94035 - 650-604-4451
+
+URL: http://www.acl.lanl.gov/PVG99/pvg99.html
+
+Symposium Co-Chairs
+
+James Ahrens, Los Alamos National Laboratory
+Alan Chalmers, University of Bristol
+Han-Wei Shen, MRJ/NASA Ames
+
+Committee List 
+
+Kadi Bouatouch, IRISA 
+Michael Cox, MRJ/NASA Ames 
+Tom Crockett , ICASE 
+David Ellsworth, MRJ/NASA Ames 
+Pat Hanrahan, Stanford 
+Alan Heirich, Tandem 
+Arie Kaufman, SUNY Stony Brook 
+Kai Li, Princeton 
+Peggy Li, JPL 
+Kwan-Liu Ma, ICASE 
+Steve Molnar, UNC Chapel Hill 
+Ulrich Neumann, USC 
+Jamie Painter, Los Alamos 
+Theirry Priol, IRISA 
+Xavier Pueyo, University of Girona 
+Sam Uselton, MRJ/NASA Ames 
+Scott Whitman, nVidia 
+Peter Williams, Livermore 
+Craig Wittenbrink, HP Labs
+
+
+IEEE Symposium on information visualization (INFOVis '99)
+
+Sponsored by the IEEE Computer Society Technical Committee on
+Visualization and Graphics
+October 25-26, 1999 - San Francisco Airport Hyatt - San Francisco, California
+
+InfoVis '99, the fifth Information Visualization Symposium, will be
+held to focus on the rapidly growing area of information
+visualization. Increasing amounts of data and information and the
+availability of fast digital network access are creating a rapidly
+growing demand for accessing, querying and retrieving information and
+data. However, information technology will not transform business,
+science, medicine, engineering, and education if users cannot use it
+easily and efficiently. Technology must come to the users, taking
+their needs into account. If we do not involve the users, we will
+develop useless systems. InfoVis '99 will focus on all aspects of
+information visualization and human-centered information interfaces,
+and on ways in which advances in interactive computer graphics
+hardware, mass storage, and data visualization can be used to
+visualize information. Submissions are solicited in all areas of
+information visualization and human-centered information interfaces,
+including, but not limited to, such topics as:
+
+- Interactive information visualization
+- Multi-dimensional informationvisualization
+- Information presentation
+- Visualization of complex information
+- Information visualization for heterogeneous audiences
+- Visualizing the internet and WWW
+- Browsing and other Navigation methods
+- Visualization Algorithms
+- Visualization of Algorithms
+- Visualization of textual information
+- Visualization and Knowledge Discovery
+- Graph / Network Visualizations
+- Geographic Visualizations
+
+Submissions: The deadline for submission is March 31, 1999. Papers
+should be at most 8,000 words including an abstract, affiliation, and
+keywords, and should present previously unpublished original
+results. Please submit 8 copies of your paper. Video submissions (NTSC
+VHS) with papers are welcome (4 copies), but are not required. Videos
+will assist reviewers' assessment of the papers. Submit to:
+
+Graham Wills, Lucent Technologies Bell Labs, Room 2F-323, 263 Shuman
+Blvd., Naperville IL 60566, USA - +1-630-979-7338 - Fax: +1-630-713-4982 -
+gwills@research.bell-labs.com
+
+URL: http://www.infovis.org/infovis99/cfp.html
+
+
+InfoVis Late Breaking Hot Topics (due July 1, 1999)
+
+Submissions will be accepted on Late Breaking "Hot Topics" that
+pertain to all areas of Information Visualization. These submissions
+must be original, may show work in progress, and may not exceed 1,000
+words or a maximum of 4 pages including images. Images to accompany
+the paper are recommended. Accepted papers will published and
+distributed at the conference.
+
+Authors of accepted papers will have an opportunity to submit a
+revised paper. Submissions of printed papers (8 copies, due July 1,
+1999) should be sent to Nahum Gershon, The MITRE Corporation, 1820
+Dolly Madison Blvd., McLean, VA 22102, USA - 701-883-7518 - Fax:
+703-883-3615 - gershon@mitre.org
+
+Symposium Chair
+Stephen G. Eick, Visual Insights, Lucent Technologies Bell Labs
+
+Program Co-Chairs
+Graham Wills, Lucent TechnologiesBell Labs
+Daniel Keim, University of Halle
+
+Late Breaking Hot Topics 
+Nahum Gershon, MITRE
+John Dill, Simon Fraser University
+
+Steering Committee 
+Stuart Card, Xerox PARC
+Stephen G. Eick, Visual Insights, Lucent Technologies Bell Labs
+Steven Feiner, Columbia University
+Nahum Gershon, MITRE
+George Robertson, Microsoft Research
+
+
+
+IEEE Visualization '99 Conference Committee
+Conference Co-Chairs:
+Steve Bryson, NASA Ames Research Center
+Theresa-Marie Rhyne, Lockheed Martin U.S. EPA Scientific Visualization Center
+
+Program Co-Chairs:
+Deborah Silver, Rutgers University
+Lloyd Treinish, IBM Thomas J. Watson Research Center
+
+Papers Co-Chairs:
+David Ebert, University of Maryland, Baltimore County
+Markus Gross, Swiss Federal Institute of Technology (ETH)
+Bernd Hamann, University of California, Davis
+
+Case Studies Co-Chairs:
+Kwan-Liu Ma, ICASE
+David Kao, NASA Ames Research Center
+
+Panels Co-Chairs:
+J. Edward Swan II, Naval Research Laboratory
+David Kenwright, MRJ Technology Solutions
+Hanspeter Pfister, Mitsubishi Electric Research Laboratories
+
+Late Breaking Hot Topics Co-Chairs:
+Amitabh Varshney, State University of New York at Stony Brook
+Craig M. Wittenbrink, Hewlett-Packard Laboratories
+Hans Hagen, University Kaiserslautern
+
+Tutorials Co-Chairs:
+Kelly Gaither, Mississippi State University
+Frits H. Post, Delft University of Technology
+Rachael Brady, National Center for Supercomputing Applications
+
+Creative Applications Laboratory Co-Chairs:
+Russell M. Taylor II, University of North Carolina, Chapel Hill
+Polly Baker, National Center for Supercomputing Applications
+Kelly Gaither, Mississippi State University
+
+Mini-Workshops and BOFs Co-Chairs:
+Rob Erbacher, University of Idaho
+Steve Talent, Motorola SPS Computational Technologies Lab
+
+Parallel Visualization and Graphics Symposium Liaison: 
+Han-Wei Shen, MRJ Technology Solutions
+
+Information Visualization Symposium Liaison:
+Stephen G. Eick, Visual Insights, Lucent Technologies Bell Labs
+
+Publications Chair:
+Torsten Moeller, The Ohio State University
+
+Video Proceedings Chair:
+Robert J. McDermott, University of Utah
+
+Demonstration Co-Chairs:
+Upul Obeysekare, Concurrent Technologies Corporation
+L. Eric Greenwade, Lockheed Martin Idaho Technologies
+Robert Grzeszczuk, Silicon Graphics, Inc.
+
+Publicity Co-Chairs (Domestic):
+Pak Chung Wong, Pacific Northwest National Laboratory
+Michael E. Goss, Hewlett-Packard Laboratories
+
+Publicity Co-Chairs (European):
+Michael Bender, University Kaiserslautern
+Dirk Bartz, University of Tuebingen
+
+Audio-Visual Chair:
+Michael Cox, MRJ Technology Solutions
+
+Networking Chair:
+Steve Lau, Lawrence Berkeley National Labs
+
+Security Co-Chairs:
+Steve Lau, Lawrence Berkeley National Labs
+L. Eric Greenwade, Lockheed Martin Idaho Technologies
+
+Registration Chair:
+Nancy Grady, Oak Ridge National Laboratory
+
+Finance Co-Chairs:
+Loretta Auvil, National Center for Supercomputing Applications
+Rachael Brady, National Center for Supercomputing Applications
+Maria Marsilio, Silicon Dynamics
+
+Local Arrangements Co-Chairs:
+Ling-Jen Chiang, MRJ Technology Solutions
+Sandra Johan, NASA Ames Research Center
+
+Student Volunteers Co-Chairs:
+Mike Chupa, Mississippi State University
+Marjan Trutschl, University of Massachusetts, Lowell
+
+
+IEEE Visualization '99 Program Committee
+
+Mike Bailey, SDSC/UC San Diego 
+Chandrajit Bajaj, University of Texas, Austin 
+David Banks, Mississippi State University 
+Stephen A. Benton, MIT 
+R. Daniel Bergeron, University of New Hampshire 
+George Pierre Bonneau, LMC-IMAG 
+Brian Cabral, Silicon Graphics, Inc. 
+Daniel Cohen-Or, Tel-Aviv University 
+Sabine Coquillart, INRIA 
+Donna Cox, NCSA 
+Michael Cox, MRJ at NASA Ames Research Center 
+Leila Defloriani, University of Genoa 
+Rae A. Earnshaw, University of Bradford 
+Stephen G. Eick, Visual Insights, Lucent Technologies Bell Labs 
+Jose Encarnacao, Fraunhofer Institut Graphische Datenverarbeitung 
+Norberto Ezquerra, Georgia Intitute of Technology 
+Steve Feiner, Columbia University 
+James D. Foley, MERL 
+A. Robin Forrest, University of East Anglia 
+Henry Fuchs, University of North Carolina, Chapel Hill 
+Issei Fujishiro, Ochanomizu University 
+Richard S. Gallagher, R.S. Gallagher and Associates 
+Nahum Gershon, The MITRE Corporation 
+Sarah Gibson, MERL 
+Martin Goebel, National German Research Center for Information Technology 
+Bob Haimes, Massachusetts Institute of Technology 
+Charles Hansen, University of Utah 
+Andrew J. Hanson, Indiana University 
+Lambertus Hesselink, Stanford University 
+William Hibbard, University of Wisconsin, Madison 
+Karl Heinz Hoehne, University of Hamburg 
+Victoria Interrante, University of Minnesota 
+Rob Jacob, Tufts University 
+Chris Johnson, University of Utah 
+Daniel A. Keim, University of Halle 
+Ron Kikinis, Harvard Medical School 
+Fred Kitson, Hewlett-Packard Laboratories 
+Stanislav Klimenko, Institute for High Energy Physics 
+Tosiyasu Kunii 
+William E. Lorenson, GE Corporate R&D Center 
+Robert Moorhead, Mississippi State University 
+Shigeru Muraki, Electrotechnical Laboratory (ETL), Tsukuba, Japan 
+Art Olson, Research Institute of Scripps Clinic 
+Hans-George Pagendarm, DLR, German Aerospace Center 
+Alex Pang, University of California, Santa Cruz 
+Hans-Peter Pfister, MERL 
+Mike Rhodes, Toshiba America 
+William Ribarsky, Georgia Institute of Technology 
+Phil Robertson, CISRA 
+Wolfgang Strasser, University of Tübingen 
+Nadia Magnenat Thalmann, University of Geneva 
+Samuel P. Uselton, MRJ/NASA Ames 
+Andries van Dam, Brown University 
+Jarke J. Van Wijk, Eindhoven University of Technology, The Netherlands 
+Michael Vannier, Mallinckrodt Institute of Radiology 
+Val Watson, NASA Ames Research Center 
+William Wright, Visible Decisions, Inc. 
+Roni Yagel, Elbit Medical Imaging, Israel 
+Michael Zelernik, RAHD Oncology Products/University of Utah
+
+
+
+Steering Committee
+Arie Kaufman, State University of New York at Stony Brook
+Greg Nielson, Arizona State University
+Larry Rosenblum, Naval Research Laboratory
+
+====== 8< ======= 8< ======= 8< ======= 8< ======= 8< ======= 8< ======
+Dirk Bartz 				       University of Tuebingen
+					       Phone: +49-7071/29-76361
+Email: bartz@gris.uni-tuebingen.de	       Fax:   +49-7071/29-5466
+WWW:   http://www.gris.uni-tuebingen.de/~bartz

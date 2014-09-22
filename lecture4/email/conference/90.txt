@@ -1,0 +1,87 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Sun May  3 21:11:46 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id VAA28601;
+	Sun, 3 May 1998 21:11:44 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa06458;
+          3 May 98 12:25:00 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa06455;
+          3 May 98 12:04:05 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa29683;
+          3 May 98 12:03 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa12681; 3 May 98 5:45 EDT
+Received: from spencer.eng.yale.edu by CS.CMU.EDU id aa23280;
+          3 May 98 5:44:59 EDT
+Received: from eyegore by SPENCER.CTAN.YALE.EDU via SMTP; Sun, 3 May 1998 02:14:33 GMT
+Message-ID: <354BD458.197A@yale.edu>
+Date: Sat, 02 May 1998 22:20:08 -0400
+From: Ted Carnevale <ted.carnevale@yale.edu>
+Reply-To: ted.carnevale@yale.edu
+Organization: Yale University Neuroengineering and Neuroscience Center
+X-Mailer: Mozilla 3.01 (WinNT; U)
+MIME-Version: 1.0
+To: cneuro@bbb.caltech.edu, connectionists@cs.cmu.edu
+CC: ted@SPENCER.CTAN.YALE.EDU, Michael Hines <michael.hines@yale.edu>
+Subject: NEURON summer course
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Announcing THE NEURON SIMULATION ENVIRONMENT
+             An intensive hands-on course
+
+Date: Saturday, August 1, through Wednesday, August 5, 1998
+
+Place: San Diego Supercomputer Center
+
+Course faculty includes:  Ted Carnevale
+                          Michael Hines
+                          Bill Lytton
+                          Terry Sejnowski
+
+This course is designed for experimentalists who wish to 
+incorporate empirically-based modeling into their research plans.
+It will be of interest to three broad classes of participants.
+  1. Those who have little or no modeling experience will 
+     learn not only the technical aspects of modeling 
+     but also its philosophical basis and scientific rationale. 
+  2. Intermediate users will learn how best to approach 
+     common tasks, and under what circumstances special 
+     components of NEURON's rich feature set might be 
+     particularly helpful. 
+  3. Experienced users will benefit from an update on new 
+     features and a review of important topics that may have 
+     escaped their attention when they first learned how to 
+     use NEURON. 
+
+Partial listing of the topics that will be covered:
+  Design and construction of models of biophysical mechanisms,
+     individual neurons, and networks of neurons 
+  Strategies for efficient design and project management
+  Adding new biophysical mechanisms 
+  Optimization
+  NEURON's new variable order, variable timestep method 
+  Powerful features of the Vector and Impedance classes
+  The graphical user interface for simulation control 
+     and data analysis
+
+Registration is limited to 20 individuals on a first-come, 
+first-serve basis.  The registration fee is $525, which 
+covers expenses that include room and board.  
+
+Deadline for registration is Wednesday, July 1, 1998.
+
+For more information about this course, including an 
+electronic registration form, see
+  http://www.neuron.yale.edu/sdsc98/sdsc98.htm
+
+For more information about NEURON see
+  http://www.neuron.yale.edu
+and in particular the article "The NEURON simulation environment"
+(Hines and Carnevale, Neural Computation 9:1179-1209, 1997), 
+which is posted in HTML format at
+  http://www.neuron.yale.edu/papers/nc97/nctoc.htm
+
+--Ted

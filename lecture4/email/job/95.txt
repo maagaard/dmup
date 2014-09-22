@@ -1,0 +1,116 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Apr  8 07:23:29 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA01548;
+	Thu, 8 Apr 1999 07:23:23 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23913;
+          7 Apr 99 16:03 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23902;
+          7 Apr 99 15:57 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15030;
+          7 Apr 99 15:56 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab16048; 7 Apr 99 15:53 EDT
+Received: from osf1.gmu.edu by EDRC.CMU.EDU id aa14068; 7 Apr 99 15:52:40 EDT
+Received: from localhost (ascoli@localhost)
+	by osf1.gmu.edu (8.8.8/8.8.8) with SMTP id PAA06506;
+	Wed, 7 Apr 1999 15:52:36 -0400 (EDT)
+Date: Wed, 7 Apr 1999 15:52:36 -0400 (EDT)
+From: GIORGIO ASCOLI <ascoli@osf1.gmu.edu>
+To: connectionists@CS.cmu.edu, neuron-request@cattell.psych.upenn.edu
+Subject: positions available
+Message-ID: <Pine.OSF.3.96.990407154835.17182Q-100000@osf1.gmu.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Please post, distribute, and circulate as you see fit. 
+
+****************************************************
+*                                                  *
+*        POSITIONS AVAILABLE:                      *
+* (1) Computational Neuroscience Post-Doc          *
+* (2) Computer programmer for Neuroscience project *
+*                                                  *
+****************************************************
+
+1) COMPUTATIONAL NEUROSCIENCE POST-DOCTORAL POSITION AVAILABLE
+
+	A post-doctoral position is available immediately for
+computational modeling of dendritic morphology, neuronal connectivity, and
+development of anatomically and physiologically accurate neural networks. 
+All highly motivated candidates with a recent PhD in biology, computer
+science, physics, or other areas related to Neuroscience (including MD or
+engineering degree) are encouraged to apply. C programming skills and/or
+experience with GENESIS or other modeling packages are desirable but not
+necessary. 
+	Post-doc will join a young and dynamic research group at the
+Krasnow Institute for Advanced Study, located in Fairfax, VA (<20 miles
+west of Washington DC). The initial research project is focused on (1) the
+generation of complete neurons in virtual reality that reproduce
+accurately the experimental morphological data; and (2) the study of the
+influence of dendritic shape (geometry and topology) on the
+electrophysiological behavior. We have developed advanced software to
+build network models of entire regions of the brain (e.g. the rat
+hippocampus), and the successful candidate will also work on this aspect
+of the research. 
+	The post-doc will be hired as a Research Assistant Professor (with
+VA state employee benefits) with a salary based on the NIH postdoctoral
+scale, and will have a private office, a new computer, and full-time
+access on Silicon Graphics server and consoles.
+	Send CV, (p)reprints, a brief description of your motivation, and
+names, email addresses and phone/fax numbers of references to: 
+ascoli@gmu.edu (or by fax at the number below) ASAP. There is no deadline
+but the position will be filled as soon as a suitable candidate is found. 
+        Non-resident aliens are also welcome to apply. The Krasnow
+Institute is an equal opportunity employer.
+
+Giorgio Ascoli, PhD
+Krasnow Institute for Advanced Study
+at George Mason University, MS2A1
+Fairfax, VA 22030
+Ph. (703)993-4383
+Fax (703)993-4325
+
+2) PROGRAMMER POSITION AVAILABLE FOR NEUROSCIENCE PROJECT
+
+A position for a junior scientific programmer is available immediately to
+work in a research project aimed to the virtual construction of portions
+of the brain. Candidates must have strong C (C++ a plus) programming
+skills and software development experience in both Windows and Unix
+environments. No background in neuroscience is requested, but interest and
+motivation are highly desirable. All undergraduate/graduate students as
+well as BA's, BS's, and MS's are encouraged to apply. The position can be
+either part-time or full-time, and the schedule is extremely flexible.
+	The programmer will join a young and dynamic research group at the
+Krasnow Institute for Advanced Study, located in Fairfax, VA (<20 miles
+west of Washington DC). The successful candidate will work with the
+principal investigator (Dr. Ascoli) on the implementation of algorithms to
+generate neuronal structures in 3D according to known and novel anatomical
+rules. In addition, routines will be developed to measure geometrical and
+topological parameters from the tree-like branching structures. All the
+executables (and some of the codes at the discretion of the principal
+investigator) will be publicly distributed, and the programmer will be
+given full intellectual credit in both software distribution and
+scientific publications.
+	The programmer will be hired as a Research Instructor (with
+VA state employee benefits) with a salary proportioned to experience and
+skills, and will have a new PC and full-time access on Silicon Graphics
+server and O2 consoles.
+	Send CV, a brief description of your motivation, and
+names, email addresses and phone/fax numbers of references to: 
+ascoli@gmu.edu (or by fax at the number below) ASAP. There is no deadline
+but the position will be filled as soon as a suitable candidate is found. 
+        Non-resident aliens are also welcome to apply. The Krasnow
+Institute is an equal opportunity employer.
+
+Giorgio Ascoli, PhD
+Krasnow Institute for Advanced Study
+at George Mason University, MS2A1
+Fairfax, VA 22030
+Ph. (703)993-4383
+Fax (703)993-4325
+
+

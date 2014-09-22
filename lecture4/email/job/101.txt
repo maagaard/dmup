@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Apr 21 20:23:19 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA18474;
+	Wed, 21 Apr 1999 20:23:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28838;
+          21 Apr 99 12:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28819;
+          21 Apr 99 11:51 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07033;
+          21 Apr 99 11:51 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29042; 21 Apr 99 9:31 EDT
+Received: from trueno.cs.tu-berlin.de by CS.CMU.EDU id aa13188;
+          21 Apr 99 9:30:36 EDT
+Received: from pollux.cs.tu-berlin.de (oby@pollux.cs.tu-berlin.de [130.149.31.31])
+	by trueno.cs.tu-berlin.de (8.9.1/8.9.1) with ESMTP id PAA27484
+	for <Connectionists@CS.CMU.EDU>; Wed, 21 Apr 1999 15:25:51 +0200 (MET DST)
+From: Klaus Obermayer <oby@cs.tu-berlin.de>
+Received: (from oby@localhost)
+	by pollux.cs.tu-berlin.de (8.9.1/8.9.0) id PAA27254
+	for Connectionists@CS.CMU.EDU; Wed, 21 Apr 1999 15:25:50 +0200 (MET DST)
+Date: Wed, 21 Apr 1999 15:25:50 +0200 (MET DST)
+Message-Id: <199904211325.PAA27254@pollux.cs.tu-berlin.de>
+To: Connectionists@CS.cmu.edu
+Subject: positions in CNS
+Status: RO
+X-Status: 
+
+
+Postdoctoral and Graduate Student Positions in
+Computational Neuroscience
+
+Neural Information Processing Group, Department of Computer Science,
+Technical University of Berlin, Germany
+
+
+One postdoctoral and one graduate student fellowship are available for
+candidates, who are interested to work on computational models of primary
+visual cortex. The successful candidates may choose between the following
+topics:
+
+- Dynamics of cortical circuits including the role of steppy connections
+  and fast synaptic plasticity.
+- Representation of information in the visual cortex.
+- Development of neural circuits and the functional organization of visual
+  cortex (cortical maps).
+
+The candidates are expected to join an ongoing collaboration with
+experimental neurobiologists in the group of Jennifer Lund (Institute of
+Ophthalmology, University College London) Positions will start in summer /
+fall 1999. The postdoctoral position will be initially for one year, but
+an extension is possible.
+
+The CS department of the Technical University of Berlin approves students
+with foreign Masters or Diplom degrees for graduate study when certain
+standards w.r.t. the subject, grades, and the awarding institution are met.
+The university also allows for a thesis defense in the English language.
+
+Interested candidates please send their CV, transcripts of their
+certificates, a short statement of their research interest, and a list of
+publications to:
+
+Prof. Klaus Obermayer
+FR2-1, NI, Informatik, Technische Universitaet Berlin
+Franklinstrasse 28/29, 10587 Berlin, Germany
+phone: ++49-30-314-73120, fax: -73121, email: oby@cs.tu-berlin.de
+
+prefereably by email.
+
+For a list of relevant publications and an overview of current research
+projects please refer to our web-page at:
+
+http://ni.cs.tu-berlin.de/
+
+
+Klaus
+
+-----------------------------------------------------------------------------
+
+Prof. Dr. Klaus Obermayer         phone:  49-30-314-73442
+FR2-1, NI, Informatik                     49-30-314-73120
+Technische Universitaet Berlin    fax:    49-30-314-73121
+Franklinstrasse 28/29             e-mail: oby@cs.tu-berlin.de
+10587 Berlin, Germany             http://ni.cs.tu-berlin.de/
+

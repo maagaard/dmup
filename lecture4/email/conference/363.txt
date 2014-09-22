@@ -1,0 +1,120 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jan 17 22:08:00 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id WAA18468;
+	Mon, 17 Jan 2000 22:07:56 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07608;
+          17 Jan 2000 13:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07596;
+          17 Jan 2000 12:54 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00864;
+          17 Jan 2000 12:53 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab20864; 17 Jan 2000 11:32 EST
+Received: from fw.cs.cas.cz by ri.cmu.edu id aa29096; 17 Jan 2000 11:30 EST
+Received: (from mailprox@localhost)
+	by fw.cs.cas.cz (8.9.3/8.8.7) id RAA07408
+	for <connectionists@cs.cmu.edu>; Mon, 17 Jan 2000 17:30:45 +0100
+X-Authentication-Warning: fw.cs.cas.cz: mailprox set sender to <vera@uivt1.uivt.cas.cz> using -f
+Received: from uivt1.cs.cas.cz(147.231.4.1) by fw.cs.cas.cz via smap (V2.1)
+	id xma007397; Mon, 17 Jan 00 17:30:22 +0100
+Received: from [147.231.4.136] (pc332.cs.cas.cz [147.231.4.136])
+	by uivt1.cs.cas.cz (8.9.3/8.8.7) with SMTP id RAA01386
+	for <connectionists@cs.cmu.edu>; Mon, 17 Jan 2000 17:30:22 +0100
+X-NUPop-Charset: IBM 8-Bit
+Date: Mon, 17 Jan 00 17:30:35 CET  
+From: Vera Kurkova <vera@cs.cas.cz>
+Sender: vera@cs.cas.cz
+Message-Id: <63036.vera@uivt1.uivt.cas.cz>
+To: connectionists@cs.cmu.edu
+Subject: Call for papers NNW'2000
+Status: RO
+X-Status: 
+
+
+Call for papers and participation:
+
+
+                               NNW 2000
+               10th Anniversary International Conference on
+             Artificial Neural Networks and Intelligent Systems
+                 Prague, Czech Republic, July 9-12, 2000
+
+
+Purpose of the conference
+
+The main focus of NNW2000 is the development and application of
+computational paradigms inspired by natural processes, namely
+artificial neural networks, evolutionary algorithms, and related
+subjects including adaptive agents, artificial life, soft computing,
+etc.
+
+The conference takes place in the year of the 10th anniversary of
+founding the Neural Network World international scientific journal. It
+is jointly organized by Institute of Computer Science, Academy of
+Sciences of the Czech Republic, Neural Network World Editorial Board
+and Action M Agency.
+
+
+Important Dates
+
+Submission of draft version of paper:  February 15, 2000
+Notification of acceptance:            April 15, 2000
+Delivery of revised papers:            May 30, 2000
+NNW2000 conference:                    July 9-12, 2000
+
+Conference topics
+
+The following list indicates the areas of interest, but it is not
+exhaustive:
+
+* Neural Networks: Architectures, Algorithms, Approximation,
+  Complexity, Biological Foundations
+
+* Evolutionary Computation: Genetic Algorithms, Genetic Programming,
+  Classifier Systems, Artificial Life
+
+* Hybrid Systems: Fuzzy Logic, Soft Computing, Neuro-Fuzzy Controller,
+  Genetic Learning of Neural Networks
+
+* Adaptive Agents: Models and Architectures, Distribution and
+  Cooperation, AI Agents, Software Agents, Complex Adaptive Systems
+
+* Applications: Pattern Recognition, Signal Processing, Simulation,
+  Hardware Implementation, Robotics
+
+Call for papers
+
+Prospective authors are invited to submit a draft version of paper
+describing original results for review by an international Program
+Committee. The paper should be written in English and should not
+exceed 8 pages. Proposals for tutorials, special sessions, and
+workshops are also invited.
+
+Electronic submission of paper is preferred. It is possible via the
+conference web site or by email to nnw2000@uivt.cas.cz
+
+Alternatively, three printed copies can be sent to the following
+address:
+
+Roman Neruda
+Institute of Computer Science
+Academy of Sciences of the Czech Republic
+PO Box 5
+18207 Prague
+Czech Republic
+
+Accepted papers will be published in the special issue of the Neural
+Network World journal and available at the conference.  Submitting the
+final version of papers will follow the standard Neural Network World
+instructions for authors: LaTeX versions (standard article document
+class) with Encapsulated Postscript figures are preferred, alternative
+formats (such as MS Word) are possible.
+
+
+Further information
+
+* Updated information is available at the conference web site:
+  http://www.cs.cas.cz/nnw2000
+
+* Contact the organizers by email:  nnw2000@cs.cas.cz

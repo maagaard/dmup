@@ -1,0 +1,161 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Feb 11 21:58:11 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA14314;
+	Thu, 11 Feb 1999 21:58:05 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17320;
+          11 Feb 99 13:33 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17302;
+          11 Feb 99 13:14 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19640;
+          11 Feb 99 13:14 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa29673; 11 Feb 99 6:19 EST
+Received: from stevenson144.cogsci.ed.ac.uk by RI.CMU.EDU id aa08890;
+          11 Feb 99 6:18:45 EST
+Received: from burns.cogsci.ed.ac.uk (rcs@burns [129.215.144.4])
+	by stevenson.cogsci.ed.ac.uk (8.8.7/8.8.7) with SMTP id LAA20351;
+	Thu, 11 Feb 1999 11:15:17 GMT
+From: rcs@cogsci.ed.ac.uk
+Date: Thu, 11 Feb 1999 11:15:15 GMT
+Message-Id: <21892.199902111115@burns.cogsci.ed.ac.uk>
+To: connectionists@cs.cmu.edu, neuron-uk@mailbase.ac.uk,
+        cneuro@bbb.caltech.edu, owner-neuromotor-control@cs.umass.edu,
+        cogneuro@ptolemy.arc.nasa.gov, cvnet@skivs.ski.org
+Subject: MSc in Cognitive SCience and Natural Language
+Cc: rcs@cogsci.ed.ac.uk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-MD5: L8HGLmZijldYms4TlFjg+Q==
+Status: RO
+X-Status: 
+
+**************************************************************************
+**************************************************************************
+MSc in "Cognitive Science and Natural Language"
+in the School of Cognitive Science,
+Division of Informatics, University of Edinburgh
+
+
+The new School of Cognitive Science, in the newly created Division of
+Informatics, takes over the teaching and research training activities of the 
+former Centre for Cognitive Science. In an act of fundamental restructuring, the 
+Centre for Cognitive Science and the Human Communication Research Centre, as 
+well as the departments of Computer Science and Artificial Intelligence, have 
+all merged to form the Division of Informatics. In very broad terms, Informatics 
+is devoted to studying the structure, behaviour and design of computational, 
+cognitive and communicating systems, both natural and artificial.
+
+TEACHING STAFF
+
+Mark Steedman Head of School
+   computational linguistics, grammar formalisms, knowledge representation
+Chris Brew 
+   corpora, data intensive linguistics, language technology
+Jo Calder 
+   grammar formalisms, computational linguistics
+Bruce Graham
+   computational neuroscience, neural networks
+Alexander Holt
+   natural language semantics, computational linguistics
+Ewan Klein  
+   linguistic theory, phonology
+Alex Lascarides 
+   lexical and discourse processing, semantics, pragmatics
+Chris Mellish
+   natural language processing and generation
+Paul Schweizer
+   philosophical logic, philosophy of mind, philosophy of language
+Richard Shillcock
+   psycholinguistics, cognitive modelling, cognitive neuropsychology
+Keith Stenning
+   human memory, inference, connectionism
+Geraint Wiggins
+   logic programming, intelligent music systems
+Roberto Zamparelli
+   theoretical linguistics
+
+MSc POSTGRADUATE PROGRAMME
+
+The School of Cognitive Science directly continues the educational heritage of 
+the Centre for Cognitive Science, which established its postgraduate programme 
+in 1978 and is widely recognized internationally as one of the best programmes 
+of it's kind. The School of Cognitive Science offers a course of postgraduate 
+study centred on language and cognition.
+
+STRUCTURE OF THE PROGRAMME
+
+The specific modules available vary slightly from year to year, but the 
+following list of seven contributing disciplines provides an accurate indication 
+of the general pattern:
+
+    Cognitive Psychology
+    Computational Linguistics
+    Data Intensive Linguistics
+    Formal Logic
+    Logic Programming and Knowledge Representation
+    Neural Computation
+    Theoretical Linguistics
+
+The teaching is carried out over two ten-week terms, and many of the 
+contributing subjects have both first and second term modules. Students are 
+expected to take four modules per term for assessment.
+
+Between May and September, MSc students work on a dissertation or project. In 
+addition to the first year taught course, there are a number of advanced courses 
+available within the Division of Informatics for students working beyond the MSc 
+level. Also, there is a rich diversity of research workshops and working groups 
+in which PhD students are active participants.
+
+STUDYING IN EDINBURGH
+
+Edinburgh contains the largest concentration of expertise in Artificial 
+Intelligence and Natural Language Processing in Europe. Students have access to 
+that expertise, to Edinburgh's large copyright libraries, and within Cognitive 
+Science, to a substantial offprint library. The School possesses extensive 
+computing facilities based on a network of Sun workstations and Apple 
+Macintoshes; access to Edinburgh's concurrent supercomputer and other central 
+computing services is easily arranged.
+
+Edinburgh, `Athens of the North', is a beautiful Georgian city. Home of the 
+International Festival, it is endowed with green parklands and lies close to the 
+wildscape of the Scottish Highlands. Edinburgh restaurants offer a wide range of 
+ethnic cuisines, and there is a variety of theatres, galleries, museums and 
+cinemas.
+
+Applicants typically have undergraduate degrees in one of the participating 
+areas or an appropriate joint honours degree.
+
+UK and EU students following the MSc and PhD courses are eligible to apply for 
+studentships. SCS will advise all students concerning funding possibilities. SCS 
+attracts studentships from a variety of UK and non-UK funding bodies. 
+
+
+Contact:
+
+    Mrs Judith Gordon          or       Miss E Kerse
+    MSc Admissions                      PhD Admissions
+    Division of Informatics             Division of Informatics
+    University of Edinburgh             University of Edinburgh
+    5 Forrest Hill                      James Clerk Maxwell Bldg
+    Edinburgh EH1 2QL                   Kings Buildings
+    UK                                  Edinburgh EH9 3JZ
+                                        UK
+
+
+               email: msc-admissions@inf.ed.ac.uk
+
+                      phd-admissions@inf.ed.ac.uk
+
+
+
+		  FOR DETAILED UP TO DATE INFORMATION
+		  ON THE SCHOOL OF COGNITIVE SCIENCE
+
+	 h t t p : / / w w w . c o g s c i . e d . a c . u k /
+	 
+	 
+	 
+**************************************************************************
+**************************************************************************

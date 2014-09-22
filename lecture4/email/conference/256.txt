@@ -1,0 +1,219 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue May 11 16:20:52 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id QAA28249;
+	Tue, 11 May 1999 16:20:41 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14743;
+          10 May 99 23:25 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14741;
+          10 May 99 23:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01486;
+          10 May 99 23:20 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa09813; 10 May 99 6:14 EDT
+Received: from udsab.dia.unisa.it by CS.CMU.EDU id aa21721;
+          10 May 99 6:13:12 EDT
+Received: by udsab (5.65v3.2/1.1.10.5/13Jun97-1021AM)
+	id AA30926; Mon, 10 May 1999 12:09:04 +0200
+Date: Mon, 10 May 1999 12:09:04 +0200
+From: Tagliaferri Roberto <robtag@dia.unisa.it>
+Message-Id: <9905101009.AA30926@udsab>
+To: Connectionists@cs.cmu.edu
+Subject: Program WIRN Vietri '99: XI ITALIAN WORKSHOP ON NEURAL NETS
+Status: RO
+X-Status: 
+
+
+WIRN Vietri '99
+XI ITALIAN WORKSHOP ON NEURAL NETS
+Preliminary Program
+IIASS "E.R. Caianiello", 20-22 May 1999)
+http://dsi.ing.unifi.it/neural/siren/WIRN99/home_en.html
+
+Thursday 20 May
+
+9.30 - 10.30 Use and Abuse of Neural Networks
+Niranjan M. (invited talk)
+10.30 - 11-00 coffe break
+
+Models
+11.00 - 11.20 Dynamics of On-line Learning in Radial Basis Function
+Neural Networks
+Marinaro M., Scarpetta S.
+11.20 - 11.40 Online Learning with Adaptive Local Step Sizes
+Schraudolph N.N.
+11.40 - 12.00 Continual Prediction using LSTM with Forget Gates
+Gers F.A., Schmidhuber J., Cummins F.
+12.00 - 12.20 Polynomial Clustering Exhibit Statistical Estimation
+Abilities
+Fiori S., Burrascano P.
+12.20-13.20 Theory, Implementation, and Applications of Support Vector
+Machines
+Pittore M., Verri A. (review talk))
+
+Poster Session
+15.30 high light spotting
+
+Friday 21 May
+
+9.00-10.00 Computational Intelligence in Hydroinformatics: a Review
+Cicioni Gb.,  Masulli F. (review talk)
+
+Applications
+10.00 - 10.20 A Neural Network Based Urban Environment Monitoring System
+Exploiting Previous Knowledge
+Simone G., Morabito F.C.
+10.20 -10.40 A Combination of Tools: NLS and NN Estimation of the
+Consumers' Expenditure in Durable Goods. Determinants, Trend and
+Forecasting for the Motor Vehicles Sector
+D'Orio G.
+10.40 - 11.10 coffe break
+
+Signal and Image Processing
+11.10 - 11.30 A Feed-Forward Neural Network for Robust Segmentation of
+Color Images
+Amoroso C., Chella A., Morreale V., Storniolo P.
+11.30 - 11.50 A Neural Network Based ARX Model of Virgo Noise
+Barone F., De Rosa R., Eleuteri A., Garufi F., Milano L., Tagliaferri R.
+
+Architectures and Algorithms 
+11.50 - 12.10 Building Neural and Logical Networks with Hamming
+Clustering
+Muselli M.
+12.10 - 12.30 Training Semiparametric Support Vector Machines
+Mattera D., Palmieri F., Haykin S.
+12.30 - 12.50 An Analog On-chip Learning Architecture Based on Weight
+Perturbation Algorithm and on Current Mode Translinear Circuits
+Valle M., Diotalevi F., Bo G.M., Biglieri E., Caviglia D.D.
+
+Caianiello Session
+15.00-16.00 Title to be announced  
+Taylor J. (invited talk)
+16.00 - 16.30 the winner of the Caianiello prize
+16.30-17.00 coffe break
+17.00 assemblea SIREN
+20.00 Social Dinner
+
+
+
+Saturday 22 May
+
+Special Session on Neural Networks in Economics 
+(Co-chairs S. Giove and M. Salzano)
+
+9.00 - 9.50 Neural graphs in the handling of economic and management
+problems 
+Gil Aluja (invited talk)
+9.50 - 10.40 Statistical Neural Networks and their Applications in
+Economics
+Lauro N.C., Davino C., Vistocco D. (review talk)
+10.40- 11.10 coffe break
+11.10 - 11.35 title to be announced
+von Altrock (invited talk) 
+11.35 -11.55 Neural Network for Economic Forecasting
+Salzano M. (review talk)
+11.55 - 12.15 Fuzzy Local Algorithms for Time Series Analysis and
+Forecasting
+Giove S. (review talk)
+12.15 - 12.35 Regional Economic Policy and Computational Economics
+Marino D. (review talk)
+12.35 - 12.50 A Fuzzy Definition of Industrial District
+Bruni S., Facchinetti G., Paba S.
+12.50 - 13.05 Estimating the Conditional Mean of Non-linear Time Series
+using Neural Networks
+Giordano F., Perna C.
+
+
+Papers in the Poster Session
+
+The N-SOBoS Model
+Frisone F., Morasso P.G.
+
+A Neural Network Approach to Detect Functional MRI Signal
+Frisone F., Morasso P.G., Vitali P., Rodriguez G., Pilot A., Sardanelli
+F., 
+Rosa M.
+
+Interval Arithmetic Multilayer Perceptron as Possibility-Necessity
+Pattern   
+Classifier
+Drago G.P., Ridella S. 
+
+Inferring Understandable Rules through Digital Synthesis
+Muselli M., Liberati D. 
+
+YANNS: Yet Another Neural Network Simulator
+d'Acierno A., Sansone S.
+
+A Multilayer Perceptron for Fast Interpolation of JPEG/MPEG Coded Images
+Carrato S. 
+
+A General Assembly as Implementation of a Hebbian Rule in a Boolean
+Neural Network
+Lauria F.E., Milo M., Prevete R., Visco S. 
+
+The Search for Spiculated Lesions in the CALMA Project: Status and  
+Perspectives
+Marzulli V.M.
+
+An Experimental Comparison of Three PCA Neural Techniques
+Fiori S. 
+
+Weightless Neural Networks for Face Recognition
+Lauria S., Mitchell R. 
+
+Gesture Recognition using hybrid SOM/DHMM
+Corradini A., Boehme H.J., Gross H.M. 
+
+Parameter Identification using Aspects - Application to the Human
+Cardiovascular System
+Asteroth A., Frings-Naberschulte J., Mvller K.
+
+Development of Selectivity Maps in a BCM Network using Various
+Connectivity Schemes
+Remondini D., Castellani G.C., Bazzani A., Campanini R., Bersani F.
+
+A Novel Wavelet Filtering Method in SAR Image Classification by Neural
+Networks
+Simone G., Morabito F.C. 
+
+Real Time Neural Network Disruption Prediction in Tokamak Reactors
+Morabito F.C., Versaci M. 
+
+The Automatic Detection of Microcalcification Clusters in the CALMA
+Project: Status and Perspectives
+Delogu P. 
+
+Recursive Networks: an Overview of Theoretical Results
+Bianchini M., Gori M., Scarselli F. 
+
+Local Wavelet Decomposition and its Application to Face Reconstruction
+Borghese N.A., Ferrari S., Piuri V. 
+
+Harmony Theory and Binding Problem
+Pessa E., Pietronilla Penna M. 
+
+Scale Based Clustering Optimization via Gravitational Law Imitation
+Frattale Mascioli F.M., Rizzi A., Scrocca G., Martinelli G. 
+
+Signal Classification by Subspace Neural Networks
+Martinelli G., Di Giacomo M. 
+
+On-line Quality Control of DC Permanent Magnet Motor using Neural
+Networks
+Solazzi M., Uncini A. 
+
+Neural Networks for Spectral Analysis of Unevenly Sampled Data
+Tagliaferri R., Ciaramella A., Milano L., Barone F.
+
+Using the Hermite Regression Algorithm to Improve the Generalization  
+Capability of a Neural Network
+Pilato G., Sorbello F., Vassallo G.
+
+Training Semiparametric Support Vector Machines
+Mattera D., Palmieri F., Haykin S.
+
+A Comparison among Clustering Techniques for Identifying Objects in 
+Images
+Carrai P., Izzo G., Esposito A., Agarossi L.
+

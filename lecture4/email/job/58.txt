@@ -1,0 +1,92 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Jan 30 06:51:22 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA00350;
+	Sat, 30 Jan 1999 06:51:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14258;
+          29 Jan 99 23:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14255;
+          29 Jan 99 22:55 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01867;
+          29 Jan 99 22:55 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa02686; 29 Jan 99 20:30 EST
+Received: from ENGA.BU.EDU by CS.CMU.EDU id aa18840; 29 Jan 99 20:30:17 EST
+Received: from CORTEX.BU.EDU (CORTEX.BU.EDU)
+ by enga.bu.edu (PMDF V5.0-6 #11083) id <01J74HR4M5C00000FE@enga.bu.edu>; Fri,
+ 29 Jan 1999 19:36:21 -0400 (EDT)
+Date: Fri, 29 Jan 1999 19:37:50 -0400
+From: "Lucia M. Vaina" <vaina@enga.bu.edu>
+Subject: Please post
+In-reply-to: <199811111522.QAA06995@anaxagoras>
+X-Sender: vaina@enga.bu.edu
+To: vaina@enga.bu.edu
+Message-id: <v04003a05b2d7efc2f285@[128.197.51.41]>
+MIME-version: 1.0
+Content-type: text/plain; charset="us-ascii"
+Content-transfer-encoding: 7BIT
+References: <v04003a00b26c51443dd9@[24.128.173.236]> (vaina@enga.bu.edu)
+Status: RO
+X-Status: 
+
+Graduate Student or Postdoctoral Position in Computational Functional MRI:
+from Fall 1999
+(possible summer 99)
+
+>This  exciting new venture in the Brain and Vision Research Laboratory at
+>Boston University, Department of Biomedical Engineering involves
+>visualisation the working (plasticity and restorative plasticity) of the
+>human brain  during sensory-motor tasks.
+> Specifically, the postholder will:
+>
+>    * establish new protocols of functional imaging on a research MRI
+>scanner, 		including the stimulus presentation system,
+>software and interfacing.
+>
+>    * work with other members of the laboratory to define, establish
+>  and run suitable test paradigms on healthy volunteers and patients
+>
+>    *  explore the uses of real-time and near-real-time analysis
+>techniques in fMRI studies.
+>    * model the  changes of functional connectivity of brain activations
+>using  structural equations models and functional connectivity models.
+>
+>It is possible that for part of the time the RA will work at an NIH
+>laboratory, in Bethesda, MA.
+>
+>Candidates should  have good background inC programming,  mathematics,
+>signal processing and probability and should be familiar with the Unix
+>environment. Knowledge of human neuroanatomy is a plus.
+
+Please send a letter of application along with CV, publication list if
+available, brief  statement of current research and background, and two
+letters of recommendation before March 10, 1999, to
+Professor Lucia M. Vaina
+Brain and Vision Research Laboratory
+Biomedical Engineering Department
+College of Engineering
+Boston University
+44 Cummington str
+Boston, Ma 02115
+USA
+fax: 617-353-6766
+
+
+
+>
+
+
+Lucia M. Vaina  Ph.D., D.Sc.
+Professor of Biomedical Engineering and Neurology
+
+Brain and Vision Research Laboratory
+Boston University, Department of Biomedical Engineering
+College of Engineering
+44 Cummington str, Room 315
+Boston University
+Boston, Ma 02215
+USA
+
+tel: 617-353-2455
+fax: 617-353-6766
+

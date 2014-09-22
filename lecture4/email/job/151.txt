@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jul 12 23:34:35 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id XAA08844;
+	Mon, 12 Jul 1999 23:34:24 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05710;
+          12 Jul 99 16:24 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05708;
+          12 Jul 99 16:09 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10345;
+          12 Jul 99 16:09 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28056; 12 Jul 99 12:00 EDT
+Received: from lamisun1.epfl.ch by CS.CMU.EDU id aa17382; 12 Jul 99 11:59:16 EDT
+Received: from mantrasun8.epfl.ch (gerstner@mantrasun8.epfl.ch [128.178.74.83])
+	by lamisun1.epfl.ch (8.8.X/EPFL-8.1a) with ESMTP id RAA29731
+	for <connectionists@cs.cmu.edu>; Mon, 12 Jul 1999 17:59:09 +0200 (MET DST)
+Received: (from gerstner@localhost)
+	by mantrasun8.epfl.ch (8.8.X/8.8.8) id RAA09199;
+	Mon, 12 Jul 1999 17:59:08 +0200 (MET DST)
+Date: Mon, 12 Jul 1999 17:59:08 +0200 (MET DST)
+Message-Id: <199907121559.RAA09199@mantrasun8.epfl.ch>
+From: Wulfram Gerstner <gerstner@lamisun1.epfl.ch>
+To: connectionists@cs.cmu.edu
+Subject: PhD-studentship
+Status: RO
+X-Status: 
+
+
+2 PhD scholarships are available
+at the Swiss Federal Institute of Technology in Lausanne (EPFL)
+for thesis research on
+
+A) Information Theoretic Approaches to Spike Coding
+
+B) Kernels and Support Vector Machines for Vision
+
+The PhD-students will be part of 
+the  Center for Neuromimetic Systems, see
+http://diwww.epfl.ch/mantra
+
+Highly motivated candidates
+with a strong theory background (math,physics)
+and an interest in statistical learning theory,
+information theory, and machine learning 
+should apply by  sending their CV together with
+the name of a reference  to 
+    wulfram.gerstner@di.epfl.ch.
+Subject line: application
+Unformated text or postscript format only.
+
+---------------------------------------------------------------------
+Wulfram Gerstner   	Swiss Federal Institute of Technolgy Lausanne
+Assistant Professor 	Centre for Neuro-mimetic Systems
+			Computer Science Department, EPFL, IN-J, 032
+			1015 Lausanne EPFL
+Tel. +41-21-693 6713       wulfram.gerstner@di.epfl.ch
+Fax. +41-21-693 5263       http://diwww.epfl.ch/mantra
+---------------------------------------------------------------------
+
+
+
+

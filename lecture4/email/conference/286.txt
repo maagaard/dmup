@@ -1,0 +1,113 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Aug 11 23:50:50 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id XAA03818;
+	Wed, 11 Aug 1999 23:50:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab11158;
+          11 Aug 99 14:53 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa11127;
+          11 Aug 99 14:41 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21107;
+          11 Aug 99 14:40 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa21084; 11 Aug 99 10:27 EDT
+Received: from relay.pnl.gov by RI.CMU.EDU id aa16472; 11 Aug 99 10:26:41 EDT
+Received: from pnlmse1.pnl.gov by pnl.gov (PMDF V5.1-12 #28154)
+ with ESMTP id <01JEMSSQQ62O8X7BOC@pnl.gov> for Connectionists@cs.cmu.edu; Wed,
+ 11 Aug 1999 07:26:06 PDT
+Received: by PNLMSE1.pnl.gov with Internet Mail Service (5.5.2448.0)
+ id <QV2SC39Q>; Wed, 11 Aug 1999 07:26:07 -0700
+Content-return: allowed
+Date: Wed, 11 Aug 1999 07:26:05 -0700
+From: "Keller, Paul E" <Paul.Keller@pnl.gov>
+Subject: CFP: Applications and Science of Computational Intelligence III
+To: "'Connectionists@cs.cmu.edu'" <Connectionists@cs.cmu.edu>
+Reply-to: pe_keller@pnl.gov
+Message-id: <9623E2E264D9D211B5FA0008C7A4B5CC3F9355@pnlmse2.pnl.gov>
+MIME-version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Content-type: text/plain; charset="ISO-8859-1"
+Status: RO
+X-Status: 
+
+
+
+	* * *     C A L L    F O R    P A P E R S     * * *
+
+	Applications and Science of Computational Intelligence III
+	http://www.spie.org/web/meetings/calls/or00/confs/OR16.html
+
+Applications and Science of Computational Intelligence III (OR16)
+
+On-site Proceedings. Abstracts for this conference are due by 13 September 1999.
+Manuscripts are due by 31 January 2000. 
+
+Conference Chairs: Kevin L. Priddy, Battelle Memorial Institute; Paul E. Keller,
+Battelle/Pacific Northwest National Lab.; David B. Fogel, Natural Selection,
+Inc.  Program Committee: Shun-ichi Amari, RIKEN (Japan); Stanley C. Ahalt, The
+Ohio State Univ.; Peter J. Angeline, Natural Selection, Inc.; Gianfranco Basti,
+Pontifical Lateran Univ. (Italy); James C. Bezdek, Univ. of West Florida; Bruno
+Bosacchi, Lucent Technologies/Bell Labs.; David Brown, Food and Drug
+Administration; David P. Casasent, Carnegie Mellon Univ.; Nick DeClaris, Univ.
+of Maryland; Joydeep Ghosh, Univ. of Texas/Austin; Charles W. Glover, Oak Ridge
+National Lab.; Clifford G. Lau, Office of Naval Research; Karl Mathia, Equipe
+Technologies, Inc.; Antonio L. Perrone, Univ. of Rome (Italy); Steven K. Rogers,
+Qualia Computing, Inc.; Stephan Rudolph, Univ. Stuttgart (Germany); Bradley C.
+Wallet, Naval Surface Warfare Ctr.  
+
+The focus of this conference is on real-world applications of computational
+intelligence (neural networks, fuzzy logic, and/or evolutionary computation) and
+on recent theoretical developments (principal components analysis/independent
+components analysis, etc.) applicable to current problem domains. The goal is to
+provide a forum for interaction between researchers and industrial/ government
+agencies with information processing requirements. Sessions containing papers
+from the different disciplines in related applications will be the highlight of
+this conference. Papers that investigate advantages/disadvantages of
+computational intelligence solutions in specific real-world applications will be
+presented as oral and posters. The poster session will contain papers by the
+session chairs to allow interaction by attendees in small groups. Papers that
+clearly state existing problems in information processing that could potentially
+be solved by computational intelligence techniques will also be considered.
+Sessions will concentrate on:  comparative performance in applications of target
+recognition, object recognition, speech processing, speaker identification,
+co-channel processing, signal processing in realistic environments, robotics,
+process control, and image processing  demonstrations of properties and
+limitations of existing or new computational intelligence techniques as shown by
+or related to an application  environments for development of computational
+intelligence solutions  hardware implementation technologies that are either
+general purpose or application specific  knowledge acquisition and
+representation  physiologically motivated information processing and
+representation  independent component analyses (ICA) generalizing principal
+component analyses (PCA)  innovative applications of computational intelligence
+to solve real-world problems with Receiver Operation Characteristics (ROC).  
+
+Special Instructions to Authors  Oral Presentations are scheduled for Monday and
+Tuesday with poster sessions scheduled Tuesday evening.  On the occasion of
+NASA's 40th Anniversary, Wednesday will be devoted to joint sessions on Remote
+Sensing using both Computational Intelligence and Wavelet Analysis. 
+
+Honorary co-chairs: William J. Campbell, Milton Halem, NASA Goddard Space Flight
+Ctr.  Due to the limited number of oral sessions, we cannot accommodate requests
+for oral-only presentations without prior approval of the Conference Chair. Any
+program committee member can guarantee acceptance of brief oral overviews
+followed by poster interactive presentations. Poster submission will be
+encouraged with the popup short talks and the Best Poster Award. There will be
+no differentiation between poster and oral papers in the proceedings.  Please
+indicate your preference for oral or poster sessions. 
+
+Abstract Submissions Information 
+On-Site Abstract Due Date: 13 September 1999	On-Site Manuscript Due Date: 31
+January 2000
+
+To receive a complete Call for Papers via postal mail, or to request an Advance
+Technical Program for any of these conferences (when available), please contact
+SPIE Phone: +1 360/676-3290. Fax: +1 360/647-1445. E-mail: OR@spie.org
+
+For further information please contact: 
+http://www.spie.org
+
+
+
+Paul E. Keller, PhD
+Conference Co-Chair
+Paul.Keller@pnl.gov

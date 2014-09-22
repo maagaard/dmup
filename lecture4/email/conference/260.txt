@@ -1,0 +1,70 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri May 21 22:52:48 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA05010;
+	Fri, 21 May 1999 22:52:40 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09546;
+          21 May 99 15:11 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09540;
+          21 May 99 14:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15437;
+          21 May 99 14:59 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa18471; 21 May 99 13:14 EDT
+Received: from gatsby.ucl.ac.uk by EDRC.CMU.EDU id aa04333;
+          21 May 99 13:14:29 EDT
+Received: from cajal.gatsby.ucl.ac.uk (cajal.gatsby.ucl.ac.uk [192.168.213.19])
+	by axon.gatsby.ucl.ac.uk (8.9.3/8.9.3) with ESMTP id SAA04897;
+	Fri, 21 May 1999 18:14:24 +0100 (BST)
+Received: (from zoubin@localhost)
+	by cajal.gatsby.ucl.ac.uk (8.8.7/8.8.7) id SAA31263;
+	Fri, 21 May 1999 18:14:23 +0100
+Message-Id: <199905211714.SAA31263@cajal.gatsby.ucl.ac.uk>
+From: Zoubin Ghahramani <Zoubin@gatsby.ucl.ac.uk>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Date: Fri, 21 May 1999 18:14:23 +0100 (BST)
+To: connectionists@cs.cmu.edu, cneuro@bbb.caltech.edu,
+        owner-neuromotor-control@cs.umass.edu, cogneuro@ptolemy.arc.nasa.gov,
+        cvnet@skivs.ski.org, ai-stats@watstat.uwaterloo.ca
+Cc: janice@gatsby.ucl.ac.uk
+Subject: Gatsby Unit Tutorial on Neural Computation
+Status: RO
+X-Status: 
+
+
+	       GATSBY UNIT TUTORIAL: NEURAL COMPUTATION
+	   Tuesday 31st August to Friday 3rd September 1999
+		      University College London
+			       England
+
+	  http://www.gatsby.ucl.ac.uk/tutorial/tutorial.html
+
+The Gatsby Computational Neuroscience Unit at University College
+London is holding a four-day tutorial on Neural Computation from
+Tuesday 31st August to Friday 3rd September 1999.
+
+The tutorial is aimed at research students and postdoctoral
+researchers who are interested in and wish to learn more about neural
+computation and computational neuroscience. The tutorial is intended
+for researchers who are trying to understand how the brain computes,
+but it should also be of value to researchers who are using neural
+network methods for solving applied problems.
+
+The first part of the tutorial will describe techniques for learning
+and inference that have their roots in computer science, statistics,
+physics, engineering and dynamical systems. The second part will
+describe how these techniques have been applied to understanding
+computation in the brain.
+
+Tutorial Faculty: Geoff Hinton, Peter Dayan, Zoubin Ghahramani,
+Zhaoping Li, Hagai Attias, Sam Roweis, Emo Todorov and Carl 
+van Vreeswijk
+
+Registration Fee: GBP 25.00.  Includes course papers and light
+refreshments.
+
+Further information on the tutorial contents and on-line registration
+are available at: http://www.gatsby.ucl.ac.uk/tutorial/tutorial.html
+

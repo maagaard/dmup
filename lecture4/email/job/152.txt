@@ -1,0 +1,40 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jul 15 20:01:02 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA18862;
+	Thu, 15 Jul 1999 20:00:55 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12519;
+          15 Jul 99 10:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12517;
+          15 Jul 99 10:02 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14907;
+          15 Jul 99 10:01 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa04116; 15 Jul 99 8:27 EDT
+Received: from f04s01.cac.psu.edu by EDRC.CMU.EDU id aa12435;
+          15 Jul 99 8:27:09 EDT
+Received: from [146.186.181.135] (goodman.la.psu.edu [146.186.181.135]) by f04n01.cac.psu.edu (8.8.7/8.6.12) with ESMTP id IAA39526; Thu, 15 Jul 1999 08:27:04 -0400
+X-Sender: rog1@email.psu.edu
+Message-Id: <v04003a00b3b38226136a@[146.186.181.135]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Thu, 15 Jul 1999 08:25:57 -0400
+To: CVNetList@lawton.ewind.com, visionsciencelist@lists.best.com,
+        connectionists@cs.cmu.edu, cneuro@bbb.caltech.edu
+From: Rick Gilmore <rog1@psu.edu>
+Subject: Senior-level faculty position in neuroscience
+Cc: Rick Gilmore <rogilmore@psu.edu>
+Status: RO
+X-Status: 
+
+SENIOR-LEVEL NEUROSCIENTIST.  As part of a major university-wide expansion
+in the life sciences, the Department of Psychology at Penn State University
+announces a search in cognitive, computational, or behavioral neuroscience.
+Senior-level candidates who wish to play a leadership role in building Penn
+State's growing programs in neuroscience are encouraged to apply.  Send a
+statement of research and teaching interests, vita, and recent reprints to:
+Neuroscience Search, 617 Moore Building, Department of Psychology,
+University Park, PA  16802.  The Pennsylvania State University is an equal
+opportunity employer.
+
+

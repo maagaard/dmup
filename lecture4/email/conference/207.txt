@@ -1,0 +1,152 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk  Thu Jan 28 17:07:24 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id RAA14247
+	for dspstaff-list; Thu, 28 Jan 1999 17:07:15 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id RAA14236;
+	Thu, 28 Jan 1999 17:07:09 +0100 (MET)
+Received: from imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id RAA20175;
+	Thu, 28 Jan 1999 17:11:03 +0100 (MET)
+Message-ID: <36B08BFC.5C6E6ED7@imm.dtu.dk>
+Date: Thu, 28 Jan 1999 17:10:37 +0100
+From: Matthew Liptrot <mgl@imm.dtu.dk>
+X-Mailer: Mozilla 4.05 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "dspstaff@eivind.imm.dtu.dk" <dspstaff@eivind.imm.dtu.dk>,
+        "dspstud@eivind.imm.dtu.dk" <dspstud@eivind.imm.dtu.dk>
+Subject: AI/Neural Net/Sig Proc conference
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+Today really seems to be 'Conference Announcement Day 1999' !!!
+This just popped into my inbox....
+
+And, as Rod noted at lunch, this is like most of the others
+that I sent in that it is in a hot country. All part of a clever
+marketing plan, no doubt!!
+
+Matt
+
+ICCIMA'99 CALL FOR PAPERS
+
+                        ICCIMA'99
+ 3rd International Conference on Computational Intelligence and
+ Multimedia  Applications
+                  23-26 September 1999, New Delhi, INDIA
+            URL: http://eassun.eas.gu.edu.au/iccima99.html
+
+
+The   3rd  International  Conference  on  Computational  Intelligence
+ and Multimedia Applications will be held in Delhi on 23-26 September
+1999.  The goals  of the conference are to promote interaction and
+cross-fertilisation among different approaches to Computational
+Intelligence such as artificial intelligence,  neural networks,
+genetic algorithms, fuzzy logic,  etc.  and Multimedia  Technology
+such  as multimedia  information  retrieval,  image indexing  and
+retrieval,  virtual reality, video  conferencing,  etc.  The
+conference will provide an international forum for discussion on
+issues  in the  areas  of  Computational Intelligence and Multimedia
+for  scientists, engineers,  researchers  and  practitioners. The
+conference  will  include sessions  on theory, implementation and
+applications, as well as  the  non- technical  areas  of  challenges
+in education and  technology  transfer  to industry. There will be
+both oral and poster sessions.
+
+
+Conference Topics
+
+Include (but not limited to)
+
+Artificial Intelligence
+Artificial Neural Networks
+Evolutionary Computation Theory
+Evolutionary Algorithms
+Formal Models for Multimedia
+Fuzzy Systems
+Hybrid Systems
+Image & Signal Processing
+Intelligent Control
+Interactive Multimedia
+Intelligent Databases
+Knowledge-based Engineering
+Learning Algorithms
+Memory, Storage and Retrieval
+Multimedia and Telecommunications
+Multimedia and Virtual Reality
+Multimedia Information Retrieval
+Multimedia Systems
+Multi/Hyper-spectrum Processing
+Neural Coding
+Pattern Recognition
+Rough Sets /Logic Synthesis
+
+Submission of  Papers
+
+Papers  reporting original and unpublished research results are
+solicited. Papers  must  be  in English and  the length of each
+manuscript  should  be limited  to  5  pages, A4 size, 2 cm margins
+each side, 10  points,  single spaced.
+
+E-mail submissions are encouraged. Please send a Word 6/7 file (or a
+PostScript file) to one of the following e-mail addresses:
+
+ ICCIMA'99 SECRETARIAT (iccima99@eassun.eas.gu.edu.au)
+ Andre Carvalho (andre@icmsc.sc.usp.br)
+ Brijesh Verma (brijesh@eassun.eas.gu.edu.au)
+ Xin Yao (xin@cs.adfa.oz.au)
+ Yoshiyasu Takefuji (takefuji@sfc.keio.ac.jp)
+
+
+Workshop/ Tutorials
+
+Workshops and tutorials related to conference topics will be organised
+at ICCIMA'99. Proposals for workshops/tutorials are solicited from
+prospective organisers/presenters. Please send a proposal including
+title, abstract (maximum 200 words), duration, etc., and a short
+biography of organiser/presenter to ICCIMA'99 Secretariat as soon as
+possible.
+
+Special Sessions
+
+Special sessions on various focused topics will be organised at
+ICCIMA'99. If you are interested in organising a special session
+please send a proposal including an outline of a topic, number of
+papers, etc. to ICCIMA'99 Secretariat as soon as possible. All papers
+related to your session will be sent to you after due date for
+submission. You will be responsible for selecting the papers based on
+three independent reviews and chairing special session at ICCIMA'99.
+
+
+Publication of Papers
+
+All accepted papers will be included in the proceedings published by
+IEEE Press/World Scientific Publishing Company.
+
+
+Best Paper Award
+
+A best student paper and a best conference paper award will be given
+at the conference.
+
+
+Important Deadlines
+
+Papers Due : 20 January 1999
+Notification of Acceptance: 20 February 1999
+Camera-Ready Manuscripts and Registration: 20 March  1999
+
+
+                              Further Information
+
+                   E-mail: iccima99@eassun.eas.gu.edu.au
+              URL: http://eassun.eas.gu.edu.au/iccima99.html
+              Phone: (61 7) 55948738,   FAX: (61 7) 55948066

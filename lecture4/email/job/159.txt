@@ -1,0 +1,107 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jul 28 00:01:30 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA01752;
+	Wed, 28 Jul 1999 00:01:21 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09370;
+          27 Jul 99 16:12 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09353;
+          27 Jul 99 15:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28752;
+          27 Jul 99 15:58 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa25585; 27 Jul 99 14:30 EDT
+Received: from ece.ogi.edu by CS.CMU.EDU id aa11327; 27 Jul 99 14:30:18 EDT
+Received: from ece.ogi.edu (choosh.ece.ogi.edu [129.95.90.86])
+	by ece.ogi.edu (8.9.1a/8.9.1) with ESMTP id LAA28570
+	for <connectionists@cs.cmu.edu>; Tue, 27 Jul 1999 11:30:16 -0700 (PDT)
+Sender: ericwan@ece.ogi.edu
+Message-ID: <379DFAB7.433C7A0E@ece.ogi.edu>
+Date: Tue, 27 Jul 1999 11:30:15 -0700
+From: Eric Wan <ericwan@ece.ogi.edu>
+X-Mailer: Mozilla 4.61 [en] (X11; U; Linux 2.2.9 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@CS.cmu.edu
+Subject: OGI - Ph.D Opening
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+
+*********** PH.D. STUDENT RESEARCH POSITION OPENING ****************
+
+           CENTER FOR SPOKEN LANGUAGE UNDERSTANDING
+                    http://cslu.cse.ogi.edu/
+
+                   OREGON GRADUATE INSTITUTE 
+
+The Oregon Graduate Institute of Science and Technology (OGI) has an
+immediate opening for an outstanding student in its Electrical and
+Computer Engineering Ph.D program. Full stipend and tuition will be
+covered.
+
+The student will specifically work with Professor Eric A. Wan
+(http://www.ece.ogi.edu/~ericwan/) on a number of projects relating to
+neural network learning and speech enhancement.
+
+QUALIFICATIONS: The candidate should have a strong background in
+signal processing with some prior knowledge of neural networks.  A
+Masters Degree in Electrical Engineering is preferred.
+
+Please send inquiries and background information to
+ericwan@ece.ogi.edu.
+
+
+Eric A. Wan
+Associate Professor, OGI
+
+
+*********************************************************************
+
+                            OGI
+
+OGI is a young, but rapidly growing, private research institute
+located in the Portland area. OGI offers Masters and PhD programs in
+Computer Science and Engineering, Applied Physics, Electrical
+Engineering, Biology, Chemistry, Materials Science and Engineering,
+and Environmental Science and Engineering.
+
+OGI has world renowned research programs in the areas of speech
+systems (Center for Spoken Language Understanding) and machine
+learning.  (Center for Information Technologies).
+
+Center for Spoken Language Understanding
+
+The Center for Spoken Language Understanding is a multidisciplinary
+academic organization that focuses on basic research in spoken
+language systems technologies, training of new investigators, and
+development of tools and resources for free distribution to the
+research and education community. Areas of specific interest include
+speech recognition, natural language understanding, text-to-speech
+synthesis, speech enhancement in noisy conditions, and modeling of
+human dialogue. A key activity is the ongoing development of the CSLU
+Toolkit, a comprehensive software platform for learning about,
+researching, and developing spoken dialog systems and new
+applications.
+
+Center for Information Technologies
+
+The Center for Information Technologies supports development of
+powerful, robust, and reliable information processing techniques by
+incorporating human strategies and constraints. Such techniques are
+critical building blocks of multimodal communication systems, decision
+support systems, and human-machine interfaces. The CIT approach is
+based on emulating relevant human information processing capabilities
+and extending them to a variety of complex tasks. The approach
+requires expertise in nonlinear and adaptive signal processing (e.g.,
+neural networks), statistical computation, decision analysis, and
+modeling of human information processing.  Correspondingly, CIT
+research areas include perceptual characterization of speech and
+images, prediction, robust signal processing, rapid adaptation to
+changing environments, nonlinear signal representation, integration of
+information from several sources, and integration of prior knowledge
+with adaptation.

@@ -1,0 +1,75 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Sep 10 08:09:51 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA14442;
+	Fri, 10 Sep 1999 08:09:46 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17381;
+          9 Sep 99 23:57 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17378;
+          9 Sep 99 23:52 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10179;
+          9 Sep 99 23:51 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ac21056; 9 Sep 99 23:07 EDT
+Received: from [155.69.95.179] by edrc.cmu.edu id aa03997; 9 Sep 99 23:06 EDT
+Received: from SGraphicsWS1 (localhost [127.0.0.1]) by SGraphicsWS1.mpe.ntu.edu.sg (980427.SGI.8.8.8/980728.SGI.AUTOCF) via ESMTP id LAA09802; Fri, 10 Sep 1999 11:12:52 +0800 (GMT)
+Message-Id: <199909100312.LAA09802@SGraphicsWS1.mpe.ntu.edu.sg>
+To: Connectionists@CS.cmu.edu, INDUCTIVE@hermes.csd.unb.ca,
+        hybrid-list@cs.ua.edu
+Subject: Events on Artificial Intelligence (moved to a new location!)
+X-face: "BX\t&7(b=L7U8LK/vrF:#jZw3\lYYHE{S5f%J#bDgVC^S<ajmJjM!&-R6KUCFJn+7x*tF3
+ eXI7K0quj*[.#u}dKg~$}o%6zof"I{$(d>MfxMZ}4g@pjG6&v;+!T2y~%8{J%u_'2?de3s|Y!bJ]wJ
+ %KkB4CHPW+49cx8Q<;At}0YYL>8RwllPz11;tmw`u[`_OCKunIec~fr8^"bj#@6V]N42\eIx,[XU,i
+ `Zn9:G6=h+_mY%.yUoai*Xl36p)RbcI>Tq%ScE:O(E!8>m17
+Date: Fri, 10 Sep 1999 11:12:52 -12848
+From: Georg Thimm <mgeorg@SGraphicsWS1.mpe.ntu.edu.sg>
+Status: RO
+X-Status: 
+
+
+ 	      -----------------------------------------
+		      WWW page for Announcements
+	      of Conferences, Workshops and Other Events
+ 		      on Artificial Intelligence
+	      -----------------------------------------
+
+This WWW page allows you to look up and enter announcements for conferences,
+workshops, and other events concerned with neural networks, inductive learning,
+genetic algorithms, data mining, agents, applications of AI, pattern
+recognition, vision, and related fields.
+
+-------------------------------------------------------------------------
+Search and lookup can be restricted to events with forthcoming deadlines!
+Digests for events entered the last 2, 5, 10 or 30 days available!
+-------------------------------------------------------------------------
+
+The frequently updated events lists, contains currently more 
+than 130 forthcoming events, and can be accessed via the URL:
+
+         http://www.drc.ntu.edu.sg/users/mgeorg/enter.epl
+
+The entries are ordered chronologically and presented in a format for
+fast and easy lookup of:
+
+	- date and place of the events,
+
+	- titles of the events,
+
+	- contact addresses (surface mail, email, ftp, and 
+	  WWW address, as well as telephone or fax number), and
+
+	- deadlines for submissions, registration, etc.
+ 
+Conference organizers are kindly asked to enter their conference into
+the database: http://www.drc.ntu.edu.sg/users/mgeorg/NN-events.epl .
+
+The list is in parts published in the journal Neurocomputing by
+Elsevier Science B.V. 
+
+Information on passed conferences are also available. 
+
+Kind Regards,
+	Georg Thimm
+
+
+P.S. You are welcome to distribute this announcement to related mailing lists.

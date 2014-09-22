@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Nov 12 17:14:44 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id RAA12916;
+	Thu, 12 Nov 1998 17:14:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20442;
+          12 Nov 98 9:15 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20440;
+          12 Nov 98 9:04 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa15862;
+          12 Nov 98 9:04 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa11007; 12 Nov 98 1:52 EST
+Received: from inetfw.sonycsl.co.jp by EDRC.CMU.EDU id aa28672;
+          12 Nov 98 1:51:46 EST
+Received: from tani.csl.sony.co.jp (tani.csl.sony.co.jp [43.27.98.18])
+	by inetfw.sonycsl.co.jp (8.8.8/3.6W) with ESMTP id PAA09083
+	for <connectionists@cs.cmu.edu>; Thu, 12 Nov 1998 15:51:42 +0900 (JST)
+Received: from csl.sony.co.jp (localhost.csl.sony.co.jp [127.0.0.1])
+	by tani.csl.sony.co.jp (8.8.8/3.7W/981009) with ESMTP id PAA12630
+	for <connectionists@cs.cmu.edu>; Thu, 12 Nov 1998 15:51:42 +0900 (JST)
+Message-Id: <199811120651.PAA12630@tani.csl.sony.co.jp>
+To: connectionists@cs.cmu.edu
+Subject: TR: An Interpretation of the `Self` from the Dynamical Systems Perspective:
+Date: Thu, 12 Nov 1998 15:51:41 +0900
+From: "Jun.Tani (SONY CSL)" <tani@csl.sony.co.jp>
+Status: RO
+X-Status: 
+
+Dear connectionists,
+
+The following new technical report is avairable.
+"An Interpretation of the `Self` from the Dynamical Systems
+Perspective: A Constructivist Approach" by Jun Tani, Sony CSL.
+This paper will be published from Journal of Consciousness Studies, Vol.5 No.5-6, 1998.
+
+The TR can be retrieved from:
+(1) ftp.csl.sony.co.jp/CSL/CSL-Papers/98/SCSL-TR-98-018.ps.Z (you need 
+to uncompress in Unix.)
+(2) ftp.csl.sony.co.jp/CSL/CSL-Papers/98/SCSL-TR-98-018.pdf
+(3) http://www.csl.sony.co.jp/person/tani.html.
+
+ABSTRACT
+This study attempts to describe the notion of the "self" using dynamical
+systems language based on the results of our robot learning
+experiments.
+A neural network model consisting of multiple modules is proposed, in 
+which the interactive dynamics between the bottom-up perception and the
+top-down prediction are investigated.
+Our experiments with a real mobile robot showed that the incremental
+learning of the robot switches spontaneously between steady and unsteady phases.
+In the steady phase, the top-down prediction for the bottom-up
+perception works well when coherence is achieved between the internal
+and the environmental dynamics.
+In the unsteady phase, conflicts arise between the bottom-up perception
+and the top-down prediction; the coherence is lost, and a chaotic attractor
+is observed in the internal neural dynamics.
+By investigating possible analogies between this result and the
+phenomenological literature on the "self", we draw the
+conclusions that (1) the structure of the "self" corresponds to the
+"open dynamic structure" which is characterized by co-existence of
+stability in terms of goal-directedness and instability caused by
+embodiment; (2) the open dynamic structure causes the system's
+spontaneous transition to the unsteady phase where the "self" becomes
+aware.
+
+Best regards,
+jun
+------------------------------------------------
+Jun TANI, Ph.D
+Senior Researcher                         
+Sony Computer Science Laboratory Inc.
+Takanawa Muse Building, 3-14-13 Higashi-gotanda,
+Shinagawa-ku, Tokyo, 141 JAPAN
+email: tani@csl.sony.co.jp
+http://www.csl.sony.co.jp/person/tani.html
+Fax +81-3-5448-4273
+Tel +81-3-5448-4380
+
+** Joint Appointment 
+Visiting Associate Professor
+Graduate School of Arts and Sciences
+University of Tokyo
+
+
+

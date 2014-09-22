@@ -1,0 +1,92 @@
+
+
+From mps@imm.dtu.dk  Thu Dec 10 11:23:18 1998
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id LAA29931;
+	Thu, 10 Dec 1998 11:23:17 +0100 (MET)
+Received: from serv3.imm.dtu.dk (mps@serv3.imm.dtu.dk [130.225.85.13])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id LAA07148;
+	Thu, 10 Dec 1998 11:28:39 +0100 (MET)
+Received: (from mps@localhost)
+	by serv3.imm.dtu.dk (8.8.6/8.8.6) id LAA26933;
+	Thu, 10 Dec 1998 11:28:02 +0100 (MET)
+Date: Thu, 10 Dec 1998 11:28:02 +0100 (MET)
+From: Mads Peter Soerensen <mps@imm.dtu.dk>
+Message-Id: <199812101028.LAA26933@serv3.imm.dtu.dk>
+Subject: Postdoctoral position at NEC, Princeton
+To: phd_at_imm@serv3.imm.dtu.dk, vip_at_imm@serv3.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-MD5: L7yjEbyS+Yr9sSErY05c1g==
+Status: RO
+X-Status: 
+
+------------- Begin Forwarded Message -------------
+
+>From dstb-owner@list.adm.ku.dk Wed Dec  9 20:50:50 MET 1998
+Received: from quark.adm.ku.dk (quark.adm.ku.dk [130.225.127.5])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id UAA26816;
+	Wed, 9 Dec 1998 20:50:50 +0100 (MET)
+Received: (from majordom@localhost)
+	by quark.adm.ku.dk (8.9.1/8.9.0) id UAA24848
+	for dstb-outgoing; Wed, 9 Dec 1998 20:46:29 +0100 (MET)
+X-Authentication-Warning: quark.adm.ku.dk: majordom set sender to 
+owner-dstb@quark.adm.ku.dk using -f
+Received: from kompleks.nbi.dk (kompleks.nbi.dk [130.225.212.54])
+	by quark.adm.ku.dk (8.9.1/8.9.0) with ESMTP id UAA24844
+	for <dstb@list.adm.ku.dk>; Wed, 9 Dec 1998 20:46:23 +0100 (MET)
+Received: from delbruck.nbi.dk (delbruck.nbi.dk [130.225.212.169])
+	by kompleks.nbi.dk (8.8.8/8.8.8) with ESMTP id UAA09349
+	for <biophys_world@complex.nbi.dk>; Wed, 9 Dec 1998 20:45:51 +0100 (MET)
+Received: (from flyvbj@localhost)
+	by delbruck.nbi.dk (8.8.8/8.8.8) id UAA10652
+	for biophys_world@complex.nbi.dk; Wed, 9 Dec 1998 20:45:50 +0100 (MET)
+Date: Wed, 9 Dec 1998 20:45:50 +0100 (MET)
+From: Henrik Flyvbjerg <flyvbj@delbruck.nbi.dk>
+Message-Id: <199812091945.UAA10652@delbruck.nbi.dk>
+To: biophys_world@complex.nbi.dk
+Subject: Postdoctoral position at NEC, Princeton
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-MD5: asOYCfhXExMHvxnVlc1wdg==
+Sender: owner-dstb@adm.ku.dk
+Precedence: bulk
+Content-Length: 781
+Status: RO
+
+
+Postdoctoral position at NEC Research, Princeton:
+
+Interested?  Wait for details, 
+or contact Dr. William Bialek
+
+Henrik Flyvbjerg
+
+
+------------- Begin Forwarded Message -------------
+
+>From bialek@research.nj.nec.com Wed Dec  9 02:59:59 1998
+Date: Tue, 08 Dec 1998 20:59:44 -0500
+From: bialek@research.nj.nec.com (William Bialek)
+To: henrik.flyvbjerg@risoe.dk
+
+Henrik,
+
+Just came across the big spread for biophysics
+in copenhagen that you have on the web .. looks
+exciting!  Congratulations.  You should
+get a note at some point, but we will have a
+postdoc position open for a biophysics theorist
+here at NEC ... do let me know if there
+is anyone from your part of the world we should
+be looking at!
+
+Hope all is well,
+
+Bill
+
+------------- End Forwarded Message -------------
+
+------------- End Forwarded Message -------------

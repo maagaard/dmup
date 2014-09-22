@@ -1,0 +1,79 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jul  2 08:41:49 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA27622;
+	Fri, 2 Jul 1999 08:41:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10635;
+          1 Jul 99 16:48 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab10627;
+          1 Jul 99 16:33 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27342;
+          1 Jul 99 16:33 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03991; 1 Jul 99 16:07 EDT
+Received: from neuron.cs.Colorado.EDU by EDRC.CMU.EDU id aa05380;
+          1 Jul 99 16:06:14 EDT
+Received: from localhost.cs.colorado.edu (localhost.cs.colorado.edu [127.0.0.1])
+	by neuron.cs.colorado.edu (8.9.3/8.9.2) with SMTP id OAA19334
+	for connectionists@cs.cmu.edu; Thu, 1 Jul 1999 14:06:13 -0600 (MDT)
+Message-Id: <199907012006.OAA19334@neuron.cs.colorado.edu>
+X-Authentication-Warning: neuron.cs.colorado.edu: localhost.cs.colorado.edu [127.0.0.1] didn't use HELO protocol
+To: connectionists@cs.cmu.edu
+Subject: position available in speech recognition research
+Date: Thu, 01 Jul 99 14:06:13 -0600
+From: Mike Mozer <mozer@cs.colorado.edu>
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+
+Senior Research Technologist
+Sensory Inc.
+Sunnyvale, CA
+http://www.sensoryinc.com
+
+Working under general supervision, this person will develop novel speech
+encoding and recognition algorithms, and will adapt existing algorithms to
+low-end platforms with memory and processor-speed constraints.
+
+Primary Responsibilities/Duties
+
+* Provides in-house corporate expertise for traditional methods of
+  speech recognition.
+
+* Working from general concepts, develops specifications and 
+  models for speech processing and recognition algorithms.
+
+* Develops testing and cross-validation protocols, methods, and tools
+  for performance evaluation and improvement.
+
+* Exercises experience and knowledge to optimize software performance
+  consistent with constraints imposed by implementation on Sensory's custom ICs.
+
+* Works with assembly-language programmers to assist in porting
+  algorithms from C to chip implementation.
+
+Position Requirements, Desired Experience and Skills:
+
+* MS in computer science, engineering, applied statistics,
+  computational linguistics, or cognitive science; Ph.D. preferred
+
+* Strong academic, research, and/or development background in signal
+  processing for speech and automatic speech recognition.
+
+* Minimum of 2 years' experience with speech feature encoding and
+  recognition algorithms (including HMMs, neural nets, vector quantization)
+
+* Experience in DSP desirable. Knowledge of LPC a plus.
+
+* Fluency in C
+
+* State-of-the-art knowledge of machine learning and speech recognition
+  techniques
+
+* The candidate should enjoy discussing and debating complex technical
+  issues.
+
+
+For additional information, please see Sensory Inc.'s web site
+(www.sensoryinc.com).

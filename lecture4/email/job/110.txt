@@ -1,0 +1,90 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu May  6 07:23:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA20751;
+	Thu, 6 May 1999 07:23:33 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01342;
+          5 May 99 10:52 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01340;
+          5 May 99 10:42 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24315;
+          5 May 99 10:42 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa11450; 5 May 99 6:20 EDT
+Received: from [130.149.17.13] by CS.CMU.EDU id aa00386; 5 May 99 6:19:41 EDT
+Received: from pollux.cs.tu-berlin.de (oby@pollux.cs.tu-berlin.de [130.149.31.31])
+	by mail.cs.tu-berlin.de (8.9.1/8.9.1) with ESMTP id MAA15538
+	for <Connectionists@CS.CMU.EDU>; Wed, 5 May 1999 12:06:29 +0200 (MET DST)
+From: Klaus Obermayer <oby@cs.tu-berlin.de>
+Received: (from oby@localhost)
+	by pollux.cs.tu-berlin.de (8.9.1/8.9.0) id MAA29310
+	for Connectionists@CS.CMU.EDU; Wed, 5 May 1999 12:06:28 +0200 (MET DST)
+Date: Wed, 5 May 1999 12:06:28 +0200 (MET DST)
+Message-Id: <199905051006.MAA29310@pollux.cs.tu-berlin.de>
+To: Connectionists@cs.cmu.edu
+Subject: faculty position
+Status: RO
+X-Status: 
+
+
+Dear Connectionists,
+
+the CS department of the Technical University of Berlin solicits application
+for a tenured faculty position (C3) in the area of Computer Vision. Although
+we encourage candidates from a variety of backgrounds to apply, one potential
+focus is pattern recognition and neural computation. 
+
+For information about the department and its research groups you are
+welcome to visit our Web-pages at:
+
+http://www.cs.tu-berlin.de/cs/index-en.html
+
+Best wishes
+
+Klaus
+
+===========================================================================
+
+FACULTY POSITION IN COMPUTER VISION
+
+CS-Department, Technical University of Berlin, Berlin, Germany
+
+The Department for Computer Science solicits application for a tenured
+faculty position (salary level C3) in the area of image acquisition, 
+processing, and understanding.
+
+The successful candidate is expected to join the department's undergraduate
+teaching programs, as well as the graduate education in the area of Computer
+Vision. The successful candidate is expected to teach courses in German after
+one year.
+
+Requirements:
+
+Ph.D. degree in computer science, electrical engineering, or neighboring
+fields; Habilitation or equivalent achievements; research experience in
+in the field of computer vision; a strong publication record; teaching
+experience; track record in acquiring research grants. Experience in
+application areas like biomedicine, automation and control, or robotics is
+desirable.
+
+Please send applications to:
+
+Search Committee (Computer Vision)
+FR 5-1, Department of Computer Science
+Technical University of Berlin
+Franklinstrasse 28/29
+10587 Berlin, Germany
+
+The Technical University of Berlin wants to increase the percentage of women
+on its faculty and strongly encourages applications from qualified individuals.
+Handicapped persons are also encouraged to apply and will be preferred given
+equal qualifications.
+
+============================================================================
+
+Prof. Dr. Klaus Obermayer         phone:  49-30-314-73442
+FR2-1, NI, Informatik                     49-30-314-73120
+Technische Universitaet Berlin    fax:    49-30-314-73121
+Franklinstrasse 28/29             e-mail: oby@cs.tu-berlin.de
+10587 Berlin, Germany             http://ni.cs.tu-berlin.de/
+

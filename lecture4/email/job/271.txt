@@ -1,0 +1,88 @@
+
+
+From kc@imm.dtu.dk Thu Jan 20 07:56:29 MET 2000
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id HAA02438;
+	Thu, 20 Jan 2000 07:56:28 +0100 (MET)
+Received: from serv2.imm.dtu.dk (kc@serv2.imm.dtu.dk [130.225.85.12])
+	by serv1.imm.dtu.dk (8.9.3 (PHNE_18979)/8.9.3) with ESMTP id HAA25941;
+	Thu, 20 Jan 2000 07:57:33 +0100 (MET)
+Received: (from kc@localhost)
+	by serv2.imm.dtu.dk (8.9.3 (PHNE_18979)/8.9.3) id HAA28559
+	for phd_at_imm@imm.dtu.dk; Thu, 20 Jan 2000 07:57:32 +0100 (MET)
+From: Knut Conradsen <kc@imm.dtu.dk>
+Message-Id: <200001200657.HAA28559@serv2.imm.dtu.dk>
+Subject: Free Positions in the European Graduate Program :Combinatorics, Geometry, and Computation  (fwd)
+To: phd_at_imm@imm.dtu.dk
+Date: Thu, 20 Jan 2000 7:57:32 MET
+X-Mailer: Elm [revision: 212.4]
+Status: RO
+X-Status: 
+
+f/Inf. Mvh Helle Welling> 
+> 
+> 
+> ----------------------------------------------------------------------------
+>                         European Graduate Program 
+>          Berlin  ------------------------------------------  Zurich       
+>                   Combinatorics, Geometry, and Computation
+> ----------------------------------------------------------------------------
+> 
+> 
+> In the newly established graduate program two-year scholarships for 
+>     
+>                              Ph.d.students
+> 
+> are available in Berlin and Zurich starting April 1st, 2000. Applicants
+> should have a degree in mathematics, computer science, or a related area 
+> equivalent to the German or Swiss university diploma (e.g. M.S.) with grades 
+> significantly above average. Furthermore at each location a
+>  
+>                          postdoctoral position
+> 
+> is available for at most two years. 
+> 
+> The program is a joint initiative of the ETH Zurich, the three universities
+> of Berlin - Free University, Technical University, Humboldt-University - and 
+> the Konrad-Zuse-Research Center. The German partners are financially suppor-
+> ted by the German Research association (Deutsche Forschungsgemeinschaft,
+> DFG). The amount of the scholarships in Berlin is calculated according to 
+> the guidelines of the DFG and is up to DM 2690 per month, tax free (family 
+> supplement DM 400).
+> 
+> The scientific program ranges from theoretical fundamentals to applications.
+> The areas of research are combinatorics, geometry, optimization, algorithms
+> and computation, computer graphics, and vision. In Berlin the students are 
+> supervised by the professors Aigner, Alt, Rote, Schulz (FU), Moehring, Zieg-
+> ler (TU), Proemel (HU) and Groetschel (ZIB). The participating professors at
+> ETH Zurich are Fukuda, Van Gool, M. Gross, Luethi, Nievergelt, Richter-Ge-
+> bert, Schiele, Welzl and Widmayer.
+> 
+> Applications with curriculum vitae, copies of certificates, theses, a letter 
+> of recommendation of the last advisor, a brief description of the proposed 
+> research and, especially for applicants for the postdoctoral position, re-
+> prints of publications should be sent in until Februar 2, 2000 to one of 
+> the speakers of the program:
+> 
+>         in Berlin                        in Zurich
+> 
+>     Prof. Dr. Helmut Alt            Prof. Dr. Emo Welzl
+>     Institut fuer Informatik        Institut fuer Theoretische Informatik
+>     Freie Universitaet Berlin       ETH Zentrum 
+>     Takustrasse 9                   CH-8092 Zurich         
+>     D-14195 Berlin
+>     
+> 
+> Further Information can be obtained from
+>   
+>    Bettina Felsner                  Emo Welzl
+>    Tel. ++49-30-838 75 104          Tel. ++41-1-63 273 92
+>    bfelsner@inf.fu-berlin.de        emo@inf.ethz.ch
+> 
+>          Internet: http://www.inf.fu-berlin.de/gk-cgc
+> ---------------------------------------------------------------------------
+> --------------------------------------------------------------------------- 
+> 
+> 
+> 
+

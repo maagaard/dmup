@@ -1,0 +1,58 @@
+
+
+From spm-request@mailbase.ac.uk Wed Oct 13 18:51:51 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id SAA26042
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 13 Oct 1999 18:51:50 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id RAA05867;
+	Wed, 13 Oct 1999 17:52:10 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id RAA13317;
+        Wed, 13 Oct 1999 17:51:03 +0100 (BST)
+Received: from central.hub.nih.gov (central.hub.nih.gov [128.231.90.100]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id RAA13311;
+        Wed, 13 Oct 1999 17:50:59 +0100 (BST)
+Received: by central.hub.nih.gov with Internet Mail Service (5.5.2650.10)
+	id <4Q6J2L20>; Wed, 13 Oct 1999 12:51:00 -0400
+Message-ID: <C440044843ABD211883100805FBB30051D7A37@exchange.nida.nih.gov>
+Date: Wed, 13 Oct 1999 12:48:09 -0400
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.10)
+Content-Type: text/plain;
+	charset="windows-1252"
+Subject: New Position, Image Analyst, Baltimore, USA
+From: "Ernst, Monique" <MERNST@intra.nida.nih.gov>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Ernst, Monique" <MERNST@intra.nida.nih.gov>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+Position available now 
+For a Brain Imaging Analyst
+National Institute on Drug Abuse, Intramural Research Training Award (IRTA),
+Brain Imaging Center
+
+Person with knowledge in mathematical and statistical concepts applied to
+analyzing and modeling functional neuroimaging data (PET and potentially fMRI).
+This position will entail both implementation of existing software packages as
+well as the development of novel methods of analysis.  Duties will include
+statistical analyses of PET brain imaging data.  Preferred experience of some
+programming with scripting language like Java, TCL or windows Scripting Host
+(WSH).  Need to have some familiarity with UNIX, with medical imaging or image
+processing.  Doctoral students nearing graduation will be considered.  
+Please send CV and three letters of recommendation to
+Monique Ernst, M.D., Ph.D.
+Associate Director, Brain Imaging Center
+National Institute on Drug Abuse
+5500 Nathan Shock Drive
+Baltimore, MD, 21224
+Tel.: (410) 550 1518
+Fax: (410) 550 1672
+

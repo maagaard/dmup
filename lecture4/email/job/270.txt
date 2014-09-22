@@ -1,0 +1,157 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jan 20 04:30:45 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id EAA01912;
+	Thu, 20 Jan 2000 04:30:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13772;
+          19 Jan 2000 16:41 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13770;
+          19 Jan 2000 16:30 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04119;
+          19 Jan 2000 16:30 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa10252; 19 Jan 2000 12:58 EST
+Received: from morgana.elet.polimi.it by cs.cmu.edu id aa06738;
+          19 Jan 2000 12:57 EST
+Received: from host [131.175.21.238] and sender lap-fug3.elet.polimi.it [131.175.21.238];
+	by mail relay Morgana.Elet.PoliMi.IT (Sendmail Ver. 8.x.x / 2 Nov. 1998);
+	with protocol ESMTP and identifier SAA26759;
+	on date and time Wed, 19 Jan 2000 18:55:17 +0100 (MET).
+Message-Id: <l03130306b4aba7fcb97e@[131.175.21.238]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Wed, 19 Jan 2000 18:55:10 +0100
+To: ai-medicine@smi.stanford.edu, ai-stats@watstat.uwaterloo.ca,
+        allstat@mailbase.ac.uk, all-users@ccf.auth.gr,
+        apeiresios@egnatia.ee.auth.gr, basili@info.uniroma2.it,
+        connectionists@cs.cmu.edu, datamine-l@nautilus-sys.com,
+        demetri@dcs.shef.ac.uk, ecran-all@lcr.thomson-csf.fr,
+        eetn-inter@iit.demokritos.gr, elsnet-list@cogsci.ed.ac.uk,
+        gps@kdnuggets.com, hybrid-list@cs.ua.edu, INDUCTIVE@hermes.csd.unb.ca,
+        kaw@swi.psy.uva.nl, machine-learning@egroups.com, ml@ics.uci.edu,
+        ml4um@gmd.de, mlnet@swi.psy.uva.nl,
+        news-announce-conferences@uunet.uu.net, nit-l@ekt.org.gr,
+        nl-kr@snyside.sunnyside.com, pazienza@info.uniroma2.it,
+        s-news@wubios.wustl.edu, stat@statlab.uni-heidelberg.de,
+        uai@ghost.cs.orst.edu, webir@egroups.com
+From: Giuseppina Gini <gini@elet.polimi.it>
+Subject: Research fellowships
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id EAA01912
+Status: RO
+X-Status: 
+
+
+The positions offered can be of interest to people in this list.
+							- Giuseppina Gini
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++
+
+PRE- AND POSTDOCTORAL POSITIONS AVAILABLE
+
+
+Applications are invited from young researchers with an interest in joining
+a four-year (2000-2003) EU network project aimed at the development of
+models to predict toxicity, starting Spring 2000.
+The network consists of laboratories (see the list below) working in
+toxicology, computational chemistry and computer science.
+Grants are available to work in one of the seven laboratories of the Network.
+Grant will be from 1650 to 4320 Euro/month, depending on qualification,
+experience and location. Pre-doc positions are compatible with PhD studies.
+Post-doc positions require that the candidate holds (or is near to obtain)
+a PhD.
+
+Interested candidates should send an application (including CV, summary of
+research interests and preferred location) to:
+Dr Emilio Benfenati
+Head, Laboratory of Environmental Chemistry and Toxicology
+Istituto di Ricerche Farmacologiche "Mario Negri"
+Via Eritrea 62, 20157 Milano, Italy
+Tel: +39-02-39014420   Fax: +39-02-39001916
+e-mail: benfenati@irfmn.mnegri.it
+http://www.irfmn.mnegri.it/ambsal/chem-toxi/Benfenati.htm
+http://www.irfmn.mnegri.it/ambsal/chem-toxi/Default.htm
+
+
+
+Network Title: Intelligent Modelling Algorithms for the General Evaluation
+of TOXicities  (IMAGETOX)
+
+The Co-ordinator: Istituto di Ricerche Farmacologiche "Mario Negri",
+Laboratory of Environmental Chemistry and Toxicology, Milan, Italy
+
+Contact person:
+Dr Emilio Benfenati (benfenati@irfmn.mnegri.it)
+
+The Members
+
+- Dr. M. Cronin, Liverpool John Moores University, School of Pharmacy and
+Chemistry, United Kingdom (m.t.cronin@livjm.ac.uk)
+
+- Prof. J. Hermens, Utrecht University, Research Institute of Toxicology,
+Faculty of Veterinary Sciences, The Netherlands (j.hermens@ritox.vet.uu.nl)
+
+- Prof. G. Gini, Politecnico di Milano, Dipartimento di Elettronica e
+Informazione, Milano, Italy (gini@elet.polimi.it)
+
+- Dr. M. Vracko, National Institute of Chemistry, Ljubljana, Slovenia
+(marjan.vracko@ki.si)
+
+- Prof. G. Schüürmann, UFZ Centre for Environmental Research, Leipzig,
+Germany (gs@uoe.ufz.de)
+
+- Prof. M. Karelson, University of Tartu, Department of Chemistry, Estonia
+(mati@chem.ut.ee).
+
+
+
+Conditions for EU grants
+
+The researcher must be 35 years old or less at the time of his appointment
+(allowances are possible for special cases).
+
+The researcher must be a holder of a doctoral degree or of a degree in an
+appropriate subject in Science or Engineering.
+
+The appointment will be for a fixed-term.
+
+The applicant must be a national of a Member State of the European
+Community or of an Associated State or have resided in the European
+Community for at least five years prior to his appointment.
+
+The applicant must choose a Centre located in a state different from his
+national state and he must not have carried out his activities in that
+state for more than 12 of the 24 months prior to his appointment.
+
+
+
+Research Program
+
+The present project aims to improve the power of models for toxicity
+prediction. It will take advantage of the recent advances in computer
+science (such as multivariate analysis, neural networks, expert systems,
+machine learning, and simulated annealing). Candidates in Computer Science
+are expected to work on Machine Learning and KDD and to develop theories
+and systems. These will be applied to the validation (verifying the
+robustness of reported models and new predictive ones) and development for
+real world applications.
+Different models will be developed for (eco)toxicology and for
+environmental fate prediction. For (eco)toxicology different species will
+be considered, as well as different mechanisms of toxic action. In
+environmental fate, partitioning between compartments in the environment
+and into biota will be studied, as well as degradation.
+
+
+- - - -
+Giuseppina C. Gini
+    DEI, Politecnico di Milano
+    piazza L. da Vinci 32, I-20133 MILANO
+fax:   (+39) 02-2399.3411
+phone: (+39) 02-2399.3626
+e-mail: gini@elet.polimi.it
+http://www.elet.polimi.it/people/gini/
+http://www.elet.polimi.it/AAAI-PT
+member http://www.worldses.org
+
+

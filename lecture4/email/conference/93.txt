@@ -1,0 +1,118 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Tue May 12 00:33:09 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id AAA03628;
+	Tue, 12 May 1998 00:33:02 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa21344;
+          11 May 98 15:17:16 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa21309;
+          11 May 98 14:42:46 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03699;
+          11 May 98 14:42 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa19036; 11 May 98 9:36 EDT
+Received: from alf.nbi.dk by EDRC.CMU.EDU id aa15725; 11 May 98 9:32:35 EDT
+Received: from lautrup (lautrup.nbi.dk [130.225.212.30])
+	by alf.nbi.dk (8.8.8/8.8.8) with SMTP id PAA26879
+	for <connectionists@cs.cmu.edu>; Mon, 11 May 1998 15:32:22 +0200 (MET DST)
+Message-ID: <001201bd7ce0$b05b3d90$1ed4e182@lautrup.nbi.dk>
+Reply-To: Benny Lautrup <lautrup@nbi.dk>
+From: Benny Lautrup <lautrup@nbi.dk>
+To: connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Spontaneous Order of Life II (1998)
+Date: Mon, 11 May 1998 15:28:30 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.2106.4
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.2106.4
+Status: RO
+X-Status: 
+
+
+
+
+                           SUMMER SCHOOL
+
+    The Second Copenhagen International Multidisciplinary School in the
+                       Biological Sciences:
+
+              The Spontaneous Order of Life (SOL`98)
+
+             Self-Organized Criticality and Non-Linear
+    Dynamics in Physical, Biological, Social and Economic Systems
+
+      to be held  at the Niels Bohr Institute 10-19  August 1998
+
+Topics include:
+
+*The Science of Self-Organized Criticality
+*Solving Problems with Collective, Distributed Self-Organizing Systems
+*The Nonlinear Dynamics of Collective Behavior in Animals
+*The Technological and Commercial Perspectives of Applied Molecular
+Evolution
+*The Origin of Life from Interactions of Amino Acids and Membranes
+*Cosmological Natural Selection
+
+
+Confirmed Speakers:
+
+Per Bak (Niels Bohr Institute)
+Eric Bonabeau (Santa Fe Institute)
+Stuart Kauffman(Santa Fe Institute)
+Roger Penrose (Oxford)
+Peter Schuster (Vienna)
+Lee Smolin (Penna. State Univ.
+Geoffrey West (Los Alamos)
+Peter Wills (Santa Fe Institute)
+
+
+International Advisory Committee:
+
+Brian Goodwin  (Schumacher College)
+Stuart Kauffman (Santa Fe Institute)
+Roger Penrose (Oxford)
+
+Local Organizing committee:
+
+Per Bak (Niels Bohr Inst.)
+Don Bennett (Niels Bohr Inst.)
+Benny Lautrup  (Niels Bohr Inst.)
+Erik Mosekilde (Tech. Univ. of Denmark)
+Ole Mouritsen (Tech. Univ. of Denmark)
+Holger Bech Nielsen (Niels Bohr Inst.)
+Bjoern Quistorff (Univ. of Copenhagen)
+Bodil Soegaard (Roy. Vet. & Agricult. Univ.)
+
+For more information and to apply, please utilize the SOL`98 homepage at
+
+                http://www.nbi.dk/~sol98
+
+Support from the Nordic Academy for Advanced Study provides SOL`98
+with a limited number of full grants that can be applied for primarily
+by Scandinavian students.
+
+For other attendees, there is a fee of 2500. DKR if registration and
+remittance is  completed before June 15, 1998. After this date the fee
+is 3000. DKR.
+
+The  registration fee (included in a NorFA grant) includes lunches,
+several working dinners, and copies of the three books:
+
+Per Bak: How Nature Works
+Lee Smolin: The Life of the Cosmos
+Author & Book: To be announced
+
+If you don't have access to the web, contact the SOL'98 Secretariat at
+
+                         hnchristen@nbi.dk
+
+                                or
+
+                      telefax (+45) 35325400.
+
+

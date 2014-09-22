@@ -1,0 +1,278 @@
+
+
+From www-vrml-approval@vrml.org Mon Jul  7 21:20:46 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id DAA07513 for <fnielsen@eivind.imm.dtu.dk>; Tue, 8 Jul 1997 03:20:44 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id SAA14754; Mon, 7 Jul 1997 18:53:19 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id SAA14728; Mon, 7 Jul 1997 18:53:14 -0400 (EDT)
+Received: from wired.com (get.wired.com) by world.std.com (5.65c/Spike-2.0)
+	id AA19694; Mon, 7 Jul 1997 18:53:13 -0400
+Received: from cs.nps.navy.mil (trouble2.cs.nps.navy.mil [131.120.7.57]) by wired.com (8.8.5/8.7.3) with SMTP id PAA29821; Mon, 7 Jul 1997 15:53:06 -0700 (PDT)
+Received: from cs.nps.navy.mil by cs.nps.navy.mil with POP3; Mon, 7 Jul 97
+ 15:08:37 -0700
+X-Uidl: 868313231.000
+Message-Id: <9707072205.AA24942@cs.nps.navy.mil>
+Subject: The 1997 Siggraph/Eurographics Workshop on Graphics Hardware
+Date: Mon, 7 Jul 97 15:07:18 -0700
+X-Sender: zyda@cs.nps.navy.mil
+X-Mailer: Claris Emailer 2.0, March 15, 1997
+From: Michael Zyda <zyda@siggraph.org>
+To: "infobahn post" <infobahn@cs.nps.navy.mil>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+List-Software: LetterRip 2.0 by Fog City Software, Inc.
+List-Unsubscribe: 
+ <mailto:infoadmn@cs.nps.navy.mil?subject=unsubscribe%20infobahn>
+List-Subscribe: 
+ <mailto:infoadmn@cs.nps.navy.mil?subject=subscribe%20infobahn>
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+
+
+        The 1997 Siggraph/Eurographics Workshop on Graphics Hardware
+
+                           Los Angeles, California
+                              August 3-4, 1997
+
+        Web site:  =
+http://www.cs.unc.edu/Info/Events/Conferences/hwws97.html
+
+                             Preliminary Program
+
+
+The Siggraph/Eurographics Hardware Workshop is an international forum =
+for
+exchanging experience and knowledge related to computer graphics =
+hardware.
+The workshop provides a setting for discussions and constructive =
+critique of
+new ideas and novel approaches to problems in graphics hardware.
+
+The workshop this year will be colocated with Siggraph 97 in Los =
+Angeles.
+It will take place at the Omni Hotel in L.A. the Sunday and Monday of 
+Siggraph week.  There will be two days of paper presentations with =
+ample 
+time for discussions during coffee breaks, lunch, and the workshop =
+banquet 
+Sunday evening.
+
+
+REGISTRATION
+
+Attendance is limited to 120 attendees. Preference will be given to
+attendees with accepted papers. Other registrations will be processed =
+in the
+order they are received. 
+
+The registration fee for the workshop are as follows:
+
+                            Early Registration       Regular =
+Registration
+                        (Postmarked before June 27) (Postmarked after =
+June 27)
+
+ ACM/Siggraph/EG members           $130                      $190
+ Non-members                       $150                      $210
+ Students                          $80                       $80
+
+The registration fee includes the workshop proceedings, banquet, =
+coffee, and
+lunches.
+
+Through generous support from corporate sponsors we can provide a =
+limited
+number of student scholarships. The scholarship will cover the =
+workshop fees
+and can include a travel grant. To qualify for a scholarship send a =
+letter
+requesting a student scholarship together with a copy of your student =
+id
+card, the name of the full-time degree program, and a letter of
+recommendation from a faculty member to Stella Mannino at the address =
+below.
+
+The registration form is available on the workshop web page:
+
+  http://www.cs.unc.edu/Info/Events/Conferences/hwws97.html
+
+Please fill out the registration form and return it either by email, =
+fax or
+regular mail to:
+
+     Stella Mannino, Graphics Hardware Workshop
+     Center for Visual Computing
+     Computer Science Department
+     SUNY Stony Brook
+     Stony Brook, NY 11794-4400
+     U.S.A.
+     Tel: 516-632-8428
+     Fax: 516-632-8334
+     e-mail: stella@cs.sunysb.edu.
+
+Payment can be made by credit card or check. If you choose to register
+electronically and pay by check, the check must arrive no more than 3 =
+weeks
+after receipt of the electronic form. Please include a paper copy of =
+your
+emailed registration form with the payment of the registration fees.
+
+
+WORKSHOP ORGANIZERS
+
+Workshop Chairs:
+
+      Ari Kaufman		SUNY Stony Brook
+      Wolfgang Stra=FEer		University of Tuebingen
+
+Program Chairs:
+
+      Steven Molnar		HP Chapel Hill Graphics Lab
+      Bengt-Olaf Schneider	IBM T.J. Watson Research Center
+
+Local Arrangements Chair:
+
+      Ulrich Neumann		University of Southern California
+
+
+SPONSORING ORGANIZATIONS
+
+The workshop is co-sponsored by ACM Siggraph and Eurographics.  The =
+following 
+companies are providing generous financial support for the workshop:
+
+   * Hewlett-Packard
+   * Intel
+   * IBM
+   * Microsoft
+   * Mitsubishi Electric Research Lab
+   * Silicon Graphics
+   * S3
+
+
+PRELIMINARY PROGRAM
+
+Sunday August 3, 1997
+
+ 8:00 am    Registration
+
+ 9:00 am    Introduction
+
+ 9:30 am    Keynote Address
+            Henry Fuchs
+
+ 10:30 am   Coffee break
+
+Algorithm Characterization
+
+ 11:00 am   Characterization of Static 3D Graphics Workloads
+            Tzi-cker Chiueh, Wei-jen Lin
+
+ 11:30 am   Architectural Implications of Hardware-Accelerated Bucket 
+	    Rendering on the PC
+            Michael Cox, Narendra Bhandari
+
+ 12:00 pm   Memory Access Patterns of Occlusion-Compatible 3D Image =
+Warping
+            William R. Mark, Gary Bishop
+
+ 12:30 pm   Lunch
+
+Architectures
+
+ 2:00 pm    Realizing OpenGL: Two Implementations of One Architecture
+            Mark J. Kilgard
+
+ 2:30 pm    PixelFlow: The Realization
+            Steven Molnar, John Eyles, John Poulton, Trey Greer, =
+Anselmo 
+	    Lastra, Nick England, Lee Westover
+
+ 3:00 pm    Coffee break
+
+ 3:30 pm    Heresy: A Virtual Image-Space 3D Rasterization =
+Architecture
+            Tzi-cker Chiueh
+
+ 4:00 pm    High Quality Rendering Using the Talisman Architecture
+            Anthony C. Barkans
+
+Workshop Banquet
+
+ 6:30 pm    On board the Marina Hornblower, Marina del Rey Harbor.
+
+Monday August 4, 1997
+
+ 9:00 am    Invited Talk: Toward Real-Time Photorealistic Rendering: 
+	    Challenges and Solutions
+            Andreas Schilling
+
+ 10:00 am   Coffee break
+
+Algorithms and Design
+
+ 10:30 am   Triangle Scan Conversion using 2D Homogeneous Coordinates
+            Marc Olano, Trey Greer
+
+ 11:00 am   Accommodating Memory Latency in a Low-Cost Rasterizer
+            Bruce Anderson, Rob MacAulay, Andy Stewart, Turner Whitted
+
+ 11:30 am   Codesign of Graphics Hardware Accelerators
+            Jon P. Ewins, Phil L. Watten, Martin White, Michael D.J. 
+            MacNeill, Paul F. Lister
+
+ 12:00 pm   Lunch
+
+Volume Rendering
+
+ 1:30 pm    Design of a High Performance Volume Visualization System
+            Barthold Lichtenbelt
+
+ 2:00 pm    A Ray-Slice-Sweep Volume Rendering Engine
+            Ingmar Bitter, Arie Kaufman
+
+ 2:30 pm    Coffee break
+
+ 3:00 pm    EM-Cube: An Architecture for Low-Cost Real-Time Volume =
+Rendering
+            Randy Osborne, Hanspeter Pfister, Hugh Lauer, Neil =
+McKenzie, 
+            Sarah Gibson, Wally Hiatt, TakaHide Ohkami
+
+ 3:30 pm    VIZARD - Visualization Accelerator for Realtime Display
+            Guenter Knittel, Wolfgang Strasser
+
+ 4:00 pm    Workshop Closing
+
+
+
+
+
+---+----+-----+------+-------+--------+---------+----------+-----------+
+
+To subscribe to infobahn:
+     Send email note to infoadmn@cs.nps.navy.mil
+     Put <subscribe infobahn> in the body of the message (brackets 
+unnecessary).
+
+To unsubscribe from infobahn:
+     Send email note to infoadmn@cs.nps.navy.mil
+     Put <unsubscribe infobahn> in the body of the message (brackets 
+unnecessary).
+
+To post to infobahn:
+     Send the post to infobahn@cs.nps.navy.mil
+     You must be a subscriber to post.
+
+
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

@@ -1,0 +1,99 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Mar 16 10:04:14 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA05766;
+	Tue, 16 Mar 1999 10:04:07 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05042;
+          16 Mar 99 1:33 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05040;
+          16 Mar 99 1:21 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12087;
+          16 Mar 99 1:20 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa04468; 15 Mar 99 1:39 EST
+Received: from yugiri.brain.riken.go.jp by CS.CMU.EDU id aa11330;
+          15 Mar 99 1:38:09 EST
+Received: from yugiri.brain.riken.go.jp (localhost [127.0.0.1])
+	by yugiri.brain.riken.go.jp (8.8.7/3.6W/99021315) with ESMTP id PAA10761
+	for <Connectionists@cs.cmu.edu>; Mon, 15 Mar 1999 15:26:41 +0900 (JST)
+Sender: nicolang@yugiri.brain.riken.go.jp
+Message-ID: <36ECA81F.852A8B92@yugiri.brain.riken.go.jp>
+Date: Mon, 15 Mar 1999 15:26:40 +0900
+From: Nicolangelo Iannella <nicolang@yugiri.brain.riken.go.jp>
+Organization: The Institute of Physical and Chemical Research, RIKEN
+X-Mailer: Mozilla 4.08 [en] (X11; I; IRIX 5.3 IP22)
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+Subject: Call for Invited Speakers
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+    ******CALL FOR PARTICIPATION/INVITATION******
+
+On behalf of Proferssor Tom Gedeon, chairman of ICONIP'99,
+we are looking for INVITED SPEAKERS  to participate in a (or a series
+of) special session(s) discussing  "Neural Information Coding" for
+this years' International Conference  on Neural Information Processing
+ICONIP'99 to be held in Perth, Australia November 16-20.
+
+                ************** NOTE ***************
+
+           TRAVEL RE-EMBURSEMENTS CAN NOT BE PROVIDED
+
+                ************** NOTE ***************
+
+Neural information coding or the neural code, is still today a subject
+full of mystery and controversy. To date, there are several main
+stream contender neural codes (such as temporal and population coding)
+each with their own supporting experimental evidence.
+
+This has inevitably led to some confusion and differences in opinion,
+as to how information is encoded and processed with a "biological
+brain".  Even though some progress has been made in solving the neural
+code, it is still not a popular discussion issue which definitely
+needs further debate and wider recognition, especially in the neural
+network community.
+
+Further benefits, especially those living in the upper Northern
+hemisphere (Europe, US and Canada), will be that since the conference
+is held near the end of spring, it will be a great opportunity to
+escape the cold winter and do some sight-seeing in Perth or around
+Australia, where one can witness truely unique natural wilderness.
+
+There are TWO CHOICES of presentation format, you the invitee can give
+either
+
+    A) a normal paper presentation of about 20 minutes duration or
+    B) a panel discussion style (and can still have a paper for the
+       proceedings)
+
+It would be greatly appreciated if you definitely confirm your
+attendence to ICONIP'99 ASAP and furthermore, please indicate which
+style of presentation you prefer.
+
+Please send all correspondence to
+
+       nicolang@yugiri.riken.go.jp or if this fails use
+       angelo@postman.riken.go.jp
+
+
+Yours sincerely,
+
+
+
+Nicolangelo Iannella
+
+--
+Nicolangelo Iannella
+RIKEN, Brain Science Institute
+Laboratory for Neural Modelling
+2-1 Hirosawa, Wako-shi, Saitama 351-0198, Japan
+
+Email:  angelo@postman.riken.go.jp
+Tel:    +81 48 462 1111 ex. 7154
+Fax:    +81 48 467 9684
+
+
+

@@ -1,0 +1,91 @@
+
+
+From pascal@icsc.ab.ca Sat Jan 15 04:41:06 MET 2000
+Received: from bernie.compusmart.ab.ca (bernie.compusmart.ab.ca [199.185.130.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id EAA06332
+	for <fnielsen@ei.dtu.dk>; Sat, 15 Jan 2000 04:40:59 +0100 (MET)
+Received: from remote1676.compusmart.ab.ca ([207.229.35.116]:1045 "HELO icsc") by mail.compusmart.ab.ca with SMTP id <33806-240> convert rfc822-to-8bit; Fri, 14 Jan 2000 20:37:58 -0700
+X-Sender: pascal@mail.compusmart.ab.ca
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0
+To: Prospective authors <pascal@icsc.ab.ca>
+From: Pascal Ryffel <pascal@icsc.ab.ca>
+Subject: Mass Customization Management (MCM'2000)
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Message-Id: <20000115033810Z33806-240+5067@mail.compusmart.ab.ca>
+Date: 	Fri, 14 Jan 2000 20:37:58 -0700
+Status: RO
+X-Status: 
+
+<html>
+Dear Colleagues:<br>
+<br>
+Please be informed of our<br>
+<br>
+first International Congress on <br>
+INTELLIGENT SYSTEMS AND APPLICATIONS (ISA'2000) <br>
+will be held at the University of Wollongong <br>
+(near Sydney), Australia <br>
+from December 12-15, 2000 <br>
+<font color="#0000FF"><u><a href="http://www.icsc.ab.ca/isa2000.htm" eudora="autourl">http://www.icsc.ab.ca/isa2000.htm<br>
+<br>
+</a></font></u><font color="#000000">A special session/tutorial will be
+included in this symposium on:<br>
+<br>
+</font><font face="Garamond"><b>Workshop on Mass Customization Management
+(MCM'2000)<br>
+Workshop Organizers:<br>
+</font><font color="#0000FF"><u>Prof. Dr. Claus Rautenstrauch
+</font></u><font color="#000000">&amp;</font><font color="#0000FF"><u>
+Dr. Klaus Turowski<br>
+</font></b></u><font color="#000000">University of Magdeburg<br>
+Technical &amp; Business Info Systems<br>
+P.O. Box 4120<br>
+D - 39016 Magdeburg / Germany<br>
+E-mail:
+</font><font color="#0000FF"><u>rauten@iti.cs.uni-magdeburg.de<br>
+turowski@iti.cs.uni-magdeburg.de<br>
+</font></u><font color="#000000"><b>Workshop Website:<br>
+</font></b><font color="#0000FF"><u><a href="http://www-wi.cs.uni-magdeburg.de/mc/mcm2000" eudora="autourl">http://www-wi.cs.uni-magdeburg.de/mc/mcm2000</a>/<br>
+</font></u><font color="#000000"><b>Workshop Topics:<br>
+</font></b><font face="Garamond">Planning Methods for Mass
+Customization<br>
+Managing Organic Manufacturing Organizations<br>
+Agile Manufacturing<br>
+Engineering Concepts and Technologies<br>
+Supply Chain Management and Mass Customization<br>
+Production Networks<br>
+Product Configuration<br>
+Case Studies<br>
+Service Individualization<br>
+Mass Customization Concepts<br>
+<br>
+<br>
+</font>We would be most grateful if you could distribute the
+appended<br>
+Call For Papers to your colleagues who might be interested.<br>
+Any help in distributing this announcement would be appreciated: <br>
+<br>
+If you have no interest in this conference and would like your<br>
+email address be removed from this email lists, please send me a
+note.<br>
+Thank you!<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<BR>
+<div>ICSC/NAISO </div>
+<div>Planning Division</div>
+<div>P.O. Box 279 </div>
+<div>Millet, AB T0C 1Z0 - Canada</div>
+<div>----------------------------------------------------------------</div>
+<div>Email:      planning@icsc.ab.ca     </div>
+<div>Website:  
+<a href="http://www.icsc.ab.ca/" EUDORA=AUTOURL>http://www.icsc.ab.ca</a></div>
+<div>Fax:         +1-780-387-4329 </div>
+<div>Phone:     +1-780-387-3546  </div>
+</html>

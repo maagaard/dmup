@@ -1,0 +1,208 @@
+
+
+From vis2000@gris.uni-tuebingen.de Tue Dec 14 03:10:45 MET 1999
+Received: from mx02.uni-tuebingen.de (mx02.uni-tuebingen.de [134.2.3.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id DAA22082
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 14 Dec 1999 03:10:44 +0100 (MET)
+Received: from cezanne (cezanne.gris.uni-tuebingen.de [134.2.176.54])
+	by mx02.uni-tuebingen.de (8.8.8/8.8.8) with SMTP id DAA28652
+	for <@mx02.uni-tuebingen.de:fnielsen@eivind.imm.dtu.dk>; Tue, 14 Dec 1999 03:12:10 +0100
+Received: from gris.uni-tuebingen.de by cezanne via ESMTP (940816.SGI.8.6.9/930416.SGI)
+	for <@cezanne:fnielsen@eivind.imm.dtu.dk> id DAA19592; Tue, 14 Dec 1999 03:12:06 +0100
+Received: (from vis2000@localhost) by gris.uni-tuebingen.de (980427.SGI.8.8.8/980728.SGI.AUTOCF) id DAA26030 for fnielsen@eivind.imm.dtu.dk; Tue, 14 Dec 1999 03:12:09 +0100 (CET)
+Date: Tue, 14 Dec 1999 03:12:09 +0100 (CET)
+From: vis2000@gris.uni-tuebingen.de (IEEE Visualization 2000)
+Message-Id: <199912140212.DAA26030@gris.uni-tuebingen.de>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: IEEE Vis 2000 -  call for participation
+Status: RO
+X-Status: 
+
+
+CALL FOR PARTICIPATION
+IEEE Visualization 2000
+October 8 - October 13, 2000
+Doubletree Hotel
+Salt Lake City, Utah
+
+Sponsored by IEEE Computer Society Technical Committee on
+Visualization and Graphics 
+In Cooperation with ACM/SIGGRAPH
+
+
+Visualization is a vital research and applications frontier shared by
+a variety of science, medical, engineering, business, and
+entertainment fields. IEEE Visualization 2000 focuses on
+interdisciplinary methods and collaboration among developers and users
+of visualization methods across all of science, engineering, medicine,
+and commerce. Sunday through Tuesday of Conference Week will include
+tutorials, symposia, and mini-workshops. Papers, panels, case studies,
+and works in progress will be presented Wednesday through Friday. We
+invite you to participate in IEEE Visualization 2000 by submitting
+your original research through papers, panels, case studies, work in
+progress, and demonstrations. Share your perspectives through panels
+and workshops, or your experience through tutorials. Please select the
+forum appropriate to your submission, where it will be considered by
+your peers for presentation. Particular focus on volume visualization
+and information visualization are addressed in special two-day
+symposia. For further information on the conference or symposia
+contact: 
+Charles Hansen, Conference Co-Chair, University of Utah
+ +1 801.581.3154  Fax: +1 801.581.5843  hansen@cs.utah.edu
+Chris Johnson, Conference Co-Chair, University of Utah 
+ +1 801.581.7705  Fax: +1 801.585.6513  crj@cs.utah.edu
+Steve Bryson, Conference Co-Chair, NASA Ames Research Center 
+ +1 650.604.4524  Fax: +1 650.604.3957  bryson@nas.nasa.gov
+
+See the conference web page for complete up-to-date information at 
+http://www.erc.msstate.edu/conferences/vis2000
+
+
+
+Conference Papers (due March 31, 2000)
+Papers are solicited that present research results related to all areas of
+visualization. Original papers are limited to 5,000 words. The submission
+of NTSC VHS video (up to 5 minutes in length) to accompany the paper
+is strongly recommended. This year we will begin accepting electronic
+submissions of papers. If you choose to submit electronically, please
+submit in the PDF or postscript format. If you chose to submit hardcopy,
+please submit 7 hardcopies of all materials. Regardless of whether you
+submit your paper electronically or in the hardcopy format, a complete
+paper submission form including the abstract must be sent through the
+conference website for each submission. Details for electronic submission
+are available at http://www.erc.msstate.edu/conferences/vis2000/. 
+Accepted papers will be included in the conference proceedings; the videos 
+will be included in the conference video proceedings.
+
+Hard copy paper submissions should be sent to:
+
+ Vis2000, 
+ Center for Scientific Computing and Imaging, 
+ University of Utah,  
+ 50 S. Central Campus Dr.,Room 3440 MEB  
+ Salt Lake City, UT 84112  
+ +1 801-581-3154
+
+
+
+Panel Proposals (due March 31, 2000)
+
+Panels should address the most important issues in visualization
+today.  Panelists should be experts in their fields who can discuss
+the challenges of visualization, and engage the audience and fellow
+panel members in a stimulating, interactive debate. Panel proposals
+should describe the topic to be addressed and identify the prospective
+panelists. Each panelist should include a position statement on the
+topic and a short biography, the total of which should be limited to
+500 words. The statements will be included in the conference
+proceedings.
+Panel proposals should be sent to Jamie Painter - jamie@acl.lanl.gov
+
+
+
+
+Case Study Papers (due March 31, 2000)
+
+Case studies are reports on how visualization has contributed to the
+analysis of data in actual applications or studies of the
+visualization process.  A short paper limited to 2500 words (maximum 4
+pages B/W plus 1 page color) will be included in the conference
+proceedings. Images and/or NTSC VHS video to accompany the paper are
+recommended; the video will be included in the conference video
+proceedings. This year we are encouraging electronic submissions.
+
+For more detailed information concerning submission, see the web site,
+or contact Robert van Liere - robertl@cwi.nl
+
+
+
+
+Work in Progress (due June 15, 2000)
+
+Submissions are solicited for Works In Progress sessions that pertain
+to all areas of Visualization. These submissions must be original
+abstracts, must describe work in progress by the authors and their
+collaborators, and may not exceed 500 words or a maximum of 1
+page. Images and/or NTSC VHS video to accompany the abstract are
+recommended. Authors of accepted abstracts will have an opportunity to
+submit a revised and extended abstract, as well as presenting the work
+at the conference. These extended abstracts may not exceed 1000 words
+or a maximum of 2 pages including images. All accepted abstracts will
+be distributed at the conference but not published in the conference
+proceedings. Videos associated with accepted abstracts may be included
+in the conference video proceedings. All submissions will be done
+electronically.  Submission details can be found at the conference web
+site.
+For further information, contact Sam Uselton - uselton1@llnl.gov
+
+
+
+Tutorial Proposals (due March 31, 2000)
+
+Half-day and full-day course proposals are invited for visualization systems,
+methods, and application areas. Tutorials will be offered Sunday, Monday, and
+Tuesday. For more detailed information concerning submission and format
+content, see the web site, or 
+Contact Penny Rheingans  - rheingan@cs.umbc.edu
+
+
+
+Mini-Workshop and Birds-of-a-Feather Proposals (due March 31, 2000)
+
+Proposals may be submitted for Mini-Workshops and evening
+Birds-Of-A-Feather (BOF) gatherings on visualization methods or
+application areas. They should deal with state-of-the-art topics and
+involve experts in the field. Discipline-focused proposals devoted to
+a particular discipline's methods and needs are encouraged.
+
+Mini-Workshop and Birds-of-a-Feather Proposals should be sent to 
+Rob Erbacher - erbacher@cs.albany.edu
+
+
+
+Demonstration Proposals
+
+Visualization 2000 is a unique opportunity to present your products or
+research to visualization experts from a wide variety of fields. We
+invite demonstrations of commercial hardware, software, integrated
+systems peripherals, and literature, as well as academic research. We
+encourage demonstrators to have technical representatives in attendance.
+
+For more information on participating in Visualization 2000
+demonstrations, contact Eric Greenwade - leg@inel.gov
+
+
+
+
+Creative Applications Lab
+
+The Creative Applications Lab (CAL) is designed to let presenters
+interact with conference attendees on an individual basis. The CAL
+will have a variety of computers on which the contributors can install
+their materials for attendees' experimentation and enjoyment. The CAL
+will be open in conjunction with the demonstrations at Visualization
+2000. 
+
+For details on participating in the CAL see the web site or contact
+Russell Taylor - taylor@cs.unc.edu  
+
+
+
+
+IEEE/SIGGRAPH 2000 Symposium on Volume Visualization (VolVis 2000) 
+(submission deadline March 31, 2000)
+
+Papers in all areas of volume visualization and volume graphics
+are solicited for the 2000 Volume Visualization Symposium.
+
+http://www.cis.ohio-state.edu/volviz/volviz00.html
+
+
+
+IEEE 2000 Symposium on Information Visualization (InfoVis 2000) 
+(submission deadline March 31, 2000)
+
+Papers, panels and case studies concentrating on issues specific to abstract
+information visualization. 
+
+http://www.infovis.org/infovis2000

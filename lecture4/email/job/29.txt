@@ -1,0 +1,110 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov 20 08:39:34 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA13728;
+	Fri, 20 Nov 1998 08:39:29 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09874;
+          19 Nov 98 23:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09872;
+          19 Nov 98 23:03 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15084;
+          19 Nov 98 23:03 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa06888; 8 Nov 98 12:59 EST
+Received: from [128.6.10.4] by EDRC.CMU.EDU id aa03987; 8 Nov 98 12:58:34 EST
+Received: from psychology.rutgers.edu (psychology.rutgers.edu [128.6.69.163])
+	by andromeda.rutgers.edu (8.8.8/8.8.8) with SMTP id MAA12164
+	for <connectionists@cs.cmu.edu>; Sun, 8 Nov 1998 12:55:32 -0500 (EST)
+Received: from tractatus.rutgers.edu by psychology.rutgers.edu (SMI-8.6/SMI-SVR4)
+	id MAA06465; Sun, 8 Nov 1998 12:59:20 -0500
+Message-ID: <3645DADB.5A1191EC@tractatus.rutgers.edu>
+Date: Sun, 08 Nov 1998 12:54:36 -0500
+From: Stephen Jose Hanson <jose@tractatus.rutgers.edu>
+Organization: Rutgers University
+X-Mailer: Mozilla 4.03 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>
+Subject: RUTGERS DIGITAL LIBRARIES--GRADUATE AWARDS
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+[ Moderator's note: Steve Hanson informs me that people interested in
+  doing neural network or connectionist modeling research are among those
+  being sought for these graduate fellowships.  The steering committee 
+  includes several people who are well-known in the machine learning 
+  community.
+
+     -- Dave Touretzky, CONNECTIONSTS moderator ]
+
+
+  GRADUATE AWARDS FOR INTERDISCIPLINARY STUDY IN DIGITAL LIBRARIES
+
+The Rutgers University Distributed Laboratory for Digital Libraries
+(RDLDL) is pleased to announce the availability of competitive
+graduate awards for interdisciplinary doctoral studies in digital
+libaries, including contributing technologies and relevant basic
+research.
+
+Digital libraries is an exciting new domain for research, and for
+society at large, and the RDLDL is taking a leading role in
+establishing an explicitly interdisciplinary approach to the variety
+of problems in this burgeoning area.  Current faculty members of the
+RDLDL come from the disciplines of cognitive science, computer
+science, library and information science and psychology, and students
+in the program are expected to participate in research and to take
+courses in two or more of the disciplines represented in the RDLDL.
+
+Successful candidates will participate in digital library-oriented
+research projects with several faculty members of the RDLDL, as well
+as being enrolled in a Ph.D. program in one of the disciplines
+associated with the RDLDL.  They will also take part in an
+interdisciplinary seminar involving the faculty and all of the other
+graduate students associated with the RDLDL.
+
+The RDLDL Awards offer tuition remission and an annual stipend of
+$13,000, and the opportunity to achieve an interdisciplinary education
+for research in the interdisciplinary field of digital libaries. These
+awards are tenable for one year in the first instance, beginning in
+either January or September 1999, and are renewable.
+
+For further information, including the specific interests of the RDLDL
+faculty, and application materials, please see the RDLDL WWW site,
+
+http://diglib.rutgers.edu/RDLDL
+
+or contact any one of the members of the RDLDL Steering Committee,
+listed below.
+
+Steering Committee of the Rutgers Distributed Laboratory for Digital
+Libraries
+
+Nicholas J. Belkin, Department of Library and Information Science,
+  New Brunswick Campus nick@belkin.rutgers.edu
+
+Benjamin M. Bly, Department of Psychology,
+  Newark Campus  ben@psychology.rutgers.edu
+
+Sven Dickinson, Department of Computer Science,
+  New Brunswick Campus sven@ruccs.rutgers.edu
+
+Stephen Hanson, Department of Psychology,
+  Newark Campus jose@tractatus.rutgers.edu
+
+Haym Hirsh, Department of Computer Science,
+  New Brunswick Campus hirsh@cs.rutgers.edu
+
+Paul Kantor, Department of Library and Information Science,
+  New Brunswick Campus kantor@scils.rutgers.edu
+
+Zenon Pylyshyn, Rutgers Center for Cognitive Science,
+  New Brunswick Campus zenon@ruccs.rutgers.edu
+
+To contact us by mail, please write to:
+
+Rutgers Distributed Laboratory for Digital Libraries
+c/o School of Communication, Information and Library Studies
+Rutgers University
+4 Huntington Street
+New Brunswick, NJ 08901-1071, USA

@@ -1,0 +1,92 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 23 19:20:12 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id TAA04499;
+	Tue, 23 Nov 1999 19:20:08 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20488;
+          23 Nov 99 11:12 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20486;
+          23 Nov 99 10:58 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08719;
+          23 Nov 99 10:57 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa26394; 23 Nov 99 7:18 EST
+Received: from gatsby.ucl.ac.uk by edrc.cmu.edu id aa05066; 23 Nov 99 7:18 EST
+Received: from cajal.gatsby.ucl.ac.uk (cajal.gatsby.ucl.ac.uk [192.168.213.19])
+	by axon.gatsby.ucl.ac.uk (8.9.3/8.9.3) with ESMTP id MAA15195;
+	Tue, 23 Nov 1999 12:18:00 GMT
+Received: (from zoubin@localhost)
+	by cajal.gatsby.ucl.ac.uk (8.9.3/8.9.3) id MAA06430;
+	Tue, 23 Nov 1999 12:17:59 GMT
+Message-Id: <199911231217.MAA06430@cajal.gatsby.ucl.ac.uk>
+From: Zoubin Ghahramani <Zoubin@gatsby.ucl.ac.uk>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Date: Tue, 23 Nov 1999 12:17:59 +0000 (GMT)
+To: connectionists@cs.cmu.edu, cneuro@bbb.caltech.edu
+Subject: Postdoc and PhD Positions, Gatsby Computational Neuroscience Unit
+Cc: janice@gatsby.ucl.ac.uk
+Status: RO
+X-Status: 
+
+ 
+                Gatsby Computational Neuroscience Unit
+                      Director: Geoffrey Hinton
+
+                     http://www.gatsby.ucl.ac.uk/
+
+               Post-doctoral and PhD Research Positions
+                      Computational Neuroscience
+
+The Gatsby Computational Neuroscience Unit invites applications for
+PhD studentships and post-doctoral research positions tenable from
+September 2000.
+
+Members of the unit are interested in models of all aspects of brain
+function, especially unsupervised learning, computational vision,
+reinforcement learning, and computational motor control, and also
+conduct psychophysical experiments in motor control and vision.
+Current researchers at the unit include 12 PhD students and the
+following faculty and postdocs:
+
+         Faculty:                       Post-doctoral Fellows:
+
+         Geoff Hinton                   Hagai Attias                           
+         Peter Dayan                    Sam Roweis                             
+         Zoubin Ghahramani              Maneesh Sahani                         
+         Zhaoping Li                    Emo Todorov                            
+                                        Carl van Vreeswijk                     
+
+For further details please see: http://www.gatsby.ucl.ac.uk/research.html
+
+The Gatsby Unit provides a unique opportunity for a critical mass of
+theoreticians to interact closely with each other and with University
+College's other world class research groups including Anatomy,
+Computer Science, Functional Imaging Laboratory, Physics, Physiology,
+Psychology, Neurology, Ophthalmology, and Statistics.  The unit has
+excellent computational facilities, and laboratory facilities include
+both motor and visual psychophysics labs for theoretically motivated
+experimental studies.  The unit's visitor and seminar programmes
+enable its staff and students to interact with leading researchers
+from across the world.
+
+Candidates should have a strong analytical background and a keen
+interest in neuroscience. Competitive salaries and studentships are
+available.
+
+Applicants should send a CV [PhD applicants should include details of
+course work and grades], a statement of research interests, and names
+and addresses of 3 referees to janice@gatsby.ucl.ac.uk [email
+preferred] or to
+
+The Gatsby Computational Neuroscience Unit
+University College London
+Alexandra House
+17 Queen Square
+LONDON
+WC1N 3AR
+UK
+
+         ** Closing date for applications: 31 January 2000 **
+

@@ -1,0 +1,81 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 17 00:37:55 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA12266;
+	Tue, 17 Aug 1999 00:37:46 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21502;
+          16 Aug 99 17:19 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21500;
+          16 Aug 99 17:15 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27866;
+          16 Aug 99 17:15 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa21289; 16 Aug 99 5:17 EDT
+Received: from [139.165.32.133] by CS.CMU.EDU id aa06763; 16 Aug 99 5:16:09 EDT
+Received: from georges.montefiore.ulg.ac.be (georges.montefiore.ulg.ac.be [139.165.16.1])
+	by aix10.segi.ulg.ac.be (8.9.1a/8.9.1a) with SMTP id LAA39248;
+	Mon, 16 Aug 1999 11:16:03 +0200
+Received: from circpc14.montefiore.ulg.ac.be [139.165.16.190]
+	  by georges.montefiore.ulg.ac.be (8.6.10/ULG-7.9) with SMTP id LAA27347
+	  at Mon, 16 Aug 1999 11:16:02 +0200
+Received: by circpc14.montefiore.ulg.ac.be with Microsoft Mail
+	id <01BEE7D8.D9A0AA50@circpc14.montefiore.ulg.ac.be>; Mon, 16 Aug 1999 11:16:56 +0100
+Message-ID: <01BEE7D8.D9A0AA50@circpc14.montefiore.ulg.ac.be>
+From: Wehenkel <lwh@montefiore.ulg.ac.be>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Cc: "'Louis Wehenkel'" <louis.wehenkel@ulg.ac.be>
+Subject: Research position in the field of time series prediction
+Date: Mon, 16 Aug 1999 11:16:55 +0100
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+
+Research position
+Service of Stochastic Methods
+University of Li=E8ge - Belgium
+
+Within the context of a collaboration with the Center for Research in
+Metallurgy (CRM) in the field of Data Mining, the Service of Stochastic
+Methods of the University of Li=E8ge (Belgium) offers a full time
+research position.
+
+Description of the research project
+The term Data Mining denotes a set of techniques and activities aiming
+at the extraction of synthetic information (knowledge) from low level
+data stored in large databases. This project aims at applying these
+techniques to the prediction of the thermal state of steel furnaces. Le
+goal of the project is to develop a software tool able to predict
+temperature within a time span of about one hour, and in particular to
+predict as early as possible the development of thermal instabilities.
+To this end, a database composed of various measurements obtained in
+operation of a real steel furnace will be used. Data Mining, and in
+particular neural networks will be applied to these data in order to
+extract predictive models.
+
+Profile
+MS or PhD in computer or electrical engineering.
+Strong interest for academic R&D.
+Good abilities for team work and human relations.
+Good abilities in modeling and abstraction.
+Working English.
+Interest for software development.
+
+Practical information.
+One year research contract (fixed duration) to start in October 1999.
+Support of the researcher by the Service of Stochastic Methods in the
+field of Data Mining methods and software.
+
+For further information please contact
+Louis WEHENKEL, charg=E9 de cours
+M=E9thodes Stochastiques - Institut Montefiore, Sart-Tilman B28, B-4000
+Li=E8ge 
+Louis.Wehenkel@ulg.ac.be <mailto:Louis.Wehenkel@ulg.ac.be>
+
+_________________________________________________________
+
+  M=E9thodes Stochastiques			T=E9l :    4 3662684
+  Universit=E9 de Li=E8ge				Fax :   4 3662984
+  Institut Montefiore, Sart-Tilman B28		Email: Louis.Wehenkel@ulg.ac.be
+  B-4000 Li=E8ge
+
+  Visit our WEB sites : 	=

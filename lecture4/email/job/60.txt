@@ -1,0 +1,41 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Feb  1 19:02:41 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA24782;
+	Mon, 1 Feb 1999 19:02:34 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20450;
+          1 Feb 99 10:33 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20448;
+          1 Feb 99 10:23 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05673;
+          1 Feb 99 10:22 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa08493; 1 Feb 99 6:50 EST
+Received: from [128.40.213.30] by RI.CMU.EDU id aa15642; 1 Feb 99 6:49:50 EST
+Received: from vision.gatsby.ucl.ac.uk (vision.gatsby.ucl.ac.uk [128.40.213.6])
+	by axon.gatsby.ucl.ac.uk (8.9.1/8.9.1) with ESMTP id LAA16877;
+	Mon, 1 Feb 1999 11:49:41 GMT
+Received: (from zhaoping@localhost)
+	by vision.gatsby.ucl.ac.uk (8.8.7/8.8.7) id LAA15879;
+	Mon, 1 Feb 1999 11:49:40 GMT
+Date: Mon, 1 Feb 1999 11:49:40 GMT
+From: Dr Zhaoping Li <zhaoping@gatsby.ucl.ac.uk>
+Message-Id: <199902011149.LAA15879@vision.gatsby.ucl.ac.uk>
+To: comp-neuro@smaug.bbb.caltech.edu, connectionists@cs.cmu.edu
+Subject: Ph.D. studentships in Computational Neuroscience at Gatsby Unit
+Cc: zhaoping@gatsby.ucl.ac.uk
+Status: RO
+X-Status: 
+
+
+Applications are invited for research studentships in the field of
+computational neuroscience tenable from September 1999.  In
+particular, applications are welcome from candidates with an interest
+to pursue research in the area of high and low level vision and/or
+motor control.  Applicants should have a strong analytical background,
+a good honours degree in a relevant subject, and a keen interest in
+neuroscience.  Competitive studentships are available.  To apply,
+email a statement of your research interest and a text-only version of
+your CV to Janice Hankes at admissions@gatsby.ucl.ac.uk by March 1
+1999.  Further details about the Gatsby Unit can be found at
+http://www.gatsby.ucl.ac.uk.

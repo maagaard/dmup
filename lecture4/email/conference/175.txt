@@ -1,0 +1,171 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Nov 18 15:56:56 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id PAA25707;
+	Wed, 18 Nov 1998 15:56:49 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05304;
+          18 Nov 98 4:46 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05302;
+          18 Nov 98 4:35 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12580;
+          18 Nov 98 4:34 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa22591; 18 Nov 98 4:28 EST
+Received: from mailhost2.hip.atr.co.jp by EDRC.CMU.EDU id aa05364;
+          18 Nov 98 4:28:41 EST
+Received: from [133.186.46.97] ([133.186.46.97])
+	by mailhost.hip.atr.co.jp (8.9.1a+3.0W/3.7W) with ESMTP id SAA22769;
+	Wed, 18 Nov 1998 18:28:32 +0900 (JST)
+Message-Id: <199811180928.SAA22769@mailhost.hip.atr.co.jp>
+X-Sender: mieko@mailhost
+X-Mailer: Macintosh Eudora Pro Version 3.1.1-Jr2
+Mime-Version: 1.0
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Date: Wed, 18 Nov 1998 18:28:33 +0900
+To: connectionists@cs.cmu.edu
+From: Mieko Namba <mieko@hip.atr.co.jp>
+Subject: Announcement of Brain Science of Communications Symposium
+Cc: kawato@hip.atr.co.jp, mieko@hip.atr.co.jp
+Status: RO
+X-Status: 
+
+Dear members,
+
+I am glad to inform you that the "Brain Science of Communications Symposium"
+will be held as below.  The project "Communications of Primates including
+Humans" is supported by Science and Technology Agency Special Coordination
+Fund Projects for Strategic Promotion System for Brain Science.
+Please join us if you have an interest.
+
+For details of the project:
+http://hozu.ctr.atr.co.jp/kbp/index.html
+For details of the symposium:
+URL:http://hozu.ctr.atr.co.jp/kbp/symposium.html
+
+Mitsuo Kawato
+ATR Human Information Processing Res. Labs.
+
+******************************************************************
+        Brain Science of Communications Symposium
+******************************************************************
+The Science and Technology Agency Special Coordination Fund Project
+        Strategic Promotion System for Brain Science
+         "Communications of Primates including Humans"
+
+Date: December 14 (Mon) and 15 (Tue), 1998
+Place: The Keihanna Plaza, Kansai Science City
+Fee: Free (charged for the party, \3000)
+
+-----------------------------------------------------------------
+Dec. 14, 1998 Monday 13:00〜18:00    Language: English
+-----------------------------------------------------------------
+
+<Session 1:  Mechanism of Brain Communication>
+
+13:00-13:15  Welcome & Introduction
+   Yoh'ichi Tohkura (NTT Basic Res. Labs., ATR-I)
+
+13:15-14:00  Invited Lecture
+   Computational Models of Cortical-Cerebellar and Cortical-Basal
+   Ganglionic Control and Cognition
+   James C. Houk (Northwestern University Medical School)
+
+14:10-14:50
+   Role of the basal ganglia in learning sequential motor tasks
+   Minoru Kimura (School of Health and Sport Sciences, Osaka Univ.)
+
+15:00-15:40
+   The roles of reward prediction in motor control and communication
+   Kenji Doya (Kawato Dynamic Brain Project, ERATO)
+
+16:00-16:40
+   Cerebellar simple spikes and complex spikes during arm movements
+   Shigeru Kitazawa (Electrotechnical Lab.)
+
+16:50-17:30
+   Computational theory of communication based on multiple paired
+   forward-inverse models
+   Mitsuo Kawato (ATR Human Information Processing Res. Labs.)
+
+17:30-18:00    Discussion
+18:00-19:30   Party
+
+-----------------------------------------------------------------
+Dec.15, 1998 Tuesday 10:00〜17:30    Language: Japanese
+-----------------------------------------------------------------
+
+<Session 2 :  Language and Measurement of Brain Activity>
+
+10:00-10:40
+   Universal Properties of Language: Embedding and
+   Long-Distance Dependency
+   Yukio Otsu (Inst. of Cultural and Linguistic Studies, Keio Univ.)
+
+10:50-11:30
+   Brain mechanisms of verbal and non-verbal communication
+   Toshio Inui (Dept. of Intelligence Science and Technology
+   Graduate School of Informatics, Kyoto Univ.)
+
+11:30-12:00    Discussion
+12:00-13:20    Lunch Break
+
+13:20-14:00
+   FMRI and MEG study of neural activity during judgments of visually
+   presented characters and character strings
+   Norio Fujimaki (Fujitsu Labs. Ltd., Communications Res. Lab.)
+
+14:10-14:50
+   Neuronal representation of facial information for communication :
+   Single neuronsin the temporal cortex encode finer facial information
+   with a categorized header
+   Shigeru Yamane (Electrotechnical Lab.)
+
+15:10-15:50
+   Development of Neuromagnetic virtual sensor system
+   Yoshida Yoshikazu (Technology Res. Lab.,  Shimadzu Corporation)
+
+16:00-16:40
+   The study of visual grouping in human brain using high spatial
+   resolution MEG
+   Keisuke Toyama (Dept. of Physiology, Kyoto Prefectural Univ. of Medicine)
+
+16:40-17:20   Discussion
+17:20-17:30   Closing Remarks
+   Yoh'ichi Tohkura(NTT Basic Research Laboratories, ATR-I
+
+
+Registration Form:  Kansai Brain Project Symposium
+(e-mail to the secretariat: ikeda@ctr.atr.co.jp)
+-------------------------------------------------------------
+Name:
+-------------------------------------------------------------
+Institute:
+-------------------------------------------------------------
+TEL:
+-------------------------------------------------------------
+e-mail:
+-------------------------------------------------------------
+Day 1(12/14)		Attending/Not attending
+-------------------------------------------------------------
+Party (We will collect \3000 per person, \1000 for students at the front)
+Evening of Day 1(12/14)	Attending/Not attending
+-------------------------------------------------------------
+Day 2(12/15)		Attending/Not attending
+-------------------------------------------------------------
+******************************************************************
+end.
+
+
+
+=========================================================
+Mieko Namba
+Secretary to Dr. Mitsuo Kawato
+Editorial Administrator of NEURAL NETWORKS
+
+ATR Human Information Processing Research Laboratories
+2-2 Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0288, Japan
+TEL +81-774-95-1058    FAX +81-774-95-1008
+E-MAIL mieko@hip.atr.co.jp
+=========================================================
+

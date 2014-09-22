@@ -1,0 +1,77 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Oct 26 04:02:21 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id EAA08922;
+	Tue, 26 Oct 1999 04:02:18 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10097;
+          25 Oct 99 20:22 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10056;
+          25 Oct 99 20:05 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23578;
+          25 Oct 99 20:04 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab12443; 25 Oct 99 15:41 EDT
+Received: from bhaskar.rutgers.edu by cs.cmu.edu id aa28325; 25 Oct 99 15:40 EDT
+Received: (from bhaskar@localhost)
+	by bhaskar.rutgers.edu (8.9.1a/8.9.1) id PAA20520
+	for Connectionists@CS.CMU.EDU; Mon, 25 Oct 1999 15:40:43 -0400 (EDT)
+Date: Mon, 25 Oct 1999 15:40:43 -0400 (EDT)
+From: Bhaskar DasGupta <bhaskar@crab.rutgers.edu>
+Message-Id: <199910251940.PAA20520@bhaskar.rutgers.edu>
+To: Connectionists@cs.cmu.edu
+Subject: faculty position in neural computation
+Status: RO
+X-Status: 
+
+Fellow Connectionists,
+
+Below is a faculty opening announcement in our department 
+that would be relevant to the neural network and the learning theory 
+community. It will also appear (sometime in future) 
+in CACM, IEEE Computer, and the Computing Research News. 
+Please feel free to pass it to any other interested party.
+
+My apologies if you received this multiple times or if this announcement
+was not relevant to you.
+
+Best regards,
+
+Bhaskar DasGupta
+------------------------------------------------------------------------------
+Bhaskar DasGupta
+Department of Computer Science       Email: bhaskar@crab.rutgers.edu
+319 Business & Science Building      Phone: 856-225-6439 (office, in Rutgers)
+3rd & Penn Street                           732-445-4580 (office, in DIMACS)
+Rutgers University                   Fax: 856-225-6624 (office)
+Camden, NJ 08102-1656, USA           URL:http://crab.rutgers.edu/~bhaskar
+------------------------------------------------------------------------------
+
+================================================================================
+
+		 Rutgers University - Camden
+		Department of Computer Science
+
+The Department of Computer Science at Rutgers University - 
+Camden invites applications for two tenure-track positions
+at the assistant professor level beginning September 2000. 
+Candidates in all areas of computer science are encouraged
+to apply, particularly those with research interests in 
+graphics and visualization, computational geometry, artificial
+neural networks, machine learning, networking, distributed and
+mobile computing, and parallel computing. A Ph.D. in Computer 
+Science is required. Salary is contingent upon qualifications. 
+Rutgers University stands in the top 5% of AAUP rankings of 
+university salary and benefits.
+
+Applicants should send a curriculum vita, statement of research,
+statement of teaching interests/experience, and three letters 
+of reference to: 
+
+  	       Chair, Faculty Search Committee
+	        Department of Computer Science
+		     Rutgers University
+		      Camden, NJ 08102
+
+Review of applications will begin immediately and will continue
+until the positions are filled. Rutgers University is an Equal 
+Opportunity and Affirmative Action Employer. 

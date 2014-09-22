@@ -1,0 +1,74 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 23 01:07:42 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id BAA29181;
+	Tue, 23 Nov 1999 01:07:36 +0100 (MET)
+Message-Id: <199911230007.BAA29181@eivind.imm.dtu.dk>
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18197;
+          22 Nov 99 16:50 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18160;
+          22 Nov 99 16:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07774;
+          22 Nov 99 16:37 EST
+Received: from HEAVEN.LEARNING.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa02220;
+          22 Nov 99 11:31 EST
+Received: from heaven.learning.cs.cmu.edu by heaven.learning.cs.cmu.edu
+          id aa08464; 22 Nov 99 11:31 EST
+X-Mailer: exmh version 2.0.1 12/23/97
+To: connectionists@cs.cmu.edu
+Subject: NEW MASTERS PROGRAM IN KNOWLEDGE DISCOVERY AND DATA MINING
+Cc: thrun@heaven.learning.cs.cmu.edu
+X-url: http://www.cs.cmu.edu/~thrun/
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Mon, 22 Nov 1999 11:31:22 -0500
+From: Sebastian Thrun <Sebastian_Thrun@heaven.learning.cs.cmu.edu>
+Status: RO
+X-Status: 
+
+
+
+Carnegie Mellon, Center for Automated Learning & Discovery announces:
+
+A NEW MASTERS PROGRAM IN KNOWLEDGE DISCOVERY AND DATA MINING
+
+The extraordinary spread of computers and online data is changing
+forever the way that important decisions are made in many
+organizations.  Hospitals analyze online medical records to decide
+which treatments to apply to future patients. Banks routinely analyze
+past financial records to learn to spot future fraud.  Today's demand
+for data mining expertise far exceeds the supply, and this imbalance
+will become more severe over the coming decade.
+
+To educate the next generation of experts in this important area,
+Carnegie Mellon University offers a new Master's program in Knowledge
+Discovery and Data Mining (KDD).  This new inter-disciplinary program
+trains students to become tomorrow's leaders in the rapidly growing
+area of Knowledge Discovery and Data Mining.  It is offered by
+Carnegie Mellon's Center for Automated Learning and Discovery (CALD),
+which has assembled a large multi-disciplinary team of faculty and
+students across several academic departments.
+
+KDD candidates will be trained in all important areas related to
+scientific data mining and knowledge discovery. The Master's program
+balances interdisciplinary course work, hands-on project work, and
+cutting-edge research carried out under direct faculty supervision. 
+The curriculum addresses areas such as advanced machine learning 
+algorithms, statistical principles and foundations, database
+and data warehousing methods, complexity analysis, approaches to data
+visualization, privacy and security, and specific application areas
+such as business, marketing, finance, and public policy.  Our
+graduates are uniquely positioned to pioneer new data mining and
+knowledge discovery efforts, and to pursue top notch research on the
+next generation of data mining tools, algorithms, and systems.
+
+Carnegie Mellon invites applications of qualified individuals.
+Admission is highly competitive. A limited number of fellowships are
+available, which will be provided on a competitive basis. The
+application deadline is February 5, 2000.
+
+For more details about the program or to apply:
+    http://www.cs.cmu.edu/~kdd
+
+

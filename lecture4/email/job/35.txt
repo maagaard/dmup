@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Dec  3 01:24:15 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA10809;
+	Thu, 3 Dec 1998 01:24:04 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07129;
+          2 Dec 98 17:51 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07127;
+          2 Dec 98 17:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02484;
+          2 Dec 98 17:38 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab11966; 2 Dec 98 13:42 EST
+Received: from gizmo.usc.edu by EDRC.CMU.EDU id aa24275; 2 Dec 98 13:42:02 EST
+Received: from [128.125.37.13] (cheshire.usc.edu [128.125.37.13])
+	by gizmo.usc.edu (8.9.1/8.9.1) with SMTP id KAA22598
+	for <connectionists@cs.cmu.edu>; Wed, 2 Dec 1998 10:41:56 -0800
+Message-Id: <v02130502b28b2c6c7613@[128.125.37.13]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 2 Dec 1998 10:42:49 -0700
+To: connectionists@cs.cmu.edu
+From: "Mark S. Seidenberg" <marks@gizmo.usc.edu>
+Subject: training at USC
+Status: RO
+X-Status: 
+
+GRADUATE AND POSTDOCTORAL TRAINING IN
+COGNITIVE AND COMPUTATIONAL NEUROSCIENCE
+AT THE UNIVERSITY OF SOUTHERN CALIFORNIA
+
+This announcement concerns opportunities for pre- and post-doctoral
+training in cognitive neuroscience and computational neuroscience at USC.
+
+We seek to recruit outstanding individuals to be supported under a training
+grant funded by the National Institute of Mental Health. The goal of the
+training program is to develop future cognitive neuroscientists who will be
+able to advance the goal of understanding brain-behavior relationships,
+using computational modeling as a primary tool.
+
+USC has brought together a group of outstanding researchers in cognitive
+neuroscience, with a particular concentration of expertise in neural
+network modeling at different levels of abstraction.
+
+Our program focuses on four main areas:  language, vision, learning and
+memory, and motor performance. Research activities involve behavioral
+studies of normal and brain-injured humans; psychophysiological and
+neuroimaging techniques; basic neuroscience methods such as single-cell
+recording and lesion studies in animals, coupled with computational
+modeling.
+
+For additional information contact Mark S. Seidenberg, Program Director
+(marks@neuro.usc.edu).
+
+The Neuroscience Doctoral program: http://www.usc.edu/dept/nbio/nibs.html
+Cognitive Neuroscience at USC: http://www.usc.edu/dept/nbio/nibs/cognit.html
+Computational Neuroscience at USC:
+http://www.usc.edu/dept/nbio/nibs/compute.html
+Application Procedure: http://www.usc.edu/dept/nbio/nibs/howto.html
+Training Program:   http://siva.usc.edu/coglab/training.html
+
+
+____________________________________
+Mark S. Seidenberg
+Neuroscience Program
+University of Southern California
+3614 Watt Way
+Los Angeles, CA 90089-2520
+
+Phone:  213-740-9174
+Fax: 213-740-5687
+
+http://www-rcf.usc.edu/~seidenb
+http://siva.usc.edu/coglab
+____________________________________
+

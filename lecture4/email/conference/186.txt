@@ -1,0 +1,175 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Dec 15 02:10:05 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA10184;
+	Tue, 15 Dec 1998 02:09:57 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01058;
+          14 Dec 98 16:59 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01056;
+          14 Dec 98 16:35 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19668;
+          14 Dec 98 16:34 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa06093; 14 Dec 98 11:31 EST
+Received: from [192.41.218.1] by CS.CMU.EDU id aa02753; 14 Dec 98 11:31:13 EST
+Received: by udsab (5.65v3.2/1.1.10.5/13Jun97-1021AM)
+	id AA29612; Mon, 14 Dec 1998 17:27:49 +0100
+Date: Mon, 14 Dec 1998 17:27:49 +0100
+From: Tagliaferri Roberto <robtag@dia.unisa.it>
+Message-Id: <9812141627.AA29612@udsab>
+To: Connectionists@cs.cmu.edu
+Subject: WIRN 99 call for paper First announcement
+Status: RO
+X-Status: 
+
+
+
+ 
+*****************        CALL FOR PAPERS        *****************
+ 
+               The 11-th Italian Workshop on Neural Nets 
+
+             		WIRN VIETRI-99
+ 
+                        May 20-22, 1999
+
+		Vietri Sul Mare, Salerno ITALY
+
+
+****************       FIRST ANNOUNCEMENT       *****************
+                           
+ 
+  Organizing - Scientific  Committee  
+--------------------------------------------------
+	B. Apolloni (Univ.  Milano) 
+	A. Bertoni ( Univ. Milano) 
+	N. A. Borghese ( CNR Milano)
+	D. D. Caviglia ( Univ. Genova) 
+	P. Campadelli ( Univ. Milano) 
+	A. Colla (ELSAG Genova)
+	A. Esposito ( I.I.A.S.S.)
+	M. Frixione ( Univ. Salerno) 
+	C. Furlanello (ITC-IRST Trento)
+	G. M. Guazzo ( I.I.A.S.S.)
+	M. Gori ( Univ. Siena) 
+	F. Lauria ( Univ. Napoli) 
+	M. Marinaro ( Univ. Salerno) 
+	F. Masulli (Univ. Genova)
+	C. Morabito ( Univ. Reggio Calabria)
+	P. Morasso (Univ. Genova)
+	G. Orlandi ( Univ. Roma) 
+	T. Parisini ( Politecnico Milano)
+	E. Pasero ( Politecnico Torino) 
+	A. Petrosino ( I.I.A.S.S.) 
+	V. Piuri ( Politecnico Milano)
+	M. Protasi ( Univ. Roma II) 
+	S. Rampone ( Univ. Sannio) 
+	R. Serra ( Centro Ricerche Ambientali Montecatini Ravenna) 
+	F. Sorbello ( Univ. Palermo) 
+	R. Tagliaferri ( Univ. Salerno) 
+
+
+  Topics
+----------------------------------------------------
+ 	Mathematical Models
+	Architectures and Algorithms   
+ 	Hardware and Software Design
+ 	Hybrid Systems   
+ 	Pattern Recognition and Signal Processing
+ 	Industrial and Commercial Applications 
+ 	Fuzzy Tecniques for Neural Networks    
+
+  Schedule                          
+-----------------------             
+  Papers Due:                  
+      	January 31, 1999              
+                                    
+  Replies to Authors:               
+        March 31, 1999                
+                                    
+  Revised Papers Due:               
+        May 22, 1999                
+                                    
+ 
+  Sponsors
+------------------------------------------------------------------------------
+	International Institute for Advanced Scientific Studies (IIASS)
+	Dept. of Scienze Fisiche "E.R. Caianiello", University of Salerno
+	Dept. of Matematica ed Informatica, University of Salerno
+	Dept. of Scienze dell'Informazione, University of Milano
+	Societa' Italiana Reti Neuroniche (SIREN)
+	IEEE Neural Network Council
+	INNS/SIG Italy
+ 	Istituto Italiano per gli Studi Filosofici, Napoli
+
+
+ 
+The 11-th Italian Workshop on Neural Nets (WIRN VIETRI-99) will 
+take place in Vietri Sul Mare, Salerno ITALY, May 20-22, 1999.
+The conference will bring together scientists who are studying 
+several topics related to neural networks.
+The three-day conference, to be held in the I.I.A.S.S., 
+will feature both introductory tutorials and original, 
+refereed papers, to be published by an International Publishing. 
+In the 1999 edition there will be a special session, including tutorials,
+on Neural Networks in Economics.
+Official languages are Italian and English, while papers must be in English.
+Papers should be 6 pages, including title, figures, 
+tables, and bibliography. The accompanying letter should give keywords, 
+postal and electronic mailing addresses, telephone and FAX numbers,
+indicating oral or poster presentation.  
+Submit 3 copies and a 1 page abstract (containing keywords,
+postal and electronic mailing addresses, telephone, and FAX numbers
+with no more than 300 words) to the address shown (WIRN 99 c/o
+IIASS). An electronic copy of the abstract should be sent to the
+E-mail address below.
+The papers must be sent in the camera ready format of SPRINGER which
+can be retrieved by anonymous ftp from ftp.tex.ac.uk or by the SIREN www site:
+wicsadv.org
+wicsadv.tex
+wicsadv1.tex (file modified to insert the format instruction inside)
+wicsbook.org
+wicsbook.sty
+or for authors who do not use latex the information can be retrieved
+by the SIREN www site.
+The publication of the proceedings is "under negotiation" with Springer.
+During the Workshop the "Premio E.R. Caianiello" will be assigned
+to the best Ph.D. thesis in the area of Neural Nets and related
+fields of Italian researchers. The amount is of 2.000.000 Italian Lire.
+The interested researchers (with the Ph.D degree got in 1996,1997,1998 
+until February 28 1999) must send 3 copies of a c.v. and of the thesis
+to "Premio Caianiello" WIRN 99 c/o IIASS before February 28,1999.
+It is possible to partecipate to the prize at most twice.
+
+
+For more information, 
+contact the Secretary of I.I.A.S.S.
+ 
+                    I.I.A.S.S 
+                    Via G.Pellegrino, 19 
+                    84019 Vietri Sul Mare (SA)
+		    ITALY
+
+			Tel. +39 89 761167
+			Fax  +39 89 761189
+			E-Mail robtag@udsab.dia.unisa.it
+
+or the SIREN www pages at the address below:
+			http://www-dsi.ing.unifi.it/neural
+
+
+
+*****************************************************************
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+

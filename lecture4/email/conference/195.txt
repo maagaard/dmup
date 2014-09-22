@@ -1,0 +1,95 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 13 05:36:14 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA18303
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 13 Jan 1999 05:36:11 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29436;
+          12 Jan 99 21:58 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29421;
+          12 Jan 99 21:45 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01434;
+          12 Jan 99 21:44 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa11791; 12 Jan 99 12:15 EST
+Received: from orvieto.CS.Berkeley.EDU by CS.CMU.EDU id aa00328;
+          12 Jan 99 12:14:29 EST
+Received: (from jordan@localhost)
+	by orvieto.CS.Berkeley.EDU (8.9.1/8.9.1) id JAA09319
+	for connectionists@cs.cmu.edu; Tue, 12 Jan 1999 09:13:32 -0800 (PST)
+From: Michael Jordan <jordan@CS.Berkeley.EDU>
+Message-Id: <199901121713.JAA09319@orvieto.CS.Berkeley.EDU>
+Subject: Learning in Graphical Models
+To: connectionists@cs.cmu.edu
+Date: Tue, 12 Jan 1999 09:13:32 -0800 (PST)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+The following book is available from MIT Press; see
+
+http://mitpress.mit.edu/promotions/books/JORLPS99
+
+
+LEARNING IN GRAPHICAL MODELS
+
+Michael I. Jordan, Ed.
+
+Graphical models, a marriage between probability theory and graph
+theory, provide a natural tool for dealing with two problems that occur
+throughout applied mathematics and engineering--uncertainty and
+complexity.  In particular, they play an increasingly important role in
+the design and analysis of machine learning algorithms.  Fundamental to
+the idea of a graphical model is the notion of modularity: a complex
+system is built by combining simpler parts.  Probability theory serves
+as the glue whereby the parts are combined, ensuring that the system as
+a whole is consistent and providing ways to interface models to data.
+Graph theory provides both an intuitively appealing interface by which
+humans can model highly interacting sets of variables and a data
+structure that lends itself naturally to the design of efficient
+general-purpose algorithms.
+
+PART I:  INFERENCE
+
+Robert G. Cowell
+Uffe Kjaerulff
+Rina Dechter
+Michael I. Jordan, Zoubin Ghahramani, Tommi S. Jaakkola, and Lawrence K. Saul
+Tommi S. Jaakkola and Michael I. Jordan
+David J. C. MacKay
+Radford M. Neal
+
+PART II:  INDEPENDENCE
+
+Thomas S. Richardson
+Milan Studeny and Jirina Vejnarova
+
+PART III:  FOUNDATIONS FOR LEARNING
+
+David Heckerman
+Radford M. Neal and Geoffrey E. Hinton
+
+PART IV:  LEARNING FROM DATA
+
+Christopher M. Bishop
+Joachim M. Buhmann
+Nir Friedman and Moises Goldszmidt
+Dan Geiger, David Heckerman, and Christopher Meek
+Geoffrey E. Hinton, Brian Sallans, and Zoubin Ghahramani
+Michael J. Kearns, Yishay Mansour, and Andrew Y. Ng
+Stefano Monti and Gregory F. Cooper
+Lawrence K. Saul and Michael I. Jordan
+Peter W. F. Smith and Joe Whittaker
+David J. Spiegelhalter, Nicky G. Best, Wally R. Gilks, and Hazel Inskip
+Christopher K. I. Williams
+
+
+Adaptive Computation and Machine Learning series
+
+7 x 10, 648 pp.
+
+paper ISBN 0-262-60032-3
+

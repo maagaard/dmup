@@ -1,0 +1,178 @@
+
+
+From karttune@physics.mcgill.ca Sun Jul 13 16:33:11 EDT 1997
+Received: from elwing.physics.mcgill.ca (elwing.physics.mcgill.ca [132.206.9.29]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id WAA03745 for <fnielsen@eivind.imm.dtu.dk>; Sun, 13 Jul 1997 22:33:09 +0200 (METDST)
+Received: (from karttune@localhost)
+	by elwing.physics.mcgill.ca (8.8.5/8.8.5) id QAA12288;
+	Sun, 13 Jul 1997 16:24:30 -0400 (EDT)
+Date: Sun, 13 Jul 1997 16:24:29 -0400 (EDT)
+From: Mikko Karttunen <Mikko.Karttunen@physics.mcgill.ca>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: CRISP '97 
+Message-ID: <Pine.SGI.3.91.970713161832.12273A-100000@elwing.physics.mcgill.ca>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Dear Sir/Madam,
+
+Maybe the following meeting is of interest for you / someone at your 
+institution. Feel free to forward this to anyone you wish. 
+
+------
+
+		SECOND ANNOUNCEMENT AND A CALL FOR PAPERS:
+
+
+ 		   The First International Workshop on
+
+	=====================================================
+	Cooperative Research Information Systems in Physics: 
+		            CRISP97
+	=====================================================
+
+ 	    Aug. 31 - Sept. 4, 1997, Oldenburg, Germany
+
+	Sponsored and supported by:
+		- The European Physical Society (EPS)
+		- Deutsche Physikalische Gesellschaft (DPG)
+		- Bundesministerium fur Bildung und Wissenschaft, 
+                  Forschung und Technologie  (BMBF), Germany
+		- Elsevier Science, The Netherlands
+
+Scope of the workshop:
+----------------------
+	The purpose of the workshop is to bring together physicists, 
+	computer scientists, and other experts to discuss issues 
+	related to cooperative scientific information systems. 
+	Internet and electronic communication methods have greatly 
+	affected the way scienceis published and distributed, and 
+	the importance of these issues will increase in the future. 
+	It is therefore very important for the scientists, publishers, 
+	and computer experts to meet and map their needs and discuss 
+	the directions for the future development of electronic 
+	communication in sciences.
+
+	These issues are not limited to physics information systems,
+	and one of the aims of this meeting is to bring together people 
+	and ideas from other related fields such as chemistry, mathematics, 
+	and computer sciences.	
+		
+Central Topics of CRISP '97 Include: 
+-------------------------------------
+	- Scientific documents
+	- Educational systems, 
+	- Administrative information treatment, etc.
+	- Electronic publishing
+	- Information Infrastructure in Physics (and sciences 
+	  in general), cooperative work and distributed systems 
+	- Technical issues: user friendly interfaces, metdata,
+	  protocols, formats, methods, standards, etc.
+	- Dedicated systems, expert systems, tools, etc.
+
+Invited Speakers (more to come, see the updates at the web site):
+-----------------------------------------------------------------
+
+	- A. Dixon, Institute of Physics Publishing, UK
+	- T.A. Finholt, University of Michigan, U.S.A
+	- R.A. Kelly, The American Physical Society, U.S.A.
+	- S. Lundberg, NetLab, Lund University, Sweden
+	- P. Murray-Rust, University of Nottingham
+	- H. Roosendaal, Elsevier Science, The Netherlands
+	- H. Schweppe, FU Berlin, Germany
+	- B.J. Whitaker, School of Chemistry, University of Leeds, UK
+	- J. Zinn-Justin, Saclay, France
+
+Side Meetings:
+--------------
+	During CRISP '97 there will be several side meetings:
+
+	- Inaugural session of the EPS Electronic Publications Committee 
+	- First meeting of the EPS national Web-coordinators 
+	- EuroPhysNet, an EC Telematics for Research -project
+	- Consortium Physics of the DPG
+	- Annual meeting of the Information Management 
+	  representatives of German Physics Institutions
+	- Project meeting of the DFN project 'eprint'
+	- Planning meeting of the BMBF project 'global-info' in Physics
+
+Format of the Meeting:
+----------------------
+	- Invited talks: 30 minutes + 15 min. discussion
+	- Contributed talks: 10 minutes + 5 min. discussion
+	- There will also be a poster session
+
+ 	    Student participation is strongly encouraged!
+
+Organizing Committee:
+---------------------
+	- Manfred Bischoff, Darmstadt, Germany 
+	- Eberhard R.  Hilf, Oldenburg, Germany (chairman)
+	- Kenneth Holmlund, Umea University, Sweden
+	- Mikko Karttunen, McGill University, Canada,
+	- Franck Laloe, ENS Paris, France
+	- Thomas Severiens, Oldenburg, Germany
+	- Ralf Utermann, Augsburg, Germany
+
+Registration:
+--------------
+	For details, please see the web site (URL below).
+
+	- Deadline for abstracts and registration: July, 15
+	- Fee: 300 DM, for students 100DM
+	- Accomodation: See the web site or/and contact us
+
+For More Information:
+--------------------
+	For more information about the workshop, or the side
+	meetings, please see the CRISP '97 web site, 
+	or email us:
+
+	URL: http://www.physics.mcgill.ca/~karttune/crisp97/  
+
+	     or
+
+	     http://www.physik.uni-oldenburg.de/conferences/crisp97/
+
+	Mail to: Mikko.Karttunen@physics.mcgill.ca
+
+About Oldenburg:
+----------------
+	Oldenburg is a scenic city of about 150 000 inhabitants. 
+	It is located in the state of Lower Saxony (Niedersachsen) 
+	about 40 kilometers northwest of Bremen and 130 kilometers 
+	southwest of Hamburg. 
+
+	The web site contains some helpful links, and information 
+	about Oldenburg and how to get there.
+
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

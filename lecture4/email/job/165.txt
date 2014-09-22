@@ -1,0 +1,62 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Aug 14 13:52:15 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA14095;
+	Sat, 14 Aug 1999 13:51:39 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16134;
+          13 Aug 99 22:55 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16100;
+          13 Aug 99 22:40 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24434;
+          13 Aug 99 22:39 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa17301; 13 Aug 99 22:10 EDT
+Received: from imo13.mx.aol.com by RI.CMU.EDU id aa16686; 13 Aug 99 22:10:10 EDT
+Received: from POCASIP@aol.com
+	by imo13.mx.aol.com (mail_out_v22.4.) id vCWNa13735 (3969);
+	Fri, 13 Aug 1999 22:09:49 -0400 (EDT)
+From: POCASIP@aol.com
+Message-ID: <c6d0dffc.24e629ec@aol.com>
+Date: Fri, 13 Aug 1999 22:09:48 EDT
+Subject: R&D position in DSP & NeuroControl in California
+To: connectionists@cs.cmu.edu
+CC: POCASIP@aol.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: AOL 4.0 for Windows 95 sub 21
+Status: RO
+X-Status: 
+
+The Advanced Signal and Image Processing Laboratory of
+Intelligent Optical Systems Inc. (IOS) is looking for
+a candidate who has expertise and experience in the following two areas:
+
+1. Digital Signal Processing and
+
+2. NeuroControl (Nonlinear Adaptive Control)
+
++  Knowledge of electronic (CMOS) design, and
+    programming fluency in C++ and Java are important assets.
+
++  Experience in solving real-world problems in a wide variety of applications
+     is a definite plus.
+
+The activities of the Advanced Signal and Image Processing Laboratory
+include system control, hazardous waste analysis, skin injury diagnosis,
+silicon wafer inspection, food quality control, and target recognition,
+using neural computation implementations in software and hardware.
+
+IOS is a rapidly growing dynamic high-tech R&D company with a focus on
+commercializing optical sensors and advanced information processing.
+Ii employs about 35 people, including 13 scientists from a variety of
+backgrounds.
+
+We are located in Torrance, California, which is a pleasant seaside town
+with a high standard of living and year-round perfect weather.
+
+Please send your application including curriculum vitae, and three references,
+in ASCII only, by e-mail to POCASIP@aol.com
+
+
+E. Fiesler

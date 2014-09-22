@@ -1,0 +1,51 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Aug 14 06:50:05 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA11242;
+	Sat, 14 Aug 1999 06:49:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16098;
+          13 Aug 99 22:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16096;
+          13 Aug 99 22:38 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24421;
+          13 Aug 99 22:38 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa02639; 13 Aug 99 7:34 EDT
+Received: from psychology.rutgers.edu by EDRC.CMU.EDU id aa18666;
+          13 Aug 99 7:33:26 EDT
+Received: from smtp1.erols.com (smtp1.erols.com [207.172.3.234])
+	by psychology.rutgers.edu (8.9.1/8.9.1) with ESMTP id HAA24071
+	for <coglist@psychology.rutgers.edu>; Fri, 13 Aug 1999 07:33:50 -0400 (EDT)
+Received: from kreizler.rutgers.edu (r7a003100aa.hlb.cable.rcn.com [216.164.42.79])
+	by smtp1.erols.com (8.8.8/8.8.5) with ESMTP id HAA18046
+	for <coglist@psychology.rutgers.edu>; Fri, 13 Aug 1999 07:32:02 -0400 (EDT)
+Sender: root@smtp1.erols.com
+Message-ID: <37B40137.97E12464@kreizler.rutgers.edu>
+Date: Fri, 13 Aug 1999 07:27:51 -0400
+From: stephen jose hanson <jose@psychology.rutgers.edu>
+X-Mailer: Mozilla 4.51 [en] (X11; I; Linux 2.2.5-15 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: coglist@psychology.rutgers.edu
+Subject: COGNITIVE SCIENCE/COGNITIVE NEUROSCIENCE FELLOWSHIPS --RUTGERS-Newark
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+PSYCHOLOGY GRADUATE PROGRAM- Newark Campus GRADUATE
+RESEARCH FELLOWSHIPS. Fall 99 & Fall 00. The graduate program in
+COGNITIVE
+SCIENCE and COGNITIVE NEUROSCIENCE seeks students for FALL 99 & FALL 00.
+
+Interested applicants from Psychology, Computer Science or Cognitive
+Science undergrad programs are encouraged to apply. These fellowships
+are competitive and provide comprehensive training in computation,
+neuro-imaging and cognitive science/perception research.
+
+Please send enquiries and applications to Professor S. J. Hanson, Chair,
+Department of Psychology Rutgers University, Newark, NJ 07102.  Please
+make an Email enquiry to gradpgm@tractatus.rutgers.edu also please see
+our web page for more information on the graduate faculty and program
+http://www.psych.rutgers.edu
+

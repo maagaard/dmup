@@ -1,0 +1,292 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jul 28 19:11:44 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA11674;
+	Wed, 28 Jul 1999 19:11:25 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa11773;
+          28 Jul 99 10:18 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa11771;
+          28 Jul 99 10:11 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa29882;
+          28 Jul 99 10:10 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa10938; 28 Jul 99 3:40 EDT
+Received: from mailhost2.hip.atr.co.jp by EDRC.CMU.EDU id aa20845;
+          28 Jul 99 3:40:00 EDT
+Received: from laplace.hip.atr.co.jp (laplace.hip.atr.co.jp [133.186.43.23])
+	by mailhost.hip.atr.co.jp (8.9.3+3.2W/3.7W) with SMTP id QAA26421;
+	Wed, 28 Jul 1999 16:39:37 +0900 (JST)
+From: "Thomas S.Ray" <ray@hip.atr.co.jp>
+Received: by laplace (4.1/AI-4.10.ATR) id AA02152; Wed, 28 Jul 99 16:39:39 JST
+Date: Wed, 28 Jul 99 16:39:39 JST
+Message-Id: <9907280739.AA02152@laplace.hip.atr.co.jp>
+To: ai-cbr-request@mailbase.ac.uk, aiia@di.unito.it, aisb@cogs.susx.ac.uk,
+        alife@cognet.ucla.edu, animat@ens.fr, cells@tce.ing.uniroma1.it,
+        cellular-automata@BUPHY.BU.EDU, colt@cs.uiuc.edu,
+        conferences@iao.fhg.de, connect-bb@eusip.ed.ac.uk,
+        connectionists@cs.cmu.edu, cti-comp-ai-request@mailbase.ac.uk,
+        cti-engineering-request@mailbase.ac.uk,
+        defence-technology-request@mailbase.ac.uk,
+        design-research-request@mailbase.ac.uk,
+        distributed-ai-request@mailbase.ac.uk, echos@ens.fr,
+        engineering-cace-request@mailbase.ac.uk,
+        engineering-design-request@mailbase.ac.uk, ep-list@magenta.me.fau.edu,
+        evogp@dcs.napier.ac.uk, evonet@dcs.napier.ac.uk,
+        external-faculty@santafe.edu, ga-list@aic.nrl.navy.mil,
+        gann-list@cs.iastate.edu, genetic-programming@cs.stanford.edu,
+        hybrid-list@cs.ua.edu, iwann-list@eel.upc.es, ml@ics.uci.edu,
+        modern-heuristics-request@mailbase.ac.uk, mvillani@cramont.it,
+        neuron-uk-request@mailbase.ac.uk,
+        news-announce-conferences@uunet.uu.net,
+        postgrad-request@mailbase.ac.uk, researchers@santafe.edu
+Subject: ARTIFICIAL LIFE AND ROBOTICS (AROB 5th '00)
+Status: RO
+X-Status: 
+
+
+We apologize if you receive this more than once
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+THE FIFTH INTERNATIONAL SYMPOSIUM ON ARTIFICIAL LIFE AND ROBOTICS (AROB 5th '00)
+For Human Welfare and Artificial Life Robotics
+Jan.26-Jan.28, 2000, Compal Hall, Oita, JAPAN
+
+OBJECTIVE
+
+    is to start collaborative research on development of the theories
+    of artificial life and complexity and their applications for robotics by
+    making several research groups where the members are experts in their
+    fields.  The research on artificial life and complexity were begun recently
+    in Japan and are expected to be applied in various fields.  Especially
+    the research groups will focus their attention on the development of the
+    hardware of artificial brains using neurocomputers etc.  Also, the research
+    groups will develop fundamental research on applications of artificial
+    life and complexity for robotics by close relationships between researchers.
+
+TOPICS
+
+    Artificial Brain Research
+    Artificial Intelligence
+    Artificial Life
+    Artificial Living
+    Artificial Mind Research
+    Brain Science
+    Chaos
+    Cognitive Science
+    Complexity
+    Computer Graphics
+    Evolutionary Computations
+    Fuzzy Control
+    Genetic Algorithms
+    Innovative Computations
+    Intelligent Control and Modeling
+    Micromachines
+    Micro-Robot World Cup Soccer Tournament
+    Mobile Vehicles
+    Molecular Biology
+    Neural Networks
+    Neurocomputers
+    Neurocomputing Technologies and its Application for Hardware
+    Robotics
+    Robust Virtual Engineering
+    Virtual Reality
+
+DEADLINES
+
+    September 15, 1999  Submission of a 400-600 word-long
+                        abstract of a paper in English( 3 copies ).
+    October   15, 1999  Notification of acceptance of papers.
+    November  15, 1999  Submission of the text of the paper
+                        (camera-ready manuscript).
+
+CONFERENCE LANGUAGE
+     
+    English
+
+HOMEPAGE
+
+    http://arob.cc.oita-u.ac.jp/
+
+PUBLICATION
+
+Accepted papers will be published in the Proceedngs of AROB and some of 
+high quality papers in the Proc. will be requested to re-submit for the
+consideration of publication in a new international journal ARTIFICIAL
+LIFE AND ROBOTICS (Springer) and APPLIED MATHEMATICS AND COMPUTATION
+(North-Holland).
+
+       Send to:
+       AROB Secretariat
+       c/o Sugisaka Laboratory
+       Dept of Electrical and Electronic Engineering
+       Oita University
+       700 Dannoharu, Oita 879-1192, JAPAN
+       TEL +81-97-554-7841,  FAX +81-97-554-7818
+       E-MAIL  arobsecr@cc.oita-u.ac.jp 
+
+HISTORY 
+
+    This symposium was founded in 1996 by the support of Science and
+    International Affairs Bureau, Ministry of Education, Science, Sports, and
+    Culture, Japanese Government.  This symposium was held in 1996 (First),
+    1997 (Second), 1998 (Third), 1999 (Fourth) at B-Con Plaza, Beppu, Oita,
+    Japan.  The Fifth symposium will be held in January 26-28, 2000 at Compal
+    Hall, Oita, Japan.  This symposium invites you all to discuss development
+    of new technologies concerning Artificial Life and Robotics based on
+    simulation and hardware in twenty first century.
+
+
+ORGANIZED BY
+
+    Organizing Committee of International Symposium on Artificial Life and
+    Robotics under the Sponsorship of Science and International Affairs
+    Bureau, Ministry of Education, Science, Sports, and Culture,
+    Japanese Government
+
+CO-SPONSORED BY
+
+    Santa Fe Institute (SFI, USA)
+    The Society of Instrument and Control Engineers (SICE, JAPAN)
+    The Robotics Society of Japan (RSJ, JAPAN)
+    The Institute of Electrical Engineers of Japan (IEEJ, JAPAN)
+
+COOPERATED BY
+
+    ISICE
+    IEICE
+    IEEE Tokyo Section
+    JARA
+
+SUPPORTED BY
+
+    OITA Prefecture Government, etc.
+
+HONORARY PRESIDENT
+
+    M.Hiramatsu (Governor, Oita Prefecture, Japan)
+
+ADVISORY COMMITTE CHAIRMAN
+
+    M.Ito (Director, RIKEN, Japan)
+
+GENERAL CHAIRMAN
+
+    M.Sugisaka (Oita University, Japan)
+ 
+VICE CHAIRMAN
+
+    J.L.Casti (Santa Fe Institute, USA)
+
+PROGRAM CHAIRMAN
+
+    H.Tanaka (Tokyo Medical & Dental University, Japan)
+
+ADVISORY COMMITTEE
+
+    M.Ito (Director, RIKEN, Japan) (Chairman) 
+    H.Kimura (The University of Tokyo, Japan) 
+    S.Fujimura (The University of Tokyo, Japan)
+    S.Ueno (Kyoto University, Japan)
+
+INTERNATIONAL ORGANIZING COMMITTEE
+
+    W.B.Arthur (Santa Fe Institute, USA)
+    W.Banzhaf (University of Dortmund, Germany)
+    C.Barrett (Los Alamos National Laboratory, USA)
+    J.P.Crutchfield (Santa Fe Institute, USA)
+    J.L.Casti (Santa Fe Institute, USA) (Vice Chairman)
+    J.M.Epstein (Santa Fe Institute, USA)
+    T.Fukuda (Nagoya University, Japan)
+    D.J.G.James (Coventry University, UK)
+    S.Kauffman (Santa Fe Institute, USA) 
+    C.G.Langton (Santa Fe Institute, USA)
+    R.G.Palmer (Santa Fe Institute, USA)
+    S.Rasmussen (Santa Fe Institute, USA)
+    T.S.Ray (Santa Fe Institute, USA)
+    P.Schuster (Santa Fe Institute, USA)
+    M.Sugisaka (Oita University, Japan) (Chairman)
+    H.Tanaka (Tokyo Medical & Dental University, Japan)
+    C.Taylor (University of California-Los Angeles, USA)
+    W.R.Wells (University of Nevada-Las Vegas， USA)
+    Y.G.Zhang (Academia Sinica, China) 
+
+INTERNATIONAL STEERING COMMITTEE
+
+    Z.Bubunicki (Wroclaw University of Technology, Poland)
+    J.L.Casti (Santa Fe Institute, USA) (Co-Chairman)
+    S.Fujimura (The University of Tokyo)
+    D.J.G.James (Coventry University, UK)
+    J.J.Lee (KAIST, Korea)
+    G.Matsumoto (RIKEN, Japan)
+    M.Nakamura (Saga University, Japan)
+    S.Rasmussen (Santa Fe Institute, USA)
+    T.S.Ray (Santa Fe Institute, USA)
+    M.Sugisaka (Oita University, Japan) (Chairman)
+    H.Tanaka (Tokyo Medical & Dental University, Japan)
+    C.Taylor (University of California-Los Angeles, USA)
+    W.R.Wells (University of Nevada-Las Vegas， USA)
+    Y.G.Zhang (Academia Sinica, China) 
+
+INTERNATIONAL PROGRAM COMMITTEE
+
+    K.Abe (Tohoku University, Japan) 
+    K.Aihara (The University of Tokyo, Japan) (Co-Chairman) 
+    Z.Bubunicki (Wroclaw University of Technology, Poland) 
+    T.Christaller (CMD-German National Research Center for
+    Information Technology, Germany) 
+    T.Fujii (RIKEN, Japan) 
+    M.Gen (Ashikaga Institute of Technology, Japan) 
+    T.Gomi (AAI, Canada) 
+    I.Harvey (University of Sussex, UK) 
+    H.Hashimoto (The University of Tokyo, Japan) (Co-Chairman) 
+    P.Husbands (University of Sussex, UK) 
+    J.Johnson (The Open University, UK) 
+    Y.Kakazu (Hokkaidou University, Japan) 
+    R.E.Kalaba (University of Southern California, USA) 
+    H.Kashiwagi (Kumamoto University, Japan) 
+    O.Katai (Kyoto University, JAPAN) 
+    S.Kawata (Tokyo Metropolitan Univsersity, Japan) 
+    J.H.Kim (KAIST, Korea) 
+    S.Kitamura (Kobe University, Japan) 
+    H.Kitano (Sony Computer Science Laboratory Inc., Japan) 
+    T.Kitazoe (Miyazaki University, Japan) 
+    S.Kumagai (Osaka University, Japan) 
+    H.H.Lund (University of Aarhus, Denmark)
+    M.Nakamura (Saga University, Japan) 
+    R.Nakatsu (ATR, Japan) 
+    H.H.Natsuyama (Advanced Industrial Materials, USA) 
+    T.Omori (Tokyo University of Agriculture & Technology, Japan) 
+    R.Pfeifer (University of Zurich-Irchel, SwitZerland) 
+    T.S.Ray (Santa Fe Institute, USA) (Co- Chairman) 
+    T.Sawaragi (Kyoto University, Japan) 
+    T.Shibata (MITI, MEL, Japan) 
+    K.Shimohara (ATR, Japan) 
+    L.Steels (VUB AI Laboratory, Belgium) 
+    M.Sugisaka (Oita University, Japan) 
+    S.Tamura (Osaka University, Japan) 
+    H.Tanaka (Tokyo Medical & Dental University, Japan) (Chairman) 
+    N.Tosa (ATR, Japan) 
+    K.Ueda (Kobe University, Japan) 
+    A.P.Wang (Arizona State University, USA) 
+    K.Watanabe (Saga University, Japan) 
+    X.Yao (The University of New South Wales, Australia) 
+
+LOCAL ARRANGEMENT COMMITTEE
+
+    T.Hano (Oita University, Japan) 
+    T.Ito (Oita University, Japan) 
+    E.Kusayanagi (Oita University, Japan) 
+    T.Matsuo (Oita University, Japan) 
+    Y.Morita (Oita University, Japan) 
+    K.Nakano (University of Electro-Communications, Japan) 
+    K.Okazaki (Fukui University, Japan) 
+    S.Sato (Director, Research and Development Center, Oita
+    University, Japan)
+    K.Shigemitsu (Oita Industrial Research Institute, Japan) 
+    M.Sugisaka (Oita University, Japan) 
+    H.Tsukune (Director, Oita Industrial Research Institute, Japan) 
+    K.Yoshida (Oita University, Japan) 
+    X.Wang (Oita Institute of Technology, Japan) 
+    Y.Suzuki (Tokyo Medical & Dental University)
+

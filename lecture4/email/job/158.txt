@@ -1,0 +1,50 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jul 28 00:01:25 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA01750;
+	Wed, 28 Jul 1999 00:01:16 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09351;
+          27 Jul 99 16:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09349;
+          27 Jul 99 15:57 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28743;
+          27 Jul 99 15:57 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa23290; 27 Jul 99 12:43 EDT
+Received: from axon.rutgers.edu by RI.CMU.EDU id aa15424; 27 Jul 99 12:42:34 EDT
+Received: from stp (stp.rutgers.edu [165.230.181.33]) by axon.rutgers.edu (AIX4.3/UCB 8.8.8/8.8.8) with SMTP id MAA10562 for <Connectionists@CS.CMU.EDU>; Tue, 27 Jul 1999 12:42:11 -0400
+Reply-To: axon@cortex.rutgers.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+From: Ralph Siegel <axon@cortex.rutgers.edu>
+To: Connectionists@CS.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Vision postdoctoral position - Rutgers
+Date: Tue, 27 Jul 1999 12:42:11 -0400
+Message-ID: <001101bed84e$f91b09a0$21b5e6a5@stp.rutgers.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Status: RO
+X-Status: 
+
+Postdoctoral Position in Vision Research. A position for a
+postdoctoral trainee interested in studying visual perception is
+available in the Center for Molecular and Behavioral Neuroscience at
+Rutgers University. The collaboration concerns exploring the
+computations needed for spatial perception in the parietal lobe of
+behaving primates using single unit recordings, intrinsic optical
+imaging techniques, microdialysis and psychophysical methods.
+Reference to recent publications on this work are available on our Web
+site
+http://www.cmbn.rutgers.edu/cmbn/faculty/rsiegel.html. Interested
+candidates should contact Ralph Siegel, CMBN, Rutgers University, 197
+University Avenue, Newark, NJ 07102, Phone: 973-353-1080 x3261. Fax:
+973-353-1272. E-mail: axon@cortex.rutgers.edu
+
+

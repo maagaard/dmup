@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jan 18 05:21:16 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id FAA19567;
+	Tue, 18 Jan 2000 05:21:13 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07984;
+          17 Jan 2000 16:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07981;
+          17 Jan 2000 15:56 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00969;
+          17 Jan 2000 15:55 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa22540;
+          17 Jan 2000 13:11 EST
+Received: from cartman.cvs.rochester.edu by edrc.cmu.edu id aa04398;
+          17 Jan 2000 13:11 EST
+Received: from [128.151.80.12] (128.151.80.12) by cvs.rochester.edu with ESMTP
+ (Eudora Internet Mail Server 2.2.2); Mon, 17 Jan 2000 13:13:08 -0500
+Message-Id: <v0401170ab4a8f7cd9601@[128.151.80.12]>
+Date: Mon, 17 Jan 2000 13:13:07 -0400
+To: connectionists@cs.cmu.edu
+From: Barbara Arnold <barba@cvs.rochester.edu>
+Subject: 22nd CVS Symposium 2000 (Center for Visual Science)
+Status: RO
+X-Status: 
+
+22nd CVS Symposium 2000
+
+NEURAL CODING
+
+June 1 - 3, 2000
+
+For more information or an application, see our website:
+www.cvs.rochester.edu or contact Barbara Arnold at 716-275-8659 or
+barba@cvs.rochester.edu
+
+One of the fundamental difficulties in understanding the neural basis of
+perception/cognition is understanding the computational or informational
+significance of neural activity. This is true at all levels: from
+individual synapses and neurons, to local circuits and large-scale
+organization. The enormous complexity of the brain and the behavior it
+generates demands more sophisticated development of theories of neural
+coding and communication on a large scale.
+
+In the tradition of past CVS Symposia, our goal is to bring recent
+developments in this fundamentally important topic to a broader audience
+than that captured by more specialized meetings. We have designed the
+symposium to bring together leading scientists with diverse perspectives to
+provide an opportunity for cross-fertilization and interaction that is not
+usually available.
+
+PROGRAM FOR THE MEETING
+
+Thursday, June 1
+
+I. Information Coding in Spike Trains
+II. Early Circuits
+
+Friday, June 2
+
+III. Coding Experience: development and plasticity
+IV. Functional specialization and distributed codes
+
+Saturday, June 3
+
+V. Large Scale information flow.
+
+SPEAKERS FOR MEETING
+
+      MOSHE ABELES, Hebrew University
+       DANA BALLARD, University of Rochester
+       KEN BRITTEN, UC Davis
+       CAROL COLBY, University of Pittsburgh
+       MAURIZIO CORBETTA, Washington University
+       DAVID J. FIELD, Cornell University
+       ZACHARY F. MAINEN, Cold Spring Harbor Lab
+       RAFAEL MARCOS YUSTE, Columbia University
+       KEN MILLER, University of California-San Francisco
+       R.CLAY REID, Harvard Medical School
+       TERRENCE J. SEJNOWSKI, Salk Institute for Biological Studies
+       JEFFREY D. SCHALL, Vanderbilt University
+       ROBERT SHAPLEY, New York University
+       ADAM SILLITO, University College London
+       MICHAEL WELIKY, University of Rochester
+       ANTHONY M. ZADOR, Salk Institute
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Barbara N. Arnold
+Administrator                            email: barba@cvs.rochester.edu
+Center for Visual Science                phone: 716 275 8659
+University of Rochester                    fax: 716 271 3043
+Meliora Hall 274
+Rochester NY 14627-0270
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

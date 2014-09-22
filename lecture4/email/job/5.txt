@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Oct  8 22:16:07 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id WAA07963;
+	Thu, 8 Oct 1998 22:15:22 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18662;
+          8 Oct 98 13:30 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18660;
+          8 Oct 98 13:12 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18027;
+          8 Oct 98 13:12 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa04260; 8 Oct 98 12:39 EDT
+Received: from davinci.isds.duke.edu by RI.CMU.EDU id aa06108;
+          8 Oct 98 12:38:15 EDT
+Received: from moses.isds.duke.edu (moses.isds.duke.edu [152.3.22.46])
+	by davinci.isds.duke.edu (8.8.8/8.8.8) with ESMTP id MAA17742;
+	Thu, 8 Oct 1998 12:34:00 -0400 (EDT)
+Received: (from higdon@localhost)
+	by moses.isds.duke.edu (8.8.8/8.8.6) id MAA07763;
+	Thu, 8 Oct 1998 12:33:59 -0400 (EDT)
+Date: Thu, 8 Oct 1998 12:33:59 -0400 (EDT)
+From: David Higdon <higdon@stat.Duke.EDU>
+X-Sender: higdon@moses.isds.duke.edu
+To: ai-medicine@SMI.Stanford.EDU, ai-stats@watstat.uwaterloo.ca,
+        allstat@mailbase.ac.uk, anzstat@qut.edu.au, connectionists@cs.cmu.edu,
+        dalist@fuqua.duke.edu, dukestat-L@mc.duke.edu, hsss@mailbase.ac.uk,
+        hybrid-list@cs.ua.edu, iasc@stat.unipg.it, ml@ics.uci.edu,
+        news-announce-conferences@uunet.uu.net, s-news@utstat.utoronto.edu,
+        stat@statlab.uni-heidelberg.de, uai@ghost.CS.ORST.EDU
+Subject: Postdoc Opportunity
+Message-ID: <Pine.OSF.3.96.981008123225.682I-100000@moses.isds.duke.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+          *** Postdoctoral Research Associate *** 
+
+        Institute of Statistics & Decision Sciences
+                     Duke University
+
+Applications are invited for a position as a post-doctoral 
+research associate in the Institute of Statistics and Decision 
+Sciences, Duke University. This is an initial three-year 
+appointment, with a target starting date of May 1st, 1999.
+
+The position arises as part of a new multi-disciplinary
+research project on multi-scale modeling and simulation in 
+scientific inference, funded by NSF. This project, conducted 
+through the Center for Multi-Scale Modeling and Distributed 
+Computing at Duke, combines research teams from statistics, 
+hydrology, mathematics and computer science, and has key 
+research focuses in challenging problems of spatial statistical 
+modeling and advanced statistical computation. Applied project 
+components concern important problems in environmental and 
+petroleum hydrology. The project begins in May 1999 with an 
+initial three year term. 
+
+The Postdoctoral Research Associate will focus on research 
+related to the development of novel multi-resolution spatial 
+models, advanced statistical computation, and methodology for 
+integrating data sources in an applied setting. The associate 
+will work closely with ISDS researchers and investigators and 
+postdoctoral associates in mathematics, computing and 
+hydrology. Suitable applicants will have a PhD in Statistics 
+or a related field. We particularly seek candidates with 
+experience in spatial modeling and advanced scientific 
+computing, and with inclinations towards cross-disciplinary 
+research.  Applications from suitably qualified women and 
+minority candidates are particularly encouraged. Duke 
+University is an Equal Opportunity/Affirmative Action Employer.
+
+For additional information, visit our web page at www.stat.duke.edu
+
+To apply, please send CV and 3 letters of reference to: 
+  Search Committee 
+  Box 90251 
+  Duke University; 
+  Durham NC 27708-0251
+
+Informal inquiries may be directed to Dave Higdon 
+at higdon@stat.duke.edu or Mike West at mw@stat.duke.edu.
+
+

@@ -1,0 +1,99 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jul  9 18:32:20 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id SAA03065;
+	Thu, 9 Jul 1998 18:32:09 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12802;
+          9 Jul 98 10:29 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12800;
+          9 Jul 98 10:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22996;
+          9 Jul 98 10:20 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa07473; 9 Jul 98 8:32 EDT
+Received: from [134.219.44.52] by CS.CMU.EDU id aa05715; 9 Jul 98 8:31:34 EDT
+Received: from localhost (localhost [127.0.0.1])
+	by platon.cs.rhbnc.ac.uk (8.8.8/8.8.8) with SMTP id NAA08652;
+	Thu, 9 Jul 1998 13:31:12 +0100 (BST)
+From: Janet Hales <janet@dcs.rhbnc.ac.uk>
+Message-Id: <199807091231.NAA08652@platon.cs.rhbnc.ac.uk>
+X-Authentication-Warning: platon.cs.rhbnc.ac.uk: localhost [127.0.0.1] didn't use HELO protocol
+To: colt@cs.uiuc.edu, Connectionists@cs.cmu.edu, enns-list@dcs.kcl.ac.uk,
+        neur-sci@dl.ac.uk, comp-neuro@smaug.bbb.caltech.edu,
+        neuron-request@cattell.psych.upenn.edu
+cc: janet@dcs.rhbnc.ac.uk
+Subject: Special event:COMPUTATIONAL INTELLIGENCE DAY
+Date: Thu, 09 Jul 98 13:31:12 +0100
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+Apologies for any multiple copies of this message you may have received via
+other lists.
+
+Wednesday 9 September 1998
+COMPUTATIONAL INTELLIGENCE: THE IMPORTANCE OF BEING LEARNABLE
+****************************************************************
+A one day research seminar
+
+Computer Learning Research Centre, Department of Computer Science 
+Royal Holloway, University of London, 30th anniversary year (1997-98) 
+
+The fourth of a series of one-day colloquia organised by the research
+groups in the Department. The programme includes invited lectures on key
+research topics in this rapidly developing field with the main themes of
+Machine Learning and Inductive Inference. Speakers include Jorma
+Rissanen, Ray Solomonoff, Vladimir Vapnik, Chris Wallace and Alexei
+Chervonenkis.  The occasion will also mark the foundation of the
+Computer Learning Research Centre at Royal Holloway, University of London.
+
+Speakers:
+
+Professor Jorma Rissanen, Almaden Research Center, IBM Research
+Division, San Jose, CA, U.S.A:
+STOCHASTIC COMPLEXITY (provisional title)
+
+Professor Ray Solomonoff, Oxbridge Research Inc, Cambridge, Mass, U.S.A.:
+HOW TO TEACH A MACHINE
+
+Professor Vladimir Vapnik, AT&T Labs - Research, U.S.A. and Professor of
+Computer Science and Statistics, Royal Holloway, University of London:
+LEARNING THEORY AND PROBLEMS OF STATISTICS
+
+Professor Chris Wallace, Univ of Monash, Victoria, Australia: and
+Visiting Professor in the Dept of Computer Science, Royal Holloway,
+University of London:
+BREVITY IS THE SOUL OF SCIENCE
+
+Professor Alexei Chervonenkis, Institute of Control Sciences, Moscow:
+THE HISTORY OF THE SUPPORT VECTOR METHOD
+
+Provisional Programme:
+
+10.30 am Coffee and Welcome - Alex Gammerman, Head of Department
+Morning: Theme - MACHINE LEARNING
+11.00 am Vladimir Vapnik
+11.50 am Alexei Chervonenkis
+12.40 pm Lunch
+Afternoon: Theme - INDUCTIVE INFERENCE
+2.10 pm Jorma Rissanen
+3.00 pm Chris Wallace
+3.50 pm Tea
+4.40 pm Ray Solomonoff
+5.30 pm Close
+
+All welcome - advance booking essential - for further information and to
+book a place please contact Janet Hales:
+
+Janet Hales, Departmental Events Co-ordinator
+Dept of Computer Science
+Royal Holloway
+University of London
+Tel 01784 443432
+Fax 01784 439786
+Email: J.Hales@dcs.rhbnc.ac.uk
+
+Location maps, info etc.: http://www.cs.rhbnc.ac.uk/location/
+
+Further information is also available from: 
+http://www.dcs.rhbnc.ac.uk/events/compintday.shtml

@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jan  8 13:44:22 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id NAA16772;
+	Sat, 8 Jan 2000 13:44:19 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab13812;
+          8 Jan 2000 1:06 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab13810;
+          8 Jan 2000 1:01 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04886;
+          8 Jan 2000 1:01 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa28444; 7 Jan 2000 19:05 EST
+Received: from usc.edu by ri.cmu.edu id aa24087; 7 Jan 2000 19:04 EST
+Received: from relay.usc.edu (root@relay.usc.edu [128.125.29.164])
+	by usc.edu (8.9.3.1/8.9.3/usc) with ESMTP
+	id QAA26003 for <connectionists@cs.cmu.edu>; Fri, 7 Jan 2000 16:04:29 -0800 (PST)
+Received: from bsl6.usc.edu (marbib.extern.ucsd.edu [137.110.76.9])
+	by relay.usc.edu (8.9.3.1/8.9.3/usc) with SMTP
+	id QAA01197 for <connectionists@cs.cmu.edu>; Fri, 7 Jan 2000 16:04:26 -0800 (PST)
+Message-Id: <200001080004.QAA01197@relay.usc.edu>
+X-Sender: arbib@pollux.usc.edu
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0.1 
+Date: Fri, 07 Jan 2000 16:01:06 -0800
+To: connectionists@cs.cmu.edu
+From: Michael Arbib <arbib@pollux.usc.edu>
+Subject: Faculty Position in Machine Learning
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+
+The University of Southern California (USC) Department of Computer Science
+(http://www.usc.edu/dept/cs/) invites applications for tenure-track positions
+from outstanding candidates in Machine Learning. Exceptional candidates in
+other areas of Artificial Intelligence (and Computer Science) may also be
+considered. We are particularly seeking candidates with strong collaborative
+inclinations.
+
+USC's Intelligent Systems Group comprises faculty both on the main
+campus and at USC's Information Sciences Institute (ISI). It ranks
+fourth overall in terms of AAAI Fellows and includes the current Chair
+of SIGART along with two former chairs. Research topics include
+collaborative agents, computational neuroscience, educational
+technology, knowledge acquisition, knowledge representation, learning,
+natural language processing, neural networks, ontologies, planning,
+robotics, virtual humans, and vision.  The computer science community
+at USC is similarly large and diverse, with emphases in addition to
+intelligent systems in such areas as algorithms and cryptography,
+computer architecture, databases and information management, genomics
+& DNA computing, graphics and multi-media, networking,
+neuroinformatics, and software engineering. The broader computer
+science community includes not only the Computer Science Department,
+the Computer Engineering Program and ISI but also the Integrated Media
+Systems Center (IMSC), an NSF Engineering Research Center focusing on
+computer interfaces, information management and media communications;
+and the newly created Institute for Creative Technologies that brings
+together expertise from USC's Schools of Engineering,
+Cinema-Television, and Communications (Annenberg) plus the
+entertainment industry, to develop the art and technology for
+compellingly realistic virtual experiences.
+
+If interested, please send a comprehensive resume, a list of
+references, and a statement of goals to: Paulina Tagle, Computer
+Science, USC SAL 300, Los Angeles, CA 90089-0781
+(paulina@pollux.usc.edu). USC is an Equal Opportunity/Affirmative
+Action Employer and encourages applications from women and minorities.
+
+Distributed Multimedia Information Management and Databases Committee:
+Databases and Information Management: McLeod (Chair), Boehm [?],
+Nikias
+
+Long Ad: The University of Southern California (USC) Department of
+Computer Science (http://www.usc.edu/dept/cs/) invites applications
+for tenure-track positions from outstanding candidates in Distributed
+Multimedia Information Management and Databases. This position will be
+in conjunction with the USC Integrated Media Systems Center (IMSC), an
+NSF ERC in the area of Integrated Media Systems. The applicant will be
+expected to take a major leadership role in IMSC Research and
+collaboratory projects.
+ 
+The computer science community at USC is large and diverse, with
+emphases in such areas as algorithms and cryptography, collaborative
+agents, computational neuroscience, computer architecture, databases
+and information management, educational technology, genomics & DNA
+computing, graphics and multi-media, knowledge acquisition, knowledge
+representation, learning, natural language processing, networking,
+neural networks, neuroinformatics, ontologies, planning, robotics,
+software engineering, virtual humans, and vision. The broader computer
+science community includes not only the Computer Science Department,
+the Computer Engineering Program and IMSC, but also the Information
+Sciences Institute and the newly created Institute for Creative
+Technologies that brings together expertise from USC's Schools of
+Engineering, Cinema-Television, and Communications (Annenberg) plus
+the entertainment industry, to develop the art and technology for
+compellingly realistic virtual experiences.
+
+If interested, please send a comprehensive resume, a list of
+references, and a statement of goals to: Paulina Tagle, Computer
+Science, USC SAL 300, Los Angeles, CA 90089-0781
+(paulina@pollux.usc.edu). USC is an Equal Opportunity/Affirmative
+Action Employer and encourages applications from women and minorities.

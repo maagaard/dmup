@@ -1,0 +1,59 @@
+
+
+From sales@neuro.com Thu May 22 02:47:48 EDT 1997
+Received: from relay6.UU.NET ([192.48.96.16]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id IAA07679 for <fnielsen@eivind.imm.dtu.dk>; Thu, 22 May 1997 08:47:46 +0200 (METDST)
+Received: from alterdial.UU.NET by relay6.UU.NET with ESMTP 
+	(peer crosschecked as: alterdial.UU.NET [192.48.96.22])
+	id QQcqnp00960; Wed, 21 May 1997 16:24:50 -0400 (EDT)
+Received: from 2Cust47.Max2.Ffx1.VA.ALTER.NET by alterdial.UU.NET with SMTP 
+	(peer crosschecked as: 2Cust49.Max1.Ffx1.VA.ALTER.NET [205.230.244.49])
+	id QQcqnp06557; Wed, 21 May 1997 16:24:13 -0400 (EDT)
+Received: by 2Cust47.Max2.Ffx1.VA.ALTER.NET with Microsoft Mail
+	id <01BC6603.573D4720@2Cust47.Max2.Ffx1.VA.ALTER.NET>; Wed, 21 May 1997 16:23:39 -0400
+Message-ID: <01BC6603.573D4720@2Cust47.Max2.Ffx1.VA.ALTER.NET>
+From: Renee Loustaunau <sales@neuro.com>
+To: "'antti@oliivi.pc.helsinki.fi'" <antti@oliivi.pc.helsinki.fi>,
+        "'Anu.Koistinen@messi.uku.fi'" <Anu.Koistinen@messi.uku.fi>,
+        "'c.price@fil.ion.ucl.ac.uk'" <c.price@fil.ion.ucl.ac.uk>,
+        "'fnielsen@eivind.imm.dtu.dk'" <fnielsen@eivind.imm.dtu.dk>,
+        "'hfrey@tays.fi'" <hfrey@tays.fi>,
+        "'jtkinnun@messi.uku.fi'" <jtkinnun@messi.uku.fi>
+To: "'juha.hamalainen@neuromag.fi'" <juha.hamalainen@neuromag.fi>,
+        "'kononen@messi.uku.fi'" <kononen@messi.uku.fi>,
+        "'luuk@psych.ut.ee'" <luuk@psych.ut.ee>,
+        "'minna@neuro.hut.fi'" <minna@neuro.hut.fi>,
+        "'mubarak@intouch.com'" <mubarak@intouch.com>,
+        "'neuromag@neuro.hut.fi'" <neuromag@neuro.hut.fi>
+To: "'nmorch@ei.dtu.dk'" <nmorch@eivind.imm.dtu.dk>,
+        "'service@meq.dk'"
+	 <service@meq.dk>,
+        "'stephan@neuro.hut.fi'" <stephan@neuro.hut.fi>,
+        "'tesche@neuro.hut.fi'" <tesche@neuro.hut.fi>,
+        "'tommi@neuro.hut.fi'" <tommi@neuro.hut.fi>,
+        "'ville.jantti@oulu.fi'" <ville.jantti@oulu.fi>
+Subject: Neuro Scan Workshop in Munich
+Date: Wed, 21 May 1997 16:03:06 -0400
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+
+Neuro Scan Announced Today that a New Version of the Curry Software =
+Package (3.0) for Multimodal Neuroimaging will be Released this =
+September (12-14) at their Workshop in Munich, Germany.
+
+The New Curry 3.0 Specifications can be found at the Neuro Scan Website:
+http://www.neuro.com  or contact Neuro Scan's email:  sales@neuro.com
+
+A preview of the New Curry 3.0 version will be demonstrated at the Neuro =
+Scan exhibit May 20 to 23 at the Third International Conference on =
+Functional Mapping of the Human Brain in Copenhagen, Denmark.
+
+Thank you for your continued support and interest.
+Ron Wright
+President
+Neuro Scan, Inc.
+Wright@neuro.com
+ =20
+

@@ -1,0 +1,73 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk Mon Aug 30 09:37:36 MET 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id JAA01809
+	for dspstaff-list; Mon, 30 Aug 1999 09:37:32 +0200 (METDST)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id JAA01798;
+	Mon, 30 Aug 1999 09:37:26 +0200 (METDST)
+Received: from eivind.imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id JAA21648;
+	Mon, 30 Aug 1999 09:31:05 +0200 (METDST)
+Message-ID: <37CA327A.8BFCBA80@eivind.imm.dtu.dk>
+Date: Mon, 30 Aug 1999 09:27:54 +0200
+From: Matt <mgl@eivind.imm.dtu.dk>
+X-Mailer: Mozilla 4.61 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "dspstaff@eivind.imm.dtu.dk" <dspstaff@eivind.imm.dtu.dk>,
+        "dspstud@eivind.imm.dtu.dk" <dspstud@eivind.imm.dtu.dk>
+Subject: FYI - DSP Design...
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+Thought this might be of interest to some of you DSP-types!
+
+Matt
+--
+SHARC '99
+International Conference
+November 29, - December 1, 1999
+Harfield, Hertfordshire, UK
+
+http://www.sharc99.herts.ac.uk.
+
+SHARC '99 is the first international technical conference for those who
+are
+involved in designing, developing, researching and discussing innovative
+ideas
+on applications for DSPs, particularly the Analog Devices SHARC and the 
+ADSP-21xx families.
+
+SHARC '99 will feature technical papers and poster presentations in
+addition to
+a number of 1 or 2 hour training classes, workshops and a technical
+exhibition.
+The SHARC '99 Technical Review Committee, which is comprised of
+distinguished
+members of academia and industry, will review all the proposed papers to 
+ensure excellence.
+
+Who Should Attend?
+This is a unique opportunity for DSP design engineers to meet other
+leading
+engineers and programmers from around the world. Those who will benefit
+from 
+this exciting new conference include:
+
+        DSP Software Developers
+        Communications & Network Developers
+        Instrumentation and Control System Designers
+        Consultant & System Analysts
+        Defense Electronics Manufacturers
+        Educators & Researchers
+
+For more information and registration go to the conference web site
+http://www.sharc99.herts.ac.uk

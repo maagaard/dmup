@@ -1,0 +1,71 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jun 25 05:23:31 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA07414;
+	Fri, 25 Jun 1999 05:23:25 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa26011;
+          24 Jun 99 22:14 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa26009;
+          24 Jun 99 22:00 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15554;
+          24 Jun 99 22:00 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa23879; 24 Jun 99 19:15 EDT
+Received: from finn.nervana.montana.edu by CS.CMU.EDU id aa07949;
+          24 Jun 99 19:14:58 EDT
+Received: from nervana.montana.edu (IDENT:alex@crane.nervana.montana.edu [153.90.202.30])
+	by finn.nervana.montana.edu (8.9.3/8.9.3) with ESMTP id RAA00584
+	for <connectionists@cs.cmu.edu>; Thu, 24 Jun 1999 17:14:55 -0600 (MDT)
+Sender: alex@nervana.montana.edu
+Message-ID: <3772BB13.76AF5700@nervana.montana.edu>
+Date: Thu, 24 Jun 1999 17:11:15 -0600
+From: Alexander Dimitrov <alex@nervana.montana.edu>
+Organization: Center for Computational Biology
+X-Mailer: Mozilla 4.08 [en] (X11; I; Linux 2.2.2 i686)
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: postdoctoral positions available
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Two postdoctoral positions are available immediately in the Center for
+Computational Biology at Montana State University, Bozeman, in the
+laboratories of John Miller and Gwen Jacobs. Both positions are to
+study information processing in the cercal sensory system of the
+cricket. Applicants for both positions should have experience in
+electrophysiology.
+
+The focus of the project in Miller's lab is to understand encoding of
+dynamic sensory stimuli by ensembles of nerve cells. The primary
+experimental approach will be multi-unit extracellular
+recording. Candidates should have background in the application of
+information theory to analysis of neural systems. The focus of the
+project in Dr. Jacobs' lab is to understand the physiological
+mechanisms underlying neural encoding in this system. Experimental
+approaches will include intracellular and optical recording, and
+advanced morphometric analysis of identified nerve cells. For both
+projects, analysis of the data will involve the development of
+compartmental and analytical models of identified nerve cells and
+networks.
+
+Advanced computational, microscopy and physiological recording
+facilities are available within the Center, including a 32-processor
+SGI Origin2000 computer and a Leica TSP confocal microscope. More
+information about the Center for Computational Biology can be found
+at: http://www.nervana.montana.edu
+
+Interested parties should contact John Miller or Gwen Jacobs:
+jpm@nervana.montana.edu and gwen@nervana.montana.edu
+
+
+
+-- 
+Alexander Dimitrov
+Center for Computational Biology
+Montana State University
+Bozeman, MT 59717-3505
+phone: (406)994-6494
+fax: (406)994-5122
+email: alex@nervana.montana.edu

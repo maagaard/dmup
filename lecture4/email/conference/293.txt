@@ -1,0 +1,110 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Aug 28 07:38:09 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA05450;
+	Sat, 28 Aug 1999 07:38:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac16564;
+          27 Aug 99 17:59 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ac16562;
+          27 Aug 99 17:50 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16454;
+          27 Aug 99 17:50 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13383; 27 Aug 99 17:15 EDT
+Received: from [139.182.38.1] by CS.CMU.EDU id aa05733; 27 Aug 99 17:15:00 EDT
+Received: from matrix.csci.csusb.edu.silicon.csci.csusb.edu (IDENT:georgiou@matrix.csci.csusb.edu [139.182.38.52])
+	by silicon.csci.csusb.edu (8.9.1/8.9.1) with ESMTP id OAA26889
+	for <connectionists@cs.cmu.edu>; Fri, 27 Aug 1999 14:17:24 -0700 (PDT)
+	(envelope-from georgiou@csci.csusb.edu)
+Sender: georgiou@matrix.csci.csusb.edu
+From: georgiou@csusb.edu
+To: connectionists@cs.cmu.edu
+Subject: CFP: 4th ICCIN (Feb. 27-Mar. 3, 2000)
+Date: 27 Aug 1999 14:15:54 -0700
+Message-ID: <lm4shkkjqt.fsf@matrix.csci.csusb.edu>
+Lines: 80
+Organization: CS Cal. State Univ., San Bernardino http://www.csci.csusb.edu
+Status: RO
+X-Status: 
+
+			   Call for Papers
+
+		   4th International Conference on
+
+	     COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+		   http://www.csci.csusb.edu/iccin
+
+
+      Trump Taj Mahal Casino and Resort]], Atlantic City, NJ USA
+		     February 27 -- March 3, 2000
+
+	    Summary Submission Deadline: September 1, 1999
+
+
+			Conference Co-chairs:
+
+	      Subhash C. Kak, Louisiana State University
+		Jeffrey P. Sutton, Harvard University
+
+This conference is part of the Fourth Joint Conference Information Sciences.
+		     http://www.ee.duke.edu/JCIS/
+
+***Added plenary speakers***: Marvin Minsky and Brian Josephson
+
+Plenary Speakers include the following:
+
++------------------------------------------------------------------------+
+|James Anderson   |Wolfgang Banzhaf  |B. Chandrasekaran|Lawrence J. Fogel|
+|-----------------+------------------+-----------------+-----------------|
+|Walter J. Freeman|David E. Goldberg |Irwin Goodman    |Stephen Grossberg|
+|-----------------+------------------+-----------------+-----------------|
+|Thomas S.Huang   |Janusz Kacprzyk   |A. C. Kak        |Subhash C. Kak   |
+|-----------------+------------------+-----------------+-----------------|
+|John Mordeson    |Kumpati S. Narenda|Anil Nerode      |Huang T. Nguyen  |
+|-----------------+------------------+-----------------+-----------------|
+|Jeffrey P. Sutton|Ron Yager         |                 |                 |
++------------------------------------------------------------------------+
+
+Special Sessions on Quantum Computation.  More to be added.
+
+Areas for which papers are sought include:
+
+	o Artificial Life
+	o Artificially Intelligent NNs
+	o Associative Memory
+	o Cognitive Science
+	o Computational Intelligence
+	o DNA Computing
+	o Efficiency/Robustness Comparisons
+	o Evaluationary Computation for Neural Networks
+	o Feature Extraction & Pattern Recognition
+	o Implementations (electronic, Optical, Biochips)
+	o Intelligent Control
+	o Learning and Memory
+	o Neural Network Architectures
+	o Neurocognition
+	o Neurodynamics
+	o Optimization
+	o Parallel Computer Applications
+	o Theory of Evolutionary Computation
+
+
+Summary Submission Deadline: September 1, 1999
+
+Notification of authors upon review: November 1, 1999
+
+December 1, 1999 - Deadline for invited sessions and exhibition proposals
+
+Papers will be accepted based on summaries. A summary shall not exceed 4 pages
+of 10-point font, double-column, single-spaced text, with figures and tables
+included.
+
+For the Fourth ICCIN, send 3 copies of summaries to:
+
+George M. Georgiou
+Computer Science Department
+California State University
+San Bernardino, CA 92407-2397
+U.S.A.
+georgiou@csci.csusb.edu
+

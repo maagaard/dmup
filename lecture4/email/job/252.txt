@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Dec 18 06:58:45 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA17906;
+	Sat, 18 Dec 1999 06:58:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21508;
+          17 Dec 99 16:43 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21506;
+          17 Dec 99 16:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03637;
+          17 Dec 99 16:35 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab19598; 17 Dec 99 9:19 EST
+Received: from cheviot1.ncl.ac.uk by ri.cmu.edu id aa17757; 17 Dec 99 9:18 EST
+Received: from ncl.ac.uk (spanzeri1.ncl.ac.uk [128.240.78.160])
+	by cheviot1.ncl.ac.uk (8.9.3/8.9.3) with ESMTP id OAA10532;
+	Fri, 17 Dec 1999 14:18:48 GMT
+Message-ID: <385A4757.333556D8@ncl.ac.uk>
+Date: Fri, 17 Dec 1999 14:23:19 +0000
+From: Stefano Panzeri <stefano.panzeri@ncl.ac.uk>
+Organization: University of Newcastle upon Tyne
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu, Malcolm Young <m.p.young@ncl.ac.uk>,
+        cneuro@bbb.caltech.edu
+Subject: postdoctoral position in computational vision
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by cheviot1.ncl.ac.uk id OAA10532
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id GAA17906
+Status: RO
+X-Status: 
+
+Post-doctoral position in computational vision at the Neural Systems
+Group, Department of Psychology, University of Newcastle upon Tyne, UK
+http://www.psychology.ncl.ac.uk/neural_systems_group.html
+
+Applications are invited for a post-doctoral scientist position (up to
+£30,626, depending on experience) for a research in computational
+neuroscience. The post is funded for 3 years in a first instance by an
+EU programme aimed at using concurrent psychophysics, computational
+models and neurophysiology to investigate mechanisms in visual neurons
+during natural image processing.
+Research topics for the computational neuroscience position will
+include: computational models of  properties of visual neurons when they
+are stimulated with natural images; computational models of the role of
+prior knowledge of the statistics of the natural visual environment in
+visual perception;
+quantitative analysis of the response properties of visual neurons
+responding to natural images; developing new computational approaches
+for data in structure-function relationships (in particular relating
+connectivity, activation and information dynamics in the
+thalamo-cortical network).
+
+Applicants should possess a PhD in a relevant discipline (i.e.
+neuroscience, physics, computing, applied mathematics, engineering or
+others), a strong analytical background and a keen interest in vision.
+Experience and skills either in neural networks, information theory,
+visual psychophysics, visual neuroscience or computer image processing
+will be a great advantage.
+
+ Departmental facilities for this work are excellent, and the research
+group has recently won more than $14M for the continuing improvement of
+its infrastructure.
+
+ Please contact the Departmental Administrator for further details, at
+the Neural Systems Group, Department of Psychology, Ridley Building,
+Claremont Place, Newcastle upon Tyne, NE1 7RU. Tel: +44-191-222-7525,
+Fax: +44-191-222-5622. E-mail: m.p.young@ncl.ac.uk
+
+
+
+
+-
+

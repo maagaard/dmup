@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Dec 23 03:06:07 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA07545;
+	Wed, 23 Dec 1998 03:06:02 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16309;
+          22 Dec 98 18:29 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16307;
+          22 Dec 98 18:24 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02045;
+          22 Dec 98 18:24 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa18435; 22 Dec 98 14:24 EST
+Received: from rumor.research.att.com by CS.CMU.EDU id aa14026;
+          22 Dec 98 14:24:10 EST
+Received: from research.att.com ([135.207.30.100]) by rumor; Tue Dec 22 14:17:05 EST 1998
+Received: from hermes.research.att.com ([135.207.16.38]) by research; Tue Dec 22 14:22:58 EST 1998
+Received: from octavia.research.att.com (octavia [135.207.17.68])
+	by hermes.research.att.com (8.8.7/8.8.7) with ESMTP id OAA04154;
+	Tue, 22 Dec 1998 14:22:58 -0500 (EST)
+Received: (from lsaul@localhost)
+          by octavia.research.att.com (8.8.5/8.8.4)
+	  id OAA14076; Tue, 22 Dec 1998 14:22:55 -0500 (EST)
+Date: Tue, 22 Dec 1998 14:22:55 -0500 (EST)
+Message-Id: <199812221922.OAA14076@octavia.research.att.com>
+From: "Lawrence K. Saul" <lsaul@research.att.com>
+To: connectionists@cs.cmu.edu
+Subject: preprints available
+Cc: lsaul@research.att.com
+Status: RO
+X-Status: 
+
+
+The following preprints are available at http://www.research.att.com/~lsaul.
+
+==============================================================================
+
+         ATTRACTOR DYNAMICS IN FEEDFORWARD NEURAL NETWORKS
+   
+                   L. Saul and M. Jordan
+
+We study the probabilistic generative models parameterized by
+feedforward neural networks.  An attractor dynamics for probabilistic
+inference in these models is derived from a mean field approximation
+for large, layered sigmoidal networks.  Fixed points of the dynamics
+correspond to solutions of the mean field equations, which relate the
+statistics of each unit to those of its Markov blanket.  We establish
+global convergence of the dynamics by providing a Lyapunov function
+and show that the dynamics generate the signals required for
+unsupervised learning.  Our results for feedforward networks provide a
+counterpart to those of Cohen-Grossberg and Hopfield for symmetric
+networks.
+
+==============================================================================
+
+   MARKOV PROCESSES ON CURVES FOR AUTOMATIC SPEECH RECOGNITION
+
+                    L. Saul and M. Rahim
+
+We investigate a probabilistic framework for automatic speech
+recognition based on the intrinsic geometric properties of curves.  In
+particular, we analyze the setting in which two variables---one
+continuous (X), one discrete (S)---evolve jointly in time.  We suppose
+that the vector X traces out a smooth multidimensional curve and that
+the variable S evolves stochastically as a function of the arc length
+traversed along this curve.  Since arc length does not depend on the
+rate at which a curve is traversed, this gives rise to a family of
+Markov processes whose predictions, Pr[S|X], are invariant to
+nonlinear warpings of time.  We describe the use of such models, known
+as Markov processes on curves (MPCs), for automatic speech
+recognition, where X are acoustic feature trajectories and S are
+phonetic transcriptions.  On two tasks---recognizing New Jersey town
+names and connected alpha-digits---we find that MPCs yield lower word
+error rates than comparably trained hidden Markov models.
+
+==============================================================================

@@ -1,0 +1,127 @@
+
+
+From bartz@gris.uni-tuebingen.de Thu Aug 26 01:39:20 MET 1999
+Received: from mx02.uni-tuebingen.de (mx02.uni-tuebingen.de [134.2.3.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id BAA07154
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 26 Aug 1999 01:39:18 +0200 (METDST)
+Received: from cezanne (cezanne.gris.uni-tuebingen.de [134.2.176.54])
+	by mx02.uni-tuebingen.de (8.8.8/8.8.8) with SMTP id BAA02126
+	for <@mx02.uni-tuebingen.de:fnielsen@eivind.imm.dtu.dk>; Thu, 26 Aug 1999 01:33:10 +0200
+Received: from gris.uni-tuebingen.de by cezanne via ESMTP (940816.SGI.8.6.9/930416.SGI)
+	for <@cezanne:fnielsen@eivind.imm.dtu.dk> id BAA27237; Thu, 26 Aug 1999 01:33:06 +0200
+Received: (from bartz@localhost) by gris.uni-tuebingen.de (980427.SGI.8.8.8/980728.SGI.AUTOCF) id BAA39579 for fnielsen@eivind.imm.dtu.dk; Thu, 26 Aug 1999 01:33:05 +0200 (CEST)
+Date: Thu, 26 Aug 1999 01:33:05 +0200 (CEST)
+From: bartz@gris.uni-tuebingen.de (Dirk Bartz)
+Message-Id: <199908252333.BAA39579@gris.uni-tuebingen.de>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: IEEE Vis'99 registration open
+Status: RO
+X-Status: 
+
+=======================================================================
+
+First    C A L L   F O R   R E G I S T R A T I O N
+
+
+
+
+                Vis99 IEEE Visualization 1999
+                     Celebrating Ten Years
+                    Call for Participation
+                 October 24 - October 29, 1999
+                  San Francisco Airport Hyatt
+                   San Francisco, California
+
+                http://www.erc.msstate.edu/vis99
+            http://davinci.informatik.uni-kl.de/vis99/
+
+    THE INSTITUTE OF ELECTRICAL & ELECTRONICS ENGINEERS, INC.
+
+                     IEEE COMPUTER SOCIETY
+
+                        Sponsored by the
+IEEE Computer Society Technical Committee on Visualization and Graphics 
+                 In Cooperation with ACM/SIGGRAPH
+
+
+
+WELCOME TO IEEE VISUALIZATION '99
+
+Welcome to the 10th annual IEEE Visualization conference! Please join
+us in our celebration of 10 years of leading edge research in
+scientific visualization by returning to the city where we started,
+San Francisco, California. In the past decade the field of scientific
+visualization and the IEEE visualization conference have grown in both
+size and sophistication. Reflecting this growth, our keynote talk will
+describe a series of workshops by the leaders in the scientific
+visualization field, resulting in "Data and Visualization Corridors".
+This talk will lay out some of the greatest problems facing our field
+today and strategies for their solution. Our capstone speaker, Rick
+Stevens, looks into the future with a presentation of "ActiveSpaces:
+The Access Grid, ActiveMural and Advanced Visualization
+Systems". Between these two talks you will find reports on the state
+of the art in data visualization, including new research, case studies
+and vociferous and opinionated panels. You will also be able to see
+and try the new technologies close up in the demonstration area and
+the Creative Applications Lab (CAL).
+
+Preceding the main conference on Wednesday through Friday are the
+Sunday through Tuesday sessions. In these sessions you will find
+several tutorials by leaders in the field, providing you with an
+opportunity for learning the background of their research, as well as
+studying their new work in depth. You will also find two symposia, the
+symposium on information visualization, where techniques for the
+visualization of abstract information will be studied, and the
+symposium on parallel visualization and graphics, where you will see
+new work in the application of parallel computer systems to our field.
+
+Our 10th conference celebration will be loudest at the Wednesday night
+banquet, where we will have special entertainment as well as
+recognition of those who started the visualization conference and
+nurtured it to its current success.
+
+Please join us in San Francisco, California October 24 through 29, to
+make this celebration memorable at the 10th visualization conference!
+
+Steve Bryson, NASA Ames Research Center
+Theresa-Marie Rhyne, Lockheed Martin/U.S., 
+   EPA Scientific Visualization Center 
+IEEE Visualization '99 Conference Co-Chairs
+
+Please check the web pages at 
+http://WWW.ERC.MsState.Edu/conferences/vis99/advanceprogram/registration.htm
+or
+http://davinci.informatik.uni-kl.de/vis99/advanceprogram/registration.htm
+for details on registration.
+
+
+
+Sunday / Monday / Tuesday Registration
+
+You may attend any tutorial or symposium on the day(s)
+registered. Registration includes Parallel Visualization and Graphics
+proceedings, Information Visualization proceedings, Monday reception,
+Wednesday Keynote, Wednesday-Thursday demonstrations, the conference
+videotape, and CD. All tutorial, symposia, and conference proceedings
+and notes are on the Vis99 CD.
+
+			Early Registration   Late/Onsite Registration
+			(received by Oct. 1)     (Oct. 2 or later)
+			1-day  2-day  3-day    1-day   2-day   3-day
+IEEE/ACM member		$260  $370   $480      $310    $440    $570
+Nonmember		$335  $470   $605      $390    $560    $730
+Full-time student	$165  $215   $265      $200    $250    $300
+
+Conference Registration
+
+Includes technical sessions for Wednesday, Thursday, and Friday, Vis99
+Conference proceedings, Wednesday reception, Wednesday Keynote, Friday
+Capstone, Wednesday-Thursday demonstrations, and the conference
+videotape and CD. All tutorial, symposia, and conference proceedings
+and notes are on the Vis99 CD.
+
+			Early Registration  Late/Onsite Registration
+			(received by Oct. 1)     (Oct. 2 or later)
+IEEE/ACM member		$350                   $450
+Nonmember		$450                   $550
+Full-time student	$195                   $250

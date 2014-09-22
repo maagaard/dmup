@@ -1,0 +1,92 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Aug 27 01:27:12 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA19976;
+	Fri, 27 Aug 1999 01:27:04 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13719;
+          26 Aug 99 17:49 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13717;
+          26 Aug 99 17:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14824;
+          26 Aug 99 17:36 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa10185; 26 Aug 99 12:24 EDT
+Received: from iraun1.ira.uka.de by RI.CMU.EDU id aa22195;
+          26 Aug 99 12:24:08 EDT
+Received: from i11s5.ira.uka.de [129.13.33.5] by iraun1 with SMTP (PP) local;
+          Thu, 26 Aug 1999 18:23:52 +0200
+Received: from ira.uka.de by i11s5.ira.uka.de id <12849-0@i11s5.ira.uka.de>;
+          Thu, 26 Aug 1999 18:23:49 +0200
+Date: Thu, 26 Aug 99 18:23:48 EDT
+From: Martin Riedmiller <riedml@ira.uka.de>
+Sender: Martin Riedmiller <riedml@ira.uka.de>
+To: connectionists@cs.cmu.edu
+Subject: Job announcement: University of Karlsruhe
+Message-ID: <"i11s5.ira..851:26.08.99.16.23.51"@ira.uka.de>
+Status: RO
+X-Status: 
+
+
+The following announces a job opportunity for a postdoc or a PhD
+candidate at the University of Karlsruhe, Germany. Since we are
+looking for a German speaking applicant, a German version is attached.
+
+The University of Karlsruhe, Computer Science Department, is looking
+for a (post-doc) research assistant in the domain
+
+Computability and Complexity
+Theory of adaptive Systems
+(Prof.\ W.\ Menzel)
+
+The salary is BAT II a.
+We are looking for a highly qualified mathematician or computer scientist
+with experience in at least one of the following domains:
+
+- Computability and Complexity
+- Theory of adaptive Systems
+- Probability Theory
+
+Please send your application to 
+Prof. Dr. W. Menzel
+Institut f\"ur Logik, Komplexit\"at
+und Deduktionssysteme
+Universit\"at Karlsruhe
+76128 Karlsruhe
+
+-------------------------
+
+An der Fakult\"at Informatik, Universit\"at Karlsruhe, ist im Bereich
+
+Berechenbarkeit und Komplexit\"at,\\
+Theorie adaptiver Systeme\\
+(Prof.\ W.\ Menzel)
+
+eine Stelle BAT IIa eines wissenschaftlichen Mitarbeiters/einer
+wissenschaftlichen
+Mitarbeiterin zu besetzen. Bewerber/Bewerberinnen sollten einen sehr
+guten
+Hochschulabschlu\ss{} in Informatik oder in Mathematik mit starkem
+Informatikbezug
+besitzen. Vorteilhaft sind vertiefte Kenntnisse in mindestens einem der
+Gebiete
+
+- Berechenbarkeit/Komplexit\"at
+- Adaptive Systeme, wie etwa neuronale Netze, Support Vector
+Machines, Evolution\"are Algorithmen
+- Stochastik.
+
+F\"ur promovierte Bewerber/Bewerberinnen besteht die M\"oglichkeit einer
+Einstellung
+als wissenschaftliche(r) Assistent(in) (C1). Ansonsten ist die
+M\"oglichkeit
+zur Promotion gegeben.
+
+Bitte richten Sie Ihre Bewerbung an
+
+Prof. Dr. W. Menzel
+Institut f\"ur Logik, Komplexit\"at
+und Deduktionssysteme
+Universit\"at Karlsruhe
+76128 Karlsruhe
+
+

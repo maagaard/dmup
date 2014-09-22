@@ -1,0 +1,101 @@
+
+
+From spm-request@mailbase.ac.uk Fri Sep 24 11:44:00 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id LAA29202
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 24 Sep 1999 11:43:59 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id KAA19177;
+	Fri, 24 Sep 1999 10:35:26 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id KAA03443;
+        Fri, 24 Sep 1999 10:30:20 +0100 (BST)
+Received: from holyrood.ed.ac.uk (root@holyrood.ed.ac.uk [129.215.166.17]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id KAA03436;
+        Fri, 24 Sep 1999 10:30:16 +0100 (BST)
+Received: from oransay.bmu.mrc.ac.uk (oronsay.bmu.mrc.ac.uk [129.215.161.62])
+	by holyrood.ed.ac.uk (8.8.7/8.8.7) with SMTP id KAA09730;
+	Fri, 24 Sep 1999 10:30:15 +0100 (BST)
+Message-Id: <199909240930.KAA09730@holyrood.ed.ac.uk>
+Date: Fri, 24 Sep 1999 10:31:30 +0100 (BST)
+Reply-To: Klaus Ebmeier <kpe56@holyrood.ed.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/plain; charset=us-ascii
+Content-MD5: uotJe8MlubEQqf9HRZl2GA==
+X-Mailer: dtmail 1.2.1 CDE Version 1.2.1 SunOS 5.6 sun4u sparc 
+Subject: RE: conditions and covariates
+From: Klaus Ebmeier <kpe56@holyrood.ed.ac.uk>
+To: spm@mailbase.ac.uk
+Cc: karl@cream.fil.ion.ucl.ac.uk, SGRANT@intra.nida.nih.gov,
+        GlabusM@intra.nimh.nih.gov
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+> There's great interest here in the on- and -off line discussions regarding 
+> interaction analysis. 
+> To extract the information we are actually interested in  (changes in 
+> perfusion with changes in psychometric variable) we'd do this:
+> 
+> 1. mean adjust and sign change the difference BFS score (I'm not sure why 
+> we'd divide by two, scaling effect?)
+
+The method Karl suggested was like this:
+"The confusion is resolved by not modelling
+condition effects and simply using the VF as a single covariate of
+interest.  This will identify regions where the activity is predicted
+by VF and implicitly regions where changes in activity correlate with
+changes in VF (my emphasis).  Your parameter estimates will be more
+interpretable if you remove subject effects from the VF score (by removing the
+mean VF score for each subject).Previously you were modelling a condition
+effect which probably accounted for the differences you were interested in.
+Make sure that you model subject effects in you new model."
+
+
+Steven did this:
+
+1. mean adjust and sign change the difference psychometric score
+
+If you have only one group, the mean-adjustment (within condition and across all 
+subjects) consists of dividing by a constant (group mean), as does dividing by 
+two.  I think this is unneccessary, as it would come out in the wash. If you do 
+this, the differences actually have the same absolute value but opposite signs 
+within each subject.  Steven then reverses the sign in all second scans, 
+presumably ending up with identical (same sign) values for each subject.
+
+2. select a "multi-subject, condition & covariates" design.
+
+3. seek [-1] and [1] correlations for contrasts.
+
+I think this contrast is required because the programme does not expect the 
+covariates for different conditions to have opposite signs, it expects identical 
+values.  The confusion probably arose, because previously we were modelling 
+condition specific fits by adding another covariate of interest, such as -1 1-1 
+1-1 1-1 etc., or in fact multiplied this vector with the absolute difference. In 
+other words, if you put in the covariate (difference) as absolute values, the 
+contrasts -1-1 and 11 give you the significance that correlations in both 
+conditions together are < or > 0.  If you put in -1 1 or 1 -1, you get the test 
+that correlations in both conditions are different from each other.  If you 
+enter the covariate with opposite signs (as you would if you enter condition1 - 
+condition2 for the first condition and condition2 - condition1 for the second 
+condition) you have to reverse signs as above in order to get the same 
+interpretation of contrasts.
+
+I believe that Steve's method is correct as well, as he looks at the interaction 
+between condition and differenceas a covariate, which should be equivalent to 
+regressing the difference scan scores on difference psychometric scores.
+
+As far as replications and conditions is concerned, I have the hunch that the 
+former does not explicitly model the repeat measures effect, in the sense that 
+you cannot call up a contrast between replications.  As far as the treatment of 
+the covariate is concerned, there may be no difference between the two designs.
+
+I wonder whether Karl can add his authoritative judgement on this?
+
+Klaus
+

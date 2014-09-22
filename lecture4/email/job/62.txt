@@ -1,0 +1,87 @@
+
+
+From spm-request@mailbase.ac.uk  Mon Feb  8 18:55:40 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id SAA08652
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 8 Feb 1999 18:55:38 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id RAA18188;
+	Mon, 8 Feb 1999 17:57:16 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id RAA26294;
+        Mon, 8 Feb 1999 17:55:05 GMT
+Received: from freya.let.rug.nl (freya.let.rug.nl [129.125.8.12]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id RAA26284;
+        Mon, 8 Feb 1999 17:55:02 GMT
+Received: from let1.let.rug.nl (let1.let.rug.nl [129.125.8.99])
+	by freya.let.rug.nl (8.8.7/8.8.7) with ESMTP id SAA22809;
+	Mon, 8 Feb 1999 18:54:32 +0100 (MET)
+Received: from LET1/SpoolDir by let1.let.rug.nl (Mercury 1.45);
+    8 Feb 99 18:54:33 +0100
+Received: from SpoolDir by LET1 (Mercury 1.45); 8 Feb 99 18:54:07 +0100
+Organization: Faculteit der Letteren, RuG, NL
+Date: Mon, 8 Feb 1999 18:54:00 +0200
+MIME-Version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+Priority: normal
+X-mailer: Pegasus Mail for Windows (v2.53/R1)
+Message-ID: <8B2734796C@let1.let.rug.nl>
+Subject: post-doc positions available
+From: "L.A. Stowe" <L.A.Stowe@let.rug.nl>
+To: spm@mailbase.ac.uk, INFO-PSYLING <psyling@psy.gla.ac.uk>,
+        Cognitive.Neuroscience.Society@dartmouth.edu (Cognitive Neuroscience Society)
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "L.A. Stowe" <L.A.Stowe@let.rug.nl>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7BIT
+Status: RO
+X-Status: 
+
+POST-DOC POSITIONS AVAILABLE
+
+School of Behavioral and Cognitive Neurosciences
+University of Groningen
+
+Within the School of Behavioral and Cognitive Neurosciences (BCN) of 
+the University of Groningen two post-doc positions  are available. 
+The successfull applicants will work in the project "Neuroimaging of 
+Cognition and Emotion" (supervisor Prof. Dr. K.L. Leenders). In 
+general, the aim of the project is to apply neuroimaging methods 
+(PET, fMRI, multichannel EEG) to test cognitive functional models and 
+to gain knowledge about the relationship between brain function and 
+neurophysiology.
+
+In particular, the first post-doc will do research on cortical reorganizations 
+resulting from automation in working memory tasks. This researcher 
+will be appointed within the Dept. of Experimental Psychology. The 
+research of the other post-doc will concern working memory 
+functioning in language processing in familial dyslexia. This 
+investigator will be appointed with the Dept. of Linguistics. The 
+researchers will work together and with other researchers of the 
+project and the BCN.
+
+REQUIREMENTS
+Candidates should have a doctoral degree (Ph.D. or equivalent) in Experimental 
+Psychology, Linguistics, Neurology or Neuroanatomy with an interest 
+in fundamental research. Experience with neuroimaging and/or 
+psychophysiological research is advantage. Both positions are for 2 
+years and are available to start immediately.
+
+INFORMATION
+For further information or to apply for these positions, please contact 
+Dr. A.A. Wijers (a.a.wijers@ppsw.rug.nl) or Dr. L.A. Stowe 
+(l.a.stowe@let.rug.nl).
+
+
+Laurie A. Stowe                             Postbus 716
+Dept. of Linguistics                        9700 AS  Goningen
+Faculty of Letters RuG                      The Netherlands
+
+tel:  +31 50 363 6627
+fax:  +31 50 363 6855
+email:  L.A.Stowe@let.rug.nl

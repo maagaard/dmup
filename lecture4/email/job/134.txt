@@ -1,0 +1,83 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jun 19 23:51:09 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id XAA16187;
+	Sat, 19 Jun 1999 23:51:02 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14527;
+          19 Jun 99 10:59 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14525;
+          19 Jun 99 10:51 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08540;
+          19 Jun 99 10:51 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17356; 19 Jun 99 10:16 EDT
+Received: from pp3.shef.ac.uk by EDRC.CMU.EDU id aa15610; 19 Jun 99 10:15:32 EDT
+Received: from gold.shef.ac.uk ([143.167.2.5])
+	by pp3.shef.ac.uk with esmtp (Exim 2.02 #2)
+	id 10vLu3-00074e-00; Sat, 19 Jun 1999 15:15:27 +0100
+Received: from [143.167.203.130] (helo=[143.167.203.130])
+	by gold.shef.ac.uk with esmtp (Exim 2.01 #1)
+	id 10vLu2-0005iR-00; Sat, 19 Jun 1999 15:15:26 +0100
+X-Sender: pc1jvs@gold.shef.ac.uk (Unverified)
+Message-Id: <l03130308b3915755b39f@[143.167.203.130]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sat, 19 Jun 1999 15:19:30 +0100
+To: connectionists@cs.cmu.edu
+From: Jim Stone <j.v.stone@sheffield.ac.uk>
+Subject: Research Assistant
+Cc: Jim Stone <j.v.stone@sheffield.ac.uk>
+Status: RO
+X-Status: 
+
+-----------------------------------------------------------------------
+Research Assistant in Functional Decomposition and Analysis of Brain Activity
+------------------------------------------------------------------------
+
+DEPARTMENT OF PSYCHOLOGY, UNIVERSITY OF SHEFFIELD, UK.
+
+Applications are invited for a research assistant, to commence before
+October 1st 1999 (the contract will end on May 31st 2002).
+
+The successful candidate should have a solid theoretical background from a
+numerate discipline (e.g. mathematics, control engineering). We would also
+consider candidates from other backgrounds with experience of image
+analysis/signal processing.  Post-doctoral candidates are preferred, but
+graduates with appropriate skills will also be
+considered.
+
+The research assistant will work with Dr John Porrill and Dr Jim Stone,
+developing and applying novel techniques for analysis of brain activity
+using data obtained from fMRI,
+optical imaging and EEG. The candidate will also have the opportunity to
+design and run
+fMRI/EEG experiments.
+
+This research is funded as one component of a co-operative MRC award,
+and will involve collaboration with other groups working on fMRI and
+optical imaging techniques.  The salary is up to 21,815 pounds (RA1A
+scale, point 11) according to experience.
+
+This interdisciplinary project is shared between the Departments of
+Psychology and Clinical Neurology. The project is based in the
+Department of Psychology, which is one of the leading research centres
+for psychology in the UK, and has a rapidly expanding research base in
+imaging technologies. This is reflected in the top ratings (currently
+Grade 5A) achieved by the department in all four national research
+assessment exercises.
+
+Applicants should send a CV and a brief statement of research
+interests by regular mail or email to be sent to:
+
+Dr JV Stone, Psychology Department, Sheffield University, Sheffield, S10
+2TP, UK.
+
+Informal enquiries can be made via email to:
+          {j.porrill}{j.v.stone}@Sheffield.ac.uk
+
+Recent papers relevant to this project can be obtained from:
+          http://www.shef.ac.uk/~pc1jvs/
+
+-----------------------------------------------------------------------
+
+

@@ -1,0 +1,80 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jun 15 03:28:51 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA12111;
+	Tue, 15 Jun 1999 03:28:27 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa03161;
+          14 Jun 99 19:04 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa03158;
+          14 Jun 99 18:51 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02105;
+          14 Jun 99 18:50 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13682; 14 Jun 99 17:54 EDT
+Received: from joule.physics.uottawa.ca by CS.CMU.EDU id aa21576;
+          14 Jun 99 17:53:12 EDT
+Received: from miro.physics.uottawa.ca.physics.uottawa.ca (miro.physics.uottawa.ca [137.122.32.91])
+	by joule.physics.uottawa.ca (8.9.2/8.9.2) with SMTP id RAA24920;
+	Mon, 14 Jun 1999 17:41:40 -0400
+Received: by miro.physics.uottawa.ca.physics.uottawa.ca (4.1/SMI-4.1)
+	id AA16516; Mon, 14 Jun 99 17:23:36 EDT
+Date: Mon, 14 Jun 99 17:23:36 EDT
+From: Andre Longtin <andre@physics.uottawa.ca>
+Message-Id: <9906142123.AA16516@miro.physics.uottawa.ca.physics.uottawa.ca>
+To: andre@physics.uottawa.ca
+Subject: postdoctoral position
+X-UIDL: c9981b74b0d19add07164b225d8c8c5f
+Status: RO
+X-Status: 
+
+POSTDOCTORAL POSITION IN NEURONAL MODELING/NONLINEAR DYNAMICS
+
+The Physics Department of the University of Ottawa
+has an immediate opening for a postdoctoral position 
+in Neuronal Modeling and Nonlinear Dynamics. The 
+research will focus mainly on the role of feedback 
+in sensory systems, with an emphasis on electrosensory 
+systems. The position is for one year, renewable one year. 
+Applications will be accepted until the position is filled. 
+Candidates must be within the first four years of their doctoral
+degree.  
+
+Candidates must have demonstrated excellence in research,  
+and possess a strong background in neuronal modeling and  
+nonlinear dynamics; those whose training is more slanted 
+towards either of these areas will also be considered. 
+Candidates wishing to carry out a blend of experimental 
+work and modeling/computational studies are strongly 
+encouraged to apply; experiments would be carried out 
+in Prof. Len Maler's laboratory in the Faculty of Medicine 
+at the University of Ottawa. The salary of $31,000 CAN 
+per year conforms with current NSERC guidelines; 
+additional support for moving and conference travel 
+is also available. A second similar postdoctoral position 
+will become available with a starting date around January 2001. 
+
+The National Capital Region of Canada, with a population around 
+one million, is the home of the Federal Government, the National 
+Research Council, and many other governmental research laboratories. 
+Also known as Silicon Valley North, the region has a very 
+high concentration of high-tech companies. Its National Art 
+Center, Rideau Canal, museums, cafes, numerous cultural festivals, 
+and its close proximity to hiking, swimming, canoeing and skiing 
+areas make Ottawa a most enjoyable place to live in. 
+ 
+Applicants should send a CV and a brief statement 
+of research interests by regular mail or email 
+(postdoc99@miro.physics.uottawa.ca), and arrange 
+for a minimum of two letters of recommendation to 
+be sent to:
+
+Prof. Andre Longtin
+Physics Department
+University of Ottawa
+150 Louis Pasteur
+Ottawa, Ont.
+Canada 
+K1N 6N5
+tel: 613-562-5800 ext.6762
+fax: 613-562-5190
+

@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Dec  5 00:14:55 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA03282;
+	Sat, 5 Dec 1998 00:14:41 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa11078;
+          4 Dec 98 13:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa11076;
+          4 Dec 98 12:52 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05087;
+          4 Dec 98 12:52 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa09234; 4 Dec 98 9:34 EST
+Received: from oxmail4.ox.ac.uk by RI.CMU.EDU id aa12368; 4 Dec 98 9:33:39 EST
+Received: from cogsci1.psych.ox.ac.uk ([163.1.209.141] ident=root)
+	by oxmail.ox.ac.uk with esmtp (Exim 2.05 #1)
+	id 0zlwI9-00010T-00
+	for connectionists@cs.cmu.edu; Fri, 4 Dec 1998 14:33:09 +0000
+Received: from pegasus.psych.ox.ac.uk (pegasus.psych.ox.ac.uk [163.1.209.126]) by cogsci1.psych.ox.ac.uk (8.8.8/8.7.3) with ESMTP id OAA11886 for <connectionists@cs.cmu.edu>; Fri, 4 Dec 1998 14:33:09 GMT
+From: Kim Plunkett <Kim.Plunkett@psy.ox.ac.uk>
+Received: (from plunkett@localhost) by pegasus.psych.ox.ac.uk (8.8.8/8.7.3) id OAA21282 for connectionists@cs.cmu.edu; Fri, 4 Dec 1998 14:33:08 GMT
+Date: Fri, 4 Dec 1998 14:33:08 GMT
+Message-Id: <199812041433.OAA21282@pegasus.psych.ox.ac.uk>
+To: connectionists@CS.cmu.edu
+Status: RO
+X-Status: 
+
+UNIVERSITY OF OXFORD
+
+OXFORD SUMMER SCHOOL ON CONNECTIONIST MODELLING
+
+Department of Experimental Psychology
+University of Oxford
+
+18th - 30th July 1999
+
+
+Applications are invited for participation in a 2-week residential
+Summer School on techniques in connectionist modelling.  The course is
+aimed primarily at researchers who wish to exploit neural network
+models in their teaching and/or research and it will provide a general
+introduction to connectionist modelling, biologically plausible neural
+networks and brain function through lectures and exercises on
+Macintosh's and PC's.  The course  is interdisciplinary in content
+though many of the illustrative examples are taken from cognitive and
+developmental psychology, and cognitive neuroscience.  The instructors
+with primary responsibility for teaching the course are Kim Plunkett
+and Edmund Rolls.
+
+No prior knowledge of computational modelling will be required though
+simple word processing skills will be assumed.  Participants will be
+encouraged to start work on their own modelling projects during the
+Summer School.
+
+The cost of participation in the Summer School is stlg950. This figure
+covers the cost of accommodation (bed and breakfast at St. John's
+College), registration and all literature required for the Summer
+School.  Participants will be expected to cover their own travel and
+meal costs.  A number of partial bursaries will be available for
+graduate students.  Applicants should indicate whether they wish to be
+considered for a graduate student scholarship but are advised to seek
+further funding as well, since in previous years the number of
+graduate student applications has far exceeded the number of
+scholarships available.
+
+There is a Summer School World Wide Web page describing the contents
+of the 1999 Summer School available on: 
+http://www-cogsci.psych.ox.ac.uk/summer-school/ Further information
+about contents of the course can be obtained from
+Steven.Young@psy.ox.ac.uk
+
+If you are interested in participating in the Summer School, please
+contact:
+
+Mrs Sue King
+Department of Experimental Psychology
+University of Oxford 
+South Parks Road
+Oxford OX1 3UD
+
+Tel:  (01865) 271353
+Email:  susan.king@psy.oxford.ac.uk
+
+Please send a brief description of your background with an explanation
+of why you would like to attend the Summer School (one page maximum)
+no later than 31st January 1999.

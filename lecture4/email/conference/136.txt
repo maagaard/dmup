@@ -1,0 +1,93 @@
+
+
+From ebert@cs.umbc.edu  Fri Aug  7 15:47:58 1998
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id PAA18141
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 7 Aug 1998 15:47:53 +0200 (METDST)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.8/8.8.6) with ESMTP id JAA13927
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 7 Aug 1998 09:48:07 -0400 (EDT)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.8/8.8.6) id JAA15455
+	for fnielsen@eivind.imm.dtu.dk; Fri, 7 Aug 1998 09:48:07 -0400 (EDT)
+Date: Fri, 7 Aug 1998 09:48:07 -0400 (EDT)
+Message-Id: <199808071348.JAA15455@dogbert.cs.umbc.edu>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: CFP: CIKM'98 New Paradigms in Information Visualization and
+    Manipulation Workshop
+Status: RO
+X-Status: 
+
+			   Call for Papers
+
+Workshop on New Paradigms in Information Visualization and Manipulation
+
+		November 5-6, 1998 Bethesda, Maryland
+
+ In Conjunction with the ACM Conference on Information and Knowledge
+			 Management (CIKM'98)
+
+The CIKM'98 Workshop on New Paradigms in Information Visualization and
+Manipulation will be a forum for presentation and discussion of new
+ideas and techniques for accessing, visualizing and manipulating
+information. Topics of interest include, but are not restricted to:
+
+   applications of virtual reality, including VRML; 
+   shared virtual environments and simulations; 
+   dynamic data visualization; 
+   visualization of multidimensional information spaces; 
+   visualization of large, dynamic information collections; 
+   applications of Internet tools such as MUDs, MOOs, and IRCs; 
+   document and corpus metrics; 
+   multi-modal information displays; 
+   visual data mining and knowledge discovery; 
+   Web or network-based visualization; 
+   applications in document analysis 
+   software and hardware architectures to support information visualization;
+   and social interaction in multi-user information visualization systems. 
+
+We are particularly interested in reports of work in progress,
+implementation techniques, and practical experience with visualization
+of information collections of all sizes. A significant portion of the
+workshop agenda will be devoted to discussion of pending research
+questions, and directions for future work in this area.
+
+Prospective participants are invited (but not required) to submit
+position papers. The suggested maximum length is four pages. The
+position papers will be reviewed by the organizing committee, and
+accepted papers will appear in the workshop proceedings. Some of the
+accepted papers will be selected for informal presentation at the
+workshop. Accepted papers that were submitted electronically will be
+available via WWW by early November.
+
+Final Proceedings will be published by ACM Press after the workshop.
+
+Mail papers in either ASCII or HTML to ebert@cs.umbc.edu by September
+15, 1998. We prefer e-mail submissions, but authors who lack e-mail
+access may send papers to Dr. David Ebert, Department of Computer
+Science and Electrical Engineering, University of Maryland Baltimore
+County, Baltimore, MD 21250 USA. Submissions should include the title,
+author(s), author's affiliation, e-mail address, fax number and postal
+address. In case of multiple authors, please indicate which author is
+responsible for correspondence.
+
+For more information on the NPIV'98 conference, please see the NPIV'98
+Web page:  http://www.cs.umbc.edu/cikm/npiv
+
+For more information on the CIKM'98 conference, please see the CIKM'98
+Web page:  http://www.cs.umbc.edu/cikm/1998
+
+
+                     Important Dates 
+
+ Position paper submission deadline  September 15, 1998 
+ Notification of acceptance          October 10, 1998
+ Workshop date                       November 5-6, 1998
+
+
+
+-- Dr. David S. Ebert, Computer Science & Electrical Engineering Department ---
+-- U. of Maryland Baltimore County; 1000 Hilltop Circle, Baltimore, MD 21250 --
+-------------- ebert@umbc.edu or http://www.umbc.edu/~ebert  ------------------
+-------------------------------------------------------------------------------

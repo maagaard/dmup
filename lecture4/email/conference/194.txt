@@ -1,0 +1,570 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Jan 11 08:41:08 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA01640;
+	Mon, 11 Jan 1999 08:40:54 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24711;
+          10 Jan 99 23:42 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24709;
+          10 Jan 99 23:30 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19791;
+          10 Jan 99 23:30 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa25391; 10 Jan 99 20:56 EST
+Received: from syseng.anu.edu.au by RI.CMU.EDU id aa14224;
+          10 Jan 99 20:55:16 EST
+Received: from reid.anu.edu.au (reid [150.203.126.7])
+	by syseng.anu.edu.au (8.8.8/8.8.8) with ESMTP id MAA04263
+	for <Connectionists@cs.cmu.edu>; Mon, 11 Jan 1999 12:55:36 +1100 (EST)
+From: Jonathan Baxter <Jon.Baxter@syseng.anu.edu.au>
+Received: (from jon@localhost)
+	by reid.anu.edu.au (8.8.8/8.8.8) id MAA15672
+	for Connectionists@cs.cmu.edu; Mon, 11 Jan 1999 12:55:09 +1100 (EST)
+Message-Id: <199901110155.MAA15672@reid.anu.edu.au>
+Subject: Trieste Workshop
+To: Connectionists@cs.cmu.edu
+Date: Mon, 11 Jan 1999 12:55:09 +1100 (EST)
+X-Mailer: ELM [version 2.4 PL24]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+Apologies if you receive this announcement more than once.
+---------------------------------------------------------------------------
+
+
+
+
+                SCHOOL ON NEURAL INFORMATION PROCESSING
+
+
+                              ( 3 - 28 May 1999 )
+
+
+
+
+        A School on Neural Information Processing will be held at the Abdus
+Salam International Centre for Theoretical Physics, Trieste, from 3 to 28
+May 1999.  This Bulletin contains the preliminary programme of the course,
+request for participation form and miscellaneous information.
+
+
+        DIRECTORS:
+
+    J.A. Hertz (NORDITA, Copenhagen)
+    S.A. Solla (Northwestern University, Evanston)
+    R. Zecchina (The Abdus Salam ICTP, Trieste)
+
+
+
+
+
+I.      PURPOSE AND NATURE
+
+
+        The goal of the school will be to present a systematic description
+of the theoretical approaches that provide tools to investigate the
+processing, transmission, and storage of information in the brain.
+Techniques based on the principles of statistical physics and information
+theory will be presented and applied to the analysis of a variety of
+problems in computational neuroscience, especially neural encoding and
+sensory processing.  The lectures will be concentrated on biological neural
+networks, but will also cover some important developments in artificial
+networks and optimization theory.
+        The lectures presented during the school intend to offer a broad
+and comprehensive training in order to provide a complete perspective of
+the field.  In addition to the scheduled lectures (an average of 4 lectures
+per day, 5 days per week) there will be formal and informal seminars on a
+variety of research topics by lecturers, participants and visiting experts.
+Computer experimentations will also be organized.
+
+
+
+
+II.     PRELIMINARY LIST OF LECTURERS AND TOPICS
+
+W. Bialek(NEC Research Institute, Princeton)Neural coding
+M. Biehl (University of Wuerzburg)      The dynamics of learning
+P. Dayan (University College, London)   Generative models
+A. Engel (University of Magdeburg)      Statistical physics theory of learning
+D. Hansel (Ecole Polytechnique, Paris)  Circuitry of the visual cortex
+J. Hertz (Nordita, Copenhagen ) Neural computation and encoding
+Li Zhaoping (University College, London)        Sensory processing
+R. Monasson (Ecole Normale Superieure), Paris)  Optimization problems
+J. Rinzel (New York University, New York)  Modelling of cell/network dynamics
+T. Sejnowski (The Salk Institute, San Diego)    Neural computation and encoding
+S. Solla(Northwestern University, Chicago)Neural networks for Bayesian inference
+M. Tsodyks (The Weizmann Institute, Rehovot)    Synaptic dynamics
+L. van Hemmen (Technical  University, Munich)   Modelling neural circuitry
+R. Zecchina (ICTP, Trieste)                     Optimization problems
+
+
+
+III.    PARTICIPATION
+
+        Scientists and students from all countries that are members of the
+United Nations, UNESCO or IAEA can attend the School.  The main purpose of
+the Centre is to help research workers from developing countries through a
+programme of training activities within a framework of international
+cooperation.  However, students and post-doctoral scientists from developed
+countries are most welcome to attend.  As the School will be conducted in
+English, participants should have an adequate working knowledge of that
+language.
+        Participants should preferably have completed several years of
+study and research after a first degree.  Applications from graduate
+students about to finish their PhD, fresh post-docs and young, active
+faculty members are encouraged.
+        As a rule, travel and subsistence expenses of the participants are
+borne by the home institutions.  However, some funds are available which
+permit the Centre to grant a subsistence allowance to a limited number of
+people from developing countries who will be selected by the Organizers.
+As scarcity of funds allows travel to be granted only in few exceptional
+cases, every effort should be made by candidates to secure support for
+their fares (or at least partial fare) by their home country.  Such
+financial support is available only to those attending the entire School.
+Scientists from developed countries are welcome to join on their own funds.
+There is no registration fee for attending the School.
+
+Deadline for the RECEIPT of request for participation form:     20 January 1999
+
+        Candidates should complete and sign the attached  "Request for
+Participation" form (also obtainable via e-mail:  smr1157@ictp.trieste.it,
+using as subject "get bulletin", or via WWW Server:
+http://www.ictp.trieste.it/), and send it to:
+
+International Centre for Theoretical Physics
+School on Neural Information Processing
+P.O. Box 586  (Strada Costiera 11: for courier delivery)
+I-34100 Trieste, Italy
+
+        Please note that no LATEX/TEX files are permitted.  Any attachments
+to the request for participation, relevant to extra information for
+selection purposes, should not exceed 6 pages.
+
+        The decision of the Organizing Committee will be communicated to
+all candidates as soon as possible.
+
+
+
+
+        UNITED NATIONS EDUCATIONAL SCIENTIFIC AND CULTURAL ORGANIZATION
+                                and
+                        INTERNATIONAL ATOMIC ENERGY AGENCY
+
+ABDUS SALAM INTERNATIONAL CENTRE FOR THEORETICAL PHYSICS (ICTP)
+
+P.O. Box  586                   Telephone:   +39  040  2240111
+I-34100 Trieste                 Telex:           +39 460392 ICTP I
+Italy                           Telefax:         +39  040  224163
+
+                        REQUEST     FOR     PARTICIPATION *)
+
+
+                        School on Neural Information Processing
+
+                                ( 3 - 28 May 1999 )
+____________________________________________________________________________
+
+INSTRUCTIONS
+
+Each question must be answered clearly and              A recent photo of the
+completely. Type or print in ink. If more               candidate should be
+space is required, attach additional pages.             attached here,
+signed                                                The request for
+participation form should               legibly on the reverse.
+be forwarded to the ICTP, School on Neural
+Information Processing, P.O. Box 586, I-34100 Trieste, Italy,
+to arrive before  20th January 1999
+________________________________________________________________________________
+                                PERSONAL DATA
+               PLEASE NOTE THAT UNLESS ALL REQUESTED PERSONAL DATA ARE PROVIDED,
+                        THE ICTP CANNOT PROCESS ANY VISA REQUESTS
+________________________________________________________________________________
+        For women (if applicable)
+SURNAME:             MAIDEN NAME:       First name:     Middle name(s):   Sex:
+
+
+
+Please also indicate SURNAME, NAME, on passport if different from above:
+________________________________________________________________________________
+Place of birth  (City and Country):   Present nationality:         Date of
+birth
+                                                             Year - Month - Day:
+
+________________________________________________________________________________
+Full name & address of permanent Institution:   Tel. No.        :
+                Cable   :
+                Telex   :
+                Telefax :
+                E-mail  :
+
+
+________________________________________________________________________________
+Full name & address of present Institution (if different from permanent)
+Tel. No.        :
+                        Cable   :
+                        Telex   :
+                        Telefax :
+                        E-mail  :
+
+
+until:
+________________________________________________________________________________
+Home address:           Tel. No.        :
+
+
+
+
+________________________________________________________________________________
+
+Mailing address -  please indicate whether:
+Permanent Institute  __      Present Institute  __   Home address   __
+________________________________________________________________________________
+Name and address of person to notify  in case of emergency  -  Relationship:
+
+
+
+________________________________________________________________________________
+*)   PLEASE NOTE   that no request will be processed  unless the  permanent
+address   (and  present
+            address,  if different)   is clearly indicated.
+
+
+
+EDUCATION     (higher degrees)
+University or equivalent        Years attended                  Degrees
+Name and place          From             to
+
+
+
+
+
+
+
+
+________________________________________________________________________________
+Seminars, summer schools, conferences or research
+
+Name and place                                  Year
+
+
+
+
+
+
+
+________________________________________________________________________________
+SCIENTIFIC EMPLOYMENT AND ACADEMIC RESPONSIBILITY
+
+Research Institution or University   Period of duty             Academic
+Name and place                       From           to       responsibilities
+
+
+
+
+
+
+
+Present employment and duties, and foreseen employment upon return to home
+country after the activity:
+
+
+
+
+
+________________________________________________________________________________
+Have you participated in past ICTP activities:             Yes     ____
+No
+If yes, which?
+
+
+
+
+
+Mention briefly your previous research experience, and explain your
+reasons for wishing to participate in this activity:
+
+
+
+
+
+NB: Our Scientific Information System keeps track of all applications made
+by the candidate to earlier ICTP activities.  As a consequence, when the
+subject of the present activity is far from his/her previous applications,
+an explanation (not more than 200 words) of his/her change of interest
+should be included.
+________________________________________________________________________________
+Kindly supply (strictly within indicated lengths) a keyword description of
+your current scientific activities as follows:
+
+
+1) Area of research (e.g.  statistical physics, information theory):
+
+         _______________________
+         (no more than 15 characters)
+
+
+
+2) Specific topic of interest (e.g.  learning theory, neural coding):
+
+
+
+         ________________________________________________
+              (no more than 30 characters)
+
+
+
+
+                                        - 2
+
+Present field of interest   (please indicate on the list below - up to 5
+fields - underlining primary  field)
+
+
+
+10.  PHYSICS OF CONDENSED MATTER        60.  PHYSICS TEACHING
+
+        11.     Solid State Physics             61.     English
+        12.     Atomic and Molecular Physics    62.     French
+        13.     Materials Science               63.     Spanish
+        14.     Surfaces and Interfaces         64.     Arab
+        15.     Statistical Physics
+        16.     Computational Physics in Condensed
+                Matter                          80.   MISCELLANEOUS
+
+20.  PHYSICS OF HIGH AND
+       INTERMEDIATE ENERGIES                    81.       Others
+                                                82.       Digital
+Communications
+                                                         and Computer Networking
+        21.     High Energy and Particle Physics
+        22.     Relativity, Cosmology and Astrophysics
+        23      Plasma Physics                  90.  PHYSICS OF THE LIVING STATE
+        24.     Nuclear Physics
+                                                91.     Neurophysics
+                                                92.     Biophysics
+30.  MATHEMATICS                                93.     Medical Physics
+
+        31.     Applicable Mathematics including:
+        -       Mathematical Ecology,
+        -       Systems Analysis,
+        -       Mathematical Economy
+        -       Mathematics in Industry AO.  APPLIED PHYSICS
+        33.     Algebra
+        34.     Geometry                A1.     Physics in Industry
+        35.     Topology                A2.     Microelectronics
+        36.     Differential Equations  A3.     Fibre Optics for Communications
+        37.     Analysis                A4.     Instrumentation
+        38.     Mathematical Physics    A5.     Synchrotron Radiation
+                                        A6.     Non-destructive Evaluation
+                                        A7.     Lasers
+40.  PHYSICS AND ENERGY                 AA.     Applied Superconductivity
+
+        41.     Physics of Nuclear Reactors
+        42.     Physics of Controlled Fusion
+        43.     Non-Conventional Energy  (Solar, Wind and others)
+
+
+
+50.  PHYSICS AND ENVIRONMENT            B1.     SPACE PHYSICS
+
+        51.     Solid Earth Geophysics
+        52.     Soil Physics
+        53.     Climatology and Meteorology
+        54.     Physics of the Oceans
+        55.     Physics of Desertification
+        56.     Physics of the Atmosphere, Troposphere
+                Magnetosphere, Aeronomy
+        57.     Environmental Monitoring and Remote
+                Sensing
+________________________________________________________________________________
+List your scientific publications including books and articles (authors,
+title, Journal) in the period 1992-1999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                - 3 -
+
+
+Please respond to the following questions regarding your expertise with
+computers.
+
+
+
+1)  Which is the operating system you use most often?
+
+_____ DOS - Windows            _____ Unix                _____ VMS
+
+
+_____ MacOS
+
+_____ Other (specify)
+
+
+
+
+2)  How experienced are you with the Unix environment?
+
+  _____  Very experienced        _____  Experienced
+
+  _____  Somewhat familiar       _____   Never used
+
+
+
+
+3)  Which programming languages are you familiar with?
+
+              Very good            Good            Average            Poor
+Fortran 77     _____               _____         _____               _____
+Fortran 90     _____               _____         _____               _____
+C              _____               _____         _____               _____
+C++            _____               _____         _____               _____
+Pascal         _____               _____         _____               _____
+Other (specify _____               _____         _____               _____
+
+
+
+
+4)  Have you written programmes for your research?      ____ Yes        _____ No
+
+     If yes, briefly describe for what type of research applications:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Approximately how many lines had the longest programme (or piece of
+programme) you ever wrote?_________
+
+
+
+
+5)  Do you use computer programmes written by others (including commercial
+ones) for your research?
+
+                                        _____ Yes       _____ No
+
+     If yes, briefly describe for what type of research applications:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        - 4 -
+
+Kindly state any positions you hold in the scientific administration of
+your Institution or any of the national scientific Institutions.
+
+
+
+
+
+
+
+
+
+
+If appropriate, especially for junior physicists, it would be of assistance
+to the Selection Committee if this request for participation were
+accompanied by a letter of recommendation.
+________________________________________________________________________________
+Indicate below your proficiency in the English language
+
+Reading:   Good    ___   Writing:     Good    ___     Speaking:     Good    ___
+           Average ___                Average ___                   Average ___
+           Poor    ___                Poor    ___                   Poor    ___
+________________________________________________________________________________
+
+APPLICABLE ONLY FOR CANDIDATES FROM DEVELOPING COUNTRIES  (Important:
+Please note that very few travel  grants  are  available,  and  preference
+in  selecting participants  will  be  given  to  eligible  candidates  who
+can guarantee travel coverage by own local sources).
+
+                Please tick as appropriate:
+
+    -   I can definitely find complete travel funds from local sources
+____
+
+or
+    -   I  can  definitely  find  half  my  travel funds from local sources ____
+
+I am requesting financial support from the ICTP for:
+-  Half travel        ____          -  Full travel       ____
+
+-  Living allowance   ____
+
+
+
+
+I am NOT requesting financial support from the ICTP     ___
+
+
+                        I certify that if granted funds for my travel
+                        I will attend the whole activity
+
+
+                        ...................................................
+                        Signature
+
+____________________________________________________________________________
+________________________________
+
+I certify that the statements made by me above are true and complete.  If
+accepted, I undertake to refrain from engaging in any political or other
+activities which would reflect unfavourably on the international status of
+the Centre.  I understand that any breach of this undertaking may result in
+the termination of the arrangements relating to my visit at the Centre.
+
+
+
+
+
+
+
+_________________________________________            ______________________
+
+Signature of candidate                                  Date
+
+
+
+
+
+
+
+                                        - 5 -
+
+
+

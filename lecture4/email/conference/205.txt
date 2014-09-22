@@ -1,0 +1,213 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jan 28 04:56:22 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA07305;
+	Thu, 28 Jan 1999 04:55:20 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab06872;
+          27 Jan 99 17:35 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab06860;
+          27 Jan 99 17:28 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21456;
+          27 Jan 99 17:27 EST
+Message-Id: <v04011701b2d3ed3ea5c3@[130.127.57.66]>
+Date: Wed, 27 Jan 1999 10:10:06 -0500
+To: Connectionists@cs.cmu.edu
+From: "Robert L. Campbell" <campber@CLEMSON.EDU>
+Subject: Conference on Consciousness and Cognition (2nd call; deadline extended)
+Status: RO
+X-Status: 
+
+
+ Mind 4
+       Dublin City University, Dublin, Ireland, August 16-20, 1999
+
+ Theme: "Two Sciences of Mind"
+
+
+                        Confirmed invited speakers include:
+                                  Bernard Baars
+                                   David Galin
+                                  Karl Pribram
+                                Stuart Hammeroff
+                                 Kathy McGovern
+                              Steven Nachmanovitch
+                                Jacob Needleman
+
+                                Program Committee:
+                                  Bernard Baars
+                                  Mark Bickhard
+                                 Robert Campbell
+                              Christian de Quincey
+                                 Stuart Hammeroff
+                                  Paul Mc Kevitt
+                                  Kathy McGovern
+                              Steven Nachmanovitch
+                                 Jacob Needleman
+                                 Sean O Nuallain
+                                  Yoshi Nakamura
+                                   Max Velmans
+                                  Terry Winegar
+
+Keynote addresses:
+
+Jabob Needleman: "Inner and Outer Empiricism in Consciousness Research"
+
+Bernard Baars: "The Compassionate Implications of Brain Imaging of
+Conscious Pain: New Vistas in Applied Cognitive Science."
+
+Stream 1: Outer and Inner empiricism in consciousness research
+
+This stream will feature papers that attempt to show how "inner" states can
+be elucidated with reference to external phenomena. "Inner empiricism"
+designates experience, or qualia. They are shaped (somehow) by brain
+processes or states which sense and interpret the external phenomena.  The
+physical nature of these processes or states may tell us much about
+consciousness. Likewise, the argument that we are conscious of only one
+thing at a time because of the gating action of the nuclei reticularis
+thalami (Taylor, Baars, etc) is indicative of the kind
+of thinking we are trying to encourage. In this vein, pain experience and
+its imperfect relationship to neural activity are similarly relevant. We
+particularly welcome papers that feature empirical data, or, lacking these
+data, show a grasp of the  range of disciplines necessary to do justice to
+the topic.
+
+Papers are also invited that
+
+- Interpret qualia in terms of a quantum-mechanics based panpsychism (or,
+in current terms,
+pan-protopsychism)
+
+- Establish links with developments like Whitehead's pan-experientialism
+and process thought
+
+-Interrelate physiological processes at the neural level with current
+thought in QM
+
+- Emphasize "relational empiricism", ie second-person considerations
+
+- Investigate the brain processes or states giving rise to qualia at
+whatever level the writer considers appropriate (eg intra-cellular
+cytoskeletal activities and/or quantum-level phenomena).
+
+- Involve studies of central pain states as well as other curiosities like
+allodynia, spontaneous analgesia, pain asymbolia, and hypnotic analgesia.
+
+The invited talks include:
+
+David Galin "The Experience of 'Spirit' in Cognitive Terms."
+
+Stuart Hameroff "Quantum Computing and Consciousness"
+
+Steve Nachmanovitch "Creativity and Consiousness"
+
+Each of these talks will be followed by a panel discussion discussing
+respectively, consciousness as explored experientially, through scientific
+investigation, and in the arts.
+
+
+Stream 2: Foundations of Cognitive Science
+
+Co-chairs:
+
+
+Sean O Nuallain
+
+Dublin City University, Dublin 9, Ireland
+
+(sonualla@compapp.dcu.ie)
+
+
+Robert L. Campbell
+
+Department of Psychology, Clemson University,
+
+Clemson, SC USA
+
+(campber@clemson.edu)
+
+
+
+WHAT THE STREAM IS ABOUT
+
+
+Though deep and contentious questions of theory and metatheory have always
+been prevalent in Cognitive Science--they arise whenever an attempt is made
+to define CS as a discipline--they have frequently been downrated by
+researchers, in favor of empirical work that remains safely within the
+confines of established theories and methods.
+
+Our goal to is redress the balance.  We encourage participants in this
+stream to raise and discuss such questions as:
+
+
+* the adequacy of computationalist accounts of mind
+
+* the adequacy of conceptions of mental representation as structures that
+encode structures out
+in the environment
+
+* the consequences of excluding emotions, consciousness, and the social
+realm from the purview of cognitive studies
+
+* the consequences of Newell and Simon's "scientific bet" that
+developmental constraints do not have to be studied until detailed models
+of adult cognition have been constructed and tested
+
+* the relationship between cognitive science and formal logic
+
+A wide range of theoretical perspectives is welcome, so long as the
+presenters are willing to engage in serious discussion with the proponents
+of perspectives that are different from their own:
+
+
+* Vygotskian approaches to culture and cognition
+
+* Dynamic Systems theories
+
+* Piagetian constructivism
+
+* interactivism
+
+* neuroscience accounts such as those of Edelman and Grossberg
+* accounts of emergence in general, and emergent knowledge in particular
+
+* perception and action robotics
+
+* functional linguistics
+
+* genetic algorithms
+
+* Information Procesing
+
+* connectionism
+
+* evolutionary epistemology
+
+********************
+
+Contributors will be asked to submit short papers (3000 word limit) in
+the form of ASCII text files (HTML files are also welcome, but are
+optional) to Robert Campbell (for stream 2) and Sean O Nuallain (stream 1).
+The deadline is March 1, 1999.  We will email notification of acceptance or
+rejection by April 1.
+
+The standard presentations during the streams will be 20-minute talks and
+poster sessions.
+
+***********
+
+The "MIND" conferences have normally had their proceedings published by
+John Benjamins. We have already been approached by prospective publishers
+for Mind 4. All accepted papers and posters will be included in a preprint.
+
+Robert L. Campbell
+Professor, Psychology
+Brackett Hall 410A
+Clemson University
+Clemson, SC 29634-1511 USA
+phone (864) 656-4986
+fax (864) 656-0358
+http://hubcap.clemson.edu/~campber/index.html
+Editor, Dialogues in Psychology
+http://hubcap.clemson.edu/psych/Dialogues/dialogues.html

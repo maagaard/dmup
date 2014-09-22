@@ -1,0 +1,51 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug  3 01:44:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA18368;
+	Tue, 3 Aug 1999 01:44:48 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23638;
+          2 Aug 99 17:54 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23636;
+          2 Aug 99 17:41 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07691;
+          2 Aug 99 17:41 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28055; 2 Aug 99 17:34 EDT
+Received: from CNS.BU.EDU by CS.CMU.EDU id aa12221; 2 Aug 99 17:33:22 EDT
+Received: from cochlea.bu.edu (cochlea [128.197.61.94])
+	by cns.bu.edu ((8.8.8.buoit.v1.0)/8.8.8/(BU-S-10/08/98-v1.0)) with SMTP id RAA17139;
+	Mon, 2 Aug 1999 17:32:34 -0400 (EDT)
+From: Paolo Gaudiano <gaudiano@cns.bu.edu>
+Received: by cochlea.bu.edu (8.6.13/BU_Client-1.1)
+	id RAA27988; Mon, 2 Aug 1999 17:32:33 -0400
+Date: Mon, 2 Aug 1999 17:32:33 -0400
+Message-Id: <199908022132.RAA27988@cochlea.bu.edu>
+To: connectionists@cs.cmu.edu, reinforce@cs.uwa.edu.au
+Subject: Update: Posters now accepted at UI-CANCS conference
+Reply-to: gaudiano@cns.bu.edu
+Status: RO
+X-Status: 
+
+
+This announcement is being sent to multiple lists. We are sorry if you
+receive multiple copies.
+
+IMPORTANT UPDATE: Now accepting contributed posters
+
+ First USA-Italy Conference on Applied Neural and Cognitive Sciences
+			     UI-CANCS'99
+		      Boston, October 3-6, 1999
+
+In response to popular demand we are expanding UI-CANCS'99 to include
+a poster session for contributed work. Submissions should focus on
+applications of neural and cognitive sciences. Applications describing
+collaborations between industry and research are especially
+relevant. Please send a title and abstract (up to one page) with the
+name and affiliation of all authors to info@usa-italy.org. Abstracts
+will be reviewed promptly and, if appropriate, will be accepted on a
+first-come basis as long as there is room available. The posters will
+be available for viewing all day on October 4 and 5.
+
+For additional information please visit http://www.usa-italy.org or
+send e-mail to info@usa-italy.org.
+

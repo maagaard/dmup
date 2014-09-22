@@ -1,0 +1,234 @@
+
+
+From www-vrml-owner@hardly.hotwired.com Thu Jul 25 23:30 MET 1996
+Received: from hardly.hotwired.com by eivind.ei.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA06155; Thu, 25 Jul 1996 23:30:57 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id NAA29447 for www-vrml14; Thu, 25 Jul 1996 13:51:21 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id NAA29373 for www-vrml-out; Thu, 25 Jul 1996 13:51:03 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id NAA29357 for <www-vrml@hardly.hotwired.com>; Thu, 25 Jul 1996 13:50:56 -0700 (PDT)
+Received: from fully.organic.com (h32.n145.organic.com [204.152.145.32]) by wired.com (8.7.4/8.7.3) with SMTP id NAA05520 for <www-vrml@wired.com>; Thu, 25 Jul 1996 13:50:45 -0700 (PDT)
+Received: from localhost (brian@localhost) by fully.organic.com (8.6.12/8.6.12) with SMTP id UAA19854 for <www-vrml@wired.com>; Thu, 25 Jul 1996 20:55:07 GMT
+X-Authentication-Warning: fully.organic.com: brian owned process doing -bs
+X-Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id VAA15701 for <www-vrml@hardly.hotwired.com>; Wed, 24 Jul 1996 21:03:27 -0700 (PDT)
+X-Received: from cs.nps.navy.mil (cs.nps.navy.mil [131.120.1.13]) by wired.com (8.7.4/8.7.3) with SMTP id VAA13571 for <www-vrml@wired.com>; Wed, 24 Jul 1996 21:03:09 -0700 (PDT)
+X-Received: from trouble.cs.nps.navy.mil by cs.nps.navy.mil (4.1/SMI-4.1)
+	id AA00861; Wed, 24 Jul 96 21:02:04 PDT
+X-Received: by trouble.cs.nps.navy.mil (950215.SGI.8.6.10) id VAA18026; Wed, 24 Jul 1996 21:02:05 -0700
+From: "Your VE info source" <infobahn@cs.nps.navy.mil>
+Message-Id: <9607242102.ZM18024@trouble.cs.nps.navy.mil>
+Date: Wed, 24 Jul 1996 21:02:05 -0700
+X-Mailer: Z-Mail (3.2.0 26oct94 MediaMail)
+To: www-vrml@wired.com
+Subject: Latest InfoBahn Calls for Participation ...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Resent-Date: Thu, 25 Jul 1996 13:55:03 -0700 (PDT)
+Resent-From: Brian Behlendorf <brian@organic.com>
+Resent-To: www-vrml@wired.com
+Resent-Message-Id: <Pine.SGI.3.93.960725135503.18675b@fully.organic.com>
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+
+The following are some of the latest Infobahn 
+     Calls for Participation:
+
+--> 1997 Symposium on Interactive 3D Graphics
+    --> Call date: 25 September 1996
+
+--> IEEE Multimedia - Special Issue "Virtual Studios"
+    --> Call date: 15 November 1996
+
+^L
+
+--------------------------------------------------------------------
+
+CALL FOR PARTICIPATION
+
+
+1997 Symposium on Interactive 3D Graphics
+April 27-30, 1997
+Providence, RI
+http://www.research.microsoft.com/research/Symp3D.htm
+
+
+	Extended abstracts due:			Sept. 25, 1996
+	Acceptance notification:		Nov. 11, 1996
+	Final papers for Proceedings due:	Dec. 18, 1996
+
+The focus of the symposium will be on the frontiers of real-time,
+interactive 3D computer graphics and multimedia. The symposium will
+consist of formal paper sessions and hands-on demonstrations where
+research groups and vendors will demonstrate the state-of-the-art in the
+field. Topics of interest for technical sessions and demonstrations
+include:
+
+* innovative human-machine interface paradigms for navigating, working
+and playing in complex, real-time graphics environments, including
+virtual worlds, Web-based systems, and visualization systems;
+
+* high-performance 3D graphics architectures, hardware, and software for
+interacting with virtual worlds and teleoperation systems;
+
+* novel sensory I/O devices for "seeing, hearing and feeling in the
+virtual world";
+
+* perceptual and psychological issues regarding multimodal interaction
+and operation in complex virtual spaces;
+
+* interactive model building tools for shaping, building or sculpting of
+objects, and the interactive assembly and manipulation of systems of
+parts;
+
+* languages or APIs for specifying geometry and behaviors for interactive
+and network based applications;
+
+* algorithms for animating complex reactive characters; authoring tools
+for constructing reactive models;
+
+* interactive simulations distributed over local and long-haul networks;
+
+* software for representing, designing, visualizing and interacting with
+complex geometry, structure and behavior.
+
+
+Extended abstracts 3 to 5 pages long describing original work should
+reflect the contents of the final paper and the symposium presentation.
+Accompanying video tapes where appropriate are strongly recommended.
+Performance claims should be supported by actual measurements. Full
+explanations of any special techniques necessary to achieve real-time
+picture generation and display should be provided. Abstracts should
+clearly state what has been achieved and how this makes a contribution to
+the state-of-the-art in interactive 3D graphics.
+
+The program committee will review the abstracts and notify the author(s)
+whether the paper will be accepted as a short or long paper, and whether
+the presentation will be short or long. Short papers will be 4 pages;
+long papers may be up to 12 pages.  Short presentations will be 15
+minutes; long presentations will be up to 25 minutes.
+
+Attendance will be limited to 250 participants. Places will be reserved
+for up to 50 students at reduced registration rates.
+
+Sponsored by ACM SIGGRAPH
+
+
+Submit 5 copies of an extended abstract by 5:00 PM EDT, Sept. 25, 1996
+to:
+David Zeltzer
+1997 Symposium on Interactive 3D Graphics
+Massachusetts Institute of Technology
+Room 36-763, 50 Vassar Street
+Cambridge MA 02139
+Tel.: (617) 253-5995
+e-mail: dz@vetrec.mit.edu
+No fax or e-mail submissions accepted.
+
+Requests for registration forms and information should be e-mailed to:
+Lisa Manekofsky
+Dept. of Computer Science
+Brown University
+Providence RI 02912
+(401) 863-7654
+Fax: (401) 863-7657
+e-mail: ljm@cs.brown.edu
+
+Symposium Chair:
+Andy van Dam, 	Brown University
+
+Program Co-chairs:
+Michael Cohen, 	Microsoft
+David  Zeltzer, Massachusetts Institute of Technology
+
+Program Committee:
+
+Fred Brooks, Jr., University of North Carolina
+Ingrid Carlbom, AT&T Bell Labs
+Ed Catmull, PIXAR
+Frank Crow, Interval Research
+Jessica Hodgins, Georgia Institute of Technology
+Fred Kitson, Hewlett Packard
+Marc Levoy, Stanford University
+Dan Ling, Microsoft
+Peter Schroder, California Institute of Technology
+Susumu Tachi, University of Tokyo
+Michael Zyda, Naval Postgraduate School
+
+****************************************************************************
+
+============================================================================
+ 
+CALL FOR PAPERS
+IEEE Multimedia - Special Issue 
+"Virtual Studios"
+ 
+The past two years have seen the introduction of "virtual studios"
+(also called "virtual sets") within the video production and
+broadcast industry. Several products are now on the market and most
+major broadcasters are planning trials in order to become better
+acquainted with the capabilities of virtual studios.
+Generally virtual studio systems operate by compositing live "blue
+screen" shots with 3D imagery rendered in real time and in sync with
+camera motion. Virtual studios are highly demanding applications
+since rendering must occur at high rates (typically 50 or 60 Hz) and
+camera tracking must be extremely accurate. Currently this requires
+expensive hardware but the benefits are many: the ability to quickly
+create and modify sets, reduced set construction and storage costs,
+greater creative freedom in set design, and the possibility of viewing
+effects live rather than during post-production.
+
+This Special Issue will be devoted the the theme of Virtual Studios
+and will concentrate on the technical aspects of their realization.
+This includes (but is not limited to) the following topics:
+
+	* head, boom and pedestal tracking
+	* mechanical tracking systems
+	* optical tracking systems
+	* lens calibration
+	* lighting
+	* Z-keying and Z-mixing
+	* virtual characters / virtual actors
+	* set and prop dynamics
+	* masking and layering techniques
+	* scripting languages
+	* defocussing and motion blur
+	* camera distortion correction 
+	* distributed virtual studios
+
+Descriptions of experiences in virtual studio productions would also
+be welcome.
+
+Manuscripts will undergo a peer refereeing process consistent with
+other archival publications. Accompanying their manuscript,
+authors may also submit extra materials (such as video clips or additional
+images) which will be placed on IEEE Multimedia's web site
+(http://www.computer.org/pubs/multimed/multimed.htm). In this case the
+manuscript should have a sidebar explaining what is on the Web.
+
+Submissions must be in electronic form. For details please contact the
+guest editor at the address below:
+
+Dr. Simon Gibbs
+Institute for Media Communication
+GMD - German National Research Center for Information Technology
+Tel:	+49 (2241) 14.2697
+Fax:	+49 (2241) 14.2040
+Email:	Simon.Gibbs@gmd.de
+
+
+Important Dates:
+Full Papers due:             November 15, 1996
+Notifications to authors:    March 1, 1997
+Final revised papers due:    May 1, 1997
+Publication:                 November 1997
+
+Prospective authors are encouraged to use IEEE Multimedia's style
+guidelines. These are available on the Web at
+http://www.computer.org/pubs/multimed/edguide.htm and from the
+editorial secretary Alkenia Winston (awinston@computer.org). 
+
+
+

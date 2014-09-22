@@ -1,0 +1,52 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov 27 21:10:17 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA29021;
+	Fri, 27 Nov 1998 21:08:52 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27884;
+          27 Nov 98 13:44 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27882;
+          27 Nov 98 13:30 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa25321;
+          27 Nov 98 13:30 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa00134; 27 Nov 98 11:26 EST
+Received: from leofric.coventry.ac.uk by RI.CMU.EDU id aa20299;
+          27 Nov 98 11:25:01 EST
+Received: (from srx014@localhost) by leofric.coventry.ac.uk (8.8.6/8.6.11) id QAA03298; Fri, 27 Nov 1998 16:24:53 GMT
+Date: Fri, 27 Nov 1998 16:24:53 +0000 (GMT)
+From: Colin Reeves <srx014@coventry.ac.uk>
+X-Sender: srx014@leofric
+To: connectionists@cs.cmu.edu
+Subject: ICANNGA99
+Message-ID: <Pine.OSF.3.91.981127162350.2045D-100000@leofric>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Reminder: 
+
+4th International Conference on Artificial Neural Networks 
+and Genetic Algorithms, to be held on 6th-9th April, 1999 
+at Portoroz, Slovenia, hosted by the University of Ljubljana.
+
+Plenary talks by Kevin Warwick, Hugo De Garis with Marco Tomassini and
+Michael Korkin, and Ingo Rechenberg.
+
+Tutorial sessions are planned on 6th April on approximations of
+multi-variable functions by neural networks (Vera Kurkova), Multi-objective 
+optimisation using GAs (Kalyan Deb), Alternative viewpoints on GAs (Colin 
+Reeves), Neural networks and Fuzzy Logic (Nigel Steele).
+
+Full programme of accepted talks plus a visit to the world-famous 
+Postojna cave and Lipica stud...also an optional post-conference visit to 
+Venice by sea.
+
+For latest details and registration information see
+
+http://cherry.fri.uni-lj.si/icannga99.html
+or send an email to
+icannga@fri.uni-lj.si
+

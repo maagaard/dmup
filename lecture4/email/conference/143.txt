@@ -1,0 +1,611 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Sep  1 18:38:28 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id SAA19657;
+	Tue, 1 Sep 1998 18:38:12 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ah15100;
+          31 Aug 98 18:04 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ac15037;
+          31 Aug 98 17:38 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22040;
+          31 Aug 98 17:37 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11410; 31 Aug 98 16:26 EDT
+Received: from curie.psychology.McMaster.CA by RI.CMU.EDU id aa26586;
+          31 Aug 98 16:26:15 EDT
+Received: from meitner.psychology.mcmaster.ca (meitner [130.113.218.66])
+	by curie.psychology.mcmaster.ca (8.8.8/8.8.8-ajr) with ESMTP id QAA29693
+	for <Connectionists@CS.CMU.EDU>; Mon, 31 Aug 1998 16:25:52 -0400 (EDT)
+Received: from localhost (becker@localhost)
+	by meitner.psychology.mcmaster.ca (8.8.8/8.8.8-ajr-cl) with SMTP id QAA22224
+	for <Connectionists@CS.CMU.EDU>; Mon, 31 Aug 1998 16:25:37 -0400 (EDT)
+Date: Mon, 31 Aug 1998 16:25:37 -0400 (EDT)
+From: Sue Becker <becker@curie.psychology.mcmaster.ca>
+Reply-To: Sue Becker <becker@mcmaster.ca>
+To: Connectionists@cs.cmu.edu
+Subject: Calls for Participation: NIPS*98 Workshops
+Message-ID: <Pine.SGI.3.96.980831162404.21854U-100000@meitner.psychology.mcmaster.ca>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Dear Connectionists,
+
+Below are brief annoucements of the 20 NIPS*98 workshops taking place 
+in Breckenridge, Colorado on December 4-5 following the main 
+conference in Denver. Many of these have published web pages with
+further details. See
+   http://www.cs.cmu.edu/Groups/NIPS/1998/Workshops.html 
+and the URLs listed below.
+
+Rich Zemel and Sue Becker, NIPS*98 Workshops Co-chairs
+
+----------------------------------------------------------------------
+
+		DYNAMICS IN NETWORKS OF SPIKING NEURONS
+
+       http://diwww.epfl.ch/w3lami/team/gerstner/NIPS_works.html
+
+	     Organizer: W. Gerstner (Lausanne, Switzerland)
+
+Networks of spiking neurons have several interesting dynamic properties,
+for example very rapid and characteristic transients, synchronous firing
+and asynchronous states.  A better understanding of typical phenomena
+has important implications for problems associated with neuronal coding
+(spikes or rates).  For example, the population activity is a rate-type
+quantity, but does not need temporal averaging - which suggests fast
+rate coding as a potential strategy.  The idea of the workshop is to
+start from mathematical models of network dynamics, see what is known in
+terms of results, and then try to find out what the implications for
+'coding' in the most general sense could be.
+
+----------------------------------------------------------------------
+
+			   POPULATION CODING
+
+			      Organizers:
+		   Glen D. Brown, The Salk Institute
+		    Kechen Zhang, The Salk Institute
+
+We will explore experimental approaches to population coding in three
+parts. First, we will examine techniques for recording from populations of
+neurons including electrode arrays and optical methods. Next, we will
+discuss spike-sorting and other issues in data analysis. Finally, we will
+examine strategies for interpreting population data, including population
+recordings from the hippocampus. To facilitate discussion, we are
+establishing a data base of neuronal-population recordings that will be
+available for analysis and interpretation.
+
+For more information, please contact
+Glen Brown (glen@salk.edu) or Kechen Zhang (zhang@salk.edu)
+Computational Neurobiology Laboratory
+The Salk Institute for Biological Studies
+10010 North Torrey Pines Road
+La Jolla, CA 92037
+
+----------------------------------------------------------------------
+
+  TEMPORAL CODING: IS THERE EVIDENCE FOR IT AND WHAT IS ITS FUNCTION?
+
+http://www.cs.cmu.edu/Groups/NIPS/1998/Workshop-CFParticipation/hatsopoulos.html
+
+			      Organizers:
+		  Nicho Hatsopoulos and Harel Shouval
+			    Brown University
+		Departments of  Neuroscience and Physics
+
+One of the most fundamental issues in neuroscience concerns the exact
+nature of neural coding or representation.  The standard view is that
+information is represented in the firing rates of single or populations
+of neurons.  Recently, a growing body of research has provided evidence
+for coding strategies based on more precise temporal relationships among
+spikes.  These are some of the questions that the workshop intends to
+address:
+
+1. What do we mean by temporal coding?  What time resolution constitutes
+a temporal code?  
+2. What evidence is there for temporal coding in the nervous system.   
+3.  What functional role does it play?  What computational problem can
+it solve that firing rate cannot? 
+4.  Is it feasible to implement given the properties of neurons and
+their interactions? 
+
+We intend to organize it as a debate with formal presentations and
+informal discussion with some of the major figures in the field.
+Different views regarding this subject will be presented.  We will
+invite speakers doing work in a variety of areas including both
+vertebrate and invertebrate systems.
+
+
+----------------------------------------------------------------------
+
+		  OPTICAL IMAGING OF THE VISUAL CORTEX
+
+		      http://camelot.mssm.edu/~udi
+
+		 Organizers: Ehud Kaplan, Gary Blasdel
+
+It is clear that any attempt to model brain function or development will
+require access to data about the spatio-temporal distribution of
+activity in the brain.  Optical imaging of the brain provides a unique
+opportunity to obtain such maps, and thus is essential for scientists
+who are interested in theoretical approaches to neuroscience.  In
+addition, contact of biologists with theoretical approaches could help
+them focus their studies on the essential theoretical questions, and on
+new computation, mathematical, or theoretical tools and techniques.
+
+We therefore organized a 6-hour workshop on optical imaging of the
+cortex, to deal with both technical issues and physiological results.
+The workshop will have the format of a mini-symposium, and will be
+chaired by Ehud Kaplan (Mt. Sinai School of Medicine) and Gary Blasdel
+(Harvard).
+
+Technical issues to be discussed include:
+
+1. What is the best way to extract faint images from the noisy data?
+2. How does one compare/relate functional maps?
+3. What is the best wavelength for reflectance measurements?
+4. What is the needed (or possible) spatial resolution?
+5. How do you deal with brain movement and other artifacts?
+
+See also: http://camelot.mssm.edu/~udi
+
+----------------------------------------------------------------------
+
+		   OLFACTORY CODING: MYTHS, MODELS AND DATA
+
+	       http://www.wjh.harvard.edu/~linster/nips98.html
+
+	  Organizers: Christane Linster, Frank Grasso and Wayne Getz
+
+Currently, two main models of olfactory coding are competing with each
+other: (1) the selective receptor, labeled line model whish has been
+popularized by recent results from molecular biology, and (2), the
+non-selective receptor, distributive coding model, supported mainly by
+data from electrophysiology and imaging in the olfactory bulbs.  In this
+workshop, we will discuss experimental evidence for each model.
+Theorticians and experimentalists together will discuss the implications
+for olfactory codoing and for neural porprocessing in the olfactory bulb
+and cortex for each of the two predominant, and possibly, intermediate,
+models.
+
+----------------------------------------------------------------------
+
+		STATISTICAL THEORIES OF CORTICAL FUNCTION
+
+	       http://www.cnl.salk.edu/~rao/workshop.html
+
+       Organizers: Rajesh P.N. Rao, Salk Institute (rao@salk.edu)
+	Bruno A. Olshausen, UC Davis (bruno@redwood.ucdavis.edu)
+	  Michael S. Lewicki, Salk Institute (lewicki@salk.edu)
+
+Participants are invited to attend a post-NIPS workshop on theories of
+cortical function based on well-defined statistical principles such as
+maximum likelihood and Bayesian estimation. Topics that are expected to
+be addressed include: statistical interpretations of the function of
+lateral and cortico-cortical feedback connections, theories of
+perception and neural representations in the cortex, and development of
+cortical receptive field properties from natural signals.
+
+For further details, see: http://www.cnl.salk.edu/~rao/workshop.html
+
+----------------------------------------------------------------------
+
+	      LEARNING FROM AMBIGUOUS AND COMPLEX EXAMPLES
+
+			      Organizers:
+		    Oded Maron, PHZ Capital Partners
+	       Thomas Dietterich, Oregon State University
+
+Frameworks such as supervised learning, unsupervised learning, and
+reinforcement learning have many established algorithms and theoretical
+tools to analyze them.  However, there are many learning problems that
+do not fall into any of these established frameworks.  Specifically,
+situations where the examples are ambiguously labeled or cannot be
+simply represented as a feature vector tend to be difficult for these
+frameworks.  This workshop will bring together researchers who are
+interested in learning from ambiguous and complex examples.  The
+workshop will include, but not be limited to, discussions of
+Multiple-Instance Learning, TDNN, bounded inconsistency, and other
+frameworks for learning in unusual situations.
+
+----------------------------------------------------------------------
+
+	     TURNKEY ALGORITHMS FOR IMPROVING GENERALIZERS
+
+	   http://ic.arc.nasa.gov/ic/people/kagan/nips98.html
+
+	       Organizers: Kagan Tumer and David Wolpert
+		       NASA Ames Research Center
+
+Abstract: Methods for improving generalizers, such as stacking, bagging,
+boosting and error correcting output codes (ECOCs) have recently been
+receiving a lot of attention.  We call such techniques "turnkey"
+techniques. This reflects the fact that they were designed to improve
+the generalization ability of generic learning algorithms, without
+detailed knowledge about the inner workings of those learners.  Whether
+one particular turnkey technique is, in general, "better" than all
+others, and if so under what circumstances, is a hotly debated issue.
+Furthermore, it isn't clear whether it is meaningful to ask that
+question without specific prior assumptions (e.g., specific domain
+knowledge).  This workshop aims at investigating these issues, building
+a solid understanding of how and when turnkey techniques help
+generalization ability, and lay out a road map to where the turnkey
+methods should go.
+
+----------------------------------------------------------------------
+
+     MINING MASSIVE DATABASES: SCALABLE ALGORITHMS FOR DATA MINING
+
+	     http://research.microsoft.com/~fayyad/nips98/
+
+	      Organizers: Usama Fayyad and Padhraic Smyth
+
+With the explosive growth in the number of "data owners", interest
+in scalable, integrated, data mining tools is reaching new heights.
+This 1-day workshop aims at bringing together researchers and
+practitioners from several communities to address topics of mutual
+interest (and misunderstanding) such as: scaling clustering and
+prediction to large databases, robust algorithms for high
+dimensions, mathmatical approaches to mining massive datasets,
+anytime algorithms, and dealing with discrete, mixed, and
+multimedia (unstructured) data. The invited talks will be used to
+drive discussion around the issues raised, common problems, and
+definitions of research problems that need to be addressed.
+Important questions include: why the need for integration with
+databases? why deal with massive data stores? What are most
+effective ways to scale algorithms? How do we help unsophisticated
+users visualize the data/models extracted?
+
+Contact information:
+Usama Fayyad (Microsoft Research), Fayyad@microsoft.com,
+http://research.microsoft.com/~fayyad
+Padhraic Smyth (U.C. Irvine), Smyth@sifnos.ics.uci.edu,
+http://www.ics.uci.edu/~smyth/
+
+----------------------------------------------------------------------
+
+		INTEGRATING SUPERVISED AND UNSUPERVISED LEARNING
+
+		      www.cs.cmu.edu/~mccallum/supunsup
+
+				 Organizers:
+			 Rich Caruana, Just Research
+			     Virginia de Sa, UCSF
+			       Andrew McCallum
+
+This workshop will debate the relationship between supervised and
+unsupervised learning.  The discussion will run the gamut from
+examining the view that supervised learning can be performed by
+unsupervised learning of the joint distribution between the inputs and
+targets, to discussion of how natural learning systems do supervised
+learning without explicit labels, to the presentation of practical
+methods of combining supervised and unsupervised learning by using
+unsupervised clustering or unlabelled data to augment a labelled
+corpus.  The debate should be fun because some attendees believe
+supervised learning has clear advantages, while others believe
+unsupervised learning is the only game worth playing in the long run.
+
+More information (including a call for abstracts) can be found at
+www.cs.cmu.edu/~mccallum/supunsup.
+
+----------------------------------------------------------------------
+
+	      LEARNING ON RELATIONAL DATA REPRESENTATIONS
+
+		   http://ni.cs.tu-berlin.de/nips98/
+
+			      Organizers:
+		   Thore Graepel, TU Berlin, Germany
+		   Ralf Herbrich, TU Berlin, Germany
+		  Klaus Obermayer, TU Berlin, Germany
+
+Symbolic (structured) data representations such as strings, graphs or
+logical expressions often provide a more natural basis for learning than
+vector space representations which are the standard paradigm in
+connectionism.  Symbolic representations are currently subject to an
+intensive discussion (cf.  the recent postings on the connectionist
+mailing list), which focuses on the question if connectionist models can
+adequately process symbolic input data.  One way of dealing with
+structured data is to characterize them in relation to each other.  To
+this end a set of data items can be characterized by defining a
+dissimilarity or distance measure on pairs of data items and to provide
+learning algorithms with a dissimilarity matrix of a set of training
+data.  Prior knowledge about the data at hand can be incorporated
+explicitly in the definition of the dissimilarity measure.  One can even
+go as far as trying to learn a distance measure appropriate for the task
+at hand.  This procedure may provide a bridge between the vector space
+and the "structural" approaches to pattern recognition and should thus
+be of interest to people from both communities.  Additionally, pairwise
+and other non-vectorial input data occur frequently in empirical
+sciences and pose new problems for supervised and unsupervised learning
+techniques.
+
+More information can be found at http://ni.cs.tu-berlin.de/nips98/
+
+------------------------------------------------------------------
+
+		   SEQUENTIAL INFERENCE AND LEARNING
+
+	    http://svr-www.eng.cam.ac.uk/~jfgf/workshop.html
+
+			      Organizers:
+     Mahesan Niranjan, Cambridge University Engineering Department
+       Arnaud Doucet, Cambridge University Engineering Department
+     Nando de Freitas, Cambridge University Engineering Department
+
+Sequential techniques are important in many applications of neural
+networks involving real-time signal processing, where data arrival
+is inherently sequential. Furthermore, one might wish to adopt a
+sequential training strategy to deal with non-stationarity in
+signals, so that information from the recent past is lent more
+credence than information from the distant past. Sequential methods
+also allow us to efficiently compute important model diagnostic
+tools such as the one-step-ahead prediction densities. The advent
+of cheap and massive computational power has stimulated many recent
+advances in this field, including dynamic graphical models,
+Expectation-Maximisation (EM) inference and learning for dynamical
+models, dynamic Kalman mixture models and sequential Monte Carlo
+sampling methods. More importantly, such methods are being applied
+to a large number of interesting real problems such as computer
+vision, econometrics, medical prognosis, tracking, communications,
+blind deconvolution, statistical diagnosis, automatic control and
+neural network training.
+
+_______________________________________________________________________________
+
+	ABSTRACTION AND HIERARCHY IN REINFORCEMENT LEARNING
+
+ http://www-anw.cs.umass.edu/~dprecup/call_for_participation.html
+
+			      Organizers:
+	      Tom Dietterich, Oregon State University
+		Leslie Kaelbling, Brown University
+		   Ron Parr, Stanford University
+	Doina Precup, University of Massachusetts, Amherst
+
+When making everyday decisions, people are able to foresee the
+consequences of their possible courses of action at multiple levels of
+abstraction. Recent research in reinforcement learning (RL) has focused
+on the way in which knowledge about abstract actions and abstract
+representations can be incorporated into the framework of Markov
+Decision Processes (MDPs). Several theoretical results and applications
+suggest that these methods can improve significantly the scalability of
+reinforcement learning systems by accelerating learning and by promoting
+sharing and re-use of learned subtasks. This workshop aims to address
+the following issues in this area:
+
+- Task formulation and automated task creation
+- The degree and complexity of action models
+- The integration of different abstraction methods
+- Hidden state issues
+- Utility and computational efficiency considerations
+- Multi-layer abstractions
+- Temporally extended perception
+- The design of autonomous agents based on hierarchical RL architectures
+
+We are looking for volunteers to lead discussions and participate in
+panels.  We will also accept some technical papers for presentations.
+For more details, please check out the workshop page:
+
+http://www-anw.cs.umass.edu/~dprecup/call_for_participation.html
+
+----------------------------------------------------------------------
+
+       MOVEMENT PRIMITIVES: BUILDING BLOCKS FOR LEARNING MOTOR CONTROL
+
+		    http://www-slab.usc.edu/events/nips98
+
+    Organizers: Stefan Schaal (USC/ERATO(JST)) and Steve DeWeerth (GaTech)
+
+Traditionally, learning control has been dominated by representations that
+generate low level actions in response to some measured state information.
+The learning of appropriate trajectory plans or control policies is usually
+based on optimization approaches and reinforcement learning.  It is well known
+that these methods do not scale well to high dimensional control problems,
+that they are computationally very expensive, that they are not particularly
+robust to unforeseen perturbations in the environment, and that it is hard to
+re-use these representations for related movement tasks. In order to make
+progress towards a better understanding of biology and to create movement
+systems that can automatically build new representations, it seems to be
+necessary to develop a framework of how to control and to learn control with
+movement primitives. This workshop will bring together neuroscientists,
+roboticists, engineers, and mathematicians to explore how to approach the
+topic of movement primitives in a principled way. Topics of the workshop
+include the questions such as: what are appropriate movement primitives, how
+are primitives learned, how can primitives be inserted into control loops, how
+are primitives sequenced, how are primitives combined to form new primitives,
+how is sensory information used to modulate primitives, how primitives primed
+for a particular task, etc. These topics will be addressed from a hybrid
+perspective combining biological and artificial movement systems.
+
+----------------------------------------------------------------------
+
+			LARGE MARGIN CLASSIFIERS
+
+		    http://svm.first.gmd.de/nips98/
+
+	       Organizers: Alex J. Smola, Peter Bartlett,
+		  Bernhard Schoelkopf, Dale Schuurmans
+
+Many pattern classifiers are represented as thresholded real-valued
+functions, eg: sigmoid neural networks, support vector machines,
+voting classifiers, and Bayesian schemes.  Recent theoretical and
+experimental results show that such learning algorithms frequently
+produce classifiers with large margins---where the margin is the 
+amount by which the classifier's prediction is to the correct side 
+of threshold.  This has led to the important discovery that there 
+is a connection between large margins and good generalization 
+performance: classifiers that achieve large margins on given 
+training data also tend to perform well on future test data.  
+This workshop aims to provide an overview of recent developments 
+in large margin classifiers (ranging from theoretical results to 
+applications), to explore connections with other methods, and to 
+identify directions for future research.  The workshop will 
+consist of four sessions over two days:
+  - Mathematical Programming
+  - Support Vector and Kernel Methods,
+  - Voting Methods (Boosting, Bagging, Arcing, etc), and
+  - Connections with Other Topics (including an organized panel
+discussion)
+
+Further details can be found at http://svm.first.gmd.de/nips98/
+
+----------------------------------------------------------------------
+
+     DEVELOPMENT AND MATURATION IN NATURAL AND ARTIFICIAL STRUCTURES
+
+http://www.cs.cmu.edu/Groups/NIPS/1998/Workshop-CFParticipation/haith.html
+
+			       Organizers:
+      Gary Haith, Computational Sciences, NASA Ames Research Center
+		   Jeff Elman, Cognitive Science, UCSD
+  Silvano Colombano, Computational Sciences, NASA Ames Research Center
+     Marshall Haith, Developmental Psychology, University of Denver
+
+We believe that an ongoing collaboration between computational work and
+developmental work could help unravel some of the most difficult issues
+in each domain.  Computational work can address dynamic, hierarchical
+developmental processes that have been relatively intractable to
+traditional developmental analysis, and developmental principles and
+theory can generate insight into the process of building and modeling
+complex and adaptive computational structures.  In hopes of bringing
+developmental processes and analysis into the neural modeling mainstream,
+this session will focus developmental modelers and theorists on the task
+of constructing a set of working questions, issues and approaches.  The
+session will hopefully include researchers studying developmental
+phenomena across all levels of scale and analysis, with the aim of
+highlighting both system-specific and general features of development.
+
+For more information, contact:
+Gary Haith, Computational Sciences, NASA Ames Research Center
+phone #: (650) 604-3049
+FAX #:   (650) 604-3594
+E-mail:  haith@ptolemy.arc.nasa.gov
+Mail:    NASA Ames Research Center
+         Mail Stop 269-3
+         Mountain View, CA 94035-1000
+
+----------------------------------------------------------------------
+
+		      HYBRID NEURAL SYMBOLIC INTEGRATION
+
+ http://osiris.sunderland.ac.uk/~cs0stw/wermter/workshops/nips-workshop.html
+
+				 Organizers:
+		 Stefan Wermter, University of Sunderland, UK
+		     Ron Sun, University of Alabama, USA
+
+In the past it was very controversial whether neural or symbolic
+approaches alone will be sufficient to provide a general framework for
+intelligent processing. The motivation for the integration of symbolic
+and neural models of cognition and intelligent behavior comes from many
+different sources.  From the perspective of cognitive neuroscience, a
+symbolic interpretation of an artificial neural network architecture is
+desirable, since the brain has a neuronal structure and the capability to
+perform symbolic processing. From the perspective of knowledge-based
+processing, hybrid neural/symbolic representations are advantageous,
+since different mutually complementary properties can be
+integrated. However, neural representations show advantages for gradual
+analog plausibility, learning, robust fault-tolerant processing, and
+generalization to similar input. Areas of interest include: Integration
+of symbolic and neural techniques for language and speech processing,
+reasoning and inferencing, data mining, integration for vision, language,
+multimedia; combining fuzzy/neuro techniques in engineering; exploratory
+research in emergent symbolic behavior based on neural networks,
+interpretation and explanation of neural networks, knowledge extraction
+from neural networks, interacting knowledge representations, dynamic
+systems and recurrent networks, evolutionary techniques for cognitive
+tasks (language, reasoning, etc), autonomous learning systems for
+cognitive agents that utilize both neural and symbolic learning
+techniques.
+
+For more information please see
+http://osiris.sunderland.ac.uk/~cs0stw/wermter/workshops/nips-workshop.html
+
+Workshop contact person:
+Professor Stefan Wermter
+Research Chair in Intelligent Systems
+University of Sunderland
+School of Computing & Information Systems
+St Peters Way
+Sunderland SR6 0DD
+United Kingdom
+phone: +44 191 515 3279
+fax:   +44 191 515 2781
+email: stefan.wermter@sunderland.ac.uk
+http://osiris.sunderland.ac.uk/~cs0stw/
+
+----------------------------------------------------------------------
+
+       SIMPLE INFERENCE HEURISTICS VS. COMPLEX DECISION MACHINES
+
+http://www.cs.cmu.edu/Groups/NIPS/1998/Workshop-CFParticipation/todd.html
+
+  Organizers: Peter M. Todd, Laura Martignon, Kathryn Blackmond Laskey
+
+Participants and presentations are invited for this post-NIPS
+workshop on the contrast in both psychology and machine learning
+between a probabilistically- defined view of rational decision
+making with its apparent demand for complex Bayesian models, and a
+more performance-based view of rationality built on the use of
+simple, fast and frugal decision heuristics.
+
+----------------------------------------------------------------------
+
+			     CONTINUOUS LEARNING
+
+	     http://www.forwiss.uni-erlangen.de/aknn/cont-learn/
+
+				 Organizers:
+  Peter Protzel, Lars Kindermann, Achim Lewandowski, and Michael Tagscherer
+	    FORWISS and Chemnitz University of Technology, Germany
+
+By continuous learning we mean that learning takes place all the time and
+is not interrupted, that there is no difference between periods of training
+and operation, and that learning AND operation start with the first
+pattern. In this workshop, we will especially focus on the approximation of
+non-linear, time-varying functions. The goal is modeling and adapting the
+model to follow the changes of the underlying process, not merely
+forecasting the next output. In order to facilitate the comparison of the
+various methods, we provide different benchmark data sets and participants
+are encouraged to discuss their results on these benchmarks during the
+workshop.
+
+Further information: http://www.forwiss.uni-erlangen.de/aknn/cont-learn/
+
+----------------------------------------------------------------------
+
+		   LEARNING CHIPS AND NEUROBOTS
+
+		  http://bach.ece.jhu.edu/nips98
+
+			    Organizers:
+	    Gert Cauwenberghs, Johns Hopkins University
+	 Ralph Etienne-Cummings, Johns Hopkins University
+		  Marwan Jabri, Sydney University
+
+This workshop aims at a better understanding of how different
+approaches to learning and sensorimotor control, including
+algorithms and hardware, from backgrounds in neuromorphic VLSI,
+robotics, neural nets, AI, genetic programming etc. can be combined
+to create more intelligent systems interacting with their
+environment.
+
+We encourage active participation, and welcome live demonstrations
+of systems. The panel has a representation over a wide range of
+disciplines.  Machine learning approaches include: reinforcement
+learning, TD-lambda (or predictive hebbian learning), Q-learning,
+and classical as well as operand conditioning. VLSI implementations
+cover some of these, integrated on-chip, plus the sensory and motor
+interfaces.  Evolutionary approaches cover genetic techniques,
+applied to populations of robots. Finally, we have designers of
+microrobots and walking robots on the panel.  This list is by no
+means exhaustive!
+
+More information can be found at URL: http://bach.ece.jhu.edu/nips98
+__________________________________________________________________________
+
+

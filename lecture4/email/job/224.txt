@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Nov 13 05:51:25 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id FAA02930;
+	Sat, 13 Nov 1999 05:51:19 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23857;
+          12 Nov 99 18:28 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23846;
+          12 Nov 99 18:15 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15970;
+          12 Nov 99 18:14 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa01064; 12 Nov 99 5:49 EST
+Received: from neuro.informatik.uni-ulm.de by edrc.cmu.edu id aa15845;
+          12 Nov 99 5:48 EST
+Received: by neuro.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA06458; Fri, 12 Nov 99 11:49:28 +0100
+Received: from cerebellum.informatik.uni-ulm.de(134.60.73.38)
+ via SMTP by neuro.informatik.uni-ulm.de, id smtpdAAAa06456; Fri Nov 12 11:49:25 1999
+Received: by cerebellum.informatik.uni-ulm.de (SMI-8.6/SMI-SVR4)
+	id LAA03899; Fri, 12 Nov 1999 11:44:56 +0100
+From: Fritz Sommer <fritz@neuro.informatik.uni-ulm.de>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Date: Fri, 12 Nov 1999 11:44:56 +0100 (MET)
+To: Connectionists@cs.cmu.edu
+Subject: Research Position in brain imaging/cogn. neuroscience
+X-Mailer: VM 6.43 under 20.4 "Emerald" XEmacs  Lucid
+Message-Id: <14379.60917.506870.529751@cerebellum>
+Status: RO
+X-Status: 
+
+
+Research Position (BAT IIa) available 
+(cognitive/computational neuroscience and brain imaging)
+
+At the University of Ulm an interdiscplinary research project on 
+analysis and modeling of functional magnetic resonance data has been 
+established. It is a joint project of the departments of Psychiatry
+(Prof. Dr. M. Spitzer), Radiology and Neural Information Processing
+(Prof. Dr. G. Palm). The project focusses on the development of new 
+methods for the detection and interpretation of functional/effective 
+connectivity in fMRI data and their application to working memory tasks. 
+This project offers a unique environment for a direct cooperation between 
+theorists and experimenters. 
+
+In the described project a position is available (beginning Jan 2000, 
+2 years, 1 year extension possible). 
+Candidates should be strongly interested in interdisciplinary research.
+They should have a background in statistical methods (cluster analysis,
+Neural Networks), functional MRI analysis or computational neuroscience. 
+Required is a recent masters degree or equivalent in computer science, 
+physics, mathematics or in a closely related area. Experience in programming 
+in C in a Unix environment is necessary, experience with MATLAB and SPM 
+is helpful. The research can be conducted as part of a PhD thesis degree 
+in Computer Science. 
+
+Salary according to BAT IIa. The University of Ulm is an equal opportunity 
+employer and encourages female scientists to apply. Employment 
+will be effected through the "Zentrale Universitaetsverwaltung" of the 
+University of Ulm.
+
+Ulm is a town of about 160000 inhabitants nicely situated in 
+the Danube valley. It has picturesque old parts (not to forget the
+gothic cathedral with the highest church tower of the world) 
+and is surrounded by beautiful landscape, lakes, creek valleys, 
+forrests and the sparsely populated "Schwaebische Alb" high plane. 
+In an one hour train ride one can either reach the alps for skiing 
+and hiking, or the cities of Munich and Stuttgart for more 
+sophisticated cultural programs. 
+
+
+Please send us CV, letter of motivation, and, if possible, addresses of 
+three referees.
+
+Prof. Dr. Dr. M. Spitzer, Department of Psychiatry III, 
+University of Ulm, Leimgrubenweg 12, 89075 Ulm, Germany 
+or e-mail to manfred.spitzer@medizin.uni-ulm.de. 
+
+Because of the time constraints please email your application to: 
+Dr. F. T. Sommer, email: fritz@neuro.informatik.uni-ulm.de
+(You can also ask for more detailed informations on the research 
+project.)
+
+

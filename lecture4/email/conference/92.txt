@@ -1,0 +1,131 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Sun May 10 19:12:57 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id TAA27559
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 10 May 1998 19:12:54 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa19069;
+          10 May 98 12:04:32 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa19067;
+          10 May 98 11:43:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01955;
+          10 May 98 11:43 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27999; 10 May 98 8:44 EDT
+Received: from techunix.technion.ac.il by EDRC.CMU.EDU id aa05316;
+          10 May 98 8:43:41 EDT
+Received: from dumbo.technion.ac.il (dumbo.technion.ac.il [132.68.48.207])
+	by techunix.technion.ac.il (8.8.7/8.8.5) with SMTP id PAA23920
+	for <@techunix.technion.ac.il:connectionists@cs.cmu.edu>; Sun, 10 May 1998 15:43:27 +0300 (IDT)
+Received: from localhost by dumbo.technion.ac.il via SMTP (950413.SGI.8.6.12/940406.SGI)
+	for <connectionists@cs.cmu.edu> id PAA01225; Sun, 10 May 1998 15:26:09 +0300
+Date: Sun, 10 May 1998 15:26:08 +0300 (IDT)
+From: Ron Meir <rmeir@dumbo.technion.ac.il>
+To: Connectionists Mailing List <connectionists@cs.cmu.edu>
+Subject: Workshop on non-linear time series 
+Message-ID: <Pine.SGI.3.96.980510152341.755B-100000@dumbo.technion.ac.il>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+* APOLOGIES TO MULTIPLE RECIPIENTS OF THIS MESSAGE
+
+A workshop titled ``Non-linear Time Series for Learning, Prediction and
+Control'' will be held at the Technion, Israel, between June 29 and July 2
+1998. The main thrust of the workshop will be the presentation of current
+research on the rapidly evolving field of non-linear models for time
+series, with applications in machine learning, prediction, filtering and
+control. The workshop will consist of 30-45 minute talks by several
+invited speakers from Israel and abroad (see list below), as well as
+several contributed half hour talks.  The workshop will provide both
+faculty and students with a unique opportunity to be introduced to the
+field of non-linear time series modeling, and to discuss their research
+interests with some of the leading people in the field. 
+
+The invited speakers in the workshop come from a variety of disciplines
+including: Statistics, Econometrics, Information Theory, Dynamical
+Systems, Physics and Machine learning; the main intention being to achieve
+a truly inter-disciplinary workshop.  All invited speakers have been asked
+to provide a short introduction to their respective field. 
+
+People interested in attending the workshop are requested to send an
+e-mail message to this effect to either Dr. Ron Meir
+(rmeir@dumbo.technion.ac.il) or to Dr. Hava Siegelman
+(iehava@ie.technion.ac.il), as soon as possible, as the number of
+participants is restricted for reasons of space.  No resgistration fee
+will be required. 
+
+============================================================================
+
+	    Research Workshop of the Israel Science Foundation 
+	Non-linear Time Series for Learning, Prediction and Control
+			June 29 - July 2 1998
+			   Technion, Israel
+	http://www-ee.technion.ac.il/~rmeir/WORKSHOP/conference.html 
+  	http://www-ee.technion.ac.il/~rmeir/WORKSHOP/schedule.html 
+
+Organizing Committee: Ron Meir, Robert Adler, Yoram Baram, Offer Lieberman,
+		      Hava Siegelman, Naftali Tishby. 
+
+Invited Speakers:
+
+Feder, M.	Universal prediction with finite memory.
+Glass, L.	Control of complex rhythms in medicine. 
+Granger C.	(1) A general introduction to non-linear time series.
+		(2) Co-monotone processes.
+Kanter, I.	Analytical study of time series prediction by feedforward 
+		networks. 
+Lo J.		Neural filtering.
+Merhav, N.	Universal prediction for indexed classes of sources. 
+Opper, M.	Worst case analysis for individual sequences. 
+Ott, E.		Controlling chaos using unstable periodic orbits. 
+Masry, E.	Additive nonlinear time series.
+Nobel, A.	Nonparametric estimation from ergodic processes. 
+Priestley, M.	Time-frequency decomposition via wavelet analysis.
+Robinson, P.	Long memory conditionally heteroscedastic errors in
+		semiparametric estimation of long memory. 
+Sjoberg, J.	Nonlinear black-box modeling in signal processing. 
+Tong, H. 	Testing for common structure in a panel of threshold models.
+Weigend, A.	Title to be announced. 
+Zakai, M.	Nonlinear filtering. 
+Zeitouni, O.    On the memory length of optimal nonlinear estimation of Markovian processes
+
+
+Financial Support 
+
+Israel Science Foundation, Institute for Advanced Studies in Mathematics at the 
+Technion, Departments of Electrical Engineering and Industrial Engineering and 
+Management at the Technion.
+
+
+
+
+
+
+
+
+
+    		      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+

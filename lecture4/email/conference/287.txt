@@ -1,0 +1,53 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Aug 19 07:42:47 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA27519;
+	Thu, 19 Aug 1999 07:42:41 +0200 (METDST)
+Message-Id: <199908190542.HAA27519@eivind.imm.dtu.dk>
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27036;
+          19 Aug 99 0:14 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27034;
+          19 Aug 99 0:05 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01961;
+          19 Aug 99 0:04 EDT
+Date: Thu, 12 Aug 1999 18:04:25 +0100 (BST)
+From: "Nigel M. Allinson" <allinson@umist.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Workshop on Self-Organising Systems
+Status: RO
+X-Status: 
+
+Dear All,
+
+
+Emergent Behaviour Computing - one of EPSRCs Emerging Computing
+networks- is holding its first two-day workshop on "Self-Organising
+Systems - Future Prospects for Computing" at 
+                UMIST, Manchester, England
+                on 28/29 October, 1999
+The Workshop covers divers aspects of self-organising systems -
+both natural and artificial, and aims to present the best of
+international and UK activity.  The overall focus is the current and
+future application of self-organisation as an alternate paradigm for
+"intelligent" computation. The Workshop represents an important
+opportunity for those active, or just interested, in self-organising
+system research and application to hear about current work, discuss
+future directions and priorities, and form research contacts.  There
+are several leading overseas speakers, and contributions from the UK
+community are invited.  Details of submission and registration can be
+obtained from http://images.ee.umist.ac.uk/emergent.
+
+--
+|  Prof. Nigel M. Allinson
+|______________________________________
+Dept. of Electrical Engineering and Electronics
+UMIST, Manchester, M60 1QD, England   ________
+|
+|  allinson@umist.ac.uk
+|  Office Phone: (+44) (0) 161 200 4641
+|  Office Fax:    (+44) (0) 161 200 4784
+|  Home Phone:  (+44) (0) 1904 626756
+|______________________________________
+|  http://images.ee.umist.ac.uk
+|______________________________________

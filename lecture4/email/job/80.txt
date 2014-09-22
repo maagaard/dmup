@@ -1,0 +1,124 @@
+
+
+From spm-request@mailbase.ac.uk Mon Mar  8 14:27:05 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id OAA17287
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 8 Mar 1999 14:27:03 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id NAA09576;
+	Mon, 8 Mar 1999 13:31:41 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id NAA28788;
+        Mon, 8 Mar 1999 13:25:40 GMT
+Received: from cortex.rotman-baycrest.on.ca (cortex.rotman-baycrest.on.ca [206.248.153.1]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id NAA28705;
+        Mon, 8 Mar 1999 13:25:32 GMT
+Received: from rri-fw1.rotman-baycrest.on.ca [206.248.153.9]
+	(HELO rotman-baycrest.on.ca)
+	by cortex.rotman-baycrest.on.ca (AltaVista Mail V2.0/2.0 BL23 listener)
+	id 0000_002b_36e3_cf5c_140c;
+	Mon, 08 Mar 1999 08:23:40 -0500
+Message-ID: <36E3D058.8043C77F@rotman-baycrest.on.ca>
+Date: Mon, 08 Mar 1999 08:27:52 -0500
+X-Mailer: Mozilla 4.5 [en] (WinNT; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------8F67BFFF160ED45D7C315F34"
+Content-Transfer-Encoding: 8bit
+Subject: Advertisement
+From: Paula Mathews <pmathews@rotman-baycrest.on.ca>
+To: SPM mailing list <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Paula Mathews <pmathews@rotman-baycrest.on.ca>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+--------------8F67BFFF160ED45D7C315F34
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Could you please resend this advertisement to the SPM mailing list?
+Apparently, the attachment could not be opened.  I have inserted the ad
+directly into this message.
+
+Thank you.
+
+
+NEUROPSYCHIATRIC CLINICAL SCIENTIST
+
+The Kunin-Lunenfeld Applied Research Unit of Baycrest Centre for
+Geriatric Care invites applications for a neuropsychiatric scientist
+position.  The successful candidate will engage in an interdisciplinary
+clinical research program in the Department of Psychiatry.  The person
+will work closely with clinician researchers, basic neuroscientists and
+the program in neuropsychiatry at the Rotman Research Institute and at
+the University of Toronto.  The position will involve an emphasis on the
+neurobehavioural underpinnings of late life mood disorders with
+opportunity for collaboration in functional neuroimaging.
+
+The candidate must have an MD plus at least a research Master’s, or a
+Ph.D. (or equivalent) in a related field.  The candidate will be
+eligible for a cross appointment at the University of Toronto at the
+Assistant or Associate professor level. Clinical investigators
+(psychiatrists, neurologists, neuropsychologists, etc.) with an interest
+in the neurology of behaviour are especially encouraged to apply.
+
+The KLARU of Baycrest Centre is the clinical arm of its Research
+division. The mission of the KLARU is to improve clinical care by
+conducting research which evaluates clinical practice, integrates
+advances in basic sciences with current clinical practice, and
+determines the prevalence of disorders in the community and at
+Baycrest.  Research initiatives and programs are designed to enhance the
+quality of care and life of the elderly.  Such research functions at the
+interface between basic and applied science and involves both the
+evaluations of the validity of current treatment programs and the
+development of new management and treatment procedures.
+
+Baycrest Centre and the University of Toronto encourage applications
+from qualified individuals, members of visible minorities, aboriginal
+people and persons with disabilities.
+
+Position available immediately, and will remain open until filled.
+Applicants should submit a covering letter describing current research
+interests and future research goals, a complete C.V. relevant reprints
+and the names of three potential references to:
+
+Dr. David L. Streiner
+Assistant Vice-President, Research
+Director, Kunin-Lunenfeld Applied Research Unit
+Baycrest Centre for Geriatric Care
+3560 Bathurst Street
+Toronto, Ontario,  CANADA    M6A 2E1
+FAX:  (416) 785-4230
+Email:  dstreiner@rotman-baycrest.on.ca
+
+
+--------------8F67BFFF160ED45D7C315F34
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="pmathews.vcf"
+Content-Description: Card for Paula Mathews
+Content-Disposition: attachment;
+ filename="pmathews.vcf"
+Content-Transfer-Encoding: 7bit
+
+begin:vcard 
+n:Mathews;Paula
+tel;fax:(416) 785-2862
+tel;work:(416) 785-2500 x 2941
+x-mozilla-html:FALSE
+org:Baycrest Centre for Geriatric Care
+version:2.1
+email;internet:pmathews@rotman-baycrrest.on.ca
+title:Administrative Secretary to VP Research
+adr;quoted-printable:;;3560 Bathurst Street=0D=0ANorth York, ON M6A 2E1;;;;
+end:vcard
+
+--------------8F67BFFF160ED45D7C315F34--
+

@@ -1,0 +1,134 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb  9 13:48:19 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA17159;
+	Tue, 9 Feb 1999 13:48:13 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10870;
+          9 Feb 99 5:22 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10868;
+          9 Feb 99 5:14 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15487;
+          9 Feb 99 5:13 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03000; 9 Feb 99 4:47 EST
+Received: from krimson.cc.kuleuven.ac.be by EDRC.CMU.EDU id aa17671;
+          9 Feb 99 4:46:28 EST
+Received: from simone.neuro.kuleuven.ac.be (simone.neuro.kuleuven.ac.be [134.58.34.50])
+	by krimson.cc.kuleuven.ac.be (8.9.1a/8.9.0) with SMTP id KAA07448
+	for <Dave_Touretzky@cs.cmu.edu>; Tue, 9 Feb 1999 10:45:07 +0100
+Received: by simone.neuro.kuleuven.ac.be (SMI-8.6/SMI-SVR4)
+	id KAA21408; Tue, 9 Feb 1999 10:45:50 +0100
+Date: Tue, 9 Feb 1999 10:45:50 +0100
+From: Marc Van Hulle <Marc.VanHulle@med.kuleuven.ac.be>
+Message-Id: <199902090945.KAA21408@simone.neuro.kuleuven.ac.be>
+To: Connectionists@cs.cmu.edu
+Subject: NNSP'99 deadline extended to February 20
+X-UIDL: f3e2c1ddf638b3f5ccf7e64078594f2e
+Status: RO
+X-Status: 
+
+
+************************************************
+****          FINAL CALL FOR PAPERS         ****
+****                                        ****
+****   Note extended submission deadline    ****
+**** Submission deadline: February 20, 1999 ****
+************************************************
+
+1999 IEEE Workshop on Neural Networks for Signal Processing
+August 23-25, 1999, Madison, Wisconsin
+
+NNSP'99 homepage: http://eivind.imm.dtu.dk/nnsp99
+
+Thanks to the sponsorship of IEEE Signal Processing Society the ninth
+of a series of IEEE workshops on Neural Networks for Signal Processing
+will be held at the Concourse Hotel, Madison, Wisconsin, USA.
+The workshop will feature keynote addresses, technical presentations,
+panel discussions and special sessions. Papers are solicited for, but
+not limited to, the following areas:
+
+Paradigms:
+Artificial neural networks, support vector machines, Markov models,
+graphical models, dynamical systems, evolutionary computation,
+nonlinear signal processing, and wavelets.
+
+Application Areas:
+Image/speech/multimedia processing, intelligent human computer
+interfaces, intelligent agents, blind source separation, OCR, robotics,
+adaptive filtering, communications, sensors, system identification,
+issues related to RWC, and other general signal processing and pattern
+recognition.
+
+Theories:
+Generalization, design algorithms, optimization, parameter estimation,
+and network architectures.
+
+Implementations:
+Parallel and distributed implementation, hardware design, and other
+general implementation technologies.
+
+
+SPECIAL SESSIONS
+The workshop features special sessions on
+* Support vector machines
+* Intelligent human computer interfaces
+
+
+PAPER SUBMISSION PROCEDURE
+Prospective authors are invited to submit extended summaries of no
+more than 6 pages using the electronic submission procedure described
+at the workshop homepage http://eivind.imm.dtu.dk/nnsp99
+
+Exceptionally, in case of mail submission, prepare 5 copies of
+extended summaries of no more than 6 pages.
+The top of the first page of the summary should include a title,
+authors' names, affiliations, address, telephone and fax numbers and
+email address.
+
+Please send paper submissions to:
+
+Jan Larsen
+NNSP'99, Department of Mathematical Modelling, Building 321
+Technical University of Denmark
+DK-2800 Lyngby, Denmark
+
+
+Camera-ready full papers of accepted proposals will be published in
+a hard-bound volume by IEEE and distributed at the workshop.
+
+
+SCHEDULE
+Submission of extended summary:            February 20, 1999
+Notification of acceptance:                March 31, 1999
+Submission of photo-ready accepted paper:  April 29, 1999
+Advanced registration, before:             June 30, 1999
+
+
+ORGANIZATION
+
+General Chair
+Yu Hen HU
+University of Wisonsin-Madison
+email: hu@ece.wisc.edu
+
+Finance Chair
+Tulay ADALI
+University of Maryland
+Baltimore County
+email: adali@umbc.edu
+
+Proceedings Chair
+Elizabeth J. WILSON
+Raytheon Co.
+email: bwilson@ed.ray.com
+
+Proceedings Co-Chair
+Scott C. DOUGLAS
+Southern Methodist University
+email: douglas@seas.smu.edu
+
+Publicity Chair
+Marc van HULLE
+Katholieke Universiteit Leuven
+email: marc@neuro.kuleuven.ac.be
+

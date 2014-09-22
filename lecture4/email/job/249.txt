@@ -1,0 +1,65 @@
+
+
+From spm-request@mailbase.ac.uk Thu Dec 16 11:39:15 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id LAA08006
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 16 Dec 1999 11:39:14 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id KAA11099;
+	Thu, 16 Dec 1999 10:40:08 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id KAA15037;
+        Thu, 16 Dec 1999 10:34:37 GMT
+Received: from fil.ion.ucl.ac.uk (cream.fil.ion.ucl.ac.uk [193.62.66.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id KAA15021;
+        Thu, 16 Dec 1999 10:34:33 GMT
+Received: from zappa.ion.bpmf.ac.uk by fil.ion.ucl.ac.uk (8.8.8+Sun/SMI-SVR4)
+	id KAA03303; Thu, 16 Dec 1999 10:26:53 GMT
+Received: from zappa by zappa.ion.bpmf.ac.uk (8.8.8+Sun/SMI-SVR4)
+	id KAA14734; Thu, 16 Dec 1999 10:26:48 GMT
+Message-Id: <199912161026.KAA14734@zappa.ion.bpmf.ac.uk>
+Date: Thu, 16 Dec 1999 10:26:48 +0000 (GMT)
+Reply-To: John Ashburner <john@fil.ion.ucl.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/plain; charset=us-ascii
+Content-MD5: HsoRBOnRxVAS+HPR/J1ieA==
+X-Mailer: dtmail 1.2.1 CDE Version 1.2.1 SunOS 5.6 sun4m sparc 
+Subject: postdoc announcement
+From: John Ashburner <john@fil.ion.ucl.ac.uk>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+---------------------- job posting -----------------------------
+
+A postdoctoral position is available immediately at the MGH-NMR Center
+to develop and enhance tools for computational neuroanatomy. Applicants 
+should have recently received their Ph.D., and have a strong background in
+computer vision or image processing as well in programming (C and matlab). 
+In addition, experience in one or more of the following fields is desirable: 
+1) statistical pattern recognition, 2) neuroanatomy, 3) computer 
+visualization, graphics and user interface design. The successful candidate 
+will join an interdisciplinary group of researchers involved in human brain
+mapping at Mass. General Hospital, including Bruce Fischl, Anders Dale, 
+Eric Halgren, Roger Tootell, Bruce Rosen, David Boas, Jack Belliveau and
+others. Send CV, statement of research background and interests, names and
+addresses of 3 references to:
+
+Bruce Fischl, Ph.D.
+MGH-NMR Center
+149 13th St
+Charlestown, MA 02129
+FAX: 617-726-7422
+email: fischl@nmr.mgh.harvard.edu
+
+
+Women and Minorities are encouraged to apply
+
+----------------- end of job posting ------------------------------------
+

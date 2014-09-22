@@ -1,0 +1,47 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Feb 23 14:38:09 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id OAA12067;
+	Tue, 23 Feb 1999 14:38:03 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20426;
+          23 Feb 99 5:59 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20424;
+          23 Feb 99 5:54 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05616;
+          23 Feb 99 5:53 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17029; 23 Feb 99 5:28 EST
+Received: from [134.160.162.124] by EDRC.CMU.EDU id aa24087;
+          23 Feb 99 5:27:33 EST
+Received: from localhost (manatee.brain.riken.go.jp [134.160.162.41])
+	by savanna.brain.riken.go.jp (8.9.1a/3.7W-19981203) with ESMTP id TAA11218;
+	Tue, 23 Feb 1999 19:27:26 +0900 (JST)
+To: connectionists@cs.cmu.edu
+CC: riho@brain.riken.go.jp
+Subject: Brain Science Summer Course
+X-Mailer: Mew version 1.93 on XEmacs 20.4 (Emerald)
+X-URL: http://www.islab.brain.riken.go.jp/~amari/
+Mime-Version: 1.0
+Content-Type: Text/Plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <19990223192725G.amari@brain.riken.go.jp>
+Date: Tue, 23 Feb 1999 19:27:25 +0900
+From: Shunichi Amari <amari@brain.riken.go.jp>
+X-Dispatcher: imput version 980905(IM100)
+Lines: 13
+Status: RO
+X-Status: 
+
+     The RIKEN Brain Science Institute is offering a summer program to 
+train advanced students interested in molecular, cellular, systems, or
+computational neuroscience.  Applicants may choose either a laboratory
+internshipfor up to two months, or participate in an intensive
+two-week lecture course featuring a distinguished international
+faculty.  See our website for details.
+
+    Summer Internship: July - September, 1999
+    Lecture Course: July 25 - August 7, 1999
+
+        http://www.brain.riken.go.jp/summer/bsi-summer.html
+
+Shun-ichi Amari

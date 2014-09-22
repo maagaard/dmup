@@ -1,0 +1,318 @@
+
+
+From owner-brain@eivind.imm.dtu.dk Tue Nov  9 11:15:11 MET 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) id LAA08810
+	for brain-list; Tue, 9 Nov 1999 11:15:08 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-brain@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id LAA08803
+	for <brain@eivind.imm.dtu.dk>; Tue, 9 Nov 1999 11:15:06 +0100 (MET)
+Received: from eivind.imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.9.3 (PHNE_18979)/8.9.3) with ESMTP id LAA06907
+	for <brain@eivind.imm.dtu.dk>; Tue, 9 Nov 1999 11:16:41 +0100 (MET)
+Message-ID: <3827F482.CE3B9695@eivind.imm.dtu.dk>
+Date: Tue, 09 Nov 1999 11:16:34 +0100
+From: Matt <mgl@eivind.imm.dtu.dk>
+Organization: Technical University of Denmark
+X-Mailer: Mozilla 4.7 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Brain Group <brain@eivind.imm.dtu.dk>
+Subject: [BRAIN] Conference: THE UNITY OF CONSCIOUSNESS - BINDING, INTEGRATION, AND 
+ DISSOCIATION
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Sender: owner-brain@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: brain@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+FYI,
+
+Matt
+-----------------------------------------------------------------------
+From: patrickw@cs.monash.edu.au (Patrick Wilken)
+Subject: CFP: ASSC4 "The Unity of Consciousness: Binding, Integration &
+Dissociation"
+Date: Mon, 8 Nov 1999 12:38:13 +1100
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+           ASSOCIATION FOR THE SCIENTIFIC STUDY OF CONSCIOUSNESS
+
+                  -----------------------------------
+                  4TH ANNUAL MEETING: CALL FOR PAPERS
+                  -----------------------------------
+
+                      THE UNITY OF CONSCIOUSNESS:
+                 BINDING, INTEGRATION, AND DISSOCIATION
+
+                     Universite Libre de Bruxelles
+             JUNE 29th - JULY 2nd, 2000: BRUSSELS, BELGIUM
+
+
+The fourth meeting of the Association for the Scientific Study of
+Consciousness will be held from June 29th to July 2nd, 2000, at the
+Universite Libre de Bruxelles (Brussels, Belgium) on the theme of "The
+Unity of Consciousness".
+
+Consciousness has many elements, from sensory experiences such as
+vision, audition, and bodily sensation, to nonsensory aspects such as
+volition, emotion, memory, and thought. The apparent unity of these
+elements is striking: all are presented to us as experiences of a single
+subject, and all seem to be contained within a unified field of
+experience. But this apparent unity raises many questions. How do
+diverse systems in the brain co-operate to produce a unified experience?
+Are there conditions under which this unity breaks down? And is
+conscious experience really unified at all?
+
+In recent years, these questions have been addressed by researchers in
+many fields. Neurophysiologists and computational modelers have
+investigated the mechanisms by which binding and integration of
+disparate information may take place in the brain, producing a unified
+experience. Neuropsychological research has documented a large variety
+of dissociation disorders in which damage to specific brain regions
+leads to dissociated experiences, suggesting the apparent disintegration
+of a unified subject. Cognitive psychologists have investigated the role
+of attention and learning in the integration of information, and have
+examined conditions under which perception and action, or subjective
+experience and behavior, can become dissociated. Some cognitive modelers
+have suggested that unity is a mere illusion, while others have
+emphasized the role of a central unifying system in integrating sensory
+and motor experience. And philosophers have analyzed just what the unity
+of consciousness comes to, and whether we have reason to believe that it
+exists.
+
+The fourth ASSC conference will bring together researchers from numerous
+disciplines to discuss these issues. Topics that will be addressed
+include:
+
+- the role of synchronous oscillations in binding and integration
+- other neurophysiological mechanisms for integration of information
+- computational models of binding, integration, and unity
+- neuropsychological disorders with dissociation of experience
+- the role of attention and learning in unification of experience
+- dissociations between perceptual systems
+- implicit vs. explicit aspects of knowledge and learning
+- dissociations between perception, thought, and action
+- the relationship between information integration and unified
+experience
+- analysis of the concept of unity
+- unification of consciousness and self across time
+- the existence or nonexistence of unified consciousness
+
+Confirmed plenary speakers include: Rodney Cotterill, Zoltan Dienes,
+Andreas Engel, Glyn Humphreys, Susan Hurley, Pierre Perruchet, Randy
+O'Reilly, Sidney Shoemaker, Catherine Tallon-Baudry, Giulio Tononi,
+Anne Treisman, Andrew Young, and Semir Zeki.
+
+
+-------------------------
+CALL FOR PAPERS & POSTERS
+-------------------------
+
+While the central theme of ASSC4 is "The unity of consciousness", and
+plenary sessions will deal largely with this theme, speakers in
+concurrent sessions are invited to talk on any topic relevant to the
+scientific study of consciousness. Submissions that include
+physiological, psychological, philosophical, and computational
+perspectives are all welcome.
+
+Submissions for both posters and talks will be accepted. Any person may
+present only one submission, but may be co-author on several. Oral
+presentations will be limited to 20 minutes, to be followed by a
+10-minute discussion period.
+
+Plenary lectures, symposia, concurrent sessions, and poster sessions
+will all be held on the Solbosch campus of the Universite Libre de
+Bruxelles.
+
+
+---------------------------
+CALL FOR WORKSHOP PROPOSALS
+---------------------------
+
+This notice is also intended as a call for workshop presenters. One of
+the aims of this meeting is to allow researchers to gain a background in
+areas that they may know little about. Towards that end a number of
+workshops are planned. Is there a topic you or perhaps someone in your
+laboratory might want to present? Some participants in the conference
+would be very interested in learning about technical matters such as
+fMRI or other important brain imaging techniques. Others might enjoy a
+seminar on a philosophical topic. If you have recently published a book
+or major article on some topic you might want to lead a discussion on
+it.  As with papers the focus of all workshops should naturally fit
+within the overall theme of the conference. A non-exclusive list of
+possible topics might include:
+
+    -- The latest methods and implications of various brain scanning
+       techniques (e.g. fMRI, EEG, SQUID, ERP)
+    -- Blindsight, neglect, or other neuropsychological syndromes
+    -- Neural network or other theoretical models of processing in areas
+       related to conscious activity
+    -- Differences and similarities between conscious and unconscious
+       processing
+    -- Current models of the visual system
+    -- Consciousness and metacognition
+    -- Criteria for the ascription of consciousness
+    -- Philosophical issues concerning unity
+    -- Phenomenological methods for investigating
+       consciousness
+    -- Please suggest other sample topics, or modify the above!!
+
+Workshops will be held in parallel sessions on the morning and
+afternoon of June 29th. Each workshop is intended to last
+approximately three hours. The sizes of workshops will vary between a
+minimum of 10 to a maximum of around 25 people. Workshops that do not
+achieve the minimum enrollment of 10 people will not be offered.
+Workshop presenters will receive a minimum honorarium of 20000 BEF. The
+cost of attending workshops will be 2000 BEF.
+
+To submit workshop proposals or to suggest further topics, please write
+to Patrick Wilken at <patrickw@cs.monash.edu.au>.
+
+
+---------------------------------------------------
+SUBMISSION OF PAPERS, POSTERS & WORKSHOP PROPOSALS
+---------------------------------------------------
+
+WORKSHOP PROPOSALS MUST BE RECEIVED BY JANUARY 15th, 2000.
+PAPER AND POSTER SUBMISSIONS MUST BE RECEIVED BY FEBRUARY 15th, 2000
+
+All submissions must include the following information in the order
+listed
+below:
+
+1. Title.
+
+2. Name, affiliation, and ASSC membership status of each co-author.
+
+3. An abstract of up to 200 words for paper and poster submissions and
+   of up to 500 words for workshop proposals.
+
+4. Complete contact information for the author with whom the scientific
+   programme committee will interact with about the submission:
+
+- Name
+- Institutional affiliation
+- Postal address
+- Email address
+- Telephone and fax numbers
+
+In addition paper and poster proposals should include the following
+information:
+
+5. One or two keywords describing the domain of your contribution
+
+6. An indication of which co-author will present the
+paper/poster/workshop
+   at the meeting.
+
+7. An indication of whether the proposal is submitted as a:
+   a. Spoken presentation
+   b. Poster presentation
+
+8. An indication of your willingness to switch presentation format if
+   your proposal cannot be included in the programme as per your stated
+   preference.
+
+
+WORKSHOP PROPOSALS:
+
+1.  Please send your proposal to Patrick Wilken
+<patrickw@cs.monash.edu.au>.
+
+
+PAPER & POSTER PROPOSALS:
+
+To submit your proposal(s) for inclusion in the programme, please do one
+of the following (listed in order of preference):
+
+1.  Send electronic mail to <assc4sub@ulb.ac.be>, with the words
+    "ASSC4 ABSTRACT SUBMISSION" followed by the last name of the
+    presenting co-author in the Subject: field of your message
+
+2.  Fill out the electronic submission form available on this page:
+    http://www.ulb.ac.be/event/ASSC4/sub/onlinesub.html
+
+3.  Fax your proposal to this number: +322 650 33 39. Make sure the
+    cover page includes the address indicated below.
+
+4.  Send a hardcopy of your proposal to:
+
+    ASSC4
+    c/o Axel Cleeremans
+    Cognitive Science Research Unit
+    Université Libre de Bruxelles
+    50 ave. F.-D. Roosevelt CP 122
+    B-1050 Brussels
+    BELGIUM
+
+
+------------
+REGISTRATION
+------------
+
+Deadline for early registration: April 30th, 2000.
+
+Registration fees:      Early       Late
+Non-members             6000 BEF    8000 BEF
+ASSC members            5000 BEF    7000 BEF
+Students                2500 BEF    3000 BEF
+Student ASSC members    2000 BEF    2500 BEF
+
+Note: All fees should be paid in Belgian Francs.
+
+Membership registration must be received by May 15th, 2000 to ensure
+discount.
+
+To register, please follow the instructions available from the
+conference website:
+
+http://www.ulb.ac.be/event/ASSC4/reg/index.html
+
+Address all enquiries about registration to <assc4reg@ulb.ac.be>
+
+
+-------------------
+FURTHER INFORMATION
+-------------------
+
+Please check the conference website for further information about the
+meeting, including information about paper and poster submissions;
+registration and submission forms; information about travel to Brussels
+and accomodations; and information about the scientific programme of the
+meeting:
+
+http://www.ulb.ac.be/event/ASSC4/
+
+Tune in frequently -- the site will be constantly updated to reflect the
+latest information. To enquire about any aspect of the conference,
+please write to the local organizer at <assc4@ulb.ac.be>.
+
+To find out more about the Association for the Scientific Study of
+Consciousness, and to apply for membership, please consult:
+
+http://assc.caltech.edu
+
+The ASSC publishes two scientific journals about which further
+information is available from the following websites:
+
+Consciousness & Cognition: http://www.apnet.com/www/journal/cc.htm
+
+PSYCHE: http://psyche.cs.monash.edu.au/
+
+
+----------------------------------------
+Axel Cleeremans
+
+on behalf of the Scientific Programme Committee:
+David Chalmers
+Axel Cleeremans
+Christof Koch
+Philip Merikle
+Antti Revonsuo
+Patrick Wilken

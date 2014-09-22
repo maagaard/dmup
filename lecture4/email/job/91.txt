@@ -1,0 +1,73 @@
+
+
+From spm-request@mailbase.ac.uk Mon Mar 29 19:28:25 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id TAA29450
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 29 Mar 1999 19:28:24 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id SAA06063;
+	Mon, 29 Mar 1999 18:35:55 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id SAA22323;
+        Mon, 29 Mar 1999 18:34:06 +0100 (BST)
+Received: from psyphw.psych.wisc.edu (psyphw.psych.wisc.edu [144.92.195.91]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id SAA22308;
+        Mon, 29 Mar 1999 18:34:02 +0100 (BST)
+Received: by psyphw.psych.wisc.edu (SMI-8.6/SMI-SVR4)
+	id LAA28842; Mon, 29 Mar 1999 11:34:01 -0600
+Message-ID: <19990329113400.A28777@psyphw.psych.wisc.edu>
+Date: Mon, 29 Mar 1999 11:34:00 -0600
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 0.93.2i
+Subject: job posting at the University of Wisconsin
+From: Stacey Schaefer <schaefer@psyphw.psych.wisc.edu>
+To: spm@mailbase.ac.uk
+Cc: davidson@psyphw.psych.wisc.edu
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Stacey Schaefer <schaefer@psyphw.psych.wisc.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+ 
+ To Whom It May Concern:
+ 
+ The Laboratory for Affective Neuroscience at the University of Wisconsin, 
+ led by Dr. Richard J. Davidson, is currently looking for a full-time 
+ research specialist:
+ 
+ ****MINIMUM NUMBER OF YEARS AND TYPE OF RELEVANT WORK EXPERIENCE*****
+  At least 1 year's experience with psychological and/or biological research
+  in a laboratory setting.  Knowledge of neuroanatomy necessary, as well as 
+  knowledge of IBM compatible, UNIX, and/or VAX computer systems.
+  
+ ****PRINCIPAL DUTIES*****
+  Conduct multi-session neuroimaging studies in depressed and normal adult
+  populations, coordinating with technical and clinical staff as well as 
+  students.  Conduct experimental sessions in which functional magnetic 
+  resonance imaging (fMRI), positron emission tomography (FDG-PET), and 
+  electroencephalography (EEG) data are obtained.  Includes subject 
+  recruitment & scheduling, application of sensors, working with blood, and
+  supervision of student help.  Perform data reduction, coregistration of
+  structural MRI to fMRI and PET scans, and anatomical localization on 
+  structural MRI data.  Also includes data bases maintenance and statistical
+  analyses of fMRI, PET, and EEG data. Knowledge of SPM and brain anatomy
+  helpful.
+ 
+ *****IF INTERESTED*****
+ Contact: Dr. Richard J. Davidson
+ 	  Laboratory for Affective Neuroscience
+          University of Wisconsin
+ 	  1202 West Johnson Street
+          Madison WI 53706-1696
+          USA
+ 
+   PHONE:  608-262-8972
+   FAX:    608-265-2875
+   EMAIL:  rjdavids@facstaff.wisc.edu
+ 

@@ -1,0 +1,196 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jun  8 10:45:17 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA12539;
+	Tue, 8 Jun 1999 10:45:11 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16209;
+          8 Jun 99 3:46 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16207;
+          8 Jun 99 3:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11035;
+          8 Jun 99 3:36 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa27990; 8 Jun 99 3:23 EDT
+Received: from kirk.Bond.edu.au by RI.CMU.EDU id aa29673; 8 Jun 99 3:21:42 EDT
+Received: from pc35d0081 (pc-3-5d008-1.it.bond.edu.au [131.244.8.58])
+	by kirk.Bond.edu.au (8.8.7/8.8.8) with SMTP id RAA07663
+	for <Dave_Touretzky@cs.cmu.edu>; Tue, 8 Jun 1999 17:21:37 +1000 (EST)
+Message-ID: <012d01beb17f$8b04c0a0$3a08f483@it.bond.edu.au>
+From: Dr Clarence N W Tan <ctan@bond.edu.au>
+To: Connectionists@cs.cmu.edu
+Subject: call for abstracts:  International Conference on Advanced Investment Technology 1999
+Date: Tue, 8 Jun 1999 17:21:35 +1000
+Status: RO
+X-Status: 
+
+International Conference on Advanced Investment Technology 1999
+	Incorporating Workshops on "A Primer to Advanced Investment Technology"
+
+	Announcement and Call for Papers
+-------------------------------------------------------------------------
+Date: Sun 19 December 1999 - Tue 21 December 1999
+
+Venue:	The Conference Centre
+	Bond University, Gold Coast, Queensland 4229
+	Australia
+
+Extended Abstract of Paper Deadline: July 31, 1999
+
+Organisers:
+-----------
+Honorary Chair: 	Prof. Gopal Gupta
+Conference Chairs: 	Dr. Clarence Tan
+			Dr. Kuldeep Kumar
+
+Invitation
+-----------
+Bond University would like to invite all researchers and practitioners 
+interested in all aspects of technology applications to finance to 
+attend the Advanced Investment Technology 1999 Conference (AIT99).
+
+Objectives
+----------
+AIT99 aims to bring together academics and professionals in the finance 
+and investment industry who are interested in applications of advanced 
+information technology to finance problems. It intends to foster better 
+relationships between academia and the finance industry on topics such 
+as soft computing and web-based technology in the investment industry. A 
+one-day workshop is planned for the day prior to the conference to cover 
+a range of practical issues concerning use of information technology in 
+financial environments including applications of advanced technology 
+such as Artificial Neural Networks, Chaos Theory and Forecasting to 
+financial analysis and investment.
+
+Structure:
+----------
+The conference is organised into two principal sessions: A series of 
+workshops on 19th December 1999 and a conference program consisting of 
+keynote speakers and presentations by the delegates/participants on 20th 
+and 21st December 1999.  There are plans to have a public exhibition 
+area for members of the industry to display their products in 
+conjunction with the conference.  Please contact organisers for 
+exhibition details.
+
+Conference Topics:
+-----------------
+Topics include but are not limited to: Applications in Finance of Soft 
+Computing, Artificial Intelligence & Statistical methods such as Neural 
+Networks, Genetic Algorithms, Fuzzy Logic; Time Series & Forecasting, 
+Multivariate Analysis, Hybrid Intelligent Systems, Intelligent Agents, 
+Chaos Theory, Data Mining, Online Gambling, Gaming Strategies and 
+Trading Systems.
+
+Invited Keynote Speakers
+------------------------
+Dr Jeffrey Carmichael, Ph.D. (Princeton), AO, Chairman of the Australian 
+Prudential Regulatory Authority (APRA) and Member of the 1997 Australian 
+Wallis Financial Inquiry Commission.
+Prof. Efraim Turban, Ph.D. (Berkeley), Author of over 100 publications 
+in the areas of Information Systems, Electronic Commerce and Neural 
+Networks in Finance and Investment.
+
+International Review Committee:
+-------------------------------
+Prof. Efraim Turban (USA/HK)	Dr. Jeff Carmichael (Aus)
+Prof. Ah Chung Tsoi (Aus)	Emeritus Prof. Peter Poole (Aus)
+Prof. John D. Haynes (NZ)	Prof. M. L. Tiku (Canada)
+Prof. R. Velu (USA)		Prof. Kevin Burrage (Aus)
+Prof. V K Srivastava (India)	Prof. Neville De Mestre (Aus)
+Prof. Berlin Wu (Taiwan))	Prof. Nikola Kasabov (NZ)
+Prof. Stan Hurn (Aus)		Dr. Vance Martin (Aus)
+Dr. Graham  McMahon (Aus)	Dr. A  Flitman (Aus)
+Dr. Mark Chignell (Can)		Dr. Gavin Finnie (Aus)
+Dr. A. N.  Roy (USA)		Dr. Jeff Barker (Aus)
+Dr. Zheng Da Wu (Aus)		Dr. S. Ganesalingam (NZ)
+Dr. Stephen Sugden (Aus)	Dr. S. Alvandi (Singapore)
+Dr. Gerhard Wittig (Aus)	Dr. James Liu (HK)
+Dr W. K. Yeap (NZ)		Dr. Steven Lawrence  (USA)
+
+Registration Fees
+-----------------
+Workshop(s):
+Individual:			Full day A$600 or A$150 each
+Industry representative:	Full day 	A$1200
+
+Conference (2 full days):	Before Oct 31	After Oct 31
+------------------------------------------------------------
+Students:			A$150		A$150
+Academic:			A$300		A$400
+Industry representative		A$600		A$750
+Exchange Rate Indication: US$1.00 = A$1.55
+
+All SIA, AIBF, ATAA, GCRITF and ANZIAM members are entitled to a 10% 
+discount on conference and workshop fees, subject to availability. Group 
+bookings and sponsors are entitled to discounts. Contact organisers for 
+details.
+The registration fee includes lunches and refreshments for each day of 
+the conference and workshops.
+
+Workshops (very limited places, register early to ensure place)
+---------------------------------------------------------------
+Workshop 1: Financial Forecasting Techniques (Kumar)
+Workshop 2: Basic Financial Trading System Design Using Excel (Tan)
+Workshop 3: Applications of E-commerce in Finance I (Prof. Efraim Turban)
+Workshop 4: Applications of E-commerce in Finance II (Prof. Efraim Turban)
+Workshop 5: Artificial Neural Networks (Tsoi)
+Workshop 6: Applying Chaos Theory to Finance (Kumar, Tan and Ghosh)
+
+Registration
+------------
+To register please complete the registration form and mail it with the 
+payment to:
+AIT 99
+Ms Herlina Dihardjo
+School of Information Technology
+Bond University, QLD 4229
+Australia
+Telephone:	+61 (0) 7 5595-3392
+Fax:	+61 (0) 7 5595-3320
+*Do not dial (0) from outside Australia
+
+E-mail:	ait99@bond.edu.au
+
+Submission of Papers
+--------------------
+To submit a paper to the AIT99 conference, please send an extended 
+abstract to the above address no later than 31st July 1999.
+If accepted, two copies of final paper should be submitted before 
+November 1 1999. The preferred format is Microsoft Word.
+Student papers are invited and encouraged. The Securities Institute of 
+Australia is proud to sponsor the Best Student Paper Prize.
+
+Accommodation & Travel
+----------------------
+Bond University has its own Conference Centre with good accommodation 
+facilities of one hundred standard and executive rooms. There is also a 
+large number of choices for accommodation on the Gold Coast ranging from 
+luxury hotels such as Jupiter's Casino/Conrad Hotel, Marriott, 
+Sheraton Mirage and Grand Mercure to backpackers' accommodation.
+
+QANTAS is the official airline for the AIT99 conference and is proud to 
+be part of the conference.  A discount of up to 45% of the full economy 
+airfare excluding taxes, for domestic travel in Australia, at the time 
+of booking, has been negotiated for delegates attending the conference, 
+subject to seat availability in group class and payment & ticketing 
+conditions.  Please quote Association Profile Number: "1203355", 
+destination and date of conference when making your reservation.
+The Qantas Association Sales contact number for Australian delegates is 
+Toll Free 1800 684 880
+* International delegates can contact their local Qantas office for the 
+best available fare of the day*
+
+Our Web Site
+------------
+Prospective Conference Participants and Delegates are invited to visit 
+our website at the following URL: http://tide.it.bond.edu.au/ait99 or 
+http://w3.to/ait99. On-line registration is available on the web.
+
+Sponsors
+--------
+Major Sponsor: Bond University's School of Information Technology. Other 
+AIT99 sponsors and/or supporters include: Gold Coast Regional 
+Information Technology Forum (GRITF), the Gold Coast City Council, the 
+Securities Institute of Australia (SIA), the Australian Institute of 
+Banking and Finance (AIBF), the Australia and New Zealand Industrial 
+Applied Mathematics (ANZIAM), Australian Technical Analysts Association 
+(ATAA), TechQuad, and On The Net, etc.  See web site for full list.

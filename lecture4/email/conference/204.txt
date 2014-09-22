@@ -1,0 +1,250 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jan 28 04:56:18 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA07301;
+	Thu, 28 Jan 1999 04:55:14 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06852;
+          27 Jan 99 17:31 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06850;
+          27 Jan 99 17:25 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21440;
+          27 Jan 99 17:25 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa22364; 27 Jan 99 15:26 EST
+Received: from beech.sucs.soton.ac.uk by EDRC.CMU.EDU id aa18196;
+          27 Jan 99 15:24:09 EST
+Received: from juniper.sucs.soton.ac.uk (juniper.sucs.soton.ac.uk [152.78.128.175])
+    by beech.sucs.soton.ac.uk (8.8.8/relay-02) with ESMTP id UAA19692;
+    Wed, 27 Jan 1999 20:22:36 GMT
+Received: from amnesia.ecs.soton.ac.uk (amnesia.ecs.soton.ac.uk [152.78.70.178]) by juniper.sucs.soton.ac.uk (980427.SGI.8.8.8/8.7.3) with ESMTP id UAA08148; Wed, 27 Jan 1999 20:22:30 GMT
+Received: from localhost (harnad@localhost) by amnesia.ecs.soton.ac.uk (8.7.5/8.7.3) with SMTP id UAA18869; Wed, 27 Jan 1999 20:24:08 GMT
+X-Authentication-Warning: amnesia.ecs.soton.ac.uk: harnad owned process doing -bs
+Date: Wed, 27 Jan 1999 20:24:08 +0000 (GMT)
+From: Stevan Harnad <harnad@coglit.soton.ac.uk>
+To: behanal <BEHAV-AN@LISTSERV.NODAK.EDU>, COGDEVEL@email.uncc.edu,
+        cogni-info <cogni-info@univ-lyon1.fr>,
+        cogpsy <cogpsy@coglab.psy.soton.ac.uk>,
+        Cognitive Science List <cogsci@mailbase.ac.uk>
+Subject: Lexical Processing: BBS Call for Commentators
+Message-ID: <Pine.SGI.3.95.990127202119.14746X-100000@amnesia.ecs.soton.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+        Below is the abstract of a forthcoming BBS target article
+
+	    *** please see also 5 important announcements about new BBS
+	    policies and address change at the bottom of this message) ***
+
+                LEXICAL ENTRIES AND RULES OF LANGUAGE:
+            A MULTIDISCIPLINARY STUDY OF GERMAN INFLECTION
+
+                         by Harald Clahsen
+
+This article has been accepted for publication in Behavioral and Brain
+Sciences (BBS), an international, interdisciplinary journal providing
+Open Peer Commentary on important and controversial current research in
+the biobehavioral and cognitive sciences.
+
+Commentators must be BBS Associates or nominated by a BBS Associate. To
+be considered as a commentator for this article, to suggest other
+appropriate commentators, or for information about how to become a BBS
+Associate, please send EMAIL to:
+
+    bbs@cogsci.soton.ac.uk
+
+      or write to [PLEASE NOTE SLIGHTLY CHANGED ADDRESS]:
+
+    Behavioral and Brain Sciences
+    ECS: New Zepler Building
+    University of Southampton
+    Highfield, Southampton
+    SO17 1BJ UNITED KINGDOM
+
+    http://www.princeton.edu/~harnad/bbs/
+    http://www.cogsci.soton.ac.uk/bbs/
+    ftp://ftp.princeton.edu/pub/harnad/BBS/
+    ftp://ftp.cogsci.soton.ac.uk/pub/bbs/
+    gopher://gopher.princeton.edu:70/11/.libraries/.pujournals
+
+If you are not a BBS Associate, please send your CV and the name of a
+BBS Associate (there are currently over 10,000 worldwide) who is
+familiar with your work. All past BBS authors, referees and
+commentators are eligible to become BBS Associates.
+
+To help us put together a balanced list of commentators, please give
+some indication of the aspects of the topic on which you would bring
+your areas of expertise to bear if you were selected as a commentator.
+An electronic draft of the full text is available for inspection
+with a WWW browser, anonymous ftp or gopher according to the
+instructions that follow after the abstract.
+
+_____________________________________________________________
+
+ 
+                  LEXICAL ENTRIES AND RULES OF LANGUAGE:
+             A MULTIDISCIPLINARY STUDY OF GERMAN INFLECTION
+
+        Harald Clahsen
+
+        Dept. of Linguistics
+        University of Essex
+        Colchester C04 3SQ
+        UK
+
+        harald@essex.ac.uk
+        http://privatewww.essex.ac.uk/~harald
+
+
+    ABSTRACT: It is hypothesized following much work in linguistic 
+    theory that the language faculty has a modular structure  and
+    consists of two basic components, a lexicon of  (structured)
+    entries and a computational system of combinatorial operations
+    to form larger linguistic expressions from lexical entries.
+    This target article provides evidence for the dual  nature of
+    the language faculty by describing some recent results from a
+    multidisciplinary investigation of German  inflection. We have
+    examined (i) its linguistic representation focussing on noun
+    plurals and verb inflection (participles), (ii) processes
+    involved in the way adults produce and comprehend inflected
+    words, (iii) brain potentials generated during the processing
+    of inflected words and (iv) the way children acquire and use
+    inflection. It will be shown that  the evidence from all these
+    sources converges and  supports the distinction between lexical
+    entries and combinatorial operations.
+
+    Our experimental results indicate that adults have access to
+    two distinct processing routes, one accessing (irregularly)
+    inflected entries from the mental lexicon, and another 
+    involving morphological decomposition of (regularly)  inflected
+    words into stem+affix representations. These two processing
+    routes correspond to the dual structure of the linguistic
+    system. Results from event-related potentials confirm this
+    linguistic distinction at the level of brain structures.  In
+    children's language, we found these two processes also to be
+    clearly dissociated; regular and irregular inflection are  used
+    under different circumstances, and the constraints  under which
+    children apply them are identical to those of the adult
+    linguistic system.
+
+    Our findings will be explained in terms of a linguistic model,
+    which maintains the distinction between the lexicon and the
+    computational system, but replaces the traditional view  of the
+    lexicon as a simple list of idiosyncrasies with  the notion of
+    internally structured lexical representations.
+
+    KEYWORDS: grammar, psycholinguistics, neuroscience of language, child
+    language acquisition, human language processing, development of
+    inflection
+____________________________________________________________
+
+To help you decide whether you would be an appropriate commentator for
+this article, an electronic draft is retrievable from the World Wide
+Web or by anonymous ftp from the US or UK BBS Archive.
+Ftp instructions follow below. Please do not prepare a commentary on
+this draft. Just let us know, after having inspected it, what relevant
+expertise you feel you would bring to bear on what aspect of the
+article.
+
+The URLs you can use to get to the BBS Archive:
+
+    http://www.princeton.edu/~harnad/bbs/
+    http://www.cogsci.soton.ac.uk/bbs/Archive/bbs.clahsen.html
+    ftp://ftp.princeton.edu/pub/harnad/BBS/bbs.clahsen
+    ftp://ftp.cogsci.soton.ac.uk/pub/bbs/Archive/bbs.clahsen
+
+To retrieve a file by ftp from an Internet site, type either:
+ftp ftp.princeton.edu
+   or
+ftp 128.112.128.1
+   When you are asked for your login, type:
+anonymous
+   Enter password as queried (your password is your actual userid:
+   yourlogin@yourhost.whatever.whatever - be sure to include the "@")
+cd /pub/harnad/BBS
+   To show the available files, type:
+ls
+   Next, retrieve the file you want with (for example):
+get bbs.clahsen
+   When you have the file(s) you want, type:
+quit
+
+____________________________________________________________
+
+
+         ***  FIVE IMPORTANT ANNOUNCEMENTS  ***
+
+------------------------------------------------------------------
+(1) There have been some very important developments in the 
+    area of Web archiving of scientific papers very recently.
+    Please see:
+
+Science:
+           http://www.cogsci.soton.ac.uk/~harnad/science.html
+Nature:
+           http://www.cogsci.soton.ac.uk/~harnad/nature.html
+American Scientist:
+           http://www.cogsci.soton.ac.uk/~harnad/amlet.html
+Chronicle of Higher Education:
+           http://www.chronicle.com/free/v45/i04/04a02901.htm
+
+---------------------------------------------------------------------
+(2) All authors in the biobehavioral and cognitive sciences are
+    strongly encouraged to archive all their papers (on their
+    Home-Servers as well as) on CogPrints:
+
+http://cogprints.soton.ac.uk/
+
+    It is extremely simple to do so and will make all of our papers
+    available to all of us everywhere at no cost to anyone.
+
+---------------------------------------------------------------------
+(3) BBS has a new policy of accepting submissions electronically.
+
+    Authors can specify whether they would like their submissions
+    archived publicly during refereeing in the BBS under-refereeing
+    Archive, or in a referees-only, non-public archive.
+
+    Upon acceptance, preprints of final drafts are moved to the
+    public BBS Archive:
+
+ftp://ftp.princeton.edu/pub/harnad/BBS/.WWW/index.html
+http://www.cogsci.soton.ac.uk/bbs/Archive/
+
+--------------------------------------------------------------------
+(4) BBS has expanded its annual page quota and is now appearing
+    bimonthly, so the service of Open Peer Commentary can now be be
+    offered to more target articles. The BBS refereeing procedure is
+    also going to be considerably faster with the new electronic
+    submission and processing procedures. Authors are invited to submit
+    papers to:
+
+    Email:   bbs@cogsci.soton.ac.uk
+
+    Web:     http://cogprints.soton.ac.uk
+             http://bbs.cogsci.soton.ac.uk/
+
+    INSTRUCTIONS FOR AUTHORS:
+
+http://www.princeton.edu/~harnad/bbs/instructions.for.authors.html
+http://www.cogsci.soton.ac.uk/bbs/instructions.for.authors.html      
+
+---------------------------------------------------------------------
+(5) Call for Book Nominations for BBS Multiple Book Review
+
+    In the past, Behavioral and Brain Sciences (BBS) journal had only
+    been able to do 1-2 BBS multiple book treatments per year, because
+    of our limited annual page quota. BBS's new expanded page quota
+    will make it possible for us to increase the number of books we
+    treat per year, so this is an excellent time for BBS Associates and
+    biobehavioral/cognitive scientists in general to nominate books you
+    would like to see accorded BBS multiple book review.
+
+    (Authors may self-nominate, but books can only be selected on the
+    basis of multiple nominations.) It would be very helpful if you
+    indicated in what way a BBS Multiple Book Review of the book(s) you
+    nominate would be useful to the field (and of course a rich list of
+    potential reviewers would be the best evidence of its potential
+    impact!).

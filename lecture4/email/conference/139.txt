@@ -1,0 +1,71 @@
+
+
+From spm-request@mailbase.ac.uk  Sat Aug 22 03:12:13 1998
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id DAA07464
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 22 Aug 1998 03:12:12 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.8.x/Mailout) with ESMTP id CAA13511;
+	Sat, 22 Aug 1998 02:11:46 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id CAA25434;
+        Sat, 22 Aug 1998 02:10:43 +0100 (BST)
+Received: from mcmail.CIS.McMaster.CA (root@mcmail.CIS.McMaster.CA [130.113.20.6]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id CAA25428;
+        Sat, 22 Aug 1998 02:10:40 +0100 (BST)
+Received: from szechtman_pc.mcmaster.ca (pc-szechtman-2.csu.McMaster.CA [130.113.67.58])
+	by mcmail.CIS.McMaster.CA (8.8.8/8.8.8) with SMTP id VAA22150
+	for <spm@mailbase.ac.uk>; Fri, 21 Aug 1998 21:10:38 -0400 (EDT)
+Date: Fri, 21 Aug 1998 20:50:27 -0400
+Message-ID: <061401bdcd69$b6aea180$3a437182@szechtman_pc.mcmaster.ca>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.2106.4
+Subject: 1st Call for Abstracts
+From: "INABIS 98 Congress" <5iwc@mcmail.cis.mcmaster.ca>
+To: <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "INABIS 98 Congress" <5iwc@mcmail.cis.mcmaster.ca>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+RE: Internet World Congress on Biomedical Sciences (INABIS '98) at McMaster
+University, Canada: 1st Call for Abstracts for Poster Sessions
+
+PLEASE POST AND FORWARD THIS MESSAGE TO INTERESTED FACULTY, STUDENTS, AND
+STAFF
+
+Dear Colleague:
+
+This is an invitation to a scientific meeting in cyberspace, with close to
+1000 presentations in Invited Symposia, Poster Sessions, and the Exhibitors'
+Foyer.  Discussions are conducted on the Web from Dec 7-16, 1998 and form an
+integral part of the presentations.  Attendance is open and free of charge.
+
+Disciplines covered at the Congress range from basic science to medicine,
+education, informatics, and public health.  Keynote Addresses will be given
+by Drs Floyd Bloom (Editor of Science), Allan W Cowley Jr (Medical College
+of Wisconsin), Henry Friesen (President of Medical Research Council of
+Canada) and Sumio Murase (Shinshu University School of Medicine).
+
+Deadline for abstract submission is September 30, 1998; for details, visit
+INABIS '98 Congress site at http://www.mcmaster.ca/inabis98/
+
+Dr Henry Szechtman, INABIS '98 Congress President
+Dr Ashok Grover, Steering Committee Chair
+Email: Inabis98@mcmaster.ca
+---------------------------------------------------------------------
+If you do not want to receive future updates from INABIS '98, please reply
+with Remove as the subject
+

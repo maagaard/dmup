@@ -1,0 +1,169 @@
+
+
+From mps@imm.dtu.dk  Thu Jul  9 09:15:14 1998
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id JAA29757;
+	Thu, 9 Jul 1998 09:13:52 +0200 (METDST)
+Received: from serv6.imm.dtu.dk (mps@serv6.imm.dtu.dk [130.225.85.15])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id JAA09757;
+	Thu, 9 Jul 1998 09:14:50 +0200 (METDST)
+Received: (from mps@localhost)
+	by serv6.imm.dtu.dk (8.8.6/8.8.6) id JAA01531;
+	Thu, 9 Jul 1998 09:13:28 +0200 (METDST)
+Date: Thu, 9 Jul 1998 09:13:28 +0200 (METDST)
+From: Mads Peter Soerensen <mps@imm.dtu.dk>
+Message-Id: <199807090713.JAA01531@serv6.imm.dtu.dk>
+To: phd_at_imm@serv6.imm.dtu.dk, vip_at_imm@serv6.imm.dtu.dk
+Subject: Announcement
+Cc: mps@serv6.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-MD5: pgMSIHNQIcqHvYBHOcEeZw==
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id JAA29757
+Status: RO
+X-Status: 
+
+
+                                         9/7  1998
+
+Jeg har modtaget foelgende announcement fra Tronheim, Norge. Maaske har
+det interesse for dig.
+
+
+
+   2nd Workshop on Industrial Mathematics for Nordic Ph.D. students
+   ________________________________________________________________
+
+               Orkanger, 4-6th of September 1998
+                      Second announcement
+                       CALL FOR ABSTRACTS.
+
+
+Welcome
+With this we invite you to the yearly happening, which this time will take
+place at Bårdshaug Herregård, Orkanger, close to Trondheim.
+
+Scientific program
+
+Friday 4th of September
+
+  - Invited speaker: Ivar Lie, Sen. researcher at Det norske meterologiske
+    institutt: "Numerical challenges in atmospheric physics".
+
+  Sessions:
+  - Partial differential equations
+  - Computational Science.
+
+Saturday 5th of September
+
+  - Invited speaker: Tore Gimse, Research director at SINTEF Applied
+    Mathematics: "How applied is applied mathematics? Some project
+    examples from SINTEF Applied Mathematics".
+
+  Sessions:
+  - Dynamical systems.
+  - Discrete mathematics.
+  - Control and optimisation.
+  - Geometry.
+
+Sunday 6th of September
+
+  - Invited speaker: Lars Ødegaard, Researcher at GE-Vingmed Sound:
+    "Mathematical and statistical challenges in ultrasound imagining".
+
+  Sessions:
+  - Statistics and operations research.
+  - Signal processing.
+
+
+Social agenda
+In addition to being a forum for exchange of knowledge, it is hoped that the
+workshop can be used to find scientific as well as social contacts. The
+participants will therefore all be lodged at the same location, and there will
+be various social events arranged. One of them is a fishing trip on
+Saturday afternoon.
+
+
+Participants
+The Applicants should be PhD students from a Nordic country.
+
+Registration
+There is an upper limit of 35 participants because of the
+available time for individual talks.  This requires us to
+do registration through two steps, the first one being to encourage all
+interested participants to send an application before 17 July 1998. The
+application must contain abstracts of the presentation, a short note about your
+PhD thesis and a contact address. The participants will be chosen the basis of
+the submitted applications. All applications will be answered 20th July using
+email as means of communication.  The participants are asked to pay a
+registration fee of NOK 600,- before 24th of July. The fee covers food,
+lodging and social program.
+
+Abstracts should be sent to:
+Workshop on Industrial Mathematics for Nordic PhD. students
+att: Thomas Gorm Theting
+Institutt for matematiske fag
+Gløshaugen
+NTNU
+7034 Trondheim
+Norge
+
+phone: +47 73593544 (Odd) or +47 73591650 (Thomas)
+www: http://www.math.ntnu.no/~tgt/workshop/2ndworkshop.html
+email: tgt@math.ntnu.no
+
+Time schedule
+
+   15 May  Second announcement.
+   17 July Deadline for submitting abstracts.
+   20 July Acceptance notice to participants.
+   24 July Deadline for registration and payment.
+   4-6 September 2nd workshop.
+
+Transport to and from Orkanger:
+The workshop is placed on a weekend so that there are possibilities of
+getting a discount on air fares. Contact your local travelling agency for
+details. Orkanger is located about 45 minutes bus drive from Trondheim
+railway station. The bus from the airport stops at the station and from there
+you get the bus to Orkanger. Bus stops close
+to Bårdshaug Herregård. The price for bus ticket from the airport to Orkanger
+is about NOK 105.
+
+
+Organising Committee
+
+Norway
+Hilde Grude Borgos  email: hgb@stat.ntnu.no
+Odd Kolbjørnsen     email: ok@stat.ntnu.no
+Thomas Gorm Theting email: tgt@math.ntnu.no
+
+Sweden
+Robert Bohlin       email: bohlin@math.chalmers.se
+
+Denmark
+Thomas Jakobsen     email: T.Jakobsen@mat.dtu.dk
+
+
+The latest information can be reach from the web page
+http://www.math.ntnu.no/~tgt/workshop/2ndworkshop.html
+which is constantly updated.
+
+
+Med venlig hilsen
+  
+Mads
+
+
+-----------------------------------------------------------------
+-   Mads Peter Soerensen                                        -
+-   Lektor                                                      -
+-   Institut for Matematisk Modellering (IMM)                   -
+-   Danmarks Tekniske Universitet (DTU), Bygn. 321              -
+-   2800 Lyngby                                                 -
+-                                                               -
+-   E-mail: mps@imm.dtu.dk                                      -
+-   WWW:    http://www.imm.dtu.dk/                              -
+-   Telefon: (+45) 4525 3094                                    -
+-   Fax:     (+45) 4593 1235                                    -
+-----------------------------------------------------------------

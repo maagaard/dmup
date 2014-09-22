@@ -1,0 +1,75 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Dec 20 22:37:41 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id WAA29987;
+	Mon, 20 Dec 1999 22:37:37 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27452;
+          20 Dec 99 14:23 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27450;
+          20 Dec 99 14:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07084;
+          20 Dec 99 14:09 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab26160; 20 Dec 99 13:29 EST
+Received: from LORENTZ.UNI-MUENSTER.DE by ri.cmu.edu id aa22236;
+          20 Dec 99 13:28 EST
+Received: from localhost (lemm@localhost)
+	by lorentz.uni-muenster.de (8.9.3/8.9.3) with ESMTP id TAA10354
+	for <connectionists@cs.cmu.edu>; Mon, 20 Dec 1999 19:29:13 +0100
+Date: Mon, 20 Dec 1999 19:29:13 +0100 (CET)
+From: Joerg_Lemm <lemm@lorentz.uni-muenster.de>
+X-Sender: lemm@lorentz.uni-muenster.de
+To: connectionists@cs.cmu.edu
+Subject: Paper on Mixtures of Gaussian Process Priors
+Message-ID: <Pine.LNX.4.21.9912201926050.10337-100000@lorentz.uni-muenster.de>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Dear colleagues,
+
+The following paper (10 pages) is now available at
+
+        http://xxx.lanl.gov/ps/physics/9911077 
+
+---------------------------------------------------------------------------
+
+
+        "Mixtures of Gaussian process priors" 
+
+        by Joerg Lemm, Muenster University
+
+
+Abstract: 
+
+Nonparametric Bayesian approaches based on Gaussian processes have
+recently become popular in the empirical learning community. They
+encompass many classical methods of statistics, like Radial Basis
+Functions or various splines, and are technically convenient because
+Gaussian integrals can be calculated analytically. Restricting to Gaussian
+processes, however, forbids for example the implemention of genuine
+nonconcave priors. Mixtures of Gaussian process priors, on the other hand,
+allow the flexible implementation of complex and situation specific, also
+nonconcave "a priori" information. This is essential for tasks with,
+compared to their complexity, a small number of available training data.
+The paper concentrates on the formalism for Gaussian regression problems
+where prior mixture models provide a generalisation of classical
+quadratic, typically smoothness related, regularisation approaches being
+more flexible without having a much larger computational complexity.
+
+---------------------------------------------------------------------------
+
+The paper and related material can also be found at my home page:
+
+        http://pauli.uni-muenster.de/~lemm/
+
+========================================================================
+Joerg Lemm                      
+Universitaet Muenster                        Email: lemm@uni-muenster.de     
+Institut fuer Theoretische Physik I          Phone:     +49(251)83-34922
+Wilhelm-Klemm-Str.9                            Fax:     +49(251)83-36328
+D-48149 Muenster, Germany             http://pauli.uni-muenster.de/~lemm      
+========================================================================
+

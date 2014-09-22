@@ -1,0 +1,36 @@
+
+
+From sslug-cvs2html-return-46-fnielsen=eivind.imm.dtu.dk@sslug.dk Sat May 29 16:19:14 MET 1999
+Received: from sslug.dk (sslug.imm.dtu.dk [192.38.71.98])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id QAA06242
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 29 May 1999 16:19:13 +0200 (METDST)
+Received: (qmail 249 invoked by uid 5192); 29 May 1999 14:17:32 -0000
+Mailing-List: contact sslug-cvs2html-help@sslug.dk; run by ezmlm
+Precedence: bulk
+X-No-Archive: yes
+Reply-to: cvs2html@sslug.dk
+Delivered-To: mailing list sslug-cvs2html@sslug.dk
+Received: (qmail 242 invoked by alias); 29 May 1999 14:17:31 -0000
+Delivered-To: cvs2html@sslug.dk
+From: Carlo Wood <carlo@runaway.xs4all.nl>
+Message-Id: <199905291416.QAA00621@jolan.ppro>
+To: cvs2html@sslug.dk
+Date: Sat, 29 May 1999 16:16:52 +0200 (CEST)
+In-Reply-To: <199905291966ZAA33180@goodspace.vit.edu.tw> from "momi79@doowon.ac.kr" at May 29, 99 07:07:35 pm
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Subject: Re: [CVS2HTML] ADV: Photo Mousepads....You Need One!
+Status: RO
+X-Status: 
+
+| GREAT GRADUATION GIFT IDEA!
+
+If I get more SPAM, then I'll be forced to unsubribe.
+Perhaps you can make this list closed for posting from
+non-subscribers?
+
+Having a very good spam filter himself,
+
+-- 
+ Carlo Wood  <carlo@runaway.xs4all.nl>

@@ -1,0 +1,162 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk  Thu Jan 28 11:05:07 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id LAA10100
+	for dspstaff-list; Thu, 28 Jan 1999 11:04:58 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id LAA10089;
+	Thu, 28 Jan 1999 11:04:52 +0100 (MET)
+Received: from imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id LAA19851;
+	Thu, 28 Jan 1999 11:08:47 +0100 (MET)
+Message-ID: <36B03713.8069DC49@imm.dtu.dk>
+Date: Thu, 28 Jan 1999 11:08:20 +0100
+From: Matthew Liptrot <mgl@imm.dtu.dk>
+X-Mailer: Mozilla 4.05 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "dspstaff@eivind.imm.dtu.dk" <dspstaff@eivind.imm.dtu.dk>,
+        "dspstud@eivind.imm.dtu.dk" <dspstud@eivind.imm.dtu.dk>
+Subject: Informatics Conference - preliminary announcement
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+Preliminary Announcement                                      :=
+
+  +------------------------------------------------------------+
+  |                         SOFSEM'99                          |
+  |                                                            |
+  |              XXVI-th Seminar on Current Trends             |
+  |            in Theory and Practice of Informatics           |
+  +------------------------------------------------------------+
+
+                  November 27 - December 4, 1999
+                    Devet-skal hotel, Milovy
+                        Czech Republic
+
+more information -> URL: http://www.ics.muni.cz/sofsem/sofsem.html
+                         =========================================
+Organized by
+
+  Czech Society for Computer Science
+
+-------
+Subject
+-------
+SOFSEM (SOFtware SEMinar) is the eight-day international seminar devoted
+to the theory and the practice of software systems. Its program consists
+of the series of invited talks given by prominent academic professionals
+and researchers.  Contributed talks and posters of participants are also
+included in the program of SOFSEM. The working language is English.
+                   -------------------------------
+Invited talks and contributed talks are published by Springer-Verlag in
+the  "Lecture Notes in Computer Science" series and distributed at the
+seminar.
+
+
++----------------------------------------------------------------------+
+ | Sofsem'99 is the 26th in the series of Sofsem seminars held
+annually.|
+ | It is intended to foster cooperation among people working in various
+|
+ |   areas of computer science. Its scientific program offers a unique 
+|
+ |       opportunity to gain a relatively quick and representative     
+|
+ |        overview about the selected parts of computer science,       
+|
+ |                    presented by top researchers.                    
+|
+ |   Its social program provides an optimal framework for discussions, 
+|
+ |  meetings, contact establishing, and socializing. Especially suited 
+|
+ |                 for young computer scientists.                      
+|
+
++----------------------------------------------------------------------+
+
+------
+Topics
+------
+        Trends in Theory
+        Core Technologies
+        Software and Information Engineering
+        From Data to Knowledge
+        Applications
+
+----------
+Programme Committee
+----------
+  Jan Pavelka, DCIT, Prague, CZ, Chair
+  Gerard Tel, Utrecht Univ, NL, Co-Chair
+
+-----------
+Submissions
+-----------
+  The categories for submissions include Contributed Talks and Posters.
+  Each submission should have a title giving the following information:
+
+  - name, address, e-mail address, and phone/fax number of each author;
+  - specification of one of the authors as the contact person.
+
+  To submit, please send via e-amil a postscript file  of your
+  contribution. With each submission, please e-mail also an abstract in
+  plain ASCII.  Any other form of electronic submission should be
+  consulted in advance with the PC sectretary.
+
+  Contributed Talks
+  -----------------
+  8-page drafts in English are expected.  A full camera-ready copy of
+  contributed talks on current topics in Computer Science should be no
+  longer than 8-pages.  Presentation time for contributed talks is 25
+  minutes. Contributed talks will be included in the Proceedings of
+  SOFSEM '99, published in the Lecture Notes in Computer Science series
+  by Springer-Verlag.
+
+  The Organizing Committee will supply the authors of accepted
+  contributed talks with detailed technical instructions and the LaTeX
+  style file for the preparation of the camera-ready copy.
+
+  Posters
+  -------
+  We actively encourage posters describing work in progress.
+  Final versions of two A4 page poster are expected.
+
+  Deadlines
+  ---------
+  Submission of the contributed talk/poster      May 7, 1999
+  Notification of acceptance / rejection         June 30, 1999
+  Camera-ready copy of the talks                 September 6, 1999
+
+-----------------
+Contact Addresses
+-----------------
+  Sofsem www-page
+  ---------------
+                   http://www.ics.muni.cz/sofsem/sofsem.html
+
+  Communications and enquires should be adressed to:
+  -------------------------------------------------
+                  sofsem@ics.muni.cz
+
+  Submissions should be adressed to:
+  ---------------------------------
+                  sochor@fi.muni.cz
+
+  or
+
+  Jiri Sochor
+  Faculty of Informatics
+  Masaryk University
+  Botanicka 68a,
+  602 00 Brno
+  Czech Republic
+
+=====================================================================

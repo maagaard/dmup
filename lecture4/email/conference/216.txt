@@ -1,0 +1,130 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb  9 22:25:43 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA21535;
+	Tue, 9 Feb 1999 22:25:35 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa11986;
+          9 Feb 99 13:55 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa11946;
+          9 Feb 99 13:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15857;
+          9 Feb 99 13:37 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa12872; 9 Feb 99 13:09 EST
+Received: from postbox.dai.ed.ac.uk by EDRC.CMU.EDU id aa21911;
+          9 Feb 99 13:08:23 EST
+Received: from curlew (curlew.dai.ed.ac.uk [129.215.41.194])
+	by postbox.dai.ed.ac.uk (8.8.7/8.8.7) with SMTP id SAA18048;
+	Tue, 9 Feb 1999 18:07:17 GMT
+Date: Tue, 9 Feb 1999 18:07:17 +0000 (GMT)
+From: Chris Williams <ckiw@dai.ed.ac.uk>
+To: Connectionists <Connectionists@cs.cmu.edu>
+cc: David Willshaw <D.Willshaw@cns.ed.ac.uk>,
+        Alan F Murray <Alan.Murray@ee.ed.ac.uk>
+Subject: ICANN*99 Call for Workshop Proposals
+Message-ID: <Pine.SOL.3.95.990209180522.416J-100000@curlew.dai.ed.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+
+                          CALL FOR PROPOSALS
+
+                   ICANN*99 Post Conference Workshops
+                          11 September 1999
+                         Edinburgh, Scotland
+
+
+
+Workshops on current topics in the fields of research covered by
+ICANN99 will be held on Saturday 11 September 1999 immediately after
+the regular ICANN conference program.  Proposals by qualified
+individuals interested in chairing one of these workshops are
+solicited. Topics should fall within the broadly defined area of
+neural networks research, including: Theory and Algorithms;
+Neurobiology and Computational Neuroscience; Cognitive Modelling;
+Industrial, Commercial and Medical Applications; Hardware and
+Neuromorphic Engineering; Control, Robotics and Adaptive Behaviour.
+
+The goal of the workshops is to provide an informal forum for
+researchers to discuss important issues of current interest.  The
+workshops will be held on Saturday 11th September, the day following
+the conference, making it convenient for ICANN participants to stay in
+Edinburgh over a Saturday night and thus be eligible for cheaper
+flights. It is anticipated that the registration fee for the workshops
+will be nominal or perhaps zero. Please note that there is no funding
+available for the workshops.
+
+Focussed open and/or controversial issues are encouraged and preferred
+as workshop topics.  Representation of alternative viewpoints and
+panel-style discussions are particularly encouraged.
+
+Workshop organizers will have responsibilities including:
+
+1) coordinating workshop participation and content, which could
+involve, for example, arranging short informal presentations by
+experts working in an area, arranging for expert commentators to sit
+on a discussion panel and formulating a set of discussion topics, etc.
+
+2) moderating or leading the discussion and reporting its high points,
+   findings, and conclusions to the group during evening plenary sessions
+
+3) writing a brief summary and/or coordinating submitted material for
+   post-conference electronic dissemination.
+
+
+This call for proposals can be found at 
+http://www.dai.ed.ac.uk/daidb/people/homes/ckiw/icann/
+and further information will be added as it becomes available.
+
+Submission Instructions
+-----------------------
+
+Interested parties should submit via e-mail a short proposal for a
+workshop of interest by 29 March, 1999 to Dr Chris Williams
+(ckiw@dai.ed.ac.uk), Institute for Adaptive and Neural Computation,
+University of Edinburgh.
+
+Proposals should include a title, a description of what the workshop
+is to address and accomplish, the planned format (mini-conference,
+panel discussion, or group discussion, combinations of the above,
+etc), and the proposed number of speakers.  Where possible, please
+also indicate potential invitees (particularly for panel discussions).
+We strongly encourage that the organizers reserve a significant
+portion of time for open discussion.
+
+The proposal should motivate why the topic is of interest or
+controversial, why it should be discussed and who the targeted group of
+participants is.  In addition, please send a brief resume of the
+prospective workshop chair, a list of publications, and evidence of
+scholarship in the field of interest.  Submissions should include contact
+name, address, e-mail address, phone number and fax number if available.
+
+Proposals should be mailed electronically to ckiw@dai.ed.ac.uk.  All
+proposals must be RECEIVED by March 29, 1999.  If e-mail is unavailable,
+mail so as to arrive by the deadline to:
+
+  ICANN*99 Workshops 
+  c/o Dr Chris Williams
+  Institute for Adaptive and Neural Computation
+  Division of Informatics, 
+  University of Edinburgh
+  5 Forrest Hill, 
+  Edinburgh EH1 2QL, Scotland, UK  
+
+
+	    PROPOSALS MUST BE RECEIVED BY MARCH 29 1999
+
+			   -Please Post-
+
+--------------------------------------------------------------------------
+
+Chris Williams                                         ckiw@dai.ed.ac.uk
+Institute for Adaptive and Neural Computation
+Division of Informatics, University of Edinburgh
+5 Forrest Hill, Edinburgh EH1 2QL, Scotland, UK      fax: +44 131 650 6899
+tel: (direct) +44 131 651 1212  (department switchboard)  +44 131 560 3090
+http://www.dai.ed.ac.uk/daidb/people/homes/ckiw/

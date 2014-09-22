@@ -1,0 +1,53 @@
+
+
+From analog@dsp2.dspnet.com Wed Dec  8 22:42:17 MET 1999
+Received: from dsp2.dspnet.com ([198.3.252.25])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id WAA22588
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 8 Dec 1999 22:42:15 +0100 (MET)
+Received: (from analog@localhost)
+	by dsp2.dspnet.com (8.8.7/8.8.7) id RAA25131
+	for fnielsen@eivind.imm.dtu.dk; Wed, 8 Dec 1999 17:54:09 -0500
+Date: Wed, 8 Dec 1999 17:54:09 -0500
+From: Analog Devices <analog@dsp2.dspnet.com>
+Message-Id: <199912082254.RAA25131@dsp2.dspnet.com>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: ADI's First TigerSHARC DSP
+Status: RO
+X-Status: 
+
+        Analog Devices' New TigerSHARC DSP For 
+           The Future Of Telecommunications
+
+A new DSP era has begun.  Analog Devices Inc. introduces the 
+ADSP-TS001, the first product in the new TigerSHARC DSP family.  The 
+TigerSHARC architecture is a Static Superscalar architecture 
+optimized for telecommunications infrastructure and other large-scale 
+signal processing applications. The ADSP-TS001 has the capability of 
+executing up to eight 16-bit instructions in a single cycle achieving 
+record levels of processing performance. TigerSHARC DSP is also the 
+first with native support for 8-, 16-, and 32-bit fixed-point and 
+floating-point processing on the same chip. Until now, this data type 
+flexibility was unavailable among DSP processors and will prove to be 
+increasingly valuable in the demanding telecom and high performance 
+signal processing markets. 
+
+The ADSP-TS001 TigerSHARC DSP's key features include:
+ - Eight 16-bit MACs/cycle with 40-bit accumulation
+ - Two 32-bit MACs/cycle with 80-bit accumulation
+ - 6 Mbit on-chip SRAM
+ - Glueless multiprocessing
+ - 4 link ports - 600 Mbytes/sec transfer rate
+ - 64 bit external port - 600 Mbytes/sec
+ - Algebraic assembly language syntax
+ - Optimizing C compiler
+ - VisualDSP tools support
+
+So "turbo charge" your design with the ADSP-TS001 TigerSHARC DSP.
+
+To learn more about this exciting new ADI DSP, please visit 
+http://www.analog.com/dsp . You will be able to view on-line the 
+technical specification, programmer's guide, and benchmarks.
+
+________________________________________________________________
+If you feel this e-mail was not relevant, you can change your 
+e-mail preferences at http://www.techonline.com/list_update.html

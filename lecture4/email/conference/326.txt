@@ -1,0 +1,90 @@
+
+
+From spm-request@mailbase.ac.uk Wed Oct 27 23:04:22 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id XAA15500
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 27 Oct 1999 23:04:20 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id WAA29836;
+	Wed, 27 Oct 1999 22:05:02 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id WAA04974;
+        Wed, 27 Oct 1999 22:01:21 +0100 (BST)
+Received: from gcrc.ufl.edu (brain.gcrc.ufl.edu [128.227.179.157]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id WAA04956;
+        Wed, 27 Oct 1999 22:01:13 +0100 (BST)
+Received: from biostat.ufl.edu (willow [128.227.217.180])
+	by gcrc.ufl.edu (8.9.1/8.9.1/daw) with ESMTP id RAA26800;
+	Wed, 27 Oct 1999 17:01:07 -0400 (EDT)
+Original-Sender: ahutson@biostat.ufl.edu
+Message-ID: <381767E4.70303E54@biostat.ufl.edu>
+Date: Wed, 27 Oct 1999 17:00:20 -0400
+Organization: University of Florida
+X-Mailer: Mozilla 4.6 [en] (X11; U; SunOS 5.6 sun4u)
+X-Accept-Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: call for papers
+From: Alan Hutson <ahutson@biostat.ufl.edu>
+To: allstat@mailbase.ac.uk, stat-l@vm1.mcgill.ca, edstat-l@jse.stat.ncsu.edu,
+        iasc@stat.unipg.it, stat@statlab.uni-heidelberg.de,
+        biometry@med-stat.gwdg.ed, biometria@listserv.rediris.es,
+        spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Alan Hutson <ahutson@biostat.ufl.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Call for Papers and Announcement
+
+Mathematical Methods in Biomedical Imaging
+
+Part of SPIE's International Symposium on
+Optical Science and Technology
+
+30July through 4August 2000
+San Diego Convention Center and Marriott Hotel & Marina
+San Diego California USA
+
+The theme of this conference is the development, implementation,
+and use of mathematical methods for biomedical imaging. The goal
+is to provide a forum for scientific interaction between
+researchers and practitioners in academics, industry, and
+government.
+
+Sessions may include, but are not limited to the following
+aspects of biomedical imaging.
+
+*statistical methods for developing, evaluating and comparing
+ algorithms
+*mathematical foundations
+*innovative methods for image acquisition and restoration
+*hardware implementations
+*image compression techniques for medical or biomedical images
+*mathematical methods of image enhancement and segmentation
+*thin-plate spline techniques
+*model building and expert systems
+*limitations of existing or novel methods
+*innovative applications to solve real biomedical and medical
+ problems
+*physiologically motivated information processing
+*image reconstruction algorithms
+*image registration
+
+
+Abstract due date   3 January 2000
+Manuscript due date 3 July 2000
+
+
+
+For further detailed information go to the URL:
+www.spie.org/info/annualmeeting
+
+

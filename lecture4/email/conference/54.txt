@@ -1,0 +1,83 @@
+
+
+From owner-www-vrml@vrml.org Tue Jan 20 22:23:24 MET 1998
+Received: from vrml.org (vrml.org [209.66.78.240])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id WAA22569
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 20 Jan 1998 22:23:20 +0100 (MET)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id TAA12912
+	for www-vrml-outgoing; Tue, 20 Jan 1998 19:47:25 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from pop1.netway.at (pop1.netway.at [195.96.0.131])
+	by vrml.org (8.8.7/8.8.5) with ESMTP id TAA12907
+	for <www-vrml@vrml.org>; Tue, 20 Jan 1998 19:47:16 GMT
+Received: (from uucp@localhost) by pop1.netway.at (8.7.5/8.7.3) id UAA23936; Tue, 20 Jan 1998 20:34:04 +0100 (MET)
+Received: from l6542t1p08.netway.at(195.96.19.40), claiming to be "plasticplanet.com"
+ via SMTP by pop1, id smtpdAAAa004aX; Tue Jan 20 20:14:29 1998
+Message-ID: <34C4F692.1817343F@plasticplanet.com>
+Date: Tue, 20 Jan 1998 20:10:10 +0100
+From: Juergen Landauer <juergen.landauer@plasticplanet.com>
+Reply-To: juergen.landauer@iao.fhg.de
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: mailing@plasticplanet.com
+Subject: Second Call - Virtual Environments / IEEE Yuforic Germany
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+Second Call for Papers
+
+ Virtual Environments '98
+ Conference & 4th Eurographics Workshop
+
+held simultaneously with
+
+ IEEE YUFORIC Germany '98
+
+June 16th - 18th, 1998
+Stuttgart, Germany
+
+In cooperation with:
+ - Eurographics
+ - IEEE Computer Society
+ - Fraunhofer IAO/IPA, GMD, RUS Univ. Stuttgart
+
+See also http://vr.iao.fhg.de/conference
+
+
+-------------------------------------
+SUBMISSION DEADLINE: 16 February 1998
+-------------------------------------
+
+
+'Virtual Environments' is the European event for Virtual Reality
+research, technology, and applications. Experts from both academia and
+industry will gather to discuss the latest trends and ideas. Topics
+include immersive VR, distributed VR, VR on the internet, PC-based VR
+etc.
+
+The YUFORIC meeting of the IEEE Computer Society will focus on  virtual
+environments but will also cover related topics such as computer
+graphics, animation, and computer vision. Senior students and young
+professionals are invited to present their ideas and get feedback from
+experts in their field.
+
+
+Regards,
+
+Juergen Landauer
+CC Virtual Reality
+Fraunhofer IAO, Stuttgart, Germany
+
+Juergen.Landauer@iao.fhg.de
+Phone: +49-711-970-2134
+Fax:   +49-711-970-2299
+Mail: Fraunhofer IAO, Nobelstr. 12, 70597 Stuttgart, Germany
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

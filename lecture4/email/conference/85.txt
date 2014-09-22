@@ -1,0 +1,38 @@
+
+
+From ebert@cs.umbc.edu Thu Dec  4 15:59:11 MET 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id PAA17767 for <fnielsen@eivind.imm.dtu.dk>; Thu, 4 Dec 1997 15:59:01 +0100 (MET)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id JAA16514;
+	Thu, 4 Dec 1997 09:49:55 -0500 (EST)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.7/8.8.6) id JAA26397;
+	Thu, 4 Dec 1997 09:49:54 -0500 (EST)
+Message-Id: <199712041449.JAA26397@dogbert.cs.umbc.edu>
+Subject: No color in the proceedings
+To: lyn@cs.sfu.ca, dtchang@us.ibm.com, maartenv@MICROSOFT.com,
+        xtian@co.umist.ac.uk, heckel@cs.ucdavis.edu, kimoto@dq.isl.ntt.co.jp,
+        mlux@igd.fhg.de, phil@cs.uwm.edu, mcculley@visa.com,
+        Nancy.Miller@pnl.gov, fnielsen@eivind.imm.dtu.dk, peters@igd.fhg.de,
+        krobbins@runner.jpl.utsa.edu, Claudia.Roncancio@imag.fr,
+        bastiaan@cs.vu.nl, ian@umbc.edu, johan@unixville.com,
+        laura@iinf02.ing.univaq.it, volker@teco.uni-karlsruhe.de,
+        wwright@vdi.com
+Date: Thu, 4 Dec 1997 09:49:53 -0500 (EST)
+Cc: ebert@cs.umbc.edu (Dr. David Ebert), nicholas@cs.umbc.edu
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: A
+
+We just got the final cost estimate for the proceedings.
+Unfortunately the cost of doing color pages is too high (unbelievably high),
+so for the printed version, you should assume that anything you send will be
+reprinted in black and white. For the online ACM digital library, you can
+include color.
+
+David
+-----

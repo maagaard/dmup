@@ -1,0 +1,1323 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jun 11 06:57:43 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA28644;
+	Fri, 11 Jun 1999 06:57:36 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24839;
+          10 Jun 99 22:18 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24837;
+          10 Jun 99 22:13 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14967;
+          10 Jun 99 22:12 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa07856; 10 Jun 99 18:21 EDT
+Received: from [131.215.25.161] by EDRC.CMU.EDU id aa17524;
+          10 Jun 99 18:20:51 EDT
+Received: from jimmac.bbb.caltech.edu ([131.215.25.164])
+	by gateway.bbb.caltech.edu with esmtp (Exim 2.05 #2)
+	id 10sDC7-0000kG-00; Thu, 10 Jun 1999 15:21:07 -0700
+Mime-Version: 1.0
+X-Sender: jbower@gateway.bbb.caltech.edu
+Message-Id: <v04011721b385eadbdd23@[131.215.25.164]>
+Date: Thu, 10 Jun 1999 15:22:12 -0700
+To: Connectionists@CS.cmu.edu, cns-interest@cns.caltech.edu
+From: "James M. Bower" <jbower@bbb.caltech.edu>
+Subject: REGISTRATION FOR CNS*99
+Status: RO
+X-Status: 
+
+************************************************************************
+
+EIGHTH ANNUAL COMPUTATIONAL NEUROSCIENCE MEETING (CNS*99)
+
+July 18 - 22, 1999   Pittsburgh, Pennsylavania
+
+REGISTRATION INFORMATION
+
+************************************************************************
+
+Registration is now open for this year's Computational Neuroscience meeting
+(CNS*99).
+ This is the eighth in a series of annual inter-disciplinary
+conferences intended to address the broad range of research approaches and
+issues involved in the general field of computational neuroscience.  As in
+previous years, this meeting will bring together experimental and
+theoretical neurobiologists along with engineers, computer scientists,
+cognitive scientists, physicists, and mathematicians interested in
+understanding how biological neural systems compute.  The meeting will
+equally emphasize experimental,  model-based, and more abstract theoretical
+approaches to understanding neurobiological computation.
+
+The meeting in 1999 will take place at Pittsburgh Hilton and Towers in
+Pittsburgh, Pennsylvania and include plenary, contributed, and poster
+sessions.  The first session starts at 9 am, Sunday July 18th and the
+meeting ends with the annual CNS banquet on Thursday evening, July 22nd.
+There will be no parallel sessions.  The meeting includes two half days of
+informal workshops focused on current issues in computational neuroscience.
+Day care will be not be available.
+
+LOCATION:  The meeting will take place at the Pittsburgh Hilton and Towers in
+Pittsburgh, Pennsylvania
+
+
+MEETING ACCOMMODATIONS:  Accommodations for the meeting have been arranged
+at Pittsburgh Hilton and Towers.  Information concerning reservations,
+hotel accommodations, etc. are available at the meeting web site indicated
+below.  A block of rooms are reserved at special rates. 40 student rate
+rooms are available on a first-come-first-served basis, so we recommend
+students acting quickly to reserve these slots.  NOTE that registering for
+the meeting, WILL NOT result in an automatic room reservation.  Instead you
+must
+make your own reservations by contacting the hotel itself.  As this is
+the high season for tourists in Pittsburgh, you should make sure and
+reserve your
+ accommodations quickly by contacting:
+
+Pittsburgh Hilton and Towers
+(RESERVATION REQUEST ORDER FORM LOCATED BELOW)
+
+NOTE:  IN ORDER TO GET THE AVAILABLE ROOMS, YOU MUST CONFIRM
+HOTEL REGISTRATIONS BY SATURDAY, JUNE 17, 1999.
+
+When making reservations by phone, make sure and indicate that you are
+registering for the Computational Neuroscience (CNS*99) meeting.   Students
+will be asked to verify their status on check in with a student ID or other
+documentation.
+
+MEETING REGISTRATION FEES:
+
+Registration received on or before July 3, 1999:
+	Student:  $  125
+	Regular:  $  275
+
+Meeting registration after July 3, 1999:
+	Student:  $ 150
+	Regular:  $ 300
+
+
+BANQUET:  Registration for the meeting includes a single ticket to the
+annual CNS Banquet.  Additional Banquet tickets can be purchased for $35
+each person.  The banquet will be held on Thursday, July 22nd.
+
+*********************************************************************
+
+REGISTRATION AND ADDITIONAL INFORMATION (including the agenda with list of
+talks)
+can be obtained by:
+
+o Using our on-line WWW information and registration server, URL of:
+            http://cns.numedeon.com/cns99/
+
+o Sending Email to:
+            cns99@bbb.caltech.edu
+
+PLEASE FAX OR MAIL REGISTRATION FORM TO:
+Caltech, Division of Biology 216-76, Pasadena, CA 91125
+Attn: Judy Macias
+Fax Number: (626) 795-2088
+
+(Refund Policy: 50% refund for cancellations on or before July 9th
+ no refund after July 10th)
+
+*******************************************************************
+
+PLEASE CALL PITTSBURGH HILTON AND TOWERS TO MAKE HOTEL RESERVATIONS AT
+(412) 391-4600 Fax (412) 594-5144
+
+OR YOU CAN MAIL REGISTRATION FORM TWO WAYS
+
+*  MAIL REGISTRATION FORM TO PITTSBURGH HILTON AND TOWERS AT THE ADDRESS
+BELOW
+
+OR FAX REGISTRATION FORM BELOW AT  (412) 594-5144
+
+**********************************************************************
+
+MAIL TO:  Pittsburgh Hilton and Towers
+Attn:  Reservation Department
+600 Commonwealth Place
+Pittsburgh, Pennsylvania  15222
+
+
+Check-In Time:  3:00 p.m.
+Check-Out Time:  12:00 noon
+
+Computational Neuroscience Conference - CNS*99
+July 17 - 22, 1999
+
+
+
+* A $50 early departure fee will be assessed should you change your
+departure date after you have checked in.
+
+**  The hotel requires a 1 night advance deposit for all reservations.  The
+deposit is refunable up to 3 days before arrival.  Checks and major credit
+cards are acceptable to establish the deposit.
+
+
+
+REQUESTS MUST BE RECEIVED BY:  SATURDAY, JUNE 17, 1998
+
+PLEASE RESERVE ____________ ROOM(S) OF THE TYPE CIRCLED ___________
+
+ARRIVAL  (DAY/DATE)______________ TIME ______________
+
+DEPARTURE (DAY/DATE)____________ TIME ______________
+
+Name of Person Requesting Rooms:
+
+Last Name:____________________________
+First Name:____________________________
+Company Name:________________________
+Institute:_______________________________
+Street Address or PO Box Number:___________________________
+City:___________________________________
+State:___________________________________
+Zip Code:________________________________
+Area Code and Phone Number:______________________________
+
+PERSON SHARING ACCOMMODATIONS:
+
+1. ____________________________
+2. ____________________________
+3. ____________________________
+
+__  ADVANCE DEPOSIT (check)
+
+__  AMERICAN EXPRESS
+
+__  MASTERCARD
+
+__  VISA
+
+__  CARTE BLACHE
+
+__  DINERS
+
+__  DISCOVER
+
+
+Credit Card No. ______________________________________
+
+Expiration Date:______________________________________
+
+
+
+SCHEDULE OF RATE (CIRCLE 1)
+
+Queen
+1 person/1 bed	$119.00
+
+Queen
+2 persons/1 bed	$119.00
+
+Double/Double
+2 persons/2 beds $119.99
+
+
+Plus prevailing Sate Sales Tax 14%
+
+Additional Person charge is $20.00
+
+Cut Off Date:  June 26, 1999
+
+H HONORS Membership No.  ______________________________________
+
+**If a room is not available at rate requested, reservation will be made at
+the next available rate.
+
+
+********************************************************************
+
+CNS*99 MEETING AGENDA
+
+
+
+SUNDAY, JULY 18, 1999
+
+9:00	Welcoming Remarks and General Information
+
+9:15	Featured Contributed Talk: Boris Gutkin (Center for Neuroscience at
+University of Pittsburgh) G. Bard Ermentrout
+
+A Canonical Theory of Spike Generation in Cortical Neurons Accounts for
+Complex Neural Responses to Constant and Time-varying Stimuli
+
+
+Contributed Talks
+
+10:05	Frances Chance (Brandeis University) Sacha Nelson, and L. F. Abbott
+
+Recurrent Cortical Amplification Produces Complex Cell Responses
+
+10:25	Brian Blais (Brown University) Ann Besu, Harel Shouval, and Leon Cooper
+
+Statistics of LGN Activity Determine the Segregation of ON/OFF Subfields
+for Simple Cells in Cortex
+
+
+10:45	Alain Destexhe (Laval University) Denis Pare
+
+Correlated Synaptic Bombardment in Neocortical Pyramidal Neurons in Vivo
+
+
+11:05	Break
+
+
+11:20	Reinoud Maex (University of Antwerp) Bart P. Vos and Erik De Schutter
+
+Imprecise Spike Synchronization Reveals Common Excitation through Weak
+Distributed Synapses
+
+11:40	Allan Coop (Rockefeller University) George Reeke
+
+Simulating the Temporal Evolution of Neuronal Discharge
+
+
+12:00	Gwendal le Masson (Institut Fran=E7ois Magendie) Emmanuel Barbe,
+Valerie Morisset, and Frederic Nagy
+
+>From Current Clamp Experiments to Conductance-based Model Neurons: A
+>Direct Link Using A New Error Function and Optimization Scheme
+
+12:20	Lunch Break and Poster Preview Session A
+
+
+2:20	Featured Contributed Talk: Rama Ratnam (University of Illinois)
+Mark Nelson
+
+Impact of Afferent Spike Train Irregularity on the Detection of Weak
+Sensory Signals
+
+
+Contributed Talks
+
+3:10	Elise Cassidente (Carnegie Mellon University) Xiaogang Yan and Tai
+Sing Lee
+
+A Bayesian Decision Approach to Decode Local and Contextual Signals from
+Spike Trains
+
+3:30	Alexander Dimitrov (MSU Center for Computational Biology) John P.
+Miller
+
+Natural Time Scale for Neural Encoding
+
+3:50	 Break
+
+4:10	Kevin Otto (Arizona State University) Rousche Patrick and Daryl Kipke
+
+Investigating Neural Coding and Plasticity in Auditory Cortex using
+Real-Time Feedback from Ensemble Neural Recordings
+
+4:30	End of Day Announcements
+
+
+8:00 	Poster Session A
+
+
+Pamela Abshire (Johns Hopkins University)
+Andreas Andreou
+Relating Information Capacity to a Biophysical Model for Blowfly Retina
+
+Paul Adams (SUNY Stony Brook)
+Kingsley Cox
+Implications of Digital Synapses for Thalamocortical Function
+
+Ildiko Aradi (Ohio University)
+William Holmes
+Synchronized Oscillation in Networks of Hippocampal Dentate Gyrus
+Interneurons with Different Adaptation Properties
+
+Per Aronsson (Royal Institute of Technology)
+Hans Liljenstr=F6m
+Electromagnetic Interaction in a Neural System
+
+
+Giorgio A. Ascoli (George Mason University)
+Jeffrey L. Krichmar
+L-Neuron: A Modeling Tool for the Efficient Generation and Parsimonious
+Description of Dendritic Morphology
+
+Davis Barch (University of California at Berkeley)
+Characterization of Static Input by Activity Oscillations in an Excitable
+Membrane Model: Effect of Input Size, Shape and Texture on Oscillation
+Parameters
+
+Hauke Bartsch (Technische University)
+The Influence of Threshold Variability on the Response of Visual Cortical
+Neurons
+
+John Beggs (Yale University)
+Why LTP and LTD are Asymmetric: A Bin Model to Explain Induction Parameters
+
+Alan Bond (California Institute of Technology)
+Problem-solving Behavior in a System Model of the Primate Neocortex
+
+Vladimir Bondarenko (University of Pittsburgh)
+Teresa Chay
+The Role of AMPA, GABA, [Ca2+]i, and Calcium Stores in Propagating Waves in
+Neuronal Networks
+
+Mihail Bota (USC Brain Project)
+Alex Guazzelli and Michael Arbib
+The Extended Taxon-Affordances Model: Egocentric Navigation and the
+Interactions between the Prefrontal Cortex and the Striatum
+
+Hans A. Braun (University of Marburg)
+Martin T. Huber, Mathias Dewald, Karlheinz Voigt, Alexander Neimann, Xing
+Pei, and Frank Moss
+A Computer-Model of Temperature Encoding in Peripheral Cold Receptors:
+Oscillations, Noise and Chaotic Dynamics
+
+Adam Briska (University of Wisconsin)
+Daniel Uhlrich and William Lytton
+Independent Dendritic Domains in the Thalamic Circuit
+
+Dyrk Brockmann (Max-Planck-Institut)
+Theo Geisel
+The Ecology of Gaze Shifts
+
+David Brown (The Babraham Institute)
+Jianfeng Feng
+Low Correlation between Random Synaptic Inputs Impacts Considerably on the
+Output of the Hodgkin-Huxley Model
+
+Emery N. Brown (Massachusetts General Hospital)
+Riccardo Barbieri, Michael C. Quirk, Loren M. Frank, and Matthew A. Wilson
+Constructing a Time-dependent Gamma Probability Model of Spatial
+Information Encoding in the Rat Hippocampus
+
+Nicolas Brunel (Brandeis University)
+Phase Diagrams of Sparsely Connected Networks of Excitatory and Inhibitory
+Spiking Neurons
+
+Anthony Burkitt (The Bionic Ear Institute)
+Graeme Clark
+Analysis of Synchronization in the Response of Neurons to Noisy Periodic
+Synaptic Input
+
+Anthony Burkitt (The Bionic Ear Institute)
+Interspike Interval Variability for Balanced Networks with Reversal
+Potentials for Large Numbers of Inputs
+
+Marcelo Camperi (University of San Francisco)
+Peter Pacheco, Nicola Rugai, and Toshiyuki Uchino
+NEUROSYS: An Easy-to-Use System for the Simulation of Very Large Networks
+of Biologically Accurate Neurons on Parallel Computers
+
+Marcelo Camperi (University of San Francisco)
+Nicola Rugai
+Modeling Dopaminergic Modulation of Delay-Period Activity in Prefrontal
+Cortex During Working Memory Processes"
+
+Carmen Canavier (University of New Orleans)
+Reciprocal Excitatory Ohmic Synapses Convert Pacemaker-Like Firing into
+Burst Firing in a Simple Model of Coupled Neurons
+
+Gal Chechik (Tel-Aviv University)
+Isaac Mailijson and Eytan Ruppin
+Neuronal Normalization Provides Effective Learning through Ineffective
+Synaptic Learning Rules
+
+Yoonsuck Choe (The University of Texas at Austin)
+Risto Miikkulainen and Lawrence K. Cormack
+Effects of Presynaptic and Postsynaptic Resource Redistribution in Hebbian
+Weight Adaptation
+
+Carson Chow (University Of Pittsburgh)
+Nancy Kopell
+Dynamics of Spiking Neurons with Electrical Coupling
+
+Thomas Coates (Pennsylvania State University)
+Control and Monitoring of a Parallel Processed Neural Network via the World
+Wide Web
+
+Eyal Cohen (Tel-Aviv University)
+Nir Levy and Eytan Ruppin
+Global Versus Local Processing of Compressed Representations: A
+Computational Model of Visual Search
+
+Gennady S. Cymbalyuk (Emory University)
+Ronald L. Calabrese
+Oscillatory Behaviors in Pharmacologically Isolated Heart Interneurons from
+the Medicinal Leech
+
+
+
+Yue Dai (University of Manitoba)
+Kelvin Jones, Brent Fedirchuk, and Larry Jordan
+Regulation of the Action Potential Voltage Threshold in Cat Spinal
+Motoneurons during Fictive Locomotion
+
+Field David (Cornell University)
+Learning Wavelet-Like Receptive Fields from Natural Scenes with a
+Biologically Plausible De-correlation Network
+
+Marilene de Pinho (Universidade De S=E3o Paulo)
+Marcelo Mazza and Antonio Roque-da-Silva
+A Biologically Plausible Computer Simulation of Classical Conditioning
+Induced Reorganization of Tonotopic Maps in the Auditory Cortex
+
+Gustavo Deco (Siemens AG)
+Josef Zihl
+Neurodynamical Mechanism of Binding and Selective Attention for Visual Search
+
+Alain Destexhe (Laval University)
+Helmut Kroger
+Consequences of Correlated Synaptic Bombardment on Dendritic Integration in
+Neocortical Pyramidal Neurons
+
+Patricia M. Di Lorenzo (SUNY at Binghamton)
+Kurt Grandis and Christian Reich
+Stimulation of Sodium Channels in Taste Receptor Cells Provides Noise that
+Enhances Taste Detection
+
+L. M. Dobbs (Schafer Corporation)
+T. J. Manuccia and J. L. Murphy
+Planar Optically Switched Microelectrode Array (OSMA)
+
+Silke Dodel (Max Planck Institute)
+J. Michael Herrmann, Theo Geisel, and Jens Frahm
+Components of Brain Activity -Data Analysis for FMRI
+
+Gideon Dror (The Academic College of Tel-Aviv-Yaffo)
+Misha Tsodyks
+Activity of Coupled Excitatory and Inhibitory Neural Populations with
+Dynamic Synapses
+
+Gideon Dror (The Academic College of Tel-Aviv-Yaffo)
+Misha Tsodyks
+Chaotic Phenomena in Neural Populations with Dynamic Synapses
+
+Witali Dunin-Barkowski (Texas Tech University)
+Donald Wunsch
+Phase-Based Cerebellur Learning of Dynamic Signals
+
+Gaute T. Einevoll (Agricultural University of Norway)
+Paul Heggelund
+Mathematical Models for Spatial Receptive-Field Organization of DLGN
+Neurons in CAT
+
+Chris Eliasmith (Washington University in St. Louis)
+Charles H. Anderson
+Rethinking Central Pattern Generators: A General Framework
+
+Steven Epstein (Boston University)
+Jason Ritt, Yair Manor, Farzan Nadim, Eve Marder, and Nancy Kopell
+Network Oscillations Generated by Balancing Graded Asymmetric Reciprocal
+Inhibition in Passive Neurons
+
+T. Ghaffari Farazi (University of Southern California)
+J.-S. Liaw and T.W. Berger
+Functional Implications of Synaptic Morphology
+
+Stuart Feerick (The Babraham Institute)
+Jianfeng Feng and David Brown
+Random Pulse input Versus Continuous Current plus White/colored Noise: Are
+They Equivalent?
+
+Jianfeng Feng (The Babraham Institute)
+Stimulus-Evoked Oscillatory Synchronization in Neuronal Models
+
+Joseph Francis (George Washington University)
+Bruce Gluckman and Steven Schiff
+Deterministic Structure in Data from a Free Running Neuronal Ensemble: A
+Comparison of Three Non-linear Test for Determinism
+
+Mark Fuhs (Carnegie Mellon University)
+David Touretzky
+Synaptic Learning Models of Map Separation in the Hippocampus
+
+Tomoki Fukai (Tokai University)
+Seinichi Kanemura
+Precisely-Timed Transient Synchronization by Synaptic Depression
+
+Ryuta Fukuda (Keio University)
+Satoshi Nagayasu, Junko Hara, William Shankle, Masaru Tomita
+Suggesting Human Cortical Connectivity for Language-related Areas and
+Simulations of its Computational Model
+
+Enrique Garibay (Brandeis University)
+Xiao-Jing Wang
+Information Transfer in a Model Neuron with Correlated Inputs
+
+Daniel Gill (The Hebrew University)
+Lidror Troyansky and Israel Nelken
+Auditory Localization using Direction-dependent Spectral Information
+
+Simon F. Giszter (MCPHU)
+William J. Kargo
+On-line Limb Trajectory Adaptation by Assembly and Control of Force-field
+Primitives Using Modular Encapsulated Feedback
+
+J. Randall Gobbel (Carnegie Mellon University)
+Reinforcement Learning in a Biophysical Model of Basal Ganglia-Neocortex Loops
+
+
+
+MONDAY, JULY 19, 1999
+
+9:00	General Information
+
+9:15	Featured Contributed Talk: Don Johnson (Rice University) Charlotte
+Gruner, Raymon Glantz
+
+Quantifying Information Transfer in Spike Generation
+
+
+Contributed Talks
+
+10:05	Daniel Butts (Lawrence Berkeley National Laboratory) Daniel Rokhsar
+
+The Information Content of Spontaneous Retinal Waves
+
+10:25	Mona Spiridon (EPFL, Swiss Federal Institute of Technology) Carson
+Chow
+and Wulfram Gerstner
+
+Signal Transmission through A Population of Integrate-and-fire Neurons
+
+
+10:45	Paul H.E. Tiesinga (Salk Institute) Jorge V. Jose
+
+Driven by Inhibition
+
+11:05	Break
+
+
+11:20	Jianfeng Feng (The Babraham Institute)
+
+Stimulus-Evoked Oscillatory Synchronization in Neuronal Models
+
+
+11:40	Charles Anderson (Washington University) Qingfeng Huang and John Clark
+
+Harmonic Analysis of Spiking Neuronal Ensembles
+
+
+12:00	Steven Schiff (Krasnow Institute) David Colella
+
+Brain Chirps: Spectrographic Signatures of Epileptic Seizures
+
+
+
+
+
+12:20	Vikaas Sohal (Stanford University School of Medicine) Molly Hunstman
+and John Huguenard
+
+Reciprocal Inhibitory Connections Produce Phase Lags That Desynchronize
+Intrathalamic Oscillations
+
+
+12:40 	Lunch Break and Poster Preview Session B
+
+
+2:00	Featured Contributed Talk: Nancy Kopell (Boston University)
+Bard Ermentrout, Miles Whittington, and Roger Traub
+
+Gamma and Beta Rhythms Have Different Synchronization Properties
+
+
+Contributed Talks
+
+2:50	Carson Chow (University of Pittsburgh) Carlo Laing and G. Bard
+Ermentrout
+
+Bump Solutions in a Network of Spiking Neurons
+
+3:10	Christian W. Eurich (Institute of Theoretical Physics) Klaus
+Pawelzik, Udo Ernst, Jack Cowan, and John Milton
+
+Delay Adaptation in the Nervous System
+
+
+3:30	Kay Robbins (University of Texas at San Antonio) David Senseman
+
+The Relationship of Response Latency to Modal Decomposition: Analysis of
+the Initial Spread of Visually-evoked Cortical Depolarization
+
+3:50	Break
+
+
+4:10	Ernst Niebur (Johns Hopkins University) Arup Roy, Peter Steinmetz,
+and Kenneth Johnson
+
+Model-free Detection of Synchrony in Neuronal Spike Trains, with an
+Application to Primate Somatosensory Cortex
+
+
+4:30	Invited Talk: To be announced
+
+
+
+5:20	End of Day Announcements
+
+
+
+
+8:00	Poster Session B
+
+Mark Goldman (Brandeis University)
+Jorge Golowasch, Laurence Abbott, and Eve Marder
+Dependence of Firing Pattern on Intrinsic Ionic Conductances: Sensitive and
+Insensitive Combinations
+
+Anatoli Gorchetchnikov (Middle Tennessee State University)
+Introduction of Threshold Self-adjustment Improves the Convergence in
+Feature-detective Neural Nets
+
+Boris S. Gutkin (University of Pittsburgh)
+G. Bard Ermentrout and Joseph O'Sullivan
+Layer 3 Patchy Recurrent Excitatory Connections May Determine the Spatial
+Organization of Sustained Activity in the Primate Prefrontal Cortex
+
+Junko Hara (University of California at Irvine)
+Ryuta Fukuda, William Shankle, and James Fallon
+Estimating Cortical Connectivity from Statistical Properties of the
+Microscopic Features of the Developing Human Cerebral Cortex: Comparison to
+Contemporary Methods and Relevance to Computational Modeling
+
+Jeanette Hellgren Kotaleski (NADA)
+Patrik Krieger
+Simulation of Metabotropic Glutamate Receptor Induced Cellular and Network
+Effects in the Lamprey Locomotor CPG
+
+Jeanette Hellgren Kotaleski (NADA)
+Alexander Kozlov, Erik Aurell, Sten Grillner, and Anders Lansner
+Modeling of Plasticity of the Synaptic Connections in the Lamprey Spinal
+CPG - Consequences for Network Behavior
+
+Tim Hely (Santa Fe Institute)
+The Development of Corpus Callosum Connections in Primary Visual Cortex
+
+Alix Herrmann (Swiss Federal Institute of Technology)
+Wulfram Gerstner
+Effect of Noise on Neuron Transient Response
+
+J. Michael Herrmann (Max-Planck-Institut Fuer Stroemungsforschung)
+Klaus Pawelzik and Theo Geisel
+Learning Predictive Representations
+
+Claus C. Hilgetag (Newcastle University)
+Spatial Neglect and Paradoxical Lesion Effects in the CAT - A  Model Based
+on Midbrain Connectivity
+
+
+
+
+Ulrich Hofmann (California Institute of Technology)
+Stephen Van Hooser, David Kewley, and James Bower
+Relationship between Field Potentials and Spike Activity in Rat S1:
+Multi-site Cortical Recordings and Simulations
+
+William Holmes (Ohio University)
+Comparison of CaMKinase II Activation in a Dendritic Spine Computed with
+Deterministic and Stochastic Models of the NMDA Synaptic Conductance
+
+Greg Hood (Pittsburgh Supercomputing Center)
+John Burkardt and Greg Foss
+Visualizing the Visual System
+
+David Horn (Tel Aviv University)
+Irit Opher
+Complex Dynamics of Neuronal Thresholds
+
+Osamu Hoshino (The University of Electro-Communications)
+Satoru Inoue, Yoshiki Kashimori, and Takeshi Kambara
+A Role of a Hierarchical Dynamical Map in Cognition and Binding Different
+Sensory Modalities
+
+Michael Howe (University of Texas at Austin)
+Risto Miikkulainen
+Hebbian Learning and Temporary Storage in the Convergence-Zone Model of
+Episodic Memory
+
+Fred Howell (University of Edinburgh)
+Jonas Dyhrfjeld-Johnsen, Reinhoud Maex, Nigel Goddard, and Erik De Schutter
+A Large Scale Simulation Model of the Cerebellar Cortex using PGENESIS
+
+Martin T. Huber (University of Marburg)
+J=FCrgen C. Krieg, Hans A. Braun, Xing Pei, and Frank Moss
+Do Stochastic-dynamic Effects Contribute to the Progression of Mood
+Disorders: Implications from Neurodynamic Modelling
+
+Hidetoshi Ikeno (Himeji Institute of Technology)
+Shiro Usui
+Information Processing by Electro-diffusion in the Kenyon Cell
+
+Satoru Inoue (The University of Electro-Communications)
+Yoshiki Kashimori, Osamu Hoshino, and Takeshi Kambara
+A Neuronal Model of Nucleus Laminaris and Inferior Colliculus Detecting
+Microsecond Interaural Time Difference in Sound Localization
+
+David Jaffe (University of Texas at San Antonio)
+Nicholas Carnevale
+Morphological Determinants of Synaptic Integration
+
+Kelvin E. Jones (University of Manitoba)
+Kevin P. Carlin, Jeremy Rempel, Larry M. Jordan, and Rob M. Brownstone
+Dendritic Calcium Channels in Mouse Spinal Motoneurons: Implications for
+Bistable Membrane Properties
+
+Ranu Jung (University of Kentucky)
+David Magnuson
+Non-stationary Analysis of Extracellular Neural Activity
+
+Ranu Jung (University of Kentucky)
+Min Shao
+Robustness of the CGSA in Estimating the Hurst Exponent from Time Series
+with Fractal and Harmonic Components
+
+George Kalarickal (Massachusetts Institute of Technology)
+Jonathan Marshall
+Neural Model of Temporal and Stochastic Properties of Binocular Rivalry
+
+Takeshi Kambara (University of Electro-Communications)
+Yoshiki Kashimori
+A Positive Role of Noises in Accurate Detection of Time Difference by
+Electrosensory System of Weakly Electric Fish
+
+Jan Karbowski (Boston University)
+Nancy Kopell
+Multispikes and Synchronization in a Large Neural Network with Temporal Delays
+
+Matthias Kaschube (Max-Planck-Institut Fuer Stroemungsforschung)
+Fred Wolf, Theo Geisel, and Siegrid Loewel
+Quantifying the Variability of Patterns of Orientation Domains in the
+Visual Cortex of Cats
+
+Yoshiki Kashimori (Univ. of Electro-Communications)
+Takeshi Kambara
+A Role of Synaptic Variation Depending on Precise Timing of Pre- and
+Post-synaptic Depolarization in Electrolocation
+
+Adam Kepecs (Brandeis University)
+Xiao-Jing Wang
+An Analysis of Complex Bursting in Cortical Pyramidal Neuron Models
+
+Blackwell Kim (George Mason University)
+Characterization of the Light-induced Currents in Hermissenda
+
+D. O. Kim (Univ. Conn. Health Center)
+W. R. D'Angelo
+Computational Model for the Bushy Cell of the Cochlear Nucleus
+
+Wonryull Koh (Texas A&M University)
+Bruce H. McCormick
+Distributed, Web-based Microstructure Database for Brain Tissue
+
+Wonryull Koh (Texas A&M University)
+Bruce H. McCormick, William R. Shankle, and James H. Fallon
+Geometric Modeling of Local Cortical Networks
+
+Alexander Kozlov (Russian Academy of Science)
+Erik Aurell, Tatiana Deliagina, Sten Grillner, Jeanette Hellgren-Kotaleski,
+Grigory Orlovsky, and Pavel Zelenin
+Modeling Control of Body Orientation in the Lamprey
+
+Sarah Lesher (University of Maryland)
+Li Guan and Avis Cohen
+Symbolic Time Series Analysis of Neural Data
+
+Nir Levy (Tel Aviv University)
+David Horn and Eytan Ruppin
+Distributed Synchrony in an Attractor of Spiking Neurons
+
+Shu-Chen Li (Max Planck Institute for Human Development)
+Ulman Lindenberger and Peter A. Frensch
+Unifying Levels of Cognitive Aging: From Neurotransmission to
+Representation to Cognition
+
+Hualou Liang (Florida Atlantic University)
+Mingzhou Ding and Steve Bressler
+On the Tracking of Dynamic Functional Relations in Monkey Cerebral Cortex
+
+Christiane Linster (Boston University)
+Eve Derosa, Michaella Maloney, and Michael Hasselmo
+Selective Cholinergic Suppression of Pre-strengthened Synapses: A Mechanism
+to Minimize Associative Interference between Odors
+
+John E. Love (Florida Institute of Technology)
+Kathleen M. Johnson
+GRAVICOGNITOR: Toward a Hybrid Fuzzy Cellular Neural Network Based on the
+Cytoarchitectonics of Biological Gravity-Sensing Organ Ontogenesis
+
+Huo Lu (California Institute of Technology)
+James Bower
+Noradrenergic Modulation of Interneurons in the Cerebellar Cortex
+
+Malcolm A. MacIver (University of Illinois)
+Mark E. Nelson
+Evidence for Closed-Loop Control of Prey Capture in Weakly Electric Fish
+
+Norbert Mayer (MPI Fuer Stroemungsforschung)
+Michael Herrmann and Theo Geisel
+Receptive Field Formation in Binocularly Deprived Cats
+
+Marcelo Mazza (Universidade De S=E3o Paulo)
+Antonio Roque-da-Silva
+Realistic Computer Simulation of Cortical Lesion Induced Imbalances in
+Properties of Somatotopic Maps
+
+Bruce H. McCormick (Texas A&M University)
+Richard W. DeVaul, William R. Shankle, and James H. Fallon
+Modeling Neuron Spatial Distribution and Morphology in the Developing Human
+Cerebral Cortex
+
+Rebecca McNamee (University Of Pittsburgh)
+Mingui Sun and Robert Sclabassi
+Use of a Neuro-Fuzzy Inference System (NFIS) for Modeling the Physiologic
+System of Beat-By-Beat Cardiac Control: Comparison to an Auto-Regressive
+Moving Average (ARMA) Model
+
+Georgiy Medvedev (Boston University)
+Charles Wilson, Jay Callaway, and Nancy Kopell
+A Dopaminergic Neuron as a Chain of Oscillators: Analysis of Transient Dynamics
+
+Eduardo Mercado III (Rutgers University)
+Catherine E. Myers and Mark A. Gluck
+Modeling Auditory Cortical Processing as an Adaptive Chirplet Transform
+
+Eugene Mihaliuk (West Virginia University)
+Kenneth Showalter
+Entrainment with Hebbian Learning
+
+Octavian D. Mocanu (Universidad Aut=F3noma De Barcelona)
+Joan Oliver, Fidel Santamar=EDa, and James Bower
+A Passive Featuring of the Cerebellar Granule Cell (The Branching Point
+Hypothesis)
+
+Benoit Morel (Carnegie Mellon University)
+Biologically Plausible Learning Rules for Neural Networks and Quantum Computing
+
+John Nafziger (University of Pennsylvania)
+Leif Finkel
+A Stimulus Density-dependent Normalization Mechanism for Modulating the
+Range of Contour Integration
+
+
+
+TUESDAY, JULY 20, 1999
+
+
+9:00	General Information
+
+
+9:15	Featured Contributed Talk: Seth Wolpert (Penn State
+University-Harrisburg)
+W. Otto Friesen
+
+On the Parametric Stability of a Central Pattern Generator
+
+
+Contributed Talks
+
+10:05	Robert Butera (Lab of Neural Control, NINDS, NIH) Sheree Johnson,
+
+Christopher Del Negro, John Rinzel, and Jeffrey Smith
+
+Dynamics of Excitatory Networks of Burst-capable Neurons: Experimental and
+Modeling Studies of the Respiratory Central Pattern Generator
+
+10:25	Philip Ulinski (University of Chicago) Vivek Khatri
+
+Functional Significance of Interactions between Inhibitory Interneurons in
+Visual Cortex
+
+10:45	Stella Yu (Carnegie Mellon University) Tai Sing Lee
+
+What do V1 Neurons Tell Us about Saccadic Suppression
+
+
+11:05	Break
+
+
+11:20	John A. White (Boston University) Matthew I. Banks, Nancy Kopell,
+
+and Robert A. Pearce
+
+A Novel Mechanism for Theta Modulation of Fast GABA_A Circuit Activity
+
+
+11:40	Jeremy Caplan (Brandeis University) Michael Kahana, Robert Sekuler,
+Matthew Kirschen, and Joseph Madsen
+
+Task Dependence of Human Theta Oscillations during Virtual Maze Navigation
+
+12:00	Albert Compte (Brandeis University) Nicolas Brunel and Xiao-Jing Wang
+
+Spontaneous and Spatially Tuned Persistent Activity in a Cortical Working
+Memory Model
+
+
+12:20	Lunch Break and Poster Preview Session C
+
+2:00 	Featured Contributed Talk: A. D. Redish (University of Arizona)
+B. L. McNaughton and C. A. Barnes
+
+What Makes Place Cells Directional on the Linear Track?
+
+
+
+Contributed Talks
+
+2:50	Victoria Booth (New Jersey Institute of Technology) Amitabha Bose
+
+and Michael Recce
+
+Hippocampal Place Cells and the Generation of Temporal Codes
+
+3:10	Ali Minai (University of Cincinnati) Simona Doboli and Phillip Best
+
+A Comparison of Context-Dependent Hippocampal Place Codes In 1-Layer and
+2-Layer Recurrent Networks
+
+
+3:30	Mayank Mehta (Massachusetts Institute of Technology) Michael Quirk
+and Matthew Wilson
+
+>From Hippocampus to V1: Effect of LTP on Spatio-Temporal Dynamics of
+>Receptive Fields
+
+3:50	Break
+
+4:10	Jessica D. Bayliss (University of Rochester) Dana H. Ballard
+
+Single Trial P3 Epoch Recognition in a Virtual Environment
+
+4:30 	Geoffrey Goodhill (Georgetown University Medical Center) Andrei
+Cimponeriu
+
+Modeling the Joint Development of Ocular Dominance and Orientation Columns
+in Visual Cortex
+
+
+4:50 	Arjen van Ooyen (Netherlands Institute for Brain Research) David
+Willshaw
+
+Influence of Dendritic Morphology on Axonal Competition and Pattern of
+Innervation
+
+5:20	End of Day Announcements
+
+8:00	Poster Session C
+
+Hirofumi Nagashino (The University of Tokushima)
+Kazumi Achi and Yohsuke Kinouchi
+Synchronization with a Periodic Pulse Train in an Asymmetrically Coupled
+Neuronal Network Model
+
+Alexander Neiman (University of Missouri at St. Louis)
+Xing Pei, Frank Moss, Winfried Wojtenek, Lon Wilkens, Martin Huber, Mathias
+Dewald,
+and Hans Braun
+Spike Train Reveals Low Dimensional Deterministic Behaviors in a
+Hodgkin-Huxley Neuron with Intrinsic Oscillator
+
+Alexander Neiman (University of Missouri at St. Louis)
+ Frank Moss, Pei Xing, David Russell, Winfried Wojtenek, Lon Wilkens, Hans
+Braun, and Martin Huber
+Synchronization of the Electroreceptors of the Paddlefish
+
+Alexander Neiman (University of Missouri at St.Louis)
+Ulrike Feudel, Xing Pei, Winfried Wojtenek, Frank Moss, Hans Braun, Mathias
+Dewald,
+and Martin Huber
+Global Bifurcations and Intermittency in a Hodgkin-Huxley Model of
+Thermally Sensitive Neurons
+
+Mike Neubig (University Laval)
+Alain Destexhe
+Are Inhibitory Synaptic Conductances on Thalamic Relay Neurons
+Inhomogeneous?  Are Synapses from Individual Afferents Clustered?
+
+
+Duane Nykamp (New York University)
+Daniel Tranchina
+A Population Density Approach that Facilitates Large-scale Modeling of
+Neural Networks: Extension to Slow Inhibitory Synapses
+
+Hiroshi Okamoto (Fuji Xerox Co.)
+Tomoki Fukai
+A Model for A Cortical Mechanism to Store Intervals of Time
+
+Tim C. Pearce (University of Leicester)
+Odour to Sensor Space Transformations in Artificial and Biological Noses
+
+John Pezaris (California Institute of Technology)
+Maneesh Sahani and Richard Andersen
+Dynamics in LIP Spike Train Coherence
+
+Hans E. Plesser (Max-Planck-Institut for Fluid Dynamics)
+Wulfram Gerstner
+Escape Rate Models for Noisy Integrate-and-Fire Neurons
+
+Gregor Rainer (Massachusetts Institute of Technology)
+Earl Miller
+Neural Ensemble States in the Prefrontal Cortex during Free Viewing
+Identified using Hidden Markov Model
+
+Pamela Reinagel (Harvard Medical School)
+R. Clay Reid
+Reproducibility of Firing Patterns in the Thalamus
+
+David V. Reynolds (University of Windsor)
+Christopher Aswin
+A Large-Scale Neuroanatomical Model of Attention Implemented as a Computer
+Simulation
+
+Barry Richmond (National Institute of Mental Health)
+Mike Oram and Matthew Wiener
+The Random Origin of Precise Timing within Single Spike Trains during
+Pattern Recognition
+
+Dan Rizzuto (Brandeis University)
+Michael Kahana
+An Autoassociative Neural Network Model of Paired-associate Learning
+
+Patrick Roberts (Neurological Sciences Institute)
+Electrosensory Response Mechanisms in Mormyrid Electric Fish
+
+Bas Rokers (Rutgers University)
+Catherine Myers
+A Dynamic Model of Learning in the Septo-Hippocampal System
+
+
+
+
+Ilya A. Rybak (Drexel University)
+John K. Chapin, Allon Guez, and Karen A. Moxon
+Competition and Cooperation between the Automatic and Higher Order
+Voluntary/Behavioral Neural Mechanisms in the Brain Control of Movements
+
+Maneesh Sahani (California Institute of Technology)
+John Pezaris and Richard Andersen
+Short Discrete Epochs of Chirped Oscillatory Spiking in LIP Neurons
+
+Maneesh Sahani (California Institute of Technology)
+Jennifer Linden
+Doubly Stochastic Poisson Models for Smoothing and Clustering of Spike Trains
+
+Ko Sakai (RIKEN)
+Shigeru Tanaka
+Perceptual Segmentation and Neural Grouping in Tilt Illusion
+
+Anders Sandberg (Royal Institute of Technology)
+Anders Lansner, Karl-Magnus Peterson, Martin Ingvar, and =D6rjan Ekeberg
+A Palimpsest Memory Based on an Incremental Bayesian Learning Rule
+
+Fidel Santamaria (California Institute of Technology)
+Dieter Jaeger, James Bower, and Erik De Schutter
+Dendritic Temporal Integration Properties of a Purkinje Cell are Modulated
+by Background Activity: A Modeling Study
+
+William Rodman Shankle (University of California at Irvine)
+Junko Hara, James H. Fallon, A. Kimball Romney, John P. Boyd, Robert S.
+Sneddon, and Benjamin H. Landing
+Insights into the Structuring of the Cytoarchitecture of the Developing
+Postnatal Human Cerebral Cortex from Term Birth to Age 72 Months: Relevance
+to Computational Models and Access to the Data
+
+Gregory Smith (New York University)
+Charles Cox, S. Murray Sherman, and John Rinzel
+Spike-frequency Adaptation in Sinusoidally-driven Thalamocortical Relay Neurons
+
+Paul Smolen (The University of Texas)
+Douglas A. Baxter and John H. Byrne
+Biochemical Constraints on Realistic Models of Circadian Rhythms
+
+Friedrich T. Sommer (University of Ulm)
+On Cell Assemblies in a Cortical Column
+
+Sen Song (Brandeis University)
+Larry Abbott
+Temporally Asymmetric Hebbian Learning and Neuronal Response Variability
+
+Cristina Soto-Trevino (Brandeis University)
+L.F. Abbott and Eve Marder
+A Robust Network Based on Activity-dependent Regulation of Inhibitory
+Synaptic Conductances
+
+Bilin Zhang Stiber (University of California at Berkeley)
+Edwin R. Lewis, Michael Stiber, and Kenneth R. Henry
+Auditory Singularity Detection by a Gerbil Cochlea Model
+
+Katrin Suder (Ruhr-University Bochum)
+Florentin Woergoetter and Thomas Wennekers
+Neural Field Description of State-Dependent Visual Receptive Field Changes
+
+Mingui Sun (University of Pittsburgh)
+Robert J. Sclabassi
+A Novel Method to Salvage Clipped Multichannel Neurophysiological Recordings
+
+Krisztina Szalisznyo (The Hungarian Academy of Sciences)
+Peter Erdi
+Search for Resonators:Effects of Granule Cell Firing Properties on Temporal
+Patterns of the CA3 Pyramidal Cell
+
+David Tam (University of North Texas)
+A Spike Train Analysis for Detecting Spatio-temporal Integration in Neurons
+
+David Tam (University of North Texas)
+A Spike Train Analysis for Detecting Spatial Integration in Neurons
+
+Shoji Tanaka (Sophia University)
+Post-Cue Activity of Prefrontal Cortical Neurons Controlled by Local Inhibition
+
+Akaysha Tang (University of New Mexico)
+Barak Pearlmutter, Michael Zibulevsky, and Rebecca Loring
+Response Time Variability in the Human Sensory and Motor Systems
+
+Adam Taylor (University of California at San Diego)
+William B. Kristan, Jr. and Garrison W. Cottrell
+A Model of the Leech Segmental Swim Central Pattern Generator
+
+Peter Thomas (University of Chicago)
+Jack Cowan
+Spin Model for Orientation Map Via Reduction of Hebb's Rule
+
+Simon Thorpe (CERCO)
+Arnaud Delorme and Rufin van Rullen
+Real-time Simulation of Visual Processing with Millions of Spiking Neurons
+
+Paul H. E. Tiesinga (Salk Institute)
+Shuang Zhang and Jorge V. Jose
+Model of Carbachol-induced Gamma-frequency Oscillations in Hippocampus
+
+Wilson Truccolo-Filho (Florida Atlantic University)
+Mingzhou Ding and Steven L. Bressler
+Stability and Bifurcation Analysis of a Generic Cortical Area Model
+
+Philip Ulinski (University of Chicago)
+Zoran Nenadic and Bijoy Ghosh
+Spatiotemporal Dynamics in a Model of Turtle Visual Cortex
+
+Jean-Francois Vibert (Facult=E9 de M=E9decine Saint-Antoine)
+Vincent Lagoueyte, Nicolas Bourri=E9, Gilles Fortin, and Jean Champagnat
+Modeling the Primitive Rhythmic Neural Network of the Chicken Embryo
+
+Gene Wallenstein (University of Utah)
+Michael Hasselmo
+Septal Modulation of Hippocampal Firing Fields and Flexible Spatial Learning
+
+Heng Wang (University of Kentucky)
+Ranu Jung
+Effects of Supraspinal-Spinal Loops on the Dynamic Evolution of Fictive
+Locomotion
+
+Stuart Washington (The Krasnow Institute)
+Giorgio Ascoli and Jeffrey Krichmar
+Statistical Analysis of Dendritic Morphology's Effect on CA3 Pyramidal Cell
+Electrophysiology
+
+Thomas Wennekers (MPI for Mathematics in the Sciences)
+Dynamics of Spatio-temporal Patterns in Associative Networks of Spiking Neurons
+
+Matthew Wiener (NIMH, NIH)
+Mike Oram and Barry Richmond
+Assessing Information Processing in V1 Neurons across Stimulus Sets
+
+Russell Witte (Arizona State University)
+Daryl Kipke
+Evidence of Competing Neural Assemblies in Background Activity of Neurons
+in Auditory Cortex of Awake Guinea Pig
+
+Xiangbao Wu (University of Virginia)
+Sean Polyn and William Levy
+Entorhinal/dentate Excitation of CA3: A Critical Variable in Hippocampal
+Models?
+
+Xiangbao Wu (University of Virginia)
+Aaron Shon and William Levy
+Using Computational Simulations to Discover Optimal Training Paradigms
+
+Jian Zhang (Brandeis University)
+Larry Abbott
+Gain Modulation of Recurrent Networks
+
+Ying Zhou (Rhode Island College)
+Walter Gall
+An Organizing Center for Planar Neural Excitability
+
+
+
+
+WEDNESDAY, July 21, 1999
+
+
+9:30	General Information
+
+9:45	Featured contributed talk: Sharon Crook (Montana State University)
+Gwen Jacobs, Kelli Hodge, and Cooper Roddey
+
+Dynamic Patterns of Activation in a Neural Map in the Cricket Cercal
+Sensory System
+
+
+
+Contributed Talks
+
+10:35	Richard Zemel (University of Arizona) Jonathan Pillow
+
+Encoding Multiple Orientations in a Recurrent Network
+
+10:55	Dana Ballard (University of Rochester) Rajesh Rao
+
+A Single-spike Model of Predictive Coding
+
+11:15	 Invited Presentation: To be announced
+
+11:50	Federal Funding Opportunities
+
+12:30	Lunch Break
+
+
+2:00	Workshops I  - Organization
+
+
+9:30 	Rock and Roll Jam Session
+
+
+
+
+THURSDAY, July 22, 1999
+
+
+9:30	General Information
+
+9:45	Featured Contributed Talk: Nathaniel D. Daw (Carnegie Mellon
+University) David S. Touretzky
+
+Behavioral Results Suggest an Average Reward TD Model of Dopamine Neurons
+
+
+
+
+
+Contributed Talks
+
+10:35	Christiane Linster (Boston University) Michael Hasselmo
+
+How Cholinergic Modulation Influences Generalization between Similar
+Odorants: Behavioral Predictions from A Computational Model
+
+
+10:55	Elliot D. Menschik (University of Pennsylvania) Leif H. Finkel
+
+Cholinergic Neuromodulation of an Anatomically Reconstructed Hippocampal
+CA3 Pyramidal Cell
+
+
+11:15	 Invited Presentation: To be announced
+
+
+12:25	Business Meeting
+
+1:00	Lunch Break
+
+2:30	Workshops II   - Organization
+
+6:30	Banquet - Banquet River Cruise
+

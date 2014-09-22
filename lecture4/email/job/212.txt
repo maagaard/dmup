@@ -1,0 +1,100 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Oct 30 05:27:32 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id FAA29355;
+	Sat, 30 Oct 1999 05:27:29 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20700;
+          29 Oct 99 21:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20671;
+          29 Oct 99 21:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27578;
+          29 Oct 99 21:43 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa12746; 29 Oct 99 12:57 EDT
+Received: from compute.it.siu.edu by cs.cmu.edu id aa04380; 29 Oct 99 12:56 EDT
+Received: by compute.it.siu.edu (AIX 4.1/UCB 5.64/4.03)
+          id AA36464; Fri, 29 Oct 1999 11:57:16 -0500
+Date: Fri, 29 Oct 1999 11:57:16 -0500 (CDT)
+From: "Dr. Morten H. Christiansen" <morten@compute.it.siu.edu>
+To: connectionists@cs.cmu.edu
+Cc: morten@siu.edu
+Subject: Two Positions in Brain and Cognitive Sciences at SIUC
+Message-Id: <Pine.A32.3.91.991029114711.34266E-100000@compute.it.siu.edu>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+I'd like to bring the following two job openings to the attention of the
+members of this mailing list.  We're particularly interested in applicants
+using neural networks to model cognition and development. 
+
+
+Best wishes,
+
+Morten Christiansen
+Coordinator of the Brain and Cognitive Sciences Graduate program.
+
+--------------------------------------------------------------------
+
+BRAIN AND COGNITIVE SCIENCES--THE PSYCHOLOGY DEPARTMENT AT SOUTHERN
+ILLINOIS UNIVERSITY, CARBONDALE invites applications for two positions at
+the Assistant or Associate Professor level from individuals with research
+and teaching interests in human cognition. The two positions are intended
+to support and strengthen our newly-organized graduate program in Brain
+and Cognitive Sciences. (See http://www.siu.edu/~psycho/bcs for a program
+description.) 1) HUMAN MEMORY AND COGNITION: Candidates for this position
+will be expected to share responsibility for teaching basic graduate and
+undergraduate courses in memory and cognition, possibly undergraduate
+research methods, as well as courses in their own specialty area. 2)
+COGNITIVE DEVELOPMENT IN INFANCY AND CHILDHOOD: Candidates for this
+position will be expected to share responsibility for teaching basic
+graduate and undergraduate courses in pre-adolescent development, possibly
+undergraduate research methods, as well as courses within their own
+specialty area. The Developmental position is a security-sensitive
+position. Before an offer of employment is made, the University will
+conduct a pre-employment background investigation that includes a criminal
+background check.  For both positions, we are especially interested in
+candidates with expertise in computational modeling (preferably neural
+networks) and/or cognitive neuroscience. Interest and experience with an
+integrated multidisciplinary approach to research area is highly
+desirable. 
+
+Applicants must have either demonstrated potential for (Assistant
+Professor level) or an established record of (Associate Professor level)
+excellence in teaching, publication, and externally-funded research. The
+appointment will be made at the Assistant or Associate level to begin
+August 16, 2000. Ph.D. in Psychology required. ABD applicants will be
+considered at an Assistant Professor appointment if all degree
+requirements will be met by August 16, 2000. If all requirements for the
+Ph.D. are not completed by that date, a one-year term appointment will be
+offered at the rank of instructor. Review of applications will begin
+December 1, 1999, but applications will be accepted until the position is
+filled. Applicants should send a cover letter with an explicit statement
+of research interests, a current curriculum vitae, relevant
+reprints/preprints, teaching evaluations (if available), and have three
+letters of recommendation sent to: 
+
+Stephanie Clancy Dollinger, Ph.D., 
+Search Committee (specify Cognitive or Developmental), 
+Department of Psychology, 
+Southern Illinois University,
+Carbondale, Carbondale, IL 62901-6502. 
+
+All positions pending funding approval. Southern Illinois University,
+Carbondale is an Equal Opportunity/Affirmative Action Employer. 
+
+-------
+
+----------------------------------------------------------------------
+Morten H. Christiansen
+Assistant Professor	       	   Phone: +1 (618) 453-3547
+Department of Psychology      	   Fax:   +1 (618) 453-3563
+Southern Illinois University	   Email: morten@siu.edu
+Carbondale, IL 62901-6502   	   Office: Life Sciences II, Room 271A
+URL: http://www.siu.edu/~psycho/faculty/mhc.html
+----------------------------------------------------------------------
+
+
+

@@ -1,0 +1,197 @@
+
+
+From ssfels@penguins.ece.ubc.ca Sun Nov 14 05:48:04 MET 1999
+Received: from fs3.ece.ubc.ca (fs3.ece.ubc.ca [137.82.52.241])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id FAA06931
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 14 Nov 1999 05:48:02 +0100 (MET)
+Received: from penguins.ece.ubc.ca (penguins.ece.ubc.ca [137.82.58.117])
+	by fs3.ece.ubc.ca (8.9.0/8.9.0) with ESMTP id UAA22808
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 13 Nov 1999 20:44:39 -0800 (PST)
+From: sidney fels <ssfels@ece.ubc.ca>
+Received: by penguins.ece.ubc.ca (8.8.5/SMI-4.0)
+	id UAA24786; Sat, 13 Nov 1999 20:49:32 -0800 (PST)
+Date: Sat, 13 Nov 1999 20:49:32 -0800 (PST)
+Message-Id: <199911140449.UAA24786@penguins.ece.ubc.ca>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Call for Papers for Graphics Interface 2000: deadline Nov 19
+Status: RO
+X-Status: 
+
+
+Hello collegues,
+
+Please forgive any multiple copies of this notice.
+
+This is a reminder that the deadline for paper submissions to Graphics 
+Interface 2000 (http://www.iro.umontreal.ca/~gi2000) is coming soon: 
+Nov. 19th.  We hope that you are planning to submit your excellent 
+research results as well as attend Graphics Interface 2000.
+
+Sincerely,
+
+Sidney Fels & Pierre Poulin
+GI 2000 co-chairs.
+
+--------------------------------------------------------------------------
+ 
+                            GRAPHICS INTERFACE 2000
+                               Palais des Congrès
+                            Montréal, Québec, Canada
+                                 15-17 May 2000
+
+Call for Papers
+
+GI 2000 is a unique event that presents the latest results in computer 
+graphics and human-computer interaction.  It offers three days of Invited 
+Speakers, Posters, and Submitted Papers.  A Banquet and Electronic Theatre 
+provide additional opportunities to meet speakers and other attendees for 
+informal discussion in a social setting.  This conference is sponsored by 
+Canadian Human-Computer Communications Society.
+
+This year will be the 26th annual Graphics Interface. It is the oldest 
+regularly scheduled computer graphics and human-computer interface conference 
+in the world. Graphics Interface has established a reputation for a 
+high-quality technical program, and the excellence of its invited speakers. 
+Full details are on the GI 2000 web site (http://www.iro.umontreal.ca/~gi2000) 
+
+GI 2000 will be held at the Palais des Congrès, Montréal, Québec, Canada, 
+in conjunction with four other conferences: AI 2000 (Artificial Intelligence), 
+VI 2000 (Vision Interface), 10th annual PRECARN-IRIS (Institute for Robotics 
+and Intelligent Systems), and ISR 2000 (31st International Symposium on 
+Robotics). This special joint event offers a unique opportunity to broaden 
+dissemination of the scientific results and to foster the exchange of 
+expertise across adjacent research fields. To promote these exchanges, all 
+attendees will have access to the presentations of these parallel conferences,
+as well as to the following exhibitions: Robotics of Tomorrow Exhibition, 
+the Montreal Fabricating and Machine Tool Show, and the National Factory 
+Automation Show. 
+
+Montréal is a lively Canadian city located on an island in the St. Lawrence 
+River. It is well connected by all major international airlines. Its four 
+universities, several research institutes, world class technologies industry,
+theatres, and museums have contributed to its international reputation as a 
+dynamic business, scientific, and cultural center. With a population 
+representing 80 ethnic groups, Montréal is known for its "joie de vivre"! 
+
+
+Conference and Program Chairs
+Sidney Fels, University of British Columbia
+Pierre Poulin, Université de Montréal
+
+Posters Chair
+Wolfgang Stuerzlinger, York University
+
+Videos Chair
+Pierre Poulin, Université de Montréal
+
+Program Committee
+Kadi Bouatouch, IRISA, Rennes
+Frédo Durand, MIT
+Deborah Fels, Ryerson Polytechnic University
+Mark Green, University of Alberta
+Carl Gutwin, University of Saskatchewan
+Christopher G. Healey, North Carolina State University
+Kori Inkpen, Simon Fraser University
+Paul Lalonde, Electronic Arts
+Michael McCool, University of Waterloo
+Chris Shaw, University of Regina
+Mikio Shinya, NTT, Japan
+James Stewart, University of Toronto
+Wolfgang Stuerzlinger, York University
+Ben Watson, University of Alberta
+Shuman Zhai, IBM Almaden Research Center
+
+Invited Speakers
+Henry Fuchs, University of North Carolina, Chapel Hill 
+Hiroshi Ishii, MIT Media Lab
+Demitri Terzopolous, University of Toronto
+
+Important Dates
+Papers due:              19 November 1999
+Decision for Papers:      1 February 2000
+Posters due:              7 March 2000
+Videos due:               7 March 2000
+Camera-ready papers due:  3 April 2000
+Decision for Posters:    10 April 2000
+Decision for Videos:     10 April 2000
+
+
+
+
+Submissions
+
+Contributions are solicited describing unpublished research results and 
+applications experience in all areas of computer graphics and human-computer 
+interaction, specifically including the following:
+
+- Image synthesis & realism             - User interfaces & modeling	
+- Image-based rendering techniques      - Shading & rendering algorithms
+- Windowing systems                     - Hardware techniques
+- Geometric modeling & meshing          - Computer cartography	
+- Computer supported cooperative work   - Computer animation	
+- Image processing                      - Interaction techniques
+- Medical graphics                      - Graphics for CAD/CAM	
+- Graphics in education                 - Computer-aided building design	
+- Graphics & the arts                   - Industrial & robotics applications
+- Visualization                         - Graphics in business	
+- Graphics in simulation                - Mobile computing	
+- Haptic interfaces                     - Human interface devices		
+ 
+Papers (20 double-spaced pages or fewer) must be received by 19 November 1999.
+The submissions this year will be entirely electronic, please visit the Graphics
+Interface web site for the description of the submission process. In exceptional
+cases, traditional submissions will be accepted by first contacting one of the
+conference co-chairs. Refereeing will be double blind. Only the title, without
+any indication of authorship or author location, should appear on the manuscript
+body. A separate file (sheet) should contain the manuscript title, abstract, and
+the full names, postal addresses, phone numbers, fax numbers, and email
+addresses for all authors.  One author should be designated the contact author 
+for subsequent correspondence regarding the paper.  Accepted papers will be 
+published in the Proceedings of Graphics Interface 2000.
+
+Notification of acceptance or rejection will be mailed to the contact author by 
+1 February 2000. Camera ready copy of accepted papers is due 3 April 2000. Each 
+paper will be allotted up to eight (8) pages in the proceedings. Extra charges 
+will be made for papers exceeding the limit and for coloured photos. The GI 2000
+proceedings will be available to SIGGRAPH Plus members.  Exceptionally good
+papers will be considered for publication in journals.  Arrangements exist for
+the best graphics papers to be considered by Computer Graphics Forum and for the
+best human-computer interface papers to be considered by Behaviour & Information
+Technology.
+
+Conference Co-Chair addresses:
+
+Sidney Fels
+Dept. of Electrical and Computer Engineering
+The University of British Columbia
+Vancouver, B.C., Canada V6T 1Z4
+Phone: +1 604-822-5338
+Fax:     +1 604-822-5949
+Email:  ssfels@ece.ubc.ca
+
+Pierre Poulin
+Dép. I.R.O.
+Université de Montréal
+C.P. 6128, succ. Centre-ville
+Montréal, Québec, Canada H3C 3J7
+Phone: +1 514-343-6780
+Fax:     +1 514-343-5834
+Email:  poulin@iro.umontreal.ca
+
+For the latest information on the Call for Papers, the submission process, and 
+the 2000 conference, visit the Graphics Interface web site at :
+
+           http://www.iro.umontreal.ca/~gi2000
+
+
+Important Dates
+
+Papers due:              19 November 1999
+Decision for Papers:      1 February 2000
+Posters due:              7 March 2000
+Videos due:               7 March 2000
+Camera-ready papers due:  3 April 2000
+Decision for Posters:    10 April 2000
+Decision for Videos:     10 April 2000
+
+

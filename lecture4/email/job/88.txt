@@ -1,0 +1,94 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Mar 19 22:29:16 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA28583;
+	Fri, 19 Mar 1999 22:29:09 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13586;
+          19 Mar 99 15:11 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13584;
+          19 Mar 99 14:58 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17736;
+          19 Mar 99 14:57 EST
+X-Sender: ubjta99@sun308.ccs.bbk.ac.uk
+Message-Id: <l03130301b317e9c5f690@[193.61.24.204]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 19 Mar 1999 12:52:13 +0100
+To: connectionists@cs.cmu.edu
+From: Denis Mareschal <d.mareschal@bbk.ac.uk>
+Subject: PhD scholarships in connectionist/neural network/psychological models
+Status: RO
+X-Status: 
+
+The Birkbeck College (University of London) psychology department has a
+number of full-time PhD scholarships for students commencing their degrees
+in October 1999. These are open to students wishing to undertake projects
+comprising of computational methods (connectionist/neural network
+and mathematical models) combined with experimental psychology.
+
+The department has a strong commitment to cognitive neuroscience and
+computational modelling. Strong candidates are invited to apply (see FULL
+ANNOUNCEMENT below) for a variety of cognitive neuroscience projects
+supervised by Denis Mareschal and/or by Marius Usher, as described:
+
+Denis Mareschal (http://www.psyc.bbk.ac.uk/staff/dm.html)
+   connectionist modelling of perceptual and cognitive development in childhood
+   and infancy
+
+Marius Usher (http://www.ukc.ac.uk/psychology/people/usherm/)
+  Behavioral and computational studies of: choice reaction time,
+  short-term and working memory and cognitive performance,
+  information processing in the frontal lobes.
+
+The  Birkbeck College psychology department includes the
+recently founded Centre for Brain and Cognitive Development
+(headed by Professor Mark Johnson) and is well complemented by a new
+cognitive science laboratory consisting of a suit of
+UNIX-based workstations dedicated to computational modelling research.
+Birkbeck College is situated in the Bloomsbury section of London and
+students would  benefit from its close proximity to the Gatsby
+Computational Neuroscience Unit and the Institute of Cognitive Neuroscience.
+
+
+FULL ANNOUNCEMENT
+
+
+Birkbeck College
+Department of Psychology
+PhD Studentships
+
+The Birkbeck Psychology Department, rated 5 in the last Research Assessment
+Exercise, is offering two departmentally-funded research studentships,
+available from October 1999.  There are opportunities to work in a number
+of research groups:
+Brain and Cognitive Development
+Perception, Cognition and Action
+Child Family and Social Studies
+For further details see http://www.psyc.bbk.ac.uk/
+
+Students with or expecting a first class or upper second class degree in
+psychology should send their full CV, the names of two referees, and a
+two-page statement of their research interests to the postgraduate
+admissions tutor:
+Dr Paul Barber (PG Application)
+Department of Psychology
+Birkbeck College
+University of London
+Malet Street
+London WC1E 7HX
+
+phone: +44 171-631-6207
+fax: + 44 171-631-6312
+
+=================================================
+	Dr. Denis Mareschal
+	Centre for Brain and Cognitive Development
+	Department of Psychology
+	Birkbeck College
+	University of London
+	Malet St., London
+	WC1E 7HX, UK
+	tel +44 171 631-6582/6207
+	fax +44 171 631-6312
+=================================================

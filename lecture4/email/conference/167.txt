@@ -1,0 +1,74 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Nov  3 11:09:22 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id LAA02849;
+	Tue, 3 Nov 1998 11:09:08 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa22302;
+          3 Nov 98 1:29 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22300;
+          3 Nov 98 1:15 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22387;
+          3 Nov 98 1:15 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03911; 2 Nov 98 4:39 EST
+Received: from [139.153.254.11] by EDRC.CMU.EDU id aa23656; 2 Nov 98 4:38:26 EST
+Received: from tinker.cs.stir.ac.uk by dosh.cs.stir.ac.uk (8.8.7) with ESMTP id JAA20467; Mon, 2 Nov 1998 09:38:20 GMT
+Received: by tinker.cs.stir.ac.uk (8.8.6) id JAA04776; Mon, 2 Nov 1998 09:38:19 GMT
+Message-Id: <199811020938.JAA04776@tinker.cs.stir.ac.uk>
+MIME-Version: 1.0 (NeXT Mail 3.3 v118.2)
+Content-Type: text/plain; charset=us-ascii
+Received: by NeXT.Mailer (1.118.2)
+From: Dr L S Smith (Staff) <l.s.smith@cs.stir.ac.uk>
+Date: Mon,  2 Nov 98 09:38:19 GMT
+To: Connectionists@cs.cmu.edu
+Subject: ICANN 99 - Ninth International Conference on Artificial Neural
+	Networks
+cc: lss@cs.stir.ac.uk
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id LAA02849
+Status: RO
+X-Status: 
+
+ICANN 99 - Ninth International Conference on Artificial Neural Networks
+incorporating the
+IEE Conference on Artificial Neural Networks
+
+University of Edinburgh, Scotland, UK: 7 - 10 September 1999
+
+First Call for Papers
+
+The conference aims to bring together researchers from academia,
+industry and commerce in the broad field of neural computation,
+spanning disciplines from computational neurobiology to engineering in
+what is the largest European event ever to be held in this field. It
+is intended to create a focus for European research and to foster
+dialogue between academic researchers and industrial/commercial users
+of a still developing technology.
+
+Scope
+Theory and Algorithms
+Neurobiology and Computational Neuroscience
+Cognitive Modelling
+Industrial, Commercial and Medical Applications
+Hardware and Neuromorphic Engineering
+Control, Robotics and Adaptive Behaviour
+
+Important dates:
+1 February 1999 Deadline for the receipt of papers for assessment (6 pages)
+29 March 1999   Notification of acceptance to authors
+14 May 1999     Final camera-ready papers must be received
+
+Papers can be submitted electronically: see the WWW page for details.
+
+Scientific Committee
+Co - Chairs: Professor David Willshaw, University of Edinburgh
+Professor Alan Murray, University of Edinburgh
+
+For more information see 
+
+http://www.iee.org.uk/Conf/ICANN
+
+or email icann99@iee.org.uk
+
+(Leslie Smith, Department of Computing Science, University of Stirling,
+Scotland)

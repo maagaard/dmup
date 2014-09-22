@@ -1,0 +1,92 @@
+
+
+From nielson@asu.edu Tue Mar  9 22:48:43 MET 1999
+Received: from flounder-t.icase.edu (flounder-f.icase.edu [146.165.142.130])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id WAA02061
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Mar 1999 22:48:41 +0100 (MET)
+Received: from post6.inre.asu.edu (post6.inre.asu.edu [129.219.110.87])
+	by flounder-t.icase.edu (8.8.8/8.8.8) with ESMTP id NAA24132;
+	Tue, 9 Mar 1999 13:07:37 -0500 (EST)
+Received: from smtp2.asu.edu by asu.edu (PMDF V5.1-12 #24133)
+ with ESMTP id <01J8MHF7NKE28X671M@asu.edu>; Tue, 9 Mar 1999 11:09:30 MST
+Received: from asu.edu (ss10-09.inre.asu.edu [129.219.100.202])
+ by smtp2.asu.edu (8.9.1/8.9.1) with ESMTP id LAA12141; Tue,
+ 09 Mar 1999 11:08:02 -0700 (MST)
+Date: Tue, 09 Mar 1999 11:01:51 -0700
+From: "Dr. Gregory M. Nielson" <nielson@asu.edu>
+Subject: Re: NSF/DOE Workshop on Large Scale Visualization
+To: Kwan-Liu Ma <kma@icase.edu>
+Cc: vis-people@icase.edu
+Message-id: <36E5620F.92CD6C27@asu.edu>
+MIME-version: 1.0
+X-Mailer: Mozilla 4.03 [en] (Win95; I)
+Content-type: text/plain; charset=koi8-r
+Content-transfer-encoding: 7bit
+References: <199903091651.LAA16599@fluke-t.icase.edu>
+Status: RO
+X-Status: 
+
+Kwan-Liu,
+
+  The workshop looks very interesting, but the timing is not
+so great as there is a Dagsthul Seminar in Germany this same
+week.
+
+    Greg
+
+
+
+Kwan-Liu Ma wrote:
+
+> Hi:
+>
+> Chris Johnson, John Reynders, and I (Kwan-Liu Ma), with the assistance
+> of a small organizing committee, are moving forward with our plans to
+> hold a workshop on large-scale data visualization and data management
+> at the DoubleTree Hotel in Salt Lake City, Utah on May 20-22, 1999.
+> This workshop is sponsored by both NSF and DOE.
+>
+> The format of the workshop will be talks by invited speakers, with
+> some additional opportunities for shorter talks, and discussion sessions.
+> Attendance will be partially by invitation and partially by open
+> registration on a first-come basis.  Registration begins now and
+> is conducted entirely online. Please visit
+>
+>           http://www.icase.edu/LDV99
+>
+> for more information.
+>
+> Here is the list of invited speakers:
+>
+>    Chandrajit Bajaj, UT Austin
+>    Michael Cox, MRJ at NASA Ames Research Center
+>    Steve Eick, Lucent Technologies
+>    Steve Hammond, NCAR
+>    Bernd Hamann, UC Davis
+>    Kai Li, Princeton University
+>    Bill Lorensen, GE Research
+>    Steve Louis, LLNL
+>    Dinesh Manocha, UNC, Chapel Hill
+>    Jamie Painter, LANL
+>    Will Schroeder, Kitware
+>    Rick Stevens, ANL
+>    Philip Heermann, SNL
+>
+> Contributed speakers will be selected from the attendees by a committee
+> using the one-page statements submitted with the online registration.
+> We will update the workshop's web page periodically as planning for
+> the workshop proceeds.  Key updates will also be posted to the
+> vis-large emailing list (vis-large@icase.edu), and other mailing lists.
+>
+> Please join us in this important activity.
+>
+>   Sincerely,
+>
+>   Workshop Co-Chairs
+>
+>     Chris Johnson, University of Utah
+>     Kwan-Liu Ma, ICASE
+>     John Reynders, LANL
+
+
+

@@ -1,0 +1,147 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Apr  7 23:43:52 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id XAA28228;
+	Wed, 7 Apr 1999 23:43:47 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab23899;
+          7 Apr 99 15:59 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab23897;
+          7 Apr 99 15:50 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15002;
+          7 Apr 99 15:49 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab12341; 7 Apr 99 13:18 EDT
+Received: from pc-rsun.nj.nec.com by EDRC.CMU.EDU id aa12129;
+          7 Apr 99 13:17:52 EDT
+Received: (from rsun@localhost)
+	by pc-rsun.nj.nec.com (8.8.7/8.8.7) id NAA29383;
+	Wed, 7 Apr 1999 13:16:36 -0400
+Date: Wed, 7 Apr 1999 13:16:36 -0400
+From: Ron Sun <rsun@research.nj.nec.com>
+Message-Id: <199904071716.NAA29383@pc-rsun.nj.nec.com>
+To: agents@CS.UMBC.EDU, alife@cognet.ucla.edu, connectionists@cs.cmu.edu,
+        gannout@cs.iastate.edu, inductive@unb.ca, kdd-request@gte.com,
+        mlnet@csd.abdn.ac.uk, mlnet@swi.psy.uva.nl, reinforce@cs.uwa.edu.au
+Subject: three technical reports related to reinforcement learning
+Cc: rsun@research.nj.nec.com
+Status: RO
+X-Status: 
+
+
+
+
+
+
+
+
+Announcing three technical reports
+(concerning enhancing reinforcement learners, either in terms of
+improving their learning processes by dividing up the space or 
+sequence, or in terms of knowledge extraction from outcomes of 
+reinforcement learning)
+
+---------------------------------
+
+Learning Plans without a priori Knowledge
+
+by Ron Sun and Chad Sessions
+
+http://cs.ua.edu/~rsun/sun.plan.ps
+
+ABSTRACT
+This paper is concerned with autonomous learning of plans in 
+probabilistic domains without a priori domain-specific  knowledge.
+Different from existing reinforcement learning algorithms that 
+generate only reactive plans and existing probabilistic planning
+algorithms that require a substantial amount of a priori knowledge
+in order to plan, a two-stage bottom-up process is devised, 
+in which first reinforcement learning is
+applied, without the use of a priori domain-specific  knowledge,
+to acquire a reactive plan and then explicit plans are extracted 
+from the reactive plan.  Several options in plan extraction are 
+examined, each of which is based on beam search that performs 
+temporal projection in a restricted fashion,  guided by the
+value functions resulting from reinforcement learning.
+Some completeness and soundness results are given.  Examples in several 
+domains are discussed that together demonstrate the working of
+the proposed model.
+
+A shortened version appeared in: 
+Proc. 1998 International Symposium on Intelligent Data Engineering 
+and Learning, October, 1998.  Springer-Verlag. 
+
+---------------------------------
+Multi-Agent Reinforcement Learning: Weighting and  Partitioning
+
+by  Ron Sun and  Todd Peterson
+
+http://cs.ua.edu/~rsun/sun.NN99.ps
+
+ABSTRACT:
+This paper addresses weighting and partitioning,
+in complex reinforcement learning tasks, with the aim
+of facilitating learning.  The paper presents some 
+ideas regarding weighting of multiple agents
+and extends them into partitioning an input/state space into
+multiple regions with differential weighting in these regions,
+to exploit differential  characteristics of regions and
+differential characteristics of agents to
+reduce the learning complexity of agents (and their
+function approximators) and thus to facilitate the learning 
+overall.  It analyzes, in reinforcement learning tasks,
+different ways of partitioning a task
+and using agents selectively based on partitioning.
+Based on the analysis, some heuristic methods are described 
+and experimentally tested.  We find that some off-line 
+heuristic methods performed the best,
+significantly better than single-agent models.
+
+To appear in: Neural Networks, in press.
+
+A shortened version appeared in  Proc. of IJCNN'99
+
+---------------------------------
+Self-Segmentation of Sequences:
+Automatic Formation of Hierarchies of Sequential Behaviors
+
+by Ron Sun and Chad Sessions
+
+http://cs.ua.edu/~rsun/sun.sss.ps
+
+ABSTRACT
+The paper presents an approach for hierarchical reinforcement 
+learning that does not rely on a priori domain-specific
+knowledge regarding hierarchical structures.  Thus this work deals 
+with a more difficult problem compared with existing work.  It 
+involves learning to segment action sequences to create hierarchical
+structures, based on reinforcement received during task execution,
+with different levels of control communicating with each other
+through sharing reinforcement estimates obtained by each other.
+The algorithm segments action sequences to reduce non-Markovian 
+temporal dependencies, and seeks out proper configurations of 
+long-  and short-range dependencies, to facilitate the learning 
+of the overall task.  Developing  hierarchies 
+also facilitates the extraction of explicit hierarchical plans.
+The initial experiments demonstrate the promise of the approach.
+
+A shortened version of this report appeared in Proc. IJCNN'99. 
+Washington, DC.
+---------------------------------
+Dr. Ron Sun
+NEC Research Institute
+4 Independence Way
+Princeton, NJ 08540
+phone: 609-520-1550
+fax: 609-951-2483
+email: rsun@research.nj.nec.com 
+   (July 1st, 1998 -- July 1st, 1999)
+-----------------------------------------
+
+Prof. Ron Sun                                      http://cs.ua.edu/~rsun
+Department of Computer Science 
+ and Department of Psychology                       phone: (205) 348-6363
+The University of Alabama                           fax:   (205) 348-0219
+Tuscaloosa, AL 35487                                email: rsun@cs.ua.edu
+
+
+

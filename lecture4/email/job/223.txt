@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Nov 12 12:01:17 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id MAA28963;
+	Fri, 12 Nov 1999 12:01:14 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21233;
+          11 Nov 99 18:21 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21229;
+          11 Nov 99 18:14 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14846;
+          11 Nov 99 18:13 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa14022; 11 Nov 99 16:27 EST
+Received: from pc113.cecs.missouri.edu by edrc.cmu.edu id aa08569;
+          11 Nov 99 16:26 EST
+Received: (from rsun@localhost)
+	by pc113.cecs.missouri.edu (8.9.3/8.8.7) id PAA15773;
+	Thu, 11 Nov 1999 15:27:48 -0600
+Date: Thu, 11 Nov 1999 15:27:48 -0600
+From: Ron Sun <rsun@cecs.missouri.edu>
+Message-Id: <199911112127.PAA15773@pc113.cecs.missouri.edu>
+To: connectionists@cs.cmu.edu
+Subject: Ph.D program in AI and connectionist models
+Cc: rsun@pc113.cecs.missouri.edu
+Status: RO
+X-Status: 
+
+
+
+
+
+The Ph.D program in CECS at University of Missouri-Columbia is 
+accepting applications. Graduate assistantships and other forms of
+financial support for graduate  students are available. Prospective
+graduate students interested in Artificial Intelligence, Cognitive Science,
+Connectionist Models (Neural Networks), Multi-Agent Systems,
+and other related areas are especially encouraged to apply. 
+Students with Master's degrees are preferred.
+
+The department has identified graduate education and research as its primary 
+missions. The department is conducting  quality research in a number of areas:  
+artificial intelligence, cognitive sceince, machine learning, multi-agent 
+systems, neural networks and connectionist models, computer graphics and 
+scientific visualization, computer vision,  digital libraries, fuzzy logic, 
+multimedia systems, parallel and distributed computing, and Web computing.
+
+To download application forms, use
+  http://www.missouri.edu/~gradschl
+  or
+  http://web.missouri.edu/~regwww/admission/intl_admission/Application_Form/Application_index.html    (for international students)
+
+-----------------------------------------------------------------
+The CECS Department awards degrees at the Bachelor's, Master's and Ph.D's
+levels.  The program is accredited by CSAB and ABET.
+
+The CECS Department has a variety of computing equipment and laboratories
+available for instruction and research. These facilities are currently being
+enhanced,  in conjunction with computing laboratories maintained
+by the college and by the campus. The computing facilities offer students 
+a wealth of opportunity to access and utilize a wide range of equipment
+best suited for their research needs. All of the
+equipment is connected to departmental, college, campus, and global
+networks which provides ready access to the exploding world of information
+and computational resources.
+
+A wealth of library resources are available through the extensive collections
+of books and journals housed in the Engineering and Mathematical Sciences
+libraries as well as collections in the Main Library and Health Sciences
+Libraries at MU. 
+
+The University of Missouri is a Research I university 
+enrolling some 22,000 students.  
+The University offers programs in many areas, ranging from
+sciences and engineering to psychology, neuroscience, education, 
+biology, medicine, law, agriculture, and journalism.  
+	
+For more information, send e-mail to:
+  cecsdgs@cecs.missouri.edu	
+
+See the Web pages below:
+===========================================================================
+Prof. Ron Sun                           http://www.cecs.missouri.edu/~rsun
+CECS Department                                               
+University of Missouri-Columbia         fax:   (573) 882 8318 
+201 Engineering Building West
+Columbia, MO 65211-2060                 email: rsun@cecs.missouri.edu 
+
+http://www.cecs.missouri.edu/~rsun
+http://www.cecs.missouri.edu/~rsun/journal.html
+http://www.cecs.missouri.edu/~rsun/clarion.html
+===========================================================================
+
+

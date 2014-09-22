@@ -1,0 +1,88 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon May  3 06:48:35 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA08366;
+	Mon, 3 May 1999 06:48:27 +0200 (METDST)
+Received: by mlist-1.sp.cs.cmu.edu id aa24815; 2 May 99 20:25 EDT
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24338;
+          2 May 99 16:17 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24328;
+          2 May 99 16:00 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21499;
+          2 May 99 15:59 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa02128; 1 May 99 13:21 EDT
+Received: from spencer.eng.yale.edu by EDRC.CMU.EDU id aa12504;
+          1 May 99 13:21:09 EDT
+Received: by SPENCER.CTAN.YALE.EDU; Sat, 1 May 1999 17:20:43 GMT
+Received: from net231-251.its.yale.edu(130.132.231.251) by spencer.ctan.yale.edu via smap (V2.1)
+	id xma012030; Sat, 1 May 99 13:20:24 -0400
+Message-ID: <372B381F.1E4C@yale.edu>
+Date: Sat, 01 May 1999 13:21:36 -0400
+From: Ted Carnevale <ted.carnevale@yale.edu>
+Reply-To: ted.carnevale@yale.edu
+Organization: Psychology Dept., Yale University
+X-Mailer: Mozilla 3.01 (WinNT; U)
+MIME-Version: 1.0
+To: Connectionists group <connectionists@cs.cmu.edu>
+CC: ted@SPENCER.CTAN.YALE.EDU, Michael Hines <michael.hines@yale.edu>
+Subject: NEURON Summer Course
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+COURSE ANNOUNCEMENT
+
+What:
+  "The NEURON Simulation Environment"
+  (1999 NEURON Summer Course)
+
+When:
+  Saturday, July 31, through Wednesday, August 4, 1999
+
+Where:
+  San Diego Supercomputer Center
+  University of California at San Diego, CA
+
+Organizers:
+  N.T. Carnevale and M.L. Hines
+
+Faculty includes:
+  N.T. Carnevale, M.L. Hines, W.W. Lytton, and T.J. Sejnowski
+
+Description:
+This intensive hands-on course covers the design, 
+construction, and use of models in the NEURON simulation 
+environment. It is intended primarily for those who are 
+concerned with models of biological neurons and neural 
+networks that are closely linked to empirical observations, 
+e.g. experimentalists who wish to incorporate modeling in 
+their research plans, and theoreticians who are interested 
+in the principles of biological computation. The course is 
+designed to be useful and informative for registrants at 
+all levels of experience, from those who are just beginning 
+to those who are already quite familiar with NEURON or 
+other simulation tools.
+
+Registration is limited to 20 and the deadline is 
+Thursday, July 1, 1999.
+
+For more information see
+  http://www.neuron.yale.edu/sdsc99/sdsc99.htm 
+or contact
+  Ted Carnevale
+  Psychology Dept.
+  Box 208205
+  Yale University
+  New Haven
+  CT 06520-8205
+  USA
+  phone 203-432-7363
+  fax 203-432-7172
+  email ted.carnevale@yale.edu
+
+Supported in part by the National Science Foundation.
+This course is not sponsored by the University of California.
+
+--Ted

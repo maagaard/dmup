@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Nov  8 23:37:46 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id XAA06377;
+	Mon, 8 Nov 1999 23:37:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13567;
+          8 Nov 99 16:01 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13564;
+          8 Nov 99 15:18 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10196;
+          8 Nov 99 15:18 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28324; 8 Nov 99 14:50 EST
+Received: from arthur.INS.CWRU.Edu by cs.cmu.edu id aa05593; 8 Nov 99 14:50 EST
+Received: from [129.22.16.232] (nyarlathotep.CES.CWRU.Edu [129.22.16.232]) by arthur.INS.CWRU.Edu with ESMTP (8.8.8+cwru/CWRU-3.6)
+	id OAA18400; Mon, 8 Nov 1999 14:50:08 -0500 (EST) (from beer@eecs.cwru.edu for <Connectionists@cs.cmu.edu>)
+X-Sender: beer@alpha.ces.cwru.edu
+Message-Id: <l03130320b44cd9b473bf@[129.22.16.232]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 8 Nov 1999 14:50:08 -0500
+To: Connectionists@cs.cmu.edu
+From: "Randall D. Beer" <beer@eecs.cwru.edu>
+Subject: NSF/IGERT in Neuromechanical Systems at CWRU
+Status: RO
+X-Status: 
+
+NSF-SPONSORED TRAINING PROGRAM IN NEUROMECHANICAL SYSTEMS AT CWRU
+
+Predoctoral fellowships are now available in a new multidisciplinary
+graduate program in Neuro-Mechanical Systems at Case Western Reserve
+University. Neuro-mechanical systems include natural, man-made, or  hybrid
+systems combining neural controllers and mechanical peripheries. Examples
+include natural organisms, biologically inspired robots, and
+neuroprostheses for restoring motor function in the disabled.
+
+We are seeking outstanding students with backgrounds in biology,
+neuroscience, biomedical engineering, computer engineering and science,
+electrical engineering, or mechanical engineering. Students participating
+in this program will learn the skills necessary to work in this exciting
+new multidiciplinary area. This program, funded by the National Science
+Foundations Integrative Graduate Education and Research Training initiative
+(NSF IGERT), brings together four research groups focused on the
+neurobiology and biomechanics of movement behavior, on bio-robotics, on
+evolution and analysis of model neuro-mechanical systems, and on motor
+system neuroprostheses.
+
+The program involves eight faculty from four Departments: Biology,
+Biomedical Engineering, Electrical Engineering and Computer Science, and
+Mechanical Engineering:
+
+	Randall Beer, Electrical Engineering and Computer Science
+	Michael Branicky, Electrical Engineering and Computer Science
+	Hillel Chiel, Biology
+	Patrick Crago, Biomedical Engineering
+	Warren Grill, Biomedical Engineering
+	Robert Kirsch, Biomedical Engineering
+	Roger Quinn, Mechanical Engineering
+	Roy Ritzmann, Biology
+
+Students in the training program will participate in cross-disciplinary
+courses and rotate through laboratories in all four fields. The program
+includes a multidisciplinary seminar featuring extended visits from leaders
+in each field. Funds will permit travel to scientific meetings and
+workshops in each field. Common computer facilities and office areas will
+be provided for students in the program. Internships in clinical and
+industrial settings will also be available as options. We are particularly
+interested in recruiting under-represented minorities. Students must be
+U.S. Citizens or Permanent Residents of the United States.
+
+Further details of the program can be found at
+http://neuromechanics.cwru.edu. For further information, please contact Dr.
+Roy Ritzmann, Department of Biology, Case Western Reserve University,
+Cleveland, OH 44106 - 7080, (216) 368 - 3554, rer3@po.cwru.edu.
+
+

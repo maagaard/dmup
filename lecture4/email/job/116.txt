@@ -1,0 +1,91 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue May 11 06:42:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA22046;
+	Tue, 11 May 1999 06:41:54 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14517;
+          10 May 99 21:10 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14515;
+          10 May 99 21:04 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01320;
+          10 May 99 21:03 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab27029; 10 May 99 19:44 EDT
+Received: from ptolemy.arc.nasa.gov by RI.CMU.EDU id aa05105;
+          10 May 99 19:44:21 EDT
+Received: from buson.arc.nasa.gov (dhw@buson.arc.nasa.gov [128.102.112.189])
+	by ptolemy.arc.nasa.gov (8.8.7/8.8.8) with ESMTP id QAA25670
+	for <Connectionists@CS.CMU.EDU>; Mon, 10 May 1999 16:44:40 -0700 (PDT)
+From: David Wolpert <dhw@ptolemy.arc.nasa.gov>
+Received: (from dhw@localhost)
+	by buson.arc.nasa.gov (8.8.7/8.8.7) id QAA16733
+	for Connectionists@CS.CMU.EDU; Mon, 10 May 1999 16:46:23 -0700 (PDT)
+Date: Mon, 10 May 1999 16:46:23 -0700 (PDT)
+Message-Id: <199905102346.QAA16733@buson.arc.nasa.gov>
+To: Connectionists@cs.cmu.edu
+Subject: Job Announcement
+Status: RO
+X-Status: 
+
+	Job opening in the Information Directorate at NASA Ames
+	Research Center.
+
+
+Description: This position provides an opportunity to participate in
+research of Collective Intelligence (COIN), that is the analysis of
+large, distributed artificial systems and implementation of local
+strategies for augmenting their performance. In particular, this
+position involves research into the implementation on networks of COIN
+research involving machine learning.  Tasks will include:
+
+-- Building and maintaining models for simulating the behavior of
+networks, using the OPNET network simulator. Setting up and running
+experiments on the application of COIN technology to the simulated
+control of those networks. Create and investigate new COIN technology
+in the domain of the OPNET simulations.
+
+-- Writing programs and scripts to carry out data collection from
+the network simulations. Analyzing the data and creating plots from
+these experiments, using packages like Matlab or OPNET's built-in
+analysis tool.
+
+The research of the group is described at 
+http://ic.arc.nasa.gov/ic/projects/bayes-group/index.html. 
+
+
+
+Minimal Requirements:
+
+-- B.A./B.S. in Computer Science, Mathematics, Statistics, or related field.
+
+-- Extended knowledge of and experience with C and/or C++.
+
+-- Basic knowledge of UNIX.
+
+-- Interest in Artificial Intelligence / Machine Learning / Statistics
+	and/or network theory.
+
+
+Preferred:
+
+-- Masters Degree
+
+-- Experience with the OPNET network simulator.
+
+-- Experience with Perl or shell scripts.
+
+-- Experience with Matlab.
+
+-- Familiarity with reinforcement learning algorithms.
+
+-- U.S. citizen or permanent resident.
+
+
+
+
+Please direct responses, including a resume, to David Wolpert,
+Automated Learning Group NASA Ames Research Center MS 269-1, Moffett
+Field, CA 94035, USA dhw@ptolemy.arc.nasa.gov.
+
+Salary will be commensurate with experience. NASA/Ames is an equal
+oppurtunity employer.

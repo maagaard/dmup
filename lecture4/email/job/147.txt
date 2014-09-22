@@ -1,0 +1,67 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jul  8 19:47:42 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA17769;
+	Thu, 8 Jul 1999 19:47:31 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27478;
+          8 Jul 99 11:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27476;
+          8 Jul 99 11:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05489;
+          8 Jul 99 11:43 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa15694; 8 Jul 99 6:11 EDT
+Received: from rsunx.crn.cogs.susx.ac.uk by EDRC.CMU.EDU id aa07426;
+          8 Jul 99 6:11:16 EDT
+Received: from peterw by rsunx.crn.cogs.susx.ac.uk with local (Exim 1.82 #1)
+	id 112B8U-0002bg-00; Thu, 8 Jul 1999 11:10:34 +0100
+From: Peter Williams <peterw@cogs.susx.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Senior post in Neural Computation
+Message-Id: <E112B8U-0002bg-00@rsunx.crn.cogs.susx.ac.uk>
+Date: Thu, 8 Jul 1999 11:10:34 +0100
+Status: RO
+X-Status: 
+
+UNIVERSITY OF SUSSEX
+
+SCHOOL OF COGNITIVE AND COMPUTING SCIENCES
+
+SENIOR FACULTY POST - Neural Computation/Computer Vision (Ref 133)
+
+Applicants are invited for a permanent faculty position, up to Chair
+level, within the Computer Science and Artificial Intelligence Subject
+Group of the School of Cognitive and Computing Sciences.  The expected
+start date is 1 October 1999 or as soon as possible thereafter.
+
+Candidates should be able to show evidence of significant research
+achievement in Neural Computation or Computer Vision.  The successful
+applicant will be expected to expand significantly the existing high
+research profile of the Group in this area.  Applicants may also be
+expected to contribute to teaching in more general areas of Computer
+Science or Artificial Intelligence. 
+
+The level of the appointment, Professor/Reader/Senior Lecturer, will be
+appropriate to the achievements and potential of the successful
+candidate.
+
+Salary in the range: 30,496 - 34,464 per annum (Senior Lecturer/
+Reader) or 35,170 minimum per annum (Professorial). Salaries under
+review.
+
+Informal enquiries may be made to Dr Peter Williams on Tel +44 1273
+678756. Email peterw@cogs.susx.ac.uk. Details of the School are
+available at http://www.cogs.susx.ac.uk.  
+
+Closing date: Friday 13 August 1999.
+
+Application forms and further particulars are available from and should
+be returned to Liz Showler, Staffing Services Office, Sussex House,
+University of Sussex, Falmer, Brighton BN1 9RH, UK. Tel +44 1273 877324
+Email E.S.Showler@sussex.ac.uk. Details of the School are available at
+http://www.cogs.susx.ac.uk. Details of all posts can also be found via
+the website below.
+
+http://www.susx.ac.uk/Units/staffing
+
+An Equal Opportunity Employer

@@ -1,0 +1,140 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Dec  9 20:57:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id UAA28641;
+	Thu, 9 Dec 1999 20:57:52 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab01425;
+          9 Dec 99 12:33 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01413;
+          9 Dec 99 12:15 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa29799;
+          9 Dec 99 12:14 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa03078; 8 Dec 99 23:40 EST
+Received: from tesla-e0.salk.edu by ri.cmu.edu id aa02819; 8 Dec 99 23:39 EST
+Received: from hebb.salk.edu (hebb.salk.edu [198.202.70.14]) by tesla-e0.salk.edu (8.7.5/8.7.3) with ESMTP id UAA05331; Wed, 8 Dec 1999 20:39:38 -0800 (PST)
+From: terry@salk.edu
+Received: (from terry@localhost) by hebb.salk.edu (8.7.5/8.7.3) id UAA01824; Wed, 8 Dec 1999 20:39:36 -0800 (PST)
+Date: Wed, 8 Dec 1999 20:39:36 -0800 (PST)
+Message-Id: <199912090439.UAA01824@hebb.salk.edu>
+To: Connectionists@cs.cmu.edu, terry@salk.edu
+Subject: COMPUTATIONAL NEUROBIOLOGY GRADUATE PROGRAM
+Status: RO
+X-Status: 
+
+                    DEADLINE: JANUARY 7, 2000
+
+            COMPUTATIONAL NEUROBIOLOGY GRADUATE PROGRAM
+      Department of Biology -- University of California, San Diego 
+               http://www.biology.ucsd.edu/compneuro/
+
+The goal of the Computational Neurobiology Graduate Program at UCSD is 
+to train a new generation of researchers who are equally at home measuring 
+large-scale brain activity, analyzing the data with advanced computational 
+techniques, and developing new models for brain development and function.
+
+Candidates from a wide range of backgrounds are invited to apply, 
+including Biology, Psychology, Computer Science, Physics and Mathematics.
+The three major themes in the training program are:
+
+1. Neurobiology of Neural Systems -- Anatomy, physiology and behavior of 
+systems of neurons.  Using modern neuroanatomical, neuropharmacological 
+and electrophysiological techniques.  Lectures, wet laboratories and computer
+simulations, as well as research rotations. Major new imaging and recording 
+techniques also will be taught, including two-photon laser scanning microscopy 
+and functional magnetic resonance imaging (fMRI).
+
+2. Algorithms and Realizations for the Analysis of Neuronal Data -- 
+New algorithms and techniques for analyzing data obtained from physiological 
+recording, with an emphasis on recordings from large populations of neurons 
+with imaging and multielectrode recording techniques.  New methods for the 
+study of co-ordinated activity, such as multi-taper spectral analysis and 
+Independent Component Analysis (ICA).
+
+3. Neuroinformatics, Dynamics and Control of Systems of Neurons -- 
+Theoretical aspects of single cell function and emergent properties 
+as many neurons interact among themselves and react to sensory inputs.  
+A synthesis of approaches from mathematics and physical sciences 
+as well as biology will be used to explore the collective properties 
+and nonlinear dynamics of neuronal systems, as well as issues of sensory 
+coding and motor control.
+
+Requests for application materials should be sent to the Graduate
+Admissions Office, Department of Biology 0348, 9500 Gilman Drive,
+UCSD, La Jolla, CA, 92093-0348: [gradprog@biology.ucsd.edu].
+
+The deadline for completed application materials, including letters of 
+reference, is JANUARY 7, 2000.
+
+More information about applying to the UCSD Biology Graduate Program:
+http://www-biology.ucsd.edu/sa/Admissions.html
+
+The Biology Department home page is located at:
+http://www-biology.ucsd.edu/
+
+Other inquiries about the Computational Neurobiology Graduate
+Program should be directed to:
+
+   Terrence Sejnowski
+   Institute for Neural Computation 0523
+   University of California, San Diego
+   La Jolla, CA 92093
+   tsejnowski@ucsd.edu
+
+Participating Faculty include: 
+
+* Henry Abarbanel (Physics): Nonlinear and oscillatory dynamics; 
+modeling central pattern generators in the lobster stomatogastric ganglion.  
+Director of the Institute for Nonlinear Systems at UCSD.
+* Thomas Albright (Salk Institute): Motion processing in primate visual cortex; 
+linking single neurons to perception; fMRI in awake, behaving monkeys.  
+Director, Sloan Center for Theoretical Neurobiology.
+* Darwin Berg (Biology): Regulation synaptic components, assembly and 
+localization, function and long-term stability. Former Chairman of Biology.
+* Garrison Cottrell (Computer Science and Engineering): Dynamical neural 
+network models and learning algorithms.
+* Mark Ellisman (Neurosciences, School of Medicine): High resolution electron 
+and light microscopy; anatomical reconstructions. Director, National Center for  
+Microscopy and Imaging Research.
+* Robert Hecht-Nielsen (Electrical and Computer Engineering): Neural computation 
+and the functional organization of the cerebral cortex. Founder of Hecht-Nielsen 
+Corporation.
+* Harvey Karten (Neurosciences, School of Medicine): Anatomical, physiological 
+and computational studies of the retina and optic tectum of birds and squirrels. 
+* David Kleinfeld (Physics):Active sensation in rat somatosensation; properties 
+of neuronal assemblies; optical imaging of large-scale activity. Co-director, 
+Analysis of Neural Data Workshop (MBL).
+* William Kristan (Biology):  Neuroethology of leech; functional and developmental 
+studies of the leech nervous system, including computational studies of the 
+bending reflex and locomotion.  Director of the Neurosciences Graduate Program.
+* Herbert Levine (Physics): Nonlinear dynamics and pattern formation in physical 
+and biological systems, including cardiac dynamics and the growth and form of 
+bacterial colonies.
+* Javier Movellan (Cognitive Science): Sensory fusion and learning algorithms 
+for continuous stochastic systems.
+* Mu-ming Poo (Biology): Mechanisms for synaptic plasticity; developmental 
+plasticity and learning in nervous systems; development of sensory maps in 
+lower vertebrate visual systems. 
+* Mikhael Rabinovich (Institute for Nonlinear Science): Dynamical systems 
+analysis of the stomatogastric ganglion of the lobster and the antenna lobe 
+of insects.
+* Terrence Sejnowski (Salk Institute/Biology): Computational neurobiology; 
+physiological studies of neuronal reliability and synaptic mechanisms. 
+Director, Institute for Neural Computation.
+* Martin Sereno (Cognitive Science): Neural bases of visual cognition and 
+language using anatomical, electrophysiological, computational, and non-invasive 
+brain imaging techniques.
+* Nicholas Spitzer (Biology):  Regulation of ionic channels and neurotransmitters 
+in neurons; effects of electrical activity in developing neurons on neural function.
+Chair of the Neurobiology Section.
+* Charles Stevens (Salk Institute): Synaptic physiology; physiological studies 
+and biophysical models of synaptic plasticity in hippocampal neurons.
+* Roger Tsien (Chemistry):  Second messenger systems in neurons; development of 
+new optical and MRI probes of neuron function, including calcium indicators 
+and caged neurotransmitters.
+* Mark Whitehead (Neurosurgery, School of Medicine): Peripheral and central 
+taste systems; anatomical and functional studies of regions in the caudal 
+brainstem important for feeding behavior.
+* Ruth Williams (Mathematics): Probabilistic analysis of stochastic systems 
+and continuous learning algorithms.
+

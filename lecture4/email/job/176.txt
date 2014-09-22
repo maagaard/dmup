@@ -1,0 +1,48 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Aug 30 11:51:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id LAA03612;
+	Mon, 30 Aug 1999 11:50:59 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa22255;
+          30 Aug 99 4:01 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22252;
+          30 Aug 99 3:56 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19996;
+          30 Aug 99 3:55 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa15915; 30 Aug 99 3:36 EDT
+Received: from fava.idsia.ch by RI.CMU.EDU id aa06583; 30 Aug 99 3:36:44 EDT
+Received: from ruebe.idsia.ch ([195.176.191.76]) by fava.idsia.ch
+          (Post.Office MTA v3.1 release PO203a  ID# 114-37856U100L2S100)
+          with SMTP id AAA11330 for <connectionists@cs.cmu.edu>;
+          Mon, 30 Aug 1999 09:34:45 +0200
+Received: by ruebe.idsia.ch (SMI-8.6/SMI-SVR4)
+	id JAA13770; Mon, 30 Aug 1999 09:34:44 +0200
+Date: Mon, 30 Aug 1999 09:34:44 +0200
+From: Juergen Schmidhuber <juergen@idsia.ch>
+Message-Id: <199908300734.JAA13770@ruebe.idsia.ch>
+To: connectionists@cs.cmu.edu
+Subject: job opening
+Status: RO
+X-Status: 
+
+
+POSTDOC JOB OPENING
+
+The Swiss machine learning research institute IDSIA offers a 1-year
+postdoc position with possibility of renewal for 2 additional years.
+It is the position currently held by Fred Cummins who recently accepted
+a professorship at the University of Ireland, Dublin.
+
+The position is funded by an SNF research grant on recurrent neural
+networks.  Ideal candidates have strong mathematical and programming
+skills, outstanding research potential, excellent ability to communicate
+research results, interest in recurrent network research, experience
+in one or more of the following fields: speech processing, neural nets,
+prediction (e.g., finance), control, music, program evolution.
+
+For more information, please see http://www.idsia.ch/~juergen/lstm99.html
+
+Juergen Schmidhuber                                            IDSIA
+http://www.idsia.ch/~juergen
+

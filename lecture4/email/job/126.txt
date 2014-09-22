@@ -1,0 +1,51 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jun  9 12:25:41 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA05909;
+	Wed, 9 Jun 1999 12:25:36 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17356;
+          8 Jun 99 14:16 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17353;
+          8 Jun 99 14:08 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11602;
+          8 Jun 99 14:08 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa01805; 8 Jun 99 8:27 EDT
+Received: from [146.191.32.5] by EDRC.CMU.EDU id aa19610; 8 Jun 99 8:27:05 EDT
+Received: from Gate-Message_Server by wpmail.paisley.ac.uk
+	with Novell_GroupWise; Tue, 08 Jun 1999 13:30:11 +0000
+Message-Id: <s75d1ae3.023@wpmail.paisley.ac.uk>
+X-Mailer: Novell GroupWise 4.1
+Date: Tue, 08 Jun 1999 13:29:40 +0000
+From: COLIN FYFE <FYFE-CI0@wpmail.paisley.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: PhD Studentships
+Status: RO
+X-Status: 
+
+Two three year studentships are offered in the field of 
+unsupervised artificial neural networks applied to the 
+extraction of information from visual data.
+
+One student will work most closely with Dr Bogdan Gabrys 
+and will concentrate on novel cost functions for extraction of 
+independent components of visual scenes.
+
+The second will work with Dr Darryl Charles and will concentrate
+on additive noise for the creation of minimal code sets for 
+sparsely coded visual data.
+
+Each will comprise payment of fees and an annual grant of 
+approximately 5500. Both are expected to lead to the award of
+PhD within the three year period.
+
+The Applied Computational Intelligence Research Unit is a very
+active research unit within the Department of Computing and 
+Information Systems comprising some 10 academics, 5 research
+assistants and 15 research students.
+
+To apply for either of these posts please send a current CV to 
+either char-ci0@paisley.ac.uk or fyfe-ci0@paisley.ac.uk before
+30th June 1999.
+
+Colin Fyfe

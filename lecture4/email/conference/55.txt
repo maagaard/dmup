@@ -1,0 +1,98 @@
+
+
+From owner-www-vrml@vrml.org Tue Jan 27 00:33:29 MET 1998
+Received: from vrml.org (vrml.org [209.66.78.240])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id AAA12139
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 27 Jan 1998 00:33:27 +0100 (MET)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id VAA27211
+	for www-vrml-outgoing; Mon, 26 Jan 1998 21:44:03 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from orange.ligos.com (orange.ligos.com [207.238.131.187])
+	by vrml.org (8.8.7/8.8.5) with SMTP id VAA27200
+	for <www-vrml@vrml.org>; Mon, 26 Jan 1998 21:43:59 GMT
+Received: (qmail 18244 invoked from network); 26 Jan 1998 21:49:48 -0000
+Received: from unknown (HELO server.ligos.com) (192.168.1.2)
+  by orange.ligos.com with SMTP; 26 Jan 1998 21:49:48 -0000
+Received: by server.ligos.com with Internet Mail Service (5.0.1458.49)
+	id <DLK0QP2H>; Mon, 26 Jan 1998 13:45:38 -0800
+Message-ID: <9141909996F1D011B8FF00A0C95A661B0B2928@server.ligos.com>
+From: Susan Stearman <sstearman@LIGOS.COM>
+To: www-vrml@vrml.org, consortium@vrml.org
+Cc: vrml98comm@ece.uwaterloo.ca
+Subject: VRML98 Symposium Attracts Global Interest
+Date: Mon, 26 Jan 1998 13:45:36 -0800
+X-Priority: 3
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.0.1458.49)
+Content-Type: text/plain
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+FOR IMMEDIATE RELEASE:				PLEASE POST
+Press contacts:
+Lynn Johnson
+Susan Stearman
+Symposium Planner
+VRML98 Publicity Chair
+Evans & Johnson
+Ligos Technology
+Phone: +1.408.655.9924 					       Phone:
++1.415-437-6137
+Fax: +1.408.372.0846					       Fax:
++1.415-437-6139 
+Email: ljohnson@evans-johnson.com			Email:
+sstearman@ligos.com
+
+
+VRML98 Symposium Attracts Global Interest
+Vendors Scoop Up Demo Spots
+
+MONTEREY, CALIFORNIA (January 22, 1998) - The VRML98 Symposium announces
+a global roundup of vendors showcasing newly released and experimental
+VRML products and content. Companies offering software, hardware, and
+content development will be setting up their wares for 2 days during the
+symposium. Products and innovations in areas including 3D graphics,
+content creation, behavior implementation, simulation, authoring tools,
+and browsers will be exhibited.
+
+"VRML98 illustrates the global nature of the VRML market," said Bernie
+Roehl, VRML98 Conference Chair. "We are thrilled that so many large and
+small companies are traveling so far to be present at the premier VRML
+event for 1998."
+
+Countries represented include Israel, Japan, UK, Holland, Germany, as
+well as the United States. The current list of exhibitors can be found
+on the VRML98 symposium web site at
+		http://ece.uwaterloo.ca/vrml98/exhibitreg/
+
+
+About VRML98
+VRML98 is the 3rd annual technical symposium focusing on research,
+technology and applications of the Virtual Reality Modeling Language and
+takes place February 16-19, 1998 at the Doubletree Hotel in Monterey
+California USA. VRML98 is designed to bring together developers,
+experimenters, content creators and anyone interested in using or
+enhancing VRML. The conference be a 4-day technical forum including
+working groups and workshops on the first day; full-day and half-day
+courses on the second day; followed by paper presentations, panels,
+exhibits showcase, and demonstrations on the following two days. VRML98
+is sponsored by ACM SIGGRAPH and ACM SIGCOMM, in cooperation with the
+VRML Consortium. The VRML98 web site can be found at
+http://ece.uwaterloo.ca/vrml98.
+
+
+# # #
+
+
+Susan Stearman		Marketing Director
+Ligos Technology		www.ligos.com
++1-415-437-6137 x104	+1-415-437-6139 FAX
+"Tools for a new web dimension"
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

@@ -1,0 +1,53 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jan 13 09:06:20 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id JAA13469;
+	Thu, 13 Jan 2000 09:06:16 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25800;
+          12 Jan 2000 20:04 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25798;
+          12 Jan 2000 19:59 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11678;
+          12 Jan 2000 19:58 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa26418; 12 Jan 2000 18:24 EST
+Received: from phy.ucsf.edu by ri.cmu.edu id aa13367; 12 Jan 2000 18:24 EST
+Received: from django.ucsf.edu (root@django.ucsf.edu [128.218.66.44]) by phy.ucsf.EDU (8.8.6/GSC4.27) with ESMTP
+	id PAA19072; Wed, 12 Jan 2000 15:24:15 -0800 (PST)
+Received: by django.ucsf.edu (8.9.3) id PAA14156; Wed, 12 Jan 2000 15:24:15 -0800
+From: Ken Miller <ken@phy.ucsf.EDU>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-ID: <14461.3359.538556.812685@django.ucsf.edu>
+Date: Wed, 12 Jan 2000 15:24:15 -0800 (PST)
+To: Connectionists list <Connectionists@cs.cmu.edu>,
+        Comp-Neuro Mailing List <cneuro@bbb.caltech.edu>
+Subject: UCSF Postdoctoral Fellowships in Theoretical Neurobiology: 2nd Notice
+X-Mailer: VM 6.72 under 21.1 "20 Minutes to Nikko" XEmacs Lucid (patch 2)
+Status: RO
+X-Status: 
+
+The Sloan Center for Theoretical Neurobiology at UCSF solicits
+applications for post-doctoral fellowships, with the goal of
+bringing theoretical approaches to bear on neuroscience. Applicants
+should have a strong background and education in mathematics,
+theoretical or experimental physics, or computer science, and
+commitment to a future research career in neuroscience. Prior
+biological or neuroscience training is not required.
+
+Applications for postdoctoral fellowships are due Feb.~1, 2000.  We
+also offer predoctoral training, but the application deadline for this
+year has passed.
+
+FOR FULL INFORMATION, PLEASE SEE:
+
+http://www.sloan.ucsf.edu/sloan/sloan-info.html
+
+In particular, we have recently added to our web site a description of
+a set of sample projects of particular current interest to the Sloan
+faculty, to give a more concrete idea of our work to those
+contemplating entering neuroscience from another field.
+
+PLEASE DO NOT USE 'REPLY'; FOR MORE INFO USE ABOVE WEB SITE OR EMAIL
+sloan-info@phy.ucsf.edu.

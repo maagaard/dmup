@@ -1,0 +1,66 @@
+
+
+From arc@dsp2.dspnet.com Sat Oct  9 01:39:23 MET 1999
+Received: from dsp2.dspnet.com (dsp2.dspnet.com [198.3.252.25])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id BAA22846
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 9 Oct 1999 01:39:21 +0200 (METDST)
+Received: (from arc@localhost)
+	by dsp2.dspnet.com (8.8.7/8.8.7) id UAA32072
+	for fnielsen@eivind.imm.dtu.dk; Fri, 8 Oct 1999 20:39:40 -0400
+Date: Fri, 8 Oct 1999 20:39:40 -0400
+From: ARC Cores <arc@dsp2.dspnet.com>
+Message-Id: <199910090039.UAA32072@dsp2.dspnet.com>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Free Seminars Next Week - Register Now!
+Status: RO
+X-Status: 
+
+Find out how you can create your own chip  - and not have to debug
+one that someone else has created. Register for our free seminars now at 
+
+http://www.arccores.com/info/seminars
+
+
+Write the CPU to fit your code, not the code to fit your CPU.
+Is there really a way of designing systems-on-chip without being tied to
+conventional microprocessor architectures?
+
+At ARC Cores we say there is. It's a case of creating your own processor
+to fit your code and, at the same time, customising your data flow for
+ultimate bandwidth. We appreciate that this may, in some cases, be 
+difficult to believe, but we'd very much like to show you how.
+Attend one of our FREE informal half-day seminars in next week. We'll help
+you get a perspective on the microprocessor industry, then give you
+specifics about creating a processor using the industry standard
+VHDL/Verilog language. Jim Turley, formerly the microprocessor industry's
+leading analyst, will be chairing the event and will be joined by a
+selection of guest speakers.
+
+
+In the UK the seminars will be held at:
+
+12 October: Cambridge Garden Moat House, Cambridge
+13 October:  Manchester United Football Club, Manchester
+14 October:  National Motor Cycle Museum, Birmingham
+15 October:  Blue Mountain Golf Centre, Bracknell
+
+In France:
+
+18 October:  Novotel de Massy Palaiseau, Palaiseau, Paris
+
+In Sweden:
+
+19 October: Ulriksdals Vardshus, Stockholm, Sweden
+
+In Denmark
+
+20 October:  Solyst Estate, Copenhagen, Denmark
+
+So learn how you can free your mind.  Register for one of these seminars
+now at http://www.arccores.com/info/seminars.
+
+ARC - the world's first user-defined 32-bit processor:
+
+STOP PRESS:  Don't forget that you can download a free demo of the
+ARChitect GUI to create your own processor yourself.  Try it now on the
+development page of http://www.arccores.com

@@ -1,0 +1,57 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Oct 23 22:23:36 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id WAA28422;
+	Fri, 23 Oct 1998 22:23:20 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27678;
+          23 Oct 98 11:34 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27676;
+          23 Oct 98 11:22 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07156;
+          23 Oct 98 11:22 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa24145; 23 Oct 98 10:58 EDT
+Received: from andromeda.rutgers.edu by CS.CMU.EDU id aa22630;
+          23 Oct 98 10:57:42 EDT
+Received: from psychology.rutgers.edu (honors-college.rutgers.edu [128.6.69.209])
+	by andromeda.rutgers.edu (8.8.8/8.8.8) with SMTP id KAA14939
+	for <connectionists@cs.cmu.edu>; Fri, 23 Oct 1998 10:57:41 -0400 (EDT)
+Received: from tractatus.rutgers.edu by psychology.rutgers.edu (SMI-8.6/SMI-SVR4)
+	id LAA18143; Fri, 23 Oct 1998 11:01:19 -0400
+Message-ID: <3630991A.4B8F432@tractatus.rutgers.edu>
+Date: Fri, 23 Oct 1998 10:56:26 -0400
+From: Stephen Jose Hanson <jose@tractatus.rutgers.edu>
+Organization: Rutgers University
+X-Mailer: Mozilla 4.03 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>
+Subject: RUTGERS-NEWARK  JUNIOR POSITION in COG SCI/COG NEURO
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by andromeda.rutgers.edu id KAA14939
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id WAA28422
+Status: RO
+X-Status: 
+
+The Department of Psychology of Rutgers University-Newark Campus
+anticipates making ONE tenure-track appointment in Cognitive Science or
+Cognitive Neuroscience at the Assistant Professor level. The Psychology
+Department has made three related appointments in the last two years and
+is expanding rapidly in this area. Candidates should have an active
+research program in memory, learning, categorization, attention, action,
+high-level vision or language.  Particular interest will exist in
+candidates that combine one or more of the research interests above with
+FUNCTIONAL IMAGING (e.g. fMRI. PET, or ERP). Psychology has an ongoing
+affiliation/collaboration with UMDNJ fMRI laboratory.  Review of
+applications will begin on January 8, 1999 but will continue to be
+accepted until the position is filled.
+Rutgers University is an equal opportunity/affirmative action employer.
+Qualified women and minority candidates are especially encouraged to
+apply. Send CV and three letters of recommendation and 2 reprints to
+Professor S. J. Hanson, Chair, Department of Psychology – Cognitive
+Science Search, Rutgers University, Newark, NJ  07102. Email enquiry’s
+can be made to cogsci@psychology.rutgers.edu,
+Also see http://www.psych.rutgers.edu
+
+
+

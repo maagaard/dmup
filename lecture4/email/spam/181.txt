@@ -1,0 +1,57 @@
+
+
+From report@top-10.com  Tue Oct  6 04:31:21 1998
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id EAA12341
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 6 Oct 1998 04:31:19 +0200 (METDST)
+Received: from reddog ([208.211.45.245])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id EAA05962
+	for <www@hendrix.imm.dtu.dk>; Tue, 6 Oct 1998 04:30:53 +0200 (METDST)
+Received: from top-10.com (aol.rorap.com [208.211.45.238] (may be forged))
+          by reddog (2.5 Build 2639 (Berkeley 8.8.6)/8.8.4) with SMTP
+	  id WAA31203 for www@hendrix.imm.dtu.dk; Mon, 05 Oct 1998 22:29:18 -0400
+Date: Mon, 05 Oct 1998 22:29:18 -0400
+From: dsmith <report@top-10.com>
+Message-Id: <199810060229.WAA31203@reddog>
+Subject: Your Web Visibility Report
+Status: RO
+X-Status: 
+
+Your report was prepared using the search engines listed below.
+"MEDIATING" was the term used for the search. The #'s beside
+each search engine represents the position in which that engine
+reported your website.
+Your web sites URL: http://hendrix.ei.dtu.dk/home.html
+
+Yahoo        000
+Lycos        000
+Excite       000
+HotBot       000
+LycosPro     000
+Magellan     008
+InfoSeek     000
+N.Lights     000
+AltaVista    000
+Webcrawler   020
+PlanetSearch 000
+
+================
+WVI          014
+
+This report only reports positioning within the top 30 listings. A
+listing further down is not of much use as most users will only view
+results from the top 10-20 positions. Remember that you can always
+request another report, for any website, for any search term, from our
+site, and it's always free.
+
+
+
+A complete explanation of this report is available at:
+http://www.top-10.com  and click the resources link.
+===========================================
+Thanks for using our report. It is available
+to you any time at no charge. 
+              TOP 10 PROMOTIONS
+             http://www.top-10.com
+   "WE'LL GET YOUR BUSINESS TO THE TOP"
+===========================================

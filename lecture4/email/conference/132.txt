@@ -1,0 +1,159 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Aug  1 14:05:09 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id OAA09347;
+	Sat, 1 Aug 1998 14:05:04 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac13000;
+          31 Jul 98 23:58 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12986;
+          31 Jul 98 23:45 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11397;
+          31 Jul 98 23:45 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa00610; 30 Jul 98 21:00 EDT
+Received: from [157.138.20.12] by EDRC.CMU.EDU id aa23748;
+          30 Jul 98 20:59:26 EDT
+Organization: CDL Informatica - Universita' Venezia
+Received: (from pelillo@localhost) by oink.dsi.unive.it (8.7.3/8.7.3) id CAA20424 for connectionists@cs.cmu.edu; Fri, 31 Jul 1998 02:59:23 +0200 (MET DST)
+From: Marcello Pelillo <pelillo@dsi.unive.it>
+Message-Id: <199807310059.CAA20424@oink.dsi.unive.it>
+Subject: Call for Papers: EMMCVPR'99
+To: connectionists@cs.cmu.edu
+Date: Fri, 31 Jul 1998 02:59:23 +0200 (MET DST)
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Status: RO
+X-Status: 
+
+
+                         PRELIMINARY CALL FOR PAPERS
+ 
+ 
+                                  EMMCVPR'99
+
+                       Second International Workshop on
+   
+                        ENERGY MINIMIZATION METHODS IN
+                   COMPUTER VISION AND PATTERN RECOGNITION
+ 
+ 
+                       York, England, July 26-29, 1999
+ 
+_______________________________________________________________________________
+ 
+ 
+Energy minimization methods represent a fundamental methodology in computer
+vision and pattern recog- nition, with roots in such diverse disciplines as
+Physics, Psychology, and Statistics. Recent manifestations of the idea include
+Markov random fields, relaxation labeling, various types of neural networks, etc. 
+These techniques are finding application in areas such as early vision, graph
+matching, motion analysis, visual reconstruction, etc. This workshop is the
+second in a series that aims to consolidate research efforts in this area, and 
+to provide a discussion forum for researchers and practitioners interested in
+this important yet diverse subject. The scientific program of the workshop will
+include the presentation of invited talks and contributed research papers.
+The workshop is sponsored by the International Association for Pattern
+Recognition (IAPR) and organized by the Department of Computer Science of the
+University of York. 
+ 
+Topics
+ 
+Papers covering (but not limited to) the following topics are solicited:
+ 
+Theory: (e.g., Bayesian contextual methods, a discrete optimization, information
+theory and statistics, learning and parameter estimation, Markov random fields,
+neural networks, relaxation processes, statistical mechanics approaches, 
+stochastic methods, variational methods) 
+ 
+Methodology: (e.g., deformable models, ea
+rly vision, matching, motion, object recognition, shape, stereo, texture,
+visual organization) 
+ 
+Applications: (e.g., character and text recognition, face processing,
+handwriting, medical imaging, remote sensing)
+ 
+ 
+ 
+Program co-chairs
+ 
+Edwin R. Hancock, University of York, UK
+Marcello Pelillo, University of Venice, Italy
+ 
+ 
+Program committee
+ 
+Patrick Bouthemy, INRIA, France
+Joachim Buhmann, University of Bonn, Germany
+Mario Figueiredo, Instituto Superior Tecnico, Lisbon, Portugal
+Davi Geiger, New York University, USA
+Anil K. Jain, Michigan State University, USA
+Josef Kittler, University of Surrey, UK
+Stan Z. Li, Nanyang Technological University, Singapore
+Maria Petrou, University of Surrey, UK
+Anand Rangarajan, Yale University, USA
+Kaleem Siddiqi, McGill University, Canada
+Shimon Ullman, Weizmann Institute, Israel
+Lance Williams, University of New Mexico, USA
+Alan L. Yuille, Smith Kettlewell Institute, USA
+Josiane Zerubia, INRIA, France
+Steven W. Zucker, Yale University, USA
+ 
+
+Invited speakers
+ 
+There will be one keynote speaker and four invited speakers. Details are
+currently being finalised. 
+ 
+ 
+Venue
+ 
+The workshop will be held at the King's Manor in the historic center of York.
+Accommodation will be provided in nearby hotels and on the campus of the
+University of York. 
+ 
+ 
+Submission procedure
+ 
+Prospective authors should submit four copies of their contribution(s) by
+February 1, 1999 to: 
+ 
+     Edwin Hancock (EMMCVPR'99)
+     Department of Computer Science
+     University of York
+     Heslington, York, Y01 5DD, UK.
+     E-mail: erh@cs.york.ac.uk
+ 
+The manuscripts submitted should be no longer than 15 pages, and the cover page
+should contain: title, author's name, affiliation and address, e-mail address,
+fax and telephone number, and an abstract no longer than 200 words. In case 
+of joint authorship, the first name will be used for correspondence unless
+otherwise requested. All manuscripts will be reviewed by at least two members of
+the program committee. Accepted papers will appear in the proceedings which will 
+again be published in the series Lecture Notes in Computer Science by Springer-
+Verlag, and will be distributed to all participants at the workshop. In order to
+get a high-quality book with a uniform and professional appearance, prospective
+authors are strongly encouraged to use the LaTeX style file available at the
+WWW site indicated below. 
+ 
+ 
+Important dates
+ 
+    Paper submission deadline: 1 February, 1999
+    Notification of acceptance: April 1999
+    Camera-ready paper due: May 1999
+ 
+ 
+Homepage
+ 
+Information on the workshop will be maintained at
+ 
+                  http://cs.york.ac.uk/"erh/EMMCVPR99.html
+  
+This page will include information on accepted papers and the final program.
+
+
+
+
+
+
+

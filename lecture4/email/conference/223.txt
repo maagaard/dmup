@@ -1,0 +1,48 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Feb 20 11:25:38 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id LAA19440;
+	Sat, 20 Feb 1999 11:25:27 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab12284;
+          20 Feb 99 2:43 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12270;
+          20 Feb 99 2:35 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01679;
+          20 Feb 99 2:35 EST
+Message-Id: <199902191328.NAA20500@tinker.cs.stir.ac.uk>
+MIME-Version: 1.0 (NeXT Mail 3.3 v118.2)
+Content-Type: text/plain; charset=us-ascii
+Received: by NeXT.Mailer (1.118.2)
+From: Dr L S Smith (Staff) <l.s.smith@cs.stir.ac.uk>
+Date: Fri, 19 Feb 99 13:28:06 GMT
+To: Connectionists@cs.cmu.edu
+Subject: deadline extended for ICANN 99 - Ninth International Conference on Artificial Neural Networks 
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id LAA19440
+Status: RO
+X-Status: 
+
+ICANN 99 Submission Deadline - Extended
+
+ICANN 99, the annual conference of the European Neural Network Society
+held in conjunction with the IEE conference on Artificial Neural
+Networks, is taking place in Edinburgh, UK, from 07-10 September 1999.
+
+Due to numerous requests for bringing the ICANN 99 submission procedure
+into alignment with earlier years, the deadline for submissions has
+been revised to Friday 12 March 1999.
+
+For more information see
+
+http://www.iee.org.uk/Conf/ICANN/Welcome.html
+
+and for post-conference workshops see
+
+http://www.dai.ed.ac.uk/daidb/people/homes/ckiw/icann/
+
+Leslie Smith
+Alan Murray
+David Willshaw
+
+For the Organising Committee

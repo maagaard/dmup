@@ -1,0 +1,61 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Sep  9 00:19:12 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA19877;
+	Thu, 9 Sep 1999 00:18:59 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14037;
+          8 Sep 99 16:30 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14035;
+          8 Sep 99 16:10 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08296;
+          8 Sep 99 16:09 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa11626; 8 Sep 99 11:47 EDT
+Received: from neuro.informatik.uni-ulm.de by edrc.cmu.edu id aa14111;
+          8 Sep 99 11:47 EDT
+Received: by neuro.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA13802; Wed, 8 Sep 99 17:46:31 +0200
+Date: Wed, 8 Sep 99 17:46:31 +0200
+From: Fritz Sommer <fritz@neuro.informatik.uni-ulm.de>
+Message-Id: <9909081546.AA13802@neuro.informatik.uni-ulm.de>
+Received: from sun-acht.informatik.uni-ulm.de(134.60.73.18)
+ via SMTP by neuro.informatik.uni-ulm.de, id smtpdAAAa13800; Wed Sep  8 17:46:23 1999
+Received: by sun-acht.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA00366; Wed, 8 Sep 99 17:46:17 +0200
+To: Connectionists@CS.cmu.edu
+Subject: Job opening in fMRI analysis/modeling
+Status: RO
+X-Status: 
+
+
+Research Position (cognitive/computational neuroscience)
+
+A position (beginning Nov 1999, 2 years, 1 year extension possible) 
+is available at the University of Ulm in an interdiscplinary research 
+project on analysis and modeling of functional magnetic resonance data.   
+In this joint project of the departments of Psychiatry, Radiology and 
+Neural Information Processing a method of detection and interpretation 
+of functional/effective connectivity in fMRI data will be developed 
+and will be applied to working memory tasks. 
+
+Candidates should have a background in statistical methods, functional 
+MRI analysis or computational neuroscience. Required is a recent masters 
+degree or equivalent in computer science, physics, mathematics or in a 
+closely related area. The research can be conducted as part of a PhD 
+thesis degree in Computer Science. Experience in programming in C in a 
+Unix environment is necessary, experience with MATLAB and SPM is helpful. 
+
+Salary according to BAT IIa. The University of Ulm is an equal opportunity 
+employer and emphatically encourages female scientists to apply. Employment 
+will be effected through the "Zentrale Universitaetsverwaltung" of the 
+University of Ulm.
+
+Please send CV, letter of motivation and addresses of three referees to: 
+Prof. Dr. Dr. M. Spitzer, Department of Psychiatry III, 
+University of Ulm, Leimgrubenweg 12, 89075 Ulm, Germany 
+or e-mail to manfred.spitzer@medizin.uni-ulm.de. 
+For more detailed information on the research project please contact
+Dr. F. T. Sommer, email: fritz@neuro.informatik.uni-ulm.de
+
+
+

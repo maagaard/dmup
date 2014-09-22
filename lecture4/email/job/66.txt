@@ -1,0 +1,90 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Feb 11 21:58:09 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA14311;
+	Thu, 11 Feb 1999 21:58:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17300;
+          11 Feb 99 13:29 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17296;
+          11 Feb 99 13:13 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19633;
+          11 Feb 99 13:13 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab00898; 11 Feb 99 8:09 EST
+Received: from [128.16.5.31] by RI.CMU.EDU id aa09570; 11 Feb 99 8:08:38 EST
+Received: from reeves.cs.ucl.ac.uk by bells.cs.ucl.ac.uk with local SMTP 
+          id <g.19477-0@bells.cs.ucl.ac.uk>; Thu, 11 Feb 1999 13:07:52 +0000
+X-Mailer: exmh version 2.0.2
+To: connectionists@cs.cmu.edu, colt@cs.uiuc.edu, INDUCTIVE@hermes.csd.unb.ca
+cc: b.buxton@cs.ucl.ac.uk
+Subject: Research Fellow post in Intelligent Data Analysis and Fusion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Thu, 11 Feb 1999 13:07:50 +0000
+Message-ID: <856.918738470@cs.ucl.ac.uk>
+From: Sean Holden <S.Holden@cs.ucl.ac.uk>
+Status: RO
+X-Status: 
+
+
+University College London
+
+Department of Computer Science
+
+Research in Intelligent Data Analysis and Fusion
+
+A position is available for a Research Fellow to work in collaboration
+with SmithKline Beecham, Glaxo-Wellcome, Unilever and Zeneca on an
+EPSRC funded project selected by the NPL-Sira Faraday Partnership. The
+aim of the project is to develop a hybrid data mining, analysis and
+fusion system incorporating the most recent artificial intelligence,
+neural network, fuzzy logic, and genetic algorithm techniques.
+
+The research fellow will be responsible for development of a hybrid
+system tool, for day to day running of the project, for evaluating the
+performance of the system in collaboration with the above companies
+and NPL, and for overseeing technology transfer to Integral Systems
+Solutions Ltd, supplier of the Clementine data mining
+system. Applicants should have a strong background in artificial
+intelligence, computer science and the development of data mining
+systems.
+
+The Fellow will work in the Intelligent Systems Research Group with
+four research students on the project, one associated with each of the
+major collaborating companies. The Group has extensive experience in
+the development of hybrid intelligent systems, in particular for
+financial and commercial applications.
+
+Applicants must have good mathematical and computing skills with
+experience of data mining research or applications or have carried out
+research and development in a closely related area.
+
+The position is for up to three years. The Research Fellow will be on
+the University RA1A scale (17,869-21,331 pounds sterling, including London
+allowance, depending on experience and length of appointment).
+
+For more details of the post and project see:
+
+http://www.cs.ucl.ac.uk/staff/b.buxton/Faraday
+
+or e-mail at B.Buxton@cs.ucl.ac.uk.		or tel: 0171-380-7294
+
+Please send 3 copies of your CV (including the names of two referees) to:
+
+M Sutcliffe,
+Department of Computer science,
+University College London,
+Gower Street, WC1E 6BT.
+
+or e-mail: vacancy@cs.ucl.ac.uk.
+
+The closing date for applications is 3 March 1999.
+
+*************
+
+
+
+
+
+
+

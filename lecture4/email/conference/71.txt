@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Mon Mar 23 17:07:18 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id RAA25045;
+	Mon, 23 Mar 1998 17:07:11 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa24982;
+          23 Mar 98 4:07:14 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa24978;
+          23 Mar 98 3:57:16 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15094;
+          23 Mar 98 3:57 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa26020; 23 Mar 98 3:46 EST
+Received: from wiley.csusb.edu by EDRC.CMU.EDU id aa14245; 23 Mar 98 3:46:35 EST
+Received: (from georgiou@localhost) by wiley.csusb.edu (8.8.5/8.6.11) id AAA26948; Mon, 23 Mar 1998 00:45:31 -0800 (PST)
+Date: Mon, 23 Mar 1998 00:45:31 -0800 (PST)
+Message-Id: <199803230845.AAA26948@wiley.csusb.edu>
+From: georgiou@wiley.csusb.edu
+To: connectionists@cs.cmu.edu
+Subject: ICCIN'98: Call for Papers
+Return-Receipt-To: georgiou@wiley.csusb.edu
+Status: RO
+X-Status: 
+
+			   Call for Papers
+
+		   3nd International Conference on
+
+	     COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+		   http://www.csci.csusb.edu/iccin
+
+
+	     Sheraton Imperial Hotel & Convention Center
+		Research Triangle Park, North Carolina
+			October 23-28, 1998
+			Conference Co-chairs:
+
+	      Subhash C. Kak, Louisiana State University
+		Jeffrey P. Sutton, Harvard University
+
+This conference is part of the Fourth Joint Conference Information Sciences.
+
+Plenary Speakers include the following:
+
+James Anderson
+Panos J. Antsaklis
+John Baillieul
+Walter Freeman
+David Fogel
+Stephen Grossberg
+Stuart Hameroff 
+Yu Chi Ho
+Thomas S.Huang
+George J. Klir
+Teuvo Kohonen
+John Koza
+Richard G. Palmer
+Zdzislaw Pawlak
+Karl Pribram
+Azriel Rosenfeld
+Julius T. Tou
+I.Burhan Turksen
+Paul J. Werbos
+A.K.C.Wong
+Lotfi A. Zadeh
+Hans J.Zimmermann
+
+Areas for which papers are sought include:
+
+	o Artificial Life
+	o Artificially Intelligent NNs
+	o Associative Memory
+	o Cognitive Science
+	o Computational Intelligence
+	o Efficiency/Robustness Comparisons
+	o Evaluationary Computation for Neural Networks
+	o Feature Extraction & Pattern Recognition
+	o Implementations (electronic, Optical, Biochips)
+	o Intelligent Control
+	o Learning and Memory
+	o Neural Network Architectures
+	o Neurocognition
+	o Neurodynamics
+	o Optimization
+	o Parallel Computer Applications
+	o Theory of Evolutionary Computation
+
+Summary (4 pages) Submission Deadline: June 1, 1998
+
+Decision & Notification: August 1, 1998
+
+For more information please see Conference Web site:
+http://www.csci.csusb.edu/iccin 

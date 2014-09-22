@@ -1,0 +1,164 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Aug 29 22:57:20 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id WAA10026;
+	Sat, 29 Aug 1998 22:57:13 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa00985;
+          28 Aug 98 15:30 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa00983;
+          28 Aug 98 15:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18055;
+          28 Aug 98 15:20 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19690; 28 Aug 98 12:29 EDT
+Received: from beech.sucs.soton.ac.uk by RI.CMU.EDU id aa19350;
+          28 Aug 98 12:29:09 EDT
+Received: from juniper.sucs.soton.ac.uk (juniper.sucs.soton.ac.uk [152.78.128.175])
+    by beech.sucs.soton.ac.uk (8.8.8/relay-02) with ESMTP id RAA04556;
+    Fri, 28 Aug 1998 17:28:54 +0100 (BST)
+Received: from mulberry.psy.soton.ac.uk (mulberry.psy.soton.ac.uk [152.78.195.73]) by juniper.sucs.soton.ac.uk (8.7.5/8.7.3) with ESMTP id RAA26825; Fri, 28 Aug 1998 17:28:52 +0100 (BST)
+Received: from localhost (harnad@localhost) by mulberry.psy.soton.ac.uk (8.7.5/8.7.3) with SMTP id RAA02985; Fri, 28 Aug 1998 17:28:48 +0100 (BST)
+X-Authentication-Warning: mulberry.psy.soton.ac.uk: harnad owned process doing -bs
+Date: Fri, 28 Aug 1998 17:28:47 +0100 (BST)
+From: Stevan Harnad <harnad@coglit.soton.ac.uk>
+To: vision <Vision-List-Request@ADS.COM>, COGDEVEL@email.uncc.edu,
+        imagery <imagery@MAELSTROM.STJOHNS.EDU>
+cc: induction <inductive@unb.ca>, LEARNING@MAELSTROM.STJOHNS.EDU,
+        philos-l <PHILOS-L@liverpool.ac.uk>
+Subject: Barsalou on Perceptual Symbol Systems: BBS Call for Commentary
+Message-ID: <Pine.SGI.3.95.980828172618.23640z-100000@mulberry.psy.soton.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Below is the abstract of a forthcoming BBS target article on:
+
+        PERCEPTUAL SYMBOL SYSTEMS
+  
+        by Lawrence W. Barsalou
+
+This article has been accepted for publication in Behavioral and Brain
+Sciences (BBS), an international, interdisciplinary journal providing
+Open Peer Commentary on important and controversial current research in
+the biobehavioral and cognitive sciences.
+
+Commentators must be BBS Associates or nominated by a BBS Associate. To
+be considered as a commentator for this article, to suggest other
+appropriate commentators, or for information about how to become a BBS
+Associate, please send EMAIL to:
+
+    bbs@cogsci.soton.ac.uk
+
+      or write to:
+    
+    Behavioral and Brain Sciences
+    Department of Psychology
+    University of Southampton
+    Highfield, Southampton
+    SO17 1BJ UNITED KINGDOM
+
+    http://www.princeton.edu/~harnad/bbs/
+    http://www.cogsci.soton.ac.uk/bbs/
+    ftp://ftp.princeton.edu/pub/harnad/BBS/
+    ftp://ftp.cogsci.soton.ac.uk/pub/bbs/
+    gopher://gopher.princeton.edu:70/11/.libraries/.pujournals
+
+If you are not a BBS Associate, please send your CV and the name of a
+BBS Associate (there are currently over 10,000 worldwide) who is
+familiar with your work. All past BBS authors, referees and commentators
+are eligible to become BBS Associates.
+
+To help us put together a balanced list of commentators, please give
+some indication of the aspects of the topic on which you would bring
+your areas of expertise to bear if you were selected as a commentator.
+An electronic draft of the full text is available for inspection
+with a WWW browser, anonymous ftp or gopher according to the
+instructions that follow after the abstract.
+____________________________________________________________________
+
+                        PERCEPTUAL SYMBOL SYSTEMS
+
+                Lawrence W. Barsalou
+                Department of Psychology
+                Emory University
+                Atlanta, GA 30322
+
+                http://userwww.service.emory.edu/~barsalou/
+                barsalou@emory.edu
+
+    KEYWORDS: analogue processing, categories, concepts, frames, imagery,
+    images, knowledge, perception, representation, sensory-motor
+    representations, simulation, symbol grounding, symbol systems
+
+    ABSTRACT: Prior to the twentieth century, theories of knowledge were
+    inherently perceptual. Since then, developments in logic, statistics,
+    and programming languages have inspired amodal theories that rest on
+    principles fundamentally different from those underlying perception. In
+    addition, perceptual approaches have become widely viewed as untenable,
+    because they are assumed to implement recording systems, not conceptual
+    systems. A perceptual theory of knowledge is developed here in the
+    contexts of current cognitive science and neuroscience. During
+    perceptual experience, association areas in the brain capture bottom-up
+    patterns of activation in sensory-motor areas. Later, in a top-down
+    manner, association areas partially reactivate sensory-motor areas to
+    implement perceptual symbols. The storage and reactivation of
+    perceptual symbols operates at the level of perceptual components--not
+    at the level of holistic perceptual experiences. Through the use of
+    selective attention, schematic representations of perceptual components
+    are extracted from experience and stored in memory (e.g., individual
+    memories of green, purr, hot). As memories of the same component become
+    organized around a common frame, they implement a simulator that
+    produces limitless simulations of the component (e.g., simulations of
+    purr). Not only do such simulators develop for aspects of sensory
+    experience, they also develop for aspects of proprioception (e.g.,
+    lift, run) and for introspection (e.g., compare, memory, happy,
+    hungry). Once established, these simulators implement a basic
+    conceptual system that represents types, supports categorization, and
+    produces categorical inferences. These simulators further support
+    productivity, propositions, and abstract concepts, thereby implementing
+    a fully functional conceptual system. Productivity results from
+    integrating simulators combinatorially and recursively to produce
+    complex simulations. Propositions result from binding simulators to
+    perceived individuals to represent type-token relations. Abstract
+    concepts are grounded in complex simulations of combined physical and
+    introspective events. Thus, a perceptual theory of knowledge can
+    implement a fully functional conceptual system while avoiding what it
+    is becoming increasingly apparent would be problems for amodal symbol
+    systems. Implications for cognition, neuroscience, evolution,
+    development, and artificial intelligence are explored.
+
+--------------------------------------------------------------
+To help you decide whether you would be an appropriate commentator for
+this article, an electronic draft is retrievable from the World Wide
+Web or by anonymous ftp or gopher from the US or UK BBS Archive.
+Ftp instructions follow below. Please do not prepare a commentary on
+this draft. Just let us know, after having inspected it, what relevant
+expertise you feel you would bring to bear on what aspect of the
+article.
+
+The URLs you can use to get to the BBS Archive:
+
+    http://www.princeton.edu/~harnad/bbs/
+    http://www.cogsci.soton.ac.uk/bbs/Archive/bbs.barsalou.html
+    ftp://ftp.princeton.edu/pub/harnad/BBS/bbs.barsalou
+    ftp://ftp.cogsci.soton.ac.uk/pub/bbs/Archive/bbs.barsalou
+    gopher://gopher.princeton.edu:70/11/.libraries/.pujournals
+
+To retrieve a file by ftp from an Internet site, type either:
+ftp ftp.princeton.edu
+   or
+ftp 128.112.128.1
+   When you are asked for your login, type:
+anonymous
+   Enter password as queried (your password is your actual userid:
+   yourlogin@yourhost.whatever.whatever - be sure to include the "@")
+cd /pub/harnad/BBS
+   To show the available files, type:
+ls
+   Next, retrieve the file you want with (for example):
+get bbs.barsalou
+   When you have the file(s) you want, type:
+quit
+
+

@@ -1,0 +1,69 @@
+
+
+From spm-request@mailbase.ac.uk Tue Jan 11 12:00:51 MET 2000
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id MAA02239
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 11 Jan 2000 12:00:47 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id LAA21349;
+	Tue, 11 Jan 2000 11:01:29 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id KAA12994;
+        Tue, 11 Jan 2000 10:58:32 GMT
+Received: from RL0002.unimaas.nl (rl0002.unimaas.nl [137.120.1.2]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id KAA12956;
+        Tue, 11 Jan 2000 10:58:25 GMT
+Received: from mail001.unimaas.nl by RL0002.UNIMAAS.NL (PMDF V5.1-12 #D3114)
+ with ESMTP id <01JKKSR4OKWQ000USO@RL0002.UNIMAAS.NL> for spm@mailbase.ac.uk;
+ Tue, 11 Jan 2000 11:54:19 WE
+Received: from np.unimaas.nl (nnp0173uns50.unimaas.nl [137.120.20.173])
+ by mail001.unimaas.nl with SMTP
+ (Microsoft Exchange Internet Mail Service Version 5.5.2650.21)
+ id CN4008PM; Tue, 11 Jan 2000 11:54:18 +0100
+Date: Tue, 11 Jan 2000 11:54:26 +0100
+Message-id: <387B0BE2.4E8E0B89@np.unimaas.nl>
+Organization: Maastricht University
+MIME-version: 1.0
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+Content-type: text/plain; charset=us-ascii
+Content-transfer-encoding: 7bit
+X-Accept-Language: en
+Subject: RESEARCH POSITION AVAILABLE IN COGNITIVE NEUROIMAGING AT MAASTRICHT
+ UNIVERSITY
+From: Wim Riedel <Wim.Riedel@np.unimaas.nl>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Wim Riedel <Wim.Riedel@np.unimaas.nl>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Deadline for response extended to January 31st 2000 !
+
+See:
+
+http://www-np.unimaas.nl/jobs/Y991215_Neuroimaging.html
+
+--
+Wim Riedel, PhD
+
+Lecturer in Experimental Neuropsychology
+Editor Human Psychopharmacology, Clinical and Experimental
+
+Experimental Psychopharmacology Unit
+Brain & Behaviour Institute (DRT10)
+Maastricht University
+P.O. Box 616
+6200 MD  Maastricht
+The Netherlands
+Phone: + 31 43 388 1027 / 1041
+FAX:   + 31 43 388 4092
+
+http://www-np.unimaas.nl/psypharm
+
+

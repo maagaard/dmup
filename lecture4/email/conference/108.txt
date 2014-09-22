@@ -1,0 +1,135 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Wed Jun 10 01:12:57 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id BAA29821
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 10 Jun 1998 01:12:55 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ac14897;
+          9 Jun 98 11:35:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa07071;
+          5 Jun 98 0:43:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11184;
+          5 Jun 98 0:43 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa15362; 4 Jun 98 18:43 EDT
+Received: from kth.se by EDRC.CMU.EDU id aa28670; 4 Jun 98 18:43:18 EDT
+Received: from theophys.kth.se (sl83.modempool.kth.se [130.237.37.109])
+	by kth.se (8.8.7/8.8.7) with ESMTP
+	id AAA24382;
+	Fri, 5 Jun 1998 00:43:08 +0200 (MET DST)
+Message-ID: <35772293.841A08E6@theophys.kth.se>
+Date: Fri, 05 Jun 1998 00:41:23 +0200
+From: Hans Liljenstrm <hali@theophys.kth.se>
+Organization: KTH and Agora for Biosystems
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: connectionists <connectionists@cs.cmu.edu>
+Subject: 1998 Sigtuna Workshop on Fluctuations 
+Status: RO
+X-Status: 
+
+               2nd announcement and call for participation
+                         Third Sigtuna Workshop
+                   Random Events in Biological Systems
+                      Sigtuna, Sweden 3-5 Sep 1998
+                  organized by the Agora for Biosystems
+
+Objectives
+In this meeting we wish to address questions concerning various forms of
+fluctuations and disorder in biological systems. By bringing together
+experimentalists and theoreticians with knowledge and insights from
+different disciplines, such as biology, physics, and computer science,
+we hope to shed more light on problems, which we think are profound for
+understanding the phenomenon of life. Topics will include
+synchronization, oscillations, chaos, noise, and stochastic resonance in
+e.g. the origin and evolution of life, biomolecular kinetics, neural
+information processing, and organ system functioning. Both experimental
+data and theory from the frontiers of science will be discussed.
+
+A number of invited speakers will provide presentations on the
+fundamental problems, but we invite further contributions, in the form
+of short lectures, computer demonstrations and posters. In order to
+maintain a close contact between all participants, and to provide an
+efficient workshop atmosphere, the number of participants will be
+limited to approximately forty people.
+
+The location of the workshop is at a unique guest house in Sigtuna, a
+royal town in the early Middle Ages. Situated at the shore of the
+beautiful lake M=E4laren, Sigtuna is only 15 km away from the Stockholm
+airport and 45 km from downtown Stockholm. It is also close to the city
+of Uppsala. The total cost, including accomodation, all meals and
+registration fee is 3000 SEK (approx 375 USD).
+
+Call for submissions:
+A small number of contributed talks will be organized. Interested
+participants are asked to submit by email a title and abstract to any of
+the organizers, by July 15, 1998.
+
+Organizing committee:
+Hans Liljenstr=F6m, Dept. of Physics, Royal Institute of Technology,
+Stockholm
+Peter =C5rhem, Nobel Institute for Neurophysiology, Karolinska Institutet,
+Stockholm
+Clas Blomberg, Dept. of Physics, Royal Institute of Technology,
+Stockholm
+(All also affiliated with the Agora for Biosystems)
+
+Confirmed invited speakers:
+Agnes Babloyantz, Dept of Chemical Physics, Free University of Brussels,
+Belgium
+Hans Braun, Institute of Physiology, University of Marburg, Germany
+Jarl-Thure Eriksson, Laboratory of Electricity, Technical University of
+Tampere, Finland
+Hans Frauenfelder, Los Alamos National Laboratory, New Mexico, USA
+Hermann Haken, Institut f=FCr Theoret. Physik und Synergetik, Universitet
+Stuttgart, Germany
+John Hertz, Nordita, Copenhagen, Denmark
+Amit Manwani, Computation and Neural Systems Program, Caltech, Pasadena,
+USA
+Michael Mackey, Dept. of Physiology, McGill University, Montreal, Canada
+
+Frank Moss, Dept. of Physics, University of Missouri, St Louis, USA
+Erik Mosekilde, Dept of Physics, Technical University of Denmark, Lyngby
+
+Sakire P=F6gun, Center for Brain Research, Ege University, Turkey
+J=F6rg Stucki, Dept. of Pharmacology, University of Bern, Switzerland
+E=F6rs Szathmary, Collegium Budapest, Hungary
+Peter Wolynes, Dept. of Chemistry, Univ. of  Indiana, Urbana
+
+For further information, please see our web site,
+http://www.theophys.kth.se/~hali/agora/sigtuna98,
+or contact
+
+Hans Liljenstr=F6m
+Theoretical Biophysics Group
+Dept. of Physics
+Royal Institute of Technology
+S-100 44 Stockholm, SWEDEN
+
+Email:  hali@theophys.kth.se
+Phone:  +46-(0)8-790 9423
+Fax: +46-(0)8-10 48 79
+
+If you are interested in participating in this workshop, please fill in
+and return the pre-registration form below.
+
+                        1998 Sigtuna Workshop on
+                   RANDOM EVENTS IN BIOLOGICAL SYSTEMS
+                            Pre-Registration
+Name:___________________________________________________________
+
+Address:_________________________________________________________
+
+__________________________________________________________
+
+Student:   Yes           No
+
+Willing to contribute with a presentation:  Yes             No
+
+Presentation preference:    Oral                Poster
+
+Preliminary title/subject:____________________________________________
+
+________________________________________________________________
+
+                DEADLINE FOR SUBMISSIONS IS JULY 15, 1998
+                             - please post -

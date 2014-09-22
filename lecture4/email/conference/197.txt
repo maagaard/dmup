@@ -1,0 +1,131 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 20 01:35:27 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA03716;
+	Wed, 20 Jan 1999 01:35:18 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14640;
+          19 Jan 99 15:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14638;
+          19 Jan 99 14:57 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10476;
+          19 Jan 99 14:57 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa28673; 19 Jan 99 14:18 EST
+Received: from stevenson144.cogsci.ed.ac.uk by RI.CMU.EDU id aa18799;
+          19 Jan 99 14:17:22 EST
+Received: from finlay.cogsci.ed.ac.uk (gert@finlay [129.215.174.45])
+	by cogsci.ed.ac.uk (8.8.7/8.8.7) with SMTP id TAA16724
+	for <Connectionists@CS.CMU.EDU>; Tue, 19 Jan 1999 19:17:07 GMT
+From: gert@cogsci.ed.ac.uk
+Message-Id: <8505.199901191917@finlay.cogsci.ed.ac.uk>
+Subject: CFP: Workshop Biologically Inspired Machine Learning
+To: Connectionists@cs.cmu.edu
+Date: Tue, 19 Jan 1999 19:17:06 +0000 (GMT)
+X-Face: 
+	 &'C#81gMiGHlkn<Yj+%l+bjl:4UY<1n]/_X?R^K(`pt;D*sn,yCnni|<!C*BA8.8%=o>E6d
+	 pWBNO,$J\;1`MV"d^p2AVieu}ZL&^;kJV`L@]u0k(m\T-Ui#H}sCC.#FEoso;V^7KJ6o-e%urelk[v
+	 i8TXD0<7\:Z`6}.]6uj(/\;%Y8BB3yI2Dzh@of-K)%i
+X-Mailer: ELM [version 2.4 PL23]
+Content-Type: text
+Status: RO
+X-Status: 
+
+
+                         Call for Papers and Participation: 
+
+                       Biologically-inspired Machine Learning
+                       --------------------------------------
+
+                    A workshop during ACAI-99, July 1999, Greece
+
+The BIML workshop will take place during two afternoon sessions of
+ACAI-99,  which will take place between 5-16 July 1999, in Chania, 
+Crete, Greece. It will consist of invited and  contributed talks,
+and several panel and small-group discussions  to encourage a genuinely
+interactive atmosphere. 
+
+Technical description:
+----------------------
+
+The biologically-inspired machine learning approach is attractive 
+not only as a methodology for the development and testing 
+of theories of learning in biological systems, but also as an 
+approach for the design of practical machine learning systems. 
+The research methodology of this approach fuses techniques from several
+disciplines, including Artificial Intelligence, Cognitive Science,
+Psychology, Neuroscience, Simulation/Modelling, and Robotics.
+It is the intention of this workshop to examine the interplay between
+biological and artificial learning, illuminate the commonalities and
+differences, and lead to a fruitful exchange of ideas and techniques.
+
+Topics of interest include but are not restricted to:
+
+  - modelling of cognitive, perceptual and motor development and
+    adaptation in humans and animals
+  - modelling of learning in infants 
+  - modelling of brain and cognitive disorders and recovery
+  - bio-inspired robot learning
+  - artificial neural networks
+  - evolutionary approaches to learning
+  - learning in social environments by observation, imitation and
+    cooperation.
+
+Paper submission: 
+-----------------
+
+Papers describing research in Biologically-inspired Machine Learning are 
+welcome. Submitted papers should be up to six A4 pages (two columns, 
+single-spaced, body text size 10 pt), should be in Postscript format, and 
+should be sent by email to both workshop organisers (contact details below). 
+Papers should include full contact details (including email address) 
+and affiliation of authors. 
+
+In addition to regular papers, graduate students and other people
+interested  in participating in this workshop can send a summary of
+their research work  (max. two pages). All accepted full papers will be
+included in the workshop  proceedings. Selected summaries will be
+included if space permits. 
+
+Registration:
+-------------
+
+All participants of the ACAI-99 main event will be able to participate in the 
+workshop without extra cost. The registration fee for attending the workshop
+only will be 150 ECU, to include the workshop proceedings, lunches, and 
+coffee breaks (see main ACAI-99 web page for details).
+
+Please note that since the number of participants is limited, priority will be 
+given to people submitting full papers or short research summaries. 
+
+Timetable:
+----------
+
+ * March 1,    deadline for submission of papers and research summaries.
+ * March 15,   notification of acceptance/rejection.
+ * April 1,    deadline for submission of final camera-ready manuscripts.
+ * July  5-12, workshop in Greece. The exact times of the Workshop within this
+               period will be finalised by the ACAI'99 organising committee soon.
+
+Organisers:
+-----------
+
+John Demiris 
+Institute of Perception, Action and Behaviour
+Division of Informatics
+University of Edinburgh, 5 Forrest Hill, Edinburgh EH1 2QL, Scotland, UK
+E-mail: johnde@dai.ed.ac.uk
+
+Gert Westermann
+Institute for Adaptive and Neural Computation
+Division of Informatics
+University of Edinburgh, 2 Buccleuch Place, Edinburgh EH8 9LW, Scotland, UK
+E-mail: gert@cogsci.ed.ac.uk
+
+Further information:
+---------------------
+
+WWW links with up-to-date information about BIBL and ACAI-99, including
+program committee, registration, travel, and accomodation details:
+
+ BIML workshop:  http://www.cogsci.ed.ac.uk/~biml/ 
+ ACAI-99:        http://www.iit.demokritos.gr/skel/eetn/acai99/index.html

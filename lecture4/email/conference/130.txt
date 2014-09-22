@@ -1,0 +1,215 @@
+
+
+From spm-request@mailbase.ac.uk  Fri Jul 24 11:05:54 1998
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id LAA05313
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 24 Jul 1998 11:05:52 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.8.x/Mailout) with ESMTP id KAA19237;
+	Fri, 24 Jul 1998 10:02:39 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id JAA02479;
+        Fri, 24 Jul 1998 09:58:00 +0100 (BST)
+Received: from mail-b.bcc.ac.uk (mail-b.bcc.ac.uk [144.82.100.22]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id JAA02466;
+        Fri, 24 Jul 1998 09:57:57 +0100 (BST)
+Received: from ion.ucl.ac.uk (actually host aix-150.ion.ucl.ac.uk) 
+          by mail-b.bcc.ac.uk with SMTP (XT-PP);
+          Thu, 23 Jul 1998 18:38:06 +0100
+Received: from [144.82.49.161] by ion.ucl.ac.uk (SMI-8.6/SMI-SVR4)	id SAA00900;
+          Thu, 23 Jul 1998 18:51:27 +0100
+X-Sender: jduncan@www.ion.ucl.ac.uk
+Message-Id: <l03110701b1dd25399287@[144.82.49.161]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Thu, 23 Jul 1998 18:41:10 +0100
+Subject: Functional Neuroimaging in the Epilepsies Symposium
+From: John Duncan <j.duncan@ion.ucl.ac.uk>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: John Duncan <j.duncan@ion.ucl.ac.uk>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+This message comes to you with the sanction of Dr Andrew Holmes, list
+manager of SPM at the FIL, Institute of Neurology, from Professor John
+Duncan, Professor of Neurology, at the Institute of Neurology.
+
+The 1998 Functional Neuroimaging in the Epilepsies Symposium will be at The
+Swissotel, Atlanta, Georgia October 30 -Noveember 1. The symposium is
+organized by Dr Tom Henry (Atlanta), Prof John Duncan (London) and Prof Sam
+Berkovic (Melbourne), under the auspices of The Emory University School of
+Medicine.
+Further information and registration details can be obtained from:
+
+Continuing Medical Education,
+Emory University School of Medicine,
+1462 Clifton Rd, NE, Suite 276,
+Atlanta
+Georgia 30322
+Tel (404) 727 5695; Fax: (404) 727 5667
+E: cme@emory.edu
+
+The aim of the symposium is to review the state of the art of relevant
+research techniques and their application to the epilepsies. The program is:
+
+Friday,  30 October 1998
+
+	Overview
+		T.R.Henry
+
+	SPECT:  Methodology
+		T.J. O'Brien
+
+	SPECT:  Neurobiology of Peri-Ictal Blood Flow Alterations
+		S.F.Berkovic
+
+	SPECT:  Ictal Perfusion in Localization-related Epilepsy
+		 H.Stefan
+
+	SPECT:  Ictal Perfusion in Childhood Epilepsies
+		C.Chiron
+
+	PET and SPECT:  Methodology:  Neuroreceptor Ligands and Models
+		K.A.Frey
+
+	PET:  Methodology:  Image Analysis
+	 	V.J.Cunningham
+
+	PET:  Methodology:  Image Statistics
+		A. Holmes
+
+	PET:  Activation of Cerebral Blood Flow and Glucose Metabolism
+		S.T. Grafton
+
+	PET:  Cerebral Blood Flow and Glucose Metabolism:  Presurgical
+Localization
+		T.R.Henry
+
+	PET:  Cerebral Blood Flow and Glucose Metabolism:  Pathophysiology
+& Drug Effects
+		W.H.Theodore
+
+	PET:  Central Benzodiazepine Neuroreceptor Mapping in Partial
+Epilepsies
+		J.S.Duncan
+
+	PET:  Central Benzodiazepine Neuroreceptor Mapping in Generalized
+Epilepsies
+		I.Savic
+
+	PET:  Opiate Neuroreceptor Mapping
+		M.J.Koepp
+
+	PET:  Cholinergic Neuroreceptor Mapping
+		P.B.Pennell
+
+	PET:  Serotonergic Neuroreceptor Mapping
+		H.T.Chugani
+
+	PET:  Monoamine Oxidase B Receptor Mapping
+		D.C.Reutens
+
+
+Saturday,  31 October 1998
+
+	fMRI:  Methodology:  Acquisition & Processing
+		A.W. Song
+
+	fMRI:  Methodology:  EEG during Acquisition
+		D.R.Fish
+
+	fMRI:  Methodology:  Seizure Mapping
+		G.D.Jackson
+
+	fMRI:  Methodology:  Sensorimotor Function Mapping
+		R. Turner
+
+	fMRI:  Methodology:  Cognitive Function Mapping
+		J.R Binder
+
+	MRS:  Methodology
+		I. Constantinidis
+
+	Proton MRS:  Lactate
+		F.Cendes
+
+	Proton MRS:  NAA, Cr, Choline
+		R.I.Kuzniecky
+
+	Proton MRS:  GABA & Glutamate
+		O.A.Petroff
+
+	Phosphorus MRS:  pH, ATP, PCr
+		K.D.Laxer
+
+	Diffusion-weighted MRI:  Peri-ictal Studies
+		J.W.Prichard
+
+	Electrophysiological Mapping
+		A.Gevins
+
+	Poster session on latest developments.
+
+
+Sunday,  1 November 1998
+
+	Functional Neuroimaging Studies of Epileptogenesis
+		J.Engel, Jr.
+
+	Functional Neuroimaging in Neurotransmitter & Neuroreceptor
+Mapping
+		J.S.Duncan
+
+	Functional Neuroimaging Studies of Seizure Initiation, Propagation
+& Termination
+		S.F.Berkovic
+
+	Functional Neuroimaging in Presurgical Localization of Ictal Onset
+Zones
+		S.S.Spencer
+
+	Functional Neuroimaging in Presurgical Localization of Essential
+Cortical Processing Zones
+		I. Fried
+
+	Functional Neuroimaging Studies of Antiepileptic Drugs and Other
+Therapies
+		T.R.Henry
+
+Assessment of Clinical utility and reimbursement of functional neuroimaging
+procedures.
+		K.Frey.
+
+
+
+John Duncan
+
+Professor of Neurology, Institute of Neurology, UCL.
+Consultant Neurologist, National Society for Epilepsy
+and National Hospital for Neurology and Neurosurgery.
+
+Tel: +44 (0) 171 916 0207 / +44 (0) 171 837 3611 ext 4259 (IoN, NHNN)
+     +44 (0) 1494 601456 (NSE)
+
+Fax: +44 (0) 837 3941 (IoN, NHNN)
+     +44 (0) 1494 876294 (NSE)
+
+
+
+John Duncan
+Professor of Neurology, Institute of Neurology, UCL.
+Consultant Neurologist, National Society for Epilepsy
+and National Hospital for Neurology and Neurosurgery.
+
+Tel: +44 (0) 171 916 0207 / +44 (0) 171 837 3611 ext 4259 (UCL, NHNN)
+     +44 (0) 149 460 1456 (NSE)
+
+Fax: +44 (0) 171 837 3941 (UCL, NHNN)
+     +44 (0) 149 487 6294 (NSE)
+

@@ -1,0 +1,47 @@
+
+
+From spm-request@mailbase.ac.uk  Thu Apr 30 04:51:05 1998
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id EAA17219
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 30 Apr 1998 04:51:03 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.8.x/Mailout) with ESMTP id DAA12854;
+	Thu, 30 Apr 1998 03:38:45 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id DAA06743;
+        Thu, 30 Apr 1998 03:37:36 +0100 (BST)
+Received: from pimout2-int.prodigy.net (pimout2-ext.prodigy.net [207.115.59.113]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id DAA06726;
+        Thu, 30 Apr 1998 03:37:32 +0100 (BST)
+Received: from default (BirminghamALDP124-183.SplitRock.net [209.156.124.183])
+	by pimout2-int.prodigy.net (8.8.5/8.8.5) with ESMTP id WAA58308
+	for <spm@mailbase.ac.uk>; Wed, 29 Apr 1998 22:32:25 -0400
+Message-Id: <199804300232.WAA58308@pimout2-int.prodigy.net>
+Date: Wed, 29 Apr 1998 21:33:32 -0000
+X-MSMail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+From: "Brian" <Brian28@pobox.com>
+To: <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Brian" <Brian28@pobox.com>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+Hi,
+I make custom maps. I am writing this letter to you to let
+you know that we pay company's a 25% profit on each
+map customer they refer to our company. For more
+information please call 1-800-414-9408 after 5 P.M. central or email 
+Advertising@pobox.com
+
+Thank You,
+Brian Boyle

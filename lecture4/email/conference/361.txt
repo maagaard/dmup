@@ -1,0 +1,212 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jan 13 23:19:37 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id XAA18509;
+	Thu, 13 Jan 2000 23:19:30 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28455;
+          13 Jan 2000 14:38 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28453;
+          13 Jan 2000 14:31 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13012;
+          13 Jan 2000 14:30 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab13610; 13 Jan 2000 9:11 EST
+Received: from kuifje.bbf.uia.ac.be by cs.cmu.edu id aa04749;
+          13 Jan 2000 9:10 EST
+Received: from [143.169.8.194] by kuifje.bbf.uia.ac.be; (8.8.8/1.1.8.2/22Feb95-0943AM)
+	id PAA02064; Thu, 13 Jan 2000 15:06:41 +0100 (MET)
+X-Sender: erik@143.169.8.193
+Message-Id: <l03130302b4a38d5e1c1c@[143.169.8.194]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Thu, 13 Jan 2000 15:11:22 +0100
+To: connectionists@cs.cmu.edu
+From: Erik De Schutter <erik@bbf.uia.ac.be>
+Subject: CNS 2000 Call For Papers
+Status: RO
+X-Status: 
+
+CALL FOR PAPERS
+
+
+Ninth Annual Computational Neuroscience Meeting
+
+CNS*2000
+
+July 16-20, 2000
+
+Brugge, Belgium
+
+
+http://cns.numedeon.com/cns2000
+
+
+DEADLINE FOR SUMMARIES AND ABSTRACTS:
+
+
+**>> 11:59 pm  January 26, 2000 <<<<**
+
+
+
+This is the ninth annual meeting of an interdisciplinary conference
+addressing a broad range of research approaches and issues involved in
+the field of computational neuroscience.  These meetings bring together
+experimental and theoretical neurobiologists along with engineers,
+computer scientists, cognitive scientists, physicists, and
+mathematicians interested in the functioning of biological nervous
+systems.
+
+
+THIS YEAR'S MEETING
+
+
+The meeting in 2000 will take place for the first time in Europe, in
+Brugge, Belgium from the 16th to the 20th of July.  The meeting will
+officially start at 9 am, Sunday, July 16th and end with the annual
+banquet on Thursday evening, July 20th.  There will be no parallel
+sessions.  The meeting will include time for informal workshops
+organized both before and during the meeting.
+
+
+The meeting will be held at the Congress Centre Old Saint-John in
+Brugge (http://www.brugge.be/toerisme/en/meetinge.htm).  Brugge is
+known in some circles as "The Venice of the North" and is an old and
+beautiful city with a modern conference center and easy access to
+international travel connections.  Housing accommodations will be
+available in numerous nearby hotels.
+
+
+SUBMISSION INSTRUCTIONS
+
+
+With this announcement we solicit paper submissions to the meeting.
+Papers can include experimental, model-based, as well as more abstract
+theoretical approaches to understanding neurobiological computation.
+We especially encourage papers that mix experimental and theoretical
+studies.  We also accept papers that describe new technical approaches
+to theoretical and experimental issues in computational neuroscience.
+
+
+
+Papers for the meeting should be submitted electronically using a
+custom designed JAVA/HTML interface found at the meeting web site:
+http://cns.numedeon.com/cns2000.  Authors must submit two descriptions
+of completed work.  First, a 100 word abstract must be provided that
+succinctly describes the research results.  This abstract is published
+in the conference program as well as on the meeting web site.  Authors
+must also submit a 1000 word description of their research.  This
+description is in the review process and should clearly state the
+objectives and context for the work as well as the results and its
+significance.  Information on all authors must be entered. Submissions
+will not be considered if they lack any of the required information or
+if they arrive late.
+
+
+All submissions will be acknowledged immediately by email.  It is
+important to note that this notice, as well as all other communication
+related to the paper will be sent to the designated correspondence
+author only.  Full instructions for submission can be found at the
+meeting web site:   http://cns.numedeon.com/cns2000.
+
+
+THE REVIEW PROCESS
+
+
+All papers submitted to CNS are peer reviewed.  Because the meeting
+this year will be held in Europe, we have accelerated the process of
+paper acceptance to allow more time to make travel plans.  For this
+reason, the review process will take place in two rounds.  In the first
+papers will be judged and accepted for the meeting based on the clarity
+with which the work is described and the biological relevance of the
+research.  For this reason authors should be careful to make the
+connection to biology clear in both the 100 word abstract and the 1000
+word research summary.  We expect to notify authors of meeting
+acceptance by the second week of February.
+
+
+The second stage of review will take place in March and involves
+evaluation of each submission by two referees.  The primary objective
+of this round of review will be to select papers for oral presentation.
+ All accepted papers not selected for oral talks as well as papers
+explicitly submitted as poster presentations will be included in one of
+three evening poster sessions.  Authors will be notified of the
+presentation format of their papers no later than the second week of
+May, 2000.
+
+
+CONFERENCE PROCEEDINGS
+
+
+All research accepted and presented at the CNS meeting is eligible for
+publication in the CNS proceedings.  The proceedings volume is
+published each year as a special supplement to the journal
+'Neurocomputing'.  In addition the proceedings are published in a hard
+bound edition by Elsevier Press.  6 page proceedings papers are
+submitted in October following the meeting.  For reference, papers
+presented at CNS*98 can be found in volumes 26 and 27 of Neurocomputing
+published in 1999.
+
+
+STUDENT TRAVEL GRANTS
+
+
+We have made an extra effort this year to raise funds to provide travel
+grant supplements for students and postdoctoral fellows presenting
+papers.  Also, we will have travels grants available both for Europeans
+and USA participants. While grants are awarded based on need, we
+anticipate that any presenting student requiring a travel supplement
+will be able to receive some assistance.  In addition, the program
+committee has arranged very inexpensive housing for students in
+Brugge.
+
+
+FURTHER MEETING CORRESPONDENCE
+
+
+Additional questions about this year's meeting or the paper submission
+process can be sent via email to cns2000@bbb.caltech.edu  or via
+surface mail to:
+
+
+CNS*2000
+
+Division of Biology 216-76
+
+Caltech
+
+Pasadena, CA 91125
+
+
+CNS*2000 ORGANIZING COMMITTEE:
+
+
+Co-meeting Chair / Logistics - Erik De Schutter, University of Antwerp
+
+
+Co-meeting Chair / Finances and Program - Jim Bower, Caltech
+
+Governmental Liaison - Dennis Glanzman, NIMH/NIH
+
+Workshop Organizer - Maneesh Sahani, University College, London
+
+
+CNS*2000 PROGRAM COMMITTEE:
+
+
+Avrama Blackwell, George Mason University
+
+Anders Lansner, Royal Institute of Technology, Sweden
+
+Chip Levy, University of Virginia
+
+Ray Glantz, Rice University
+
+David Horn, University of Tel Aviv
+
+Ranu Jung, University of Kentucky
+
+Steven J. Schiff, George Mason University
+
+Simon Thorpe, CNRS, Toulouse, France
+
+

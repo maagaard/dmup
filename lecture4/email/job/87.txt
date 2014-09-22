@@ -1,0 +1,101 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Mar 17 21:03:41 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA05714;
+	Wed, 17 Mar 1999 21:03:33 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa08653;
+          17 Mar 99 13:20 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08651;
+          17 Mar 99 13:07 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14794;
+          17 Mar 99 13:07 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa19778; 17 Mar 99 12:51 EST
+Received: from postbox.dai.ed.ac.uk by CS.CMU.EDU id aa16730;
+          17 Mar 99 12:50:56 EST
+Received: from curlew (curlew.dai.ed.ac.uk [129.215.41.194])
+	by postbox.dai.ed.ac.uk (8.8.7/8.8.7) with SMTP id RAA20490;
+	Wed, 17 Mar 1999 17:48:14 GMT
+Date: Wed, 17 Mar 1999 17:48:13 +0000 (GMT)
+From: Chris Williams <ckiw@dai.ed.ac.uk>
+Reply-To: Chris Williams <ckiw@dai.ed.ac.uk>
+To: connectionists@cs.cmu.edu, uai@CS.ORST.EDU, hsss@mailbase.ac.uk
+cc: anc-exec@anc.ed.ac.uk
+Subject: PhD study at the Institute for Adaptive and Neural Computation, U. , of Edinburgh, UK
+Message-ID: <Pine.SOL.3.95.990317173607.20926A-100000@curlew.dai.ed.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Apologies if you receive multiple copies of this message
+----
+
+The Institute for Adaptive and Neural Computation in the Division of
+Informatics at the University of Edinburgh welcomes applications from
+suitably qualified candidates regarding PhD study.
+
+The Institute for Adaptive and Neural Computation (ANC) is part of the
+newly formed Division of Informatics at the University of
+Edinburgh. The Institute fosters the study of adaptive processes in
+both artificial and biological systems. It encourages
+interdisciplinary and collaborative work involving the traditional
+disciplines of neuroscience, cognitive science, computer science,
+computational science, mathematics and statistics. Many of the
+information-processing tasks under study draw on a common set of
+principles and mathematical techniques for their solution. Combined
+study of the adaptive nature of artificial and biological systems
+facilitates the many benefits accruing from treating essentially the
+same problem from different perspectives.
+
+A principal theme is the study of artificial learning systems. This
+includes theoretical foundations (e.g. statistical theory, information
+theory), the development of new models and algorithms, and
+applications. A second principal theme is the analysis and modelling
+of brain processes at all levels of organization with a particular
+focus on theoretical developments which span levels. Within this
+theme, research areas are broadly defined as the study of the neural
+foundations of perception, cognition and action and their underlying
+developmental processes. A secondary theme is the construction and
+study of computational tools and methods which can support studies in
+the two principal themes, such as in the analysis of brain data,
+simulation of networks and parallel data mining.
+
+The Institute for Adaptive and Neural Computation has available PhD
+studentships (covering the cost of fees and living expenses) as from 1
+October 1999.  These are supported by the Medical Research Council and
+by Microsoft Research Ltd. In addition, the Division of Informatics
+receives a number of EPSRC studentships for which students wishing to
+study within the Institute for Adaptive and Neural Computation may
+be considered.
+
+Further information about ANC may be found at http://anc.ed.ac.uk/.
+
+Informal enquiries may be made to Emma Black, emma@anc.ed.ac.uk .
+
+For application forms and further information, write to: 
+
+                 PhD Admissions Secretary
+                 Division of Informatics
+                 University of Edinburgh
+                 James Clerk Maxwell Building
+                 King's Buildings
+                 Mayfield Road
+                 Edinburgh EH9 3JZ
+		 Scotland, UK
+
+                 Email: phd-admissions@inf.ed.ac.uk
+                 Fax: +44 131 667 7209
+                 Telephone: +44 131 650 5156
+
+Information on study for Research Degrees in the Division of 
+Informatics can be found at
+
+http://www.dai.ed.ac.uk/daidb/people/homes/rbf/IGS/IGSextr.htm
+
+
+
+
+
+

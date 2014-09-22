@@ -1,0 +1,155 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Sep 30 16:58:51 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id QAA19099;
+	Wed, 30 Sep 1998 16:58:35 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23423;
+          30 Sep 98 3:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23421;
+          30 Sep 98 3:30 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07298;
+          30 Sep 98 3:29 EDT
+Message-ID:  <36067C35.8161EDFE@neuro.kuleuven.ac.be>
+Date:         Mon, 21 Sep 1998 18:17:57 +0200
+Reply-To: nnsp99@neuro.kuleuven.ac.be
+Sender: Mailinglist NNSP 1999 Wisconsin <NNSP99@cc1.kuleuven.ac.be>
+From: "NNSP '99" <nnsp99@neuro.kuleuven.ac.be>
+Organization: K.U.Leuven
+Subject:      First call for papers for NNSP'99
+To: Multiple recipients of list NNSP99 <NNSP99@cc1.kuleuven.ac.be>
+Status: RO
+X-Status: 
+
+Dear Colleague,
+
+If you would like to be included in our mailing list,
+and receive further announcements of the NNSP99 workshop,
+let us know at NNSP99@neuro.kuleuven.ac.be
+
+    Sincerely,
+
+    Marc M. Van Hulle
+
+---
+
+*******************************
+**** FIRST CALL FOR PAPERS ****
+*******************************
+
+1999 IEEE Workshop on Neural Networks for Signal Processing
+August 23-25, 1999, Madison, Wisconsin
+
+NNSP'99 homepage: http://eivind.imm.dtu.dk/nnsp99
+
+Thanks to the sponsorship of IEEE Signal Processing Society the ninth
+of a series of IEEE workshops on Neural Networks for Signal Processing
+will be held at the Concourse Hotel, Madison, Wisconsin, USA.
+The workshop will feature keynote addresses, technical presentations,
+panel discussions and special sessions. Papers are solicited for, but
+not limited to, the following areas:
+
+Paradigms:
+Artificial neural networks, support vector machines, Markov models,
+graphical models, dynamical systems, evolutionary computation,
+nonlinear signal processing, and wavelets.
+
+Application Areas:
+Image/speech/multimedia processing, intelligent human computer
+interfaces, intelligent agents, blind source separation, OCR, robotics,
+adaptive filtering, communications, sensors, system identification,
+issues related to RWC, and other general signal processing and pattern
+recognition.
+
+Theories:
+Generalization, design algorithms, optimization, parameter estimation,
+and network architectures.
+
+Implementations:
+Parallel and distributed implementation, hardware design, and other
+general implementation technologies.
+
+
+SPECIAL SESSIONS
+The workshop features special sessions on
+* Support vector machines
+* Intelligent human computer interfaces
+
+
+PAPER SUBMISSION PROCEDURE
+Prospective authors are invited to submit 5 copies of extended
+summaries of no more than 6 pages.  The top of the first page of the
+summary should include a title, authors' names, affiliations, address,
+telephone and fax numbers and email address.
+Camera-ready full papers of accepted proposals will be published in
+a hard-bound volume by IEEE and distributed at the workshop.
+
+Please send paper submissions to:
+Jan Larsen
+NNSP'99, Department of Mathematical Modelling, Building 321
+Technical University of Denmark
+DK-2800 Lyngby, Denmark
+
+
+SCHEDULE
+Submission of extended summary:            February 1, 1999
+Notification of acceptance:                March 31, 1999
+Submission of photo-ready accepted paper:  April 29, 1999
+Advanced registration, before:             June 30, 1999
+
+
+ORGANIZATION
+
+General Chair
+Yu Hen HU
+University of Wisonsin-Madison
+email: hu@ece.wisc.edu
+
+Finance Chair
+Tulay ADALI
+University of Maryland
+Baltimore County
+email: adali@umbc.edu
+
+Proceedings Chair
+Elizabeth J. WILSON
+Raytheon Co.
+email: bwilson@ed.ray.com
+
+Proceedings Co-Chair
+Scott C. DOUGLAS
+Southern Methodist University
+email: douglas@seas.smu.edu
+
+Publicity Chair
+Marc van HULLE
+Katholieke Universiteit Leuven
+email: marc@neuro.kuleuven.ac.be
+
+Program Chair
+Jan LARSEN
+Technical University of Denmark
+email: jl@imm.dtu.dk
+
+Program Committee
+Tulay ADALI
+Amir ASSADI
+Andrew BACK
+Herve BOURLARD
+Andrzej CICHOCKI
+Anthony G. CONSTANTINIDES
+Bert DE VRIES
+Scott C. DOUGLAS
+Kevin R. FARRELL
+Hsin-Chia FU
+Ling GUAN
+Jenq-Neng HWANG
+Shigeru KATAGIRI
+Fa-Long LUO
+David MILLER
+Nelson MORGAN
+Klaus-Robert MULLER
+Mahesan NIRANJAN
+Dragan OBRADOVIC
+Volker TRESP
+Marc VAN HULLE

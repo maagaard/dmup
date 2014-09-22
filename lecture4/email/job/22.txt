@@ -1,0 +1,62 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Nov  7 06:30:31 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA17469;
+	Sat, 7 Nov 1998 06:30:11 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06844;
+          6 Nov 98 13:59 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06841;
+          6 Nov 98 13:45 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa04572;
+          6 Nov 98 13:44 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa04005; 6 Nov 98 13:36 EST
+Received: from mailer.fsu.edu by RI.CMU.EDU id aa06718; 6 Nov 98 13:36:32 EST
+Received: from darwin.psy.fsu.edu (darwin.psy.fsu.edu [128.186.66.5])
+	by mailer.fsu.edu (8.9.0/8.9.0) with ESMTP id NAA29440
+	for <connectionists@cs.cmu.edu>; Fri, 6 Nov 1998 13:36:19 -0500 (EST)
+Received: from [128.186.66.185] (psy304 [128.186.66.185])
+	by darwin.psy.fsu.edu (8.8.7/8.8.7) with ESMTP id NAA16222;
+	Fri, 6 Nov 1998 13:36:17 -0500 (EST)
+Message-Id: <v03007806b268ed8b75de@[128.186.66.185]>
+Mime-Version: 1.0
+Date: Fri, 6 Nov 1998 13:37:03 -0500
+To: connectionists@cs.cmu.edu
+From: Richard Hyson <hyson@darwin.psy.fsu.edu>
+Subject: Position announcement
+Cc: charness@darwin.psy.fsu.edu, contrera@darwin.psy.fsu.edu
+Status: RO
+X-Status: 
+
+The Department of Psychology at the Florida State University seeks to make a
+TENURE-TRACK appointment all at the assistant professor level in
+COMPUTATIONAL PSYCHOLOGY:
+
+Applicants in all areas of Computational Psychology are encouraged to apply,
+but preference will be given to candidates whose research interests
+complement those of our faculty in either cognitive psychology or
+neuroscience. This position is part of a College initiative to develop a
+program in computational science. The successful candidate will have
+responsibilities to an interdisciplinary program in Computational Science
+and Engineering as well as to the Psychology Department.
+
+Recruits will join a diverse research faculty with training programs in
+Clinical, Cognitive and Behavioral Science, and Psychobiology/Neuroscience.
+We seek candidates with strong evidence of research potential and teaching
+ability. Applicants who can contribute to more than one of the department's
+areas of strength will receive special consideration. A curriculum vitae, a
+cover letter describing research and teaching interests, and three letters
+of reference should be sent by Dec. 1 to: Computational Psychology Search
+Committee, Department of Psychology, Florida State University, Tallahassee,
+FL 32306-1270. Florida State University is an Equal opportunity/Affirmative
+Action Employer.
+
+For information about the Department of Psychology, see:
+http://www.psy.fsu.edu
+
+------------------------------------------------
+Rick Hyson, Ph.D.                      Ph: (850) 644-5824
+Psychology Department		       Fax: (850) 644-7739
+FSU				       email: hyson@psy.fsu.edu
+Tallahassee, FL 32306-1270
+

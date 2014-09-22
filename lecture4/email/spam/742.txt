@@ -1,0 +1,97 @@
+
+
+From review@dsp2.dspnet.com Mon Dec 13 06:23:08 MET 1999
+Received: from dsp2.dspnet.com ([198.3.252.25])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA14269
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 13 Dec 1999 06:23:07 +0100 (MET)
+Received: (from review@localhost)
+	by dsp2.dspnet.com (8.8.7/8.8.7) id BAA06158
+	for fnielsen@eivind.imm.dtu.dk; Mon, 13 Dec 1999 01:36:07 -0500
+Date: Mon, 13 Dec 1999 01:36:07 -0500
+From: TechOnLine Review <review@dsp2.dspnet.com>
+Message-Id: <199912130636.BAA06158@dsp2.dspnet.com>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: NEW People, NEW Nets, NEW Courses and Lectures
+Status: RO
+X-Status: 
+
+         What’s new at TechOnLine for December, 1999
+
+           Two new Networks: EDANET and ANALOGNET
+       New courses and lectures at TechOnLine University
+       Feature Articles on Embedded Internet technology
+    Feature Articles and Viewpoints by EDA industry experts
+                 http://www.techonline.com
+
+Because an engineering portal on the Internet is valuable only if the 
+people overseeing it are steeped in their technologies and their 
+industries, TechOnLine recently added some stellar editorial/engineering 
+talent to its roster: Rich Quinnell, Rita Glover, Jeff Michalski and Jim 
+Lipman. Rich Quinnell is in charge of EMBEDDEDNET, Rita Glover is 
+overseeing EDANET (with Jim Lipman’s help until we launch SOCNET in 
+February) and Jeff Michalski will be running APPLIANCENET when it’s 
+debuted in mid-January.
+
+These key industry stalwarts will expand the content and services 
+available to you at TechOnLine and work with the rest of the TechOnLine 
+team to integrate a variety of valuable technical information and 
+resources into a structure and organization that’s consistent and 
+easy-to-access. Take a look at this month’s TechOnLine Review to read 
+more about all of them.
+
+APPLIANCENET:  TechOnLine Stays Ahead of the Curve
+
+What’s one of the hottest, most talked about segment of the electronics 
+and computer industry today? There’s some really hot action taking place 
+in a new industry segment called “Internet Appliances.” Combining 
+elements of client-server computing, networking, and embedded systems 
+design, the challenges and issues facing today’s Internet Appliance 
+designers are so demanding and unique that TechOnLine is debuting 
+APPLIANCENET in mid-January to support the hardware and software 
+engineers braving this new world. You’ll find an interview with 
+APPLIANCENET Editor Jeff Michalski in this month’s TechOnLine Review.
+
+But there’s more…To get a jump on the launch of APPLIANCENET in January, 
+TechOnLine is making many of the presentations at the recent Embedded 
+Internet Workshop available to you online. You’ll find these described in 
+TechOnLine Review and you’ll be able to access the complete presentations 
+in the Feature Articles section of EMBEDDEDNET.
+
+If you’re designing ASICs or programmable logic devices, don’t miss going
+to TechOnline’s newest addition – EDANET. Here you’ll find more than a
+half-dozen industry and technology viewpoints (in the Feature Articles 
+section), directories of key EDA tools, and the most comprehensive 
+listing of vendor sites offering demo EDA software you’ll find on the 
+Internet.
+
+Upgrade Your Knowledge and Skills
+
+If you haven’t checked out TechOnLine University lately, then you aren’t 
+taking advantage of the most efficient, convenient, and low-cost method 
+available to keep up with the new products, technologies, and product 
+developments that could have an impact on your company and your job. 
+TechOnLine University offers dozens of courses and lectures, ranging from 
+20 minutes to several hours. And you “attend” everyone of these sitting 
+at your desktop PC. Here’s a sampling of the courses and lectures added 
+in the past month:
+
+Voice over IP 
+Introduction to Mediaprocessors 
+Introduction to ATM 
+Simplicities of USB Power Management 
+Fast Fourier Transforms 
+New Matrix Operations
+Variable Drives and EMC 
+AltiVec for Multiprocessing 
+
+Go directly to TechOnLine University to access these courses or lectures, 
+or look at this month’s TechOnLine Review for a brief description of 
+their focus and content.
+
+*****************
+TechOnLine -- the premier online destination for information, education, 
+and resources for the engineering community worldwide.
+
+________________________________________________________________
+If you feel this e-mail was not relevant, you can change your 
+e-mail preferences at http://www.techonline.com/list_update.html

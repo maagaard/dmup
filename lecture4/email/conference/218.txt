@@ -1,0 +1,83 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Feb 13 00:36:14 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA26504;
+	Sat, 13 Feb 1999 00:36:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20743;
+          12 Feb 99 16:56 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20741;
+          12 Feb 99 16:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21059;
+          12 Feb 99 16:43 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa05782; 12 Feb 99 14:16 EST
+Received: from mailhub.ucd.ie by RI.CMU.EDU id aa26558; 12 Feb 99 14:14:46 EST
+Received: from numwaan (roo.ucd.ie) by hermes.ucd.ie (PMDF V5.1-10 #U3251)
+ with SMTP id <0F7200FAL2S7RN@hermes.ucd.ie> for connectionists@cs.cmu.edu;
+ Fri, 12 Feb 1999 19:14:34 +0000 (GMT)
+Date: Fri, 12 Feb 1999 19:12:40 -0800
+From: Ronan Reilly <Ronan.Reilly@ucd.ie>
+Subject: Call for submissions - Cognitive Science Conference - University
+ College Dublin
+To: cogpsy-request@phil.ruu.nl, connectionists@cs.cmu.edu,
+        neuron-uk@mailbase.ac.uk, cneuro@bbb.caltech.edu,
+        cogneuro@ptolemy.arc.nasa.gov
+Message-id: <009301be56fe$b947b980$6a042b89@numwaan.ucd.ie>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 4.72.3110.5
+Content-type: text/plain; charset="iso-8859-1"
+Content-transfer-encoding: 7bit
+X-MSMail-Priority: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+X-Priority: 3
+Status: RO
+X-Status: 
+
+CALL FOR SUBMISSIONS
+
+"Cognitive Science for the New Millennium"
+University College Dublin
+May 16-17, 1999
+http://www.cs.ucd.ie/cogsci
+
+
+Guest Speakers
+
+James L. McClelland, Carnegie-Mellon University
+Paul Smolensky, Johns Hopkins University
+
+
+To mark the launch in the academic year 1999/2000 of the MA/MSc programme in
+Cognitive Science at University College Dublin, a conference is being
+organised to celebrate and evaluate the achievements of the discipline.
+
+Conference submissions are invited that deal with all aspects of cognitive
+science.  Submissions are especially encouraged that focus on an evaluation
+of its achievements and/or on an exploration of promising future research
+directions.
+
+Submissions should comprise a one page extended abstract.  The conference
+will have a single stream, involving just oral presentations.
+
+We strongly encourage submissions by e-mail as ASCII or postscript
+attachments sent to Ronan.Reilly@ucd.ie , with subject "cogsci submission".
+Hardcopy submissions should include three copies of the abstract and be sent
+to the address below. All communications regarding submissions will be by
+e-mail, so provision of an e-mail address is essential.
+
+All submissions must be received on or before the 31st of March.
+
+For more details see the conference web page at http://www.cs.ucd.ie/cogsci.
+
+
+_________________________________
+Ronan Reilly, PhD
+Department of Computer Science
+University College Dublin
+Belfield
+Dublin 4
+
+voice: +353-1-706 2475
+fax: +353-1-269 7262
+email: Ronan.Reilly@ucd.ie
+web: http://www.cs.ucd.ie/staff/rreilly

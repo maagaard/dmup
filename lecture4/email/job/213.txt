@@ -1,0 +1,90 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Oct 30 05:27:27 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id FAA29348;
+	Sat, 30 Oct 1999 05:27:23 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20669;
+          29 Oct 99 21:47 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20667;
+          29 Oct 99 21:42 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27557;
+          29 Oct 99 21:42 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab19697; 25 Oct 99 22:38 EDT
+Received: from CNBC.CMU.EDU by edrc.cmu.edu id aa28677; 25 Oct 99 22:37 EDT
+Received: from ed.ac.uk (ngoddard.slip.psc.edu [128.182.51.94]) by CNBC.CMU.EDU with ESMTP (8.7.1/8.7.1) id WAA14915; Mon, 25 Oct 1999 22:37:49 -0400 (EDT)
+Message-ID: <38151432.1BEE906A@ed.ac.uk>
+Date: Tue, 26 Oct 1999 03:38:42 +0100
+From: Nigel Goddard <Nigel.Goddard@ed.ac.uk>
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Jobs in Neural Simulation
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id FAA29348
+Status: RO
+X-Status: 
+
+
+	POSTDOCTORAL RESEARCH FELLOW & RESEARCH PROGRAMMER
+		IN NEURAL SIMULATION METHODS
+
+The NEOSIM project, funded by  NIMH and NSF, is developing simulation
+environments and associated software tools for modelling of brain
+processes.  The project has computer science and neuroscience research
+goals, and aims to develop distributable, portable, parallel software
+for the computational neuroscience community.  We seek a postdoctoral
+Research Fellow and a Research Programmer to augment the existing
+multidisciplinary, multinational team.  Both posts may require some
+travel to other EU countries or the US.
+
+The Research Fellow will conduct original research  related to brain
+modeling, brain data analysis or parallel simulation techniques and will
+contribute design, documentation, programming or other relevant
+expertise to the software development goals of the project.
+
+The Research Programmer will be involved in design, documentation,
+implementation, testing, dissemination, maintenance and development of
+the NEOSIM framework and will also be responsible for the installation
+and maintenance of software packages on the research computers, and may
+be involved in the specification, installation and system administration
+of research computers including small parallel platforms.
+
+Tenable for up to 3 years subject to annual renewal and further renewal
+beyond 3 years subject to success in attracting further funding.
+
+Salary scale: £16,286 - £24,479 p.a.
+
+Further details are available at
+http://anc.ed.ac.uk/neosim/rafurthpart.html
+
+Informal enquiries to: Dr. Nigel Goddard (Nigel.Goddard@ed.ac.uk)
+
+Sites: http://anc.ed.ac.uk/neosim, http://www.informatics.ed.ac.uk,
+http://www.personnel.ed.ac.uk/recruit.htm
+
+Further particulars, including details of the application procedure
+should be obtained from the Personnel Department, 1 Roxburgh Street,
+Edinburgh EH8 9TB, tel: +44 131-650-2511 (24 hour answering service); or
+see the web site above
+
+Closing Date: 24th November 1999.  Interviews expected 9th-13th
+December.
+--
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+ Dr. Nigel Goddard         
+ Institute for Adaptive and Neural Computation
+ Division of Informatics   
+ University of Edinburgh   
+ 5 Forrest Hill            
+ Edinburgh EH1 2QL         
+ Scotland                  
+
+ Telephone: +44 131 650 3087   
+ email: Nigel.Goddard@ed.ac.uk     
+ web: http://anc.ed.ac.uk/~ngoddard 
+ Fax (paper):  +44 131 650 6899   
+ eFAX (email):  +1 603 698 5854   
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ

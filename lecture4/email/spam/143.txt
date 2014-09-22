@@ -1,0 +1,38 @@
+
+
+From owner-cvs2html@sslug.dk  Sat Aug 22 19:50:10 1998
+Received: from www.sslug.dk (majordomo@sslug.imm.dtu.dk [192.38.71.98])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id TAA08105
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 22 Aug 1998 19:50:09 +0200 (METDST)
+Received: (from majordomo@localhost)
+	by www.sslug.dk (8.8.7/8.8.7) id TAA11671
+	for cvs2html-list; Sat, 22 Aug 1998 19:44:02 +0200
+X-Authentication-Warning: www.sslug.dk: majordomo set sender to owner-cvs2html@sslug.dk using -f
+Received: from zaphod.axion.bt.co.uk (zaphod.axion.bt.co.uk [132.146.5.1])
+	by www.sslug.dk (8.8.7/8.8.7) with SMTP id TAA11668
+	for <cvs2html@sslug.dk>; Sat, 22 Aug 1998 19:44:00 +0200
+Message-Id: <199808221744.TAA11668@www.sslug.dk>
+Received: from mail.com (actually Dal-VD1-119.anet-dfw.com) by zaphod.axion.bt.co.uk with SMTP (PP);
+          Sat, 22 Aug 1998 18:40:07 +0100
+Date: Sun, 25 May 97 00:31:09 EST
+From: Jack <22537696@mail.com>
+To: Friend@public.com
+Subject: [CVS2HTML] August
+Sender: owner-cvs2html@sslug.dk
+Precedence: list
+Reply-To: cvs2html@sslug.dk
+Status: RO
+X-Status: 
+
+We can send your Bulk Email promoting your Web site,your favorite program or
+ help you sell your product thru our servers and you won't have to worry about your
+ ISP cutting you off.
+
+CALL   972-227-7286            CALL    972-227-7286
+
+Can target your list any way you want, Call for price quotes
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+ The Mailing List that you are being mailed from was filtered against the
+ Global Remove List at: http://remove-list.com
+
+Go to    http://remove-list.com add your name to the remove list

@@ -1,0 +1,80 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Sep  2 15:34:47 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id PAA02047;
+	Wed, 2 Sep 1998 15:34:31 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19786;
+          1 Sep 98 17:37 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19784;
+          1 Sep 98 17:25 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23690;
+          1 Sep 98 17:25 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa12919; 1 Sep 98 15:01 EDT
+Received: from hera.stat.wisc.edu by CS.CMU.EDU id aa29314;
+          1 Sep 98 15:00:33 EDT
+Received: (from wahba@localhost)
+	by hera.stat.wisc.edu (8.8.6/8.8.6) id OAA14197;
+	Tue, 1 Sep 1998 14:00:30 -0500 (CDT)
+Date: Tue, 1 Sep 1998 14:00:30 -0500 (CDT)
+From: Grace Wahba <wahba@stat.wisc.edu>
+Message-Id: <199809011900.OAA14197@hera.stat.wisc.edu>
+To: connectionists@cs.cmu.edu
+Subject: Gaussian statistical models, Hilbert spaces
+Cc: wahba@stat.wisc.edu
+Status: RO
+X-Status: 
+
+
+Readers of 
+...............
+  http://www.santafe.edu/~zhuh/draft/edmc.ps.gz 
+
+		Error Decomposition and Model Complexity
+
+			     Huaiyu Zhu
+
+  Bayesian information geometry provides a general error decomposition
+  theorem for arbitrary statistical models and a family of information
+  deviations that include Kullback-Leibler information as a special case.
+  When applied to Gaussian measures it takes the classical Hilbert space
+  (Sobolev space) theories for estimation (regression, filtering,
+  approximation, smoothing) as a special case.  When the statistical and
+  computational models are properly distinguished, the dilemmas of
+  over-fitting and ``curse of dimensionality'' disappears, and the optimal
+  model order disregarding computing cost is always infinity.
+.............
+
+  will do doubt be interested in the long history of the relationship 
+  between reproducing kernel Hilbert spaces (rkhs), gaussian measures  
+  and regularization,  -
+    see 
+    
+    1962 Proccedings of the Symposium on Time Series Analysis 
+    edited by Murray Rosenblatt, Wiley 1962, esp. the paper by Parzen
+    1962 J. Hajek On linear statistical problems in stochastic processes
+	 Czech Math J. v 87. 
+    1971 Kimeldorf and Wahba, Some results on Tchebycheffian spline functions, 
+    J. Math Anal. Applic. v 33.
+    1990 G. Wahba, Spline Models for Observational Data, SIAM 
+    1997 F. Girosi, An equivalence between sparse approximation and 
+      support vector machines, to appear Neural Comp
+    1997 G. Wahba, Support vector vachines, reproducing kernel Hilbert 
+      spaces and the randomized GACV, to appear, Schoelkopf, Burges 
+      and Smola, eds, forthcoming book on Support Vector Machines, MIT Press 
+    1981 C. Micchelli and G. Wahba, Design problems for optimal
+      surface interpolation, Approximation Theory and Applications, 
+      Z. Ziegler ed, Academic press. Also numerous works by 
+      L. Plaskota and others on optimal bases. First k eigenfunctions 
+      of the reproducing kernel are well known to have certain 
+      optimal properties under restricted circumstances, 
+      see e.g. Ch 12 of Spline Models and references there, but 
+      if there are n observations, then the Bayes estimates 
+      are found in an at most  n-dimensional subspace of the rkhs 
+      associated with the prior, KW 1971.   B. Silverman 1982
+      `On the estimation of a probability density fuction by 
+      the maximum penalized likelihood method', Ann. Statist 1982 
+      will also be of interest - convergence rates are related
+      to the rate of decay of the eigenvalues of the reproducing
+      kernel. 
+	     Grace Wahba http://www.stat.wisc.edu/~wahba/  

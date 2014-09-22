@@ -1,0 +1,365 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Fri May 15 04:53:46 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id EAA21478;
+	Fri, 15 May 1998 04:53:35 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa05337;
+          14 May 98 14:24:58 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa05305;
+          14 May 98 14:01:19 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09000;
+          14 May 98 14:00 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa01398; 14 May 98 13:04 EDT
+Received: from vaxsa.csied.unisa.it by EDRC.CMU.EDU id aa01079;
+          14 May 98 13:03:31 EDT
+Date: Thu, 14 May 1998 19:05:21 +0100
+Message-Id: <98051419052158@vaxsa.csied.unisa.it>
+From: annesp@vaxsa.csied.unisa.it
+To: connectionists@cs.cmu.edu
+Subject: Extended Deadline and Reduced Student fee (E. R. Cainiello School)
+X-VMS-To: SMTP%"connectionists@cs.cmu.edu"
+Status: RO
+X-Status: 
+
+*****************************************************************
+EXTENDED DEADLINE FOR THE SUMMER SCHOOL    MAY 30 1998 
+
+REDUCED REGISTRATION FEE FOR MASTER and Ph.D STUDENTS
+
+    Please post
+****************************************************************
+
+
+International Summer School  ``Neural Nets E. R. Caianiello"
+
+3rd Course
+
+
+                "A Course on Speech Processing,
+                 Recognition, and Artificial
+                 Neural Networks"
+
+
+web page: http://wsfalco.ing.uniroma1.it/Speeschool.html
+
+
+The school is jointly organized  by:
+
+INTERNATIONAL INSTITUTE FOR ADVANCED SCIENTIFIC STUDIES (IIASS)
+Vietri sul Mare (SA) Italy,
+
+ETTORE MAJORANA FOUNDATION AND CENTER FOR SCIENTIFIC CULTURE (EMFCSC)
+Erice (TR), Italy
+
+Supported by:
+
+EUROPEAN SPEECH COMMUNICATION ASSOCIATION (ESCA)
+
+Sponsored by:
+
+SALERNO UNIVERSITY, Dipartimento di Scienze Fisiche E.R. Caianiello
+(Italy)
+
+DIRECTORS OF THE COURSE                 DIRECTORS OF THE SCHOOL
+AND ORGANIZING COMMITTEE:
+
+Gerard Chollet (France).                Maria Marinaro  (Italy)
+M. Gabriella Di Benedetto (Italy)       Michael Jordan  (USA)
+Anna Esposito  (Italy)
+Maria Marinaro (Italy)
+
+ 
+
+PLACE: International Institute for Advanced Scientific Studies (IIASS)
+       Via Pellegrino 19, 84019 Vietri sul Mare, Salerno  (Italy)
+
+DATES: 5th-14th October  1998
+
+
+POETIC TOUCH
+
+Vietri (from "Veteri", its ancient Roman name) sul Mare ("on sea")
+is located within walking distance from Salerno and marks the
+beginning of the Amalfi coast. Short rides take to Positano, Sorrento,
+Pompei, Herculaneum, Paestum, Vesuvius, or by boat, the islands of
+Capri, Ischia, and Procida. Velia (the ancient "Elea" of Zeno and
+Parmenide) is a hundred kilometers farther down along the coast.
+
+ 
+
+
+Day time:            3 hour in the morning, three hour in the afternoon.
+                      
+Day free:            One day with an excursion of the places around.
+
+
+
+AIMS:
+
+
+        The aim of this school is to present the experiments,
+        the theories and the perspectives of acoustic phonetics,
+        as well as to discuss recent results in the speech literature.
+        The school aims to provide a background for further
+        study in many of the fields related to speech science
+        and linguistics, including automatic speech recognition.
+        The school will bring together leading researchers
+        and selected students in the field of speech science
+        and technology to discuss and disseminate the latest techniques.
+        The school is devoted to an international audience and
+        in particular to all students and scientists who are
+        working on some aspects of speech and want to learn other
+        aspects of this discipline.
+
+
+MAJOR TOPICS
+
+The school will cover a number of broad themes relevant to speech,
+among them:
+
+
+      1) Speech production and acoustic phonetics
+      
+      2) Articulatory, acoustic, and prosodic features
+      
+      3) Acoustic cues in speech perception
+
+      4) Models of speech perception
+
+      5) Speech  processing (Preprocessing algorithms for Speech)
+      
+      6) Neural Networks for automatic speech recognition
+         
+      7) Multi-modal speech recognition and recognition in adverse
+      environments.
+      
+      8) Speech to speech translation (Vermobil and CSTAR projects)
+
+
+      9) Applications (Foreign Language training aids, aids for
+      handicapped, ....).
+
+      10) Stochastic Models and Dialogue systems
+
+
+FORMAT
+
+The  meeting  will  follow the usual format  of  tutorials  and  panel
+
+discussions  together  with poster sessions for  contributed  papers.
+
+The following tutorials are planned:
+
+ABEER ALWAN           UCLA University  (CA) USA
+
+    "Models of Speech Production and Their Application
+     in  Coding and Recognition"
+
+ANDREA CALABRESE      University of Connecticut (USA)
+
+    "Prosodic and Phonological Aspects of Language"
+
+GERARD CHOLLET        CNRS - ENST France
+
+     "ALISP, Speaker Verification, Interactive Voice Servers"
+
+PIERO COSI           CNR-Padova  Italy
+
+     "Auditory Modeling and Neural Networks"
+
+RENATO DE MORI        Universite d' Avignon, France
+    
+    "Statistical Methods for Automatic Speech Recognition"
+
+
+M. GABRIELLA DI BENEDETTO   Universita' degli Studi di Roma "La
+Sapienza", Rome,
+                            Italy
+
+       ``Acoustic Analysis and Perception of Classes
+        of Sounds (vowels and consonants)"
+
+BJORN GRANSTROM       Royal Institute of Technology (KTH) Sweden
+
+    "Multi-modal Speech Synthesis with Application"
+
+
+JEAN P. HATON    Universite Henri-Poincare, CRIN-INRIA, France
+
+    "Neural Networks for Automatic Speech Recognition"
+    
+
+
+HYNEK HERMANSKY     Oregon Graduate Institute, USA
+ 
+   "Goals and Techniques of Speech Analysis"
+
+     
+HERMANN NEY      Computer Science Department, Aachen Germany
+
+"Algorithms for Large Vocabulary Speech Recognition"
+"Text and Speech Translation using Statistical Methods"
+
+JOHN OHALA            University of California at Berkeley (CA) USA
+
+    "Articulatory Constraints on Distinctive Features"
+    
+
+
+JEAN SYLVAIN LIENARD          LIMSI-CNRS, France
+
+    "Speech Perception, Voice Perception"
+    "Beyond Pattern Recognition"
+
+
+
+
+
+PROCEEDINGS
+
+The proceedings will be published in the form of a book
+containing  tutorial  chapters written  by  the
+lecturers  and possibly shorter  papers from other  participants.
+One free copy of the book will be distributed to each participant.
+
+LANGUAGE
+The official language of the school will be English.
+
+POSTER SUBMISSION
+There  will  be  a poster session for contributed presentations
+from  participants. Proposals consisting of a one page abstract for
+review
+by  the  organizers should be submitted with applications.
+
+
+DURATION
+
+Participants are expected to arrive in time for the evening meal on
+Sunday
+4th October and depart   on Tuesday 15th  October.
+
+Sessions will  take place from Monday 5th-Wednesday 14th.
+
+COST
+
+Student Fee:        1500 dollars
+
+Student fee include accommodations (arranged by the school),
+meals, one day of excursion, and a copy of the proceedings of
+the school.  Transportation is not included.  
+
+REDUCED REGISTRATION FEE: IIASS, thanks to foundings offered
+by the sponsor is able to offer to students which are taking 
+a master or a Ph.D degree, a reduced registration fee of 1000 dollars.
+
+A few scholarships are available for students who are otherwise unable
+to participate at the school, and who cannot apply for
+the grants offered by ESCA.
+The scholarship will partially cover lodging and living expenses.
+
+-- A supplement of  40 dollars per night should be paid for single
+   room.
+
+   Payment details  will be notified  with
+   acceptance of applications.
+
+
+GRANTS
+
+-- A few ESCA grants are available for participants (which
+cover tuition and, maybe, part of the lodging).
+See http://ophale.icp.inpg.fr/esca/grants.html for
+further information.
+Individual applications for grants should be sent to Wolfgang Hess by
+e-mail: wgh@sunwgh.ikp.uni-bonn.de
+
+
+ELIGIBILITY
+The school is open to all suitably qualified scientists
+from around the world.
+
+APPLICATION PROCEDURE:
+ 
+       Important Date:
+
+       Application deadline:                May   30 1998
+       Notification of acceptance:          June  15 1998
+       Registration fee payment deadline:   July  10 1998
+
+People with few years of experience in the field should include
+a recommendation letter of their supervisor or group leader
+
+Places are limited to a maximum of 60 participants in addition to  the
+lecturers.
+These will  be allocated on  a first come, first served  basis.
+
+**************************************************************************
+                      
+                      APPLICATION FORM
+
+Title:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Family Name:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Other Names:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Name to appear on
+badge:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Mailing Address (include institution or company name if appropriate):
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Phone:^^^^^^^^^^^^^^^^^^^^^^Fax:^^^^^^^^^^^^^^^^^^^
+E-mail:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Date of Arrival  :
+Date of Departure:
+
+Will you be applying for a ESCA  grant ?  yes/no*
+*(please delete the alternatives which do not apply)
+ 
+Will you be applying for a scholarship ?  yes/no*
+*(please delete the alternatives which do not apply)
+*(please include in your application a justification for scholarship
+request)
+*****************************************************************
+
+Please send the application form  together the
+recommendation letter
+by electronic mail to:
+iiass@tin.it, subject: summer school;
+
+or
+
+by fax:
++39 89 761 189 (att.ne Prof. M. Marinaro)
+
+or
+
+by ordinary mail to the address below:
+IIASS
+Via Pellegrino 19, I84019 Vietri sul Mare (Sa) Italy
+
+
+For further information please contact:
+Anna Esposito
+International Institute for advanced Scientific Studies (IIASS)
+Via Pellegrino, 19,
+84019 Vietri sul Mare (SA) Italy
+Fax:    + 39 89 761189
+e-mail: annesp@vaxsa.csied.unisa.it
+================== RFC 822 Headers ==================
+================== RFC 822 Headers ==================
+Return-Path: iiass@tin.it
+Received: by vaxsa.csied.unisa.it (UCX V4.1-12, OpenVMS V6.1 VAX);
+	Wed, 13 May 1998 13:54:41 +0100
+Received: from iiass (SalernoC-13.tin.it [195.120.112.13])
+          by mail.tol.it (8.8.4/8.8.4) with SMTP
+	  id NAA24512 for <annesp@vaxsa.csied.unisa.it>; Wed, 13 May 1998 13:50:21 +0200 (MET DST)
+Message-ID: <3559883A.3E50@tin.it>
+Date: Wed, 13 May 1998 13:47:06 +0200
+From: IIASS <iiass@tin.it>
+Organization: Telecom 0n Line - TOL
+X-Mailer: Mozilla 2.02E (Win95; I)
+MIME-Version: 1.0
+To: annesp@vaxsa.csied.unisa.it
+Subject: summer school
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit

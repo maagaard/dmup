@@ -1,0 +1,54 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sun Mar 21 18:27:32 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id SAA12538;
+	Sun, 21 Mar 1999 18:27:27 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16980;
+          21 Mar 99 11:05 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16978;
+          21 Mar 99 10:53 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19837;
+          21 Mar 99 10:53 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa09827; 21 Mar 99 6:41 EST
+Received: from pikas.inf.tu-dresden.de by CS.CMU.EDU id aa29204;
+          21 Mar 99 6:40:56 EST
+Received: (from cladv@localhost)
+	by pikas.inf.tu-dresden.de (8.8.8/8.8.8) id LAA08326
+	for cl-advertisement-adresses; Sun, 21 Mar 1999 11:29:44 +0100 (MET)
+From: CL Advertisement <cladv@pikas.inf.tu-dresden.de>
+Message-Id: <199903211029.LAA08326@pikas.inf.tu-dresden.de>
+Subject: Postdoctorate Grant at Dresden University of Technology
+To: cl-advertisement-adresses@pikas.inf.tu-dresden.de
+Date: Sun, 21 Mar 1999 11:29:43 +0100 (MET)
+X-Mailer: ELM [version 2.4 PL23]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+The Department of Computer Science at the Dresden University of 
+Technology offers a
+
+	postdoctorate grant 
+
+in the framework of its research programme "Specification of discrete 
+processes and systems of processes by operational models and logics" 
+with a duration -- for the time being -- upto the end of the year 1999.
+
+In this research programme we consider formalisms in the area of Petri 
+nets and concurrent automata, term- and graph-rewriting systems, 
+knowledge representation and cognitive robotics, model theory for 
+process systems and the equivalences of these formalisms.
+
+Applicants who have finished their Ph.D. with very good marks, can send 
+their curriculum vitae, photo, list of publications, and two references 
+by professors to:
+
+Dresden University of Technology
+Department of Computer Science
+Prof. Dr.-Ing.habil. Heiko Vogler
+Mommsenstr. 13
+D-01062 Dresden
+Germany

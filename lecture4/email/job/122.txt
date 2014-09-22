@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri May 28 20:55:53 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA28201;
+	Fri, 28 May 1999 20:55:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24430;
+          28 May 99 13:23 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24428;
+          28 May 99 13:14 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23894;
+          28 May 99 13:14 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa03471; 28 May 99 3:53 EDT
+Received: from [146.191.32.5] by RI.CMU.EDU id aa25336; 28 May 99 3:53:04 EDT
+Received: from Gate-Message_Server by wpmail.paisley.ac.uk
+	with Novell_GroupWise; Fri, 28 May 1999 08:55:59 +0000
+Message-Id: <s74e5a1f.036@wpmail.paisley.ac.uk>
+X-Mailer: Novell GroupWise 4.1
+Date: Fri, 28 May 1999 08:55:25 +0000
+From: COLIN FYFE <FYFE-CI0@wpmail.paisley.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Jobs in Computational Intelligence
+Status: RO
+X-Status: 
+
+Applications are now sought for the following posts 
+from those in the Computational Intelligence community:
+
+Chair of Computational Intelligence
+Department of Computing and Information Systems
+The University of Paisley,
+Paisley,
+Scotland.
+This senior post carries a salary of 36981 pa (award pending) and
+is an additional post intended to strengthen the Department's
+research group in this area. There are already 6 promoted 
+academics in this area which covers the groups involved in
+Artificial Neural Networks
+Statistical Signal Processing
+Applied Artificial Intelligence
+Artificial Life
+
+You should have a substantial track record of publications
+and be able to demonstrate leadership in research for this post.
+
+There are also three posts at the Lecturer/Senior Lecturer level.
+Candidates for the Senior Lecturer post should also be able to 
+demonstrate substantial research in this area or in Information
+Systems.
+Senior Lecturer Salary Scale : 26146 to 33798 pa (award pending)
+  Lecturer Salary Scale : 15885 to 28507 pa (award pending)
+
+Recruitment packs are available from the Personnel Office,
+University of Paisley, Paisley PA1 2BE tel : 0141 848 3940
+
+Closing date is 16th June 1999
+
+Informal enquiries may be made to Prof Malcolm Crowe, Head of Department
+on 0141 848 3300
+or to Colin Fyfe
+on 0141 848 3305
+
+http://cis.paisley.ac.uk           

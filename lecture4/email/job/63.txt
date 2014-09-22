@@ -1,0 +1,52 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb  9 04:14:11 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA11584;
+	Tue, 9 Feb 1999 04:14:05 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09203;
+          8 Feb 99 19:50 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09201;
+          8 Feb 99 19:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14666;
+          8 Feb 99 19:44 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa21527; 8 Feb 99 18:24 EST
+Received: from nebish.gmu.edu by RI.CMU.EDU id aa07406; 8 Feb 99 18:23:18 EST
+Received: (qmail 4368 invoked by uid 1001); 8 Feb 1999 23:20:33 -0000
+Date: Mon, 8 Feb 1999 18:20:33 -0500 (EST)
+From: avrama <avrama@gmu.edu>
+X-Sender: avrama@nebish
+To: comp-neuro@bbb.caltech.edu
+cc: Connectionists@CS.cmu.edu
+Subject: PhD Fellowship
+Message-ID: <Pine.SOL.3.91.990208181834.3561K-100000@nebish>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+			George Mason University
+
+	Institute for Computational Sciences and Informatics
+
+			Ph.D. Research Position
+
+		    ------------------------------
+
+Applications are invited to the Ph.D. program in Bioinformatics,
+Computational Neuroscience concentration.  Fellowship money is available to
+work with Dr. Blackwell, a CSI faculty member and affiliated with the Krasnow
+Institute.  The area of research is the biophysical basis of long term
+memory. 
+
+Applicants are expected to have experience in C programming and UNIX
+operating systems; completed course work on Ordinary differential equations
+and linear algebra; and an interest in neuroscience. 
+
+Applications may be downloaded from http://csi.gmu.edu/CSI/applications.html
+Information about CSI and the Krasnow Institute is available at
+http://csi.gmu.edu/ and http://www.gmu.edu/departments/krasnow/
+
+Application deadline for the fall 1999 term is March 1 1999.
+

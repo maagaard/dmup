@@ -1,0 +1,61 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Nov  3 01:00:43 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id BAA20224;
+	Wed, 3 Nov 1999 01:00:39 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa00810;
+          2 Nov 99 17:50 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa00775;
+          2 Nov 99 17:40 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02224;
+          2 Nov 99 17:40 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05350; 2 Nov 99 15:00 EST
+Received: from thalamus.fmed.ulaval.ca by cs.cmu.edu id aa14963;
+          2 Nov 99 15:00 EST
+Date: Tue, 2 Nov 99 14:57:40 EST
+From: Alain Destexhe <alain@fmed.ulaval.ca>
+Message-Id: <9911021957.AA25869@thalamus.fmed.ulaval.ca>
+To: connectionists@cs.cmu.edu
+Subject: postdoc position in computational neuroscience
+Cc: alain@fmed.ulaval.ca
+Status: RO
+X-Status: 
+
+POSTDOC POSITION AVAILABLE
+ 
+A postdoc position is available for a computational study of neocortical 
+pyramidal neurons in vivo.  This projet will be conducted in collaboration 
+between three laboratories, A. Destexhe (Laval University, Canada) for the 
+computational part, D. Pare (Laval University) and Y. Fregnac (CNRS, 
+Gif-sur-Yvette, France) for the experimental part.  The candidate will have 
+access to intracellular data from neocortical neurons in vivo, obtained
+in the two aforementioned labs.  The project is primarily modeling, but a
+participation to experiments is possible (to be discussed as a function of 
+the interests of the candidate).  The project will consist in reconstructing
+the morphology of intracellularly-recorded neurons using a Neuroclucida 
+system (available at Laval University).  The cellular morphologies will be 
+incorporated in the NEURON simulator, to design biophysical models that 
+will be matched precisely to the intracellular recordings.  Because models 
+and experimental data correspond to the same cellular morphologies, this 
+method will allow us to characterize various aspects of synaptic activity
+in vivo, and estimate its consequences on dendritic integration.  
+ 
+The candidate should have experience in computational modeling and a
+sufficient knowledge of electrophysiology.
+ 
+The salary will be paid by a grant from NIH, and is available right now 
+for a period of 3 years.
+ 
+Candidates should contact Alain Destexhe for more details
+ 
+--
+  Alain Destexhe
+  Department of Physiology
+  Laval University
+  Quebec G1K 7P4, Canada
+ 
+  Tel: (418) 656 5711
+  Fax: (418) 656 7898
+  email: alain@fmed.ulaval.ca
+  http://cns.fmed.ulaval.ca

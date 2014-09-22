@@ -1,0 +1,126 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Jul 20 20:56:47 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id UAA24244;
+	Mon, 20 Jul 1998 20:56:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13689;
+          20 Jul 98 12:24 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13686;
+          20 Jul 98 12:05 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03967;
+          20 Jul 98 12:05 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa06635; 20 Jul 98 3:51 EDT
+Received: from wiley.csusb.edu by EDRC.CMU.EDU id aa22998; 20 Jul 98 3:51:32 EDT
+Received: (from georgiou@localhost) by wiley.csusb.edu (8.8.5/8.6.11) id AAA23416; Mon, 20 Jul 1998 00:49:58 -0700 (PDT)
+Date: Mon, 20 Jul 1998 00:49:58 -0700 (PDT)
+Message-Id: <199807200749.AAA23416@wiley.csusb.edu>
+From: georgiou@wiley.csusb.edu
+To: connectionists@cs.cmu.edu
+Subject: ICCIN'98: Student funding available, deadline: August 1
+Status: RO
+X-Status: 
+
+		   3rd International Conference on
+
+	COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE (ICCIN'98)
+
+	     Sheraton Imperial Hotel & Convention Center
+		Research Triangle Park, North Carolina
+	  October 24-28, 1998 (Tutorials are on October 23)
+
+	 New Deadline for Student Paper Submissions: August 1
+		   ARO Financial Support Available
+
+The organizers of ICCIN '98 and the Joint Conference on Information
+Sciences are pleased to announce that the Mathematical and Computer
+Sciences Division of the Army Research Office has become a sponsor of
+JCIS'98. Registration and travel stipends for students with accepted
+papers to ICCIN '98 and JCIS'98 will be made available.
+
+To accommodate this late breaking good news, the deadline for student
+papers to ICCIN '98 and JCIS '98 will be extended to August 1,
+1998. All papers will undergo rapid peer review.  A student paper
+constitutes a paper with significant student involvement; it need not
+be a paper where the student is the first or primary author. For the
+purposes of this announcement, "students" include, but are not limited
+to grad students, post-docs and research fellows.
+
+Some funds may be available for students who wish to attend the
+conference but who do not present research findings.  However,
+preference will be given to those students actually presenting
+research findings on work in computational intelligence, neural
+networks, control and systems theory and other topics relevant to the
+JCIS '98.
+
+Students who have already submitted papers and would like to be
+considered for funding please send a note to georgiou@csci.csusb.edu .
+
+
+Conference Co-chairs:
+
+Subhash C. Kak, Louisiana State University
+Jeffrey P. Sutton, Harvard University
+
+Plenary Speakers include the following:
+
++-----------------------------------------------------------------------+
+|James Anderson   |Panos J. Antsaklis |John Baillieul  |Walter Freeman  |
+|-----------------+-------------------+----------------+----------------|
+|David Fogel      |Stephen Grossberg  |Stuart Hameroff |Yu Chi Ho       |
+|-----------------+-------------------+----------------+----------------|
+|Thomas S.Huang   |George J. Klir     |Teuvo Kohonen   |John Koza       |
+|-----------------+-------------------+----------------+----------------|
+|Richard G. Palmer|Zdzislaw Pawlak    |Karl Pribram    |Azriel Rosenfeld|
+|-----------------+-------------------+----------------+----------------|
+|Julius T. Tou    |I.Burhan Turksen   |Paul J. Werbos  |A.K.C.Wong      |
+|-----------------+-------------------+----------------+----------------|
+|Lotfi A. Zadeh   |Hans J.Zimmermann  |                |                |
++-----------------------------------------------------------------------+
+
+This conference is part of the Fourth Joint Conference Information
+Sciences.
+
+Areas for which papers are sought include:
+
+   o Artificial Life
+   o Artificially Intelligent NNs
+   o Associative Memory
+   o Cognitive Science
+   o Computational Intelligence
+   o Efficiency/Robustness Comparisons
+   o Evolutionary Computation for Neural Networks
+   o Feature Extraction & Pattern Recognition
+   o Implementations (electronic, Optical, Biochips)
+   o Intelligent Control
+   o Learning and Memory
+   o Neural Network Architectures
+   o Neurocognition
+   o Neurodynamics
+   o Neuro-Quantum Information Processing
+   o Optimization
+   o Parallel Computer Applications
+   o Quantum Neurocomputing
+   o Theory of Evolutionary Computation
+
+
+Papers will be accepted based on summaries. A summary shall not exceed 4 pages
+of 10-point font, double-column, single-spaced text, with figures and tables
+included. Required deposits and other information:
+http://www.ee.duke.edu/~gu/JCIS98/conf.html 
+
+Send 3 copies of summaries to:
+
+George M. Georgiou
+Computer Science Department
+California State University
+San Bernardino, CA 92407-2397
+U.S.A.
+georgiou@csci.csusb.edu
+
+Tutorial and other registration information can be found in the announcement
+of the Fourth Joint Conference Information Sciences:
+http://www.ee.duke.edu/~gu/JCIS98/
+
+
+ICCIN'98 Conference Web site: http://www.csci.csusb.edu/iccin

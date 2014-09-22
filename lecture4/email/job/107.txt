@@ -1,0 +1,72 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Apr 30 01:17:15 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA07204;
+	Fri, 30 Apr 1999 01:17:08 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18328;
+          29 Apr 99 16:59 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18326;
+          29 Apr 99 16:49 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18002;
+          29 Apr 99 16:49 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa21831; 29 Apr 99 3:47 EDT
+Received: from corpmail1.jps.net by EDRC.CMU.EDU id aa18991;
+          29 Apr 99 3:46:21 EDT
+Received: from default (209-239-217-102.lax.jps.net [209.239.217.102])
+	by corpmail1.jps.net (8.9.0/8.8.5) with SMTP id AAA17426
+	for <connectionists@cs.cmu.edu>; Thu, 29 Apr 1999 00:45:01 -0700 (PDT)
+Message-ID: <001a01be9212$58b86a20$66d9efd1@default>
+From: Peter Kalocsai <peter@biodiscovery.com>
+To: connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Job announcement
+Date: Thu, 29 Apr 1999 00:31:49 -0700
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+
+Data Mining Scientist
+
+BioDiscovery, Inc. is a leading gene expression image and data analysis
+firm with an outstanding client list and a progressive industry stance.
+We are an early-stage start-up company dedicated to the development of
+state-of-the-art bioinformatics software tools for molecular biology and
+genomics research. We are rapidly growing and are looking for talented
+individuals with experience and motivations to take on significant
+responsibility and deliver with minimal supervision. BioDiscovery is an
+equal opportunity employer and our shop has a friendly, fast paced
+atmosphere. We are headquartered in sunny Southern California close to
+the UCLA campus.
+
+We are looking for a talented, creative individual with a strong
+background in software development, mathematics, statistics, and pattern
+recognition. Knowledge of biology and genetics is a plus but not
+necessary. This position involves development and implementation of
+pattern recognition and data mining algorithms for a number of ongoing
+and planned projects. This position requires the ability to formulate
+problem descriptions through interaction with end-user scientist working
+in the various aspects of genomics. These technical issues must then be
+transformed into innovative and practical algorithmic solutions. We
+expect our scientists to have outstanding written/oral communication
+skills and encourage publications in scientific journals.
+
+Requirements:
+
+A Ph.D. in Computer Science, Electrical Engineering, Mathematics,
+Biostatistics, or related field, or equivalent experience is required.
+Knowledge of biology and genetics is a plus but not necessary.
+Experience with MatLab, JAVA, or at least 5 years programming
+experience.
+
+Please send resume and cover letter to: hr@biodiscovery.com
+
+----------------------------------------------
+Peter Kalocsai, Ph.D.
+BioDiscovery, Inc.
+11150 W. Olympic Blvd.
+Suite 805E
+Los Angeles, CA 90064
+Ph: (310) 966-9366
+Fax: (310) 966-9346
+E-mail: peter@biodiscovery.com

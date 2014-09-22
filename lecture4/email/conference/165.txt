@@ -1,0 +1,229 @@
+
+
+From ISIC99@ntu.edu.sg  Sat Oct 31 04:08:05 1998
+Received: from exchange1.ntu.edu.sg (exchange1.ntu.edu.sg [155.69.1.30])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id EAA04694
+	for <fnielsen@ei.dtu.dk>; Sat, 31 Oct 1998 04:07:58 +0100 (MET)
+Received: by EXCHANGE1 with Internet Mail Service (5.5.2232.9)
+	id <V783CZ0N>; Sat, 31 Oct 1998 11:04:49 +0800
+Message-ID: <30C163033B80D111A5E008002BB53BBA016CDADA@EXCHANGE1>
+From: ISIC99 <ISIC99@ntu.edu.sg>
+To: ISIC99 <ISIC99@ntu.edu.sg>
+Subject: ISIC-99: Call for papers
+Date: Sat, 31 Oct 1998 11:04:46 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2232.9)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Status: RO
+X-Status: 
+
+> ==========================================================================
+> ===================
+> 
+> We apology if you receive multiple copies of this email.
+> 
+> Should you wish not to receive any further message from ISIC-99, please
+> reply an email
+> stating that you would like your name to be removed from our distribution
+> list.
+> 
+> Best regards,
+> ISIC-99.
+> 
+> ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+> +++++++++++++++++++
+> 
+> FIRST CALL FOR PAPERS
+> =====================
+> 
+> ISIC-99:
+> 8TH INTERNATIONAL SYMPOSIUM ON INTEGRATED CIRCUITS, DEVICES & SYSTEMS
+> 
+> 8 - 10 September 1999
+> Grand Hyatt Singapore
+> 
+> ORGANIZERS:
+> School of Electrical & Electronic Engineering
+> Nanyang Technological University, Singapore
+> And
+> IEEE Singapore Section
+> 
+> SUPPORTED BY:
+> IEE Singapore Centre
+> 
+> THE SYMPOSIUM
+> The 8th International Symposium on Integrated Circuits, Devices and
+> Systems, ISIC-99, will be
+> held on 8-10 September 1999. This symposium provides a forum for
+> integrated circuit designers,
+> CAD developers, manufacturing engineers, and academics to present, share
+> and discuss new
+> research developments, future trends and innovative ideas. Keynote
+> addresses will be delivered
+> by Mark R. Pinto, Director, Silicon Electronics Research Laboratory, Bell
+> Laboratories, Lucent
+> Technologies; and Ingo Wolff, President, Institute of Mobile and Satellite
+> Communication
+> Techniques of Germany.
+> 
+> Papers are solicited in subject areas including but not limited to the
+> following:
+> 
+> A. INTEGRATED CIRCUITS
+> 1. Low-Power Low-Voltage IC
+> 2. Memories
+> 3. Mixed Signal Circuits
+> 4. RF IC  
+> 5. IC Interconnections
+> 6. Fault Tolerant Circuits
+> 7. IC Sensors and MEMs
+> 8. Switched Capacitor and Current Mode Circuits
+> 9. Multiple-Valued Logic Circuits
+> 
+> B. DEVICE AND IC TECHNOLOGY
+> 1. Device Physics and Modeling
+> 2. Scaling 
+> 3. Compound Semiconductor Devices
+> 4. SOI
+> 5. Testing and Yield Enhancement
+> 6. Process Simulation
+> 7. New Processes and Materials
+> 8. Reliability and Failure Analysis
+> 9. Assembly and Packaging
+> 
+> C. INTEGRATED SYSTEMS AND APPLICATIONS
+> 1. DSP ASIC
+> 2. AD/DA Converters
+> 3. Systems on a Chip
+> 4. Multi-Media IC
+> 5. Communication Integrated Circuits and Systems
+> 6. FPGA/CPLD Applications
+> 7. Neural Networks and Fuzzy Systems
+> 
+> D. DESIGN AUTOMATION
+> 1. Hardware Description Languages
+> 2. Logic and System Synthesis
+> 3. Simulation, Verification and Testability
+> 4. Mixed Mode Simulation
+> 5. AI Methodology
+> 6. MCM Layout
+> 
+> TUTORIAL SESSIONS
+> Tutorial sessions on RF IC Design and Systems, DSP IC Design, HDL for
+> Mixed Signal Design, 
+> and Dynamic Characterization of A/D Converters are planned on the first
+> day of the symposium.
+> Invitations are solicited for more tutorial topics of current interest.
+> Participants who wish
+> to contribute by giving tutorial sessions may submit proposals to the
+> Organizing Committee. 
+> Proposed topics of sufficient interest among the delegates will be
+> considered for the 
+> tutorials.
+> 
+> EXHIBITION
+> An exhibition of relevant equipment and systems will be held in
+> conjunction with the regular
+> sessions for paper presentations on the second and third day of the
+> symposium.
+> 
+> REGISTRATION FEE
+> Tutorial
+> 8 Sept. 1999
+> S$250 per session
+> Payment to be made by 15 June 1999
+> (Fee includes tutorial handout, lunch, tea breaks and 3% GST)
+> 
+> Symposium
+> 9 & 10 Sept. 1999
+> Early Bird: S$680 (Payment to be made by 15 June 1999)
+> Standard  : S$780 (Payment after 15 June 1999)
+> (Fee includes symposium proceedings, tea breaks, lunches, banquet and 3%
+> GST)
+> Exchange Rate : US$1 to S$1.7 (indicative)
+> 
+> IMPORTANT DATES
+> Submission of extended summary    : 31 March 1999
+> Notice of acceptance              : 30 April 1999 
+> Submission of camera-ready papers : 15 June 1999
+> 
+> SUBMISSION OF PAPERS
+> Authors are invited to submit three copies of an extended summary of not
+> more than 1000 words
+> and preferably with diagrams, illustrations and references by 31 March
+> 1999. Please send 
+> summary to:
+> 
+> ISIC-99 Secretariat
+> Nanyang Technological University
+> Conference Management Centre
+> Administration Annex #04-06
+> Nanyang Avenue
+> Singapore 639798
+> Republic of Singapore
+> Tel:   (65) 790-4723
+> Fax:   (65) 793-0997
+> Email: isic99@ntu.edu.sg
+> http:  //www.ntu.edu.sg/home/isic99/
+> 
+> INTERNATIONAL ADVISORY COMMITTEE
+> L Chan      Chartered Semiconductor Manufacturing
+> C Y Chang   National Chiao Tung University
+> Y C Jenq    Portland State University
+> Y C Liang   IEEE Singapore Section
+> K S Lock    IEE Singapore Section
+> M R Pinto   Lucent Technologies
+> M M Smith   Sematech
+> W Milne     Cambridge University
+> Y Takefuji  Keio University
+> H S Tan     Nanyang Technological University
+> C M Tang    Lucent Technologies
+> T L Tansley Macquarie University
+> I Wolff     Institute of Mobile and Satellite Communication Techniques
+> 
+> ORGANIZING COMMITTEE
+> Chairman                 Y C Tong
+> Co-Chairman              M A Do
+> Advisor                  M H Er
+> Secretary                P K Chan
+> Technical Program        S S Rofail
+> Publications & Publicity L S Ng
+> Finance                  D J Ho
+> Logistics                T H Ooi	
+> IEEE Liaison             M H Lim
+> 
+> ==========================================================================
+> ================
+> 
+> 8TH INTERNATIONAL SYMPOSIUM ON INTEGRATED CIRCUITS, DEVICES & SYSTEMS
+> (ISIC-99)
+> 8-10 September 1999, Grand Hyatt Singapore
+> 
+> Preliminary Registration
+> 
+> (	)	I intend to present a paper. The abstract is attached.
+> 		Subject Area / Category (e.g. A1, B2, etc.)
+> 	
+> ______________________________________________________________________
+>  
+> ______________________________________________________________________
+> 
+> (	)	I intend to attend the conference. Please send me further
+> details and the 
+>             registration form.
+> 
+> Family Name	 ____________________________________(Prof/Dr/Mr/Mrs/Ms)
+> Given Name   ____________________________________
+> Job Title	 ____________________________________
+> Organization ____________________________________
+> Address	 ____________________________________
+> 		 ____________________________________
+> Country	 ____________________________________   
+> Email        ____________________________________
+> Telephone	 ____________________________________
+> Fax          ____________________________________
+> 
+> ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+> +++++++++++++++++++f
+> 

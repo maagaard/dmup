@@ -1,0 +1,99 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Nov  2 05:02:03 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id FAA07289;
+	Mon, 2 Nov 1998 05:01:46 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19481;
+          1 Nov 98 21:10 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19479;
+          1 Nov 98 20:56 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20594;
+          1 Nov 98 20:55 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa23678; 1 Nov 98 17:23 EST
+Received: from purgatory.nj.nec.com by EDRC.CMU.EDU id aa16644;
+          1 Nov 98 17:22:47 EST
+Received: (from lawrence@localhost) by purgatory.nj.nec.com (8.8.5/8.6.9) id RAA19880 for connectionists@cs.cmu.edu; Sun, 1 Nov 1998 17:22:08 -0500
+Message-ID: <19981101172208.B19809@research.nj.nec.com>
+Date: Sun, 1 Nov 1998 17:22:08 -0500
+From: Steve Lawrence <lawrence@research.nj.nec.com>
+To: connectionists@cs.cmu.edu
+Subject: ------ Scientist/RA position in learning/information retrieval -------
+Mail-Followup-To: connectionists@cs.cmu.edu
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 0.93.1i
+Status: RO
+X-Status: 
+
+------ Scientist/RA position in learning/information retrieval -------
+
+The NEC Research Institute has an immediate opening for a
+Scientist/Research Associate in the area of learning and/or
+information retrieval. NEC Research Institute is a basic research
+laboratory located in Princeton, NJ, a short drive from Princeton
+University. For more information, see http://www.neci.nj.nec.com/
+
+This research focuses on basic issues in learning and information
+retrieval and dissemination, with an emphasis on the World Wide Web. A
+sample of recent research publications includes:
+
+S. Lawrence, C.L. Giles, Searching the World Wide Web, Science, 280,
+p. 98. 1998.
+
+S. Lawrence, C.L. Giles, Context and Page Analysis for Improved Web
+Search, IEEE Internet Computing, Volume 2, Number 4, pp. 38-46, 1998.
+
+C.L. Giles, K. Bollacker, S. Lawrence, CiteSeer: An Automatic Citation
+Indexing System, The 3rd ACM Conference on Digital Libraries, pp. 89-98, 
+1998 [shortlisted for best paper award].
+
+S. Lawrence, C.L. Giles, A.C. Tsoi, A.D. Back, Face Recognition: A
+Convolutional Neural Network Approach, IEEE Transactions on Neural
+Networks, 8, 1, pp. 98-113, 1997.
+
+S. Lawrence, A.D. Back, A.C. Tsoi, C.L. Giles, On the Distribution of
+Performance from Multiple Neural Network Trials, IEEE Transactions on
+Neural Networks, 8, 6, pp. 1507-1517, 1997.
+
+These and other papers are available from:
+http://www.neci.nj.nec.com/homepages/lawrence/
+
+See also:
+http://www.neci.nj.nec.com/homepages/lawrence/citeseer.html
+http://www.neci.nj.nec.com/homepages/lawrence/websize.html
+
+Candidates must have experience in research and be able to effectively
+communicate research results through publications. Successful
+candidates will have experience with information retrieval and/or
+machine learning (e.g. neural networks). Proficiency with Unix/Linux
+and the software implementation of algorithms is a must. Tasks will
+also involve code maintenance, modification and enhancement as
+required by the research program.
+
+The Institute provides an outstanding research environment with many
+recognized experts and excellent resources plus a competitive salary
+and a strong emphasis on open publication of results. The successful
+candidate will combine a genuine desire to excel in research with the
+above attributes.
+
+Interested applicants should send their resumes with names of
+references by email, mail or fax to:
+                                                                    
+Dr. Steve Lawrence
+Computer Science
+NEC Research Institute
+4 Independence Way
+Princeton NJ 08540
+
+Phone: (609) 951 2676
+Fax: (609) 951 2482
+lawrence@research.nj.nec.com 
+http://www.neci.nj.nec.com/homepages/lawrence/
+
+The position will remain open until filled. Applicants must show
+documentation of eligibility for employment. NEC is an equal
+opportunity employer. EOE
+
+-- 
+Steve Lawrence - http://www.neci.nj.nec.com/homepages/lawrence/

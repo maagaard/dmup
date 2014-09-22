@@ -1,0 +1,77 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Mar  6 04:37:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA27592;
+	Sat, 6 Mar 1999 04:37:19 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12576;
+          5 Mar 99 21:22 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12574;
+          5 Mar 99 21:12 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27053;
+          5 Mar 99 21:11 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa07082; 5 Mar 99 7:19 EST
+Received: from serenity.mcc.ac.uk by EDRC.CMU.EDU id aa11207;
+          5 Mar 99 7:18:40 EST
+Received: from pw1.mt.umist.ac.uk ([130.88.125.194])
+	by serenity.mcc.ac.uk with esmtp (Exim 1.92 #2)
+	for Connectionists@CS.CMU.EDU
+	id 10ItSM-0002EK-00; Fri, 5 Mar 1999 12:11:55 +0000
+Message-Id: <l0313030db30566c90513@[130.88.125.194]>
+Date: Fri, 5 Mar 1999 11:51:27 +0100
+To: Connectionists@CS.cmu.edu
+From: Philip Withers <mblsspw2@fs2.mt.umist.ac.uk>
+Subject: postdoc position: Neural Network Modelling of Al Rolling Process/Property Relationships
+Status: RO
+X-Status: 
+
+Hello!
+    I am intereseted in gaussian process and recurrent neural network
+models.  I have a Post-doctoral position available here in manchester, Uk
+to work on applied materials problems.
+
+The successful applicant should have a mathematical, physics or engineering
+background.  Details are attached.  If you know of anyone interested please
+feel free to pass this information on.
+  thank you
+      Prof Phil Withers
+
+
+     THE UNIVERSITY OF MANCHESTER
+
+     MANCHESTER MATERIALS SCIENCE CENTRE
+
+     RESEARCH ASSOCIATE
+
+     Neural Network Modelling of Al Rolling Process/Property Relationships.
+
+     Applications are invited for a physicist, mathematician, materials
+     scientist or engineer to take up a two year post doctoral research
+     fellowship in collaboration with ALCAN International, Banbury,
+     Oxfordshire.  Experience of mathematical modelling and/or materials
+     science and engineering and a keenness to work on applied problems an
+     advantage.  The Materials Science Centre in Manchester received the
+     highest research assessment grade and has world class expertise in
+     light alloys.
+
+     A second post focusing on the finite element modelling of friction
+     welding of aerospace components and the measurement of stresses by
+     neutron diffraction is also expected to become available shortly.
+     Modelling and/or materials science and engineering experience advantageous.
+
+     Salaries for the above posts will be in the range of #17570 to #21815
+     p.a. according to qualifications and experience.  For informal
+     enquiries please contact Professor P J Withers at the Manchester 
+     Materials Science Centre, Grosvenor Street, Manchester, M1 7HS UK or
+     philip.withers@man.ac.uk  For further details and an application form
+     please contact Office of the Director of Personnel, The University of
+     Manchester, Oxford Road, Manchester, M13 9PL.  Tel: 0161 275 2028,
+     Fax: 0161 275 2221/2471, Minicom: 0161 275 7889, email:
+     personnel@man.ac.uk  Web Site: http://www.man.ac.uk  Please quote ref
+     030/99.
+
+***********************************************************************
+Prof. P.J. Withers
+Manchester Materials Science Centre, Grosvenor St, Manchester, M1 7HS
+Tel. (0)161 200 8872           Fax (0)161 200 3636 or 3586
+philip.withers@man.ac.uk

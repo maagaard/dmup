@@ -1,0 +1,196 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk Mon Feb 23 12:19:23 MET 1998
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) id MAA25987
+	for dspstaff-list; Mon, 23 Feb 1998 12:19:09 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from localhost (jaas@localhost)
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id LAA25909
+	for <dspstaff@eivind.imm.dtu.dk>; Mon, 23 Feb 1998 11:51:41 +0100 (MET)
+Date: Mon, 23 Feb 1998 11:51:40 +0100 (MET)
+From: John Aasted Sorensen <jaas@eivind.imm.dtu.dk>
+To: dspstaff@eivind.imm.dtu.dk
+Subject: [DSPSTAFF] Multimedia ASI (fwd)
+Message-ID: <Pine.HPP.3.95.980223115128.25129D-100000@eivind.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by eivind.imm.dtu.dk id MAA25984
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+
+
+---------- Forwarded message ----------
+Date: Mon, 23 Feb 1998 11:40:39 +0100
+From: Soeren Holdt Jensen <shj@cpk.auc.dk>
+To: jaas@imm.dtu.dk, pd@cpk.auc.dk
+Subject: Multimedia ASI
+
+
+Hej,
+jeg har i min egenskab af formand for IEEE DK Sec. Signal Processing Chapter
+modtaget flg. email fra Jan Biemond. Vil I videresprede den til relevante
+personer omkring jer?
+
+--Søren
+
+------------- Begin Forwarded Message -------------
+
+>From owner-sp-chapter-chairs@majordomo.ieee.org Mon Feb 23 11:20:43 1998
+Envelope-to: shj@kom.auc.dk
+Delivery-date: Mon, 23 Feb 1998 11:20:43 +0100
+Date: Mon, 23 Feb 98 10:52:46 +0100
+X-Sender: biemond@duteinh.et.tudelft.nl
+Mime-Version: 1.0
+To: SP.chapter.chairs@ieee.org
+From: Advanced Study Institute <asi@cs.umb.edu> (by way of 
+j.biemond@et.tudelft.nl (Jan Biemond))
+Subject: Multimedia ASI
+X-Resent-To: Multiple Recipients <sp-chapter-chairs@majordomo.ieee.org>
+X-Listname: sp-chapter-chairs
+X-Info: Help requests to  sp-chapter-chairs-request@majordomo.ieee.org
+X-Info: [Un]Subscribe requests to  majordomo@majordomo.ieee.org
+X-Moderator-Address: sp-chapter-chairs-approval@majordomo.ieee.org
+
+		       CALL FOR PARTICIPATION
+
+NATO Advanced Study Institute on "Signal Processing for Multimedia"
+
+                           5-18 July 1998
+              Il Ciocco Resort Hotel, Tuscany, Italy
+
+
+Advances in signal processing and applied mathematics, with the common
+aim of improved multimedia performance, are continuing. There is a need
+to promote further interaction between these two intimately related
+disciplines, in order to ensure that young scientists in each area are
+aware of activity in the other, and to see that opportunities for
+significant co-developments are not missed. A major purpose of this ASI
+will be to effect such interaction.
+
+The two week tutorial program will be presented by the following
+distinguished lecturers:
+
+  Les Atlas, University of Washington
+    "Representing variations in acoustic signals for military and
+    speech applications"
+
+  John Benedetto, University of Maryland
+    "Mathematics for multimedia signal processing, I"
+
+  Jan Biemond, Delft University of Technology, The Netherlands
+    "Video processing"
+
+  Ezio Biglieri, Politecnico di Torino, Italy
+    "Digital communication over the wireless channel, today and
+    tomorrow"
+
+  Jim Byrnes, Prometheus Inc. and University of Massachusetts/Boston
+    "Energy spreading transforms for robust data compression and
+    transmission"
+
+  Pierre Duhamel, ENST, France
+    "Joint source-channel coding"
+
+  Paulo Ferreira, Universidade de Aveiro, Portugal
+    "Mathematics for multimedia signal processing, II"
+    and
+    "Interpolation methods applied to telecommunication problems"
+
+  Stephane Jaffard, University of Paris XII, France
+    "Analysis of multifractal signals"
+
+  Vasilis Mertzios, Democritus University of Thrace, Greece
+    "Pattern recognition"
+    and
+    "Applications of pattern recognition to telemedicine and
+    human-machine interaction"
+
+  Stig Mjolsnes, Norwegian University of Science and Technology, Norway
+    "Secure digital payments and other internet commercial
+    transactions"
+
+  Peter Noll, Technische Universitaet Berlin, Germany
+    "Wideband audio"
+
+  Tor Ramstad, Norwegian University of Science and Technology, Norway
+    "Robust image and video communication for mobile multimedia"
+    and
+    "Mobile multimedia"
+
+  Manfred Schroeder, Universitaet Goettingen, Germany
+    "Speech processing"
+
+  Thomas Sikora, Heinrich Hertz Institut, Berlin, Germany
+    "Standards for multimedia"
+
+  Andy Tescher, Lockheed Martin
+    "An overview of signal processing for multimedia, from the
+    past to the future"
+
+  Bruno Torresani, Centre de Physique Theorique, Marseille, France
+    "Time-frequency and time-scale transforms"
+
+
+All talks will be designed to address an audience which will consist of
+a broad spectrum of signal processing engineers and mathematicians
+involved in these fields. Thus, the participants will have the
+opportunity to interact with those individuals who have been on the
+forefront of the tremendous expansion in multimedia signal processing in
+recent years, to learn firsthand the basics of this exciting area, and
+to hear these experts discuss in accessible terms their contributions
+and ideas for future research.
+
+WHO CAN ATTEND
+Scientists and/or research students of all nationalities, who have
+either specialized in the field or who have an appropriate advanced
+scientific background. Attendance is limited to 85 besides the 15
+lecturers and is subject to approval of application.
+
+WHERE TO SEND YOUR APPLICATION
+Both to participate and to request financial support, you must apply to
+the Director, Jim Byrnes, via email: asi@cs.umb.edu (please send plain
+(ASCII) text only).
+
+WHAT TO SEND
+There are two possibilities based on your situation: 
+1. If one of the lecturers knows you, (see the lecture schedule) please
+ask them to write a very brief recommendation and email it to the
+Director. 
+2. If none of the lecturers knows you please email to the Director: a
+one-paragraph description of yourself, a one-paragraph explanation of
+why you would like to attend, and a statement that you intend to 
+participate for the full two weeks.
+
+In addition, if you would like to be considered for a poster session
+presentation, please send a proposed title and a brief abstract,
+
+BY WHEN TO SEND IT
+Send applications to participate and for financial aid as well as
+particulars of proposed poster presentations by March 15, 1998. 
+
+WHEN YOU WILL KNOW OUR DECISION
+We will email our decisions to you by March 31, 1998.
+
+
+Further information about the meeting is available on the Worldwide Web
+at http://www.cs.umb.edu/~asi/
+
+Please forward this announcement to any of your colleagues who could
+benefit from this ASI.
+
+If you or your institution are interested in demonstrating your technology
+at the ASI, or in becoming an ASI sponsor, please contact the ASI director
+(asi@cs.umb..edu)
+
+
+
+
+------------- End Forwarded Message -------------
+
+

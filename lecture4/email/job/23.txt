@@ -1,0 +1,673 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Nov 11 04:10:54 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA23524;
+	Wed, 11 Nov 1998 04:10:46 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15913;
+          10 Nov 98 14:56 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15869;
+          10 Nov 98 14:32 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa13106;
+          10 Nov 98 14:31 EST
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa02789;
+          9 Nov 98 17:59 EST
+Received: from CNS.BU.EDU by MM.GP.CS.CMU.EDU id aa08926; 9 Nov 98 17:58:14 EST
+Received: (from majordomo@localhost)
+	by cns.bu.edu ((8.8.8.buoit.v1.0)/8.8.8/(BU-S-10/08/98-v1.0)) id PAA10937
+	for announcements-list; Mon, 9 Nov 1998 15:00:36 -0500 (EST)
+Date: Mon, 9 Nov 1998 15:00:36 -0500 (EST)
+From: cas-cns@cns.bu.edu
+Message-Id: <199811092000.PAA10937@cns.bu.edu>
+Status: RO
+X-Status: 
+
+*******************************************************************
+Sender: cas-cns@cns.bu.edu
+Precedence: bulk
+Reply-To: cas-cns@cns.bu.edu
+
+                                        GRADUATE TRAINING IN THE
+                DEPARTMENT OF COGNITIVE AND NEURAL SYSTEMS (CNS)
+                                        AT BOSTON UNIVERSITY
+
+*******************************************************************
+
+The Boston University Department of Cognitive and Neural Systems
+offers comprehensive graduate training in the neural and computational
+principles, mechanisms, and architectures that underlie human and
+animal behavior, and the application of neural network architectures
+to the solution of technological problems.
+
+Applications for Fall, 1999, admission and financial aid are now being
+accepted for both the MA and PhD degree programs.
+
+To obtain a brochure describing the CNS Program and a set of application
+materials, write, telephone, or fax:
+
+DEPARTMENT OF COGNITIVE AND NEURAL SYSTEMS
+Boston University
+677 Beacon Street
+Boston, MA 02215
+
+617/353-9481 (phone)
+617/353-7755 (fax)
+
+or send via e-mail your full name and mailing address to the attention
+of Mr. Robin Amos at:
+                        
+                                                inquiries@cns.bu.edu
+                                        
+Applications for admission and financial aid should be received by the
+Graduate School Admissions Office no later than January 15.  Late
+applications will be considered until May 1; after that date
+applications will be considered only as special cases.
+
+Applicants are required to submit undergraduate (and, if applicable,
+graduate) transcripts, three letters of recommendation, and Graduate
+Record Examination (GRE) scores. The Advanced Test should be in the
+candidate's area of departmental specialization. GRE scores may be
+waived for MA candidates and, in exceptional cases, for PhD
+candidates, but absence of these scores will decrease an applicant's
+chances for admission and financial aid.
+
+Non-degree students may also enroll in CNS courses on a part-time
+basis.
+
+Stephen Grossberg, Chairman
+Gail A. Carpenter, Director of Graduate Studies
+
+Description of the CNS Department:
+
+The Department of Cognitive and Neural Systems (CNS) provides
+advanced training and research experience for graduate students
+interested in the neural and computational principles,
+mechanisms, and architectures that underlie human and animal
+behavior, and the application of neural network architectures to
+the solution of outstanding technological problems. Students are
+trained in a broad range of areas concerning cognitive and
+neural systems, including vision and image processing; speech
+and language understanding; adaptive pattern recognition;
+cognitive information processing; self-organization; associative
+learning and long-term memory; cooperative and competitive
+network dynamics and short-term memory; reinforcement,
+motivation, and attention; adaptive sensory-motor control and
+robotics; and biological rhythms; as well as the mathematical
+and computational methods needed to support modeling research
+and applications. The CNS Department awards MA, PhD, and BA/MA
+degrees.
+
+The CNS Department embodies a number of unique features. It has
+developed a curriculum that consists of interdisciplinary
+graduate courses, each of which integrates the psychological,
+neurobiological, mathematical, and computational information
+needed to theoretically investigate fundamental issues
+concerning mind and brain processes and the applications of
+neural networks to technology. Additional advanced courses,
+including research seminars, are also offered. Each course is
+typically taught once a week in the afternoon or evening to make
+the program available to qualified students, including working
+professionals, throughout the Boston area. Students develop a
+coherent area of expertise by designing a program that includes
+courses in areas such as biology, computer science, engineering,
+mathematics, and psychology, in addition to courses in the CNS
+curriculum.
+
+The CNS Department prepares students for thesis research with
+scientists in one of several Boston University research centers
+or groups, and with Boston-area scientists collaborating with
+these centers. The unit most closely linked to the department is
+the Center for Adaptive Systems.  Students interested in neural
+network hardware work with researchers in CNS, at the College
+of Engineering, and at MIT Lincoln Laboratory.  Other research
+resources include distinguished research groups in neurophysiology,
+neuroanatomy, and neuropharmacology at the Medical School and
+the Charles River Campus; in sensory robotics, biomedical
+engineering, computer and systems engineering, and neuromuscular
+research within the College of Engineering; in dynamical systems
+within the Mathematics Department; in theoretical computer science
+within the Computer Science Department; and in biophysics and
+computational physics within the Physics Department.
+
+In addition to its basic research and training program, the
+department conducts a seminar series, as well as conferences and
+symposia, which bring together distinguished scientists from
+both experimental and theoretical disciplines.
+
+The department is housed in its own new four-story building
+which includes ample space for faculty and student offices and
+laboratories, as well as an auditorium, classroom and seminar
+rooms, a library, and a faculty-student lounge.
+
+Below are listed departmental faculty, courses and labs.
+
+
+FACULTY AND STAFF OF THE DEPARTMENT OF COGNITIVE AND NEURAL
+SYSTEMS AND CENTER FOR ADAPTIVE SYSTEMS
+
+Thomas Anastasio
+Visiting Scholar, Department of Cognitive and Neural Systems
+(9/1/98 - 6/30/99)
+Associate Professor, Molecular & Integrative Physiology, University
+of Illinois, Urbana/Champaign
+PhD, McGill University
+Computational modeling of neurophysiological systems.
+
+Jelle Atema
+Professor of Biology
+Director, Boston University Marine Program (BUMP)
+PhD, University of Michigan
+Sensory physiology and behavior.
+
+Aijaz Baloch
+Adjunct Assistant Professor of Cognitive and Neural Systems
+Senior Development Engineer, Nestor, Inc.
+PhD, Electrical Engineering, Boston University
+Visual motion perception, computational vision, adaptive control,
+and financial fraud detection.
+
+Helen Barbas
+Professor of Anatomy and Neurobiology, Boston Univ. School of Medicine
+PhD, Physiology/Neurophysiology, McGill University
+Organization of the prefrontal cortex, evolution of the neocortex.
+
+Jacob Beck
+Research Professor of Cognitive and Neural Systems
+PhD, Psychology, Cornell University
+Visual perception, psychophysics, computational models.
+
+Daniel H. Bullock
+Associate Professor of Cognitive and Neural Systems, and Psychology
+PhD, Experimental Psychology, Stanford University
+Sensory-motor performance and learning, voluntary control of
+action, serial order and timing, cognitive development.
+
+Gail A. Carpenter
+Professor of Cognitive and Neural Systems and Mathematics
+Director of Graduate Studies, Department of Cognitive and Neural Systems
+PhD, Mathematics, University of Wisconsin, Madison
+Learning and memory, synaptic processes, pattern recognition,
+remote sensing, medical database analysis, machine learning,
+differential equations.
+
+Gert Cauwenberghs
+Visiting Scholar, Department of Cognitive and Neural Systems (6/1/98 - 8/31/99)
+Associate Professor of Electrical And Computer Engineering, Johns Hopkins Univ.
+PhD, Electrical Engineering, California Institute of Technology
+VLSI circuits, systems and algorithms for parallel analog signal
+processing and adaptive neural computation.
+
+Laird Cermak
+Director, Memory Disorders Research Center, Boston Veterans Affairs
+Medical Center
+Professor of Neuropsychology, School of Medicine
+Professor of Occupational Therapy, Sargent College
+PhD, Ohio State University
+Memory disorders.
+
+Michael A. Cohen
+Associate Professor of Cognitive and Neural Systems and Computer Science
+PhD, Psychology, Harvard University
+Speech and language processing, measurement theory, neural
+modeling, dynamical systems.
+
+H. Steven Colburn
+Professor of Biomedical Engineering
+PhD, Electrical Engineering, Massachusetts Institute of Technology
+Audition, binaural interaction, signal processing models of hearing.
+
+Birgitta Dresp
+Visiting Scholar, Department of Cognitive and Neural Systems (10/1/98 -
+12/31/98)
+Research Agent of the French Government (CNRS), Universite Louis Pasteur
+PhD in Cognitive Psychology, Universite Rene Descartes, Paris
+Visual Psychophysics (Form Perception, Spatial Contrast, Perceptual Learning).
+
+Howard Eichenbaum
+Professor of Psychology
+PhD, Psychology, University of Michigan
+Neurophysiological studies of how the hippocampal system mediates
+declarative memory.
+
+William D. Eldred III
+Professor of Biology
+PhD, University of Colorado, Health Science Center
+Visual neuralbiology.
+
+Gil Engel
+Research Fellow, Department of Cognitive and Neural Systems
+Chief Engineer, Vision Applications, Inc.
+Senior Design Engineer, Analog Devices, CTS Division
+MS, Polytechnic University, New York
+Space-variant active vision systems for use in human-computer
+interactive control.
+
+Bruce Fischl
+Research Fellow, Department of Cognitive and Neural Systems
+Postdoctoral Research Fellow, Massachusetts General Hospital
+PhD, Cognitive and Neural Systems, Boston University
+Anisotropic diffusion and nonlinear image filtering,
+space-variant vision, computational models of early visual
+processing, and automated analysis of magnetic resonance images.
+
+Paolo Gaudiano
+Associate Professor of Cognitive and Neural Systems
+PhD, Cognitive and Neural Systems, Boston University
+Computational and neural models of robotics, vision, adaptive
+sensory-motor control, and behavioral neurobiology.
+
+Jean Berko Gleason
+Professor of Psychology
+PhD, Harvard University
+Psycholinguistics.
+
+Sucharita Gopal
+Associate Professor of Geography
+PhD, University of California at Santa Barbara
+Neural networks, computational modeling of behavior, geographical
+information systems, fuzzy sets, and spatial cognition.
+
+Stephen Grossberg
+Wang Professor of Cognitive and Neural Systems
+Professor of Mathematics, Psychology, and Biomedical Engineering
+Chairman, Department of Cognitive and Neural Systems
+Director, Center for Adaptive Systems
+PhD, Mathematics, Rockefeller University
+Theoretical biology, theoretical psychology, dynamical systems,
+and applied mathematics.
+
+Frank Guenther
+Associate Professor of Cognitive and Neural Systems
+PhD, Cognitive and Neural Systems, Boston University
+MSE, Electrical Engineering, Princeton University
+Speech production, speech perception, and biological
+sensory-motor control.
+
+Catherine L. Harris
+Assistant Professor of Psychology
+PhD, Cognitive Science and Psychology, University of California
+at San Diego
+Visual word recognition, psycholinguistics, cognitive semantics,
+second language acquisition, computational models of cognition.
+
+Michael E. Hasselmo
+Associate Professor of Psychology
+PhD, Experimental Psychology, Oxford University
+Electrophysiological studies of neuromodulatory effects in
+cortical structures, network biophysical simulations of memory
+function in hippocampus and piriform cortex, behavioral studies
+of amnestic drugs.
+
+Thomas G. Kincaid
+Professor of Electrical, Computer and Systems Engineering, College
+of Engineering
+PhD, Electrical Engineering, Massachusetts Institute of Technology
+Signal and image processing, neural networks, non-destructive testing.
+
+Mark Kon
+Professor of Mathematics
+PhD, Massachusetts Institute of Technology
+Functional analysis, mathematical physics, partial differential
+equations.
+
+Nancy Kopell
+Professor of Mathematics
+PhD, Mathematics, University of California at Berkeley
+Dynamical systems, mathematical physiology, pattern formation in
+biological/physical systems.
+
+Gregory Lesher
+Research Fellow, Department of Cognitive and Neural Systems
+PhD, Cognitive and Neural Systems, Boston University
+
+Jacqueline A. Liederman
+Associate Professor of Psychology
+PhD, Psychology, University of Rochester
+Dynamics of interhemispheric cooperation; prenatal correlates of neuro-
+developmental disorders.
+
+Ennio Mingolla
+Associate Professor of Cognitive and Neural Systems and Psychology
+PhD, Psychology, University of Connecticut
+Visual perception, mathematical modeling of visual processes.
+
+Joseph Perkell
+Adjunct Professor of Cognitive and Neural Systems
+Senior Research Scientist, Research Lab of Electronics and Department
+of Brain and Cognitive Sciences, Massachusetts Institute of Technology
+PhD, Massachusetts Institute of Technology
+Motor control of speech production.
+
+Alan Peters
+Professor of Anatomy and Neurobiology, School of Medicine
+PhD, Zoology, Bristol University, United Kingdom
+Organization of neurons in the cerebral cortex; effects of aging on the
+primate brain; fine structure of the nervous system.
+
+Andrzej Przybyszewski
+Research Fellow, Department of Cognitive and Neural Systems
+Assistant Professor, University of Massachusetts Medical School
+PhD, Warsaw Medical Academy
+Electrophysiology of the primate visual system, mathematical and
+computer modeling of the neuronal networks in the visual system.
+
+Adam Reeves
+Adjunct Professor of Cognitive and Neural Systems
+Professor of Psychology, Northeastern University
+PhD, Psychology, City University of New York
+Psychophysics, cognitive psychology, vision.
+
+Mark Reinitz
+Assistant Professor of Psychology
+PhD, University of Washington
+Cognitive psychology, attention, explicit and implicit memory,
+memory-perception interactions.
+
+Mark Rubin
+Research Assistant Professor of Cognitive and Neural Systems
+PhD, Physics, University of Chicago
+Pattern recognition; artificial and biological vision.
+
+Elliot Saltzman
+Associate Professor of Physical Therapy, Sargent College
+Assistant Professor, Department of Psychology
+and Center for the Ecological Study of Perception and Action
+University of Connecticut, Storrs
+Research Scientist, Haskins Laboratories, New Haven, CT
+PhD, Developmental Psychology, University of Minnesota
+Modeling and experimental studies of human sensorimotor control and
+coordination of the limbs and speech articulators, focusing on issues
+of timing in skilled activities.
+
+Robert Savoy
+Adjunct Associate Professor of Cognitive and Neural Systems
+Scientist, Rowland Institute for Science
+Experimental Psychologist, Massachusetts General Hospital
+PhD, Experimental Psychology, Harvard University
+Computational neuroscience; visual psychophysics of color, form, and
+motion perception.  Teaching about functional MRI and other brain
+mapping methods.
+
+Eric Schwartz
+Professor of Cognitive and Neural Systems; Electrical, Computer and
+Systems Engineering; and Anatomy and Neurobiology
+PhD, High Energy Physics, Columbia University
+Computational neuroscience, machine vision, neuroanatomy, neural
+modeling.
+
+Robert Sekuler
+Adjunct Professor of Cognitive and Neural Systems
+Research Professor of Biomedical Engineering, College of Engineering,
+BioMolecular Engineering Research Center
+Jesse and Louis Salvage Professor of Psychology, Brandeis University
+PhD, Psychology, Brown University
+Visual motion, visual adaptation, relation of visual perception, memory,
+and movement.
+
+Barbara Shinn-Cunningham
+Assistant Professor of Cognitive and Neural Systems and Biomedical
+Engineering
+PhD, Electrical Engineering and Computer Science, Massachusetts
+Institute of Technology
+Psychoacoustics, audition, auditory localization, binaural hearing, sensori-
+motor adaptation, mathematical models of human performance.
+
+Malvin Teich
+Professor of Electrical and Computer Engineering, Biomedical
+Engineering, and Physics
+PhD, Cornell University
+Quantum optics and imaging, photonics, wavelets and fractal stochastic
+processes, biological signal processing and information transmission.
+
+Lucia Vaina
+Professor of Biomedical Engineering
+Research Professor of Neurology, School of Medicine
+PhD, Sorbonne (France); Dres Science, National Politechnique Institute,
+Toulouse (France)
+Computational visual neuroscience, biological and computational learning,
+functional and structural neuroimaging.
+
+Takeo Watanabe
+Associate Professor of Psychology
+PhD, Behavioral Sciences, University of Tokyo
+Perception of objects and motion and effects of attention on perception
+using psychophysics and brain imaging (f-MRI).
+
+Allen Waxman
+Adjunct Associate Professor of Cognitive and Neural Systems
+Senior Staff Scientist, MIT Lincoln Laboratory
+PhD, Astrophysics, University of Chicago
+Visual system modeling, multisensor fusion, image mining, parallel
+computing, and advanced visualization.
+
+James Williamson
+Research Assistant Professor of Cognitive and Neural Systems
+PhD, Cognitive and Neural Systems, Boston University
+Development of cortical receptive fields; perceptual grouping; pattern
+recognition.
+
+Jeremy Wolfe
+Adjunct Associate Professor of Cognitive and Neural Systems
+Associate Professor of Ophthalmology, Harvard Medical School
+Psychophysicist, Brigham & Women's Hospital, Surgery Dept.
+Director of Psychophysical Studies, Center for Clinical Cataract Research
+PhD, Massachusetts Institute of Technology
+Visual attention, preattentive and attentive object representation.
+
+Curtis Woodcock
+Professor of Geography
+Director, Geographic Applications, Center for Remote Sensing
+PhD, University of California, Santa Barbara
+Biophysical remote sensing, particularly of forests and natural vegetation,
+canopy reflectance models and their inversion, spatial modeling, and
+change detection; biogeography; spatial analysis; geographic information
+systems; digital image processing.
+
+
+CNS DEPARTMENT COURSE OFFERINGS
+
+CAS CN500  Computational Methods in Cognitive and Neural Systems
+CAS CN510  Principles and Methods of Cognitive and Neural Modeling I
+CAS CN520  Principles and Methods of Cognitive and Neural Modeling II
+CAS CN530  Neural and Computational Models of Vision
+CAS CN540  Neural and Computational Models of Adaptive Movement Planning
+                        and Control
+CAS CN550  Neural and Computational Models of Recognition, Memory and
+Attention
+CAS CN560  Neural and Computational Models of Speech Perception and Production
+CAS CN570  Neural and Computational Models of Conditioning, Reinforcement,
+                        Motivation and Rhythm
+CAS CN580  Introduction to Computational Neuroscience
+GRS CN700  Computational and Mathematical Methods in Neural Modeling
+GRS CN710  Advanced Topics in Neural Modeling
+GRS CN720  Neural and Computational Models of Planning and Temporal Structure
+                        in Behavior
+GRS CN730  Models of Visual Perception
+GRS CN740  Topics in Sensory-Motor Control
+GRS CN760  Topics in Speech Perception and Recognition
+GRS CN780  Topics in Computational Neuroscience
+GRS CN810  Topics in Cognitive and Neural Systems: Visual Event Perception
+GRS CN811  Topics in Cognitive and Neural Systems: Visual Perception
+
+GRS CN911,912
+Research in Neural Networks for Adaptive Pattern Recognition
+
+GRS CN915,916
+Research in Neural Networks for Vision and Image Processing
+
+GRS CN921,922
+Research in Neural Networks for Speech and Language Processing
+
+GRS CN925,926
+Research in Neural Networks for Adaptive Sensory-Motor Planning
+and Control
+
+GRS CN931,932
+Research in Neural Networks for Conditioning and Reinforcement Learning
+
+GRS CN935,936
+Research in Neural Networks for Cognitive Information Processing
+
+GRS CN941,942
+Research in Nonlinear Dynamics of Neural Networks
+
+GRS CN945,946
+Research in Technological Applications of Neural Networks
+
+GRS CN951,952
+Research in Hardware Implementations of Neural Networks
+
+CNS students also take a wide variety of courses in related departments.
+In addition, students participate in a weekly colloquium series, an informal
+lecture series, and a student-run Journal Club, and attend lectures and
+meetings
+throughout the Boston area; and advanced students work in small research
+groups.
+
+
+LABORATORY AND COMPUTER FACILITIES
+
+The department is funded by grants and contracts from federal
+agencies that support research in life sciences, mathematics,
+artificial intelligence, and engineering. Facilities include
+laboratories for experimental research and computational
+modeling in visual perception, speech and language processing,
+and sensory-motor control and robotics. Data analysis and
+numerical simulations are carried out on a state-of-the-art
+computer network comprised of Sun workstations, Silicon Graphics
+workstations, Macintoshes, and PCs.  All students have access to
+X-terminals or UNIX workstation consoles, a selection of color
+systems and PCs, a network of SGI machines, and standard modeling
+and mathematical simulation packages such as Mathematica, VisSim,
+Khoros, and Matlab.
+
+The department maintains a core collection of books and
+journals, and has access both to the Boston University libraries
+and to the many other collections of the Boston Library
+Consortium.
+
+In addition, several specialized facilities and software are
+available for use.  These include:
+
+Computer Vision/Computational Neuroscience Laboratory
+
+The Computer Vision/Computational Neuroscience Lab is comprised
+of an electronics workshop, including a surface-mount
+workstation, PCD fabrication tools, and an Alterra EPLD design
+system; a light machine shop; an active vision lab including
+actuators and video hardware; and systems for computer aided
+neuroanatomy and application of computer graphics and image
+processing to brain sections and MRI images.
+
+Neurobotics Laboratory
+
+The Neurobotics Lab utilizes wheeled mobile robots to study
+potential applications of neural networks in several areas,
+including adaptive dynamics and kinematics, obstacle avoidance,
+path planning and navigation, visual object recognition, and
+conditioning and motivation. The lab currently has three Pioneer
+robots equipped with sonar and visual sensors; one B-14 robot
+with a moveable camera, sonars, infrared, and bump sensors; and
+two Khepera miniature robots with infrared proximity detectors.
+Other platforms may be investigated in the future.
+
+Psychoacoustics Laboratory
+
+The Psychoacoustics Lab houses a newly installed, 8 ft. x 8 ft.
+sound-proof booth.  The laboratory is  extensively equipped to
+perform both traditional psychoacoustic experiments and
+experiments using interactive auditory virtual-reality stimuli.
+The major equipment dedicated to the psychoacoustics laboratory
+includes two Pentium-based personal computers; two
+Power-PC-based Macintosh computers; a 50-MHz array processor
+capable of generating auditory stimuli in real time;
+programmable attenuators; analog-to-digital and
+digital-to-analog converters; a real-time head tracking system;
+a special-purpose, signal-processing hardware system capable of
+generating "spatialized" stereo auditory signals in real time; a
+two-channel oscilloscope; a two-channel spectrum analyzer;
+various cables, headphones, and other miscellaneous electronics
+equipment; and software for signal generation, experimental
+control, data analysis, and word processing.
+
+Sensory-Motor Control Laboratory
+
+The Sensory-Motor Control Lab supports experimental studies of
+motor kinematics. An infrared WatSmart system allows measurement
+of large-scale movements, and a pressure-sensitive graphics
+tablet allows studies of handwriting and other fine-scale
+movements.  Equipment includes a 40-inch monitor that allows
+computer display of animations generated by an SGI workstation
+or a Pentium Pro (Windows NT) workstation.  A second major
+component is a helmet-mounted, video-based, eye-head tracking
+system (ISCAN Corp, 1997).  The latter's camera samples eye
+position at 240Hz and also allows reconstruction of what
+subjects are attending to as they freely scan a scene under
+normal lighting.  Thus the system affords a wide range of
+visuo-motor studies.
+
+Speech and Language Laboratory
+
+The Speech and Language Lab includes facilities for
+analog-to-digital and digital-to-analog software conversion.
+Ariel equipment allows reliable synthesis and playback of
+speech waveforms.  An Entropic signal processing package
+provides facilities for detailed analysis, filtering, spectral
+construction, and formant tracking of the speech waveform.
+Various large databases, such as TIMIT and TIdigits, are
+available for testing algorithms of speech recognition.  For
+high speed processing, supercomputer facilities speed
+filtering and data analysis.
+
+Visual Psychophysics Laboratory
+
+The Visual Psychophysics Lab occupies an 800-square-foot suite,
+including three dedicated rooms for data collection, and houses
+a variety of computer controlled display platforms, including
+Silicon Graphics, Inc. (SGI) Onyx RE2, SGI Indigo2 High Impact,
+SGI Indigo2 Extreme, Power Computing (Macintosh compatible)
+PowerTower Pro 225, and Macintosh 7100/66 workstations.
+Ancillary resources for visual psychophysics include a
+computer-controlled video camera, stereo viewing glasses,
+prisms, a photometer, and a variety of display-generation,
+data-collection,  and data-analysis software.
+
+Affiliated Laboratories
+
+Affiliated CAS/CNS faculty have additional laboratories ranging
+from visual and auditory psychophysics and neurophysiology,
+anatomy, and neuropsychology to engineering and chip design.
+These facilities are used in the context of faculty/student
+collaborations.
+
+
+
+*******************************************************************
+
+DEPARTMENT OF COGNITIVE AND NEURAL SYSTEMS
+GRADUATE TRAINING ANNOUNCEMENT
+
+Boston University
+677 Beacon Street
+Boston, MA 02215
+
+Phone: 617/353-9481
+Fax:   617/353-7755
+Email: inquiries@cns.bu.edu
+Web: http://cns-web.bu.edu/
+*******************************************************************
+
+
+
+
+---
+This was an announcement from the Department of Cognitive and Neural Systems at
+Boston University.  If you would like to be removed from this mailing list and
+discontinue receiving these announcements, you may send an e-mail to
+"majordomo@cns.bu.edu" with the following line in the body of the message:
+
+unsubscribe announcements
+
+If you have any trouble in doing so, please do not hesitate to report
+problems to "owner-majordomo@cns.bu.edu".
+Thank you.

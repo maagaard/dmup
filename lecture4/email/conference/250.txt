@@ -1,0 +1,126 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Apr 20 23:12:49 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id XAA07326;
+	Tue, 20 Apr 1999 23:12:41 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab26459;
+          20 Apr 99 14:45 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab26457;
+          20 Apr 99 14:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05760;
+          20 Apr 99 14:35 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa07806; 20 Apr 99 13:05 EDT
+Received: from H-135-207-30-103.research.att.com by EDRC.CMU.EDU id aa27009;
+          20 Apr 99 13:04:55 EDT
+Received: from amontillado.research.att.com (amontillado.research.att.com [135.207.24.32])
+	by mail-green.research.att.com (Postfix) with ESMTP id CBFF31E005
+	for <connectionists@cs.cmu.edu>; Tue, 20 Apr 1999 13:04:49 -0400 (EDT)
+Received: from [4.20.88.111] (littleO.research.att.com [135.207.24.153])
+	by amontillado.research.att.com (8.8.7/8.8.7) with ESMTP id NAA12075
+	for <connectionists@cs.cmu.edu>; Tue, 20 Apr 1999 13:04:48 -0400 (EDT)
+X-Sender: rich@cs.umass.edu
+Message-Id: <l0313030fb3426e33929b@[4.20.88.111]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 20 Apr 1999 13:03:29 -0500
+To: connectionists@cs.cmu.edu
+From: Rich Sutton <sutton@research.att.com>
+Subject: Workshop on Reinforcement Learning at UMass/Amherst 4/23
+Status: RO
+X-Status: 
+
+Dear Connectionists:
+
+FYI, there will be a workshop on reinforcement learning at the
+University of Massachusetts this friday, to which the public is welcome.
+Complete information on the schedule, travel information, etc., is available
+at http://www-anw.cs.umass.edu/nessrl.99.  A crude version of the current
+schedule (it's better on the web) is given below.  Hope to see you there.
+
+Rich Sutton
+
+
+----------------------------------------------------------------------------
+
+                                      Current Schedule
+  Time
+                     Speaker
+                                                            Title/Abstract
+ 8:30am
+         Breakfast (bagels, coffee, etc)
+ 9:00am
+         Amy McGovern
+                                          Welcome
+ 9:05
+         Invited Speaker: Manuela Veloso
+         (CMU)
+                                          What to Do Next?: Action
+Selection in Dynamic
+                                          Multi-Agent Environments
+ 10:00
+         Mike Bowling
+                                          A Parallel between Multi-agent
+Reinforcement Learning
+                                          and Stochastic Game Theory
+         Peter Stone and Manuela Veloso
+         (presented by Manuela Veloso)
+                                          Team-Partitioned
+Opaque-Transition Reinforcement
+                                          Learning
+         Will Uther
+                                          Structural Generalization for
+Growing Decision Forests
+ 11:10
+                                               Break
+ 11:20
+         Dan Bernstein
+                                          Reusing Old Policies to
+Accelerate Learning on New MDPs
+         Bryan Singer
+                                          Learning State Features from
+Policies to Bias Exploration
+                                          in Reinforcement Learning
+         Theodore Perkins and Doina Precup
+                                          Using Options for Knowledge
+Transfer in Reinforcement
+                                          Learning
+ 12:30
+                                               Lunch
+ 2:00
+         Michael Kearns
+                                          Sparse Sampling Methods for
+Learning and Planning in
+                                          Large POMDPs
+         Satinder Singh
+                                          Approximate Planning for Factored
+POMDPs using Belief
+                                          State Simplification
+         Rich Sutton
+                                          Function Approximation in
+Reinforcement Learning
+         Yishay Mansour
+                                          Finding a near best strategy from
+a restricted class of
+                                          strategies
+ 3:10
+         Nicolas Meuleau
+                                          Learning finite-state controllers
+for partially-observable
+                                          environments
+         Keith Rogers
+                                          Learning using the G-function
+ 3:55
+                                               Break
+ 4:05
+         Doina Precup
+                                          Eligibility Traces for Off-Policy
+Policy Evaluation
+         Tom Kalt
+                                          An RL approach to statistical
+natural language parsing
+ 4:50
+         Andrew Barto
+                                          Closing remarks
+
+

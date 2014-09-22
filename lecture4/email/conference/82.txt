@@ -1,0 +1,208 @@
+
+
+From ekpark@cstp.umkc.edu  Tue Apr 21 23:09:56 1998
+Received: from helios.cstp.umkc.edu (helios.cstp.umkc.edu [134.193.2.39])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id XAA29655
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 21 Apr 1998 23:09:54 +0200 (METDST)
+Received: by helios.cstp.umkc.edu (8.8.6/SMI-SVR4)
+Date: Tue, 21 Apr 1998 15:47:41 -0500 (CDT)
+From: Eun Kyo Park <ekpark@cstp.umkc.edu>
+Message-Id: <199804212047.PAA19033@helios.cstp.umkc.edu>
+To: Lars-Ake.j.Isaksson@telia.se, bastiaan@cs.vu.nl, corinne.plazanet@epfl.ch,
+        dcerra@mkp.com, fnielsen@eivind.imm.dtu.dk,
+        francoise.de-coninck@inrialpes.fr, hoya@dbsun3.kaist.ac.kr,
+        jonas.u.christiansson@telia.se, kimoto@dq.isl.ntt.co.jp,
+        miyazaki@cs.it-chiba.ac.jp, nick.walker@fulcrum.com,
+        richard.pearson@bt-sys.bt.co.uk, takeda@icot.or.jp,
+        volker@teco.uni-karlsruhe.de, xtian@co.umist.ac.uk
+Subject: ACM CIKM98 CFP
+Status: RO
+X-Status: 
+
+
+(Apologies, if you receive multiple copies of this CFP)
+
+==============================================================================
+
+	            ACM CIKM '98 Call for Papers
+
+Seventh International Conference on Information and Knowledge Management
+
+               November 3--7, 1998, Washington D.C., USA
+
+	       	Sponsored by ACM SIGIR and ACM SIGMIS
+
+CIKM'98 will bring together leading researchers and developers in a
+wide variety of scientific areas, with a common interest in improving
+information and knowledge management technologies.  Its objective is
+to provide a forum for the discussion and dissemination of recent
+advances in the area, and to foster collaboration between the
+database, information retrieval, and artificial intelligence
+communities.
+
+The focus of the conference is new and original research results in
+the areas of theoretical foundations, design, implementation, and
+applications of information and knowledge management.  We solicit
+papers that address novel, challenging and innovative results.  We
+also solicit short papers that challenge the field with new
+technologies or applications and open new horizons of research.
+Suggested topics include, but are not limited to, the following:
+
+Intelligent Search and Data Mining	
+Data Cleaning and Noise Modeling 
+Uncertainty Management  		
+Data Mining Methods 
+Automated Discovery Agents 		
+Privacy and Security Issues 
+Interactive Data Exploration 		
+Knowledge and Resource Discovery 
+Multimedia  Database Systems 		
+Mobile Databases and Wireless Computing
+Digital Libraries 
+Information Representation and Modeling
+Modeling Database Dynamics  
+Information Structures and Interaction 
+Hypertext and Hypermedia 
+Distributed Object Management
+Query Languages Transaction and Workflow Management  
+Data and Knowledge Sharing 
+Heterogeneous and Distributed Systems
+High Performance Algorithms 
+Design Techniques for Object Databases 
+Intelligent Agents and Network Mediators
+Temporal/Spatial Databases
+Active and Extensible Databases
+Engineering, Scientific and Design Databases 
+Intelligent Information Systems 
+User and Application Interfaces  
+Time, Event and Change Management and Monitoring 
+Dynamic Databases 
+Tuning, Benchmarking and Performance 
+New Experimental, Commercial and Educational Systems 
+Integrating Databases and Information Retrieval 
+Cooperating and Interoperable Federated Systems  
+Parallelism and Distribution  
+Object Storage and Servers
+Imprecise and Uncertain Information 
+
+Authors are invited to submit complete and original papers. Papers
+that may be submitted for consideration include those that have not
+previously been published in another forum, or are not currently being
+published or reviewed by another journal or conference.  All submitted
+papers will be refereed for quality, originality and relevance.  Of
+particular interest are papers which address experiences with concrete
+applications.  All accepted papers will appear in the conference
+proceedings, to be published by ACM Press, provided at least one
+author attends the conference to present the paper.
+
+Manuscripts should include an abstract and be limited to 5000 words.
+Submissions should include the title, author(s), author's affiliation,
+e-mail address, tel/fax numbers and postal address.  In case of
+multiple authors, please indicate which author is responsible for
+correspondence and preparing the camera ready paper for the
+proceedings.  Seven copies of the manuscript should be submitted by
+May 1, 1998 to either of the Program Co-Chairs:
+
+Dr. James French		Dr. Georges Gardarin
+c/o CIKM'98 (IR track) 		CIKM'98 (DBMS track)
+Computer Science Department 	PRiSM  Laboratory (& INRIA)
+University of Virginia 		University of Versailles SQ
+Charlottesville, VA 22903 USA	78035 Versailles Cedex, France
+french@cs.virginia.edu 		georges.gardarin@prism.uvsq.fr
+804-982-2213 			33 1 39254054/56
+
+Authors will be notified of acceptance by the end of June, and
+camera-ready copies for the proceedings will be due the end of August.
+For more information about the conference, please visit the CIKM web
+site http://www.cs.umbc.edu/cikm; or contact either of the General
+Chairs, Niki Pissinou <pissinou@cacs.usl.edu> or Charles Nicholas
+<nicholas@cs.umbc.edu>.
+
+
+Workshops and Tutorials: An important part of the conference is the
+workshop program, which focuses on timely research challenges and
+initiatives.  Workshop proposals may be sent to Professor Kia Makki
+<kia@usl.edu>.  Tutorial proposals may be sent to Professor Il-Yeol
+Song <songiy@dunx1.ocs.drexel.edu>
+
+
+General Chairs
+______________
+
+Niki Pissinou,  University of Southwestern Louisiana
+Charles Nicholas, UMBC
+
+Program Committee
+------------------
+
+Elisa Bertino, Italy
+Jose Blakley, USA 
+Peter Buneman,USA 
+Arbee Chen, Taiwan 
+Sophie Cluet, France 
+Lois Delcambre, USA 
+Peter Fankhauser, Germany 
+Yannis Ioannidis, USA 
+Michael Halper, USA 
+Jerry Kiernan, USA 
+Hiroyuki Kitagawa, Japan 
+Wolfgang Klas, Germany 	
+Alan Levy, USA 	
+Tok Wang Ling, Singapore 
+Kia Makki, USA 
+Sam Makki, Australia 
+Alberto Mendelzon, Canada 
+Gail Mitchell, USA 
+Aris M. Ouksel, USA 
+Tamer Ozsu, Canada 
+Philippe Pucheral, France 
+Timos Sellis, Greece 
+Patrick Valduriez, France 
+Aidong Zhang, USA 
+Maristella Agosti, Italy  
+James Allan, USA         
+Ricardo Baeza-Yates, Chile 
+Nick Belkin, USA          
+Jamie Callan, USA        
+Bruce Croft, USA        
+Susan Dumais, USA      
+Ed Fox, USA           
+Norbert Fuhr, Germany
+Hans-Peter Frei, Switzerland 
+Donna Harman, USA           
+Dik Lee, Hong Kong         
+K. L. Kwok, USA           
+Desai Narasimhalu, Singapore 
+Keith van Rijsbergen, UK    
+Kathleen Ryall, USA        
+Peter Schauble, Switzerland 
+Alan Smeaton, Ireland      
+Ulrich Thiel, Germany     
+Richard Tong, USA        
+Charles Viles, USA      
+Ellen Voorhees, USA    
+Peter Willet, UK      
+Ross Wilkinson, Australia 
+
+Workshops Chair
+---------------
+
+Kia Makki, University of Southwestern Louisiana
+
+
+Tutorials Chair
+----------------
+
+Il-Yeol Song, Drexel University
+
+
+Publicity Chairs
+----------------
+
+H. Okuno, NTT Japan 
+Liu, DePaul University
+
+
+Local Arrangement Chairs
+------------------------
+D. Grossman

@@ -1,0 +1,108 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Dec 11 05:17:52 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA08818;
+	Fri, 11 Dec 1998 05:17:45 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa22982;
+          10 Dec 98 13:53 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22980;
+          10 Dec 98 13:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13914;
+          10 Dec 98 13:38 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa22527; 10 Dec 98 9:46 EST
+Received: from [138.15.168.50] by CS.CMU.EDU id aa18439; 10 Dec 98 9:45:47 EST
+Received: (from rsun@localhost)
+	by pc-rsun.nj.nec.com (8.8.7/8.8.7) id JAA20138;
+	Thu, 10 Dec 1998 09:45:30 -0500
+Date: Thu, 10 Dec 1998 09:45:30 -0500
+From: Ron Sun <rsun@research.nj.nec.com>
+Message-Id: <199812101445.JAA20138@pc-rsun.nj.nec.com>
+To: connectionists@cs.cmu.edu, hybrid-list@cs.ua.edu
+Subject: AAAI'99 CFP in the neural/evolutionary/fuzzy computation areas
+Cc: giles@research.nj.nec.com, rsun@research.nj.nec.com
+Status: RO
+X-Status: 
+
+
+
+
+Solictation for submissions from the neural/evolutionary/fuzzy communities
+to:
+
+
+
+
+        Sixteenth National Conference on Artificial Intelligence
+
+  Sponsored by the American Association for Artificial Intelligence (AAAI).
+
+                  July 18-22, 1999, Orlando, Florida
+
+
+We would like to encourage the submission of high quality papers in the areas of
+neural/fuzzy/evolutionary computation to AAAI'99. The 1999 AAAI conference
+includes many program committee members in the neural/evolutionary/fuzzy areas.
+
+This year AAAI'99 expressly solicits top-quality submissions in the
+above-mentioned areas.  Every consideration will be given to provide a
+fair review (albeit rigorous, in accordance with AAAI's long-standing high
+standard) to each paper.  Your submission will be reviewed by
+experts in your area who understand and appreciate its contribution
+(or the lack of it) to the study of computational intelligence.
+
+To highlight and showcase the advance and contributions that
+neural/evolutionary/fuzzy communities are making in computational
+intelligence, in a broader context that goes beyond disciplinary and
+paradigmatic confines, we encourage you to submit your best work to
+this year's AAAI and share that work with others in the broader arena
+of artificial intelligence.
+
+
+***********************************
+Some AAAI'99 program committee members whose expertize lies primarily
+in the neural/evolutionary/fuzzy areas:
+
+  Ron Sun (senior program committee member)
+  Lee Giles (senior program committee member)
+
+  Hamid Berenji
+  Kenneth DeJong
+  Marco Gori
+  Vasant Honavar
+  John Koza
+  Yann LeCun
+  Risto Miikkulanain
+  Darrell Whitley
+  Ron Yager
+  Jacek M. Zurada
+  
+
+Timetable for Submission 
+
+           January 19, 1999: electronic submission of abstracts 
+           January 20, 1999: submission of six (6) paper copies to AAAI office (see the AAAI web page describing all caveats, formats and details). 
+           March 12, 1999: notification of acceptance or rejection. 
+
+Please send papers to:
+
+           AAAI-99
+           American Association for Artificial Intelligence
+           445 Burgess Drive Menlo Park, CA 94025-3442
+
+For further details regarding submission, 
+see http://www.aaai.org/Conferences/National/1999/aaai99-call.html
+***********************************
+
+------------
+Dr. C. Lee Giles / NEC Research Institute / 4 Independence Way
+Princeton, NJ 08540 / 609-951-2642 / Fax 2482
+------------
+Prof. Ron Sun
+Dept. CS, University of Alabama, Tuscaloosa, AL
+http://cs.ua.edu/~rsun
+rsun@cs.ua.edu,  rsun@research.nj.nec.com 
+------------
+
+
+

@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu May 27 02:34:28 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA04658;
+	Thu, 27 May 1999 02:34:21 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19516;
+          26 May 99 18:09 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19504;
+          26 May 99 17:53 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21363;
+          26 May 99 17:52 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab07757; 26 May 99 2:35 EDT
+Received: from [139.182.2.16] by CS.CMU.EDU id aa02719; 26 May 99 2:35:00 EDT
+Received: (from georgiou@localhost)
+	by mail.csusb.edu (8.9.2/8.9.1) id XAA17882;
+	Tue, 25 May 1999 23:30:58 -0700 (PDT)
+Date: Tue, 25 May 1999 23:30:58 -0700 (PDT)
+Message-Id: <199905260630.XAA17882@mail.csusb.edu>
+From: georgiou@csusb.edu
+To: connectionists@cs.cmu.edu
+Subject: CFP: 4th ICCIN (Feb. 27-Mar. 3, 2000)
+Status: RO
+X-Status: 
+
+			   Call for Papers
+
+		   4th International Conference on
+
+	     COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+		   http://www.csci.csusb.edu/iccin
+
+
+      Trump Taj Mahal Casino and Resort]], Atlantic City, NJ USA
+		     February 27 -- March 3, 2000
+
+	    Summary Submission Deadline: September 1, 1999
+
+
+			Conference Co-chairs:
+
+	      Subhash C. Kak, Louisiana State University
+		Jeffrey P. Sutton, Harvard University
+
+This conference is part of the Fourth Joint Conference Information Sciences.
+		     http://www.ee.duke.edu/JCIS/
+
+Plenary Speakers include the following:
+
++------------------------------------------------------------------------+
+|James Anderson   |Wolfgang Banzhaf  |B. Chandrasekaran|Lawrence J. Fogel|
+|-----------------+------------------+-----------------+-----------------|
+|Walter J. Freeman|David E. Goldberg |Irwin Goodman    |Stephen Grossberg|
+|-----------------+------------------+-----------------+-----------------|
+|Thomas S.Huang   |Janusz Kacprzyk   |A. C. Kak        |Subhash C. Kak   |
+|-----------------+------------------+-----------------+-----------------|
+|John Mordeson    |Kumpati S. Narenda|Anil Nerode      |Huang T. Nguyen  |
+|-----------------+------------------+-----------------+-----------------|
+|Jeffrey P. Sutton|Ron Yager         |                 |                 |
++------------------------------------------------------------------------+
+
+Special Sessions on Quantum Computation.  More to be added.
+
+Areas for which papers are sought include:
+
+	o Artificial Life
+	o Artificially Intelligent NNs
+	o Associative Memory
+	o Cognitive Science
+	o Computational Intelligence
+	o Efficiency/Robustness Comparisons
+	o Evaluationary Computation for Neural Networks
+	o Feature Extraction & Pattern Recognition
+	o Implementations (electronic, Optical, Biochips)
+	o Intelligent Control
+	o Learning and Memory
+	o Neural Network Architectures
+	o Neurocognition
+	o Neurodynamics
+	o Optimization
+	o Parallel Computer Applications
+	o Theory of Evolutionary Computation
+
+
+Summary Submission Deadline: September 1, 1999
+
+Notification of authors upon review: November 1, 1999
+
+December 1, 1999 - Deadline for invited sessions and exhibition proposals
+
+Papers will be accepted based on summaries. A summary shall not exceed 4 pages
+of 10-point font, double-column, single-spaced text, with figures and tables
+included.
+
+For the Fourth ICCIN, send 3 copies of summaries to:
+
+George M. Georgiou
+Computer Science Department
+California State University
+San Bernardino, CA 92407-2397
+U.S.A.
+georgiou@csci.csusb.edu
+

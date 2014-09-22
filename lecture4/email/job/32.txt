@@ -1,0 +1,128 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Dec  8 07:17:14 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA25677;
+	Tue, 8 Dec 1998 07:17:07 +0100 (MET)
+Date: Tue, 8 Dec 1998 07:17:07 +0100 (MET)
+From: ml-connectionists-request@mlist-1.sp.cs.cmu.edu
+Message-Id: <199812080617.HAA25677@eivind.imm.dtu.dk>
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17520;
+          7 Dec 98 23:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17518;
+          7 Dec 98 23:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09969;
+          7 Dec 98 23:36 EST
+Status: RO
+X-Status: 
+
+>From Annette_Burton@Brown.edu Wed Dec  2 17:31:37 1998
+Date: Mon, 30 Nov 1998 09:17:36 -0400
+From: Annette Burton <Annette_Burton@Brown.edu>
+To: connectionists@cs.cmu.edu
+Subject: Program and Job Announcement
+
+Brown University's Departments of Applied Mathematics,
+Cognitive and Linguistic Sciences, and Computer Science
+
+			announce
+
+A NEW INTERDISCIPLINARY GRADUATE TRAINING PROGRAM
+
+			    in
+
+LEARNING AND ACTION IN THE FACE OF UNCERTAINTY:
+COGNITIVE, COMPUTATIONAL AND STATISTICAL APPROACHES
+
+Deadline for Applications:  January 1, 1999
+
+Brown University is actively recruiting graduate students for a new
+NSF-supported
+Interdisciplinary Graduate Education, Research and Training (IGERT)
+program in "Learning and Action in the Face of Uncertainty:
+Cognitive, Computational and Statistical Approaches".
+
+The use of probabilistic models and statistical methods has
+had a major impact on our understanding of language, vision, action, and
+reasoning.  This training program provides students with the opportunity to
+integrate a detailed study of human or artificial systems for language
+acquisition and use, visual processing, action, and reasoning with
+appropriate mathematical and computational models.  Students will be enrolled
+in one of the three participating departments (Applied Mathematics,
+Cognitive and Linguistic Sciences, and Computer Science) and will
+study an interdisciplinary program of courses in topics such as
+statistical estimation, cognitive processes, linguistics, and
+computational models.  The aim of this program is to provide promising
+students with a mix of mathematical, computational and experimental
+expertise to carry out multidisciplinary collaborative research across
+the disciplines of Applied Mathematics, Computer Science, and
+Cognitive Science.
+
+Interested students should apply to the participating department
+closest to their area of interest and expertise, and should indicate
+their interest in the IGERT training program in their application.
+Brown University is an Equal Opportunity/Affirmative Action Employer.
+
+
+For additional information about the program, application procedures,
+and ongoing research initiatives please visit our website at:
+
+	http://www.cog.brown.edu/IGERT
+
+or contact
+
+ Dr. Julie Sedivy
+ Department of Cognitive & Linguistic Sciences
+ Brown University, Box 1978
+ Providence, RI 02912
+ USA
+
+Julie_Sedivy@brown.edu
+
+          ___________________________________________________________________
+
+                         Brown University's
+                 Departments of Applied Mathematics,
+Cognitive and Linguistic Sciences, and Computer Science
+
+                                                    announce
+
+    A NEW INTERDISCIPLINARY POSTDOCTORAL OPPORTUNITY
+
+                                                           in
+
+       LEARNING AND ACTION IN THE FACE OF UNCERTAINTY:
+  COGNITIVE, COMPUTATIONAL AND STATISTICAL APPROACHES
+
+As part of an NSF award to Brown University through the IGERT program, the
+Departments of Cognitive and Linguistic Sciences, Computer Science, and
+Applied Mathematics will be hiring two Postdoctoral Research Associates.
+Fellows will be scholars who have displayed significant interest and
+ability in conducting collaborative interdisciplinary research in one or
+more of the research areas of the program: computational and empirical
+approaches to uncertainty in language, vision, action, or human reasoning.
+As well as participating in collaborative research, responsibilities will
+include helping to coordinate cross-departmental graduate teaching and
+research as well as some teaching of interdisciplinary graduate courses.
+We expect that these fellows will play an important role in creating a
+highly visible presence for the IGERT program at Brown, and their
+interdisciplinary activities will help unify the interdepartmental
+activities of the IGERT program.
+
+Applicants must hold a PhD in Cognitive Science, Linguistics, Computer
+Science, Mathematics, Applied Mathematics, or a related discipline, or show
+evidence that the PhD will be completed before the start of the position.
+Applicants should send a vita and three letters of reference to Steven
+Sloman, Department of Cognitive and Linguistic Sciences, Brown University,
+Box 1978, Providence, RI 02912.  Special consideration will be given to
+those applicants whose research is relevant to at least two of the
+participating departments. The positions will begin September 1, 1999 for
+one year, renewable upon satisfactory  completion of duties in the first
+year.  Salaries will be between $35,000 and $45,000 per year. All materials
+must be received by Jan. 1, 1999, for full consideration.  Brown University
+is an Equal Opportunity/Affirmative Action Employer.
+
+For additional information about the program and ongoing research
+initiatives please visit our website at:
+
+http://www.cog.brown.edu/IGERT

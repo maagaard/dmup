@@ -1,0 +1,108 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk  Tue Feb  2 11:11:22 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id LAA01739
+	for dspstaff-list; Tue, 2 Feb 1999 11:11:14 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id LAA01728;
+	Tue, 2 Feb 1999 11:11:08 +0100 (MET)
+Received: from imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id LAA07382;
+	Tue, 2 Feb 1999 11:14:48 +0100 (MET)
+Message-ID: <36B6CFFA.B880656F@imm.dtu.dk>
+Date: Tue, 02 Feb 1999 11:14:18 +0100
+From: Matthew Liptrot <mgl@imm.dtu.dk>
+X-Mailer: Mozilla 4.05 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "dspstaff@eivind.imm.dtu.dk" <dspstaff@eivind.imm.dtu.dk>,
+        "dspstud@eivind.imm.dtu.dk" <dspstud@eivind.imm.dtu.dk>
+Subject: Irish Machine Vision and Image Processing Conference 1999
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+Some of you may find this conference interesting...
+
+Matt
+
+----------------------------------------------------------------------
+Irish Machine Vision and Image Processing Conference 1999
+8th - 9th September 1999
+Dublin City University, Dublin, Ireland
+
+Scope
+
+The 1999 Irish Machine Vision & Image Processing (IMVIP) Conference will
+be
+hosted by the School of Electronic Engineering, Dublin City University,
+bringing together theoreticians and practitioners, industrialists
+and academics, from the numerous related disciplines involved in the
+processing and analysis of image-based information.
+
+IMVIP '99 is a single-track conference consisting of high quality
+previously
+unpublished contributed papers, presented orally. The conference
+emphasises both theoretical research results and practical engineering
+experience in all areas. Full papers will be subject to a double-blind
+review process by the programme committee. In addition to the
+contributed programme, there will also be talks by invited speakers.
+
+Topics
+
+Contributions are sought in all aspects of image processing, pattern
+analysis and machine vision, including but not restricted to
+the following topics:
+
+Visually Guided Robot Manipulation and Navigation
+Texture, Colour, Stereo and Motion Analysis
+Image & Video Representation, Compression and Coding
+Bio- and Medical Imaging
+Active Vision and Tracking
+Object and Event Recognition
+2D and 3D Scene Analysis
+Remote Sensing
+Image/Shape Representation and Recovery
+Mathematical Morphology
+Applications, Architectures and Systems Integration
+
+Instructions For Submission
+
+Authors who wish to present a paper at the conference should send four
+copies of their paper to the address given below by April 30th 1999.
+
+IMVIP '99 Secretariat
+Vision Systems Laboratory,
+School of Electronic Engineering
+Dublin City University,
+Dublin 9, Ireland.
+
+Full papers, not exceeding 15 printed pages (12 pt font, single-spacing)
+should be submitted for anonymous review. To enable the double-blind
+review process there should be two title pages. The first should contain
+the
+paper title, author's name, affiliation and address, telephone, fax and
+e-mail, an abstract of 300 words clearly stating the impact of the
+contribution and up to five keywords. The second title page should
+consist only of the title, abstract and keywords.
+
+
+See http://www.eeng.dcu.ie/~imvip99/imvip99.html for further details.
+
+
+--
+Dr. Paul F. Whelan
+Vision Systems Laboratory,
+School of Electronic Engineering
+Dublin City University, Dublin 9, Ireland.
+
+Ph:    +353 1 7045489
+Fax:   +353 1 7045508
+Email: whelanp@eeng.dcu.ie   http://www.eeng.dcu.ie/~whelanp/home.html
+
+Call for Papers - IMVIP99 - http://www.eeng.dcu.ie/~imvip99/imvip99.html

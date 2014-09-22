@@ -1,0 +1,113 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Oct  4 20:40:32 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA24686;
+	Mon, 4 Oct 1999 20:40:28 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17978;
+          4 Oct 99 11:32 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17974;
+          4 Oct 99 11:24 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22870;
+          4 Oct 99 11:23 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa21485; 4 Oct 99 7:25 EDT
+Received: from [134.151.79.46] by RI.CMU.EDU id ab04962; 4 Oct 99 7:24:35 EDT
+Received: from nn-tchebyshev ([134.151.59.46] helo=aston.ac.uk)
+	by hermes.aston.ac.uk with esmtp (Exim 2.10 #2)
+	id 11Y6EF-0005pm-00; Mon, 4 Oct 1999 12:24:27 +0100
+Sender: evansdj@skinner.boltz.cs.cmu.edu
+Message-ID: <37F88F27.871A8700@aston.ac.uk>
+Date: Mon, 04 Oct 1999 12:27:35 +0100
+From: DJ EVANS <evansdj@aston.ac.uk>
+X-Mailer: Mozilla 4.6 [en] (X11; I; SunOS 5.7 sun4u)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+CC: d.lowe@aston.ac.uk
+Subject: RESEARCH FELLOWSHIP: Pollution-in-Water: Detection, tracking and 
+ classification
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear All,
+
+Please reply to Prof D. Lowe
+(d.lowe@aston.ac.uk).
+
+Thanks,
+
+David Evans.
+
+*******************************************************************
+Neural Computing Research Group
+-------------------------------
+
+School of Engineering and Applied
+Sciences
+
+Aston University, Birmingham, UK
+
+RESEARCH FELLOWSHIP
+-------------------
+
+       Pollution-in-Water: Detection,
+tracking and classification 
+      
+----------------------------------------------------------
+
+The Neural Computing Research Group at
+Aston is looking for a highly
+motivated individual for a 30 month
+postdoctoral research position in
+the area of automatic video analysis to
+detect, classify and track
+near-shore sea-borne pollutants.  This
+project will be part of a
+Framework V European Union collaborative
+project on an environmental
+early warning monitoring initiative.
+
+Potential candidates should have strong
+statistical and computational
+skills, preferably with a background
+related to neural networks and
+image analysis.
+
+Further information on the project can
+be obtained from
+http://www.ncrg.aston.ac.uk/
+
+Conditions of Service
+---------------------
+
+Salaries will be up to point 9 on the RA
+1A scale.
+The salary scale is subject to review
+and annual increments.
+
+How to Apply
+------------
+
+If you wish to be considered for this
+Fellowship, please send a full
+CV and publications list, including full
+details and grades of
+academic qualifications, together with
+the names of 3 referees, to:
+
+      Prof David Lowe
+      Neural Computing Research Group
+      School of Engineering and Applied
+Sciences
+      Aston University
+      Birmingham B4 7ET, U.K.
+      Tel: 0121 333 4631
+      Fax: 0121 333 4586
+      e-mail: d.lowe@aston.ac.uk
+
+e-mail submission of postscript/latex
+files is welcome.
+
+Closing date: 13 December, 1999.

@@ -1,0 +1,344 @@
+
+
+From www-vrml-owner@hardly.hotwired.com Sat Sep  7 17:11 MET 1996
+Received: from hardly.hotwired.com by eivind.imm.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA09734; Sat, 7 Sep 1996 17:10:58 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id HAA12857 for www-vrml14; Sat, 7 Sep 1996 07:25:37 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id HAA12818 for www-vrml-out; Sat, 7 Sep 1996 07:24:10 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id HAA12809 for <www-vrml@hardly.hotwired.com>; Sat, 7 Sep 1996 07:24:05 -0700 (PDT)
+Received: from cs.nps.navy.mil (cs.nps.navy.mil [131.120.1.13]) by wired.com (8.7.4/8.7.3) with SMTP id HAA20506 for <www-vrml@wired.com>; Sat, 7 Sep 1996 07:24:01 -0700 (PDT)
+Received: from trouble.cs.nps.navy.mil by cs.nps.navy.mil (4.1/SMI-4.1)
+	id AA23186; Sat, 7 Sep 96 07:22:42 PDT
+Received: by trouble.cs.nps.navy.mil (950215.SGI.8.6.10) id HAA27783; Sat, 7 Sep 1996 07:22:41 -0700
+From: "Your VE info source" <infobahn@cs.nps.navy.mil>
+Message-Id: <9609070722.ZM27781@trouble.cs.nps.navy.mil>
+Date: Sat, 7 Sep 1996 07:22:41 -0700
+X-Mailer: Z-Mail (3.2.0 26oct94 MediaMail)
+To: www-vrml@wired.com
+Subject: Latest InfoBahn Calls for Participation ...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+
+The following are some of the latest Infobahn 
+     Calls for Participation:
+
+--> 1997 Symposium on Interactive 3D Graphics
+    --> Call date: 25 September 1996
+
+--> VRML 97
+    --> Call date: 15 October 1996
+
+--> SimTecT 97 Advancing Simulation Technology and Training
+    --> Call date: 27 September 1996
+
+--> Will we define VR before the next millenium?
+    http://www-npsnet.cs.nps.navy.mil/zyda/VRDefined/VRDefined.html
+
+^L
+
+--------------------------------------------------------------------
+
+CALL FOR PARTICIPATION
+
+
+1997 Symposium on Interactive 3D Graphics
+April 27-30, 1997
+Providence, RI
+http://www.research.microsoft.com/research/Symp3D.htm
+
+
+	Extended abstracts due:			Sept. 25, 1996
+	Acceptance notification:		Nov. 11, 1996
+	Final papers for Proceedings due:	Dec. 18, 1996
+
+The focus of the symposium will be on the frontiers of real-time,
+interactive 3D computer graphics and multimedia. The symposium will
+consist of formal paper sessions and hands-on demonstrations where
+research groups and vendors will demonstrate the state-of-the-art in the
+field. Topics of interest for technical sessions and demonstrations
+include:
+
+* innovative human-machine interface paradigms for navigating, working
+and playing in complex, real-time graphics environments, including
+virtual worlds, Web-based systems, and visualization systems;
+
+* high-performance 3D graphics architectures, hardware, and software for
+interacting with virtual worlds and teleoperation systems;
+
+* novel sensory I/O devices for "seeing, hearing and feeling in the
+virtual world";
+
+* perceptual and psychological issues regarding multimodal interaction
+and operation in complex virtual spaces;
+
+* interactive model building tools for shaping, building or sculpting of
+objects, and the interactive assembly and manipulation of systems of
+parts;
+
+* languages or APIs for specifying geometry and behaviors for interactive
+and network based applications;
+
+* algorithms for animating complex reactive characters; authoring tools
+for constructing reactive models;
+
+* interactive simulations distributed over local and long-haul networks;
+
+* software for representing, designing, visualizing and interacting with
+complex geometry, structure and behavior.
+
+
+Extended abstracts 3 to 5 pages long describing original work should
+reflect the contents of the final paper and the symposium presentation.
+Accompanying video tapes where appropriate are strongly recommended.
+Performance claims should be supported by actual measurements. Full
+explanations of any special techniques necessary to achieve real-time
+picture generation and display should be provided. Abstracts should
+clearly state what has been achieved and how this makes a contribution to
+the state-of-the-art in interactive 3D graphics.
+
+The program committee will review the abstracts and notify the author(s)
+whether the paper will be accepted as a short or long paper, and whether
+the presentation will be short or long. Short papers will be 4 pages;
+long papers may be up to 12 pages.  Short presentations will be 15
+minutes; long presentations will be up to 25 minutes.
+
+Attendance will be limited to 250 participants. Places will be reserved
+for up to 50 students at reduced registration rates.
+
+Sponsored by ACM SIGGRAPH
+
+
+Submit 5 copies of an extended abstract by 5:00 PM EDT, Sept. 25, 1996
+to:
+David Zeltzer
+1997 Symposium on Interactive 3D Graphics
+Massachusetts Institute of Technology
+Room 36-763, 50 Vassar Street
+Cambridge MA 02139
+Tel.: (617) 253-5995
+e-mail: dz@vetrec.mit.edu
+No fax or e-mail submissions accepted.
+
+Requests for registration forms and information should be e-mailed to:
+Lisa Manekofsky
+Dept. of Computer Science
+Brown University
+Providence RI 02912
+(401) 863-7654
+Fax: (401) 863-7657
+e-mail: ljm@cs.brown.edu
+
+Symposium Chair:
+Andy van Dam, 	Brown University
+
+Program Co-chairs:
+Michael Cohen, 	Microsoft
+David  Zeltzer, Massachusetts Institute of Technology
+
+Program Committee:
+
+Fred Brooks, Jr., University of North Carolina
+Ingrid Carlbom, AT&T Bell Labs
+Ed Catmull, PIXAR
+Frank Crow, Interval Research
+Jessica Hodgins, Georgia Institute of Technology
+Fred Kitson, Hewlett Packard
+Marc Levoy, Stanford University
+Dan Ling, Microsoft
+Peter Schroder, California Institute of Technology
+Susumu Tachi, University of Tokyo
+Michael Zyda, Naval Postgraduate School
+
+****************************************************************************
+
+-----------------------------------------------------------------------
+
+                  VRML 97                        Call For Participation!
+
+           February 24-26, 1997
+
+  Hyatt Regency, Monterey California, USA       http://www.sdsc.edu/vrml97
+---------------------------------------------------------------------------
+-
+
+Announcing VRML 97, a technical symposium focusing upon the research,
+technology, and applications of VRML, the Virtual Reality Modeling 
+Language. To be held in Monterey California, Monday-Wednesday 
+February 24-26 1997.
+
+VRML 97 will be a 3-day technical forum including courses and in-depth
+workshop discussions on the first day, followed by paper presentations,
+panels, exhibits, and demonstrations on the following two days.
+
+Technical paper submissions are encouraged.  Submissions will be peer
+reviewed and selected based upon technical merit.  Paper submission
+guidelines will be available soon.  Suggested topic areas include 3D
+graphics, networking, content, behaviors, interfaces, modeling, simulation,
+multi-user environments and standards.  Questions about paper submission 
+can be directed to:
+
+   * vrml97-papers@sdsc.edu
+
+Course, workshop and panel ideas are encouraged and should be submitted 
+to:
+
+   * vrml97-courses@sdsc.edu
+   * vrml97-workshops@sdsc.edu
+   * vrml97-panels@sdsc.edu
+
+        Date                               Activity
+   ----------------  -----------------------------------------------------
+
+   September 15,     Early registration opens and the registration forms
+   1996              go on-line
+
+   October 15,       Paper submissions due, Course, workshop, and panel
+   1996              proposals due
+
+   November 15,      Paper reviews complete, authors notified of
+   1996              acceptance, review comments returned to authors, and
+                     advance program goes on-line
+
+   December 15,      Early registration closes, late registration opens,
+   1996              paper camera-ready copy due
+
+   February 15,      Late registration closes
+   1997    
+
+   February 24,      On-site registration opens, VRML 97 courses and
+   1997              workshops all-day
+
+   February 25-26,   VRML 97 papers, panels, demonstrations, and exhibits
+   1997              all-day
+
+---------------------------------------------------------------------------
+
+
+CALL FOR ABSTRACTS
+
+SimTecT 97
+Advancing Simulation Technology and Training
+
+17-20th March, 1997
+
+Rydges (Lakeside) Hotel,
+Canberra, ACT
+AUSTRALIA
+
+http://www.cse.rmit.edu.au/simtect
+
+
+About SimTecT 97
+
+The Simulation Technology and Training Conference (SimTecT 97)
+will be held at the Rydges (Lakeside) Hotel, in Canberra, Australia in
+March 1997.  This conference will bring together key people from
+industry, academia and government agencies to explore current and
+future developments in simulation and training.  Until relatively
+recently, the benefits of computer-generated environments were only
+available to a few highly specialised users.  However, these benefits are
+now available not just for the training of specialist skills needed to
+control complex systems, but also for training everyday skills, such as
+driving a car.
+
+The highly successful SimTecT 96 was held in Melbourne, Australia.
+Lt Col Dave Bartlett, one of the keynote speakers from the US Defence
+Modelling and Simulation Office (DMSO), said that "it was one of the
+best conferences I have attended in the last 10 years".
+
+SimTecT 97 will discuss the way forward in simulation technology and
+training, as well as recent innovations which have vastly improved the
+technologies used to generate "virtual worlds".  Current developments
+in simulation technology include visual displays, computer generated
+imagery, C3I, digital battlefield, haptic devices (force feedback), three-
+dimensional sound, and software tools enabling complex database and
+synthetic environments to be developed easily.  With the dramatic
+advances in computing power and the accompanying reductions in
+cost, simulation is now being applied in a wide range of expanding
+application areas.
+
+
+Abstract submissions
+
+Authors are invited to submit one page abstracts describing both
+theoretical and practical work in any area of simulation technology and
+training (including commercial, medical, mining and military areas) by
+Friday 27th September, 1996.  Authors whose abstracts are accepted
+will be invited to submit full papers by Monday 16th December 1996.
+The final papers will be published in the conference proceedings.
+Classified papers will not be accepted.  Accepted papers must have
+unlimited distribution and made available to conference organisers for
+reprinting.  A broader range of topics will be considered (as compared
+to SimTecT 96); these include, but are not limited to:
+
+  advanced and prototype systems
+  case studies
+  commercial accreditation
+  commercial/industrial applications
+  computer generated forces (CGF)
+  databases
+  fidelity of visual, motion, auditory and other sensory cues
+  interoperability (DIS, HLA, etc.)
+  scientific visualisation
+  simulator and operator interfaces
+  training effectiveness
+  training methodologies and transfer
+  verification, validation and accreditation (VV&A)
+  virtual reality
+
+Abstracts must be received by the conference programme committee
+before or on Friday, 27th September, 1996.  Full papers will be required
+by Monday 16th December, 1996.  Send all submissions to :
+
+Mr Paul Beckett
+SimTecT 97
+Department of Computer Systems Engineering
+RMIT
+2476 V GPO
+Melbourne, Victoria   3001
+AUSTRALIA
+
+Email:   pbeckett@rmit.edu.au
+Phone:  + 61 3 9660 5301
+Fax:    + 61 3 9660 5340
+
+
+Important dates
+
+27th September, 1996,          Deadline for abstract proposals
+11th October, 1996             Notification of abstract acceptance
+16th December, 1996            Camera ready and electronic copy of full 
+				paper
+
+17th - 19th  March, 1997      Conference sessions
+17th - 19th  March, 1997      Trade Exhibition
+20th March, 1997              Workshop/Tutorial sessions
+
+
+Further Information
+
+The organising committee of SimTecT 97, under the auspices of the
+Simulation Industry Association of Australia (SIAA), consists of the
+following members:
+
+Mr Paul Beckett, Royal Melbourne Institute of Technology (RMIT)
+Ms Jennifer Briggs, Defence Science and Technology Organisation, (DSTO)
+Mr Peter Hill, Wormald Technology
+Mr Dennis Macdonald, CSC Australia
+Dr Mather Mason, Defence Science and Technology Organisation, (DSTO)
+Mr Michael McKenzie, CAE Electronics (AUS)
+Mr Ray Page, Nicoll- Cooke Associates
+Dr Sabrina Sestito, Defence Science and Technology Organisation, (DSTO)
+Mr Kevin Smith, Commonwealth Scientific and Industrial Research
+		Organisation (CSIRO)
+Prof Tom Triggs, Monash University
+Mr Grant Tudor, Adacel Pty Ltd
+
+Further information about SimTecT 97 can be obtained by looking at
+http://www.

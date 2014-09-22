@@ -1,0 +1,175 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Wed Jun 10 06:42:37 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id GAA00407
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 10 Jun 1998 06:42:34 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ae14897;
+          9 Jun 98 11:39:07 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa08367;
+          5 Jun 98 17:25:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12248;
+          5 Jun 98 17:25 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id bb02949; 5 Jun 98 15:15 EDT
+Received: from beech.sucs.soton.ac.uk by CS.CMU.EDU id aa24434;
+          5 Jun 98 14:38:39 EDT
+Received: from juniper.sucs.soton.ac.uk (juniper.sucs.soton.ac.uk [152.78.128.175])
+    by beech.sucs.soton.ac.uk (8.8.8/relay-02) with ESMTP id TAA04759;
+    Fri, 5 Jun 1998 19:37:52 +0100 (BST)
+Received: from mulberry.psy.soton.ac.uk (mulberry.psy.soton.ac.uk [152.78.195.73]) by juniper.sucs.soton.ac.uk (8.7.5/8.7.3) with SMTP id TAA06491; Fri, 5 Jun 1998 19:37:49 +0100 (BST)
+Date: Fri, 5 Jun 1998 19:37:49 +0100 (BST)
+From: Stevan Harnad <harnad@coglit.soton.ac.uk>
+X-Sender: harnad@mulberry.psy.soton.ac.uk
+To: PSYC@cogsci.soton.ac.uk
+cc: connectionists <connectionists@cs.cmu.edu>,
+        cogneuro <cogneuro@ptolemy.arc.nasa.gov>,
+        Cognitive Science List <cogsci@mailbase.ac.uk>
+Subject: Pylyshyn on Vision & Cognition: BBS Call for Commentators
+Message-ID: <Pine.SGI.3.95.980605193223.22259b-100000@mulberry.psy.soton.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Below is the abstract of a forthcoming BBS target article on:
+
+IS VISION CONTINUOUS WITH COGNITION?  THE CASE FOR COGNITIVE
+IMPENETRABILITY OF VISUAL PERCEPTION
+
+by Zenon Pylyshyn
+
+This article has been accepted for publication in Behavioral and Brain
+Sciences (BBS), an international, interdisciplinary journal providing
+Open Peer Commentary on important and controversial current research in
+the biobehavioral and cognitive sciences.
+
+Commentators must be BBS Associates or nominated by a BBS Associate. To
+be considered as a commentator for this article, to suggest other
+appropriate commentators, or for information about how to become a BBS
+Associate, please send EMAIL to:
+
+    bbs@cogsci.soton.ac.uk
+
+      or write to:
+    
+    Behavioral and Brain Sciences
+    Department of Psychology
+    University of Southampton
+    Highfield, Southampton
+    SO17 1BJ UNITED KINGDOM
+
+    http://www.princeton.edu/~harnad/bbs/
+    http://www.cogsci.soton.ac.uk/bbs/
+    ftp://ftp.princeton.edu/pub/harnad/BBS/
+    ftp://ftp.cogsci.soton.ac.uk/pub/bbs/
+    gopher://gopher.princeton.edu:70/11/.libraries/.pujournals
+
+If you are not a BBS Associate, please send your CV and the name of a
+BBS Associate (there are currently over 10,000 worldwide) who is
+familiar with your work. All past BBS authors, referees and commentators
+are eligible to become BBS Associates.
+
+To help us put together a balanced list of commentators, please give
+some indication of the aspects of the topic on which you would bring
+your areas of expertise to bear if you were selected as a commentator.
+An electronic draft of the full text is available for inspection
+with a WWW browser, anonymous ftp or gopher according to the
+instructions that follow after the abstract.
+
+____________________________________________________________________
+
+   IS VISION CONTINUOUS WITH COGNITION?  THE CASE FOR COGNITIVE
+   IMPENETRABILITY OF VISUAL PERCEPTION
+
+                Zenon Pylyshyn 
+                Rutgers Center for Cognitive Science 
+                Rutgers University 
+                Psychology Addition, Busch Campus, 
+                New Brunswick, NJ 08903 
+                zenon@ruccs.rutgers.edu
+
+    KEYWORDS: visual processing, modularity, cognitive
+    penatrability, early vision context effects, top down
+    processes, signal detection theory, attention expert
+    perception, perceptual learning, knowledge-based vision, visual
+    agnosia, categorical perception.
+
+    ABSTRACT: Although the study of visual perception has made more
+    progress in the past 40 years than any other area of cognitive
+    science, there remain major disagreements as to how closely
+    vision is tied to cognition. This paper sets out some of the
+    arguments for both sides (arguments from computer vision,
+    neuroscience, Psychophysics, perceptual learning and other areas
+    of vision science) and defends the position that an important
+    part of visual perception, corresponding to what some people
+    have called early vision, is prohibited from accessing relevant
+    expectations, knowledge and utilities in determining the
+    function it computes - in other words it is cognitively
+    impenetrable.  That part of vision is complex and involves
+    top-down interactions that are internal to the early vision
+    system.  Its function is to provide a structured representation
+    of the 3-D surfaces of objects sufficient to serve as an index
+    into memory, with somewhat different outputs being made
+    available to other systems such as those dealing with motor
+    control.  The paper also addresses certain conceptual and
+    methodological issues raised by this claim, including the use of
+    signal detection theory and event-related potentials to assess
+    cognitive penetration of vision.
+
+    A distinction is made among several stages in visual processing.
+    These include, in addition to the inflexible early-vision
+    stage, a pre-perceptual attention-allocation stage and a
+    post-perceptual evaluation, selection, and inference stage which
+    accesses long-term memory. These two stages provide the primary
+    ways in which cognition can affect the outcome of visual
+    perception.  The paper discusses arguments that have been
+    presented in both computer vision and psychology showing that
+    vision is "intelligent" and involves elements of "problem
+    solving".  It is suggested that the cases of apparently
+    intelligent interpretation that are sometimes cited in support
+    of this claim do not show cognitive penetration, but rather they
+    show that certain natural constraints on interpretation,
+    concerned primarily with optical and geometrical properties of
+    the world, have been compiled into the visual system.  The paper
+    also examines a number of examples where instructions and
+    "hints" are alleged to affect what is seen.  In each case it is
+    concluded that the evidence is more readily assimilated to the
+    view that when cognitive effects are found, they have a locus
+    outside early vision, in such processes as the allocation of
+    focal attention and identification of the stimulus.
+
+
+--------------------------------------------------------------
+To help you decide whether you would be an appropriate commentator for
+this article, an electronic draft is retrievable from the World Wide
+Web or by anonymous ftp or gopher from the US or UK BBS Archive.
+Ftp instructions follow below. Please do not prepare a commentary on
+this draft. Just let us know, after having inspected it, what relevant
+expertise you feel you would bring to bear on what aspect of the
+article.
+
+The URLs you can use to get to the BBS Archive:
+
+    http://www.princeton.edu/~harnad/bbs/
+    http://www.cogsci.soton.ac.uk/bbs/Archive/bbs.pylyshyn.html
+    ftp://ftp.princeton.edu/pub/harnad/BBS/bbs.pylyshyn
+    ftp://ftp.cogsci.soton.ac.uk/pub/bbs/Archive/bbs.pylyshyn
+    gopher://gopher.princeton.edu:70/11/.libraries/.pujournals
+
+To retrieve a file by ftp from an Internet site, type either:
+ftp ftp.princeton.edu
+   or
+ftp 128.112.128.1
+   When you are asked for your login, type:
+anonymous
+   Enter password as queried (your password is your actual userid:
+   yourlogin@yourhost.whatever.whatever - be sure to include the "@")
+cd /pub/harnad/BBS
+   To show the available files, type:
+ls
+   Next, retrieve the file you want with (for example):
+get bbs.pylyshyn
+   When you have the file(s) you want, type:
+quit
+
+

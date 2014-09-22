@@ -1,0 +1,45 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk Wed Sep  8 10:46:08 MET 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id KAA11549
+	for dspstaff-list; Wed, 8 Sep 1999 10:46:06 +0200 (METDST)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from localhost (jaas@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA11545;
+	Wed, 8 Sep 1999 10:46:03 +0200 (METDST)
+Date: Wed, 8 Sep 1999 10:46:03 +0200 (METDST)
+From: John Aasted Sorensen <jaas@eivind.imm.dtu.dk>
+To: dspstaff@eivind.imm.dtu.dk, dspstud@eivind.imm.dtu.dk
+Subject: MM Workshop deltagelse.
+Message-ID: <Pine.HPP.3.96.990908104354.10881B-100000@eivind.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+
+Det er muligt for interesserede studerende at deltage 
+i  Multimedia Signalbehandlingsworkshop, der finder
+sted fra mandag den 13. sep til onsdag den 15. sep.
+Stedet er Hotel Marienlyst Helsingoer.
+
+Man kan deltage ved blot at moede op, og undlaede at
+registrere. Ved deltagelse paa denne maade kan man foelge
+sessionerne. Desvaerre er det, af oekonomiske grunde, 
+ikke muligt at tilbyde proceedings, cd-rom, kaffepauser, 
+frokoster etc.
+
+Yderligere information om tid, sted og program paa
+http://eivind.imm.dtu.dk/mmsp99/
+
+Venlig hilsen
+John
+
+
+  
+
+

@@ -1,0 +1,100 @@
+
+
+From www-vrml-approval@vrml.org Fri Jul 11 21:44:33 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id DAA01591 for <fnielsen@eivind.imm.dtu.dk>; Sat, 12 Jul 1997 03:44:32 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id PAA24521; Fri, 11 Jul 1997 15:50:09 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id PAA24495; Fri, 11 Jul 1997 15:50:05 -0400 (EDT)
+Received: from wired.com (get.wired.com) by world.std.com (5.65c/Spike-2.0)
+	id AA20409; Fri, 11 Jul 1997 15:50:04 -0400
+Received: from algol.cs.umbc.edu (root@algol.cs.umbc.edu [130.85.100.2]) by wired.com (8.8.5/8.7.3) with ESMTP id MAA03999; Fri, 11 Jul 1997 12:50:03 -0700 (PDT)
+Received: from retriever.cs.umbc.edu (ebert@retriever.cs.umbc.edu [130.85.100.32]) by algol.cs.umbc.edu (8.8.5/8.6.9) with ESMTP id PAA04339 for <www-vrml@wired.com>; Fri, 11 Jul 1997 15:49:59 -0400 (EDT)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (ebert@localhost) by retriever.cs.umbc.edu (8.8.5/8.6.9) id PAA01230 for www-vrml@wired.com; Fri, 11 Jul 1997 15:49:59 -0400 (EDT)
+Date: Fri, 11 Jul 1997 15:49:59 -0400 (EDT)
+Message-Id: <199707111949.PAA01230@retriever.cs.umbc.edu>
+To: www-vrml@wired.com
+Subject: CFP: New Paradigms in Information Visualization Workshop
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+			   Call for Papers
+
+  Workshop on New Paradigms in Information Visualization and Manipulation
+
+			 November 13-14, 1997
+			  Las Vegas, Nevada
+
+
+
+In Conjunction with the ACM Conference on Information and Knowledge
+Management (CIKM'97)  
+
+The CIKM'97 Workshop on New Paradigms in Information Visualization and
+Manipulation will be a forum for presentation and discussion of new
+ideas and techniques for accessing, visualizing and manipulating
+information. Topics of interest include, but are not restricted to:
+
+      applications of virtual reality, including VRML; 
+      shared virtual environments and simulations; 
+      dynamic data visualization; 
+      visualization of multidimensional information spaces; 
+      visualization of large, dynamic information collections; 
+      applications of Internet tools such as MUDs, MOOs, and IRCs; 
+      document and corpus metrics; 
+      multi-modal information displays; 
+      visual data mining and knowledge discovery; 
+      Web or network-based visualization; 
+      applications in document analysis 
+      software and hardware architectures to support information visualization;
+      and social interaction in multi-user information visualization systems. 
+
+We are particularly interested in reports of work in progress,
+implementation techniques, and practical experience with visualization
+of information collections of all sizes. A significant portion of the
+workshop agenda will be devoted to discussion of pending research
+questions, and directions for future work in this area.
+
+Prospective participants are invited (but not required) to submit
+position papers. The suggested maximum length is four pages. The
+position papers will be reviewed by the organizing committee, and
+accepted papers will appear in the workshop proceedings. Some of the
+accepted papers will be selected for informal presentation at the
+workshop. Accepted papers that were submitted electronically will be
+available via WWW by early November.
+
+Final Proceedings will be published by ACM Press after the
+workshop. See the Web page for further information about preparation
+of camera-ready copy for accepted papers.
+
+Mail papers in either ASCII or HTML to ebert@cs.umbc.edu by September
+20, 1997. We prefer e-mail submissions, but authors who lack e-mail
+access may send papers to Dr. David Ebert, Department of Computer
+Science and Electrical Engineering, University of Maryland Baltimore
+County, Baltimore, MD 21250 USA. Submissions should include the title,
+author(s), author's affiliation, e-mail address, fax number and postal
+address. In case of multiple authors, please indicate which author is
+responsible for correspondence.
+
+For more information on the CIKM'97 conference, please see the CIKM'97
+Web page:  http://enws396.eas.asu.edu/cikm97/cikm97.html
+
+                     Important Dates 
+
+ Position paper submission deadline  September 20, 1997 
+ Notification of acceptance          October 10, 1997 
+ Workshop date                       November 13-14, 199
+
+
+
+-- Dr. David S. Ebert, Computer Science & Electrical Engineering Department ---
+-- U. of Maryland Baltimore County; 1000 Hilltop Circle, Baltimore, MD 21250 --
+------------ ebert@cs.umbc.edu or http://www.cs.umbc.edu/~ebert   -------------
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

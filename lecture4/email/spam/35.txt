@@ -1,0 +1,30 @@
+
+
+From CCR@ccr.magazine  Mon May  4 23:03:50 1998
+Received: from mail.mitm.net (MAIL.mitm.net [206.222.92.3])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id XAA04020
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 4 May 1998 23:03:48 +0200 (METDST)
+From: CCR@ccr.magazine
+Received: from push.e-max.net ([206.222.92.22]) by mail.mitm.net
+          (Netscape Messaging Server 3.5)  with SMTP id 177;
+          Sat, 2 May 1998 21:15:10 -0400
+To: CCR@ccr.magazine
+Subject: Canadian Computer Reseller
+Date: Sat, 02 May 1998 21:07:46 -0400
+Errors-To: CCR@ccr.magazine
+Originator: CCR@ccr.magazine
+X-Mailer: GroupMaster
+X-Mailer-Version: 1.4
+X-GroupMasterUser: MITM
+Message-ID: <19980503011329384.AAM422.177@push.e-max.net>
+Status: RO
+X-Status: 
+
+To renew your free 12 month subscription to "Canadian Computer Reseller" Magazine, please complete the form at...
+
+http://www.e-max.net/ccr/index.htm
+
+____________________________________________________________
+
+Unsubscribe or access your membership settings at: 
+http://push.e-max.net/GMG/ctrlpanel/0/2

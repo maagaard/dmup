@@ -1,0 +1,81 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Apr 16 07:21:21 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA10880;
+	Fri, 16 Apr 1999 07:21:13 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab15819;
+          15 Apr 99 19:43 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab15817;
+          15 Apr 99 19:38 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26429;
+          15 Apr 99 19:38 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05953; 15 Apr 99 18:44 EDT
+Received: from amethea.nsi.edu by CS.CMU.EDU id aa08985; 15 Apr 99 18:44:14 EDT
+Received: from spud (spud.nsi.edu [198.133.185.27])
+	by nsi.edu (8.9.1/8.9.1) with SMTP id PAA13969;
+	Thu, 15 Apr 1999 15:44:11 -0700 (PDT)
+From: Giulio Tononi <tononi@nsi.edu>
+To: Connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Cc: Giulio Tononi <tononi@nsi.edu>
+Subject: Junior Fellow (postdoc) positions, The Neurosciences Institute
+Date: Thu, 15 Apr 1999 15:42:21 -0700
+Message-ID: <000201be8791$39591660$1bb985c6@spud.nsi.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.2106.4
+Importance: Normal
+Status: RO
+X-Status: 
+
+THE NEUROSCIENCES INSTITUTE, SAN DIEGO
+
+The Neurosciences Institute is an independent, not-for-profit organization
+at the forefront of research on the brain. Research at the Institute spans
+levels from the molecular to the behavioral and from the computational to
+the cognitive. The Institute has a strong tradition in theoretical
+neurobiology and has recently established new experimental facilities. The
+Institute is also the home of the Neurosciences Research Program and serves
+as an international meeting place for neuroscientists.
+
+JUNIOR FELLOW, NEURAL BASIS OF CONSCIOUSNESS. The Institute has a strong
+tradition in the theoretical and experimental study of consciousness (see
+Science, 282:1846-1851). Applications are invited for positions as Junior
+Fellows to collaborate on experimental and theoretical studies of the neural
+correlates of conscious perception. Applicants should be at the Postdoctoral
+level with strong backgrounds in cognitive neuroscience, neuroimaging
+(including MEG, EEG, and fMRI), and theoretical neurobiology.
+
+JUNIOR FELLOW IN THEORETICAL NEUROBIOLOGY. Applications are invited for
+positions as Junior Fellows in Theoretical Neurobiology. Since 1987, the
+Institute has had a research program dedicated to developing biologically
+based, experimentally testable theoretical models of neural systems. Current
+projects include large-scale simulations of neuronal networks and the
+analysis of functional interactions among brain areas using
+information-theoretical approaches. Advanced computing facilities are
+available. Applicants should be at the Postdoctoral level with strong
+backgrounds in mathematics, statistics, and computer modeling.
+
+JUNIOR FELLOW IN EXPERIMENTAL NEUROBIOLOGY. Applications are invited for
+positions as Junior Fellow in Experimental Neurobiology. A current focus of
+the Institute is on the action and pharmacological manipulation of
+neuromodulatory systems with diffuse projections, such as the noradrenergic,
+serotoninergic, cholinergic, dopaminergic, and histaminergic systems.
+Another focus is on behavioral state control and the functions of sleep.
+Applicants should be at the Postdoctoral level with strong backgrounds in
+the above-mentioned areas.
+
+Fellows receive stipends and research support commensurate with
+qualifications and experience. Positions are now available. Applications for
+all positions listed should contain a short statement of research interests,
+a curriculum vitae, and the names of three references and should be sent to:
+Giulio Tononi, The Neurosciences Institute, 10640 John Jay Hopkins Drive,
+San Diego, California 92121; Email: tononi@nsi.edu; URL: http://
+www.nsi.edu.
+

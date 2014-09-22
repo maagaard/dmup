@@ -1,0 +1,27 @@
+
+
+From soap@info9.com Mon Oct 11 13:38:32 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id NAA09583
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 11 Oct 1999 13:38:32 +0200 (METDST)
+Received: from soap (T9He0n47.midsouth.rr.com [24.92.84.71])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id NAA15446
+	for <fn@imm.dtu.dk>; Mon, 11 Oct 1999 13:40:09 +0200 (METDST)
+Date: Mon, 11 Oct 1999 13:40:09 +0200 (METDST)
+From: soapmakers <soap@info9.com>
+To: <fn@imm.dtu.dk>
+Message-Id: <419.436444.27828843soap@info9.com>
+Subject: Free Soapmaking Message Board, Tips, recipes, Chat NON-COMMERCIAL
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+ Hi, just a line to let you know that the FREE! Soapmakers message board is now "on 
+the air" This is a non-profit TOTALLY NON-COMMERCIAL message board for tips 
+and trends in soapmaking.  Please come and share your soapmaking experience 
+with us at soapmaking.chatboard.org
+
+Thanks
+

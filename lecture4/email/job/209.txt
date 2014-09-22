@@ -1,0 +1,146 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Oct 28 22:54:53 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id WAA22219;
+	Thu, 28 Oct 1999 22:54:49 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16283;
+          28 Oct 99 13:38 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16254;
+          28 Oct 99 13:15 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26168;
+          28 Oct 99 13:15 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa02781; 26 Oct 99 12:50 EDT
+Received: from montfort.idiap.ch by edrc.cmu.edu id aa15659; 26 Oct 99 12:50 EDT
+Received: from idiap.ch (localhost [127.0.0.1])
+	by montfort.idiap.ch (8.9.1/8.9.1) with ESMTP id SAA21967
+	for <connectionists@cs.cmu.edu>; Tue, 26 Oct 1999 18:50:24 +0200 (MET DST)
+Message-Id: <199910261650.SAA21967@montfort.idiap.ch>
+X-Mailer: exmh version 2.0.2 2/24/98
+To: connectionists@cs.cmu.edu
+Subject: Postdocs/PhDs in Multimodal Biometrics and Multimedia Retrieval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Tue, 26 Oct 1999 18:50:23 +0200
+From: Juergen Luettin <luettin@idiap.ch>
+Status: RO
+X-Status: 
+
+                   POSTDOC and PHD POSITIONS
+
+                             in
+
+          MULTIMODAL BIOMETRICS and MULTIMEDIA RETRIEVAL
+
+                             at
+
+                     IDIAP, Switzerland
+
+
+Applications are invited for several Post-Doctoral positions and PhD
+research studentships in the Computer Vision Group at IDIAP to work
+in one of the following research areas (with possible research topics):
+
+Video Indexing/Retrieval
+- adaptation of video content analysis methods
+- combination and integration of audio, video, and text information
+- high level video structure modelling
+- video abstraction/summary generation, browsing, GUI, MPEG7
+
+Audio Indexing/Retrieval
+- adaptation of speech recognition systems to video (acoustic
+  models, lexicon, language models, topic)
+- audio segmentation (speech, music, audio events)
+- speaker change detection
+- document indexing and retrieval, MPEG7
+
+Text Segmentation and Recognition in Videos
+- detection, segmentation and recognition of text embedded in video
+- investigation of image properties (texture, colour, shape)
+- use of temporal information
+- integration of detection/segmentation algorithms with text recognition
+
+  engine
+
+Face Analysis
+- face detection (in complex backgrounds, under variant pose, occlusion)
+
+- face recognition (identification/verification, robustness issues,
+  confidence estimation, evidence integration)
+
+Speaker Verification
+- client model adaptation
+- decision strategy
+- robustness to microphone/channel characteristics
+- discriminant analysis
+
+Classifier Combination
+- classifier confidence estimation
+- classifier combination techniques
+- evidence integration
+- application to multimodal biometrics, video retrieval
+
+The successful candidates will participate in the following important
+and highly competitive European and national projects:
+
+o BANCA: Biometric Access Control for Networked and e-Commerce
+  EU project, lead by Matra Nortel Communication
+  http://www.idiap.ch/vision/banca.html
+
+o ASSAVID: Automatic Segmentation and Semantic Annotation of Sports
+Videos
+  EU project, lead by Sony UK
+  http://www.idiap.ch/vision/assavid.html
+
+o VOCR: Text Segmentation and Recognition for Video Retrieval
+  Swiss National Science Foundation project
+  http://www.idiap.ch/vision/vocr.html
+
+Several tasks will be performed in close collaboration with other
+project partners including universities, industries, and end-users.
+
+REQUIREMENTS
+
+Postdoctoral candidates should possess a relevant PhD degree and
+doctoral students an M.S. degree (or equivalent) in Computer Science
+or a related area and should have a strong background in mathematics,
+signal processing, and pattern recognition.
+
+ABOUT IDIAP
+
+IDIAP is a semi-private research institute, that conducts basic and
+applied research in artificial intelligence. The main research
+activities are in machine learning, speech processing, and computer
+vision. Research in the rapidly growing computer vision group focuses
+on topics in multimedia processing including multimodal biometrics,
+multimodal speech recognition, and document analysis and recognition
+(See http://www.idiap/vision).  Doctoral students at IDIAP are usually
+registered at a Swiss university or Federal Institute of Technology,
+often EPFL, that awards the PhD degree.
+
+LOCATION
+
+IDIAP is located in the town of Martigny in Valais, a scenic region in
+the south of Switzerland, surrounded by some of the highest mountains
+in Europe which offer some of the best skiing, hiking, and climbing.
+It is within close proximity to Lausanne, and lake Geneva, and centrally
+
+located for travel to other parts of Europe.
+
+HOW TO APPLY
+
+Prospective candidates should send a detailed CV, including 2 names
+and addresses of referees, research interest, and earliest possible
+starting date, preferably by email to
+
+Dr. Juergen Luettin
+Head, Computer Vision Group
+IDIAP, CP 592, 1920 Martigny, Switzerland
+Email: Luettin@idiap.ch
+Tel: +41 27 721 77 27
+Fax: +41 27 721 77 12
+
+
+
+
+

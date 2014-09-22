@@ -1,0 +1,50 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Oct 31 04:54:22 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id EAA04751;
+	Sat, 31 Oct 1998 04:54:16 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14933;
+          30 Oct 98 21:20 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14931;
+          30 Oct 98 21:11 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18020;
+          30 Oct 98 21:10 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa16288; 30 Oct 98 16:37 EST
+Received: from mail1.microsoft.com by EDRC.CMU.EDU id aa14744;
+          30 Oct 98 16:37:02 EST
+Received: by INET-IMC-01 with Internet Mail Service (5.5.2232.9)
+	id <V7X6X5DF>; Fri, 30 Oct 1998 13:36:55 -0800
+Message-ID: <FD8F41F04D35D111899600805F19A16C0AFCBB63@RED-MSG-48>
+From: David Heckerman <heckerma@MICROSOFT.com>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Subject: Call for participation: Workshop on AI and Statistics, Jan 1999
+Date: Fri, 30 Oct 1998 13:36:56 -0800
+X-Mailer: Internet Mail Service (5.5.2232.9)
+Status: RO
+X-Status: 
+
+                       Call For Participation
+
+            Uncertainty 99: Seventh International Workshop on
+                Artificial Intelligence and Statistics
+
+                          January 3-6, 1999
+                       Ft. Lauderdale, Florida
+
+This is the seventh in a series of workshops that has brought together
+researchers in Artificial Intelligence and in Statistics to discuss
+problems of mutual interest. The exchange has broadened research in
+both fields and has strongly encouraged interdisciplinary work.
+
+Registration forms, a provisional program, a list of the program
+committee, and other details about the conference and the Society for
+Artificial Intelligence and Statistics can be found at
+http://uncertainty99.microsoft.com/.
+
+David Heckerman and Joe Whittaker,
+Conference Chairs
+
+
+
+

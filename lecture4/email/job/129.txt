@@ -1,0 +1,52 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jun 14 02:08:31 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA27527;
+	Mon, 14 Jun 1999 02:08:22 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa00783;
+          13 Jun 99 18:28 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa00781;
+          13 Jun 99 18:16 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00748;
+          13 Jun 99 18:15 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa24459; 13 Jun 99 16:22 EDT
+Received: from gatsby.ucl.ac.uk by CS.CMU.EDU id aa08461; 13 Jun 99 16:22:13 EDT
+Received: from flies.gatsby.ucl.ac.uk (flies.gatsby.ucl.ac.uk [192.168.213.5])
+	by axon.gatsby.ucl.ac.uk (8.9.3/8.9.3) with ESMTP id VAA16633;
+	Sun, 13 Jun 1999 21:21:56 +0100 (BST)
+Received: (from zhaoping@localhost)
+	by flies.gatsby.ucl.ac.uk (8.8.7/8.8.7) id VAA05253;
+	Sun, 13 Jun 1999 21:21:10 +0100
+Date: Sun, 13 Jun 1999 21:21:10 +0100
+From: Dr Zhaoping Li <zhaoping@gatsby.ucl.ac.uk>
+Message-Id: <199906132021.VAA05253@flies.gatsby.ucl.ac.uk>
+To: cneuro@bbb.caltech.edu, cogneuro@ptolemy.arc.nasa.gov,
+        connectionists@cs.cmu.edu, cvnet@skivs.ski.org,
+        zhaoping@gatsby.ucl.ac.uk
+Subject: Positions available in computational vision
+Status: RO
+X-Status: 
+
+
+		 Ph.D. student/postdoctoral positions
+				  in
+			 computational vision
+
+The Gatsby Computational Neuroscience Unit at University College
+London seeks applicants for a position as a Ph.D.  student or
+postdoctoral researcher in computational vision. Candidates should
+have a strong analytical background and a keen interest in
+neuroscience and/or psychophysics.
+
+Applicants should send a detailed CV, a statement of study/research
+interests, and names and addresses of 3 references to
+zhaoping@gatsby.ucl.ac.uk (email applications preferred) or Zhaoping
+Li, 17 Queen Square, London, WC1N, 3AR, UK.
+
+For more information on the Gatsby Unit see
+http://www.gatsby.ucl.ac.uk, and on Zhaoping Li's lab see
+http://www.gatsby.ucl.ac.uk/~zhaoping
+
+
+ 

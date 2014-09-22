@@ -1,0 +1,80 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Sep 30 07:40:01 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id HAA15324;
+	Wed, 30 Sep 1998 07:39:09 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa22763;
+          29 Sep 98 23:40 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22761;
+          29 Sep 98 23:26 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06992;
+          29 Sep 98 23:25 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa00852; 29 Sep 98 9:04 EDT
+Received: from zeina.aub.edu.lb by RI.CMU.EDU id aa21590; 29 Sep 98 9:03:47 EDT
+Received: from [193.188.128.15] (helo=layla.aub.edu.lb)
+	by zeina.aub.edu.lb with esmtp (Exim 1.92 #1)
+	id 0zNzO3-0004Be-00; Tue, 29 Sep 1998 16:00:15 +0300
+Received: from [192.168.161.19] (helo=aub.edu.lb)
+	by layla.aub.edu.lb with esmtp (Exim 1.92 #1)
+	id 0zNzO3-0000Pk-00; Tue, 29 Sep 1998 16:00:15 +0300
+Message-ID: <3611584C.E650E291@aub.edu.lb>
+Date: Tue, 29 Sep 1998 14:59:40 -0700
+From: "Dr. Hassan Ghaziri" <ghaziri@aub.edu.lb>
+Reply-To: ghaziri@aub.edu.lb
+Organization: AUB, Business School
+X-Mailer: Mozilla 4.02 [en] (Win95; I)
+MIME-Version: 1.0
+To: ghaziri@aub.edu.lb
+CC: hybrid-list@cs.ua.edu, connectionists@cs.cmu.edu
+MMDF-Warning:  Unable to confirm address in preceding line at mlist-1.sp.cs.cmu.edu
+MMDF-Warning:  Unable to confirm address in preceding line at skinner.boltz.cs.cmu.edu
+Subject: IFORS 99 CHINA, NN in OR
+References: <36101452.A96E5A97@neuro.informatik.uni-ulm.de>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear Colleagues,
+I have been asked to organize a session on  neural networks and thewir
+applications in operations research as part of the cluster on metaheuristics,
+for which I would like to invite you to
+  participate in presenting a paper at IFORS-99:
+
+
+ {                     IFORS'99, 15th World Conference on Operational
+  Research  Triennial Meeting of the International Federation of
+  Operational Research Societies -- IFORS
+               Hosted by the Operations Research Society of China
+                      Beijing, China, August 16 - 20, 1999.
+  http://www.IFORS.org/leaflet/triennial.html
+  where you can find more details on the conference.
+  }
+
+  A typical session is 100 minutes long and has 3-5 papers.
+  Submission of full papers is optional.  All submitted full papers
+  will be considered for publication in the International Transactions
+  in Operational Research (Peter Bell - Editor; Publisher Pergamon
+  Press on behalf of IFORS).  Papers should not exceed 5,000 words.
+
+  If you are interested please let me have a  title of your
+paper and send them to my Lebanon  address with the following details.
+  - title of the paper,
+  - authors names and addresses,
+  - 50-100 word abstracts.
+
+  I would like to have these information not later than October 16, 1998.
+
+         I am looking forward to hearing from you at your
+  earliest.
+
+         Best regards
+Hassan Ghaziri
+AUB, Business Scool, Beirut Lebanon
+Tel: 00 961-1 352700
+E-mail: ghaziri@aub.edu.lb
+
+
+
+

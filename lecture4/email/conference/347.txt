@@ -1,0 +1,190 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Dec  7 19:29:05 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id TAA16096;
+	Tue, 7 Dec 1999 19:28:59 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac24013;
+          6 Dec 99 23:08 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24003;
+          6 Dec 99 22:57 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26417;
+          6 Dec 99 22:57 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa26820; 6 Dec 99 12:24 EST
+Received: from resu1.ulb.ac.be by ri.cmu.edu id aa00321; 6 Dec 99 12:23 EST
+Received: from mach.vub.ac.be (mach.ulb.ac.be [164.15.128.3]) by resu1.ulb.ac.be (8.8.8/3.17.0.ap (resu))
+        id SAA05383; Mon, 6 Dec 1999 18:23:21 +0100 (MET) for <connectionists@cs.cmu.edu>
+Received: from [164.15.10.80] (iridiamac1.ulb.ac.be [164.15.10.80]) by mach.vub.ac.be (8.9.3/%I%.1.ap (mach.test))
+        id SAA12128; Mon, 6 Dec 1999 18:23:26 +0100 (MET) for <connectionists@cs.cmu.edu>
+X-Sender: mdorigo@pop.vub.ac.be
+Message-Id: <l03130328b471a018caaf@[164.15.10.80]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 6 Dec 1999 18:17:48 +0100
+To: connectionists@cs.cmu.edu
+From: Marco DORIGO <mdorigo@ulb.ac.be>
+Subject: ANTS'2000: Call for papers
+Status: RO
+X-Status: 
+
+ANTS'2000 - From Ant Colonies to Artificial Ants: Second International
+Workshop on Ant Algorithms
+
+Brussels, Belgium, September 8-9, 2000
+
+CALL FOR EXTENDED ABSTRACTS (up-to-date information on the workshop
+is maintained at http://iridia.ulb.ac.be/~ants/ants2000/)
+
+SCOPE OF THE WORKSHOP
+
+The behavior of social insects in general, and of ant colonies in
+particular, has since long time fascinated researchers in ethology and
+animal behavior, who have proposed many models to explain their
+capabilities.  Recently, ant algorithms have been proposed as a novel
+computational model that replaces the traditional emphasis on control,
+preprogramming, and centralization with designs featuring autonomy,
+emergence, and distributed functioning.  These designs are proving
+flexible and robust, able to adapt quickly to changing environments
+and to continue functioning even when individual elements fail.  
+
+A particularly successful research direction in ant algorithms, known
+as "ant colony optimization", is dedicated to their application to
+discrete optimization problems. Ant colony optimization has been
+applied successfully to a large number of difficult combinatorial
+problems like the quadratic assignment and the traveling salesman
+problems, to routing in telecommunications networks, to scheduling
+problems, and so on.  ANTS'2000 is the second edition of the only
+event entirely devoted to ant algorithms and to ant colony
+optimization. Also of great interest to the workshop are models of ant
+colonies behavior which could stimulate new algorithmic approaches.
+
+The aims are to give researchers in both real ants behavior and in ant
+colony optimization an opportunity to meet, to present their latest
+research, and to discuss current developments and applications.  The
+two-day event will be held in Brussels, Belgium, from September 8 to
+September 9, 2000. In the evening of September 7 there will be a
+tutorial on ant algorithms.
+
+
+RELEVANT RESEARCH AREAS
+
+Submissions are invited that describe: 
+
+(1) Models of aspects of real ant colonies behavior that can stimulate
+new algorithmic approaches,
+
+(2) Empirical and theoretical research in ant algorithms and ant
+colony optimization.
+
+(3) Application of ant algorithms and ant colony optimization methods
+to real-world problems.
+
+SUBMISSION OF PAPERS
+
+Papers can be submitted either as extended abstracts or as full
+papers. The length should be of approximately 4 or 10 pages
+respectively.
+
+Formatting and submission instructions are provided at
+http://iridia.ulb.ac.be/~ants/ants2000/ants2000-submission.html.
+
+Accepted papers will be published in a booklet that is to be
+distributed to workshop participants.  We are now investigating the
+possibility of publishing the best papers as a journal special issue.
+In this case, a further call for full papers, that may be longer than
+the 10 pages workshop format, will be released.
+
+All accepted papers will be presented at the workshop as
+oral presentations or as a poster.
+
+
+REGISTRATION AND FURTHER INFORMATION
+
+Up-to-date information about the workshop will be made available at
+the ANTS'2000 web site (http://iridia.ulb.ac.be/~ants/ants2000/).
+For information about local arrangements, registration forms, etc.,
+please refer to the above mentioned web site, or contact the local
+organizer at the address below. 
+
+A registration fee of BF 7,000 will cover local organization expenses,
+coffee breaks, and a social dinner on Friday 8 evening.  PhD students
+reduced registration fee: BF 6,000. A proof of inscription is 
+required in that case.
+
+IMPORTANT DATES
+
+Submission deadline                 April 15,  2000
+Notification of acceptance          May 30, 2000
+Camera ready copy                   June 30, 2000
+Conference                          September 8-9, 2000
+
+
+ANTS'98 CONFERENCE COMMITTEE
+
+PROGRAM CHAIR AND LOCAL ARRANGEMENTS
+
+Marco DORIGO, IRIDIA, Universite' Libre de Bruxelles, Belgium
+
+PROGRAM COMMITTEE
+
+Emile AARTS, Philips Research Labs, Eindhoven, The Netherlands
+Hugues BERSINI, IRIDIA, Universite' Libre de Bruxelles, Belgium
+Eric BONABEAU, EuroBios, Paris, France 
+Freddy BRUCKSTEIN, Technion, Haifa, Israel 
+Alberto COLORNI, Politecnico di Milano, Italy
+David CORNE, University of Reading, Great Britain 
+Jean-Louis DENEUBOURG, Universite' Libre de Bruxelles, Belgium
+Gianni DI CARO, ATR, Kyoto, Japan
+Marco DORIGO, IRIDIA, Universite' Libre de Bruxelles, Belgium
+David FOGEL, Natural Selection, La Jolla, CA, USA 
+Luca M. GAMBARDELLA, IDSIA, Lugano, Switzerland
+Michel GENDREAU, Universite' de Montreal, Canada 
+Deborah GORDON, Stanford University, CA, USA 
+Walter GUTJAHR, University of Vienna, Austria
+Owen HOLLAND, University of West England, Bristol, UK 
+Vittorio MANIEZZO, Universita' di Bologna, Italy
+Zbigniew MICHALEWICZ, University of North Carolina, USA 
+Martin MIDDENDORF, Universitaet Karlsruhe, Germany
+Thomas STUETZLE, Technische Universitaet Darmstadt, Germany
+Eric TAILLARD, IDSIA, Lugano, Switzerland
+Guy THERAULAZ, Universite' Paul Sabatier, Toulouse, France
+Gilles VENTURINI, Universite' de Tours, France 
+
+
+SUBMISSIONS ADDRESS
+
+Submitted papers should be emailed to: mmi@aifb.uni-karlsruhe.de and
+to ants@iridia.ulb.ac.be
+
+PROGRAM CHAIR ADDRESS
+
+Marco Dorigo, Ph.D.
+Chercheur Qualifie' du FNRS       Tel +32-2-6503169
+IRIDIA CP 194/6                   Fax +32-2-6502715
+Universite' Libre de Bruxelles    Secretary +32-2-6502729
+Avenue Franklin Roosevelt 50      http://iridia.ulb.ac.be/dorigo/dorigo.html
+1050 Bruxelles                    http://iridia.ulb.ac.be/~ants/ants2000/
+Belgium                           http://iridia.ulb.ac.be/dorigo/ACO/ACO.html
+
+CONFERENCE LOCATION
+
+Avenue A. Buyl 87
+Building C - 4th floor (IRIDIA, Dorigo's lab, is at the 5th floor of the
+same building).
+There will be arrows and indications to the workshop room.
+
+LIMITED NUMBER OF PLACES
+
+The number of participants will be limited. If you intend to participate
+please fill in and send the intention form available at the workshop web
+page, or drop a line to ants@iridia.ulb.ac.be.
+
+RELATED CONFERENCES
+
+Note that just after ANTS'2000 there will be in Paris (85 minutes by
+train from Brussels) two related conferences: SAB2000, September
+11-15, and PPSN-2000, September 16-20.
+
+
+
+

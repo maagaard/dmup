@@ -1,0 +1,61 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jan 11 11:07:34 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id LAA01892;
+	Tue, 11 Jan 2000 11:07:27 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20978;
+          11 Jan 2000 3:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20967;
+          11 Jan 2000 3:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09359;
+          11 Jan 2000 3:37 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa18369;
+          11 Jan 2000 1:40 EST
+Received: from mail1-im.etl.go.jp by edrc.cmu.edu id aa25108;
+          11 Jan 2000 1:39 EST
+Received: from aidan.etl.go.jp (aidan.etl.go.jp [192.50.104.14])
+	by mail1-im.etl.go.jp (8.9.3/3.7W-99110213) with ESMTP id PAA01488;
+	Tue, 11 Jan 2000 15:39:34 +0900 (JST)
+Received: (from berthouz@localhost)
+	by aidan.etl.go.jp (8.9.3/3.7W) id PAA08517;
+	Tue, 11 Jan 2000 15:39:26 +0900
+Date: Tue, 11 Jan 2000 15:39:26 +0900
+Message-Id: <200001110639.PAA08517@aidan.etl.go.jp>
+X-Authentication-Warning: aidan.etl.go.jp: berthouz set sender to berthouz@etl.go.jp using -f
+From: Luc Berthouze <berthouz@etl.go.jp>
+To: Connectionists@cs.cmu.edu
+Subject: postdoc position at the Electrotechnical Laboratory (ETL), Japan
+Reply-to: berthouz@etl.go.jp
+Status: RO
+X-Status: 
+
+
+We are seeking a postdoctoral fellow with research interests in computational
+neuroscience and cognitive science to collaborate in a project aiming at
+identifying the neural correlates of sensorimotor categorization. Candidates
+should have expertise in computational modeling, in human or animal research
+on learning and some experience in applying neural models to artificial
+systems (robots or simulations).  
+
+The fellowship, for a 2-years period, include salary, accomodation and
+airfare. Candidates should contact Luc Berthouze for more details. 
+
+-----
+  Dr. Luc Berthouze
+  Information Science Division
+  Electrotechnical Laboratory
+  Umezono 1-1-4, Tsukuba 305-8568, Japan
+
+  Tel: +81-298-545369
+  Fax: +81-298-545857
+  email: berthouz@etl.go.jp
+
+
+
+
+
+
+
+
+

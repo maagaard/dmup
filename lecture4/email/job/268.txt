@@ -1,0 +1,79 @@
+
+
+From spm-request@mailbase.ac.uk Wed Jan 19 15:17:55 MET 2000
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id PAA28886
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 19 Jan 2000 15:17:54 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id OAA29582;
+	Wed, 19 Jan 2000 14:16:54 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id OAA04938;
+        Wed, 19 Jan 2000 14:11:33 GMT
+Received: from fil.ion.ucl.ac.uk (cream.fil.ion.ucl.ac.uk [193.62.66.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id OAA04925;
+        Wed, 19 Jan 2000 14:11:29 GMT
+Received: from prince.fil.ion.ucl.ac.uk by fil.ion.ucl.ac.uk (8.8.8+Sun/SMI-SVR4)
+	id OAA12495; Wed, 19 Jan 2000 14:10:46 GMT
+Received: (from karl@localhost)
+	by prince.fil.ion.ucl.ac.uk (8.8.8+Sun/8.8.8) id OAA06461
+	for spm@mailbase.ac.uk; Wed, 19 Jan 2000 14:10:47 GMT
+Date: Wed, 19 Jan 2000 14:10:47 GMT
+Message-Id: <200001191410.OAA06461@prince.fil.ion.ucl.ac.uk>
+X-Sun-Charset: ISO-8859-1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=unknown-8bit
+Content-Transfer-Encoding: 8bit
+Subject: Position available
+From: Karl Friston <karl@cream.fil.ion.ucl.ac.uk>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Karl Friston <karl@cream.fil.ion.ucl.ac.uk>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+University College London
+Institute of Cognitive Neuroscience and Department of Psychology
+
+Postdoctoral Research Scientist
+
+Applications are invited for a postdoctoral position in the Cognitive
+Electrophysiology Group (head: Prof M.D. Rugg) of the Institute of
+Cognitive Neuroscience. In collaboration with the Functional Imaging
+Laboratory of the Wellcome Department of Cognitive Neurology, the
+post-holder will have responsibility for a project using ERPs and
+event-related fMRI to study the effects of aging on the neural
+correlates of memory encoding and retrieval. Applicants should have
+prior experience with ERP or functional neuroimaging methods, and an
+interest in the cognitive neuroscience of memory and aging.
+
+The post will run for 3 years in the first instance. Salary will be on
+the RA I scale, starting between £18,915 and £23,521 pa (plus £2134 pa
+London allowance) depending on age and experience.
+
+Applications (in triplicate) including the names of two referees should
+be lodged with Mr John Draper, Department of Psychology, University
+College London, Gower Street, London WC1E 6BT (j.draper@ucl.ac.uk), not
+later than 11th of February. Further information about the post can be
+obtained from Prof. M.D. Rugg, Institute of Cognitive Neuroscience
+(email: m.rugg@ucl.ac.uk)
+
+
+Michael D. Rugg PhD FRSE
+Professor of Cognitive Neuroscience &
+Wellcome Principal Research Fellow
+
+Institute of Cognitive Neuroscience
+17 Queen Square
+London WC1N 3AR
+
+Tel: +44(0)20-7679-1120
+Fax: +44(0)20-7813-2835
+email: m.rugg@ucl.ac.uk
+

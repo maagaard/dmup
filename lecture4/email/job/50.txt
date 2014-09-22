@@ -1,0 +1,65 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 13 22:14:20 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA27314;
+	Wed, 13 Jan 1999 22:14:13 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01454;
+          13 Jan 99 14:49 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01452;
+          13 Jan 99 14:41 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03068;
+          13 Jan 99 14:40 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab16707; 13 Jan 99 11:18 EST
+Received: from swift.cvs.rochester.edu by EDRC.CMU.EDU id aa09318;
+          13 Jan 99 11:18:20 EST
+Received: from [128.151.80.188] (aslin.cvs.rochester.edu [128.151.80.188])
+	by swift.cvs.rochester.edu (8.8.5/8.8.5.3) with ESMTP id LAA22510
+	for <connectionists@cs.cmu.edu>; Wed, 13 Jan 1999 11:18:18 -0500 (EST)
+Message-Id: <v04020a04b2c27787bfa7@[128.151.80.188]>
+Date: Wed, 13 Jan 1999 11:19:10 -0500
+To: connectionists@cs.cmu.edu
+From: "Richard N. Aslin" <aslin@cvs.rochester.edu>
+Subject: postdoc positions at University of Rochester
+Status: RO
+X-Status: 
+
+POSTDOCTORAL FELLOWSHIPS, UNIVERSITY OF ROCHESTER.  The Department of
+Brain and Cognitive Sciences seeks two outstanding postdoctoral
+fellows with research interests in learning and/or developmental
+cognitive science.  One fellowship is affiliated with a NIH training
+grant in Learning, Development, and Behavior, and the other fellowship
+is affiliated with a NSF grant on Learning and Intelligent Systems.
+Supervising faculty for both fellowships work on problems of learning
+and development using behavioral, computational, and neurobiological
+approaches.  Candidates should have prior background in at least one
+of these approaches and an interest in working collaboratively in a
+highly interdisciplinary setting.  Several faculty have special
+interest in statistical learning in the domains of language and
+perception, although a commitment to this interest is associated only
+with the NSF fellowship.  The NIH fellowship is open only to US
+citizens or permanent residents.  Applicants should send a letter
+describing their graduate training and research interests, a
+curriculum vitae, and arrange to have three letters of recommendation
+sent to: Professor Richard N. Aslin, Department of Brain and Cognitive
+Sciences, Meliora Hall, University of Rochester, Rochester, NY
+14627-0268.  Review of applications will begin on February 15, 1999
+and continue until one or both positions are filled, with an expected
+start date of June/August, 1999.  Applicants can learn about the
+department, its faculty, and the opportunities for training by
+referring to our Web page (http://www.bcs.rochester.edu).
+Applications from women and members of underrepresented minority
+groups are especially welcome.  The University of Rochester is an
+Equal Opportunity Employer.
+
+--------------------------------------------------------
+Richard N. Aslin
+Department of Brain and Cognitive Sciences
+and the Center for Visual Science
+Meliora Hall
+University of Rochester
+Rochester, NY  14627
+email: aslin@cvs.rochester.edu
+FAX: (716) 442-9216
+Office: (716) 275-8687
+http://www.cvs.rochester.edu/people/r_aslin/r_aslin.html

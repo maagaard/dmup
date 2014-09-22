@@ -1,0 +1,132 @@
+
+
+From cg@eivind.imm.dtu.dk Thu Feb 12 10:17:46 MET 1998
+Received: from localhost (cg@localhost)
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA02217;
+	Thu, 12 Feb 1998 10:17:45 +0100 (MET)
+Date: Thu, 12 Feb 1998 10:17:45 +0100 (MET)
+From: Cyril Goutte <cg@eivind.imm.dtu.dk>
+Reply-To: cg@imm.dtu.dk
+To: Finn Aarup Nielsen <fnielsen@eivind.imm.dtu.dk>
+cc: Lars Kai Hansen <lkhansen@adnc.com>
+Subject: Final Call NNESMED`98 (Extended Deadline) (fwd)
+Message-ID: <Pine.HPP.3.95.980212101628.28087L-100000@eivind.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Could this be a good place to send something on the neural network part of
+the Lyngby toolbox ?
+
+
+	Cyril.
+
+
+---------- Forwarded message ----------
+Date: Wed, 11 Feb 1998 17:35:33 +0100 (MET)
+From: Tonina Starita <nnesmed@DI.Unipi.IT>
+To: Connectionists@cs.cmu.edu
+Subject: Final Call NNESMED`98 (Extended Deadline)
+
+
+* * * E X T E N D E D   D E A D L I N E:  February 27 * * *
+
+
+                    FINAL CALL FOR PAPERS
+
+3rd International Conference on Neural Networks and Expert Systems in
+Medicine and Healthcare
+NNESMED '98
+
+Pisa, Italy,2-4 September 1998
+http://www.di.unipi.it/~nnesmed/home.htm
+
+
+NNESMED '98 is organised by the Computer Science Department of the
+University of Pisa
+
+Conference Chair:
+
+Professor Starita, University of Pisa
+
+Conference Co-Chairs: 
+Professor Ifeachor,
+University of Plymouth
+Professor Simi
+University of Pisa
+
+Keynote Speakers
+Dr Lee Giles (USA)
+University of Princeton
+Professor Mario Stefanelli (Italy)
+University of Pavia
+Professor Paulo Lisboa (UK)
+Liverpool John Moores University
+
+
+Programme/Advisory Committee
+
+Dr Lee Giles (USA)
+Professor Marco Gori (Italy)
+Professor Emmanuel Ifeachor (UK)
+Dr Barrie Jervis (UK) 
+Professor Marzuki Khalid (Malaysia)
+Professor Priklis Ktonas (USA)
+Professor Paulo Lisboa (UK)
+Professor George Papadurakis (Greece)
+Professor Karl Rosen (Sweden)
+Professor Maria Simi (Italy)
+Dr Alessandro Sperduti (Italy)
+Professor Mario Stefanelli (Italy)
+Professor Hiroshi Tanaka (Japan)
+Professor John Taylor (UK)
+
+Topics
+
+Neural Networks
+Expert Systems
+Soft Computing
+Hybrid Systems
+Signal Processing
+Fuzzy Logic
+Knowledge Bases
+DataMining
+Deductive Reasoning
+Telemedicine
+Tools and Applications
+
+Scope
+
+NNESMED '98 is organised by the Computer Science Department of the
+University of Pisa and it will be held in Pisa, on September 2-4 1998.
+It will provide a forum for the presentation of the results of ongoing
+works and research in the field of the Neural Networks and Expert Systems
+in Medicine and Healthcare. 
+NNESMED '98 will be the third edition of this series and it will promote
+the exchange of ideas and experiences among researchers from the AI
+communities in medical field.
+Pisa is well connected to the rest of Europe by its international airport
+and good road and rail links.
+
+Paper submission
+
+The submission deadline is ** EXTENDED **: February 27, 1998.
+Papers must not exceed 4 pages, they must be written in English, with a
+cover page containing:
+* a 200-word abstract
+* keywords
+* postal and electronic mailing address
+* phone and fax number of the first author
+Submission will be electronic and available via the conference web site.
+Authors will be notified of the acceptance (oral and/or poster session) or
+rejection of their papers by May 1, 1998. 
+
+Additional Information
+http://www.di.unipi.it/~nnesmed/home.htm
+e_mail: nnesmed@di.unipi.it 
+Tel: +39-50-887215/ +39-50-887249
+Fax: +39-50-887226
+
+

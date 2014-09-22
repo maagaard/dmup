@@ -1,0 +1,113 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Mar 17 01:12:40 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA14360;
+	Wed, 17 Mar 1999 01:12:31 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05755;
+          16 Mar 99 6:47 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05752;
+          16 Mar 99 6:41 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12739;
+          16 Mar 99 6:40 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05602; 16 Mar 99 6:15 EST
+Received: from [195.34.124.45] by CS.CMU.EDU id aa28217; 16 Mar 99 6:13:41 EST
+Received: from [195.34.122.139] by mont.nbu.acad.bg
+          (post.office MTA v2.0 0813 ID# 9-31337L) with ESMTP id AAA76;
+          Tue, 16 Mar 1999 13:02:46 +0200
+Message-Id: <v03007800b313de99c29a@[195.34.122.139]>
+Date: Tue, 16 Mar 1999 13:12:12 +0300
+To: school@cogs.nbu.acad.bg
+From: CogSci Summer School <school@cogs.nbu.acad.bg>
+Status: RO
+X-Status: 
+
+6th International Summer School
+in
+Cognitive Science
+Sofia, New Bulgarian University
+July 12 - 31, 1999
+
+
+International Advisory Board
+
+Elizabeth BATES (University of California at San Diego, USA)
+Amedeo CAPPELLI (CNR, Pisa, Italy)
+Cristiano CASTELFRANCHI (CNR, Roma, Italy)
+Daniel DENNETT (Tufts University, Medford, Massachusetts, USA)
+Ennio De RENZI (University of Modena, Italy)
+Charles DE WEERT (University of Nijmegen, Holland )
+Christian FREKSA (Hamburg University, Germany)
+Dedre GENTNER (Northwestern University, Evanston, Illinois, USA)
+Christopher HABEL (Hamburg University, Germany)
+William HIRST (New School for Social Sciences, NY, USA)
+Joachim HOHNSBEIN (Dortmund University, Germany)
+Douglas HOFSTADTER (Indiana University, Bloomington, Indiana, USA)
+Keith HOLYOAK (University of California at Los Angeles, USA)
+Mark KEANE (Trinity College, Dublin, Ireland)
+Alan LESGOLD (University of Pittsburg, Pennsylvania, USA)
+Willem LEVELT (Max-Plank Institute of Psycholinguistics, Nijmegen, Holland)
+David RUMELHART (Stanford University, California, USA)
+Richard SHIFFRIN (Indiana University, Bloomington, Indiana, USA)
+Paul SMOLENSKY (University of Colorado, Boulder, USA)
+Chris THORNTON (University of Sussex, Brighton, England)
+Carlo UMILTA' (University of Padova, Italy)
+Eran ZAIDEL (University of California at Los Angeles, USA)
+
+
+Courses
+
+Each participant will enroll in 6 of the 10 courses offered thus attending
+4 hours classes per day plus 2 hours tutorials in small groups plus
+individual studies and participation in symposia.
+
+Brain and Language: New Approaches to Evolution and Developmet (Elizabeth
+Bates, Univ. of California at San Diego, USA)
+Child Language Acquisition (Michael Tomasello, MPI for Evolutionary Anthropology, Germany)
+Culture and Cognition (Roy D'Andrade, Univ. of California at San Diego, USA)
+Understanding Social Dependence and Cooperation (Cristiano Castelfranchi, CNR, Italy)
+Models of Human Memory (Richard Shiffrin, Indiana University, USA)
+Categorization and Inductive Reasoning: Psychological and Computational
+Approaches (Evan Heit, Univ. of Warwick, UK)
+Understanding Human Thinking (Boicho Kokinov, New Bulgarian University)
+Perception-Based Spatial Reasoning (Reinhard Moratz, Hamburg University, Germany)
+Perception (Naum Yakimoff, New Bulgarian University)
+Applying Cognitive Science to Instruction (John Hayes, Carnegie-Mellon University, USA)
+
+In addition there will be seminars, working groups, project work, discussions.
+
+Participation
+
+Participants will be selected by a Selection Committee on the bases of
+their submitted documents:
+
+* application form,
+* CV,
+* statement of purpose,
+* copy of diploma; if student - academic transcript
+* letter of recommendation,
+* list of publications (if any) and short summary of up to three of them.
+
+For participants from Central and Eastern Europe as well as from the former
+Soviet Union there are scholarships available (provided by Soros' Open
+Society Institute). They cover tuition, travel, and living expenses.
+
+Deadline for application:  April 15th
+Notification of acceptance:  April 30th.
+
+Apply as soon as possible since the number of participants is restricted.
+
+For more information contact:
+Summer School in Cognitive Science
+Central and East European Center for Cognitive Science
+New Bulgarian University
+21, Montevideo Str.
+Sofia 1635, Bulgaria
+Tel. (+3592) 957-1876
+Fax: (+3592) 558262
+e-mail: school@cogs.nbu.acad.bg
+Web page: http://www.nbu.acad.bg/staff/cogs/events/ss99.html
+
+
+
+

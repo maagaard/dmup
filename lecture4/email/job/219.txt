@@ -1,0 +1,62 @@
+
+
+From spm-request@mailbase.ac.uk Tue Nov  9 16:02:39 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id QAA10534
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Nov 1999 16:02:37 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA07576;
+	Tue, 9 Nov 1999 15:02:57 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id OAA02188;
+        Tue, 9 Nov 1999 14:56:36 GMT
+Received: from fil.ion.ucl.ac.uk (cream.fil.ion.ucl.ac.uk [193.62.66.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id OAA02163;
+        Tue, 9 Nov 1999 14:56:30 GMT
+Received: from prince.fil.ion.ucl.ac.uk by fil.ion.ucl.ac.uk (8.8.8+Sun/SMI-SVR4)
+	id OAA14356; Tue, 9 Nov 1999 14:50:50 GMT
+Received: (from karl@localhost)
+	by prince.fil.ion.ucl.ac.uk (8.8.8+Sun/8.8.8) id OAA02850;
+	Tue, 9 Nov 1999 14:50:48 GMT
+Date: Tue, 9 Nov 1999 14:50:48 GMT
+Message-Id: <199911091450.OAA02850@prince.fil.ion.ucl.ac.uk>
+X-Sun-Charset: ISO-8859-1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=unknown-8bit
+Content-Transfer-Encoding: 8bit
+Subject: Position available at the FIL
+From: Karl Friston <karl@cream.fil.ion.ucl.ac.uk>
+To: spm@mailbase.ac.uk
+Cc: andrew@prince.fil.ion.ucl.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Karl Friston <karl@cream.fil.ion.ucl.ac.uk>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+
+UNIVERSITY COLLEGE LONDON
+Institute of Neurology
+Statistician Post
+
+A Statistician with a special interest or expertise in imaging neuroscience
+is sought by the Wellcome Department of Cognitive Neurology to be
+responsible for the maintenance and development of the of the statistical
+parametric mapping (SPM) software and to provide support to students and
+research fellows in its use. Post available for five years in the first
+instance. Salary on ALC 4 £27,451 -£32,571 pa plus £2,134 LA
+
+Informal enquiries to Professor Karl Friston (email:
+K.Friston@fil.ion.ucl.ac.uk ).
+
+Further information can be obtained from Miss E Bertram, Assistant
+Secretary (Personnel), Institute of Neurology, The National Hospital for
+Neurology and Neurosurgery, Queens Square, London, WC1N 3BG (Tel 0171 837
+3611 ext.4136; email E.Bertram@ion.ucl.ac.uk) to whom all applications (CV,
+3 copies & names of 3 referees) should be sent by 19th November 1999.

@@ -1,0 +1,127 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Aug 18 21:56:34 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA23516;
+	Wed, 18 Aug 1999 21:56:27 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab25847;
+          18 Aug 99 14:24 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25845;
+          18 Aug 99 14:14 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01030;
+          18 Aug 99 14:13 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11958; 18 Aug 99 6:32 EDT
+Received: from riemann.aston.ac.uk by RI.CMU.EDU id aa24806;
+          18 Aug 99 6:32:20 EDT
+Received: from saadd by riemann with local (Exim 2.10 #1)
+	id 11H30B-0005K6-00
+	for Connectionists@CS.CMU.EDU; Wed, 18 Aug 1999 11:31:27 +0100
+Subject: Post-doc positions
+To: Connectionists@cs.cmu.edu
+Date: Wed, 18 Aug 1999 11:31:27 +0100 (BST)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Message-Id: <E11H30B-0005K6-00@riemann>
+From: David Saad <saadd@aston.ac.uk>
+Status: RO
+X-Status: 
+
+Neural Computing Research Group
+-------------------------------
+
+School of Engineering and Applied Sciences
+
+Aston University, Birmingham, UK
+
+TWO POSTDOCTORAL RESEARCH FELLOWSHIPS
+-------------------------------------
+
+There are two postdoctoral research fellowships at the NCRG available for 
+October 1999 or as soon as possible thereafter.
+
+***  Full details at http://www.ncrg.aston.ac.uk/  ***
+
+1.    Analysis of Learning in Support Vector Machines
+      -----------------------------------------------
+
+The Neural Computing Research Group at Aston is looking for a highly
+motivated individual for a 2 year postdoctoral research position in
+the area of `Analysis of Learning in Support Vector Machines'. The
+emphasis of the research will be on applying a theoretically
+well-founded approach based on methods adopted from statistical
+mechanics to analyse learning in support vector machines.
+
+Potential candidates should have strong mathematical and computational
+skills, with a background in statistical mechanics and support vector
+machines.
+
+Conditions of Service
+---------------------
+
+Salaries will be up to point 11 on the RA 1A scale, currently 21,815
+UK pounds. The salary scale is subject to annual increments.
+
+
+How to Apply
+------------
+
+If you wish to be considered for this Fellowship, please send a full
+CV and publications list, including full details and grades of
+academic qualifications, together with the names of 3 referees, to:
+
+    Dr. Manfred Opper
+    Neural Computing Research Group
+    School of Engineering and Applied Sciences
+    Aston University
+    Birmingham B4 7ET, U.K.
+    Tel: 0121 333 4631
+    Fax: 0121 333 4586
+    e-mail: opperm@aston.ac.uk
+
+e-mail submission of postscript files is welcome.
+
+
+Closing date: 13 September, 1999.
+
+===========================================================================
+
+2.    Searching for Patterns in Activity across Multiple Targets
+      ----------------------------------------------------------
+
+This 3 year post aims to develop novel data visualisation and modelling
+techniques for analysing large biological activity databases.  The work
+will be carried out together with a PhD student funded by Pfizer.  Candidates
+should have strong mathematical and computational skills; a background
+in biological sciences would be an advantage.
+
+Conditions of Service
+---------------------
+
+Salaries will be up to point 6 on the RA 1A scale, currently 17,570 UK
+pounds per annum. The salary scale is subject to annual increments.
+
+
+How to Apply
+------------
+
+If you wish to be considered for this Fellowship, please send a full
+CV and publications list, including full details and grades of
+academic qualifications, together with the names of 3 referees, to:
+
+    Dr. Ian Nabney
+    Neural Computing Research Group
+    School of Engineering and Applied Sciences
+    Aston University
+    Birmingham B4 7ET, U.K.
+    Tel: 0121 333 4631
+    Fax: 0121 333 4586
+    e-mail: i.t.nabney@aston.ac.uk
+
+e-mail submission of postscript or pdf files is welcome.
+
+
+Closing date:  13 September, 1999.
+
+

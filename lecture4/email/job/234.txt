@@ -1,0 +1,48 @@
+
+
+From spm-request@mailbase.ac.uk Thu Nov 25 14:55:57 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id OAA15189
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 25 Nov 1999 14:55:56 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id NAA29898;
+	Thu, 25 Nov 1999 13:57:14 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id NAA09927;
+        Thu, 25 Nov 1999 13:55:24 GMT
+Received: from ccug.wlv.ac.uk (ccug.wlv.ac.uk [134.220.1.46]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id NAA09921;
+        Thu, 25 Nov 1999 13:55:20 GMT
+Received: from dhcp191-221.staff.wlv.ac.uk ([134.220.221.191] helo=in6452.wlv.ac.uk)
+	by ccug.wlv.ac.uk with smtp (Exim 2.03 #2)
+	id 11qzMl-0006UY-00
+	for spm@mailbase.ac.uk; Thu, 25 Nov 1999 13:55:19 +0000
+Message-Id: <3.0.1.32.19991125135513.007f6510@wlv.ac.uk>
+X-Sender: in6452@wlv.ac.uk
+X-Mailer: Windows Eudora Light Version 3.0.1 (32)
+Date: Thu, 25 Nov 1999 13:55:13 +0000
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Subject: PhD Studentship available
+From: "Dr J. Cubillo" <in6452@wlv.ac.uk>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Dr J. Cubillo" <in6452@wlv.ac.uk>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+I am just forming a new Medical Engineering research Group at the new
+Campus of the University of Wolverhampton and I have funds to sponsor a
+number of PhD studentships.
+If you would like to discuss the type of work we will be doing please
+contact me on j.p.cubillo@wlv.ac.uk.
+
+Regards
+
+Dr James Cubillo
+

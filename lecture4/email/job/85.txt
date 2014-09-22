@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Mar 12 07:53:15 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA28744;
+	Fri, 12 Mar 1999 07:53:08 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25691;
+          11 Mar 99 20:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25683;
+          11 Mar 99 20:05 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03547;
+          11 Mar 99 20:05 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13745; 11 Mar 99 16:38 EST
+Received: from kadron.pav.com by CS.CMU.EDU id aa06380; 11 Mar 99 16:35:39 EST
+Received: from pav.com (smtpgate.pav.com [204.254.221.121]) by kadron.pav.com (8.7.3/8.7.3) with SMTP id PAA25810 for <Connectionists@CS.CMU.EDU>; Thu, 11 Mar 1999 15:35:33 -0600 (CST)
+Received: by pav.com with Microsoft Mail
+	id <36E8371F@pav.com>; Thu, 11 Mar 99 15:35:27 CST
+From: Eric Hartman <ehartman@pav.com>
+To: "'Connectionists@CS.CMU.EDU'" <Connectionists@cs.cmu.edu>
+Subject: job announcement
+Date: Thu, 11 Mar 99 15:34:00 CST
+Message-ID: <36E8371F@pav.com>
+Encoding: 57 TEXT
+X-Mailer: Microsoft Mail V3.0
+Status: RO
+X-Status: 
+
+Pavilion is the leader in the development and application of software for   
+modeling, optimization and advanced control in the process industries
+(chemicals, polymer, refining, and pulp & paper).  We offer a dynamic,
+creative environment where team members contribute to the success of the   
+company as well as develop and grow their state of the art knowledge and   
+skills.  Pavilion is located in Austin, TX and has approximately 100
+employees.   For more information on Pavilion refer to our web site
+www.pavtech.com.
+
+Researcher
+A position in the research group at Pavilion is currently available.  The   
+successful candidate will be expected to take a leadership role in the
+design and development of new modeling and control software.  Therefore,   
+the candidate is required to have a research background in modeling and   
+control.   Familiarity with neural network algorithms is also required.   
+
+ Research experience in continuous optimization or model predictive
+control is a plus.  A Masters or Ph.D. degree in engineering, computer
+science, physics, mathematics or operations research is required.
+Because the candidate will be designing new products, strong software
+design skills with experience in C++ is needed.  Experience with Visual   
+Basic, COM, Windows programming is also a plus.  The successful candidate   
+must be self-motivated, a team player and have strong communication
+skills.
+
+Pavilion provides excellent benefits and compensation plans, including
+incentive stock options.  Pavilion supports EOE. Send resume in
+confidence to Staffing:
+
+Pavilion Technologies, Inc.
+Dale Smith, Director of Human Relations
+11100 Metric Blvd., #700
+Austin, TX  78758-4018
+Or
+e-mail: spiche@pav.com
+fax: 512-438-1401

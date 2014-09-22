@@ -1,0 +1,66 @@
+
+
+From owner-intellectual-properties@ACM.ORG Tue Oct  5 21:59:47 MET 1999
+Received: from SEGATE.SUNET.SE (segate.sunet.se [192.36.125.6])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id VAA08751
+	for <fnielsen@EIVIND.IMM.DTU.DK>; Tue, 5 Oct 1999 21:59:47 +0200 (METDST)
+Received: from segate.sunet.se (192.36.125.16) by SEGATE.SUNET.SE (LSMTP for OpenVMS v1.1a) with SMTP id <0.405824A8@SEGATE.SUNET.SE>; Tue, 5 Oct 1999 20:39:57 +0100
+Received: from ACM.ORG by ACM.ORG (LISTSERV-TCP/IP release 1.8d) with spool id
+          606994 for INTELLECTUAL-PROPERTIES@ACM.ORG; Tue, 5 Oct 1999 15:30:20
+          -0400
+Received: from hq.acm.org (hq.acm.org [199.222.69.30]) by mail.acm.org
+          (8.9.3/8.9.3) with ESMTP id PAA27552 for
+          <intellectual-properties@acm.org>; Tue, 5 Oct 1999 15:30:15 -0400
+Received: by hq.acm.org with Internet Mail Service (5.5.2650.10) id <4JCD6RS3>;
+          Tue, 5 Oct 1999 15:30:14 -0400
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.10)
+Content-Type: text/plain; charset="iso-8859-1"
+Message-ID:  <57666D1492FCD111B658000629AB4A20010DB276@hq.acm.org>
+Date:         Tue, 5 Oct 1999 15:30:13 -0400
+Reply-To: acm-mem2@HQ.ACM.ORG
+Sender: Intellectual Properties Promotion Super List
+              <INTELLECTUAL-PROPERTIES@ACM.ORG>
+From: Kerry Shaw <kerry.shaw@HQ.ACM.ORG>
+Subject:      A new publication from ACM!
+To: INTELLECTUAL-PROPERTIES@ACM.ORG
+Status: RO
+X-Status: 
+
+ACM, the Association for Computing Machinery, is proud
+to announce an important new publication, "Intellectual Property
+in the Age of Universal Access."
+
+Learn more about it now at  http://www.acm.org/pubs/property/
+
+"Intellectual Property in the Age of Universal Access" is
+written by some of the most influential figures in intellectual
+property law and information technology, including Pamela
+Samuelson and Peter Neumann. This compendium of seventeen
+articles is sure to prove an invaluable resource for lawyers, law
+students, IT specialists, and business managers.
+
+For more information or to order, please visit our
+website at  http://www.acm.org/pubs/property/
+
+"Intellectual Property in the Age of Universal Access" includes
+ topics such as:
+
+* Trademark disputes
+* E-commerce laws and long-arm jurisdictions
+* The Communications Decency Act
+* Practical legalities of software reverse engineering
+* Encoding the law of digital libraries
+* Privacy considerations
+* Look-and-feel and fair use lawsuits
+* Cryptography's role in securing information
+* Does information really need to be licensed?
+* Embedding technical self-help in licensed software
+* Digital signatures, digital cash
+* Digital Millenium Copyright Act
+* Database protection
+
+To understand intellectual property, you must first
+understand the technology that fuels it.
+
+http://www.acm.org/pubs/property/

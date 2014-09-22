@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Sep 30 07:39:26 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id HAA15326;
+	Wed, 30 Sep 1998 07:39:11 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab22763;
+          29 Sep 98 23:40 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab22761;
+          29 Sep 98 23:26 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06997;
+          29 Sep 98 23:26 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab00316; 29 Sep 98 8:48 EDT
+Received: from [136.201.1.2] by RI.CMU.EDU id aa21451; 29 Sep 98 8:47:44 EDT
+Received: from youngmunster.csis.ul.ie by mailgate2.ul.ie with SMTP (PP) 
+          id <12564-0@mailgate2.ul.ie>; Tue, 29 Sep 1998 13:46:35 +0000
+Received: from zeus.csis.ul.ie 
+          by youngmunster.csis.ul.ie (5.65v3.2/1.1.10.5/01Oct97-1109AM) 
+          id AA09656; Tue, 29 Sep 1998 13:51:01 +0100
+Received: by zeus.csis.ul.ie (5.65v3.2/1.1.10.5/01May98-1056AM) id AA24335;
+          Tue, 29 Sep 1998 13:41:51 +0100
+Date: Tue, 29 Sep 1998 13:41:51 +0100
+Message-Id: <9809291241.AA24335@zeus.csis.ul.ie>
+From: Niall Griffith <niall.griffith@ul.ie>
+To: Connectionists@cs.cmu.edu, neuron@CATTELL.psych.upenn.edu,
+        mlnet@csd.abdn.ac.uk, cogpsy@coglab.psy.soton.ac.uk
+Subject: Neural Networks and MultiMedia - IEE Colloquium
+Status: RO
+X-Status: 
+
+Please pass this on to anyone or any group you think may be interested.
+
+=========================================================
+IEE Colloquium
+
+"Neural Networks in Multimedia Interactive Systems"
+
+Date:  Thursday 22 October 1998
+Time:  10.30 - 17.00
+Place: Savoy Place, London.
+
+The Neural Networks Professional Group (A9) of the IEE is holding an
+inaugural colloquium at Savoy Place, London, on the use of neural network
+models in multimedia systems.
+
+This colloquium will present a range of current neural network
+applications in the area of interactive multimedia, and will cover:
+learning, intelligent agents within multimedia systems, data mining, image
+processing and intelligent application interfaces.
+
+========================================================== 
+
+For more information and registration details please contact 
+
+The IEE Events Office:
+
+Tel.   +44 171 240 1871    (Extension 2205/2206)
+Email. events@iee.org.uk
+URL.   http://www.iee.org.uk/Calendar/a22oct98.html
+
+Colloquium organisers:
+Niall Griffith, University of Limerick, niall.griffith@ul.ie
+Nigel Allinson, UMIST, allinson@fs5.ee.umist.ac.uk
+==========================================================
+
+Provisional Timetable
+
+10.00 - 10.25   Registration and Coffee
+
+10.25 - 10.45   Welcome 
+                Self-organising neural networks for multimedia
+                Prof. N. Allinson (UMIST)
+
+10.45 - 11.25   Searching image databases containing trademarks.
+                Sujeewa Alwis and Dr. J. Austin (University of York)
+
+11.25 - 12.05   Synthetic Characters: Behaving in Character
+                Dr. B. Blumberg (MIT Media Lab)
+
+12.05 - 12.45   Intelligent components for interactive multimedia
+                Dr. R. Beale (University of Birmingham)
+
+12.45 - 13.45   Lunch
+
+13.45 - 14.15   Image Retrieval and Classification Using Affine 
+                Invariant B-Spline Representation and Neural Networks
+                Y. Xirouhakis  (National Technical University of Athens)
+
+14.15 - 14.45   Hybrid Neural Symbolic Agent Architectures for Multimedia
+                Prof. S. Wermter (University of Sunderland)
+
+14.45 - 15.15   3D Reconstruction of Human Faces from Range Data 
+                through HRBF Networks
+                Dr. A. Borghese 
+                (Istituto Neuroscienze e Biommagini, Milan)
+
+15.15 - 15.30   Tea
+
+15.30 - 16.00   A multi-agent framework for visual surveillance
+                P. Remagnino & Dr. G Jones (Kingston University)
+
+16.00 - 16.30   Discussion and Close
+-----------------

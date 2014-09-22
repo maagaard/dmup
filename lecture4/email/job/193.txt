@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Oct  9 07:57:29 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA24439;
+	Sat, 9 Oct 1999 07:57:23 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29038;
+          9 Oct 99 0:21 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29035;
+          9 Oct 99 0:07 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03056;
+          9 Oct 99 0:07 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa22964; 8 Oct 99 10:15 EDT
+Received: from mail2.microsoft.com by edrc.cmu.edu id aa01624;
+          8 Oct 99 10:14 EDT
+Received: from 157.54.9.104 by inet-vrs-02.microsoft.com (InterScan E-Mail VirusWall NT); Fri, 08 Oct 1999 07:14:54 -0700 (Pacific Daylight Time)
+Received: by INET-IMC-02 with Internet Mail Service (5.5.2650.21)
+	id <4MLM24MK>; Fri, 8 Oct 1999 07:14:54 -0700
+Message-ID: <3FF8121C9B6DD111812100805F31FC0D101F2650@RED-MSG-59>
+From: Christopher Bishop <cmbishop@microsoft.com>
+To: "'Connectionists@cs.cmu.edu'" <Connectionists@cs.cmu.edu>
+Cc: Christopher Bishop <cmbishop@microsoft.com>
+Subject: Postdoctoral Research Fellowship at Cambridge
+Date: Fri, 8 Oct 1999 07:14:33 -0700 
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Status: RO
+X-Status: 
+
+
+                   DARWIN COLLEGE, CAMBRIDGE	
+
+               Microsoft Research Fellowship
+
+                http://www.dar.cam.ac.uk/ 
+          http://research.microsoft.com/cambridge  
+
+               Closing date: 15 October 1999.
+
+
+The Governing Body of Darwin College Cambridge, and Microsoft Research
+Limited, jointly invite applications for a stipendiary Research
+Fellowship supporting research in the field of adaptive computing
+(including topics such as pattern recognition, probabilistic
+inference, statistical learning theory and computer vision).
+
+Eligibility 
+
+Men and women graduates of any university are eligible to apply,
+irrespective of age, provided they have a doctorate or an equivalent
+qualification, or expect to have submitted their thesis before taking
+up the Fellowship.
+
+Tenure 
+
+The Fellowship will be tenable for two years commencing l October 2000
+or on a date to be agreed.
+
+The successful candidate will engage in research full-time at the
+Microsoft Research Laboratory in Cambridge, and will join the new
+Machine Learning and Perception research group currently comprising
+Chris Bishop, Andrew Blake, Ben Bradshaw, Bernhard Schoelkopf, Michael
+Tipping and Phil Torr. The Fellow will be a member of the Governing
+Body of Darwin College and will be subject to the Statutes and
+Ordinances of the College which may be seen on request to the
+Bursar. The Statutes include the obligation to reside in or near
+Cambridge for at least two-thirds of each University term, but the
+Governing Body will normally excuse absences made necessary by the
+nature of the research undertaken.
+
+Stipend and Emoluments 
+
+The stipend will be dependent upon age and experience. In addition the
+Fellow will be able to take seven meals per week at the College table
+free of charge and additional meals at his or her own expense. Guests
+may be invited to all meals (within the limits of available
+accommodation), ten of them free of charge within any quarter of the
+year. College accommodation will be provided, subject to availability,
+or an accommodation allowance will be paid in lieu. In addition to a
+salary the Fellowship provides funding for conference participation.
+
+Applications 
+
+Applications should reach the Master, Darwin College, Cambridge CB3
+9EU by 15 October 1999. They should be typed and should include SIX
+copies of (1) a curriculum vitae, (2) an account, in not more than
+1000 words, of the proposed research, including a brief statement of
+the aims and background to it, (3) the names and addresses of three
+referees (including telephone, fax and e-mail co-ordinates), WHO
+SHOULD BE ASKED TO WRITE AT ONCE DIRECT TO THE COLLEGE, and (4) a list
+of published or unpublished work that would be available for
+submission if requested. Testimonials should not be sent. 
+
+Electronic applications (in postscript, pdf, Word or text formats) may
+be sent to cmbishop@microsoft.com to arrive by 15 October 1999.
+
+Short-listed candidates may be asked to make themselves available for
+interview at Darwin College on a date to be arranged before
+mid-January 2000: election will be made as soon as possible
+thereafter. In certain circumstances travelling expenses for overseas
+interviewees may be covered.
+
+The College follows an equal opportunities policy.
+

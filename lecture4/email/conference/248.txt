@@ -1,0 +1,204 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk Fri Apr 16 10:22:16 MET 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id KAA12803
+	for dspstaff-list; Fri, 16 Apr 1999 10:22:12 +0200 (METDST)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from localhost (cg@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA12799
+	for <dspstaff@eivind.imm.dtu.dk>; Fri, 16 Apr 1999 10:22:09 +0200 (METDST)
+Date: Fri, 16 Apr 1999 10:22:09 +0200 (METDST)
+From: Cyril Goutte <cg@eivind.imm.dtu.dk>
+To: dspstaff@eivind.imm.dtu.dk
+Subject: Call for Papers (ICTAI'99) (fwd)
+Message-ID: <Pine.HPP.3.96.990416102037.12601A-100000@eivind.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by eivind.imm.dtu.dk id KAA12800
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+
+
+---
+
+
+                             Call for Papers
+
+              The Eleventh IEEE International Conference 
+            on Tools with Artificial Intelligence (ICTAI'99)
+                Chicago, Illinois, November 9-11, 1999
+             http://opal.cs.binghamton.edu/~wu/ICTAI.htm
+
+                    Sponsored by: IEEE Computer Society
+
+IMPORTANT DATES
+- ---------------
+
+   May 31, 1999 (Monday):         full papers due
+   July 26, 1999 (Monday):        notification of acceptance
+   August 16, 1999 (Monday):      camera-ready papers & preregistration due
+   November 9 - 11, 1999 :        ICTAI'99 Conference
+
+
+SCOPE OF CONFERENCE
+- -------------------
+
+The annual ICTAI conference is an international forum for the exchange of 
+ideas relating to artificial intelligence (AI) among academia, industry, 
+and government agencies. It fosters the creation and transfer of such ideas, 
+and promotes their cross-fertilization over all AI application domains and 
+AI paradigms through a unifying theme: AI Tools. ICTAI focuses on both 
+theory and developing, implementing, and evaluating theoretical and applied 
+frameworks that may serve as tools for developing intelligents systems and 
+pursuing AI applications. Following are some example topics of interest: 
+ 
+    AI algorithms				
+    AI in Software Engineering
+    Cognitive Modeling			
+    Collaborative Software Agents
+    Fuzzy Logic and Reasoning Under Uncertainty
+    Genetic Algorithms 			
+    Intelligent tutoring/Training Systems	
+    Intelligent Internet Agents
+    Intelligent Interface Agents		
+    Environmental Applications 
+    AI in Data Mining
+    Intelligent Information Retrieval
+    AI in database
+    Knowledge Sharing				
+    Machine Learning
+    Natural Language Processing and Speech Understanding
+    Neural Networks				
+    Planning and Scheduling
+    Qualitative Reasoning 			
+    Vision and Image Processing
+    AI in Multimedia Systems
+
+We are particularly interested in papers on AI tools and applications for 
+Internet Technologies.
+
+
+SUBMISSION INFORMATION
+- ----------------------
+
+Authors are requested to submit five copies of a double-spaced manuscript
+(in English, maximum 20 pages), including an abstract and a list of subject
+areas, to the program chair by May 31, 1999. In addition, an electronic copy 
+(in postscript or MS Word format) of each submitted paper should be sent to 
+the program chair by the submission deadline.
+
+Each submission must report on unpublished original work and be accompanied 
+by a cover letter that indicates the contact authors and appropriate subject 
+areas that the paper can be classified under. Authors will be notified of 
+acceptance by July 26, 1999 and will be given instructions for camera-ready 
+versions of their papers at that time. 
+
+Outstanding papers will be eligible for publication in the International 
+journal on Artificial Intelligence Tools and for receiving the 
+C. V. Ramamoorthy Best Paper award. 
+
+Panel organizers are requested to submit a panel proposal consisting of a 
+position statement and a list of panelists to the program chair by May 31, 
+1999. Panel organizers will be notified of acceptance by July 26, 1999. 
+
+
+CONTACT INFORMATION
+- -------------------
+
+General Chair: 
+Farokh B. Bastani 
+Dept. of  Computer Sciences 
+The University of Texas, Dallas 
+Computer Engineering School 
+M/S-EC-31 
+Richarson, TX 75083-0688 
+Email: bastani@utdallas.edu 
+Phone:  972-883-2299 
+Fax: 972-883-2349 
+
+Program Chair: 
+Weiyi Meng 
+Dept. of Computer Science 
+Thomas J. Watson School of Engineering and Applied Science 
+P.O. Box 6000 
+Binghamton, New York 13902-6000 
+Email: meng@cs.binghamton.edu 
+Phone: 607-777-4311 
+Fax: 607-777-4729 
+
+Local Arrangement Chair:
+Chengwen Liu
+School of Computer Science, Telecommunications 
+   and Information Systems
+DePaul University
+243 South Wabash 
+Chicago, Illinois 60604, USA
+Tel: (312) 362-8722 
+Fax:(312) 362-6116 
+Email: liu@cs.depaul.edu 
+
+Steering Committee Chair: 
+N. G. Bourbakis, BU, CIS & UC 
+Email: Bourbaki@Binghamton.edu 
+Phone: 607-777-2165 
+
+
+Vice Program Chairs (to be updated)
+
+Rüdiger Brause, J.W.Goethe-University, Germany 
+Arbee L.P. Chen, National Tsinghua University, Taiwan 
+James C. French, University of Virginia, USA 
+Arif Ghafoor, Purdue University, USA 
+Fernando Gomez, University of Central Florida, USA 
+Jonathan Lee, National Central University, Taiwan
+Atul Prakash, University of Michigan, USA
+Jaideep Srivastava, University of Minnesota, USA 
+Weining Zhang, The University of Lethbridge, Canada 
+
+Program Committee Members (to be updated)
+
+Yaodong Bi, University of Scranton, USA
+Patrick O. Bobbie, Florida A&M University, USA
+Jason Chen, National Chiao-Tung University, Taiwan
+Ming-Syan Chen, National Taiwan University, Taiwan
+Daniel E. Cooke, The University of Texas at El Paso, USA
+Bojan Cukic, West Virginia University, USA
+Michal Cutler, State University of New York at Binghamton, USA
+Lawrence O. Hall, University of South Florida, USA
+Sanda Harabagiu, Southern Methodist University, USA
+Timo Honkela, University of Art and Design, Finland
+Richard D. Hull, Merck Research Laboratories, USA
+Hung-Chin Jang, National Chengchi University, Taiwan
+Rudolf Kruse, OvG-Universitaet Magdeburg, Germany
+Chengwen Liu, DePaul University, USA
+Kinji Mori, Tokyo Institute of Technology, Japan
+Dan O'Leary, University of Southern California, USA
+Robert G. Reynolds, Wayne State University, USA
+Yi Shang, University of Missouri, USA
+Robert P. Simon, George Mason University, USA
+Brian M. Slator, North Dakota State University, USA
+Pauray Tsai, Ming Hsin Institute of Technology, Taiwan
+Eugene Wallingford, University of Northern Iowa, USA
+John Yen, Texas A&M University, USA
+Du Zhang, California State University, USA
+Qiang Zhu, University of Michigan, USA
+
+For more information about ICTAI'99, please visit the homepage at
+http://opal.cs.binghamton.edu/~wu/ICTAI.htm
+- --------------------------------------------------------------------------
+To subscribe or unsubscribe yourself from
+dbworld, send a msg to majordomo@cs.wisc.edu with one of these lines:
+subscribe dbworld OR unsubscribe dbworld
+To find out more options send a msg with the line:
+help
+To post messages, go to URL www.cs.wisc.edu/dbworld
+- --------------------------------------------------------------------------
+------- End of forwarded message -------
+
+

@@ -1,0 +1,538 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Oct  1 09:56:55 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id JAA14044;
+	Fri, 1 Oct 1999 09:56:50 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac08543;
+          30 Sep 99 15:50 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ac08541;
+          30 Sep 99 15:34 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18372;
+          30 Sep 99 15:34 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa04243; 30 Sep 99 10:24 EDT
+Received: from [130.113.218.37] by RI.CMU.EDU id aa26152; 30 Sep 99 10:24:15 EDT
+Received: from meitner.psychology.mcmaster.ca (meitner [130.113.218.66])
+	by curie.psychology.mcmaster.ca (980427.SGI.8.8.8/8.8.8-ajr) with ESMTP id KAA03035
+	for <connectionists@cs.cmu.edu>; Thu, 30 Sep 1999 10:24:13 -0400 (EDT)
+Received: from localhost (becker@localhost)
+	by meitner.psychology.mcmaster.ca (980427.SGI.8.8.8/8.8.8-ajr-cl) with SMTP id KAA11032
+	for <connectionists@cs.cmu.edu>; Thu, 30 Sep 1999 10:24:01 -0400 (EDT)
+Date: Thu, 30 Sep 1999 10:24:01 -0400 (EDT)
+From: Sue Becker <becker@curie.psychology.mcmaster.ca>
+Reply-To: Sue Becker <becker@mcmaster.ca>
+To: connectionists@cs.cmu.edu
+Subject: NIPS*99 Workshop Announcements
+Message-ID: <Pine.SGI.3.96.990930101129.10815B-100000@meitner.psychology.mcmaster.ca>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear Connectionists,
+Below are announcements for the 16 workshops to be held at the post-NIPS
+meeting in Breckenridge, December 2-4. Please refer to the NIPS workshops
+web page and links to individual workshops for further details:
+ http://www.cs.cmu.edu/Groups/NIPS/NIPS99/Workshops
+The scheduling of workshops to particular days will be completed soon and
+will be added to the above web page when it's ready.
+
+Sue Becker and Rich Caruana, NIPS*99 workshop co-chairs
+
+---------------------------------------------------------------------
+
+               COMPLEXITY AND NEURAL COMPUTATION:
+                 THE AVERAGE AND THE WORST CASE
+
+                http://www.dsi.unive.it/~nips99
+
+                         Organizers:           
+               Marco Budinich  (Trieste, Italy)
+               Marcello Pelillo (Venice, Italy)
+
+
+NP-complete problems have attracted many studies, also in the neural
+network community. Recent advances obtained both from the analysis of the
+average case complexity (in contrast to the, standard, worst case
+analysis) and from the design of dynamical systems that tackle NP-complete
+problems could benefit from a substantial cross-fertilization. For
+example, the analysis of the average case gives possible indications for
+the design of new algorithms that could be esaily implemented with
+neural-networks like techinques. This (informal) workshop is devoted
+to the exchange of ideas and experiences between people tackling
+NP-complete problems (both with standard and non-standard techniques,
+e.g. neural networks) and researchers in the field of the average
+complexity.
+
+---------------------------------------------------------------------
+
+               Neural Mechanisms of Music Processing
+                URL:  http://bach.ece.jhu.edu/nips99/
+	Organizers: Tim Edwards, Shihab Shamma, Malcolm Slaney
+
+The term "music" covers a large variety of signals, from the simple 
+to the complex.  It is easy to choose stimuli to study a particular 
+phenomenon, be it pitch detection, harmonic analysis, sequence 
+prediction, or spatial location.  However, mixtures of time-varying 
+harmonics, intertwining sequences, resonances and spatial reflections 
+easily make music as complex and difficult to analyze as speech. 
+What makes music especially interesting is the ability to control the
+complexity of data, allowing independent control over a variety of 
+parameters which are not possible to separate in speech. This 
+workshop will concentrate on several key issues which are currently 
+prominent in acoustics research. In particular, the intent of the 
+workshop is to bring together areas of research which appear to be 
+strongly related to the problem of music processing and to each other.
+
+---------------------------------------------------------------------
+
+Learning Relational Data Representations : Call for papers
+
+http://www.cs.york.ac.uk/~wilson/workshop/main.html
+
+Organizers: R. Wilson (University of York, England), B. Huet (Eurecom, France)
+
+Graph structures play a critical role in many areas of pattern recognition
+and machine intelligence, particularly in the domains of reasoning and
+recognition. These structures offer considerable advantages in terms of
+flexibility and representational power, in contrast to the Euclidean feature
+vectors so often adopted in the field of neural computation. However, the
+powerful analytical tools, which are available for traditional feature
+vectors, are more difficult to apply to relational structures. The study of
+learning theory applied to relational graph structures will provide
+important insights for both the neural networks and graphical modeling
+communities. It is hoped that such methods will provide a bridge between the
+two bodies of work. Appropriately modified learning techniques such as
+statistical learning, Bayesian learning, graph clustering and classification
+will increasingly be of importance. Of particular interest is the task of
+learning optimum relational representations of data.
+
+---------------------------------------------------------------------
+
+Call for Participation and Submission:
+USING UNLABELED DATA FOR SUPERVISED LEARNING
+
+http://stat.cs.tu-berlin.de/nips99/
+
+Thore Graepel
+Ralf Herbrich
+Klaus Obermayer
+
+Department of Computer Science
+Technical University of Berlin
+
+In many applications of supervised learning an abundance of unlabeled
+data is available while labeled instances are scarse. This situation
+arises, e.g., in speech and character recognition, in data-mining
+tasks, or in the classification of World Wide Web pages. The
+availability of unlabeled data clearly poses the challenge of how to
+use them in order to improve generalization in supervised learning. To
+this end different approaches have been put forward: Unlabeled data
+can be used to control the complexity of function classes, they form
+the basis for query filtering, and even Transduction can be
+viewed as a way of using unlabeled data in the working set. Also, some
+people argue that nothing at all can be learnt from unlabeled data in
+a supervised setting. Finally, using unlabeled data for supervised
+learning constitutes a convergence of supervised and unsupervised
+learning and should benefit from the confluence of knowledge from both
+these fields. The proposed workshop can be seen as a continuation of
+last year's NIPS-workshop "Integrating Supervised and Unsupervised
+Learning", however with considerably different focus. Note, that we
+encourage submissions for 10-15 min. presentations of relevant
+work (see web page above).
+
+---------------------------------------------------------------------
+
+CALL FOR PARTICIPATION ---- NIPS*99 Post Conference Workshop:
+
+"Neural mechanisms of perceptual selection in visual and prefrontal cortex"
+
+Date & Venue: 	December 3, 1999. Breckenridge, Colorado.
+
+Organizers:	Erik D. Lumer 
+		Wellcome Dept. Cognitive Neurology, Institute of Neurology,
+ 		University College London, 12 Queen Square, London WC1N 3BG 
+
+		Geraint Rees 
+		Division of Biology 139-74,California Institute of Technology, 
+		Pasadena, CA 91125 
+
+
+Workshop URL:	http://www.fil.ion.ucl.ac.uk/nips
+
+
+Summary:
+
+This workshop will bring together experimental and theoretical leaders in the 
+fields of perceptual organization, attention, and perceptual decision, with
+the explicit goal of laying out a framework for understanding how the modulatory
+effects of perceptual selection observed in visual cortex are produced. In 
+particular, how are the influences of higher visual and nonvisual areas relayed 
+to earlier stages of visual processing? The workshop will comprise two parts. 
+First, a relatively small number of invited speakers will give presentations of 
+recent work, each followed by discussion. In addition, there will be a highly 
+interactive panel and general discussion of alternative accounts of and future 
+plans to elucidate the neural mechanisms of perceptual selection. 
+Confirmed speakers include: Jochen Braun, Maurizio Corbetta, Sabine Kastner, 
+Victor Lamme, Rajesh Rao, Mike Shadlen.
+
+---------------------------------------------------------------------
+
+   ADVANCED MEAN FIELD METHODS
+
+http://www.ncrg.aston.ac.uk/nips99/workshop.html
+
+Organizers:  Manfred Opper and David Saad 
+(NCRG, Aston University, Birmingham, U.K.) 
+
+Mean field methods provide tractable approximations in high dimensional 
+probabilistic models for which exact computations are not feasible.
+They have found widespread applications especially in the growing field 
+of graphical models. The workshop focusses on the theoretical foundations 
+and the applications of advanced mean field approaches which go beyond simple 
+approximations by factorizable distributions. Topics will include e.g. recent 
+developments in the variational method, belief propagation techniques and
+approaches that are motivated by ideas from Statistical Physics 
+(e.g. 'TAP' mean field theory).
+ 
+
+---------------------------------------------------------------------
+
+Call for participation :
+ "NEURAL NETWORKS AND HUMAN MOVEMENTS SIMULATION: NEW FRONTIERS"
+
+http://neuropent.polito.it/events/events01.html
+
+   Organizer: Prof. Eros Pasero 
+ 		Dip. Elettronica - Politecnico di Torino 
+ 		c.so Duca d. Abruzzi 24 - 10129 Torino - Italy 
+Ph: +39 011 5644043 Fax: +39 011 5644099
+Email: pasero@polito.it
+
+Summary:
+
+Ergonomics is becoming a major topic in designing new objects, from a
+can-opener to the cockpit of a new car, from a keyboard to an assembly line
+for a car manufacturer.   Whereas it's quite simple to build a can-opener
+sample,  it could be very expensive to build the cockpit of  a new car. The
+virtual reality can give a significant help to this  phase. By means of
+powerful graphical computers you  can design your object and simulate  its
+ergonomic behavior. But how can you simulate the interactions between humans
+and virtual objects? Software simulators using powerful algorithms to
+replicate human movements can be used to insert an artificial mannequin in a
+3D-CAD environment. Unfortunately movements generated by algorithms are
+sometimes more similar to robotic movements than to human movements.
+Nevertheless the "fuzzyness" of human choices and reasoning are difficult to
+simulate with models and algorithms. If you ask to ten people to catch a pen
+on a table usually you can observe ten different movements. This "free will"
+is not easy to simulate! Artificial Neural Networks can be a promising answer
+to these problems. Why not to use artificial brains to simulate real brains?
+Today results will be presented and discussed in this workshop. Suggested
+arguments are: 
+
+a) The organization of CAD tools for 3D design and modelization 
+b) The problem of the animation of artificial mannequins 
+c) How to transport human biomodels to virtual models. 
+d) How to train neural networks with actual human movements and how to use
+it inside virtual reality. 
+e) Industrial applications
+
+---------------------------------------------------------------------
+
+Call for Participation: Geometric Methods in Learning
+(Shun-ichi Amari (RIKEN-Japan), Amir Assadi, UW-Madison (Chair), Tommy
+Poggio (MIT), Pawan Sinha (MIT))
+http://www.cms.wisc.edu/~cvg/nipsevents.html
+
+Throughout the history of science, geometric methods have played a key role
+in the development of scientific theory, in at least two very influential
+ways:  
+a) as a vehicle for communication of profound ideas about nature; 
+b) through use of the logical precision of geometric methods and powerful
+tools to further explore new ideas and to establish far reaching theories that 
+suggest new experiments. Two famous examples of this are seen in gravitation
+and relativity. The time is ripe to attract the attention of the learning
+community to geometric methodsand to take on an endeavor to:  
+	1.lay out a geometric paradigm for formulating profound ideas in
+learning; 
+	2.to facilitate the development of geometric methods suitable  of
+investigation of new ideas in learning theory. Among the discussion topics,
+we envision the following: Information geometry, differential topological
+methods for turning local estimates into global quantities and invariants,
+Riemannian geometry as a framework to explore nonlinearity, spatial
+statistics, impact of learning theory on future development of geometry,
+and examples of how theoretical physics has developed their own version of
+geometric tools to formulate unification theories. 
+
+
+---------------------------------------------------------------------
+
+                       CALL FOR PARTICIPATION
+                 Spike Timing and Synaptic Plasticity
+
+                 http://www.pitt.edu/~pwm/LTP_LTD_99
+
+Hebbian learning in neural networks requires both correlation-based 
+synaptic plasticity and a mechanism that induces competition between
+different synapses. Spike-timing-dependent synaptic plasticity is  
+especially interesting because it combines both of these elements in a 
+single synaptic modification rule. Temporally dependent synaptic  
+plasticity is attracting a rapidly growing amount of attention in the 
+computational neuroscience  community. The change in synaptic efficacy 
+arising from this form of plasticity is highly sensitive to temporal 
+correlations between different presynaptic spike trains.
+The major goals of the workshop are:
+     * To review current experimental results on spike-timing-dependent
+       synaptic plasticity.
+     * To discuss models and mechanisms for this form of synaptic
+       plasticity.
+     * To explore its implications for development and learning in neural
+       networks.
+
+--------------------------------------------------------------------------
+
+                    MCMC METHODS FOR MACHINE LEARNING
+             http://svr-www.eng.cam.ac.uk/~jfgf/nips99.html
+        
+ORGANISERS: Christophe Andrieu and Arnaud Doucet (Cambridge), Neil Gordon 
+            and Alan Marrs (Defence Research Agency, UK) and Nando de 
+            Freitas (UC Berkeley) 
+
+Markov chain Monte Carlo (MCMC) techniques are a set of powerful and 
+flexible simulation methods that may be applied to solve integration and 
+optimisation problems in large dimensional spaces. These two types of 
+problem play a fundamental role in machine learning, Bayesian statistics 
+and decision analysis. MCMC methods were introduced in the physics 
+literature in the 1950's and are now at the heart of a recent revolution in 
+applied statistics. Many of the new advances in MCMC simulation, including 
+model selection and model mixing, parallel chains, perfect sampling, 
+forward-backward sampling and on-line MCMC among others, have been 
+overlooked to a large extent by the neural networks and machine learning 
+communities. This workshop will attempt to provide a simple tutorial 
+review of these state-of-the-art simulation-based computational methods. 
+It will also focus on application domains and encourage audience 
+participation. 
+
+---------------------------------------------------------------------------
+
+LEARNING WITH SUPPORT VECTOR MACHINES: THEORY AND APPLICATIONS
+
+http://lara.enm.bris.ac.uk/cig/nips99.htm
+
+
+Deadline for receipt of abstracts is **** 20th October 1999 ****.
+
+Organisers; C. Campbell (Bristol, UK), C. Burges (Lucent Technologies,
+USA), N. Cristianini (Bristol, UK)
+
+Support Vector Machines have become established as a powerful technique   
+for solving a variety of classification, regression and density estimation
+tasks. This workshop will cover Support Vector Machines and related   
+techniques based on the concepts of large margins or the use of kernel
+methods. Topics covered will include:
+
+- new theoretical contributions
+- algorithms and implementation techniques
+- applications
+
+Contributors to the workshop will be invited to submit their papers to a
+special issue of the journal Machine Learning edited by the workshop
+organisers.
+
+---------------------------------------------------------------------
+
+
+   Statistical Learning in High Dimensions
+   ---------------------------------------
+
+      Marina Meila and Andrew Moore
+
+  URL: http://www.ai.mit.edu/~mmp/workshop-nips99/workshop-nips99.html
+
+   As more and more knowledge domains enter the scope of machine
+learning, researchers are increasingly often confronted with high and
+very high dimensional data. Of the wide spectrum of existing machine
+learning methods only a few ones are currently applied to high
+dimensional problems. The goal of this workshop is to better
+understand the sources of difficulty in training (and using)
+high-dimensional statistical models and to expose the participants to
+recent solutions and to approaches outside the traditional scope of
+NIPS (e.g. multiscale models). Therefore we will bring together
+researchers from domains dealing with constructing statistical models
+of high-dimensional data (text and image processing, computational
+biology, diagnosis systems), from data mining, graphical models and
+algorithms to discuss issues that are relevant across different
+fields. We will focus on the algorithmic aspects by emphasizing on:
+  * fast and very fast exact algorithms 
+  * models/training algorithms with no local minima (e.g. support
+vectors, tree distributions)
+  * How to efficiently prune irrelevant features. Implicit versus
+explicit feature selection techniques.
+  * How to use prior knowledge in speeding up training and search?
+Lessons from domain specific paradigms.
+  * Supervised versus unsupervised training. Often times, one finds
+that density estimators perform well in classification/recognition
+tasks. What causes this behaviour? Are there lessons to be learned
+that would improve classifier training?
+
+Contact Info
+
+  Marina Meila 
+  Smith Hall 208 
+  Carnegie Mellon University 
+  5000 Forbes Avenue 
+  Pittsburgh PA 15213 
+  mmp@cs.cmu.edu 
+  Phone:(412)268-8424 
+
+  Andrew W. Moore 
+  Smith Hall 221 
+  Carnegie Mellon University 
+  5000 Forbes Avenue 
+  Pittsburgh PA 15213 
+  awm@cs.cmu.edu 
+  Phone:(412)268-7599 
+  Fax:(412)268-5571 
+
+---------------------------------------------------------------------
+
+ CONTEXT AND ADAPTATION IN STATISTICAL THEORIES OF VISION
+
+http://vision.psych.umn.edu/www/people/schrater/NIPS*99workshop.htm
+
+Organizers: P. Schrater (U. Minnesota), E. Simoncelli (NYU, New York),
+		 D. Kersten (U. Minnesota)
+
+Although a great deal of work has recently been done on natural image
+statistics,the primary focus has been on understanding the low-order ensemble
+statistics of images. These ensemble statistics are assumed to be collected
+over long time intervals, and thus over a number of distinct contexts.
+Because statistical properties in a scene tend to be more homogeneous over
+shorter time intervals, there may be advantages to systems which do short time
+statistical analyses, especially for short duration events such as motion
+processing and tasks requiring online control such as the visual control of
+reaching.  The goal of the workshop is to bring together researchers
+interested statistical approaches to vision involving adaptive, short-time, or
+online processes. Topics that may be addressed include: theories of context
+and context learning, theories of perceptual learning and adaptation,
+statistical interpretations of cortical dynamics, adaptive statistical
+processing (e.g.  sequential parameter estimation, dynamic Bayes Nets, Kalman
+filtering, EM, etc.), visuo-motor control, and the perception of dynamics.
+
+___________________________
+Paul Schrater, Ph.D.
+Psychology Dept, U. of Minn.
+N218 Elliott Hall
+75 East River Road
+Minneapolis, MN
+USA  55455
+
+Phone: 612-626-8638             FAX: 612-626-2079
+email: schrater@eye.psych.umn.edu
+web: http://vision.psych.umn.edu/www/people/schrater
+
+---------------------------------------------------------------------
+
+Neuronal Response Variability - Curse or Blessing?
+
+Organizer: Klaus Pawelzik
+
+The subject of this workshop is the high degree of variability of
+neuronal responses as measured in the cortex. This robust phenomenon
+challenges theories of neuronal coding which are based on
+spatio-temporally coordinated activities (Softkey and Koch,
+Aertsen) and could provide evidence for a rather sloppy rate code
+(Shadlen and Newsome).
+Both opposing views have been hotly debated in neuroscience during
+the past and now after some dust has settled it is a good time to take
+a fresh view on this subject which lies at the heart of our
+understanding how brains process information. The purpose of this
+workshop is to present the opposing views to a broadly interested
+audience and to discuss their evidence and implications. Obviously a
+significant source of variability is given by the huge amount of ongoing
+activity in the cortex.  Optical imaging with voltage sensitive dyes
+(A.Arielli et al.) and dual intracellular recordings in vivo (I.Lampl et
+al.) have revealed a surprising amount of synchronous subthreshold
+activity.  While in the past the ongoing activity has been treated
+largely as a kind of noise that masks the stimulus dependent part
+of neuronal responses this workshop will also discuss a novel hypothesis
+which suggest that the subthreshold activity is a signal generated
+within the cortex that represents contextual information and can be
+effective as a selective gain control (A. Aertsen, M.Bethge).
+
+---------------------------------------------------------------------
+
+
+Computational Brain Imaging: Beyond Modern Phrenology 
+
+http://www.cnl.salk.edu/~giedrius/nips99/index.html
+
+Organizers: Geoff Boynton, Giedrius Baracas, The Salk Institute
+
+The goal of the proposed workshop is to explore how functional brain
+imaging research can benefit from a quantitative, rather than
+qualitative approach to experimental design and data analysis.
+The majority of functional MRI (fMRI) studies employ a localizationist
+approach which attempt to locate specific brain centers associated
+with various perceptual, motor, and cognitive functions. Typically,
+results are shown as thresholded statistical parameter maps (such as
+Z-score maps) which show the foci of "brain centers" associated with a
+specific stimulus or task.  It has been noted, however (Wandell,
+1999), that the increase in signal-to-noise ratio with the advent of
+more advanced imaging technology can only increase the number of brain
+regions that are activated above a given significance threshold, thus
+making the notion of a "cognitive brain center" untenable.
+In contrast, recent approaches are exploiting the continuous,
+quantitative nature of the raw fMRI signal to detect subtle
+covariations between the fMRI signal and various stimulus parameters.
+Several groups are now employing this quantitative approach by
+exploring the mapping between the fMRI signal and parameters such as
+position in the visual field (mapping retinotopy), stimulus strength
+and duration, and the behavioral performance of psychophysical tasks.
+The proposed workshop will address issues related to the relationship
+between the underlying neuronal response and the fMRI signal.  This
+topic is timely; functional MRI is nearing its 10-year anniversary,
+and fMRI research can no longer rely on the novelty of the technique.
+It is time to take advantage of recent technological and theoretical
+advances to move beyond basic localization studies and toward
+quantitative studies of brain function.
+
+
+---------------------------------------------------------------------
+
+                Overcomplete representations and
+                nonlinear approaches to ICA
+
+http://www.cnl.salk.edu/~tewon/ICA/nips_workshop.html
+
+Organizers:     Te-Won Lee (The Salk Institute)
+                Kenneth Kreutz-Delgado (UCSD)
+                Michael Lewicki (CMU)
+
+Recently, there has been a great interest in statistical models for
+learning overcomplete representations.  A popular method for learning
+data representations is Independent Component Analysis (ICA). Although
+most ICA research was focused on complete representations, we believe
+that statistical models with overcomplete representations will lead to
+new powerful techniques for signal- and image processing. There is
+also a link between overcomplete representations and efficient sensory
+coding in the brain which shows the vitality of the emerging new
+perspectives. An example is Hubel and Wiesel's finding of oriented
+receptive fields in cat visual cortex which has been substantiated by
+coding natural scenes (Olshausen, Bell, and Lewicki) using
+complete/overcomplete representations. The methods derived by
+considering statistical and information theoretic principles such can
+be used for coding images and audio signals which are more efficient
+than other traditional engineering methods.
+The goal of this workshop is to bring together researchers who are
+interested in exchanging their ideas and exploring new theories for
+overcomplete representations. We anticipate talks on advanced topics
+in overcomplete representations, mixture models, nonlinear independent
+component analysis, information theoretic coding, image understanding,
+speech modeling, and pattern recognition using overcomplete
+representations.
+
+---------------------------------------------------------------------
+
+
+

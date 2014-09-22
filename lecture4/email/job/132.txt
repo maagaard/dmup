@@ -1,0 +1,94 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jun 18 21:17:45 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA05808;
+	Fri, 18 Jun 1999 21:17:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12079;
+          18 Jun 99 13:55 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12076;
+          18 Jun 99 13:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07471;
+          18 Jun 99 13:43 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab27195; 18 Jun 99 11:01 EDT
+Received: from martini.ifi.unizh.ch by RI.CMU.EDU id aa19860;
+          18 Jun 99 10:58:55 EDT
+Received: from ifi.unizh.ch (moeller@localhost [127.0.0.1])
+	by martini.ifi.unizh.ch (8.8.8/8.8.8) with ESMTP id RAA06112;
+	Fri, 18 Jun 1999 17:11:17 +0200
+Sender: moeller@martini.ifi.unizh.ch
+Message-ID: <376A6194.4750EE96@ifi.unizh.ch>
+Date: Fri, 18 Jun 1999 17:11:17 +0200
+From: Ralf Moeller <moeller@ifi.unizh.ch>
+Organization: AI Lab, Dept. Computer Science, University of Zurich
+X-Mailer: Mozilla 4.05 [en] (X11; I; Linux 2.0.35 i686)
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu, learningrobots@cs.bham.ac.uk,
+        biorobotics@ai.mit.edu, genetic-programming@cs.stanford.edu,
+        evolutionary-computing@mailbase.ac.uk
+Subject: Ph.D. student position synthetic modeling/biorobotics
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+------------------------------------------
+    Position for a Ph.D. student in
+   *Synthetic modeling / Biorobotics*
+   at the AILab, University of Zurich
+------------------------------------------
+
+A new Ph.D. student position is open at the Artificial Intelligence
+Laboratory, Dept. of Computer Science of the University of Zurich.
+Availability: Immediately or at earliest convenience.
+
+Research on this position will focus on "Synthetic modeling" or
+"Biorobotics". "Synthetic modeling" is a novel biological methodology to
+gain insights in the mechanisms underlying the behavior of biological
+agents. Models developed to explain the animal's abilities are
+implemented on an artifical agent and validated by observing the
+behavior and the internal states of the robot. At the same time, the
+method will lead to new solutions for robotics applications.
+
+The specific goal of the project is to improve our understanding of the
+impressive visual navigation abilities of insects and to apply this
+knowledge to enable robots to safely navigate in complex environments.
+This will require scaling-up of previous theoretical and practical work.
+
+If the above challenges capture your interest, and you would like to
+become a member of an international research team conducting
+interdisciplinary work, submit a curriculum vitae, statement of research
+interests, and names of three referees to:
+
+Corinne Maurer
+Dept. of Computer Science
+University of Zurich
+Winterthurerstrasse 190
+CH-8057 Zurich, Switzerland
+
+E-mail:   maurer@ifi.unizh.ch
+Phone:    41-1-63 54331
+Fax:      41-1-63 56809
+
+For details on the research subject, contact:
+
+Ralf Moeller
+Email:    moeller@ifi.unizh.ch
+
+Profile: Applicants should have an M.Sc., a university Diploma, or a
+similar degree, in one of the following areas: computer science,
+electrical or mechanical engineering, biology, neurobiology, physics,
+mathematics, or related disciplines. He/she should have good programming
+skills (C, C++, etc.) and preferably experience with robot control,
+image processing, and electronics.
+
+Tasks: The main task for the accepted candidate will be to conduct
+research towards his/her Ph.D. Additional tasks include support for
+classes organized by the AI-Lab as well as other administrative tasks
+required by the computer science department.
+
+Salary: The salary will be according to the specification of the Swiss
+National Science Foundation.
+
+Time prospect: The candidate is expected to complete his/her Ph.D. work
+within a period of maximum 4 years.

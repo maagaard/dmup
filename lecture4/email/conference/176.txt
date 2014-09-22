@@ -1,0 +1,605 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Nov 23 10:34:53 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA10551;
+	Mon, 23 Nov 1998 10:34:43 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17646;
+          23 Nov 98 2:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17644;
+          23 Nov 98 1:47 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18909;
+          23 Nov 98 1:47 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa21101; 23 Nov 98 1:40 EST
+Received: from kuaile.stern.nyu.edu by RI.CMU.EDU id aa22663;
+          23 Nov 98 1:40:09 EST
+Received: (from cf99@localhost)
+	by kuaile.stern.nyu.edu (8.8.4/8.8.5) id BAA01787;
+	Mon, 23 Nov 1998 01:40:03 -0500 (EST)
+From: Andreas Weigend - Computational Finance 99 <cf99@stern.nyu.edu>
+Message-Id: <199811230640.BAA01787@kuaile.stern.nyu.edu>
+Subject: Computational Finance CF99 Program and Registration 
+To: connectionists@cs.cmu.edu
+Date: Mon, 23 Nov 1998 01:40:03 -0500 (EST)
+Cc: cf99@stern.nyu.edu
+X-Mailer: ELM [version 2.4 PL23]
+Content-Type: text
+Status: RO
+X-Status: 
+
+Computational Finance                    http://www.stern.nyu.edu/CF99
+CF99                               Leonard N. Stern School of Business
+January 6 - 8, 1999                                New York University
+
+This message contains the program and registration form for CF99.
+Please note that the deadline for early registration is December 1.
+
+The sixth international conference Computational Finance 99 will be held
+at NYU's Leonard N. Stern School of Business. CF99 is sponsored by the
+New York University Salomon Center, the Center for Research on Informa-
+tion Systems and the Department of Statistics and Operations Research.
+
+Computational Finance has emerged as a genuinely cross-disciplinary
+research meeting. CF99 is the sixth in a series of conferences that have
+been sponsored by the California Institute of Technology and the London
+Business School. In the past, this conference was called Neural Networks
+in the Capital Markets (NNCM). The expanding set of computational tools
+has moved this meeting from its original emphasis on neural network
+techniques to a broad spectrum of different methodologies.
+
+With several hundred attendees, this fully refereed conference has
+become an international forum where original research in advanced
+computational applications in finance is presented and discussed.  
+CF99 brings together decision makers and strategists from the
+financial industries, with academics from finance, statistics,
+economics, information systems and other disciplines.
+
+>> The website of the conference is http://www.stern.nyu.edu/CF99 <<
+
+The site should contain all the information you need to know about the
+conference.  The rest of this e-mail includes for your convenience the
+program and the registration form. For questions, please see the FAQ
+part at the website.
+
+Please register by December 1st, 1998, to avoid late charges.
+
+   Yaser S. Abu-Mostafa (Caltech)            Blake LeBaron (Brandeis)
+   Andreas S. Weigend (NYU/Stern)            Andrew W. Lo (MIT/Sloan)
+   [General and Organizational Chairs]       [Program Co-Chairs]
+________________________________________________________________________
+CF99 TUTORIALS (January 6)
+
+The four 2-hour tutorials are designed to inform the diverse group of
+participants on a selection of the latest tools and research results:
+
+ o Forecasting Volatility
+   Prof. Stephen Figlewski (Stern School of Business, New York University)
+   
+ o Hedge Fund Styles
+   Prof. David A. Hsieh (Fuqua School of Business, Duke University)
+
+ o Neuro-Dynamic Programming and Reinforcement Learning for Finance
+   Prof. Benjamin Van Roy (Stanford University)
+   
+ o Data Snooping
+   Prof. Halbert White (University of California, San Diego)
+
+________________________________________________________________________
+CF99 PROGRAM (January 7 and 8)
+
+In addition to the program given below (grouped into the categories
+Invited Talks, Contributed Talks, Poster Spotlights, and Posters),
+CF99 has two distinguished keynote speakers: H. Gifford Fong (President
+of Gifford Fong Associates), and David E. Shaw (Chairman and CEO of
+D. E. Shaw & Co., Inc.).
+
+                     Title                             Author(s)
+
+1. INVITED TALKS _____________________________________________________
+   (45 minutes each)
+
+Mutual Fund Styles                      Prof. Stephen Brown, New York
+                                        University
+
+
+Asymptotically optimal stratification   Prof. Paul Glasserman,
+for pricing path-dependent options      Columbia University
+
+
+Safe and Effective Importance Sampling  Prof. Art Owen, Statistics
+                                        Department, Stanford University
+
+
+2. CONTRIBUTED TALKS _________________________________________________
+   (25 minutes each. Acceptance rate was < 10% of submissions)
+
+What is the spread without rounding? A  Clifford A. Ball, Vanderbilt
+Monte Carlo Markov chain approach       University
+                                        Tarun Chordia, Vanderbilt
+                                        University
+
+What data should be used to price       Mikhail Chernov, Pennsylvania
+options?                                State Univ.
+                                        Eric Ghysels, Penn. St. Univ.
+
+Nonparametric testing of ARCH for       Peter Christoffersen, IMF
+option pricing                          Jinyon Hahn, University of
+                                        Pennsylvania
+
+Does volatility timing matter?          Jeff Flemming, Rice
+                                        University
+                                        Chris Kirby, Rice University
+                                        Barbara Ostdiek, Rice
+                                        University
+
+Real-time trading models with           Ramazan Gencay, University of
+heterogeneous expectations and the      Windsor, visiting Olsen and
+statistical properties of foreign       Associates
+exchange rates                          Giuseppe Ballocchi, Olsen and
+                                        Associates
+                                        Michel Dacorogna, Olsen and
+                                        Associates
+                                        Richard Olsen, Olsen and
+                                        Associates
+                                        Olivier Pictet, Olsen and
+                                        Associates
+
+Pricing stock options under stochastic  George J. Jiang, University
+volatility and interest rates with      of Groningen
+efficient methods of moments            Pieter J. van der Sluis,
+estimation                              University of Amsterdam
+
+Option valuation with the genetic       Christian Keber, University
+programming approach                    of Vienna
+
+Optimal portfolio choice and the        Francis A. Longstaff, UCLA
+valuation of illiquid securities
+
+Volatility clustering in financial      Thomas Lux, University of
+markets: A Micro-simulation of          Bonn
+interacting agents                      Michele Marchesi, University
+                                        of Cagliari
+
+Minimizing downside risk via            John Moody, Oregon Graduate
+stochastic dynamic programming          Institute
+                                        Matthew Saffell, Oregon
+                                        Graduate Institute
+
+Exchange rates and fundamentals:        Min Qi, Kent State University
+evidence from out-of-sample             Yangru Wu, Rutgers University
+forecasting using neural networks
+
+Dangers of data-driven inference: The   Ryan Sullivan, UCSD
+case of calendar effects in stock       Allan Timmermann, UCSD
+returns                                 Halbert White, UCSD
+
+Implementing trading strategies for     N. Towers, London Business
+forecasting models                      School
+                                        A. N. Burgess, London
+                                        Business School
+
+
+3. POSTER SPOTLIGHTS _________________________________________________
+   (3 minute presentations hightlighting the selected poster)
+
+A Comparison of different approaches    Carl Chiarella, University of
+to the calibration of option pricing    Technology Sydney
+models                                  Mark Craddock, UTS
+                                        Nadima El-Hassan, UTS
+
+A computational framework for           Les Clewlow, Warwick Business
+contingent claim pricing and hedging    School
+under general processes                 Russell Grimwood, Warwick
+                                        Business School
+
+Trading Mutual funds with Piece-wise    Michael de la Maza, Redfire
+constant models                         Capital Management Group
+
+Market force, ecology, and evolution    J. Doyne Farmer, Prediction
+                                        Company
+
+Value at risk for options: A new        H. Gifford Fong, Gifford Fong
+analytical approach                     Associates
+
+Endogenous information selection:       David Goldbaum, Rutgers
+Fundamentals and technical trading      University
+rules
+
+The entropic market hypothesis          Les Gulko, General Re
+                                        Corporation
+
+Neural networks for value at risk       Dirk Ormoneit, Stanford University
+                                        Ralph Neuneier, Siemens AG
+
+Identifying noise traders: The          Carol Osler, Federal Reserve
+head-and-shoulders pattern in U.S.      Bank of New York
+equities
+
+Markov functional interest rate models  Phil Hunt, ABN-Amro Bank
+                                        Joanne Kennedy, University of
+                                        Warwick
+                                        Antoon Pelsser, ABN-Amro Bank
+
+Portfolio compression and projection    Stathis Tompaidis, University
+pursuit                                 of Texas - Austin
+
+Confidence intervals and hypothesis     H. D. Vinod, Fordham
+testing for the Sharpe and Treynor      University
+performance measures: A bootstrap       Matthew R. Morey, Fordham
+approach                                University
+
+Empirical pricing kernels               Joshua V. Rosenberg, NYU
+                                        Robert F. Engle, UCSD
+
+Pricing discrete knock-out options      Manfred Steiner, University
+with tree methods                       of Augsburg
+                                        Martin Wallmeier, University
+                                        of Augsburg
+                                        Reinhold Hafner, RiskLab
+
+Active portfolio-management with        Hans Georg Zimmermann,
+neural networks                         Siemens AG
+                                        Ralph Neuneier, Siemens AG
+
+4. POSTERS____________________________________________________________
+
+Portfolio formation and asset           Hamid Ahmadi, California
+classification with neural networks     State University, Sacramento
+                                        Laurence Takeuchi, California
+                                        State University, Sacramento
+                                        Burton F. Schaffer,
+                                        California State University,
+                                        Sacramento
+
+Change of measure in monte-carlo        Filippo Altissimo, Bank of
+integration via gibbs sampling          Italy
+
+A bayesian approach to estimating       Amir F. Atiya, California
+mutual fund returns                     Institute of Technology
+                                        Malik Magdon-Ismail,
+                                        California Institute of
+                                        Technology
+
+Assessing the long-term credit          George T. Albanis, City
+standing of debt issuers using          University, London
+dimensionality reduction techniques
+based on on neural networks - An
+alternative to overfitting
+
+Seasonal volatility in localized        Wolfgang Breymann, Olsen and
+exchange-traded markets                 Associates Research Group
+                                        Michel M. Dacorogna, Olsen
+                                        and Associates Research Group
+                                        Ulrich Muller, Olsen and
+                                        Associates Research Group
+                                        Gilles Zumbach, Olsen and
+                                        Associates Research Group
+
+Pseudospectral solution of financial    F. O. Bunnin, Imperial
+partial differential equations          College, London
+                                        Y. Ren, Imperial College,
+                                        London
+
+Statistical arbitrage models of the     A. N. Burgess, London
+FTSE 100                                Business School
+
+Comparing connectionist and symbolic    E. Martineli, University of
+models for bankruptcy prediction        Sao Paulo
+                                        H. Diniz, University of Sao
+                                        Paulo
+                                        A. de Carvalho, University of
+                                        Sao Paulo
+                                        S. O. Rezende, University of
+                                        Sao Paulo
+                                        A. Matias, University of Sao
+                                        Paulo
+
+Comparative analysis of artificial      Chris Charalambous,
+neural network models: Application in   University of Cyprus
+bankuptcy prediction                    Andreas Charitou, University
+                                        of Cyprus
+                                        Froso Kaourou, University of
+                                        Cyprus
+
+Estimating the complexity function of   Shu-Heng Chen, National
+financial time series: an estimation    Chengchi University
+based on predictive stochastic          Ching-Wei Tan, National
+complexity                              Chengchi University
+
+An adaptive evolutionary approach to    N. K. Chidambaran, NYU
+option pricing via genetic programming  C. H. Jevons Lee, Tulane
+                                        University
+                                        Joaquin R. Trigueros, Tulane
+                                        University
+
+Pricing interest rate exotics in        Les Clewlow, University of
+multi-factor gaussian interest rate     Warwick
+models                                  Chris Strickland, University
+                                        of Warwick
+
+Tracking indices fixed-income           Rita Laura D'Ecclesia,
+securities for the Italian market       Universita di Urbino
+                                        Marida Bertocchi, Universita
+                                        di Bergamo
+                                        Jozsef Abaffy, University of
+                                        Economics
+
+Nonparametric estimation of the         Jorge Galindo-Flores, Harvard
+Black-Scholes Option pricing equation:  University
+a comparative analysis of statistical
+and machine learning methods
+
+Using nonlinear neurogenetic models     Zac Harland, Krueger Research
+with profit related objective
+functions to trade US T-bond futures
+
+Parameter tuning in trading algorithms  Thomas Hellstrom, Malardalen
+using ASTA                              University
+                                        Kenneth Holmstrom, Malardalen
+                                        University
+
+Goodness of fit, stability and data     Juan del Hoyo, Universidad
+mining                                  Autonoma de Madrid
+                                        Guillermo Llorente Alvarez,
+                                        Universidad Autonoma de
+                                        Madrid
+
+Bank lending policy, credit scoring     Tor Jacobson, Sveriges
+and value at risk                       Riksbank
+                                        Kasper Roszbach, Stockholm
+                                        School of Economics
+
+Higher order forward rate agreements    Stefan Jaschke, Humboldt
+and the smoothness of the term          Universitat
+structure
+
+Technical trading creates a prisoner's  Shareen Joshi, Santa Fe
+dilemma: results from an agent-based    Institute
+model                                   Jeffrey Parker, Reed College
+                                        Mark Bedau, Reed College
+
+Curved principle component analyis of   Juan K. Lin, MIT
+Asian currencies
+
+Nonparametric testing of the            Cornelis K. Los, Nanyan
+high-frequency efficiency of the 1997   Technological University
+Asian foreign exchange markets
+
+Further study on independent            Zhi-bin Lai, The Chinese
+components in analysis of financial     University of Hong Kong
+data                                    Yiu-ming Cheung, The Chinese
+                                        University of HK
+                                        Lei Xu, The Chinese
+                                        University of HK
+
+Estimating variance in the foreign      Andrea Beltratti, University
+exchange market with high frequency     of Turin Claudio Morana,
+data                                    Heriot-Watt University
+
+A state-space HJM framework for         Nesan N. Nair, University of
+modelling the term structure of         Natal at Durban
+interest rates using Eurodollar
+futures prices
+
+A constrained hybrid approach to        Paul Lajbcygier, Monash
+pricing options                         University
+                                        Jerome Connor, London
+                                        Business School
+
+Bootstrap methods and statistical       Michael Page, University of
+accuracy: The case of South African     Cape Town
+rights issue and initial public         Arthur H. E. Money, Henley
+offering markets                        Management College
+                                        Karolina Koztowska,
+                                        University of Szczecin
+
+A comparison of option pricing and      Wu Ronghui, National
+hedging performances of the IT model    University of Singapore
+versus the Black's model                Chang Shih Kang, National
+                                        University of Singapore
+
+A support vector machine approach to    A. Fan, The University of
+bankruptcy prediction: a case study     Melbourne
+                                        D. Hong, The University of
+                                        Melbourne
+                                        M. Palaniswami, The
+                                        University of Melbourne
+                                        C. Tan, The University of
+                                        Melbourne
+                                        C. Scott, The University of
+                                        Melbourne
+
+Clustering analysis procedures and      A. M. D. Monteiro, Catholic
+international private indebtness        University of Rio de Janeiro
+                                        D. D. Carneiro, Catholic
+                                        University of Rio de Janeiro
+                                        C. E. Pedreira, Catholic
+                                        University of Rio de Janeiro
+
+Portfolio optimization: a model and     Edoardo Amaldi, Cornell
+heuristic to capture the trade-off      University Jean-Francois
+between replication error and the       Pusztaszeri, Cornell
+number of instrument                    University
+
+Bank lending policy, credit scoring,    Kasper Roszbach, De
+and the survival of loans               Nederlandsche Bank
+
+An optimal binary predictor for an      Dirk W. Rudolph, Institute of
+investor in a futures market            Agricultural Development in
+                                        Central and Eastern Europe
+
+Risk neutral forecasting                Spyros Skouras, European
+                                        University Institute
+
+Pricing discretely monitored barrier    Michael A. Sullivan, Florida
+options                                 International University
+
+A simulation algorithm based on         Alan Brace, University of New
+measure relationships in the lognormal  South Wales
+market models                           Marek Musiela, University of
+                                        New South Wales
+                                        Erik Schlogl, University of
+                                        New South Wales
+
+A note on arbitrage asset pricing       Manfred Steiner, University
+                                        of Augsburg
+                                        Sebastian Schneider,
+                                        University of Augsburg
+
+Dynamic asset allocation and fixed      Carsten Sorensen, Copenhagen
+income management                       Business School
+
+Relative performance of incentive       T. S. Raghu, Arizona State
+mechanisms in delegated investments: a  University
+computational study                     H. R. Rao, SUNY Buffalo
+                                        P. K. Sen, SUNY Buffalo
+
+Bayesian network models of portfolio    Catherine Shenoy, University
+risk and return                         of Kansas
+                                        Prakash P. Shenoy, University
+                                        of Kansas
+
+Small transactions cost asymptotics     Claudio Albanses, University
+and dynamic hedging                     of Toronto
+                                        Stathis Tompaidis, University
+                                        of Texas at Austin
+
+Bootstrap predictability of daily       Demoosthenes N. Tambakis,
+exchange rates in ARMA models           City University Business
+                                        School, London
+
+A symbolic dynamics approach to         Peter Tino, Austrian Research
+volatility prediction                   Institute for Artificial
+                                        Intelligence
+                                        Christian Schittenkopf,
+                                        Austrian Research Institute
+                                        for Artificial Intelligence
+                                        Georg Dorffner, Austrian
+                                        Research Institute for
+                                        Artificial Intelligence
+                                        Engelbert J. Dockner,
+                                        University of Vienna
+
+Optimization of technical trading       Raymond Tsang, Monash
+strategy using a split search genetic   University
+algorithm                               Paul Lajbcygier, Monash
+                                        University
+
+A pricing model for American options    Bert Menkveld, Erasmus
+with stochastic interest rates          University
+                                        Ton Vorst, Erasmus University
+
+Application of adaptive supervised      Kei Keung Hung, The Chinese
+learning decision (ASLD) network in     University of Hong Kong
+stock market                            Lei Xu, The Chinese
+                                        University of Hong Kong
+
+The term structure of interactions of   John Moody, Oregon Graduate
+foreign exchange rates                  Institute
+                                        Howard Yang, Oregon Graduate
+                                        Institute
+
+Moment generating function approach to  Theo Dijkstra, University of
+pricing interest rate and foreign       Groningen
+exchange claims                         Yong Yao, University of
+                                        Groningen
+
+________________________________________________________________________
+CF99 REGISTRATION INFORMATION
+
+The registration fees (in US Dollars) include all printed materials,
+breakfasts, lunches, dinner on Thursday, as well as the conference
+proceedings:
+
+    Rates for early 
+     registration      Conference only  Conference with
+     (received by      (no tutorials)   all tutorials
+   December 1, 1998)    [Jan 7 and 8]   [Jan 6, 7 and 8]
+
+       Standard              600             900
+       Academic              300             400
+        Student              100             150
+
+The student rate is for full-time students only. Postdocs and full-time
+faculty pay the academic rate. To qualify for reduced rates both of the
+following is required:
+(1) A university e-mail address of the registrant,
+(2) A photocopy of the faculty's, postdoc's or student's university ID card.
+									    
+To register, please complete the registration form below. Should you have   
+questions about the registration, please contact Mary Jaffier at the NYU    
+Salomon Center:								    
+									    
+     E-mail: mjaffier@stern.nyu.edu					    
+     Phone: +1 212 998-0700						    
+     Fax: +1 212 995-4220						    
+									    
+For registration using a credit card, please e-mail mjaffier@stern.nyu.edu  
+									    
+Please note that the deadline for early registration is December 1, 1998.   
+After this deadline, all rates will increase by 50%.			    
+
+________________________________________________________________________    
+CF99 REGISTRATION FORM							    
+									    
+To register, please print this form out complete it and mail it together    
+with a check payable to New York University to:				    
+									    
+     CF99 / Mary Jaffier						    
+     New York University Salomon Center					    
+     Stern School of Business						    
+     44 W 4th St., MEC 9-160						    
+     New York, NY 10012, USA						    
+									    
+Name: ______________________________________________________________________
+									    
+Affiliation: _______________________________________________________________
+									    
+Address: ___________________________________________________________________
+
+Address: ___________________________________________________________________
+
+City, State, Zip, Country: _________________________________________________
+
+Phone: ______________________________    Fax: ______________________________
+
+E-mail: ____________________________________________________________________
+
+Dietary requests (lunches and dinner):______________________________________
+
+Comments: __________________________________________________________________
+									    
+Attending: Conference only (no tutorials) / Conference with tutorials	    
+									    
+Enclosed is a check (payable to New York University) for USD ______	    
+									    
+Enclosed is a photocopy indicating qualification for reduced rates: Y / N   
+									    
+***   The following is only needed if you want to use a Visa/Master-   ***
+***   card.  In this case, please fill out the rest of this form and   ***
+***   mail it to the above address or fax it to +1 212 995-4220.       ***
+									    
+Master Card/Visa Charge Authorization					    
+
+Name: ______________________________________________________________________
+									    
+I authorize NYU to charge my account in the amount of  USD :________________
+									    
+Check type of card:       MasterCard [   ]         Visa [   ]		    
+									    
+Card Nr: __________________________________________________ Exp. Date: _____
+
+Cardholder's Name (Please Print): __________________________________________
+
+Cardholder's Signature: ____________________________________________________
+
+Address: ___________________________________________________________________
+
+Address: ___________________________________________________________________
+									    
+Telephone Number: __________________________________________________________
+
+[Credit Card Payment/CF99]
+
+For updates, further information including frequently asked questions, please
+visit the web site of the conference at http://www.stern.nyu.edu/CF99

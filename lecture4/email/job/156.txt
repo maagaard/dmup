@@ -1,0 +1,88 @@
+
+
+From spm-request@mailbase.ac.uk Mon Jul 26 16:21:00 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id QAA15029
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 26 Jul 1999 16:20:59 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA09597;
+	Mon, 26 Jul 1999 15:15:49 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA24399;
+        Mon, 26 Jul 1999 15:14:12 +0100 (BST)
+Received: from monarch.ja.net (monarch.ja.net [128.86.16.37]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id PAA24393;
+        Mon, 26 Jul 1999 15:14:09 +0100 (BST)
+Received: from sun.mhs-relay.ac.uk by monarch.ja.net with spam monitored smtp (PP) with ESMTP; Mon, 26 Jul 1999 15:14:07 +0100
+Received: from cxwms.ac.uk (actually host s1.cxwms.ac.uk) by sun.mhs-relay.ac.uk; Mon, 26 Jul 1999 15:14:02 +0100
+Received: from rsu2.cxwms.ac.uk (rsu2.cxwms.ac.uk) by cxwms.ac.uk (5.0/mail.byaddr) id AA06179 for spm@mailbase.ac.uk; Mon, 26 Jul 1999 15:14:00 +0000
+Message-Id: <379C6B6F.F945B226@ic.ac.uk>
+Date: Mon, 26 Jul 1999 15:06:40 +0100
+Reply-To: d.mcrobbie@ic.ac.uk
+Organization: Charing Cross Hospital
+X-Mailer: Mozilla 4.01 [en] (Win95; I)
+Mime-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Subject: Position Available
+From: "Dr. Donald McRobbie" <d.mcrobbie@ic.ac.uk>
+To: SPM discussion list <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Hammersmith Hospitals NHS Trust, Directorate of Imaging
+Imperial College School of Medicine, Functional MRI Group Charing Cross
+Hospital
+
+RADIOLOGICAL SCIENCES UNIT
+
+MR Research Physicist
+
+Grade B11-13 £22,548-£24,217 Pay award pending
+
+Applications are invited for a MR Research Physicist to support a range
+of clinically-related research programmes in functional
+MRI as applied to neurology and psychiatry. Current and pending projects
+include drug induced psychosis and its relationship
+to schizophrenia, neuropathology of bipolar disorder, cerebral perfusion
+changes following carotid endarterctomy, real time
+imaging of cerebral circulation, and the adaption of visual search
+following brain injury. In particular the postholder will be
+expected to develop MR perfusion imaging methodologies.
+The appointment will be made within the Radiological Sciences Unit at
+Charing Cross Hospital. The post is available for 24
+months from September 1 1999.
+
+Ideally the postholder will
+? Have a PhD in MRI
+? Have experience of working in hospital and research environments
+? Have experience of MRI pulse sequence and image processing software
+? Be familiar with Unix and Windows environments
+? Possess practical, communication and organisational skills.
+
+For further details contact Dr. Donald McRobbie, Head of Radiological
+and MR Physics Tel. 0181 846 1729 or email
+d.mcrobbie@ic.ac.uk or  Dr Michael Maier Senior Lecturer, Psychiatry
+Tel. 0181 967 5786 or email michael.maier@ic.ac.uk
+
+
+--
+Dr. Donald McRobbie
+Head of Radiological& MR Physics /Deputy Head of RSU
+Senior Lecturer in Imaging
+RADIOLOGICAL SCIENCES UNIT
+The Hammersmith Hospitals NHS Trust
+Charing Cross Hospital
+Fulham Palace Road
+London W6 8RF
+Tel. 0181 846 1729
+
+

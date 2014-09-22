@@ -1,0 +1,83 @@
+
+
+From owner-www-vrml@vrml.org Sat Oct 18 01:19:43 MET 1997
+Received: from vrml.org (vrml.org [209.66.78.240]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id BAA13374 for <fnielsen@eivind.imm.dtu.dk>; Sat, 18 Oct 1997 01:19:37 +0200 (METDST)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id IAA25848
+	for www-vrml-outgoing; Fri, 17 Oct 1997 08:56:20 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from io.iao.fhg.de (io.iao.fhg.de [137.251.36.1])
+	by vrml.org (8.8.7/8.8.5) with ESMTP id IAA25843
+	for <www-vrml@vrml.org>; Fri, 17 Oct 1997 08:56:07 GMT
+Received: from matrix.vr.iao.fhg.de by io.iao.fhg.de with ESMTP
+	(iao.fhg.de:9403141) id KAA27791; Fri, 17 Oct 1997 10:52:51 +0200 (MET DST)
+Received: from MATRIX/SpoolDir by matrix.vr.iao.fhg.de (Mercury 1.21);
+    17 Oct 97 10:51:14 +1
+Received: from SpoolDir by MATRIX (Mercury 1.30); 17 Oct 97 10:51:09 +1
+From: "Juergen Landauer" <landauer@matrix.vr.iao.fhg.de>
+Organization: FhG-IAO
+To: vrml-behaviors@sdsc.edu, vrml-modeling@sdsc.edu, vrml-vis@sdsc.edu,
+        vrml@u-strasbg.fr, vworlds-list@netcom.com, www-vrml@vrml.org
+Date: Fri, 17 Oct 1997 10:51:01 +1
+MIME-Version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+Subject: CFP: Virtual Environments & IEEE YUFORIC 98
+Reply-to: Juergen.Landauer@iao.fhg.de
+X-mailer: Pegasus Mail for Windows (v2.40)
+Message-ID: <2B22166154B@matrix.vr.iao.fhg.de>
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+Subject: Virtual Environments 98 & IEEE Yuforic
+Reply-to: Juergen.Landauer@iao.fhg.de
+
+Call for Participation
+
+             Virtual Environments '98
+
+held simultaneously with
+
+            IEEE YUFORIC Germany '98
+
+                    June 16th - 18th, 1998
+                    Stuttgart, Germany
+
+In cooperation with
+- Fraunhofer IAO/IPA, GMD, RUS Univ. Stuttgart
+- IEEE Computer Society
+- EUROGRAPHICS
+
+See      http://vr.iao.fhg.de/conference
+
+'Virtual Environments' is the European event for Virtual Reality
+research, technology, and applications. Experts from both academia and
+industry will gather to discuss the latest trends and ideas. Topics
+include immersive VR, distributed VR, VR on the internet, VR
+simulation and numerous others.
+
+The YUFORIC meeting of the IEEE Computer Society will focus on 
+virtual environments but will also cover related topics such as
+computer graphics, animation, and computer vision. Senior students and
+young professionals are invited to present their ideas and get
+feedback from experts in their field.
+
+In addition, the EUROGRAPHICS Workshop on Virtual Environments will be
+held simultaneously to this event (tentatively).
+
+For more information, contact:
+
+Juergen Landauer
+CC Virtual Reality
+Fraunhofer IAO
+
+Juergen.Landauer@iao.fhg.de
+Phone: +49-711-970-2134
+Fax:   +49-711-970-2299
+Mail: Nobelstr. 12, 70597 Stuttgart, Germany
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

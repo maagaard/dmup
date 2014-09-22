@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Oct 22 02:50:46 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id CAA13556;
+	Thu, 22 Oct 1998 02:50:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21911;
+          21 Oct 98 11:35 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21895;
+          21 Oct 98 11:19 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03664;
+          21 Oct 98 11:18 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa17600; 21 Oct 98 10:03 EDT
+Received: from [130.104.8.103] by CS.CMU.EDU id aa09564; 21 Oct 98 10:02:49 EDT
+Received: from pcdebodt ([130.104.153.132])
+	by doyens1.iag.ucl.ac.be (8.9.0/mp-doyens1) with SMTP id QAA07365
+	for <Connectionists@cs.cmu.edu>; Wed, 21 Oct 1998 16:05:56 +0100
+Reply-To: debodt@fin.ucl.ac.be
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+From: de Bodt Eric <debodt@fin.ucl.ac.be>
+To: Connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: ACSEG98 - Call for participation
+Date: Wed, 21 Oct 1998 16:07:16 +0200
+Message-ID: <043f01bdfcfc$1bc55fc0$84996882@pcdebodt.ucl.ac.be>
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+
+CONNECTIONIST APPROACHES IN ECONOMICS
+ AND MANAGEMENT SCIENCES
+
+FIFTH INTERNATIONAL MEETING
+
+COMPLEX DATA: MODELING AND ANALYSIS
+
+CALL FOR PARTICIPATION
+
+
+Since the beginning of the 80s, important advances have been made in
+developing diverse new approaches of bio-mimetic inspiration (neural nets,
+genetic algorithms, cellular automata.) These approaches are of prime
+interest for researcher both in Economics and in Management Sciences. The
+ACSEG  International Meetings give the opportunity to assess the
+state-of-the-art in the domain, to delineate future developments, and to
+evidence the contribution of bio-mimetic methods to Economics and Management
+Sciences. They also allow the researchers to present their recent work, to
+exchange know-how, and to discuss the problems encountered in their
+research.
+
+The 1998 ASCEG International Meeting on Complex Data  Modeling and Analysis
+Will take place at the Universite catholique de Louvain, November 20, 1998.
+Organizers are the research centers SAMOS (Universite de Paris 1 -
+Pantheon - Sorbonne), CEGF (Universite catholique de Louvain) and CeReFim
+(Facultes Universitaires Notre-Dame de la Paix).
+
+If interested, check the conference page http://mkb.fin.ucl.ac.be/Acseg98
+(the list of accepted papers is presented as well as the program of the day)
+or write to: ACSEG98, Centre d'Etudes en Gestion Financiere, Institut
+d'Administration et de Gestion, Universite catholique de Louvain, 1 place
+des Doyens, 1348 Louvain-la-Neuve - Belgium (Fax. : + (32).10.47.83.24) for
+additional information.
+

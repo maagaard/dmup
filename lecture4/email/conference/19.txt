@@ -1,0 +1,200 @@
+
+
+From icsc@compusmart.ab.ca Fri Jun 27 22:02:53 EDT 1997
+Received: from bernie.compusmart.ab.ca (root@bernie.compusmart.ab.ca [199.185.130.34]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id EAA11549 for <fnielsen@eivind.imm.dtu.dk>; Sat, 28 Jun 1997 04:02:46 +0200 (METDST)
+Received: from icsc.compusmart.ab.ca (remote815.compusmart.ab.ca [207.34.71.227]) by bernie.compusmart.ab.ca (8.7.4/8.6.5) with SMTP id TAA25128; Fri, 27 Jun 1997 19:06:09 -0600 (MDT)
+Message-Id: <2.2.32.19970628010422.006d1c48@mail.compusmart.ab.ca>
+X-Sender: icsc@mail.compusmart.ab.ca (Unverified)
+X-Mailer: Windows Eudora Pro Version 2.2 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 27 Jun 1997 19:04:22 -0600
+To: Prospective Authors <icsc@compusmart.ab.ca>
+From: ICSC Canada <icsc@compusmart.ab.ca>
+Subject: I&AAN'98 Workshop
+Status: RO
+X-Status: 
+
+International Workshop on
+INDEPENDENCE & ARTIFICIAL NEURAL NETWORKS / I&ANN'98=20
+at the University of La Laguna, Tenerife, Spain
+February 9-10, 1998
+
+http://www.compusmart.ab.ca/icsc/iann98.htm
+
+
+This workshop will take place immediately prior to the
+International ICSC Symposium on
+ENGINEERING OF INTELLIGENT SYSTEMS / EIS'98
+at the University of La Laguna, Tenerife, Spain
+February 11-13, 1998
+
+http://www.compusmart.ab.ca/icsc/eis98.htm
+
+******************************************
+
+
+TOPICS
+
+Recent ANN research has developed from those networks which find
+correlations in data sets to the more ambitious goal of finding independent
+components of data sets. The workshop will concentrate on those neural
+networks which find independent components and the associated networks whose
+learning rules use contextual information to organize their learning.
+
+The topic falls then into (at least) three main streams of current ANN=
+ research:
+
+1. Independent Component Analysis which has most=20
+   recently been successfully applied to the problem=20
+   of "blind separation of sources" such as the=20
+   recovery of a single voice from a mixture/convolution=20
+   of voices. Such methods normally use either=20
+   information theoretic criteria or higher order=20
+   statistics to perform the separation.
+
+2. Identification of independent sources: The seminal=20
+   experiment in this field is the identification of=20
+   single bars from an input grid containing mixtures=20
+   of bars. Factor Analysis (or generative models) has=20
+   been a recent popular method for this problem.=20
+
+3. Using contextual information to identify structure=20
+   in data.
+
+We envisage a single track program over two days (February 9 - 10, 1998)
+with many opportunities for informal discussion.
+
+******************************************
+
+
+INTERNATIONAL SCIENTIFIC COMMITTEE
+
+- Luis Almeida, INESC, Portugal
+- Tony Bell, Salk Institute, USA
+- Andrew Cichocki, RIKEN Institute, Japan
+- Colin Fyfe, University of Paisley, U.K.
+- Mark Girolami, University of Paisley, U.K.
+- Peter Hancock, University of Stirling, U.K.
+- Juha Karhunen, Helsinki University of Technology, Finland
+- Jim Kay, University of Glasgow, U.K.
+- Erkki Oja, Helsinki University of Technology, Finland
+
+******************************************
+
+
+INFORMATION FOR PARTICIPANTS AND AUTHORS
+
+Registrations are available for the workshop only (February 9 - 10, 1998),
+or combined with the EIS'98 symposium (February 11 - 13, 1998).
+
+The registration fee for the 2-day workshop is estimated at approximately
+Ptas. 37,000 per person and includes:
+
+- Use of facilities and equipment
+- Lunches, dinners and coffee breaks
+- Welcome wine & cheese party
+- Proceedings in print (workshop only)=20
+- Proceedings on CD-ROM (workshop and EIS'98 conference)
+- Daily transportation between hotels in Santa Cruz and workshop site
+
+The regular registration fee for the EIS'98 symposium (February 11-13, 1998)
+is estimated at Ptas. 59,000 per person, but a reduction will be offered to
+workshop participants.
+
+Separate proceedings will be printed for the workshop, but all respective
+papers will also be included on the CD-ROM, covering the I&ANN'98 workshop
+and the EIS'98 symposium. As a bonus, workshop participants will thus
+automatically also receive the conference proceedings (CD-ROM version). We
+anticipate that the proceedings will be published as a special issue of a
+journal.
+
+******************************************
+
+
+SUBMISSION OF PAPERS
+
+Prospective authors are requested to send a 4-6 page report of their work
+for evaluation by the International Scientific Committee. All reports must
+be written in English, starting with a succinct statement of the problem,
+the results achieved, their significance and a comparison with previous=
+ work.=20
+
+The report should also include:
+
+- Title of workshop (I&ANN'98)
+- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+
+Submissions may be made by airmail or electronic mail to:
+
+  Dr. Colin Fyfe
+  Department of Computing and Information Systems
+  The University of Paisley
+  High Street
+  Paisley, PA1 2BE
+  Scotland
+
+  Email: fyfe0ci@paisley.ac.uk
+  Fax: +44-141-848-3542
+
+******************************************
+
+
+SUBMISSION DEADLINE
+
+It is the intention of the organizers to have the proceedings available for
+the delegates. Consequently, the submission deadline of September 15, 1997
+has to be strictly respected.
+
+******************************************
+
+
+IMPORTANT DATES
+
+Submission of reports:      September 15, 1997
+Notification of acceptance: October 15, 1997
+Delivery of full papers:    November 15, 1997
+I&ANN'98 Workshop:          February 9 - 10, 1998
+EIS'98 Conference:          February 11 - 13, 1998
+=A0
+******************************************
+=A0
+
+LOCAL ARRANGEMENTS
+
+For details about local arrangements, please consult the EIS'98 website at
+http://www.compusmart.ab.ca/icsc/eis98.htm
+
+******************************************
+
+
+FURTHER INFORMATION
+
+For further information please contact:
+
+- Dr. Colin Fyfe=20
+  Department of Computing and Information Systems
+  The University of Paisley
+  High Street
+  Paisley PA1 2BE
+  Scotland
+  E-mail: fyfe0ci@paisley.ac.uk
+  Fax: +44-141-848-3542
+
+or
+
+- ICSC Canada
+  International Computer Science Conventions
+  P.O. Box 279
+  Millet, Alberta T0C 1Z0
+  Canada
+  E-mail: icsc@compusmart.ab.ca
+  Fax: +1-403-387-4329=20
+  WWW: http://www.compusmart.ab.ca/icsc
+
+

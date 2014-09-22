@@ -1,0 +1,209 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Sep 29 10:45:49 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA07628;
+	Tue, 29 Sep 1998 10:44:47 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19687;
+          28 Sep 98 22:05 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19684;
+          28 Sep 98 21:58 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05901;
+          28 Sep 98 21:58 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa13183; 28 Sep 98 18:59 EDT
+Received: from neuro.informatik.uni-ulm.de by RI.CMU.EDU id aa14524;
+          28 Sep 98 18:58:47 EDT
+Received: by neuro.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA28769; Tue, 29 Sep 98 00:57:31 +0200
+Received: from robotix.informatik.uni-ulm.de(134.60.73.44), claiming to be "neuro.informatik.uni-ulm.de"
+ via SMTP by neuro.informatik.uni-ulm.de, id smtpdAAAa28767; Tue Sep 29 00:57:24 1998
+Sender: gkk@neuro.informatik.uni-ulm.de
+Message-Id: <36101452.A96E5A97@neuro.informatik.uni-ulm.de>
+Date: Tue, 29 Sep 1998 00:57:22 +0200
+From: "Gerhard K. Kraetzschmar" <gkk@neuro.informatik.uni-ulm.de>
+Organization: University of Ulm, Neural Information Processing Department
+X-Mailer: Mozilla 4.06 [en] (X11; I; SunOS 5.5.1 sun4m)
+Mime-Version: 1.0
+Newsgroups: comp.ai,comp.robotics,comp.ai.neural-nets,comp.ai.nlang-know-rep
+To: hybrid-list@cs.ua.edu, connectionists@cs.cmu.edu
+MMDF-Warning:  Unable to confirm address in preceding line at mlist-1.sp.cs.cmu.edu
+MMDF-Warning:  Unable to confirm address in preceding line at skinner.boltz.cs.cmu.edu
+Subject: Call for Interest in Participation in IJCAI-99 Workshop
+Status: RO
+X-Status: 
+
+
+Dear reader of this news group or list: 
+(Our apologies, if you receive this multiple times)
+
+We plan to organize a workshop at IJCAI-99 in Stockholm.
+The topic is
+        Adaptive Spatial Representations for Dynamic Environments 
+and we believe it may be of interest to you. Please read the 
+draft for the workshop proposal in the attachment for more information
+on the workshop.
+
+You can contribute to the workshop by submitting a paper, giving one of 
+the survey talks, or one of the commenting statements in a session.
+
+Note: IJCAI permits only active participants for workshops.
+
+If you come to the conclusion that you are indeed interested in the
+workshop and want to actively participate, please take the time to respond
+with a short email that indicates your interest and kind of contribution.
+Please send the email to 
+	gkk@acm.org
+and include "IJCAI-WORKSHOP" in the subject line. Thanks a lot.
+
+Please do respond soon, because the due date for the proposal is in a 
+few days, and we need to collect a list of tentative participants for it.
+
+-- 
+Sincerely Yours, Gerhard
+---------------------------------------------------------------------------
+Dr. Gerhard K. Kraetzschmar                   University of Ulm
+Fon: intl.+49-731-502-4155	              Neural Information Processing
+Fax: intl.+49-731-502-4156	              Oberer Eselsberg
+Net: gkk@neuro.informatik.uni-ulm.de          89069 Ulm   
+     gkk@acm.org                              Germany
+WWW: http://www.informatik.uni-ulm.de/ni/staff/gkk.html
+---------------------------------------------------------------------------
+
+Proposal for IJCAI-99 Workshop
+========================================================
+Adaptive Spatial Representations of Dynamic Environments
+========================================================
+Workshop Description:
+====================
+Spatial representations of some sort are a necessary requirement for
+any mobile robot in order to achieve tasks like efficient,
+goal-oriented navigation, object manipulation, or interaction with
+humans. A large number of approaches, ranging from CAD-like and
+topological representations to metric, probabilistic methods and
+biologically-oriented representations, has been developed in the past.
+Most approaches were developed for solving robot navigation tasks 
+and successfully applied in a wide variety of applications. In many
+approaches, the spatial representation is a strong simplification of 
+the environment (e.g. occupied and free space) and does not permit an 
+easy representation of the spatial structure of task-relevant objects.
+Furthermore, these approaches can model only static elements of the
+environment in an adequate manner. Dynamic elements, such as doors,
+changed locations of particular objects, moving obstacles, and humans,
+are usually dealt with in one of two ways:
+- A purely reactive level temporarily has a transient representation 
+	for an anonymous object. The representation is present only as 
+	long as the object can be actively sensed; it vanishes
+	thereafter and does not settle into some kind of permanent
+	representation. (Doors, moving obstacles, humans.)
+- Repeated exposure of the robot to both the old and new location of
+	an object that changed its position leads to a slow adaptation
+	of (long-term) spatial memory. (Moved, relocated objects)
+
+The current representations are sufficient for many tasks that have 
+been researched in the past and led to many successful applications.
+However, in order to achieve truely useful robots, e.g. for the office
+domain, the robot will have to acquire AND MAINTAIN more complete 
+models of its environment. It will have to know the precise locations 
+(or have a good estimate of it) of objects and subjects it has seen,
+if they are relevant for completing a task. Examples: Location of
+tools (screwdriver), books, special equipment (video beamer), persons, 
+doors, etc.
+
+Thus, for any existing spatial representation, the following 
+questions arise?
+- Which structural aspects of the environment can be modeled? How?
+- Can the representation model dynamic aspects at all? Could it be extended?
+- Which kinds of dynamic aspects can be modeled?
+- How are the spatial dynamics of an object modeled?
+- How is uncertainty dealt with?
+- How are the dynamics used to predict various spatial aspects of
+	objects?
+- Which methods can be used to update/maintain the representation
+	based on sensory information?
+- What computational effort is required for updating the representation?
+
+For many of the current approaches, we have little knowledge about how 
+these questions must be answered. The goal of the workshop is to bring 
+together researchers who develop and use various kinds of spatial 
+representations in mobile robots and make them think about how to answer 
+the above questions for their approaches. A secondary goal is to provide 
+a forum on which various kinds of representations can be compared.
+
+Workshop Actuality and Target Audience:
+======================================= 
+Currently, various successful, though specialized applications of
+mobile robots (RHINO, etc.) are known. However, improved adaptive
+spatial representations will be needed to build service robots for
+more complex tasks in more complex environments. We consider such
+representations an essential step for making progress towards this
+goal. Thus, the target audience includes 
+- researchers working in mobile robots, especially map building, 
+  spatial modelling, navigation, object manipulation, and human-robot
+  interaction, 
+- AI researchers working on topological and other symbolic methods, 
+  metric and probabilistic representations, and uncertainty. 
+The workshop also appeals to researchers that have 
+- studied spatial data structures in CAD, GIS, and image processing or
+- studied spatial representations in biological systems 
+and are now applying their models in robotic systems.
+
+Preliminary Workshop Agenda:
+============================
+Depending on submissions, available time, and IJCAI constraints on the
+schedule, we plan four to five sessions, each one will most likely be 
+centered around one of the following themes:
+- CAD/GIS-Inspired Representations (Frank/?Samet)
+- Topological Representations (Kuipers/Cohn/Nebel)
+- Metric and Probabilistic Representations (Burgard/?Kaelbling)
+- Biologically-Inspired Representations (Recce/Tani/?Mallot)
+
+In each session (90 minutes) covering one of the above four
+approaches, we plan to implement the following session program:
+- Invited survey talk by an experienced research scientist (25+5 min)
+- Two short talks selected from the workshop paper submissions (10+5 min)
+- Two to three rebutting/commenting statements by representatives 
+	from the other approaches (5 min each)
+- Session discussion (15 min), moderated by session chair
+A general discussion session (45 to 60 minutes) will try to 
+summarize results, draw conclusions, and define future activities,
+like workshops, definition of benchmark problems, and others.
+
+Tentative Attendees:
+====================
+(will be collected from response after announcements of various 
+ news groups and lists:
+	comp.robotics
+	comp.ai
+	comp.ai.neural-nets
+	comp.ai.nlang-know-rep
+	connectionists list
+	hybrid list
+ Please add any relevant news group or list)
+	
+Workshop Organizing Committee:
+=============================
+* To be confirmed.
+
+Andrew Frank (GIS/CAD representations)
+Bernhard Nebel (AI, relational/topological representations)
+Anthony Cohn (AI, relational/topological representations)
+Gerhard Kraetzschmar (chair) (AI, robotics, hybrid representations)
+Benjamin Kuipers (AI, robotics, hybrid representations)
+Michael Beetz (AI, robotics, metric/probabilistic representations)
+Wolfram Burgard (AI, robotics, metric/probabilistic representations)
+Gunther Palm (neuroscience, neural networks)
+Michael Recce (neuroscience, biologically-inspired robotics)
+Jun Tani (biologically-inspired robotics, dynamics) 
+
+*Leslie Kaelbling
+*Hanspeter Mallot
+*Hanan Samet
+
+Primary Contact:
+===============
+Gerhard K. Kraetzschmar
+University of Ulm, Neural Information Processing
+James-Franck-Ring, 89081 Ulm, Germany
+Fon: +49-731-50-24155
+Fax: +49-731-50-24155
+Net: gkk@acm.org  or gkk@neuro.informatik.uni-ulm.de

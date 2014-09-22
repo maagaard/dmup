@@ -1,0 +1,148 @@
+
+
+From xxx@some.place.org Mon Nov 10 18:30:47 MET 1997
+Received: from pet.med.va.gov (godel.pet.med.va.gov [204.220.39.253]) by eivind.imm.dtu.dk with SMTP (8.7.5/8.7.3) id SAA23910 for <fnielsen@eivind.imm.dtu.dk>; Mon, 10 Nov 1997 18:30:42 +0100 (MET)
+Received: by pet.med.va.gov (8.6.9/SMI-4.1.R931202)
+	id LAA20562; Mon, 10 Nov 1997 11:24:41 -0600
+Received: from kalkin.pet.med.va.gov(192.102.236.15) by godel.pet.med.va.gov via smap (V1.3)
+	id sma020560; Mon Nov 10 11:24:26 1997
+Received: from kalkin (localhost) by kalkin.pet.med.va.gov (4.1/SMI-4.1)
+	id AA02576; Mon, 10 Nov 97 11:11:41 CST
+Sender: kirt@some.place.org
+Message-Id: <3467404D.41C67EA6@some.place.org>
+Date: Mon, 10 Nov 1997 11:11:41 -0600
+From: Kirt Schaper <xxx@some.place.org>
+X-Mailer: Mozilla 3.01Gold (X11; I; SunOS 4.1.3_U1 sun4m)
+Mime-Version: 1.0
+To: kelly@some.place.org, f.nielsen@pet.med.va.gov
+Subject: Springtime in Germany
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Look possible?
+
+
+Dirk Bartz wrote:
+> 
+> CALL FOR PAPERS
+> 
+>    Ninth Eurographics Workshop on Visualization in Scientific Computing
+>                                 Blaubeuren, Germany
+>                                 April 20-22, 1998
+> 
+> AIMS AND SCOPE
+> Following eight successful workshops (Clamart-1990, Delft-1991,
+> Viareggio-1992, Abingdon-1993, Rostock-1994, Chia-1995, Prague-1996,
+> Boulogne sur Mer-1997) the ninth Eurographics Workshop on
+> Visualization in Scientific Computing will be held in Blaubeuren,
+> Germany. The workshop aims to be a forum of discussion therefore
+> we also encourage contributions describing work in progress and
+> partial solutions. Suggested topics include, but are not limited to:
+> 
+>         * Volume visualization
+>         * Fluid flow visualization
+>         * Surface extraction and visualization
+>         * Parallel and distributed visualization
+>         * User interface techniques
+>         * Multi-variate visualization
+>         * Visualization and modeling of large datasets
+>         * Data handling and data modeling
+>         * Biological and medical imaging
+>         * Information visualization
+>         * Virtual reality in scientific visualization
+>         * Visualization in education support
+> 
+> PAPER SUBMISSION
+> Contributions are invited with respect to all the above mentioned
+> aspects of scientific visualization, including visualization tools
+> and methods, and discipline-specific applications. Authors are
+> requested either to send five copies of a full paper including
+> figures and images (max. 10 pages) by regular mail or to upload
+> the PostScript version of the full paper. In addition, authors
+> are encouraged to write and upload their paper with Springer style
+> files.
+> Directions for paper submission and uploading will be available.
+> Handouts of all accepted papers will be distributed to the
+> workshop participants. As in previous years, selected papers
+> will be published in a Springer book.
+> 
+> Addresses for paper submission:
+> mail to:
+> 
+>         Rene' Rau
+>         ViSC'98 Chair
+>         WSI/GRIS
+>         University of Tuebingen
+>         Auf der Morgenstelle 10
+>         72076 Tuebingen, Germany
+> 
+>         0049(0)7071-2975463
+>         rrau@gris.uni-tuebingen.de
+>         http://www.gris.uni-tuebingen.de/egvisc98/
+> 
+> IMPORTANT DATES
+> 
+> January 31, 1998                Submission deadline
+> March 8, 1998                   Notification of acceptance
+> March 31, 1998                  Final paper due
+> April 20-22, 1998               Workshop
+> 
+> WORKSHOP CO-CHAIRS
+> 
+> Ulrich Lang,    University of Stuttgart, Germany
+> Dirk Bartz,     University of Tuebingen, Germany
+> 
+> PROGRAM COMMITTEE
+> 
+> Ken Brodlie,            University of Leeds, UK
+> Jacques David,          CEA/DI Saclay, France
+> Thomas Ertl,            University of Erlangen-Nuernberg, Germany
+> Nahum Gershon,          The MITRE Corporation, USA
+> Martin Goebel,          National German Research Center for IT, Germany
+> Michel Grave,           ONERA Chatillon & Univ. of La Rochelle, France
+> Eduard Groeller,        Technical University of Vienna, Austria
+> Markus Gross,           Swiss Federal Institute of Technology, Switzerland
+> Hans Hagen,             University of Kaiserslautern, Germany
+> Mikael Jern,            AVS/UNIRAS, Denmark
+> Ulrich Lang,            University of Stuttgart, Germany
+> Wilfrid Lefer,          LIL-University of Littoral, France
+> William Lorensen,       General Electric Company, USA
+> Nelson Max,             Lawrence Livermore National Laboratory, USA
+> Fritz Post,             Delft University of Technology, The Netherlands
+> Riccardo Scateni,       CRS4 Cagliari, Italy
+> Pavel Slavik,           Czech Technical University, Czech Republic
+> Jeremy Walton,          NAG, Oxford, UK
+> Jack van Wijk,          RF ECN, The Netherlands
+> 
+> LOCATION AND ORGANIZATION
+> The workshop will be held in Blaubeuren, Germany (south of the
+> country). The workshop will be organized by the WSI/GRIS (Computer
+> Graphics Lab of the University of Tuebingen). During the workshop,
+> two social events will be offered to the participants: a visit of
+> the city of Ulm and a dinner.
+> 
+> FEES
+> Attendance fees will be approximately 570 Sfr for EG members or
+> 700 Sfr for non members and will cover the participants edition
+> of the proceedings, full board and lodging for three days,
+> refreshments during coffee breaks, the final proceedings book
+> (to be mailed after the workshop) and both social events.
+> 
+> ORGANIZATION OFFICE
+> WSI/GRIS
+> University of Tuebingen
+> ViSC'98 Office
+> Auf der Morgenstelle 10, 72076 Tuebingen
+> GERMANY
+> E-mail: visc98@gris.uni-tuebingen.de
+> 
+> --
+> 
+> ======== 8< ======= 8< ======= 8< ======= 8< ======= 8< ======= 8<
+> ========
+> Dirk Bartz                                      University of Tuebingen
+>                                                 Phone:  +49-7071/29-76361
+> Email: bartz@gris.uni-tuebingen.de              Fax:    +49-7071/29-5466
+> WWW:   http://www.gris.uni-tuebingen.de/~bartz

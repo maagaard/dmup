@@ -1,0 +1,60 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jun 17 22:39:18 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA21096;
+	Thu, 17 Jun 1999 22:39:11 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac09781;
+          17 Jun 99 15:18 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09779;
+          17 Jun 99 15:06 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05963;
+          17 Jun 99 15:06 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa04272; 17 Jun 99 7:26 EDT
+Received: from [129.12.21.10] by RI.CMU.EDU id aa06914; 17 Jun 99 7:25:20 EDT
+Received: from pelican.ukc.ac.uk ([129.12.200.26])
+	by mercury.ukc.ac.uk with esmtp (Exim 2.12 #1)
+	id 10uaFk-0002xf-00
+	for Connectionists@cs.cmu.edu; Thu, 17 Jun 1999 12:22:40 +0100
+Received: from mu by pelican.ukc.ac.uk with local (Exim 1.92 #1)
+	for Connectionists@cs.cmu.edu
+	id 10uaI5-0006YD-00; Thu, 17 Jun 1999 12:25:05 +0100
+To: Connectionists@cs.cmu.edu
+Subject: 1 year research position
+Message-Id: <E10uaI5-0006YD-00@pelican.ukc.ac.uk>
+From: "M.Usher" <M.Usher@ukc.ac.uk>
+Date: Thu, 17 Jun 1999 12:25:05 +0100
+Status: RO
+X-Status: 
+
+
+
+ 
+A research associate is required to assist in the running of a BBSRC funded
+project titled 'The role of VISUAL SYNCHRONY in perceptual organisation:
+studies in human psychophysics and computational methods.' The research
+programme follows-up studies described in a recent paper  
+(Usher & Donnelly, 1998, Nature, pp. 179-182) investigating spatio-temporal 
+interactions in visual grouping as a means for exploring mechanisms for 
+GROUPING based on neural synchrony. The award was made to Dr Nick Donnelly 
+(University of Southampton) and to Dr Marius Usher (Birkbeck College,
+University of London).
+
+The project will run for twelve months in the first instance (and will be
+performed either in London or in Southampton). It is intended that further
+funds will be sought during this first year to continue the research. The
+ideal candidate will have a background in visual psychophysics and should
+have experience programming in C on Unix workstations (experience with
+Silicon Graphics graphical libraries and/or OpenGL will be helpful).  The
+salary will be based on the research associate scale and will be up to
+BP 16,927 (i.e., approx. $27,920) per annum.
+For further information contact either Nick Donnelly (email:
+n.donnelly@ukc.ac.uk) or Marius Usher (email: m.usher@ukc.ac.uk
+http://www.ukc.ac.uk/psychology/people/usherm/  )
+ 
+Deadline for applications: July 1st 1999.
+ 
+Marius Usher
+Lecturer in Psychology
+and Cognitive Neuroscience
+

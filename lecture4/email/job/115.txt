@@ -1,0 +1,71 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon May 10 20:43:43 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA17648;
+	Mon, 10 May 1999 20:43:16 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13505;
+          10 May 99 12:09 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13479;
+          10 May 99 11:44 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00980;
+          10 May 99 11:43 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa10403; 10 May 99 7:47 EDT
+Received: from brain.sedal.usyd.edu.au by RI.CMU.EDU id aa28078;
+          10 May 99 7:47:10 EDT
+Received: from brain.sedal.usyd.edu.au (brain.sedal.usyd.edu.au [129.78.24.68])
+	by brain.sedal.usyd.edu.au (8.8.8/8.8.8) with SMTP id VAA13014
+	for <connectionists@cs.cmu.edu>; Mon, 10 May 1999 21:47:01 +1000 (EST)
+Date: Mon, 10 May 1999 21:47:00 +1000 (EST)
+From: Marwan Jabri <marwan@ee.usyd.edu.au>
+X-Sender: marwan@brain.sedal.usyd.edu.au
+To: Connectionists <connectionists@cs.cmu.edu>
+Subject: postdoc
+Message-ID: <Pine.GSO.3.96.990510214227.12891A-100000@brain.sedal.usyd.edu.au>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Please feel free to post...
+
+Post-Doctoral Fellow in Wavelets-Based Timeseries Analysis
+
+Computer Engineering Laboratory
+School of Electrical and Information Engineering
+The University of Sydney, Australia
+
+Applications are invited for Post-doctoral fellow position funded by an
+Australian Research Council project grant and in collaboration with an
+financial engineering company. The two-year project aims at investigating
+wavelets preprocessing techniques and their applications to timeseries
+analysis and compression. 
+
+Applicants would have completed (or about to complete) their PhD in
+electrical, computer or related engineering or science discipline and have
+demonstrated research capacity in the area of timeseries analysis, machine
+learning or related field. The fellow will be expected to work
+independently and to play a leading role in the project co-supervising
+postgraduate students contributing to the project. Knowledge of computational
+techniques in the neural computing area, and their implementation in
+software are advantages.
+
+Appointment will be made initially for a period of one year, and renewable
+for another year subject to progress. Expected starting date in June,
+1999.
+
+Closing date:		21 May 1999
+Salary range:		A$ 41,620 - A$ 46,017
+
+To apply, send letter of application, CV and names, fax and email
+of three referees to
+
+	M. Jabri
+	Tel (+61-2) 9351 2240, 
+	Fax (+61-2) 9351 7209,
+	Email: marwan@sedal.usyd.edu.au
+
+>From whom further information can be obtained.
+
+
+

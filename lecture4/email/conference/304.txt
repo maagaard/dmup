@@ -1,0 +1,75 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Sep 18 07:23:50 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA27262;
+	Sat, 18 Sep 1999 07:23:46 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa08131;
+          17 Sep 99 23:43 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08129;
+          17 Sep 99 23:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03830;
+          17 Sep 99 23:34 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id af10450; 17 Sep 99 10:49 EDT
+Received: from pc113.cecs.missouri.edu by CS.CMU.EDU id aa23158;
+          17 Sep 99 10:47:10 EDT
+Received: (from rsun@localhost)
+	by pc113.cecs.missouri.edu (8.9.3/8.8.7) id JAA23416;
+	Fri, 17 Sep 1999 09:16:37 -0500
+Date: Fri, 17 Sep 1999 09:16:37 -0500
+From: Ron Sun <rsun@cecs.missouri.edu>
+Message-Id: <199909171416.JAA23416@pc113.cecs.missouri.edu>
+To: Connectionists@cs.cmu.edu
+Subject: IJCNN'2000 Call for Papers and Participation
+Cc: rsun@cecs.missouri.edul
+Status: RO
+X-Status: 
+
+
+========================================================================
+                            Call For Papers  
+
+                       ***   IJCNN-2000  ***
+
+    IEEE-INNS-ENNS INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS
+                             
+                          to be held in
+           Grand Hotel di Como, Como, Italy --  July 24-27, 2000 
+
+sponsored by the IEEE Neural Network Council, the International Neural 
+Network Society, and the European Neural Network Society, and
+with the technical cooperation of the Japanese Neural Network Society, 
+AEI (the Italian Association of Electrical and Electronic Engineers),
+SIREN (the Italian Association of Neural Networks), and AI*IA (the 
+Italian Association for Artificial Intelligence) 
+
+
+
+Submission deadline is 15 DECEMBER 1999. Full papers in the final 
+form must be submitted (accepted papers will be published as 
+submitted). Papers will be reviewed by senior researchers in the field. 
+Acceptance/rejection will be emailed by 30 March 2000. Accepted papers 
+will be published only if the registration form and payment for at least 
+one of the authors are received by 30 April 2000 (see the complete 
+call for papers for details).
+
+For the complete Call for Papers and other information (including 
+information about Como, Italy), visit the conference web site at: 
+
+        http://www.ims.unico.it/2000ijcnn.html
+
+(The organizers may be contacted by email at ijcnn2000@elet.polimi.it.) 
+
+Important NOTICE: In the year 2000,  the International Conference
+on Artificial Neural Networks (IJCANN), organized annually by ENNS, 
+will not take place because it has been incorporated into IJCNN'2000.
+
+
+======================================================================
+
+Publicity Chair for IJCNN'2000:
+Prof. Ron Sun                           http://www.cecs.missouri.edu/~rsun
+CECS Department                         phone: (573) 884-7662
+University of Missouri-Columbia         fax:   (573) 882 8318 
+201 Engineering Building West
+Columbia, MO 65211-2060                 email: rsun@cecs.missouri.edu 

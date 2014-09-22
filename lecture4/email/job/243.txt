@@ -1,0 +1,70 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Dec  8 04:49:30 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id EAA17617;
+	Wed, 8 Dec 1999 04:49:24 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa26641;
+          7 Dec 99 16:51 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa26630;
+          7 Dec 99 16:42 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27410;
+          7 Dec 99 16:42 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa25118; 7 Dec 99 13:31 EST
+Received: from neuron.cs.Colorado.EDU by cs.cmu.edu id aa18938;
+          7 Dec 99 13:31 EST
+Received: from localhost.cs.colorado.edu (localhost.cs.colorado.edu [127.0.0.1])
+	by neuron.cs.colorado.edu (8.9.3/8.9.2) with SMTP id LAA11256
+	for connectionists@cs.cmu.edu; Tue, 7 Dec 1999 11:31:21 -0700 (MST)
+Message-Id: <199912071831.LAA11256@neuron.cs.colorado.edu>
+X-Authentication-Warning: neuron.cs.colorado.edu: localhost.cs.colorado.edu [127.0.0.1] didn't use HELO protocol
+To: connectionists@cs.cmu.edu
+Subject: Positions in machine learning, statistics, and data mining
+Date: Tue, 07 Dec 99 11:31:21 -0700
+From: Mike Mozer <mozer@cs.colorado.edu>
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+
+Athene Software, Inc.
+Positions in Machine Learning, Statistics, and Data Mining
+
+Athene Software, based in Boulder, Colorado, has immediate openings for
+professionals in machine learning, statistics, and data mining.  We are
+seeking qualified candidates to develop and enhance models of
+subscriber behavior for telecommunications companies.
+
+Responsibilities include: statistical investigation of large data sets,
+building predictive and decision-making models using the latest
+advances in machine learning techniques, developing and tuning data
+representations, and presentation of results to internal and external
+customers.
+
+Candidates must hold a Ph.D. in Computer Science, Statistics,
+Electrical Engineering, or related field.  The ideal candidate will
+have experience in pattern recognition or mathematical modeling on real
+world problems, familiarity with experimental design and data analysis,
+and some background in relational database systems.  Strong
+communication skills are extremely important.
+
+Athene has a long-term committment to cultivating a dynamic,
+stimulating environment for its Ph.D. research staff.   The group is
+slated to double over the next few years.  Athene encourages
+publication of research results and active participation in the
+research community.  And Athene has established a research advisory
+board consisting of leaders in machine learning, including Dr. Satinder
+Singh Baveja (AT&T Labs - Research), Prof.  Geoffrey Hinton (University
+College London), Prof. John Moody (OGI), Prof. Andrew Moore (CMU), and
+Prof. Michael Mozer (Boulder).
+
+
+Send applications to:
+
+Dr. Robert Dodier 
+Athene Software, Inc.  
+2060 Broadway, Suite 300
+Boulder, CO  80302
+
+email: robertd@athenesoft.com 
+company URL:   www.athenesoft.com

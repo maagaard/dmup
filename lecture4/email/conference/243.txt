@@ -1,0 +1,194 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Apr  6 06:07:11 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA00644;
+	Tue, 6 Apr 1999 06:07:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18847;
+          5 Apr 99 23:05 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18844;
+          5 Apr 99 22:57 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12380;
+          5 Apr 99 22:57 EDT
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab27592;
+          5 Apr 99 21:33 EDT
+Received: from snowmass.phys.nwu.edu by MM.GP.CS.CMU.EDU id aa14906;
+          5 Apr 99 21:32:40 EDT
+Received: (from solla@localhost)
+	by snowmass.phys.nwu.edu (8.8.5/8.8.5) id UAA10273
+	for Connectionists@C.CS.CMU.EDU; Mon, 5 Apr 1999 20:32:37 -0500 (CDT)
+From: "Sara A. Solla" <solla@snowmass.phys.nwu.edu>
+Message-Id: <199904060132.UAA10273@snowmass.phys.nwu.edu>
+Subject: NIPS*99 -- Call for Papers
+To: Connectionists@mm.gp.cs.cmu.edu
+Date: Mon, 5 Apr 1999 20:32:37 -0500 (CDT)
+Reply-To: solla@nwu.edu
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Status: RO
+X-Status: 
+
+
+
+
+
+                        CALL FOR PAPERS -- NIPS*99
+
+         Neural Information Processing Systems -- Natural and Synthetic
+                  Monday November 29 - Saturday December 4, 1999
+                              Denver, Colorado
+
+This is the thirteenth meeting of an interdisciplinary conference which brings 
+together cognitive scientists, computer scientists, engineers, neuroscientists,
+physicists, and mathematicians interested in all aspects of neural processing 
+and computation.  The conference will include invited talks as well as oral and 
+poster presentations of refereed papers.  The conference is single track and is 
+highly selective.  Preceding the main session, there will be one day of tutorial
+presentations (November 29), and following it there will be two days of focused 
+workshops on topical issues at a nearby ski area (December 3-4). Major categories 
+for paper submission, with example subcategories (by no means exhaustive), are 
+as follows:
+
+Algorithms and Architectures: supervised and unsupervised learning algorithms, 
+model selection algorithms, active learning algorithms, feedforward and 
+recurrent network architectures, localized basis functions, mixture models, 
+belief networks, graphical models, Gaussian processes, factor analysis, 
+topographic maps, combinatorial optimization, hybrid symbolic-subsymbolic 
+systems. 
+
+Applications: handwriting recognition, sequence analysis, expert systems, 
+fault diagnosis, medical diagnosis, analysis of medical images, data analysis, 
+database mining, information retrieval, network traffic, music processing, 
+time-series prediction, financial analysis.
+
+Cognitive Science/Artificial Intelligence: perception and psychophysics, 
+neuropsychology, cognitive neuroscience, development, conditioning, human 
+learning and memory, attention, language, natural language, reasoning, spatial 
+cognition, emotional cognition, conceptual representation, neurophilosophy, 
+problem solving and planning. 
+
+Implementations: analog and digital VLSI, optical neurocomputing systems, novel 
+neurodevices, computational sensors and actuators, simulation tools.  
+
+Neuroscience: neural encoding, spiking neurons, synchronicity, sensory 
+processing, systems neurophysiology, neuronal development, synaptic plasticity, 
+neuromodulation, dendritic computation, channel dynamics, experimental data 
+relevant to computational issues. 
+
+Reinforcement Learning and Control: exploration, planning, navigation, 
+Q-learning, TD-learning, state estimation, dynamic programming, robotic motor 
+control, process control, Markov decision processes.
+
+Speech and Signal Processing: speech recognition, speech coding, speech 
+synthesis, auditory scene analysis, source separation, applications of hidden 
+Markov models to signal processing, models of human speech perception, auditory 
+modeling and psychoacoustics.
+
+Theory: computational learning theory, statistical physics of learning, 
+information theory, prediction and generalization, regularization, Boltzmann 
+machines, Helmholtz machines, decision trees, support vector machines, online 
+learning, dynamics of learning algorithms, approximation and estimation theory, 
+learning of dynamical systems, complexity theory.
+
+Visual Processing: image processing, image coding, object recognition, visual 
+psychophysics, stereopsis, motion detection and tracking.
+
+REVIEW CRITERIA: All submitted papers will be thoroughly refereed on the basis 
+of technical quality, significance, and clarity.  Novelty of the work is also 
+a strong consideration in paper selection, but to encourage interdisciplinary 
+contributions, we will consider work which has been submitted or presented in 
+part elsewhere, if it is unlikely to have been seen by the NIPS audience. There
+will be an opportunity to revise accepted manuscripts after the meeting, 
+before submitting a final camera-ready copy.
+
+SUBMISSION INSTRUCTIONS: NIPS is modifying its submission procedure, in the 
+process of migrating to an electronic submission system. THE SUBMISSION PROCESS
+IS DIFFERENT FROM THE ONE USED IN THE PAST!! This year we require BOTH 
+electronic and hard copy submissions.   Please read carefully the instructions 
+below, and follow them faithfully. Your collaboration is greatly appreciated, 
+as it will help us through the implementation of a new system that will become 
+fully electronic for NIPS*2000.
+
+PAPER FORMAT: Submitted papers may be up to seven pages in length, including 
+figures and references. Authors are required to use the NIPS LaTeX style files 
+obtainable by anonymous FTP at the site given below. THE STYLE FILES HAVE BEEN 
+UPDATED; please make sure that you use the current ones and not previous versions. 
+Submissions failing to follow these guidelines will not be considered.
+
+HARD COPIES: Please send FOUR copies of each submitted paper to Todd Leen, 
+the NIPS*99 Program Chair, at the address indicated below. An accompanying 
+front page must specify (1) name, physical address, and email address of all 
+authors; (2) the name of the author to whom correspondence should be addressed;
+(3) the category to which the paper is being submitted, chosen among the nine 
+major categories listed above; (4) the authors' preference, if any, for oral or
+poster presentation (this preference will play no role in paper acceptance); 
+and (5) whether the work, or any substantial part thereof, has been submitted 
+to or presented at any other scientific conference. 
+
+ELECTRONIC SUBMISSION: In addition to mailing four hard copies, you MUST enter 
+your submission in the Electronic Submission Form available through the NIPS 
+website listed below. This will be your PRIMARY submission, and the Electronic 
+Submission Form must be completed in all cases. You will be asked to enter 
+paper title, name of all authors, category, oral/poster preference, and data 
+about the contact author (name, full address, telephone, fax, and email). You 
+will also be able to upload an electronic (postscript or pdf) version of your 
+paper. You MUST mail four hard copies of your paper to Todd Leen, the NIPS*99 
+Program Chair, even if you succeed at uploading the electronic version of your 
+paper during electronic submission. 
+
+SUBMISSION DEADLINE: ELECTRONIC SUBMISSIONS MUST BE LOGGED BY MAY 21, 1999, 
+AND HARD COPIES MUST BE RECEIVED BY THE SAME DATE. Hard copy submissions mailed 
+from within the USA via first class mail will be accepted if postmarked on or 
+before May 18, 1999. 
+
+Mail hard copy submissions to:
+
+   Todd K. Leen
+   NIPS*99 Program Chair
+   Department of Computer Science and Engineering
+   Oregon Graduate Institute of Science & Technology
+   20000 N.W. Walker Rd. 
+   Beaverton, OR 97006, USA
+
+The LaTeX style files for NIPS, the Electronic Submission Page, and other 
+conference information are available on the World Wide Web at
+
+   http://www.cs.cmu.edu/Web/Groups/NIPS
+
+Copies of the style files are also available via anonymous ftp at
+
+   ftp.cs.cmu.edu (128.2.206.173) in /afs/cs/Web/Groups/NIPS/formatting
+
+For general inquiries or requests for registration material 
+
+   E-mail: nipsinfo@salk.edu  or Fax: (619) 587-0417
+
+NIPS*99 Organizing Committee: General Chair, Sara Solla, Northwestern 
+University; Program Chair, Todd Leen, Oregon Graduate Institute; Publications 
+Chair, Klaus Mueller, GMD First; Tutorial Chair, Joachim Buhmann, University 
+of Bonn; Workshops Co-Chairs, Sue Becker, McMaster University, and Rich Caruana,
+Carnegie Mellon University; Publicity Chair, Lee Giles, NEC Research Institute;
+Treasurer, Bartlett Mel, University of Southern California; Web Master, Doug 
+Baker, Carnegie Mellon University; Government Liaison, Gary Blasdel, Harvard
+Medical School; Contracts, Steve Hanson, Rutgers University, and Gerry Tesauro, 
+IBM.
+
+NIPS*99 Program Committee: Leon Bottou, AT&T Labs - Research; Gary Cottrell, 
+University of California San Diego; Zoubin Ghahramani, University College 
+London; Tommi Jaakkola, MIT; John Lazzaro, University of California Berkeley; 
+Todd Leen, Oregon Graduate Institute (chair); John Moody, Oregon Graduate 
+Institute; Barak Pearlmutter, University of New Mexico; Alexandre Pouget, 
+University of Rochester; David Saad, Aston University; Lawrence Saul, AT&T 
+Labs - Research; Sebastian Thrun, Carnegie Mellon University; Benjamin Van Roy,
+Stanford University; Paul Viola, MIT.
+
+
+                   PAPERS MUST BE RECEIVED BY MAY 21, 1999
+
+   IMPORTANT: submission instructions have changed!! Please read carefully
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Nov 10 06:17:49 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA13647;
+	Wed, 10 Nov 1999 06:17:45 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16939;
+          9 Nov 99 22:39 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16937;
+          9 Nov 99 22:26 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11830;
+          9 Nov 99 22:26 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03594; 9 Nov 99 22:24 EST
+Received: from hnc2.hnc.com by edrc.cmu.edu id aa12582; 9 Nov 99 22:24 EST
+Received: from pchnc.hnc.com (pchnc.hnc.com [191.9.204.105])
+	by spike.hnc.com (8.8.8+Sun/8.8.8) with ESMTP id TAA18295
+	for <connectionists@cs.cmu.edu>; Tue, 9 Nov 1999 19:24:19 -0800 (PST)
+Received: by pchnc.hnc.com with Internet Mail Service (5.5.2448.0)
+	id <WQPPK0FW>; Tue, 9 Nov 1999 19:25:33 -0800
+Message-ID: <72A838A51366D211B3B30008C7F4D363021F6E86@pchnc.hnc.com>
+From: "Spoelstra, Jacob" <jas@hnc.com>
+To: connectionists@cs.cmu.edu
+Subject: Job opportunity: HNC Software
+Date: Tue, 9 Nov 1999 19:25:27 -0800 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Status: RO
+X-Status: 
+
+> POSITION: Staff Scientist
+> DIVISION: HNC Financial Solutions
+> LOCATION: San Diego, CA
+JOB CODE:	FCT9911
+
+> Duties/Job Description: 
+> -----------------------
+> Responsibilities include designing and building predictive models based 
+> on the latest technologies in neural networks, pattern
+> recognition/artificial 
+> intelligence, and statistical modeling for various applications in the 
+> financial industry.  Specific responsibilities may vary by project, but 
+> will include analyzing data to determine suitability for modeling, pattern
+> identification and feature (variable) selection from large amounts of
+> data,
+> experimenting with different types of models, analyzing performance, and
+> reporting results to customers.
+> 
+> Required Qualifications (Experience/Skills): 
+> --------------------------------------------
+> MS or PhD in Computer Science, Electrical Engineering, Applied 
+> Statistics/Mathematics or related field.  Minimum two years of experience 
+> in pattern recognition, mathematical modeling, or data analysis on real 
+> world problems.  Familiarity with the latest modeling techniques and
+> tools.
+> Good oral and written communication skills, and the ability to interact 
+> well with both co-workers and customers. Proficiency in C and Unix, and 
+> familiarity with SAS or other analysis tool. Software Engineering will 
+> be a plus.
+> 
+> Preferred Qualifications (Experience/Skills): 
+> ---------------------------------------------
+> Strong mathematical appetite, problem solving and computer skills 
+> (C or C++ or Java). Good Unix scripting and rapid prototyping skill.  
+> Quick learner and good team player.  Experience in designing systems based
+> 
+> on neural networks, pattern recognition and/or statistical modeling 
+> techniques for the financial, health care, marketing, or other real 
+> world applications. Object oriented software design familiarity.
+> 
+> Careers at HNC Software Inc:
+> Headquartered in San Diego, California, HNC Software Inc. (Nasdaq: HNCS)is
+> the world's leading provider of Predictive Software Solutions for service
+> industries, including financial, retail, insurance, Internet, and
+> telecommunications. It is HNC's employment philosophy to create a dynamic
+> work environment that allows each employee to feel challenged and
+> experience personal growth that maximizes each person's potential. HNC
+> also offers a comprehensive array of employee benefits including stock
+> options, employee stock purchase plan, competitive health benefits, 401(k)
+> plans and tuition support for continuing education.
+(Please refer to job code FCT9911 in all correspondence)
+> Apply by Email:
+fct_jobs@hnc.com
+> By Fax:
+(858) 452-6524 (For attention: Dr. Khosrow Hassibi)
+> By Mail:
+Dr. Khosrow Hassibi
+HNC Software Inc.
+Financial Solutions
+5935 Cornerstone Court West
+San Diego, CA 92121-3728
+
+

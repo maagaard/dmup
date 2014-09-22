@@ -1,0 +1,70 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Apr 20 03:42:00 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA25195;
+	Tue, 20 Apr 1999 03:41:53 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24653;
+          19 Apr 99 20:32 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24650;
+          19 Apr 99 20:22 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04512;
+          19 Apr 99 20:21 EDT
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa21151;
+          19 Apr 99 17:39 EDT
+Received: from postoffice.sarnoff.com by MM.GP.CS.CMU.EDU id aa23666;
+          19 Apr 99 17:39:18 EDT
+Received: from sarnoff.com ([130.33.14.68]) by postoffice.sarnoff.com
+          (Netscape Messaging Server 3.5)  with ESMTP id AAA251C
+          for <Connectionists@mm.gp.cs.cmu.edu>;
+          Mon, 19 Apr 1999 17:39:11 -0400
+Message-ID: <371BA16D.C3A25033@sarnoff.com>
+Date: Mon, 19 Apr 1999 17:34:38 -0400
+From: PAUL SAJDA <psajda@sarnoff.com>
+Organization: Sarnoff Corporation
+X-Mailer: Mozilla 4.5 [en] (Win95; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists <Connectionists@MM.GP.cs.cmu.edu>
+Subject: Job: Research Position
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Sarnoff Corporation
+Position in Adaptive Image and Signal Processing
+
+
+The Adaptive Image and Signal Processing Group at the Sarnoff
+Corporation has an immediate opening for a researcher (Member, Technical
+Staff) in the area of speech and  signal processing. Specifically, we
+are seeking an individual with interest/expertise in speech enhancement,
+microphone arrays, multi-modal interfaces, and machine learning.
+
+Responsibilities will include conducting original research, developing
+intellectual property in the area of adaptive signal processing, and
+developing relationships with government and commercial customers.
+Excellent communication skills and willingness to bring in new business
+is desired.  Experience in MATLAB, C and C++ programming and the
+UNIX/LINUX operating system is a plus.
+
+Education level:
+PhD. in Electrical Engineering, Computer Engineering, Computer
+Science or related field.
+
+
+send applications to
+                Dr. Paul Sajda
+                Head
+                Adaptive Image & Signal Processing
+                Sarnoff Corporation
+                CN5300
+                Princeton, NJ 08533-5300
+                email: psajda@sarnoff.com
+
+Sarnoff Corporation Web page: www.sarnoff.com
+
+
+
+

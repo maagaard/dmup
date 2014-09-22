@@ -1,0 +1,117 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov  6 13:39:55 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA11381;
+	Fri, 6 Nov 1998 13:39:34 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02873;
+          5 Nov 98 18:39 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02822;
+          5 Nov 98 18:31 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa02864;
+          5 Nov 98 18:30 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29375; 4 Nov 98 8:30 EST
+Received: from [139.153.254.11] by CS.CMU.EDU id aa13482; 4 Nov 98 8:29:56 EST
+Received: from tinker.cs.stir.ac.uk by dosh.cs.stir.ac.uk (8.8.7) with ESMTP id NAA18726; Wed, 4 Nov 1998 13:29:52 GMT
+Received: by tinker.cs.stir.ac.uk (8.8.6) id NAA05529; Wed, 4 Nov 1998 13:29:51 GMT
+Message-Id: <199811041329.NAA05529@tinker.cs.stir.ac.uk>
+MIME-Version: 1.0 (NeXT Mail 3.3 v118.2)
+Received: by NeXT.Mailer (1.118.2)
+From: Dr L S Smith (Staff) <l.s.smith@cs.stir.ac.uk>
+Date: Wed,  4 Nov 98 13:29:51 GMT
+To: Connectionists@cs.cmu.edu
+Subject: 2nd European Workshop on Neuromorphic Systems: Call for Papers
+cc: lss@cs.stir.ac.uk
+Status: RO
+X-Status: 
+
+First Call For Papers
+
+EWNS2
+
+2nd European Workshop on Neuromorphic 
+Systems, 3-5 September 1999.
+
+University of Stirling, Stirling, Scotland.
+
+Neuromorphic systems are implementations in silicon of systems whose
+architecture and design are based on neurobiological systems. This growing
+area proffers exciting possibilities such as sensory systems which can
+compete with human senses, pattern recognition systems that can run in
+real-time and neuron models that can truly emulate living neurons.
+Neuromorphic systems are at the intersection of neurophysiology, computer
+science and electrical engineering.
+
+The meeting builds on the success of EWNS1, held in Stirling in August 1997.
+
+The meeting is intended both for the reporting of results, and for
+discussion about the way forward in neuromorphic systems: What should the
+role of neuromorphic systems be? Learning about neurobiological systems by
+rebuilding them, or engineering new solutions to problems in sensory
+perception using what we know about animal sensory perception? Can
+biologically-inspired techniques provide the basis for real improvements in
+auditory/visual/ olfactory/ sensorimotor systems or prostheses? How should
+neuromorphic systems be implemented? Purely in hardware, or as a mixture of
+software and hardware? As dedicated VLSI devices? In analogue or digital
+hardware? Should particular methodologies or specific transistor
+characteristics be used? Can what neuromorphic systems have to tell us about
+sensory perception and coding inform cognitive science?
+
+Papers are requested in the following areas:
+
+	Design issues in sensorineural neuromorphic systems: 
+	auditory, visual, olfactory, proprioceptory, sensorimotor systems=
+
+	Designs for silicon implementations of neurons or neural systems.=
+
+	Theoretical aspects of the above areas.
+
+The meeting is being held just before ICANN'99, which will be in
+Edinburgh, 7-10 September 1999.
+
+Submission of papers:
+Papers not exceeding 8 A4 pages are requested: these should be
+sent to 
+
+Dr. Leslie Smith,
+Department of Computing Science,
+University of Stirling,
+Stirling FK9 4LA, Scotland
+
+email: lss@cs.stir.ac.uk	FAX (44) 1786 464551 	Tel (44) 1786
+467435
+
+We also propose to hold a number of discussion sessions on some of
+the questions above. Short position papers (up to 4 pages) are
+also requested. 
+
+We hope to publish the proceedings in book form after the meeting.
+
+We are particularly keen to encourage submissions by research
+students.
+
+Key Dates
+
+Submission Deadline 			April 6th 1999
+
+Notification of Acceptance		June 4th 1999
+
+Organising Committee:
+
+Leslie S. Smith, Department of Computing Science and Mathematics,
+University of Stirling. 
+Alister Hamilton, Department of Electrical Engineering, University
+of Edinburgh.
+Catherine Breslin, Department of Computing Science and
+Mathematics, University of Stirling.
+
+WWW page for conference:
+http://www.cs.stir.ac.uk/EWNS2/
+
+Dr Leslie S. Smith
+Dept of Computing Science and Mathematics, Univ of Stirling
+Stirling FK9 4LA, Scotland
+
+l.s.smith@cs.stir.ac.uk   (NeXTmail and MIME welcome)
+Tel (44) 1786 467435 Fax (44) 1786 464551
+www http://www.cs.stir.ac.uk/~lss/

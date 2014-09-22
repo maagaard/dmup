@@ -1,0 +1,97 @@
+
+
+From www-vrml-owner@hardly.hotwired.com Fri Aug 23 07:18 MET 1996
+Received: from hardly.hotwired.com by eivind.ei.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA09644; Fri, 23 Aug 1996 07:18:46 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id VAA03475 for www-vrml14; Thu, 22 Aug 1996 21:58:10 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id VAA03446 for www-vrml-out; Thu, 22 Aug 1996 21:57:38 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id VAA03440 for <www-vrml@hardly.hotwired.com>; Thu, 22 Aug 1996 21:57:34 -0700 (PDT)
+Received: from cs.nps.navy.mil (cs.nps.navy.mil [131.120.1.13]) by wired.com (8.7.4/8.7.3) with SMTP id VAA15167 for <www-vrml@wired.com>; Thu, 22 Aug 1996 21:57:15 -0700 (PDT)
+Received: from capella.cs.nps.navy.mil by cs.nps.navy.mil (4.1/SMI-4.1)
+	id AA19610; Thu, 22 Aug 96 21:56:01 PDT
+From: brutzman@cs.nps.navy.mil (Don Brutzman)
+Received: by capella.cs.nps.navy.mil (4.1) id AA13484; Thu, 22 Aug 96 21:55:34 PDT
+Message-Id: <9608230455.AA13484@capella.cs.nps.navy.mil>
+Subject: VRML 97 Call for Participation
+To: www-vrml@wired.com (Virtual Reality Modeling Language list)
+Date: Thu, 22 Aug 1996 21:55:33 -0700 (PDT)
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+
+                  VRML 97                      Call For Participation!
+
+           February 24-26, 1997
+                     or                     
+             March 17-19, 1997          
+  Hyatt Regency, Monterey California, USA      http://www.sdsc.edu/vrml97
+----------------------------------------------------------------------------
+
+Announcing VRML 97, a technical symposium focusing upon the research,
+technology, and applications of VRML, the Virtual Reality Modeling Language.
+To be held in Monterey California, February 24-26 1997 or March 17-19 1997.
+VRML 97 will be a 3-day technical forum including courses and in-depth
+workshop discussions on the first day, followed by paper presentations,
+panels, exhibits, and demonstrations on the following two days.
+
+Technical paper submissions are encouraged.  Submissions will be peer
+reviewed and selected based upon technical merit.  Paper submission
+guidelines will be available soon.  Suggested topic areas include 3D
+graphics, networking, content, behaviors, interfaces, modeling, simulation,
+multi-user and standards.  Questions about paper submission can be directed to:
+
+   * vrml97-papers@sdsc.edu
+
+Course, workshop and panel ideas are encouraged and should be submitted to:
+
+   * vrml97-courses@sdsc.edu
+   * vrml97-workshops@sdsc.edu
+   * vrml97-panels@sdsc.edu
+
+VRML 97 will be held either February 24-26 or March 17-19, pending resolution 
+of conference facilities issues.  Final conference dates will be determined 
+prior to September 1996.  Deadlines follow. 
+
+        Date                               Activity
+   ----------------  -----------------------------------------------------
+
+   September 15,     Early registration opens and the registration forms
+   1996              go on-line
+
+   October 15,       Paper submissions due, Course, workshop, and panel
+   1996              proposals due
+
+   November 15,      Paper reviews complete, authors notified of
+   1996              acceptance, review comments returned to authors, and
+                     advance program goes on-line
+
+   December 15,      Early registration closes, late registration opens,
+   1996              paper camera-ready copy due
+
+   February 15,
+   1996              Late registration closes
+
+   February 24,      On-site registration opens, VRML 97 courses and
+   1996              workshops all-day
+   or March 17 1996
+
+   February 25-26,   VRML 97 papers, panels, demonstrations, and exhibits
+   1996              all-day
+   or March 18-19
+
+----------------------------------------------------------------------------
+
+Let me add apologies for not having dates hammered down tight.  Nevertheless 
+we want to get the milestones out on the street.  Have no fear that this will
+happen and be really great.  Please start drafting your paper right now!   :)
+
+all the best, Don
+-- 
+Don Brutzman  Naval Postgraduate School, Code UW/Br Root 200  work 408.656.2149
+              Monterey California 93943-5000 USA              fax  408.656.3679
+Virtual worlds/underwater robots/Internet http://www.stl.nps.navy.mil/~brutzman

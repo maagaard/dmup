@@ -1,0 +1,109 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jan  8 06:41:06 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA15548;
+	Sat, 8 Jan 2000 06:41:03 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13485;
+          7 Jan 2000 22:49 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13480;
+          7 Jan 2000 22:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04712;
+          7 Jan 2000 22:44 EST
+Received: from MLIST-3.SP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa27022;
+          7 Jan 2000 17:26 EST
+Received: from CNS.BU.EDU by mlist-3.sp.cs.cmu.edu id aa22606;
+          7 Jan 2000 17:26 EST
+Received: from cochlea.bu.edu (cochlea [128.197.61.94])
+	by cns.bu.edu ((8.8.8.buoit.v1.0)/8.8.8/(BU-S-10/08/98-v1.0)) with SMTP id PAA08473;
+	Fri, 7 Jan 2000 15:02:12 -0500 (EST)
+From: Carol Yanakakis Jefferson <caroly@cns.bu.edu>
+Received: by cochlea.bu.edu (8.6.13/BU_Client-1.1)
+	id PAA01349; Fri, 7 Jan 2000 15:02:12 -0500
+Date: Fri, 7 Jan 2000 15:02:12 -0500
+Message-Id: <200001072002.PAA01349@cochlea.bu.edu>
+To: caroly@cns.bu.edu
+Subject: Cognitive and Neural Systems: A Tenth Anniversary Celebration
+Status: RO
+X-Status: 
+
+
+                     COGNITIVE AND NEURAL SYSTEMS:
+                    A TENTH ANNIVERSARY CELEBRATION
+
+                         Tuesday, May 23,2000
+                                at the
+               Department of Cognitive and Neural Systems
+                           Boston University
+                           677 Beacon Street
+                           Boston, MA  02215
+
+This one-day event celebrates the tenth anniversary of our department. It
+will be filled with talks by past graduates of the department, and will
+include plenty of time for discussion and celebration. The event is open to
+the public and there is no admission fee. If you plan to attend, please send 
+email to Carol Jefferson (caroly@cns.bu.edu) by May 1, 2000 so that we
+can estimate attendance for purposes of planning enough food and drink.
+
+The celebration will come right before the Fourth International Conference
+on Cognitive and Neural Systems, which occurs from Wednesday, May 24
+through Saturday, May 27. This conference drew around 300 participants 
+from 31 countries last year, and focuses on the two themes:
+
+How Does the Brain Control Behavior?
+
+How Can Technology Emulate Biological Intelligence?
+
+For further information about this conference, see http://cns.bu.edu/meetings/
+
+
+                      TENTH ANNIVERSARY PROGRAM
+
+8:30-9:00    Provost Dennis Berkey and Stephen Grossberg, Boston University
+             Introduction and Welcome
+
+9:00-9:30    Gregory Francis, Purdue University
+             Orientational Afterimages: Evidence for FACADE
+ 
+9:30-10:00   Alexander Grunewald, Cal Tech
+             The Perception of Visual Motion: Psychophysics, Physiology 
+             and Modeling
+
+10:00-10:30  John Reynolds, NIMH
+             Visual Salience, Competition and Selective Attention
+
+10:30-11:00  Coffee Break
+
+11:00-11:30  David Somers, MIT
+             Attentional Mechanisms in Human Visual Cortex: Evidence 
+             from fMRI
+
+11:30-12:00  Luiz Pessoa, NIMH
+             Attentional Strategies for Object Recognition
+
+12:00-12:30  Bruce Fischl, Mass General Hospital
+             Surface-Based Analysis of the Human Cerebral Cortex
+
+12:30-2:00   Lunch (everyone on their own)
+
+2:00-2:30    Paul Cisek, University of Montreal
+             Two Action Systems: Specification and Selection in the 
+             Cerebral Cortex
+
+2:30-3:00    John Fiala, Boston University
+             Structural Dynamics of Synapses
+
+3:00-3:30    Karen Roberts, Cognex Corp.
+             Alignment and Inspection of Boundary Contours
+
+3:30-4:00    Coffee Break
+
+4:00-4:30    Gary Bradski, Intel Corp.
+             Motion Segmentation and Pose Recognition with Motion 
+             History Gradients
+
+4:30-5:00    Rob Cunningham, MIT Lincoln Laboratory
+             Detecting Computer Attackers: Recognizing Patterns of 
+             Malicious, Stealthy Behavior
+
+5:00-8:00    Reception

@@ -1,0 +1,106 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Tue May 12 00:33:20 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id AAA03638;
+	Tue, 12 May 1998 00:33:13 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ac21344;
+          11 May 98 15:23:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id ab21336;
+          11 May 98 15:01:40 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03740;
+          11 May 98 15:01 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab27608; 11 May 98 14:59 EDT
+Received: from [150.164.32.12] by CS.CMU.EDU id aa11184; 11 May 98 14:54:26 EDT
+Received: from uirapuru.cpdee.ufmg.br by cpdee.ufmg.br (SMI-8.6/SMI-SVR4)
+	id PAA28425; Mon, 11 May 1998 15:44:42 -0300
+Message-ID: <35574928.FB624444@cpdee.ufmg.br>
+Date: Mon, 11 May 1998 15:53:28 -0300
+From: Antonio de Padua Braga <apbraga@cisne.cpdee.ufmg.br>
+Reply-To: apbraga@cisne.cpdee.ufmg.br
+Organization: Universidade Federal de Minas Gerais
+X-Mailer: Mozilla 4.01 [en] (Win95; I)
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu, gann-list@cs.iastate.edu, hybrid-list@cs.ua.edu,
+        comp.ai.neural-nets@di.ufpe.br
+Subject: CFP:Vth Brazilian Symposium on Neural Networks
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Please forward to colleagues, etc.
+Apologies if you have received this already.
+
+NOTE: Proceedings will be published by IEEE Computer Society Press
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+                         CALL FOR PAPERS
+
+              Vth Brazilian Symposium on Neural Networks
+                    Brazilian Computer Society
+
+                 Federal University of Minas Gerais
+               Belo Horizonte, 9 to 11th December 1998
+                 http://www.cpdee.ufmg.br/~sbrn98
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+                          INTEREST AREAS
+
+Submissions of papers related to the following areas are wellcome : 
+Theory, Applications, Architectures, Associative memories, Associative 
+memories, Cognitive science, Electronic and optical implementation, 
+Hybrid systems, Learning, Neurobiology, Neurodynamics and Chaos, 
+Pattern recognition, Signal Processing, Prediction, Inteligent control,
+Robotics, Identification, Image processing, Other themes related to 
+artificial neural networks. 
+
+                     SCIENTIFIC COMMITTEE
+Conference chairman:
+Antonio de Padua Braga (Brazil) 
+  
+Scientific committee chairs:
+Teresa Bernarda Ludermir (Brazil) 
+Carlos Eduardo Pedreira (Brazil) 
+
+Aluizio F. R. Araujo (Brazil), Andre P. L. F. Carvalho (Brazil), 
+Antonio de Padua Braga (Brazil), Brijesh Verma (Australia), 
+Cairo L. Nascimento Junior (Brazil), Edson Costa B.C. Filho (Brazil)
+Harold Szu (USA), Helge Ritter (Germany), Igor Aleksander (England),
+James A. Anderson (USA), Jude W. Shavlik (USA), Luiz Pereira Caloba 
+(Brazil), Phillipe De Wilde (England), Takashi Yoneiama (Brazil) 
+Vladimir Vapnik (USA), Walmir Matos Caminhas (Brazil) and Weber Martins 
+(Brazil) 
+
+                           INVITED TALKS
+  
+Harold Szu (Title: Blind Demixing by Neural Network Independent
+Component Analyses)
+
+Igor Aleksander (Title: The Emergence of a Qualia-Like Phenomenon in a 
+Neurocomputational System)
+
+James A. Anderson (Title: Teaching the Multiplication Tables to a Neural 
+Network: Flexibility vs. Accuracy) 
+
+Jude W. Shavlik (Title: Talking with Your Neural Networks: Putting
+Inference Rules In and Getting Rules Out)
+
+Vladimir Vapnik (Title: Problems of Learning and Generalization)
+
+                       IMPORTANT DATES
+
+Paper submission : 30 JUNE, 1998 
+Notification of acceptance : 30 September, 1998. 
+
+======================================================================
+     Detailed information can be obtained from conference WWW-page:
+            <http://www.cpdee.ufmg.br/~sbrn98>
+=====================================================================
+--
+Antonio de Padua Braga, PhD    | apbraga@cpdee.ufmg.br
+Depto. Engenharia Eletronica   | http://www.cpdee.ufmg.br/~apbraga
+Campus da UFMG (Pampulha)      | Tel: +55 31 499 4869 (499 4848)
+Caixa Postal 209               | FAX: +55 31 499 4850
+30.161-970, Belo Horizonte, MG | BRAZIL

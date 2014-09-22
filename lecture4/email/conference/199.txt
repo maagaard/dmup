@@ -1,0 +1,69 @@
+
+
+From mgl@imm.dtu.dk  Wed Jan 20 10:22:36 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id KAA06695;
+	Wed, 20 Jan 1999 10:22:22 +0100 (MET)
+Received: from imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id KAA04916;
+	Wed, 20 Jan 1999 10:26:42 +0100 (MET)
+Message-ID: <36A5A13D.9C5A4EDF@imm.dtu.dk>
+Date: Wed, 20 Jan 1999 10:26:21 +0100
+From: Matthew Liptrot <mgl@imm.dtu.dk>
+Reply-To: mliptrot@iee.org
+X-Mailer: Mozilla 4.05 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "fnielsen@eivind.imm.dtu.dk" <fnielsen@eivind.imm.dtu.dk>,
+        "mgl@eivind.imm.dtu.dk" <mgl@eivind.imm.dtu.dk>,
+        "cg@eivind.imm.dtu.dk" <cg@eivind.imm.dtu.dk>,
+        "ed@eivind.imm.dtu.dk" <ed@eivind.imm.dtu.dk>,
+        "phs@eivind.imm.dtu.dk" <phs@eivind.imm.dtu.dk>,
+        "ch@eivind.imm.dtu.dk" <ch@eivind.imm.dtu.dk>,
+        "hintz@eivind.imm.dtu.dk" <hintz@eivind.imm.dtu.dk>,
+        "rod@eivind.imm.dtu.dk" <rod@eivind.imm.dtu.dk>,
+        "enrico@eivind.imm.dtu.dk" <enrico@eivind.imm.dtu.dk>,
+        "kjems@eivind.imm.dtu.dk" <kjems@eivind.imm.dtu.dk>,
+        "pap@eivind.imm.dtu.dk" <pap@eivind.imm.dtu.dk>,
+        "thko@eivind.imm.dtu.dk" <thko@eivind.imm.dtu.dk>,
+        "vaever@eivind.imm.dtu.dk" <vaever@eivind.imm.dtu.dk>,
+        "lkhansen@eivind.imm.dtu.dk" <lkhansen@eivind.imm.dtu.dk>,
+        "nonboe@eivind.imm.dtu.dk" <nonboe@eivind.imm.dtu.dk>,
+        "jlarsen@eivind.imm.dtu.dk" <jlarsen@eivind.imm.dtu.dk>,
+        Preben Kidmose <kidmose@eivind.imm.dtu.dk>
+Subject: Neuroscience Workshops, Italy
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear all,
+
+Thought you might all be interested in these Neuroscience links...
+
+Matt
+
+Summer Institute in NeuroInformatics, Trieste, Italy
+(Various workshops, courses, etc, see *'s below)
+http://www.sissa.it/cns/www/sin.html
+
+Local group:
+ Cognitive NeuroScience Section, Trieste, Italy
+ http://www.sissa.it/cns/
+
+Local section
+ Liminar Investigations of Memory and Brain Organization
+ http://www.sissa.it/~ale/limbo.html
+
+* EU Advanced Course in Computational Neuroscience, 
+  (Aug. 23 to Sept. 17 1999)
+  http://www.bbf.uia.ac.be/EU_course.shtml
+
+* SCHOOL ON NEURAL INFORMATION PROCESSING
+  (3 - 28 May 1999)
+ 
+http://www.ictp.trieste.it/cgi-bin/ICTPsmr/mkhtml/smr2html.pl?smr1157/Bulletin
+  (This will probably wrap in your browser)
+
+* European Conference on Visual Perception, ECVP 99
+  22 - 26 August 1999, Trieste, Italy
+  http://ecvp99.univ.trieste.it:8080/

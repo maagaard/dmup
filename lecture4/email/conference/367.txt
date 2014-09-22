@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Jun 23 00:45:36 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id AAA20597;
+	Tue, 23 Jun 1998 00:45:16 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01938;
+          22 Jun 98 16:33 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01936;
+          22 Jun 98 16:15 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14339;
+          22 Jun 98 16:14 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17782; 22 Jun 98 11:42 EDT
+Received: from CNS.BU.EDU by EDRC.CMU.EDU id aa04032; 22 Jun 98 11:41:55 EDT
+Received: from retina.bu.edu (retina [128.197.61.93])
+	by cns (8.8.5/8.8.5/(BU-S-02/10/97-v1.0)) with SMTP id LAA23196
+	for <connectionists@cs.cmu.edu>; Mon, 22 Jun 1998 11:41:41 -0400 (EDT)
+Received: from localhost by retina.bu.edu (8.6.13/BU_Client-1.1)
+	id LAA11288; Mon, 22 Jun 1998 11:41:19 -0400
+Date: Mon, 22 Jun 1998 11:41:17 -0400 (EDT)
+From: Carolina Chang <cchang@cns.bu.edu>
+X-Sender: cchang@retina
+Reply-To: Carolina Chang <cchang@cns.bu.edu>
+To: connectionists@cs.cmu.edu
+Subject: CFP: Biomimetic Robotics - Special Issue of RAS
+Message-ID: <Pine.SUN.3.95.980622112119.10778A-100000@retina>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+		 Call for Papers: Biomimetic Robotics
+	   Special Issue of Robotics and Autonomous Systems
+
+	   Guest Editors: Carolina Chang and Paolo Gaudiano
+		      {cchang, gaudiano}@bu.edu
+		  Boston University Neurobotics Lab
+	      Department of Cognitive and Neural Systems
+
+		Submission Deadline: October 31, 1998
+
+It has been argued that today's supercomputers are able to process
+information at a rate comparable to that of simple invertebrates.  And
+yet, even ignoring physical constraints, no existing algorithm running
+on the fastest supercomputer could enable a robot to fly around a
+room, avoid obstacles, land upside down on the ceiling, feed,
+reproduce, and perform many of the other tasks that a housefly learns
+to perform without external training or supervision. The apparent
+simplicity with which flies and even much simpler biological organisms
+manage to survive in a constantly changing environment suggests that a
+potentially fruitful avenue of research is that of understanding the
+mechanisms adopted by biological systems for perception and control,
+and applying what is learned to robots.
+
+While we may not yet be able to make a computer function as flexibly 
+as a housefly, there have been many promising starts in that direction. 
+The goal of this special issue is to present recent results in 
+"biomimetic robotics", or the application of biological principles 
+to robotics. The term "biological" in this case should be taken broadly 
+to refer to any aspect of biological function, including for example,
+psychological theories or detailed models of neural function. 
+
+Preference will be given to manuscripts describing original work that
+closely models biological principles observed in real animals and
+that uses real robots. Prospective authors should contact one of the
+guest editors as soon as possible to determine the relevance of their
+submission to this special issue.
+
+Authors are encouraged to submit manuscripts electronically. The final
+version of all accepted manuscripts should be in LaTeX, using the
+Elsevier style files available from the Robotics and Autonomous
+Systems web-page:
+
+              http://www.elsevier.nl/locate/robot
+
+To submit an electronic copy of your manuscript, preferably in
+postscript or PDF format, upload it to the anonymous ftp site
+"neurobotics.bu.edu". Use "anonymous" as user name, and your e-mail
+as password. Change directory to pub/ras and "put" your file using binary
+transfer mode. You will get detailed directions when you enter the ras
+directory. To expedite uploading, your document may be compressed by
+any commonly used compression scheme. Once you have uploaded
+your file to the ftp site, please send e-mail to cchang@bu.edu 
+indicating the filename, manuscript title, and the name and contact
+information (electronic and surface mail address, phone, fax) for the
+corresponding author. The title page of the manuscript should include
+contact information for all authors.
+
+For printed submissions, please send your double-spaced manuscript to:
+
+  Carolina Chang
+  Boston University Neurobotics Lab
+  Department of Cognitive and Neural Systems
+  677 Beacon Street
+  Boston, MA 02215 USA
+
+
+
+
+
+
+

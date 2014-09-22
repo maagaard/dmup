@@ -1,0 +1,64 @@
+
+
+From owner-www-vrml@vrml.org Thu Oct 23 01:17:52 MET 1997
+Received: from vrml.org (vrml.org [209.66.78.240]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id BAA06250 for <fnielsen@eivind.imm.dtu.dk>; Thu, 23 Oct 1997 01:17:50 +0200 (METDST)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id UAA10811
+	for www-vrml-outgoing; Wed, 22 Oct 1997 20:14:26 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from xanadu.cyborganic.com (root@xanadu.cyborganic.net [205.167.117.20])
+	by vrml.org (8.8.7/8.8.5) with ESMTP id UAA10806
+	for <www-vrml@vrml.org>; Wed, 22 Oct 1997 20:14:24 GMT
+Received: from smudge (dnai-207-33-180-63.dialup.dnai.com [207.33.180.63]) by xanadu.cyborganic.com (8.8.7/8.7.7) with SMTP id NAA21771; Wed, 22 Oct 1997 13:18:46 -0700 (PDT)
+Message-Id: <3.0.1.32.19971022131303.00b38e10@cyborganic.net>
+X-Sender: timothy@cyborganic.net
+X-Mailer: Windows Eudora Pro Version 3.0.1 (32)
+Date: Wed, 22 Oct 1997 13:13:03 -0700
+To: (Recipient list suppressed)
+From: Timothy Childs <timothy@curve.net>
+Subject: VRML 98 DemoSIG signup now open!
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+The Virtual Reality Education Foundation (Affectionately known as VeRGe)
+and Curve, Inc. proudly present The VRML 98 DemoSIG Night.
+
+The event will take place Wednesday, 18 February 1998 at the Doubletree
+Hotel - Monterey, California.  Similar to last year's hit event, The VRML98
+DemoSIG presents the highest quality VRML demos in a exciting, fast-paced
+environment.  Lively and interesting, The VRML98 DemoSIG, will have even
+more "interactive audience feedback devices" that many of you know and
+love. These devices prove invaluable in keeping the event on schedule.
+
+All submitted demos are judged for inclusion in the evening's program. Most
+demos will be between 3-5 minutes long--depending on content of demo. 
+
+DEADLINE for entering is Monday, 26 January 1998.  Demos judged later that
+week.  The selected demo-ees will be contacted with detailed follow-up
+information by Monday, 9 February 1998. 
+
+While we will provide computers to use, we strongly suggest you run your
+demo from a lap-top. 
+
+We've learned tons from the last couple of events and have much more time
+for set up.  This means more efficient demo setup and better advance
+notification of winning demos.  We will also have much greater access to
+the demo machines than at SIGGRAPH.
+
+Sign up at http://www.verge.org/projects/vrml98/signup.html
+
+Specific questions comments and/or feedback should be sent to the event's
+Master of Ceremonies, Timothy Childs at timothy@curve.net
+
+VRML '98 is Sponsored by ACM SIGGRAPH and ACM SIGCOMM, in cooperation with
+the VRML Consortium
+
+Special thanks to the "coffee boss" for the t-ispiration.
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

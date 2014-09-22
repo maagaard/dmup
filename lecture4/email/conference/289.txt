@@ -1,0 +1,65 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 24 15:47:50 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id PAA19920;
+	Tue, 24 Aug 1999 15:47:39 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07825;
+          24 Aug 99 4:05 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07820;
+          24 Aug 99 3:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10341;
+          24 Aug 99 3:59 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa04435; 24 Aug 99 3:20 EDT
+Received: from [195.61.56.157] by CS.CMU.EDU id aa02873; 24 Aug 99 3:20:26 EDT
+Received: from [195.61.50.7] by 195.61.50.3 (AppleShare IP Mail Server 6.1) id 29698 via TCP with SMTP; Tue, 24 Aug 1999 09:21:40 +0200
+X-Sender: mondada@mail.k-team.com
+Message-Id: <v0300781cb3e7f83fb568@[195.61.50.7]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 24 Aug 1999 09:20:41 +0200
+To: connectionists@cs.cmu.edu
+From: Francesco Mondada <mondada@k-team.com>
+Subject: IKW99 call for participation
+Status: RO
+X-Status: 
+
+                         CALL FOR PARTICIPATION
+
+     The Heinz Nixdorf Institute, with support from K-Team, organizes the
+
+                    1ST International KHEPERA Workshop
+                         http://ikw99.k-team.com
+
+              10th and 11th December 1999, Paderborn, Germany.
+
+This workshop aims to bring together researchers from many different fields
+who utilize the mini-robot Khepera as an experimental platform. The intention
+is to give a comprehensive overview of the Khepera related work done so far
+and to provide a forum for scientific exchange.
+
+                            For KHEPERA USERS:
+
+The best opportunity to exchange ideas, experience, hardware, software and
+tips on Khepera. The latest research results and developments will be shown.
+
+ ******** BRING YOUR KHEPERA ROBOTS for the big clustering demo ********
+ ******** AND GET A CHANCE TO REPRODUCE ONE OF THEM !!!         ********
+
+One of the Khepera robots participating to the demo will be selected and
+his owner will win a Khepera robot kit offered by K-Team.
+
+                          For NON KHEPERA USERS:
+
+The best opportunity to see how to implement real robotics experiences with
+the standard mobile robot, Khepera, used by more than 350 research groups.
+
+Exchange experience and tips with the best Khepera users and developers.
+
+This is the only conference where only papers using real robots are accepted!
+
+
+   *** PAPERS *** DEMOS *** ROBOTIC NIGHT *** COLLECTIVE ROBOT SHOW ***
+
+
+

@@ -1,0 +1,375 @@
+
+
+From icsc@compusmart.ab.ca Sat Mar  1 11:31:02 EST 1997
+Received: from bernie.compusmart.ab.ca (root@bernie.compusmart.ab.ca [199.185.130.34]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id RAA02409; Sat, 1 Mar 1997 17:30:59 +0100 (MET)
+Received: from icsc.compusmart.ab.ca (remote188.compusmart.ab.ca [206.75.84.13]) by bernie.compusmart.ab.ca (8.7.4/8.6.5) with SMTP id JAA18882; Sat, 1 Mar 1997 09:28:59 -0700 (MST)
+Message-Id: <2.2.32.19970301163052.006fe5a8@mail.compusmart.ab.ca>
+X-Sender: icsc@mail.compusmart.ab.ca
+X-Mailer: Windows Eudora Pro Version 2.2 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sat, 01 Mar 1997 09:30:52 -0700
+To: Prospective Authors <icsc@compusmart.ab.ca>
+From: ICSC Canada <icsc@compusmart.ab.ca>
+Subject: WMC'97
+Status: RO
+X-Status: 
+
+
+*************************************************
+
+SUBMISSION DEADLINE EXTENDED UNTIL MARCH 25, 1997
+
+*************************************************
+
+
+ANNOUNCEMENT / CALL FOR PAPERS
+
+WORLD MANUFACTURING CONGRESS (WMC'97)
+http://www.compusmart.ab.ca/icsc/wmc97.htm
+
+November 18-21, 1997
+Auckland, New Zealand
+
+WMC'97 is dedicated to Philip Crosby
+
+************************************
+
+
+SPONSORS
+
+- IEE
+- IEEE
+- IPENZ
+- ICSC
+- Massey University
+
+************************************
+
+
+PURPOSE OF THE CONGRESS
+
+The continuous exchange of scientific information is of particular
+importance in a time of world-wide problems in the manufacturing industry.
+The impact of other rapidly changing technical sectors, such as electronics,
+automation and computer engineering, combined with the increasing pressures
+from issues such as environmental protection and global markets, is
+revolutionizing both the philosophies and the production elements of
+manufacturing.
+
+The World Manufacturing Congress, to be held every two years, is designed to
+be a forum for academia and industry to exchange ideas for research and to
+facilitate the transfer of such ideas into practice. The key objective of
+the congress is to cover all relevant aspects of the developing science of
+manufacturing systems, manufacturing technology and manufacturing
+management, including strategies, operational and organizational factors,
+new and developing technologies, information management and human factors in
+the industrial environment.
+Amongst the more traditional application areas, WMC'97 will pay particular
+attention and examine the impact of manufacturing on a variety of important
+industrial sectors. These sectors include Aerospace, Automotive, Biomedical,
+Pharmaceutical, Nuclear, Health and the Environment, Textile and Footwear,
+Defense, Electronics, Communication, Agricultural, Food, and Construction
+industries.
+
+The papers accepted for presentation will be those of a high standard of
+content and presentation and offering new ideas and original research to the
+audience.
+
+************************************
+
+
+INTERNATIONAL SYMPOSIUM ON MANUFACTURING SYSTEMS (ISMS'97)
+
+The aim of ISMS'97 is the cross-fertilization of ideas and knowledge about
+manufacturing systems. ISMS'97 will bring together industrialists, research
+institutions and universities to present new research results, exchange
+ideas and experiences and to identify the future trend in the field of
+manufacturing systems. 
+
+The tentative list of topics includes, but is not limited to:
+
+- Manufacturing Planning
+- Manufacturing Control
+- Modeling and Simulation
+- Decision Support Tools
+- Manufacturing Organization
+- Financial Aspects of Manufacturing
+- Concurrent and Simultaneous Engineering
+- Artificial Intelligence in Manufacturing
+- Virtual Manufacturing
+- Virtual Enterprise
+- IT and Communications in Manufacturing
+- Multimedia Applications
+- Electronic Date Interchange (EDI)
+- Database Technology
+- Data Capture Automation
+
+************************************
+
+
+INTERNATIONAL SYMPOSIUM ON MANUFACTURING TECHNOLOGY (ISMT'97)
+
+Demand to meet new targets in manufacturing is pushing the technology across
+boundaries even further.Technology must respond rapidly and must stay ahead
+at all times. Advances in materials and processes both play important roles
+to maintain the cutting edge in manufacturing companies and help them stay
+competitive. ISMT'97 will attempt to cover a wide range of topics in the
+field of Manufacturing technology and attempt to address challenges
+requiring solutions that are innovative in nature. 
+
+The tentative list of topics includes, but is not limited to:
+
+- Computer Aided Design
+- Computer Aided Manufacture
+- Computer Integrated Manufacture
+- Design for Manufacture and Assembly
+- Rapid Prototyping
+- Advanced Manufacturing Processes
+- Intelligent Automation and Soft Computing
+- Intelligent Manufacturing
+- Industrial Automation
+- Robotics
+- Process Automation
+- Industrial Laboratory Automation
+- Packaging Technologies
+- Mechatronics
+- Materials in Manufacturing (metals, ceramics, 
+  polymers, plastics, leather, composites, etc.)
+- Electronics Manufacture
+- Clean Manufacturing
+- Manufacturing Process Control
+- Automation in Agriculture
+- Construction as a Manufacturing Process
+
+************************************
+
+
+INTERNATIONAL SYMPOSIUM ON MANUFACTURING MANAGEMENT (ISMM'97)
+
+Manufacturing management is an instrument of survival against ever
+increasing global competitiveness. ISMM'97 will cover all aspects of
+manufacturing management. The theme of the symposia will place a stronghold
+on principles and concepts and how these are affected by the different
+operational ways in which a manufacturing organization can meet its
+strategic objectives. 
+
+Topics of interest include all aspects of manufacturing operations
+management, including:
+
+- World Class Manufacturing
+- Manufacturing Re-design
+- Business Process Re-engineering
+- Supplier Development
+- Product Design
+- Product Innovation
+- Quality
+- Lean Manufacture
+- Benchmarking
+- Logistics
+- Information Management
+- Co-operative Manufacturing
+- Education and Training
+- Human Factors in Manufacturing
+- Global Product Strategies
+- International Technology Transfer
+
+************************************
+
+
+INVITED SESSIONS
+
+Keynote speakers (top industrialists, chief research scientists and leading
+academics) will be addressing the main issues of the congress. It is
+intended to start every morning and every afternoon with a 45 minutes
+keynote speech, followed by a 15 minutes question/answer period.
+
+************************************
+
+
+INDUSTRIAL VISITS
+
+Industrial visits to manufacturing plants will be organized for each day of
+the congress.
+
+************************************
+
+
+EXHIBITION
+
+An exhibition will be held at the congress site.
+
+************************************
+
+
+PUBLICATION OF PAPERS
+
+All accepted papers will appear in the congress proceedings, published by
+ICSC Academic Press. The proceedings will be available for the delegates at
+the congress.
+
+In addition, some selected papers will be considered for publication in
+special issues of prestigious international journals.
+
+************************************
+
+
+BEST PAPER AWARDS
+
+Best paper awards will be presented for WMC'97 and each symposium.
+
+************************************
+
+
+WMC'97 
+Honorary Chair: Philip B. Crosby, USA
+General & Organizing Chair: Saeid Nahavandi, New Zealand
+
+ISMS'97
+Symposium Chair: Andrew Kusiak, USA
+Program Chair: Nikola Kasabov, New Zealand
+
+ISMT'97
+Symposium Chair: Mozafar Saadat, U.K.
+Program Chair: Des Tedford, New Zealand
+
+ISMM'97 
+Symposium Chair: Bo Bergman, Sweden
+Program Chair: Don Barnes, New Zealand
+
+CONGRESS ORGANIZER
+ICSC International Computer Science Conventions
+P.O. Box 279, Millet AB T0C 1Z0, Canada
+Email:    icsc@compusmart.ab.ca
+Web-Site: http://www.compusmart.ab.ca/icsc
+Fax:      +1-403-387-4329
+Phone:    +1-403-387-3546
+
+ORGANIZING COMMITTEE
+S. Nahavandi, D.J. Barnes, R. Bhamidimarri, R.L. Earle, R.M. Hodgson, W.
+Monteith, P. Robertson, E.W. Smith
+
+INTERNATIONAL STEERING COMMITTEE
+F.B. Adamson, USA / L. Alting, Denmark / B. Bergman, Sweden / J.C. Bezdeck,
+USA / P.M. Braiden, U.K. / R.G.M. Christie, New Zealand / T. Fukuda, Japan /
+R.H. Griffiths, U.K. / Y. Hasegawa, Japan / J.R. Hewit, U.K. / M. Jamshidi,
+USA / G. Johnson, USA / I.K. Kang, Korea / W. Khalil, France / A. Kusiak,
+USA / D. Kwok, Australia / Damian M. Lyons, USA / M. Mansour, Switzerland /
+C.C. Mo, ROC / W. Monteith, New Zealand / A. Morecki, Poland / S. Nahavandi,
+New Zealand / L. Nemes, Australia / C.C. Nguyen, USA / C. O'Brian, U.K. /
+P.J. O'Grady, USA / G. Page, New Zealand / M. Saadat, U.K. / P.S. Schenker,
+USA / H. Sutabutra, Thailand / T.J. Tarn, USA / D. Williams, U.K.
+
+INTERNATIONAL TECHNICAL COMMITTEE
+H. Adeli, USA  / A. Adlemo, Sweden / L.M. Aguilera, Brazil / M.H. Ang Jr.,
+Singapore / D.J. Barnes, New Zealand / M. Bazargan, Australia / G.A. Bekey,
+USA / H.S.M. Beigi, USA / B. Benhabib, Canada / J. Billingsley, Australia /
+S. Blessing, Germany / J. Cernetic, Slovenia
+T. Chandra, Australia / H.S. Cho, Korea / P. Dario, Italy / L. Foulloy,
+France / M. Good, Australia / J.O. Gray, U.K. / N. Kasobov, New Zealand / K.
+Kawamura, USA / P.K. Khosla, USA / T. King, U.K. / A.K. Kochhar, U.K. / P.
+Kopacek, Austria / R. Kress, USA / R. Lashkari, Canada / A. Lauber, Sweden /
+G.C.I. Lin, Australia / V.J. Lumelsky, USA / K. Maani, New Zealand / A.A.
+Maciejewski, USA / C. Maynard, Australia / T. Medland, U.K. / A. Meghdari,
+Iran / J.P.T. Mo, Australia / W. Monteith, New Zealand / P. Moore, U.K. / F.
+Naghdy, Australia / S. Nahavandi, New Zealand / H. Nicholls, New Zealand  /
+F.F. Nicolo, Italy / G. Page, New Zealand / M. Papageorgiou, Greece / C.
+Preece, U.K. / D. Reedman, U.K. / S. Shah, Canada / Robert E. Skelton, USA /
+T.M. Sobh, USA / J. Sztipanovits, USA / P. Taylor, U.K. / D. Tedford, New
+Zealand / J. Trevelyan, Australia / K.P. Valavanis, USA / A. Villa, Italy /
+Z. Vukic, Croatia / K. Whybrew, New Zealand / D. Wilcock, U.K. / Y.S. Wong,
+Singapore / J. Yuh, USA
+
+************************************
+
+
+SUBMISSION OF MANUSCRIPTS
+
+Prospective authors are requested to submit an extended abstracts of 1000 -
+2000 words for review by the International Technical Committee. All
+abstracts must be written in English, starting with a succinct statement of
+the problem, the results achieved, their significance and a comparison with
+previous work. If authors believe that more details are necessary to
+substantiate the main claims of the paper, they may include a clearly marked
+appendix that will be read at the discretion of the International Technical
+Committee.
+ 
+The abstracts must be clearly marked, to which symposium (ISMS'97, ISMT'97
+or ISMM'97) they are submitted. They should also include:
+
+- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax number of contact author
+- Name of topic which best describes the paper 
+  (max. 5 keywords)
+
+It is recommended to submit abstracts by electronic mail (ASCII text) to
+
+icsc@compusmart.ab.ca
+
+or else by fax or mail (2 copies) to the following address:
+
+ICSC Canada
+P.O. Box 279
+Millet, Alberta T0C 1Z0
+Canada
+Fax:   +1-403-387-4329
+Email: icsc@compusmart.ab.ca
+
+************************************
+
+
+OTHER CONTRIBUTIONS
+
+Anybody wishing to organize a special session, such as a workshop, tutorial
+or discussion, is requested to contact either ICSC Canada or the Organizing
+Chairman before April 30, 1997.
+
+************************************
+
+
+IMPORTANT DATES AND DEADLINES
+
+It is the intention of the organizers to have the conference proceedings
+available for the delegates. Consequently, the deadlines below are to be
+strictly respected:
+
+- Submission of abstracts: March 25, 1997
+- Notification of acceptance: April 30, 1997
+- Delivery of full papers: June 30, 1997
+- WMC'97 congress: November 18 - 21, 1997
+
+************************************
+
+
+WMC'97 WEB SITE
+
+Full updated information is available from
+
+http://www.compusmart.ab.ca/icsc/wmc97.htm
+
+************************************
+
+
+FURTHER INFORMATION
+
+For further information please contact
+
+ICSC International Computer Science Conventions
+P.O. Box 279, Millet AB T0C 1Z0, Canada
+Email:    icsc@compusmart.ab.ca
+Fax:      +1-403-387-4329
+Phone:    +1-403-387-3546
+
+or 
+
+Dr. Saeid Nahavandi, Organizing Chairman WMC'97, 
+Massey University, Deptartment of Production Technology, 
+Private Bag 11222, Palmerston North, New Zealand
+E-mail:   S.Nahavandi@massey.ac.nz
+Fax:      +64-6-350-5604 
+Phone:    +64-6-350-4083
+
+************************************
+

@@ -1,0 +1,95 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Dec  4 12:18:07 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA29032;
+	Fri, 4 Dec 1998 12:17:48 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10036;
+          4 Dec 98 3:37 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10034;
+          4 Dec 98 3:07 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04525;
+          4 Dec 98 3:06 EST
+Received: by ux3.sp.cs.cmu.edu id ab04635; 4 Dec 98 2:38 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa04599; 4 Dec 98 2:35 EST
+Received: from phy.ucsf.EDU by CS.CMU.EDU id aa28255; 4 Dec 98 2:33:10 EST
+Received: from coltrane.ucsf.edu (ken@coltrane.ucsf.EDU [128.218.66.81]) by phy.ucsf.EDU (8.8.6/GSC4.26) with ESMTP
+	id XAA11224; Thu, 3 Dec 1998 23:33:07 -0800 (PST)
+Received: by coltrane.ucsf.edu (8.8.6) id XAA04258; Thu, 3 Dec 1998 23:33:07 -0800 (PST)
+From: Ken Miller <ken@phy.ucsf.EDU>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-ID: <13927.36914.747091.701444@coltrane.ucsf.edu>
+Date: Thu, 3 Dec 1998 23:33:06 -0800 (PST)
+To: Connectionists@cs.cmu.edu, cneuro@smaug.bbb.caltech.edu
+Subject: UCSF Postdoctoral and Graduate Fellowships in Theoretical Neurobiology
+X-Mailer: VM 6.58 under Emacs 19.34.1
+Status: RO
+X-Status: 
+
+FULL INFO:
+http://www.sloan.ucsf.edu/sloan/sloan-info.html
+
+PLEASE DO NOT USE 'REPLY'; FOR MORE INFO USE ABOVE WEB SITE OR CONTACT
+ADDRESSES GIVEN BELOW
+
+
+The Sloan Center for Theoretical Neurobiology at UCSF solicits
+applications for pre- and post-doctoral fellowships, with the goal of
+bringing theoretical approaches to bear on neuroscience. Applicants
+should have a strong background and education in mathematics,
+theoretical or experimental physics, or computer science, and
+commitment to a future research career in neuroscience. Prior
+biological or neuroscience training is not required.
+
+The Sloan Center offers opportunities to combine theoretical and
+experimental approaches to understanding the operation of the intact
+brain. Young scientists with strong theoretical backgrounds will
+receive scientific training in experimental approaches to
+understanding the operation of the intact brain. They will learn to
+integrate their theoretical abilities with these experimental
+approaches to form a mature research program in integrative
+neuroscience. The research undertaken by the trainees may be
+theoretical, experimental, or a combination.
+
+TO APPLY, please send a curriculum vitae, a statement of previous
+research and research goals, up to three relevant publications, and
+have two letters of recommendation sent to us.
+
+            The application deadline is February 1, 1999. 
+
+Send applications to: 
+
+                        Steve Lisberger
+          Sloan Center for Theoretical Neurobiology at UCSF
+                    Department of Physiology
+                     University of California
+                       513 Parnassus Ave.
+                  San Francisco, CA 94143-0444
+
+PRE-DOCTORAL applicants with strong theoretical training may seek
+admission into the UCSF Neuroscience Graduate Program as a first-year
+student. Applicants seeking such admission must apply by Jan. 5, 1999
+to be considered for fall, 1999 admission. Application materials for
+the UCSF Neuroscience Program may be obtained from
+
+                         Cindy Kelly 
+                 Neuroscience Graduate Program 
+                    Department of Physiology 
+               University of California San Francisco 
+                  San Francisco, CA 94143-0444 
+                   neuroscience@phy.ucsf.edu 
+
+Be sure to include your surface-mail address. The procedure is: make a
+normal application to the UCSF Neuroscience program; but also alert
+the Sloan Center of your application, by writing to Steve Lisberger at
+the address given above.
+
+If you need more information: 
+
+-- Consult the Sloan Center WWW Home Page: http://www.sloan.ucsf.edu/sloan 
+-- Send e-mail to sloan-info@phy.ucsf.edu 
+-- See also the home page for the W.M. Keck Foundation Center for
+   Integrative Neuroscience, in which the Sloan Center is housed:
+   http://www.keck.ucsf.edu/

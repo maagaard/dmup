@@ -1,0 +1,85 @@
+
+
+From spm-request@mailbase.ac.uk Tue Dec 21 19:23:07 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id TAA05089
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 21 Dec 1999 19:23:06 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id SAA23488;
+	Tue, 21 Dec 1999 18:24:00 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id SAA09361;
+        Tue, 21 Dec 1999 18:22:45 GMT
+Received: from larmor.nmr.mgh.harvard.edu (larmor.nmr.mgh.harvard.edu [132.183.202.46]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id SAA09355;
+        Tue, 21 Dec 1999 18:22:41 GMT
+Received: from nmr.mgh.harvard.edu (pow.nmr.mgh.harvard.edu [132.183.203.29])
+	by larmor.nmr.mgh.harvard.edu (8.9.0.Beta5/8.9.0.Beta5) with ESMTP id SAA05577
+	for <spm@mailbase.ac.uk>; Tue, 21 Dec 1999 18:22:39 GMT
+Message-ID: <385FC525.283CD70F@nmr.mgh.harvard.edu>
+Date: Tue, 21 Dec 1999 13:21:25 -0500
+Organization: MGH-NMR Center
+X-Mailer: Mozilla 4.7 (Macintosh; U; PPC)
+X-Accept-Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 7bit
+Subject: Postdoc Position: Multimodal imaging of reading development and dyslexia
+From: Russ Poldrack <poldrack@nmr.mgh.harvard.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Russ Poldrack <poldrack@nmr.mgh.harvard.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Postdoc Position: Multimodal imaging of reading development and dyslexia
+
+A postdoctoral position is available beginning in April 2000 in the
+Skill and Language Research Lab at the MGH-NMR Center.  This postdoc
+will collaborate on studies using a combination of neuroimaging
+techniques (functional MRI, diffusion tensor MRI, diffuse optical
+tomography, and MEG) to examine the neural bases of reading acquisition
+and dyslexia.  Resources at the NMR Center will include 1.5T, 3T, and 7T
+MRI scanners, a 306-channel MEG system, and state-of-the-art optical
+imaging systems.
+
+Applicants should have received their Ph.D. (or plan to receive it by
+April 2000).  The successful candidate should have a strong background
+in psycholinguistics, neurolinguistics, reading acquisition, or language
+development, and should be comfortable working with children in a
+research setting.  In addition, a background in UNIX and computer
+programming is desired; some familiarity with neuroimaging techniques is
+desired but not necessary.
+
+Women and Minorities are encouraged to apply for this position.
+
+To apply, send CV, statement of research background and interests, and
+names and addresses of 3 references to:
+
+Russell A. Poldrack, Ph.D.
+MGH-NMR Center
+149 13th St
+Charlestown, MA 02129
+FAX: 617-726-7422
+email: poldrack@nmr.mgh.harvard.edu
+
+
+
+--
+Russell A. Poldrack, Ph. D.
+MGH-NMR Center
+Building 149, 13th St.
+Charlestown, MA 02129
+
+Phone: 617-726-4060
+FAX:  617-726-7422
+Email: poldrack@nmr.mgh.harvard.edu
+Web Page: http://www.nmr.mgh.harvard.edu/~poldrack
+
+

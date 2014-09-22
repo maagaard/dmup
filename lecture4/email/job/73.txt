@@ -1,0 +1,60 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Feb 18 01:58:33 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA12941;
+	Thu, 18 Feb 1999 01:58:26 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa04912;
+          17 Feb 99 18:45 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa04910;
+          17 Feb 99 18:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28234;
+          17 Feb 99 18:37 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa17045; 17 Feb 99 15:29 EST
+Received: from ANDREW.CMU.EDU by RI.CMU.EDU id aa19767; 17 Feb 99 15:28:16 EST
+Received: (from postman@localhost) by andrew.cmu.edu (8.8.5/8.8.2) id PAA22506 for Connectionists@cs.cmu.edu; Wed, 17 Feb 1999 15:28:13 -0500 (EST)
+Received: via switchmail; Wed, 17 Feb 1999 15:28:12 -0500 (EST)
+Received: from pcs12.andrew.cmu.edu via qmail
+          ID </afs/andrew.cmu.edu/service/mailqs/q005/QF.8qmmNJq00Ui=01DXo0>;
+          Wed, 17 Feb 1999 15:28:06 -0500 (EST)
+Received: from pcs12.andrew.cmu.edu via qmail
+          ID </afs/andrew.cmu.edu/usr3/pj/.Outgoing/QF.4qmmNJK00Ui=07A180>;
+          Wed, 17 Feb 1999 15:28:05 -0500 (EST)
+Received: from mms.4.60.Jun.27.1996.03.02.53.sun4.51.EzMail.PC.2.0.CUILIB.3.45.SNAP.NOT.LINKED.pcs12.andrew.cmu.edu.sun4m.54
+          via MS.5.6.pcs12.andrew.cmu.edu.sun4_51;
+          Wed, 17 Feb 1999 15:28:05 -0500 (EST)
+Message-ID: <YqmmNJG00Ui=07A100@andrew.cmu.edu>
+Date: Wed, 17 Feb 1999 15:28:05 -0500 (EST)
+From: Patsy J Mccarthy <pj+@andrew.cmu.edu>
+To: Connectionists@cs.cmu.edu
+Subject: faculty position in Mathematical Sciences at CMU
+Status: RO
+X-Status: 
+
+Please send the following job announcement to your mailing list.
+
+CARNEGIE MELLON UNIVERSITY
+Department of Mathematical Sciences
+
+The Department of Mathematical Sciences at Carnegie Mellon University seeks
+candidates with research interests in mathematical/computational biology.
+Qualified candidates at all levels are encouraged to apply. We are
+particularly interested in researchers with interests in neural modelling,
+brain function, and genome mathematics. A successful candidate for this
+position would be expected to interact with allied scientists in other
+centers and departments at Carnegie Mellon. Applicants should send a vita,
+list of publications, and a statement describing current and planned
+research. Candidates should also arrange to have at least three letters of
+recommendation sent to: Appointments Committee, Department of Mathematical
+Sciences, Carnegie Mellon University, Pittsburgh, PA 15213. Applications
+will be accepted until the position is filled. Carnegie Mellon University is
+an Affirmative Action/Equal Opportunity Employer.
+
+
+
+=============================================================================
+Patsy McCarthy                                  |        /\ /\
+Assistant to the Dept. Head                     |      =( o o )=
+Dept. of Math Sciences, Carnegie Mellon Univ    |        / ~ \
+WeH 6109, Ext. 82545                            |       ( | | ) 
+                                                         ~^ ^~}

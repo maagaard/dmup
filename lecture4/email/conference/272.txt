@@ -1,0 +1,89 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jun 21 14:11:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id OAA02786;
+	Mon, 21 Jun 1999 14:10:55 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17741;
+          21 Jun 99 4:06 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17738;
+          21 Jun 99 3:52 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10295;
+          21 Jun 99 3:52 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa07454; 21 Jun 99 3:51 EDT
+Received: from ns1.dice.ucl.ac.be by RI.CMU.EDU id aa08140;
+          21 Jun 99 3:50:36 EDT
+Received: from natacha (Natacha.dice.ucl.ac.be [130.104.237.90])
+	by ns1.dice.ucl.ac.be (8.9.2/mp-ns1) with SMTP id JAA01700;
+	Mon, 21 Jun 1999 09:50:27 +0200 (MET DST)
+From: ESANN <ESANN@dice.ucl.ac.be>
+To: "Connectionists@cs.cmu.edu" <Connectionists@cs.cmu.edu>,
+        "Echos@Dmi.Ens.Fr" <echos@dmi.ens.fr>,
+        "NEURO1-L@UICVM.UIC.EDU" <NEURO1-L@UICVM.UIC.EDU>,
+        "Neuron-Request@Psych.Upenn.Edu" <neuron-request@CATTELL.psych.upenn.edu>,
+        "Enns-List@Dcs.Kcl.Ac.Uk" <enns-list@dcs.kcl.ac.uk>,
+        "Neur-Sci@Dl.Ac.Uk" <neur-sci@dl.ac.uk>, comp-neuro@bbb.caltech.edu,
+        neuron@CATELL20.psych.upenn.edu,
+        "Frog-Net@Rana.Usc.Edu" <frog-net@rana.usc.edu>,
+        "Cogni-Info@Univ-Lyon1.Fr" <cogni-info@univ-lyon1.fr>,
+        "Neuropl@Plearn.Edu.Pl" <neuropl@plearn.edu.pl>,
+        "Connex-L@Ucd.Ie" <connex-l@ucd.ie>,
+        "Risc@Idf.Ext.Jussieu.Fr" <risc@idf.ext.jussieu.fr>
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: ESANN'2000: European Symposium on Artificial Neural Networks
+Date: Mon, 21 Jun 1999 09:49:35 +0200
+Message-ID: <000601bebbba$9b5cbd50$5aed6882@natacha.dice.ucl.ac.be>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.2106.4
+Status: RO
+X-Status: 
+
+*****************************************************
+              Call for special sessions
+
+   European Symposium on Artificial Neural Networks
+        Bruges (Belgium), April 26-27-28, 2000
+
+*****************************************************
+
+(We apologize for duplicates of this email)
+
+The preliminary announcement for the ESANN'2000 conference is available from
+the WWW page
+http://www.dice.ucl.ac.be/esann
+
+The call for papers will be published soon on this page.  We are now waiting
+for proposals/suggestions to organize special sessions during the
+conference.  A description of special sessions is available from the above
+link.  For those who never attended ESANN, the programmes (and lists of
+committee members) of the former conferences is also available from the
+above link.
+
+DEADLINE for proposals to organize special sessions: July 15, 1999.
+
+
+=====================================================
+ESANN - European Symposium on Artificial Neural Networks
+http://www.dice.ucl.ac.be/esann
+
+* For submissions of papers, reviews,...
+Michel Verleysen
+Univ. Cath. de Louvain - Microelectronics Laboratory
+3, pl. du Levant - B-1348 Louvain-la-Neuve - Belgium
+tel: +32 10 47 25 51 - fax: + 32 10 47 25 98
+mailto:esann@dice.ucl.ac.be
+
+* Conference secretariat
+D facto conference services
+27 rue du Laekenveld - B-1080 Brussels - Belgium
+tel: + 32 2 420 37 57 - fax: + 32 2 420 02 55
+mailto:esann@dice.ucl.ac.be
+=====================================================
+

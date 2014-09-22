@@ -1,0 +1,104 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Oct  7 08:53:12 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id IAA18410;
+	Wed, 7 Oct 1998 08:53:07 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13935;
+          6 Oct 98 23:23 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13933;
+          6 Oct 98 23:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15645;
+          6 Oct 98 23:20 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa02239; 6 Oct 98 12:23 EDT
+Received: from golden.brown.edu by CS.CMU.EDU id aa13218; 6 Oct 98 12:23:05 EDT
+Received: from [128.148.208.215] (burton.cog.brown.edu [128.148.208.215])
+	by golden.brown.edu (8.8.5/8.8.5) with ESMTP id MAA20300
+	for <connectionists@cs.cmu.edu>; Tue, 6 Oct 1998 12:23:01 -0400 (EDT)
+X-Sender: Annette_Burton@postoffice.brown.edu
+Message-Id: <v04011704b23ff4210eae@[128.148.208.215]>
+Date: Tue, 6 Oct 1998 12:22:56 -0400
+To: connectionists@CS.cmu.edu
+From: Annette Burton <Annette_Burton@Brown.edu>
+Subject: PROGRAM ANNOUNCEMENT
+Status: RO
+X-Status: 
+
+
+Brown University's Departments of Applied Mathematics, Cognitive and
+Linguistic Sciences, and Computer Science have just received a new
+NSF-supported Interdisciplinary Graduate Education, Research and training
+(IGERT) program, with support for Graduate Students.  Could  you please
+post the following message on your list.  Thank you.
+
+Katherine Demuth
+Department of Cognitive and Lingusitic Sciences
+Brown University
+
+
+-------------
+
+	Brown University's Departments of Applied Mathematics,
+	Cognitive and Linguistic Sciences, and Computer Science
+
+			announce
+
+A NEW INTERDISCIPLINARY GRADUATE TRAINING PROGRAM
+
+			    in
+
+LEARNING AND ACTION IN THE FACE OF UNCERTAINTY:
+COGNITIVE, COMPUTATIONAL AND STATISTICAL APPROACHES
+
+Deadline for Applications:  January 1, 1999
+
+Brown University is actively recruiting graduate students for a new
+NSF-supported
+Interdisciplinary Graduate Education, Research and Training (IGERT)
+program in "Learning and Action in the Face of Uncertainty:
+Cognitive, Computational and Statistical Approaches".
+
+The use of probabilistic models and statistical methods has
+had a major impact on our understanding of language, vision, action, and
+reasoning.  This training program provides students with the opportunity to
+integrate a detailed study of human or artificial systems for language
+acquisition and use, visual processing, action, and reasoning with
+appropriate mathematical and computational models.  Students will be enrolled
+in one of the three participating departments (Applied Mathematics,
+Cognitive and Linguistic Sciences, and Computer Science) and will
+study an interdisciplinary program of courses in topics such as
+statistical estimation, cognitive processes, linguistics, and
+computational models.  The aim of this program is to provide promising
+students with a mix of mathematical, computational and experimental
+expertise to carry out multidisciplinary collaborative research across
+the disciplines of Applied Mathematics, Computer Science, and
+Cognitive Science.
+
+Interested students should apply to the participating department
+closest to their area of interest and expertise, and should indicate
+their interest in the IGERT training program in their application.
+Brown University is an Equal Opportunity/Affirmative Action Employer.
+
+
+For additional information about the program, application procedures,
+and ongoing research initiatives please visit our website at:
+
+	http://www.cog.brown.edu/IGERT
+
+or contact
+
+ Dr. Julie Sedivy
+ Department of Cognitive & Linguistic Sciences
+ Brown University, Box 1978
+ Providence, RI 02912
+ USA
+
+Julie_Sedivy@brown.edu
+
+*****************************
+Katherine Demuth
+Dept. of Cognitive & Linguistic Sciences
+Brown University, Box 1978
+Providence, RI 02912
+TEL: (401) 863-1053
+FAX: (401) 863-2255

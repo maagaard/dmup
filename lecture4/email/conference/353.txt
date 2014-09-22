@@ -1,0 +1,72 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Dec 18 06:58:44 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA17908;
+	Sat, 18 Dec 1999 06:58:41 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab21508;
+          17 Dec 99 16:43 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab21506;
+          17 Dec 99 16:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03646;
+          17 Dec 99 16:35 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa24630; 17 Dec 99 13:03 EST
+Received: from dire.bris.ac.uk by edrc.cmu.edu id aa29670; 17 Dec 99 13:03 EST
+Received: from eis.bris.ac.uk by dire.bris.ac.uk with SMTP-PRIV with ESMTP;
+          Fri, 17 Dec 1999 18:03:03 +0000
+Received: from localhost (localhost [127.0.0.1])	by eis.bris.ac.uk (8.9.3/8.9.3) 
+          with SMTP id SAA05641	for <connectionists@cs.cmu.edu>;
+          Fri, 17 Dec 1999 18:02:18 GMT
+Date: Fri, 17 Dec 1999 18:02:18 +0000 (GMT)
+From: N Cristianini <Nello.Cristianini@bristol.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: CFP: Support Vector - Special Issue 
+Message-ID: <Pine.SOL.3.95q.991217180043.6984B-100000@eis.bris.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Please post the following Call for Papers
+thanks
+Nello
+
+       --------------------------------------------------------
+
+Call for papers:
+================
+
+
+           Special Issue of Machine Learning Journal on
+            SUPPORT VECTOR MACHINES AND KERNEL METHODS
+
+
+Guest editors:
+
+Nello Cristianini  (Bristol University, UK - contact person)  
+Colin Campbell     (Bristol University, UK)
+Chris Burges       (Lucent Technologies, USA) 
+
+
+Deadline:          March 15th, 2000
+
+
+More information on the webpage: 
+http://lara.enm.bris.ac.uk/cig/specissue.htm
+
+
+or contact:
+
+Nello Cristianini, 
+Department of Engineering Mathematics, 
+Queen's Building, 
+Bristol University, 
+Bristol BS8 1TR
+United Kingdom
+
+Nello.Cristianini@bristol.ac.uk
+
+
+
+

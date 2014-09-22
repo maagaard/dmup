@@ -1,0 +1,165 @@
+
+
+From hintz@hendrix.imm.dtu.dk  Tue Mar 31 10:31:41 1998
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA26823
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 31 Mar 1998 10:31:40 +0200 (METDST)
+Received: from localhost by hendrix.imm.dtu.dk via SMTP (950413.SGI.8.6.12/940406.SGI)
+	 id KAA28212; Tue, 31 Mar 1998 10:22:27 +0200
+X-Received: from eivind.imm.dtu.dk by hendrix.imm.dtu.dk via ESMTP (950413.SGI.8.6.12/940406.SGI)
+	for <hintz@hendrix.imm.dtu.dk> id PAA24066; Mon, 30 Mar 1998 15:17:16 +0200
+X-Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id PAA22690
+	for <hintz@eivind.imm.dtu.dk>; Mon, 30 Mar 1998 15:26:24 +0200 (METDST)
+X-Received: from romberg.math.ntnu.no (153@romberg.math.ntnu.no [129.241.15.150])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with SMTP id NAA12321
+	for <mhm@imm.dtu.dk>; Mon, 30 Mar 1998 13:27:49 +0200 (METDST)
+X-Received: (qmail 19070 invoked by uid 23554); 30 Mar 1998 11:24:46 -0000
+Delivered-To: tgt+workshop98@math.ntnu.no
+X-Received: (qmail 19063 invoked by uid 23554); 30 Mar 1998 11:24:46 -0000
+From: "Thomas Gorm Theting" <tgt@math.ntnu.no>
+Message-Id: <980330132446.ZM19058@math.ntnu.no>
+Date: Mon, 30 Mar 1998 13:24:45 +0200
+X-Mailer: Z-Mail (4.0.1 13Jan97)
+To: glos.stip@math.ntnu.no, tgt+workshop98@math.ntnu.no,
+        tgt+workshop98contacts@math.ntnu.no
+Subject: Velkommen til 2dre Workshop i industriell matematikk 1998
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+ReSent-Date: Tue, 31 Mar 1998 10:21:43 +0200 (METDST)
+ReSent-From: Mads Hintz-Madsen <hintz@hendrix.imm.dtu.dk>
+ReSent-To: Finn Aarup Nielsen <fnielsen@hendrix.imm.dtu.dk>,
+        "Pedro H. Soerensen" <phs@hendrix.imm.dtu.dk>
+ReSent-Message-ID: <Pine.SGI.3.96.980331102143.28200A@hendrix.imm.dtu.dk>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id KAA26823
+Status: RO
+X-Status: 
+
+
+  Andre Workshop i Industriell Matematikk for Nordiske Doktorstudenter.
+  _____________________________________________________________________
+
+  Orkanger, fredag 4de til søndag 6te september 1998.
+  Første annonsering.
+
+
+
+
+Velkommen,
+
+Det er med glede at vi nå kan innby deg til den årlige begivenheten,
+som denne gangen skal foregå i helgen fra 4de til 6te september 1998,
+ved Bårdshaug Herregård, Orkanger, like ved Trondheim.
+
+Dette er en første annonsering av Workshoppen, og den blir sent ut
+nå, fordi vi vil informere og gjerne vite om du kan tenke deg å
+delta på denne workshoppen.
+
+Vi kommer tilbake med mer informasjon, en formell annonsering og
+innkallelse av sammendrag senere. Det er laget en webside som oppdateres
+gjevnlig med siste nytt, denne ligger på
+"http://www.math.ntnu.no/~tgt/workshop/2ndworkshop.html".
+
+Tidsplan:
+	1.mai  Andre annonsering sendes ut.
+	1.juni Frist for innsending av sammendrag (abstract).
+	4-6 september, 2dre workshop i Industriell Matematikk for
+			nordiske doktorstudenter starter.
+
+
+For de av dere som ikke har vært med på dette før skal jeg her gi
+en rask oppsummering av hva det handler om:
+
+Bakgrunn
+
+The European Consortium for Mathematics in Industry, ECMI, er et nettverk
+av matematiske institutter ved en rekke europeiske universiteter.
+Nettverket ivaretar koordinering av utdannelser på siv.ing nivå (Master
+of Science nivå), utveksling av forelesere og studenter samt  forsker-
+arbeider. ECMIs målsetting er å fremme bruken av matematiske modeller i
+industrien, samt å utdanne industrielle matematikere som kan imøtekomme
+et stigende behov for denne ekspertisen. Som avstikker fra ECMI programmet
+er vi interessert i å danne et nettverk av Nordiske doktorstudenter
+innenfor feltet industriell matematikk.
+
+Et slikt nettverk vil være av stor betydning for å  skape faglige
+bånd innenfor det Nordiske doktor studiemiljøet. Det er tanken, at
+workshopen skal være en årlig tilbakevendene begivenhet, hvor de tre
+landene, Danmark, Sverige og Norge, bytter på å være verter.
+I 1997 ble et vellykket arrangement avholdt av Institut for Matematik ved
+Danmarks Tekniske Universitet.
+
+Utlysning
+
+Workshopen utlyses i to trinn; dels ved en første gangs utlysning
+for å skape interesse og få en tilbakemelding fra de forskjellige
+landene, dels ved en formell annen annonsering med innkaldelse av
+sammendrag. Et viktigt element i kommunikasjonen mellom de forskjellige
+landene er elektronisk post. Denne formen for kommunikasjon vil være
+raskest og mest effektiv.
+
+Vitenskapelig program
+Hver dag i konferansen begynner med et innlegg av en invitert foredrags-
+holder fra industrien eller forskningsinstitutt. Det faglige innhold i
+workshopen vil være bredt fordelt over emner innenfor matematikken,
+som har industriell interesse. Det er syv emnegrupper, disse er som
+følger.
+
+*  Statistikk og operasjonsanalyse
+*  Diskret matematikk
+*  Kontroll og optimering
+*  Geometri
+*  Dynamiske systemer
+*  Partielle differensialligninger
+*  Signalbehandling
+
+Det vil bli knyttet en faglig ansvarlig til hver gruppe som ivaretar
+utvelgelsen på bakgrunn av innsendt sammendrag.
+
+Sosialt program
+Da en del av hele formålet med workshopen er å danne et nettverk
+innenfor industriell matematikk i Norden, er tanken at alle deltagerene
+skal innlosjeres på samme sted slik at sosiale og faglige bånd kan
+knyttes også utenfor det formelle arrangementet. Utover dette er det
+planlagt å reise på fisketur på lørdag ettermiddag for å styrke
+disse båndene.
+
+Deltagere
+Deltagerene skal være doktorgrads studenter fra  Nordiske land.
+Det er satt et tak på 35 deltagere for at gruppen skal kunne opptre
+som en enhet og det skal være mulig for alle å få presentert sitt
+foredrag innen den gitte tidsrammen.
+
+Økonomi
+Kostnader for en enkelt kursdeltager er transportutgifter og
+kursopphold samt utgifter til fisketuren.
+Utover dette er det utgifter til foredragsholdere fra industrien,
+administrative utgifter.
+
+Det er tanken at transportutgiftene til og fra kursstedet dekkes
+av doktorstudentene selv, mens deler av de øvrige utgifter håper
+vi å få dekket ved andre midler. Et foreløbig anslag for prisen
+er 1800 NOK pr. deltager.  Vi vil komme tilbake med mere informasjon
+om den endelige prisen.
+
+
+Jeg håper at dette har gitt deg lyst til å komme du også. Jeg ser
+frem til å høre fra deg. Om du har noen spørsmål så sende meg gjerne
+en mail (mailadresse: Thomas.Theting@math.ntnu.no).
+
+
+Med vennlig hilsen
+
+Thomas Gorm Theting
+Arrangørkommiteen
+
+
+-- 
+_______________________________________________________________________
+
+Thomas Gorm Theting                       Dep. of Mathematical Sciences,
+Osloveien 58 B                            NTNU, Gloshaugen,
+N-7018 Trondheim                          N-7034 Trondheim 
+Norway                                    Norway        
+Tlf +47/73532120                          Tlf +47/735 91650

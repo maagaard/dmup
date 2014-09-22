@@ -1,0 +1,402 @@
+
+
+From pascal@icsc.ab.ca Tue Nov  9 23:08:02 MET 1999
+Received: from bernie.compusmart.ab.ca (mail.tarrabain.net [199.185.130.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id XAA12322
+	for <fnielsen@ei.dtu.dk>; Tue, 9 Nov 1999 23:08:01 +0100 (MET)
+Received: from remote1028.compusmart.ab.ca ([207.34.91.56]:1102 "HELO user920.kel1volnet5.net") by mail.compusmart.ab.ca with SMTP id <36370-256>; Tue, 9 Nov 1999 14:45:08 -0700
+To: fmontoya@dif.um.es
+From: pascal@icsc.ab.ca
+Subject: Engineering of Intelligent Systems
+Reply-To: pascal@icsc.ab.ca
+Message-Id: <19991109214520Z36370-256+998@mail.compusmart.ab.ca>
+Date: 	Tue, 9 Nov 1999 14:45:08 -0700
+Status: RO
+X-Status: 
+
+We apologize for any possible cross-postings. Please note slightly rectified dates.
+
+ANNOUNCEMENT / CALL FOR PAPERS
+
+Second International ICSC Symposium on
+ENGINEERING OF INTELLIGENT SYSTEMS / EIS'2000
+To be held at the University of Paisley, Scotland, U.K.
+June 27-30, 2000
+
+http//www.icsc.ab.ca/eis2000.htm
+
+EIS'2000 is co-sponsored by 
+The Institution of Electrical Engineers (IEE),
+The University of Paisley and 
+ICSC International Computer Science Conventions
+
+
+INTRODUCTION
+
+The EIS conference series pursue the synthesis of Artificial Intelligence techniques with
+Control Engineering methods to produce Intelligent Systems for Engineering applications. 
+In recent years, the combination of Control Engineering and extensive knowledge of AI techniques has allowed scientists and practitioners to make a number of significant 
+contributions to this rapidly developing field, for example in qualitative control, 
+fuzzy qualitative simulation and model based diagnosis, Artificial Neural Networks 
+(ANNs), Genetic Algorithms (GAs), Fuzzy Logic (FL), and Neuro-Fuzzy Systems (NFS).
+
+The EIS conference series intend to provide researchers and practitioners from industry 
+and academia with a platform to report on recent developments in the area of intelligent
+systems with focus on applications of computational intelligence techniques to 
+engineering systems. The meeting will also provide a venue for dialogues between 
+software engineers, systems designers and knowledge engineers.
+
+The first very successful conference in the series was held in Tenerife, in February 
+1998 and the follow up event will be held in cooperation with the University in Malaga,
+Spain, in the year 2002. 
+
+*************************************************
+
+
+TOPICS
+
+Contributions are sought in areas based on the list below, which is indicative only. 
+Contributions from new applications areas are particularly welcome.
+
+THEORY
+- Artificial Immune Systems
+- Artificial Life
+- Case-based Reasoning
+- Chaos
+- Constraint Satisfaction and Constraint Programming
+- Expert Systems
+- Fuzzy Logic
+- Genetic Algorithm
+- Hybrid Systems
+- Intelligent Agents
+- Knowledge Extraction
+- Machine Learning
+- Model based and Qualitative Reasoning
+- Multi Agent Systems
+- Neural Networks
+- Wavelets
+
+
+APPLICATIONS
+- Concurrent Engineering
+- Condition Monitoring and Control
+- Damage Assessment
+- Data Mining and Knowledge Exraction
+- Design
+- Emerging Organizational Forms
+- Hardware Implementations
+- Image Processing and Computer Vision
+- Industrial Diagnostics
+- Management
+- Monitoring and Control
+- Multimedia
+- Natural Language Processing
+- Pattern Recognition
+- Product Development
+- Resource Allocation
+- Remote Sensing
+- Robotics
+- Security
+- Signal Processing
+- Speech Processing and Regognition
+
+
+SPECIAL SESSIONS
+Papers are particularly sought for the following special sessions which are expected 
+to attract wide international interest
+- Artificial Immune Systems (Dipankar Dasgupta, University of Memphis, USA)
+- Intelligent Mechatronics (Mark Girolami, University of Paisley, Scotland, U.K.)
+- Speech Processing (Amir Hussain, University of Dundee, Scotland, U.K.)
+- Machine Vision (Norbert Krueger, Technical University of Kiel, Germany)
+
+*************************************************
+
+
+SYMPOSIUM ORGANIZATION
+
+- HONORARY CHAIR
+  Erkki Oja
+  Helsinki University of Technology
+  Department of Computer Science
+  P.O.B. 5400
+  SF - 02015 HUT / Finland
+  Email     erkki.oja@hut.fi
+  Fax        +358-9-451-3277
+
+
+- GENERAL CHAIR
+  Colin Fyfe
+  University of Paisley
+  Computing & Information Systems
+  High Street
+  Paisley PA1 2DE / Scotland / U.K.
+  Email     fyfe0ci@paisley.ac.uk
+  Fax        +44-141-848-3542
+
+
+- VICE CHAIR
+  J. Ruiz-Gomez
+  Universidad de Malaga
+  Ingenieria de Sistemas y Automatica
+  Campus de Teatinos
+  E - 29071 Malaga / Spain
+  Email     ruizg@ctima.uma.es
+  Fax        +34-952-133-361
+
+ 
+- SYMPOSIUM ORGANIZER
+  ICSC International Computer Science Conventions
+  P.O. Box 279 
+  Millet, Alberta T0C 1Z0 / Canada
+  Phone    +1-780-387-3546
+  Fax        +1-780-387-4329
+  Email      operating@icsc.ab.ca (Operating Division)
+                 planning@icsc.ab.ca (Planning Division)
+  WWW    http//www.icsc.ab.ca
+
+
+INTERNATIONAL STEERING COMMITTEE
+C. Fyfe (Chair), University of Paisley, Scotland
+E. Alpaydin, Bogazici University, Turkey
+R. Avila, University of Idaho, USA / Honduras 
+A. Cichocki, FRP, RIKEN, Japan 
+D. Dasgupta, University of Memphis, USA 
+H. Demuth, University of Idaho, USA 
+M. Fathi-Torbagahn, University of Dortmund, Germany 
+R. Gallard, Universidad Nacional de San Luis, Argentina 
+K. Kurbel, University Viadrina Frankfurt, Germany 
+R. Lopez de Mantaras, Universitat Autonoma de Barcelona, Spain 
+G. N. Marichal, University of La Laguna Tenerife, Spain
+F. Masulli, University of Genova, Italy 
+H. J. Sebastian, RWTH Aachen, Germany 
+B. Stilman, University of Colorado at Denver, USA 
+E. Szczerbicki, University of Newcastle, Australia 
+H. Tian, Tongji University Shanghai, P.R. China 
+
+
+INTERNATIONAL PROGRAM COMMITTEE
+L. Acosta, University of La Laguna Tenerife, Spain
+L. Almeida, INESC, Lisbon, Portugal 
+E. Alpaydin, Bogazici University Istanbul, Turkey 
+R. Avila, University of Idaho, USA / Honduras 
+S. Barro, University Santiago de Compostela, Spain
+P. Bosc, IRISA/ENSSAT, France 
+H. Bothe, University of Oerebro, Sweden
+R. Brown, ManSA, Australia 
+J. Cabestany, Universidad Politecnica de Catalunya, Spain 
+A. Cichocki, FRP, RIKEN, Japan 
+R. Conejo, Universidad de Málaga, Spain 
+B. Cremilleux, University de Caen, France
+D. Dasgupta, University of Memphis, USA 
+R. De Keyser, University of Gent, Belgium 
+H. Demuth, University of Idaho, USA 
+A. Dobnikar, University of Ljubljana, Slovenia 
+M. Fathi-Torbagahn, University of Dortmund, Germany 
+R. Gallard, Universidad Nacional de San Luis, Argentina
+A. Garcia-Cerezo, University of Malaga, Spain
+Z. Gomolka, Uniwersytet Szczecinski, Szczecin, Poland 
+A. Gunasekaran, University of Massachusetts, USA
+F. Gurgen, Bogazici University, Turkey/Australia
+D. Heiss-Czedik, TU Vienna, Austria
+M. Heiss, Siemens Vienna, Austria
+R. Howlett, University of Brighton, U.K
+A. Hussain, University of Dundee, U.K.
+E. Ifeachor, University of Plymouth, U.K. 
+Ch. Irgens, University of the West of England Bristol, U.K.
+M. Jamshidi, University of New Mexico, USA 
+S. Jeganathan, Victoria University Melbourne, Australia 
+C.A. Kaestner, Centro Federal de Educacao Tecnologica do Parana Curitita, Brazil 
+G. Kock, GMD FIRST, Berlin, Germany
+P. Kokol, University of Maribor, Slovenia
+K. Kurbel, University Viadrina Frankfurt, Germany 
+B. Lees, University of Paisley, U.K.
+T.Y. Lin, San Jose State University , USA 
+E. Massad, University of São Paolo, Brazil 
+F. Masulli, University of Genova, Italy 
+L. Moreno, University of La Laguna Tenerife, Spain 
+M. Nakajima, Tokyo Institute of Technology, Japan 
+Ch. Nguyen, Catholic University of America, USA
+Orlowski, University of Gdansk, Poland
+K. Passino, The Ohio State University, USA 
+D. Pearson, EMA ­ EERIE, France 
+W. Pedrycz, University of Alberta, Canada 
+I. Philippow, Technical University Illmenau, Germany 
+H. Prade, Université Paul Sabatier, France 
+B. Reusch, University of Dortmund, Germany
+B. Roffel, University of Twente, Netherlands 
+H.-J. Sebastian, RWTH Aachen, Germany 
+N. Steele, Coventry University, U.K. 
+B. Stilman, University of Colorado at Denver, USA 
+E. Szczerbicki, University of Newcastle, Australia 
+A. Tharumarajah, CSIRO, Australia
+H. Tian, Tongji University Shanghai, P.R. China 
+M. Ulieru, University of Calgary, Canada
+J.L. Verdegay, University of Granada, Spain 
+D. Wend, University of Duisburg, Germany
+K. Zreik, University of Caen, France
+
+*************************************************
+
+
+SCIENTIFIC PROGRAM
+
+EIS'2000 will include invited plenary talks, contributed sessions, invited sessions,
+workshops and tutorials. 
+
+*************************************************
+
+
+INVITED SESSIONS
+
+The organization of invited sessions is encouraged. Prospective organizers are 
+requested to send a session proposal (consisting of 4-5 invited papers, the recommended session-chair and co-chair, as well as a short statement describing the title and the 
+purpose of the session to the Symposium Chairman or the Symposium Organizer. Invited 
+sessions should preferrably start with a tutorial paper. The registration fee of the 
+session organizer will be waived, if at least 4 authors of invited papers register to 
+the conference.
+
+*************************************************
+
+
+POSTER PRESENTATIONS
+
+Poster presentations are encouraged for people who wish to receive peer feedback and 
+practical examples of applied research are particularly welcome. Poster sessions will 
+allow the presentation and discussion of respective papers, which will also be included 
+in the conference proceedings.
+
+*************************************************
+
+
+CALL FOR WORKSHOPS, TUTORIALS AND OTHER CONTRIBUTIONS
+
+Proposals should be submitted as soon as possible to the Symposium Chairman or the
+Symposium Organizer. 
+
+*************************************************
+
+
+SUBMISSION OF PAPERS
+
+Prospective authors are requested to either send a draft paper (maximum 7 pages) or an 
+extended abstract for review by the International Program Committee. All submissions must 
+be written in English, starting with a succinct statement of the problem, the results 
+achieved, their significance and a comparison with previous work. 
+
+Submissions must be received by November 30, 1999.
+
+The submission should also include
+- Title of conference (EIS'2000)
+- Type of paper (regular, poster, tutorial, invited or dedication to special session)
+- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+- Short CV of authors (recommended)
+
+Contributions are welcome from those working in industry and having experience in the 
+topics of this conference as well as from academics. The conference language is English. 
+
+It is strongly recommended to submit abstracts by electronic mail to 
+
+  operating@icsc.ab.ca
+
+or else by fax or mail (2 copies) to the following address
+
+  ICSC Canada 
+  P.O. Box 279
+  Millet, Alberta T0C 1Z0
+  Canada
+  Fax +1-780-387-4329
+
+*************************************************
+
+
+BEST PRESENTATION AWARDS
+
+The best oral and poster presentations will be honored with best presentation awards.
+
+*************************************************
+
+
+PUBLICATIONS
+
+Conference proceedings (including all accepted papers) will be published by ICSC 
+Academic Press and be available for the delegates at the symposium in printed form 
+or on CD-ROM.
+
+Authors of a selected number of innovative papers will be invited to submit extended 
+manuscripts for publication in prestigious international journals.
+
+*************************************************
+
+
+IMPORTANT DATES
+
+- Submission Deadline           November 30, 1999
+- Notification of Acceptance    January 31, 2000
+- Delivery of full papers       March 15, 2000
+- Tutorials and Workshops       June 29, 2000
+- EIS'2000 Symposium            June 27-30, 2000
+
+*************************************************
+
+
+ACCOMMODATION
+
+Accommodation at reasonable rates will be available at nearby hotels and within 
+student residences at the University of Paisley. Full details will follow with the 
+letters of acceptance.
+
+*************************************************
+
+
+SOCIAL AND TOURIST ACTIVITIES
+
+A social program will be organized and also be available for accompanying persons.
+
+*************************************************
+
+
+THE CITY OF PAISLEY
+
+Paisley has always been colourful. With a population of over 79,000, it is the largest 
+town in Scotland, but its scale and character make it a friendly place to study and 
+live. Today Paisley is home to a diverse range of modern industries including 
+engineering, chemicals, food, oil, microelectronics and computer systems.
+
+Back in the 19th Century, the town’s fame and prosperity came in the shape of 
+beautifully patterned Paisley shawls which were made by local weavers and exported 
+throughout the world. Paisley’s other main industry of the era was thread-making in 
+massive mills that stood along the banks of the River Cart. Today, there’s an 
+excellent variety of shops, restaurants, bars and nightclubs. The Lagoon Leisure 
+Centre includes saunas, solarium and an Olympic sized ice rink. Regular exhibitions 
+and events covering every area of the arts add to the town’s cultural calendar. You 
+can enjoy the great outdoors in numerous parks and gardens including the Gleniffer 
+Braes Country Park which covers 1300 acres of woodland and moorland.
+
+*************************************************
+
+
+FURTHER INFORMATION
+
+Full updated information is available from
+
+http//www.icsc.ab.ca/eis2000.htm
+
+or contact
+
+- ICSC International Computer Science Conventions 
+  P.O. Box 279, Millet, Alberta T0C 1Z0 / Canada
+  Email  operating@icsc.ab.ca (Operating Division)
+         planning@icsc.ab.ca (Planning Division)
+  Phone  +1-780-387-3546
+  Fax    +1-780-387-4329
+
+- Prof. Colin Fyfe (EIS'2000 General Chair)
+  University of Paisley,  Computing & Information Systems
+  High Street,  Pasiley PA1 2DE,  Scotland / U.K.
+  Email  fyfe0ci@paisley.ac.uk
+  Fax    +44-141-848-3542 
+

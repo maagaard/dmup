@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Dec  5 20:38:55 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA08266;
+	Sat, 5 Dec 1998 20:38:49 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13263;
+          5 Dec 98 13:06 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13261;
+          5 Dec 98 12:53 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06682;
+          5 Dec 98 12:53 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa08138; 5 Dec 98 12:27 EST
+Received: from tractatus.rutgers.edu by EDRC.CMU.EDU id aa11572;
+          5 Dec 98 12:27:23 EST
+Received: from tractatus.rutgers.edu by tractatus.rutgers.edu (SMI-8.6/SMI-SVR4)
+	id MAA22749; Sat, 5 Dec 1998 12:30:53 -0500
+Message-ID: <36695EC0.E84032E5@tractatus.rutgers.edu>
+Date: Sat, 05 Dec 1998 12:26:40 -0400
+From: Stephen Jose Hanson <jose@tractatus.rutgers.edu>
+Organization: Rutgers University
+X-Mailer: Mozilla 4.03 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>,
+        "cogpsy@coglit.soton.ac.uk" <cogpsy@coglit.soton.ac.uk>
+Subject: POSTDOC in BRAIN IMAGING & COMPUTATION RDLDL & RUMBA
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Rutgers RUMBA (Rutgers Mind/Brain Analysis) Center and Rutgers DLDL
+(Distributed Laboratories for Digital Libraries) has an immediate
+opening for a Postdoctural Researcher in
+area of Functional Brain Imaging and Neural Computation--see ad below:
+
+RUTGERS UNVERSITY (RDLDL & RUMBA) seeking a post-doctoral researcher
+with experience in brain imaging and computation (neural networks
+etc..), to work on problems related to brain function and information
+finding tasks.  The underlying questions are (1) does the brain of a
+person doing fundamental tasks such as scanning for a given image, for a
+given term, or for terms or images related to a given concept, exhibit
+patterns of activation that distinguish these states from other states
+associated with other types of information processing (2) if such states
+and patterns of activation exist, can knowledge of them be used to
+improve our understanding of the cognitive aspects of information
+finding, and ultimately, to improve the systems used to perform those
+tasks.
+
+The successful candidate will work closely with Profs. Martin-Bly,
+Hanson and Kantor in the UMDNJ-Rutgers (RUMBA) functional imaging
+laboratories.  The starting time for the position
+is in January 1999.
+
+Rutgers University is an equal opportunity/affirmative action employer.
+Qualified women and minority candidates are especially encouraged to
+apply. Send CV and three letters of recommendation and 2 reprints to
+Professor B. Martin Bly, Department of PsychologyRDLDL/RUMBA SEARCH,
+Rutgers University, Newark, NJ 07102.   Also see:
+http://diglib.rutgers.edu/RDLDL/ & http//www.psych.rutgers.edu/~RUMBA.
+Preferably send material through email:  Please send email with subject
+header--RDLDL or RUMBA with application material to
+ben@psychology.rutgers.edu or jose@psychology.rutgers.edu.

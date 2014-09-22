@@ -1,0 +1,81 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu May  6 19:43:25 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA29029;
+	Thu, 6 May 1999 19:43:14 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab04590;
+          6 May 99 9:48 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa04559;
+          6 May 99 9:37 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26037;
+          6 May 99 9:37 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa16438; 6 May 99 7:18 EDT
+Received: from [143.210.16.125] by RI.CMU.EDU id aa24056; 6 May 99 7:18:24 EDT
+Received: from violet.le.ac.uk ([143.210.15.12])
+	by apollo.le.ac.uk with esmtp (Exim 2.12 #1)
+	id 10fMA1-0003RZ-00; Thu, 6 May 1999 12:17:49 +0100
+Received: from VIOLET/SpoolDir by violet.le.ac.uk (Mercury 1.44);
+    6 May 99 12:19:02 +0100 (BST)
+Received: from SpoolDir by VIOLET (Mercury 1.43); 6 May 99 12:18:50 +0100 (BST)
+From: "Tim .C. Pearce" <tcp1@leicester.ac.uk>
+To: cns-interest@cns.caltech.edu,
+        Comp-Neuro Mailing List <cneuro@bbb.caltech.edu>,
+        connectionists@cs.cmu.edu
+Date: Thu, 6 May 1999 12:18:40 +0100 (BST)
+MIME-Version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+Subject: Studentship Opportunity
+Priority: normal
+Message-ID: <350B7A7964@violet.le.ac.uk>
+Status: RO
+X-Status: 
+
+
+Postgraduate Studentship in Neuromorphic Engineering
+
+
+An opportunity exists for a studentship in the broad area of
+neuroinformatics and sensory information processing. A wide range of 
+possible research topics will be considered relating to artificial 
+and biological olfaction (smell) including but not limited to: 
+optical chemical sensing for artificial olfaction, sign processing 
+for chemical sensor arrays using classical or neuromorphic pattern 
+recognition approaches, discrete electronic or silicon 
+implementations of neurones for sensory processing, and/or data 
+processing of electrophysiological data from the biologic olfactory 
+bulb in order to investigate the coding of odour information. 
+
+The successful candidate will obtain an upper second class honours 
+degree or better in a relevant discipline, including all areas of 
+engineering, computer science, mathematics, chemistry, physics or 
+biology. Computer literacy and evidence of mathematical ability will 
+be seen as a distinct advantage. The award will includ full-time fees 
+for higher degree registration and a maintenance grant of 8,000 
+pounds sterling p.a. for which students may be required to contribute 
+to laboratory demonstration within the department (up to a maximum of 
+6 hours/week).
+
+For further details and informal discussions contact Dr. Tim Pearce, 
+Tel: +44 (0) 116 223 1290, E-mail: t.c.pearce@le.ac.uk. Those 
+interested should submit a CV and single page statement of potential 
+research interests to Dr. Tim C. Pearce, Department of Engineering, 
+University of Leicester, University Road, Leicester LE1 H, United 
+Kingdom. In order to guarantee consideration, applications should be 
+submitted by June 18th, 1999, although the studentship will remain 
+open until a suitable candidate has been found.
+
+The University of Leicester is an equal opportunities employer. 
+
+  Regards,
+
+  Tim.
+
+--
+T.C. Pearce, PhD              URL: http://www.leicester.ac.uk/engineering/
+Lecturer in Bioengineering              E-mail: t.c.pearce@leicester.ac.uk
+Department of Engineering                         Tel: +44 (0)116 223 1290
+University of Leicester                           Fax: +44 (0)116 252 2619
+Leicester LE1 7RH                Bioengineering, Transducers and
+United Kingdom                       Signal Processing Group

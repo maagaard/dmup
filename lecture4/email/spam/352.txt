@@ -1,0 +1,28 @@
+
+
+From rebo@cyberspy.com Mon Mar 29 00:49:47 MET 1999
+Received: from ns.idca.com (ns.idca.com [199.76.24.20])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id AAA20420
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 29 Mar 1999 00:49:45 +0200 (METDST)
+From: rebo@cyberspy.com
+Received: [from hqpu.unnuh.uhoh.com (C15.cyberspy.com [207.115.220.66] (may be forged)) by ns.idca.com (confCF_VERSION) with SMTP id SAA29715 for <fnielsen@eivind.imm.dtu.dk>; Sun, 28 Mar 1999 18:08:43 -0500 (EST)]
+Message-Id: <199903281641.DWF4950@hqpu.unnuh.uhoh.com>
+Date: Sun, 28 Mar 1999 4:41:08 PM
+Subject: Free Security Newsletter
+X-UIDL: 870484110.562
+To: fnielsen@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+Dear fnielsen@eivind.imm.dtu.dk
+
+Your invitation to receive a monthly Free Newletter
+concerning Computer security & Spammers.
+
+No other mailings will follow-you are not on a list
+
+http://www.hackersecurityupdate.com
+
+or
+
+http://www.securityupdate.com

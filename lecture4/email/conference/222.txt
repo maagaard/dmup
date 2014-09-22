@@ -1,0 +1,293 @@
+
+
+From Anton.Antonov.Antonov@uni-c.dk  Thu Feb 18 15:10:13 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id PAA23350;
+	Thu, 18 Feb 1999 15:10:09 +0100 (MET)
+Received: from unidhp1.uni-c.dk (unidhp1.uni-c.dk [130.228.1.2])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id PAA27769
+	for <phd_at_imm@imm.dtu.dk>; Thu, 18 Feb 1999 15:12:03 +0100 (MET)
+Received: from localhost (anton@localhost)
+	by unidhp1.uni-c.dk (8.9.2/8.9.2) with SMTP id PAA05381
+	for <phd_at_imm@imm.dtu.dk>; Thu, 18 Feb 1999 15:12:03 +0100 (MET)
+Date: Thu, 18 Feb 1999 15:12:02 +0100 (MET)
+From: Anton Antonov <Anton.Antonov.Antonov@uni-c.dk>
+To: "Ph.d. at IMM" <phd_at_imm@imm.dtu.dk>
+Subject: Call For Papers, Int'l Conferences PDPTA/CISST/IC-AI'99, Las Vegas, June 28, 1999 (fwd)
+Message-ID: <Pine.HPP.3.95.990218150811.1049E-100000@unidhp1.uni-c.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+Dear Colleagues:
+
+I would appreciate your assistance in distributing the appended
+conferences' Call For Papers (PDPTA'99, CISST'99, & IC-AI'99)
+to your colleagues.  Submission deadline for the draft papers
+is March 1, 1999.  The three conferences will be held
+simultaneously (same dates and location) at Monte Carlo Resort,
+Las Vegas, Nevada, USA (June 28 - July 1, 1999).  Each conference
+will have its own set of conference proceedings.
+
+Any help in publicizing the conferences would be most appreciated.
+
+There is still time to propose technical sessions (in particular
+for CISST'99 and IC-AI'99) - names of session proposers/chairs
+will appear as Associate Editors of the conference proceedings.
+
+Kindest regards,
+Hamid R. Arabnia
+General Chair, PDPTA'99/CISST'99/IC-AI'99
+Editor-in-Chief, Journal of Supercomputing (Kluwer)
+hra@cs.uga.edu
+-----------------------------------------------------------------
+
+                 C a l l   F o r    P a p e r s
+                 ==============================
+
+1.  The 1999 International Conference on Parallel and Distributed
+    Processing Techniques and Applications (PDPTA'99)
+    June 28 - July 1, 1999, Monte Carlo Resort, Las Vegas, Nevada,
+    USA.  http://www.jhpc.org/pdpta
+
+2.  The 1999 International Conference on Imaging Science, Systems,
+    and Technology (CISST'99)
+    June 28 - July 1, 1999, Monte Carlo Resort, Las Vegas, Nevada,
+    USA.  http://www.cps.udayton.edu/~pan/cisst
+
+3.  The 1999 International Conference on Artificial Intelligence
+    (IC-AI'99)
+    June 28 - July 1, 1999, Monte Carlo Resort, Las Vegas, Nevada,
+    USA.  http://www.jhpc.org/icai
+    (We can do with a lot of help with this one.  Anyone who is
+    interested in assuming a leadership position with this
+    conference, please contact me soon, hra@cs.uga.edu.)
+
+You are invited to submit a draft paper of about 4 pages and/or
+proposal to organize a technical session (see below for submission
+procedure).  All accepted papers will be published.
+THE NAMES OF TECHNICAL SESSION CHAIRS WILL APPEAR AS ASSOCIATE
+EDITORS ON THE COVER OF THE CONFERENCES PROCEEDINGS.
+
+SCOPE OF PDPTA'99 - Topics of interest include, but are not limited
+to, the following:
+
+    Parallel/Distributed applications: Numerical computations/methods,
+    neural networks and fuzzy logic, medicine, remote sensing, GIS,
+    computer vision, computer graphics and virtual reality,
+    parallel/distributed databases, banking, financial markets, ...
+    Parallel/Distributed architectures: Clusters and parallel systems,
+    MIMD, SPMD, SIMD, Systolic, vector/pipeline (supercomputers),
+    shared memory, distributed memory, instructional level
+    parallelism, ...  Building block processors; Networks and
+    Interconnection networks: Scalable networks, Reconfigurable
+    networks, routing issues, general-purpose network performance
+    for distributed applications, network protocols, ATM-based
+    systems, internet technology, Optical interconnections and
+    computing,  ...  Reliability and fault-tolerance; Performance
+    analysis, evaluation, prediction, ...  Real-time and embedded
+    systems; Parallel/Distributed algorithms; Mobile computation and
+    communication; Object Oriented Technology and related issues;
+    Multimedia Communications, Systems, and Applications; Software
+    tools and environments for parallel and distributed platforms;
+    High-performance computing in Computational Science; Information
+    and data fusion; Web-based simulation and computing; Other aspects
+    and applications relating to high-performance computations.
+
+SCOPE OF CISST'99 - Topics of interest include, but are not limited
+to, the following:
+
+    Image generation, acquisition, and processing; Image display techniques;
+    Image data structures and databases; Convergence of imaging media
+    (video and computer); Virtual reality; Image compression, coding, and
+    encryption; Tools for multimedia production and services; Digital
+    imaging for film and television; Visualization; Scene and object
+    modeling; Knowledge acquisition; Visual inspection; Document image
+    understanding; Image algebra; Optical image processing systems;
+    Mathematical morphology; Architecture of imaging and vision systems
+    (including, parallel architectures and algorithms); Neural network
+    techniques and fuzzy logic; Performance analysis and evaluation;
+    Software tools and environments for imaging; Animation; Geometric
+    modeling and Fractals; CAD/CAM systems; Rendering techniques;
+    Applications including: medicine, robotic, GIS, Remote sensing,
+    industrial inspection (or machine vision); nondestructive evaluation
+    (or NDE); Multi-resolution and multi-spectral image processing;
+    Image sequence processing; Information fusion; Other aspects and
+    applications relating to imaging science.
+
+SCOPE OF IC-AI'99 - Topics of interest include, but are not limited
+to, the following:
+
+    Intelligent Information Systems, Intelligent Software Engineering,
+    Intelligent Agents, Intelligent Networks, Intelligent Databases,
+    Brain Models, Evolutionary Algorithms, Data mining, Machine Learning,
+    Reasoning Strategies, Automated Problem Solving, Distributed AI
+    Algorithms and Techniques, Distributed AI Systems and Architectures,
+    Expert Systems, Fuzzy Logic, Genetic Algorithms, Heuristic Searching,
+    Knowledge Acquisition, Knowledge Discovery, Knowledge Representation,
+    Knowledge-Intensive Problem Solving Techniques, Languages and
+    Programming Techniques for AI, Software Tools for AI, Natural
+    Language Processing, Neural Networks and Applications, Multisource
+    Information Fusion - Theory and Applications, Multisource-Multisensor
+    Data Fusion, Learning and Adaptive Sensor Fusion, Multisensor Data
+    Fusion Using Neural and Fuzzy Techniques, Integration of AI with
+    other Technologies, Evaluation of AI Tools, Social Impact of AI,
+    Applications in: Computer Vision, Signal Processing, Military,
+    Surveillance, Robotics, Medicine, Pattern Recognition, Face
+    Recognition, Finger Print Recognition, Finance and Marketing,
+    Stock Market, Education, and Emerging Applications.
+
+
+SUBMISSION OF PAPERS:
+
+      Prospective authors are invited to submit three copies of their
+      draft paper (about 4 pages) to H. R. Arabnia (address is given
+      below) by the due date.  E-mail and Fax submissions are also
+      acceptable.  The length of the Camera-Ready papers (if accepted)
+      will be limited to 7 pages.  Papers must not have been
+      previously published or currently submitted for publication
+      elsewhere.
+
+      The first page of the draft paper should include: title of the
+      paper, name, affiliation, postal address, E-mail address,
+      telephone number, and Fax number for each author.  The first
+      page should also include the name of the author who will be
+      presenting the paper (if accepted), the conference in which
+      the paper is being submitted to (PDPTA'99, CISST'99, or IC-AI'99),
+      and a maximum of 5 keywords.
+
+
+PROPOSAL FOR ORGANIZING TECHNICAL SESSIONS:
+
+      Each technical session will have  at least 6 paper presentations.
+      The session chairs will be responsible for all aspects of their
+      sessions; including, soliciting papers, reviewing, selecting, ...
+      The names of session chairs will appear as Associate Editors in
+      the conference proceedings.  After the conferences, some sessions
+      will be considered for publication in appropriate journals as
+      Special Issues with the session proposer as the Guest Editor
+      of the journal.
+
+      Proposals to organize technical sessions should include the
+      following information: name and address (+ E-mail) of proposer,
+      title of session, a 100-word description of the topic of the
+      session, and a short description on how the session will
+      be advertised (in most cases, session proposers solicit papers
+      from colleagues and researchers whose work is known to the
+      session proposer).
+      Mail your proposal to H. R. Arabnia (address is given below);
+      E-mail submissions are preferred.
+
+EVALUATION PROCESS:
+
+      Papers will be evaluated for originality, significance, clarity,
+      and soundness.  Each paper will be refereed by two researchers in
+      the topical area.  The Camera-Ready papers will be reviewed by
+      one person.
+
+
+PUBLICATION:
+
+      The conference proceedings for each conference (PDPTA'99, CISST'99,
+      and IC-AI'99) will be published by CSREA Press (ISBN).
+      Proceedings will be available at the conferences.  All accepted
+      papers will also be considered for journal publication (soon after
+      the conferences).
+      
+
+ORGANIZERS/SPONSORS:
+
+      A number of university faculty members and their staff
+      in cooperation with the Monte Carlo Resort (Conference Division,
+      Las Vegas ), will be organizing the conferences.  The conferences
+      are co-sponsored by the Computer Science Research, Education, and
+      Applications Press (CSREA: USA Federal EIN # 58-2171953);
+      the National Supercomputing Center for Energy and the Environment
+      (Department of Energy, USA); The International Association for
+      Mathematics and Computers in Simulation (IMACS); The International
+      Technology Institute (ITI); The Java High Performance Computing
+      research group (JHPC; www.jhpc.org for PDPTA and CISST); the Computer
+      Vision Research and Applications Tech. (CVRA); Korean Information
+      Processing Society (KIPS); World Scientific and Engineering
+      Society http://members.tripod.com/wses/wses.htm (pending); developers
+      of high-performance machines and systems (pending) + ...
+
+
+LOCATION OF CONFERENCES (PDPTA'99, CISST'99, IC-AI'99):
+
+      The conferences will be held in the Monte Carlo Resort
+      hotel, Las Vegas, Nevada, USA.  This is a mega hotel
+      with excellent conference facilities and over 3000 rooms.
+      The hotel is minutes from the Las Vegas airport with free
+      shuttles to and from the airport.  This hotel has many
+      vacation and recreational attractions, including:
+      waterfalls, casino, spa, pools & kiddie pools, sunning decks,
+      Easy River water ride, wave pool with cascades, lighted
+      tennis courts, health spa (with workout equipment, whirlpool,
+      sauna, ...), arcade virtual reality game rooms, nightly
+      shows, snack bars, a number of restaurants, shopping
+      area, bars, ...  Many of these attractions are open 24
+      hours a day and most are suitable for families and children.
+      The negotiated hotel's room rate for conference attendees
+      is very reasonable ($79 + tax) per night (no extra charge
+      for double occupancy) for the duration of the conferences.
+
+      The hotel is within walking distance from most other
+      Las Vegas attractions (major shopping areas, recreational
+      destinations, fine dining and night clubs, free street
+      shows, ...).
+      For the benefit of our international colleagues: the state of
+      Nevada neighbors with the states of California, Oregon, Idaho,
+      Utah, and Arizona.  Las Vegas is only a few driving hours away
+      from other major cities, including: Los Angeles, San Diego,
+      Phoenix, Grand Canyon, ...
+
+EXHIBITION:
+
+      An exhibition is planned for the duration of the conferences.
+      We have reserved 20+ exhibit spaces.  Interested parties
+      should contact H. R. Arabnia (address is given below).
+      All exhibitors will be considered to be the co-sponsors
+      of the conferences.  Each exhibitor will have the opportunity
+      to include a two-page description of their latest products
+      in the conference proceedings of their choice (if submitted
+      by May 1, 1999).
+
+
+IMPORTANT DATES:
+
+        March 1, 1999 (Monday):     Draft papers (about 4-page) due
+       April  5, 1999 (Monday):     Notification of acceptance
+          May 1, 1999 (Monday):     Camera-Ready papers & Pre-reg. due
+        June 28 - July 1, 1999:     PDPTA'99 + CISST'99 + IC-AI'99
+                                    Conferences
+
+      Proposals to organize technical sessions should be submitted as
+      soon as possible.
+      All accepted papers are expected to be presented at the conferences.
+
+
+MEMBERS OF PROGRAM & ORGANIZING COMMITTEES:
+
+      For a complete list refer to the conference web pages.
+      Those interested in joining the Program Committees should email
+      H. R. Arabnia (hra@cs.uga.edu) the following information:
+      Name, affiliation and position, complete mailing address,
+      email address, tel/fax numbers, a short biography together with
+      research interests.
+
+CONFERENCE CONTACT:
+
+          Prof. Hamid R. Arabnia
+          General Chair: PDPTA, CISST, IC-AI'99
+          The University of Georgia
+          Department of Computer Science
+          415 Graduate Studies Research Center
+          Athens, Georgia 30602-7404, U.S.A.
+
+          Tel: (706) 542-3480
+          Fax: (706) 542-2966
+          E-mail: hra@cs.uga.edu

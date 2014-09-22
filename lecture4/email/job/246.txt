@@ -1,0 +1,61 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Dec 10 06:28:59 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA00722;
+	Fri, 10 Dec 1999 06:28:53 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02054;
+          9 Dec 99 16:53 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02052;
+          9 Dec 99 16:46 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00101;
+          9 Dec 99 16:45 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa05599; 9 Dec 99 3:55 EST
+Received: from ee.kaist.ac.kr by edrc.cmu.edu id aa27685; 9 Dec 99 3:54 EST
+Received: from cnsl10 (cnsl11.kaist.ac.kr [143.248.158.50])
+	by ee.kaist.ac.kr (8.9.2/8.9.2) with SMTP id SAA22825;
+	Thu, 9 Dec 1999 18:01:06 +0900 (KST)
+Message-ID: <003d01bf4222$63b21640$329ef88f@kaist.ac.kr>
+From: Soo-Young Lee <sylee@ee.kaist.ac.kr>
+To: connectionists@cs.cmu.edu
+Subject: Position Available : Research Professor and Post Doc
+Date: Thu, 9 Dec 1999 17:49:55 +0900
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+
+I apologize for multiple receipants.
+
+The Brain Science Research Center (BSRC) and Department of
+Electrical and Computer Science at Korea Advanced Institute of
+Science and Technology have immediate openings for
+Research Professor and Post Doc. The Research Professor
+position requires at least 1 year experience after Ph.D. degree.
+
+The BSRC is the main research organization for Korean
+Brain Science and Engineering Research Program sponsored
+by Korean Ministry of Science and Technology. It currently
+manages a big national research program, and more than
+100 professors throughout Korea are working in the research
+program. It is truly multidisciplinary research program,
+and ample opertunities exist to cooparate with researchers
+in other disciplines, from neuroscisnce to neural network
+applications and implementations.
+
+Although all aspects of biological and artificial neural neural
+networks are pursued, researchers in the following subjects
+have higher priority.
+
+(1) cognitive science (selective attention, etc.)
+(2) speech signal processing and recognition
+(3) auditory model
+(4) neuro-chip implementation
+(5) dynamic neural models
+
+WE EMPHASIZE INTERDISCIPLINARY RESEARCHES,
+FROM BIOLOGY TO HARDWARE THROUGH MODELING
+AND APPLICATIONS.
+
+Interested candidates should contact with
+Prof. Soo-Young Lee, Director, BSRC,
+at sylee@ee.kaist.ac.kr.

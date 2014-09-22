@@ -1,0 +1,116 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Oct 22 05:09:26 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id FAA13591;
+	Fri, 22 Oct 1999 05:09:22 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02149;
+          21 Oct 99 21:40 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02147;
+          21 Oct 99 21:05 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19448;
+          21 Oct 99 21:05 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa21286; 21 Oct 99 3:38 EDT
+Received: from digger1.defence.gov.au by edrc.cmu.edu id aa19731;
+          21 Oct 99 3:37 EDT
+Received: by digger1.defence.gov.au; id RAA02276; Thu, 21 Oct 1999 17:05:45 +0930
+Received: from dsto-ms2.dsto.defence.gov.au(131.185.2.150) by digger1.defence.gov.au via smap (V4.2)
+	id xma002202; Thu, 21 Oct 99 17:05:42 +0930
+Received: from mail.cer.defence.gov.au (unverified [203.5.247.15]) by dsto-ms2.dsto.defence.gov.au
+ (Integralis SMTPRS 2.0.15) with ESMTP id <B0000599461@dsto-ms2.dsto.defence.gov.au>;
+ Thu, 21 Oct 1999 17:04:56 +0930
+Received: from exchsa1.dsto.defence.gov.au (exchsa1.dsto.defence.gov.au [131.185.2.94])
+	by mail.cer.defence.gov.au (8.9.3/8.9.3) with ESMTP id RAA38544;
+	Thu, 21 Oct 1999 17:03:04 GMT
+Received: by exchsa1.dsto.defence.gov.au with Internet Mail Service (5.5.2232.9)
+	id <VDQWA7DJ>; Thu, 21 Oct 1999 17:07:09 +0930
+Message-Id: <C15155CADE2FD211A4A300062B000EDD01F58422@exchsa5.dsto.defence.gov.au>
+From: "Filippidis, Arthur" <arthur.filippidis@dsto.defence.gov.au>
+To: connectionists@cs.cmu.edu
+Subject: RE: Call for Papers, Special  Fusion of Intelligent Systems Session at KES2000 Conference in UK, 30 Aug -1 Sept 2000
+Date: Thu, 21 Oct 1999 17:06:56 +0930
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2232.9)
+Content-Type: text/plain
+Status: RO
+X-Status: 
+
+
+Special Session for KES2000 Conference. 
+FUSION OF KNOWLEDGE-BASED INTELLIGENT SYSTEMS
+Architectures and Applications
+
+Organiser/Chair : Dr. Arthur Filippidis
+Please Circulate.
+
+Regards
+Dr. Arthur Filippidis
+System Concepts Group
+DSTO, Land Operations Division
+ph: (08) 8259 5442
+fax: (08) 8259 5624
+
+
+Fourth International Conference on
+Knowledge-Based Intelligent Engineering Systems & Allied Technologies
+(http://www.eng.bton.ac.uk/eee/research/kes2000/)
+30 August-1 September 2000 - University of Brighton, Sussex, U.K.
+
+Special Session on :
+FUSION OF KNOWLEDGE-BASED INTELLIGENT SYSTEMS
+Architectures and Applications
+
+Call For Papers
+
+The special session aims to cover recent practical applications in the
+fusion of various Intelligent techniques such as, fuzzy, neural or
+genetic algorithms, or in combination with intelligent agents.
+
+The session also covers recent advances in knowledge-based multisensor
+or Information fusion architectures using a hybrid of various
+Intelligent techniques, in the practical areas such as for example
+landmine detection, target recognition, multispectral image fusion or
+other image fusion applications.
+
+Topics of the Special Session cover, but are not limited to:
+
+* Fusion of sensors using Intelligent techniques in areas such as target
+detection, landmines.
+* Combining the use of any Intelligent Agent technology / Fuzzy /Neural /
+and Genetic Algorithms to produce novel hybrid architectures used in
+practical applications
+* Multisensor Data Fusion architectures in practical applications using
+Intelligent techniques.
+* Image or Information Fusion using Intelligent techniques or Agent
+technology.
+* Multispectral fusion of Images or GIS Information using Knowledge-based
+techniques.
+
+INSTRUCTIONS FOR AUTHORS
+Interested authors must submit 2 copies of their paper to the Session
+Chair  by post (prefered method), ( Directly to Dr. A. Filippidis, Postal
+Address below), or email  (Word97 or earlier versions only) attachments
+also accepted. 
+Submitted papers must comply to the Conference guidelines for submission
+(http://www.eng.bton.ac.uk/eee/research/kes2000/).
+ All papers will be strictly refereed by at least three experts in the
+field.
+
+PUBLICATION
+The session papers will be published in the Conference Proceedings. 
+IMPORTANT DATES
+Deadline for Submission: January 20th, 2000
+Acceptance/Rejection Notification: March 20th, 2000
+Camera-ready papers due April 10th, 2000
+
+Session Chair:
+
+Dr. Arthur Filippidis
+Defence Science Technology Organisation
+Land Operations Division,
+P.O. Box 1500,
+Salisbury, South Australia,
+5108, Australia.
+Email: arthur.filippidis@dsto.defence.gov.au 
+ph: (08) 8259 5442
+fax: (08) 8259 5624

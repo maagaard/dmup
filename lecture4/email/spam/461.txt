@@ -1,0 +1,192 @@
+
+
+From MAILER-DAEMON@eivind.imm.dtu.dk Sat Jun 12 19:37:21 MET 1999
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id TAA15332
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 12 Jun 1999 19:37:20 +0200 (METDST)
+Received: from localhost (localhost)
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with internal id TAB12830;
+	Sat, 12 Jun 1999 19:34:57 +0200 (METDST)
+Date: Sat, 12 Jun 1999 19:34:57 +0200 (METDST)
+From: Mail Delivery Subsystem <MAILER-DAEMON@hendrix.imm.dtu.dk>
+Message-Id: <199906121734.TAB12830@hendrix.imm.dtu.dk>
+To: postmaster@hendrix.imm.dtu.dk
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="TAB12830.929208897/hendrix.imm.dtu.dk"
+Subject: Postmaster notify: User unknown
+Auto-Submitted: auto-generated (postmaster-notification)
+Status: RO
+X-Status: 
+
+This is a MIME-encapsulated message
+
+--TAB12830.929208897/hendrix.imm.dtu.dk
+
+The original message was received at Sat, 12 Jun 1999 19:34:49 +0200 (METDST)
+from localhost
+
+   ----- The following addresses had permanent fatal errors -----
+<INFO@anubis.ccm.itesm.mx>
+
+   ----- Transcript of session follows -----
+451 public.com: Name server timeout
+... while talking to anubis.ccm.itesm.mx.:
+>>> RCPT To:<INFO@anubis.ccm.itesm.mx>
+<<< 550 <INFO@anubis.ccm.itesm.mx>... User unknown
+550 <INFO@anubis.ccm.itesm.mx>... User unknown
+
+--TAB12830.929208897/hendrix.imm.dtu.dk
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; hendrix.imm.dtu.dk
+Received-From-MTA: DNS; eivind.imm.dtu.dk
+Arrival-Date: Sat, 12 Jun 1999 19:34:49 +0200 (METDST)
+
+Final-Recipient: RFC822; INFO@anubis.ccm.itesm.mx
+Action: failed
+Status: 4.4.3
+Remote-MTA: DNS; anubis.ccm.itesm.mx
+Last-Attempt-Date: Sat, 12 Jun 1999 19:34:57 +0200 (METDST)
+
+--TAB12830.929208897/hendrix.imm.dtu.dk
+Content-Type: message/rfc822
+
+Return-Path: <MAILER-DAEMON>
+Received: from localhost (localhost)
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with internal id TAA12830;
+	Sat, 12 Jun 1999 19:34:49 +0200 (METDST)
+Date: Sat, 12 Jun 1999 19:34:49 +0200 (METDST)
+From: Mail Delivery Subsystem <MAILER-DAEMON>
+Message-Id: <199906121734.TAA12830@hendrix.imm.dtu.dk>
+To: <INFO@anubis.ccm.itesm.mx>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="TAA12830.929208889/hendrix.imm.dtu.dk"
+Subject: Returned mail: Service unavailable
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--TAA12830.929208889/hendrix.imm.dtu.dk
+
+The original message was received at Sat, 12 Jun 1999 19:34:45 +0200 (METDST)
+from root@eivind.imm.dtu.dk [192.38.71.101]
+
+   ----- The following addresses had permanent fatal errors -----
+Mads.Madsen@nokia.com
+    (expanded from: <hintz@hendrix.imm.dtu.dk>)
+
+   ----- Transcript of session follows -----
+451 Mads.Madsen@nokia.com... public.com: Name server timeout
+... while talking to mgw-x1.nokia.com.:
+>>> DATA
+<<< 553 Header error
+554 Mads.Madsen@nokia.com... Service unavailable
+
+--TAA12830.929208889/hendrix.imm.dtu.dk
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; hendrix.imm.dtu.dk
+Received-From-MTA: DNS; eivind.imm.dtu.dk
+Arrival-Date: Sat, 12 Jun 1999 19:34:45 +0200 (METDST)
+
+Final-Recipient: RFC822; <hintz@hendrix.imm.dtu.dk>
+X-Actual-Recipient: RFC822; Mads.Madsen@nokia.com
+Action: failed
+Status: 5.1.0
+Remote-MTA: DNS; mgw-x1.nokia.com
+Diagnostic-Code: SMTP; 553 Header error
+Last-Attempt-Date: Sat, 12 Jun 1999 19:34:49 +0200 (METDST)
+
+--TAA12830.929208889/hendrix.imm.dtu.dk
+Content-Type: message/rfc822
+
+Return-Path: <INFO@anubis.ccm.itesm.mx>
+Received: from eivind.imm.dtu.dk (root@eivind.imm.dtu.dk [192.38.71.101])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id TAA12829
+	for <hintz@hendrix.imm.dtu.dk>; Sat, 12 Jun 1999 19:34:45 +0200 (METDST)
+From: INFO@anubis.ccm.itesm.mx
+Received: from anubis.ccm.itesm.mx (anubis.ccm.itesm.mx [148.241.128.170])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA15328
+	for <hintz@ei.dtu.dk>; Sat, 12 Jun 1999 19:37:04 +0200 (METDST)
+Received: from 148.241.128.170 by anubis.ccm.itesm.mx (SMI-8.6/SMI-SVR4)
+	id LAA05639; Sat, 12 Jun 1999 11:04:42 -0600
+Message-Id: <199906121704.LAA05639@anubis.ccm.itesm.mx>
+Date: Sat, 12 Jun 99 09:36:07 EST
+To: Friend@public.com
+Subject: LEGAL CABLE TV DESCRAMBLER
+
+NOTE: THIS IS AN ADVERTISEMENT FOR LEGAL TV DE-SCRAMBLER
+ IF YOU HAVE NO INTEREST IN THIS INFORMATION PLEASE CLICK DELETE NOW. THANK YOU-- 
+
+LEGAL CABLE TV DE-SCRAMBLER 
+Want to watch Sporting Events?--Movies?--Pay-Per-View?? 
+This is the Famous R-D-O Shack TV Descrambler
+You can assemble it from R-D-O Shack parts for about $12.00. 
+We Send You:
+E-Z To follow Assembly Instructions.
+E-Z To read Original Drawings.
+The Famous R-D-O Shack Parts List. 
+PLUS SOMETHING NEW YOU MUST HAVE! 
+Something you can't do without. 
+THE UP-TO-DATE REPORT: USING A DESCRAMBLER LEGALLY 
+Warning: You should not build a TV Descrambler without 
+reading this report first.
+ 
+Frequently Asked Questions--CABLE TV DESCRAMBLER 
+Q: Will the descrambler work on Fiber, TCI, Jarrod 
+and satellite systems? 
+A: The answer is YES. In respect to satellite, 
+you just get more stuff! There is one exception:
+The descrambler will not work with DSS satellite. 
+Q: Do I need a converter box?
+A: This plan works with or without a converter box.
+Specific instructions are included in the plans for each! 
+Q: Can the cable company detect that I have the descrambler?
+A: No, the signal descrambles right at the box and does
+not move back through the line! 
+Q: Do I have to alter my existing cable system, 
+television or VCR?
+A: The answer is no! 
+Q: Does this work with my remote control?
+A: The answer is yes. The descrambler is 
+manually controlled--but very easy to use! 
+Q: Can you email me the plans?
+A: No the program comes with an easy to follow picture guide. 
+Q: Does this work everywhere across the country?
+A: Yes, every where in the USA plus England,
+Brazil, Canada and other countries! 
+Q: Is this deal guaranteed?
+A: Yes, if you are unhappy for any reason we will refund your money. 
+Q: When I order, when will I get my stuff?
+A: We mail out all orders within 48 hours of receiving them. 
+
+ORDER INFORMATION 
+ACT WITHIN THE NEXT 14 DAYS AND RECEIVE TWO FREE BONUS!!
+ 
+THE CABLE MANUAL! This manual contains hard to find information your cable company
+ does not want you to know. Also receive The RADAR JAMMER PLANS! 
+Never get another speeding ticket. Build you own radar jammer, this unit will jam police radar
+so they can't get a reading on your vechicle. Radar jammers are legal in 48 states. It is simple to build.
+The FREE BONUSES ALONE ARE WORTH ACTING NOW!  THE CABLE DESCRAMBLER KIT
+COMES WITH A THIRTY DAY MONEY BACK GUARANTEE!   IF YOUR NOT COMPLETELY 
+SATISFIED  SEND THE CABLE DESCRAMBLER KIT BACK AND YOU KEEP THE BONUSES
+ FOR FREE. YOU HAVE NOTHING TO LOSE ONLY FREE CABLE TV TO GAIN! 
+ACT NOW! SIMPLY SEND $14.00 CHECK OR, MONEY ORDER TO: 
+INFORMATION PLUS, PO BOX 99, NORTH PLATTE NE 69103. 
+FOR MORE INFORMATION ON THIS PRODUCT AND CREDIT CARD ORDERS CALL 1-888-588-3715. 
+
+This mailing is done by an independent marketing co.
+We apologize if this message has reached you in error.
+Save the Planet, Save the Trees! Advertise
+via E mail. No wasted paper! Delete with 
+one simple keystroke! Less refuse in our Dumps!
+This is the new way of new millenium! 
+
+
+--TAA12830.929208889/hendrix.imm.dtu.dk--
+
+
+--TAB12830.929208897/hendrix.imm.dtu.dk--
+

@@ -1,0 +1,71 @@
+
+
+From pascal@icsc.ab.ca  Sat Oct  3 05:00:44 1998
+Received: from bernie.compusmart.ab.ca (root@bernie.compusmart.ab.ca [199.185.131.34])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id FAA03071
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 3 Oct 1998 05:00:41 +0200 (METDST)
+From: pascal@icsc.ab.ca
+Received: from user920.kel1volnet5.net (remote1687.compusmart.ab.ca [207.229.35.127]) by bernie.compusmart.ab.ca (8.8.5/8.8.5) with SMTP id UAA17255; Fri, 2 Oct 1998 20:59:44 -0600 (MDT)
+Date: Fri, 2 Oct 1998 20:59:44 -0600 (MDT)
+Message-Id: <199810030259.UAA17255@bernie.compusmart.ab.ca>
+To: fma@bsn01.bsn.usf.edu
+Subject: CIMA'99
+Reply-To: pascal@icsc.ab.ca
+Status: RO
+X-Status: 
+
+Submission deadline (extended abstracts or draft papers): October 15, 1998
+
+CIMA'99 
+International Congress on 
+Computational Intelligence: Methods and Applications 
+http://www.icsc.ab.ca/cima99.htm 
+
+June 22-25, 1999 
+at the Rochester Institute of Technology, Rochester, N.Y., USA 
+
+Honorary Chair:      Mohamed Mansour, Switzerland 
+General Chair:       Peter G. Anderson, USA 
+Vice General Chair:  Marco Gori, Italy
+
+
+
+CIMA'99 features the following Symposia: 
+
+ISFL'99 
+Third International ICSC Symposium on Fuzzy Logic and Applications 
+http://www.icsc.ab.ca/isfl99.htm 
+Chair:       Hans Bothe, Switzerland/Germany 
+
+
+AIDA'99 
+International ICSC Symposium on Advances in Intelligent Data Analysis 
+http://www.icsc.ab.ca/aida99.htm 
+Chair:       Erkki Oja, Finland  
+
+SCB'99 
+International ICSC Symposium on Soft Computing in Biomedicine 
+http://www.icsc.ab.ca/scb99.htm 
+Chair:       Eduardo Massad, Brazil 
+
+SCFM'99 
+International ICSC Symposium on Soft Computing in Financial Markets 
+http://www.icsc.ab.ca/scfm99.htm 
+Chair:       Seth A. Greenblatt, USA 
+
+
+Please consult the websites for details or request the detailed Call for Papers for a specific Symposium from the organizer: 
+
+ICSC 
+International Computer Science Conventions 
+P.O. Box 279 
+Millet, Alberta T0C 1Z0 
+Canada 
+
+EMAIL:   mailto:operating@icsc.ab.ca 
+URL:     http://www.icsc.ab.ca 
+FAX:     +1-403-387-4329   (after January 25, 1999: +1-780-387-4329) 
+PHONE:   +1-403-387-3546   (after January 25, 1999: +1-780-387-3546) 
+
+
+

@@ -1,0 +1,37 @@
+
+
+From mps@imm.dtu.dk  Thu Jun 18 13:10:53 1998
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id NAA09391;
+	Thu, 18 Jun 1998 13:10:52 +0200 (METDST)
+Received: from serv3.imm.dtu.dk (mps@serv3.imm.dtu.dk [130.225.85.13])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id MAA24358;
+	Thu, 18 Jun 1998 12:58:49 +0200 (METDST)
+Received: (from mps@localhost)
+	by serv3.imm.dtu.dk (8.8.6/8.8.6) id MAA18103;
+	Thu, 18 Jun 1998 12:58:37 +0200 (METDST)
+Date: Thu, 18 Jun 1998 12:58:37 +0200 (METDST)
+From: Mads Peter Soerensen <mps@imm.dtu.dk>
+Message-Id: <199806181058.MAA18103@serv3.imm.dtu.dk>
+To: vip_at_imm@serv3.imm.dtu.dk, P.G.Hjorth@mat.dtu.dk
+Subject: 32ND EUROPEAN STUDY GROUP with INDUSTRY
+Cc: mps@serv3.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-MD5: dLqUijkHEqws2YMUN6PNpw==
+Status: RO
+X-Status: 
+
+
+Kaere IMMer,                                18/6 1998
+
+Den 31. august - 4. september 1998 afholdes den 32ND EUROPEAN STUDY GROUP 
+with INDUSTRY paa MAT, DTU, arrangeret af Poul Hjort og Jens Graversen.
+
+For at rekrutere IMM laerer til at deltage vil Poul Hjort imorgen fredag 
+kl. 15 fortaelle lidt om ovennaevnte arrangement ved the/kaffe pausen her 
+paa IMM (rum 053). 
+
+Med venlig hilsen
+Mads

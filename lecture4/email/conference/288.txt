@@ -1,0 +1,98 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Aug 21 08:15:08 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA23930;
+	Sat, 21 Aug 1999 08:15:01 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01267;
+          21 Aug 99 0:41 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01265;
+          21 Aug 99 0:30 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04884;
+          21 Aug 99 0:29 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab26905; 21 Aug 99 0:17 EDT
+Received: from ns.crl.go.jp by RI.CMU.EDU id aa26419; 21 Aug 99 0:16:31 EDT
+Received: from crlgw.crl.go.jp ([133.243.18.250])
+	by ns.crl.go.jp (8.9.3+3.1W/3.7W) with ESMTP id NAA06836;
+	Sat, 21 Aug 1999 13:16:22 +0900 (JST)
+Received: from ips.crl.go.jp (localhost [127.0.0.1]) by crlgw.crl.go.jp (8.8.8+2.7Wbeta7/3.5Wpl7-MS980331) with ESMTP id NAA08760; Sat, 21 Aug 1999 13:16:21 +0900 (JST)
+Received: from margaux.crl.go.jp (margaux [133.243.71.206])
+	by ips.crl.go.jp (8.8.8/3.6W) with SMTP id NAA12587;
+	Sat, 21 Aug 1999 13:16:26 +0900 (JST)
+Received: from localhost by margaux.crl.go.jp (4.1/6.4J.6-karc/s)
+	id AA19824; Sat, 21 Aug 99 13:10:39 JST
+Message-Id: <9908210410.AA19824@margaux.crl.go.jp>
+To: nlprs99-all@korterm.kaist.ac.kr, connectionists@cs.cmu.edu,
+        nlp-members@endive.crl.go.jp, nl-ipsj-announce@cherry.aist-nara.ac.jp,
+        nlt@cherry.aist-nara.ac.jp, linguistics@atom.brl.ntt.co.jp
+Cc: isahara@crl.go.jp, qma@crl.go.jp
+Subject: NLPRS'99 Workshop -- Natural Language Processing and Neural Networks 
+Date: Sat, 21 Aug 1999 13:10:38 +0900
+From: Isahara Hitoshi <isahara@crl.go.jp>
+Status: RO
+X-Status: 
+
+
+Dear Colleagues,
+
+Attached is the call for papers for the NLPRS'99 workshop of Natural
+Language Processing and Neural Networks. Please help us to distribute
+this to people who will be interested in.
+
+
+---------------------------------------------------------------------------
+			Call for Papers	
+
+			NLPRS'99 Workshop
+	Natural Language Processing and Neural Networks
+		Beijing, China, November 5, 1999
+
+                 http://korterm.kaist.ac.kr/~nlprs99/
+
+The artificial neural networks (ANN) began to be an attract approach to
+natural language processing (NLP) since several works on parsing were
+done using ANN techniques in 1985. Since then, with the boom of NLP
+research based on very large corpora, the ANN, as a powerful parallel
+and distributed learning/processing machine, attract a more great deal
+of attention from both the ANN and NLP researchers and have been
+successfully used in many areas of NLP. 
+
+This workshop will provide a forum for researchers in both the areas of
+ANN and NLP who are interested in advancing the state in developing NLP
+techniques by using ANN approach. 
+
+Submissions are invited on all NLP topics in the context of using ANN
+techniques.
+
+The workshop review and acceptance will be based on a two-page extended
+summary (2000 words or less). The summary must be accompanied by paper
+title and author information including full names, affiliations of all
+authors and the postal mailing address and email of the corresponding
+author.
+
+Submit by email to qma@crl.go.jp
+
+IMPORTANT DATES
+
+Summary submission deadline:    September 15
+Notification of acceptance:     September 30
+Camera ready papers due: 	October 15
+
+Inquiries concerning the workshop can be sent to one of the organisers 
+either by email to qma@crl.go.jp or by post to the following address:
+
+Dr. Qing Ma
+Intelligent Processing Section
+Kansai Advanced Research Center
+Communications Research Laborotory
+Ministry of Posts and Telecommunications
+588-2, Iwaoka, Nishi-ku, Kobe, 651-2401, Japan
+---------------------------------------------------------------------------
+
+Dr. Hitoshi Isahara
+Dr. Qing Ma
+Intelligent Processing Section
+Kansai Advanced Research Center
+Communications Research Laborotory
+Ministry of Posts and Telecommunications
+588-2, Iwaoka, Nishi-ku, Kobe, 651-2401, Japan

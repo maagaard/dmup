@@ -1,0 +1,271 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jan 13 06:00:08 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA12940;
+	Thu, 13 Jan 2000 06:00:03 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab25144;
+          12 Jan 2000 15:51 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25115;
+          12 Jan 2000 15:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11492;
+          12 Jan 2000 15:35 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa20010; 12 Jan 2000 13:37 EST
+Received: from pitbull.ecst.csuchico.edu by cs.cmu.edu id aa20301;
+          12 Jan 2000 13:36 EST
+Received: (qmail 6833 invoked by uid 1495); 12 Jan 2000 10:36:38 -0800
+Date: Wed, 12 Jan 2000 10:36:38 -0800 (PST)
+From: Renee Renner <renner@ecst.csuchico.edu>
+To: Connectionists@cs.cmu.edu, hybrid-list@cs.ua.edu
+Subject: IC-AI 2000 CFP
+Message-ID: <Pine.GHP.4.05.10001121033260.6819-100000@pitbull.ecst.csuchico.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+	*** apologies to recipients of multiple lists ***
+
+
+                     C A L L   F O R   P A P E R S
+                     =============================
+
+		       Neural Network Subsystems
+
+
+            		  A SPECIAL SESSION OF
+			  ====================
+
+      The 2000 International Conference on Artificial Intelligence
+                            (IC-AI'2000)
+
+                         June 26 - 29, 2000
+               Monte Carlo Resort, Las Vegas, Nevada, USA
+
+		
+			SESSION CHAIR:
+			R.S. Renner
+			renner@ecst.csuchico.edu
+
+
+SESSION INFORMATION:
+
+**************************************************************************
+Artificial neural networks are increasingly being incorporated as
+components or subsystems of higher-order systems.  These systems may
+represent ensembles of neural networks, fuzzy-neural systems,
+neural-genetic systems, or other such hybrid intelligent systems intended
+for classification, prediction, model selection, analysis, data mining or
+control.  This session is open to neural network architectures,
+algorithms, applications, and tools that contribute to or provide a
+framework for interfacing ANNs with larger intelligent systems.
+
+***************************************************************************
+
+GENERAL INFORMATION:
+
+The IC-AI'2000 will be held simultaneously (same location and dates)
+with The International Conference on Parallel and Distributed Processing
+Techniques and Applications (PDPTA) and The International Conference on
+Imaging Science, Systems, and Technology (CISST).
+(A link to the IC-AI'2000 official web site is available from:
+http://www.ashland.edu/~iajwa/Conferences/index.html)
+
+IMPORTANT DATES:
+
+        February 28, 2000 (Monday):   Draft papers (about 4 pages) due
+        April 3, 2000 (Monday):       Notification of acceptance
+        May 1, 2000 (Monday):         Camera-Ready papers & Prereg. due
+        June 26 - 29, 2000:           IC-AI'2000 Conference
+
+      All accepted papers are expected to be presented at the conference.
+
+SCOPE: Topics of interest for other sessions include, 
+	but are not limited to, the following:
+
+             O.  Intelligent Information Systems
+             O.  Intelligent Software Engineering
+             O.  Intelligent Agents
+             O.  Intelligent Networks
+             O.  Intelligent Databases
+             O.  Brain Models
+             O.  Evolutionary Algorithms
+             O.  Data mining
+             O.  Machine Learning
+             O.  Reasoning Strategies
+             O.  Automated Problem Solving
+             O.  Distributed AI Algorithms and Techniques
+             O.  Distributed AI Systems and Architectures
+             O.  Expert Systems
+             O.  Fuzzy Logic
+             O.  Genetic Algorithms
+             O.  Heuristic Searching
+             O.  Knowledge Acquisition
+             O.  Knowledge Discovery
+             O.  Knowledge Representation
+             O.  Knowledge-Intensive Problem Solving Techniques
+             O.  Languages and Programming Techniques for AI
+             O.  Software Tools for AI
+             O.  Natural Language Processing
+             O.  Neural Networks and Applications
+             O.  Multisource Information Fusion: Theory and Applications
+             O.  Multisource-Multisensor Data Fusion
+             O.  Learning and Adaptive Sensor Fusion
+             O.  Multisensor Data Fusion Using Neural and Fuzzy Techniques
+             O.  Integration of AI with other Technologies
+             O.  Evaluation of AI Tools
+             O.  Evolutionary Computation
+             O.  Social Impact of AI
+             O.  Applications - Computer Vision
+             O.  Applications - Signal Processing
+             O.  Applications - Military
+             O.  Applications - Surveillance
+             O.  Applications - Robotics
+             O.  Applications - Medicine
+             O.  Applications - Pattern Recognition
+             O.  Applications - Face Recognition
+             O.  Applications - Finger Print Recognition
+             O.  Applications - Finance and Marketing
+             O.  Applications - Stock Market
+             O.  Applications - Education
+             O.  Emerging Applications
+
+
+SUBMISSION OF PAPERS:
+
+      Prospective authors are invited to submit three copies of their
+      draft paper (about 4 pages) to the session chair, Dr. R.S. Renner,
+      by the due date:
+		R.S. Renner
+		California State University, Chico
+		Department of Computer Science
+		Chico, CA   95929-0410, U.S.A.
+		Tel: (530) 898-5419
+		Fax: (530) 898-5995
+		E-mail: renner@ecst.csuchico.edu
+
+      E-mail and Fax submissions are also acceptable.  
+      The length of the Camera-Ready papers (if accepted)
+      will be limited to 7 pages.  Papers must not have been
+      previously published or currently submitted for publication
+      elsewhere.
+
+      The first page of the draft paper should include: title of the
+      paper, name, affiliation, postal address, E-mail address,
+      telephone number, and Fax number for each author.  The first
+      page should also include the name of the author who will be
+      presenting the paper (if accepted) and a maximum of 5 keywords.
+
+
+EVALUATION PROCESS:
+
+      Papers will be evaluated for originality, significance, clarity,
+      and soundness.  Each paper will be refereed by two researchers in
+      the topical area.  The Camera-Ready papers will be reviewed by
+      one person.
+
+
+PUBLICATION:
+
+      The conference proceedings will be published by CSREA Press
+      (ISBN).  The proceedings will be available at the conference.
+      Some accepted papers will also be considered for journal
+      publication (soon after the conference).
+      
+
+ORGANIZERS/SPONSORS:
+
+      A number of university faculty members and their staff
+      in cooperation with the Monte Carlo Resort (Conference Division,
+      Las Vegas ), will be organizing the conference.  The conference
+      will be sponsored by Computer Science Research, Education, &
+      Applications Press (CSREA: USA Federal EIN # 58-2171953)
+      in cooperation with research centers, international associations,
+      international research groups, and developers of high-performance
+      machines and systems.  The complete list of sponsors and co-sponsors
+      will be available at a later time.
+      (Last conference's sponsors included: CSREA, the National
+      Supercomputing Center for Energy and the Environment - DOE,
+      The International Association for Mathematics and Computers in
+      Simulation, The International Technology Institute (ITI), The Java
+      High Performance Computing research group, World Scientific and
+      Engineering Society, Sundance Digitial Signal Processing Inc.,
+      the Computer Vision Research and Applications Tech., ...)
+
+
+LOCATION OF CONFERENCE:
+
+      The conference will be held in the Monte Carlo Resort
+      hotel, Las Vegas, Nevada, USA.  This is a mega hotel
+      with excellent conference facilities and over 3000 rooms.
+      The hotel is minutes from the Las Vegas airport with free
+      shuttles to and from the airport.  This hotel has many
+      vacation and recreational attractions, including:
+      waterfalls, casino, spa, pools & kiddie pools, sunning decks,
+      Easy River water ride, wave pool with cascades, lighted
+      tennis courts, health spa (with workout equipment, whirlpool,
+      sauna, ...), arcade virtual reality game rooms, nightly
+      shows, snack bars, a number of restaurants, shopping
+      area, bars, ...  Many of these attractions are open 24
+      hours a day and most are suitable for families and children.
+      The negotiated hotel's room rate for conference attendees
+      is very reasonable (79USD + tax) per night (no extra charge
+      for double occupancy) for the duration of the conference.
+
+      The hotel is within walking distance from most other
+      Las Vegas attractions (major shopping areas, recreational
+      destinations, fine dining and night clubs, free street
+      shows, ...).
+      For the benefit of our international colleagues: the state of
+      Nevada neighbors with the states of California, Oregon, Idaho,
+      Utah, and Arizona.  Las Vegas is only a few driving hours away
+      from other major cities, including: Los Angeles, San Diego,
+      Phoenix, Grand Canyon, ...
+
+
+EXHIBITION:
+
+      An exhibition is planned for the duration of the conference.
+      We have reserved 20+ exhibit spaces.  Interested parties
+      should contact H. R. Arabnia (address is given below).
+      All exhibitors will be considered to be the co-sponsors
+      of the conference.
+
+
+SESSION CONTACT:
+	  Renee S. Renner
+	  California State University, Chico
+	  Department of Computer Science
+	  Chico, CA   95929-0410, U.S.A.
+	  Tel: (530) 898-5419
+	  Fax: (530) 898-5995
+	  E-mail: renner@ecst.csuchico.edu
+
+
+CONFERENCE CONTACT:
+          Hamid R. Arabnia
+          The University of Georgia
+          Department of Computer Science
+          415 Graduate Studies Research Center
+          Athens, Georgia 30602-7404, U.S.A.
+
+          Tel: (706) 542-3480
+          Fax: (706) 542-2966
+          E-mail: hra@cs.uga.edu
+
+***********************************************************************
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

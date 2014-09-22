@@ -1,0 +1,177 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jun  2 01:25:19 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA25829;
+	Wed, 2 Jun 1999 01:25:11 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02993;
+          1 Jun 99 18:45 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02986;
+          1 Jun 99 18:39 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa29396;
+          1 Jun 99 18:39 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa18912; 1 Jun 99 17:54 EDT
+Received: from kth.se by EDRC.CMU.EDU id aa19556; 1 Jun 99 17:53:58 EDT
+Received: from theophys.kth.se (sl31.modempool.kth.se [130.237.37.51])
+	by kth.se (8.9.1a/8.9.1) with ESMTP id XAA05323;
+	Tue, 1 Jun 1999 23:53:50 +0200 (MET DST)
+Message-ID: <37545635.694BFF49@theophys.kth.se>
+Date: Tue, 01 Jun 1999 23:52:53 +0200
+From: Hans =?iso-8859-1?Q?Liljenstr=F6m?= <hali@theophys.kth.se>
+Organization: KTH and Agora for Biosystems
+X-Mailer: Mozilla 4.51 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Final CALL FOR PAPERS: 1999 Agora Meeting on Fluctuations in Biological Systems
+Status: RO
+X-Status: 
+
+
+*************************************************************************
+               2nd Announcement and Final Call For Papers
+
+        1999 Agora Meeting on Fluctuations in Biological Systems
+
+                                Agora'99
+                            Sigtuna, Sweden
+                            August 3-7, 1999
+
+                              Organized by
+                          Agora for Biosystems
+
+                              Sponsored by
+        International Union for Pure and Applied Physics (IUPAP)
+    Swedish Council for Planning and Coordination of Research (FRN)
+
+    >>>>>>DEADLINE for abstract submission extended to: June 15, 1999
+                                <<<<<<<
+
+                  More information and registration at
+             http://www.theophys.kth.se/~hali/agora/agora99
+*************************************************************************
+
+SCOPE
+This interdiscplinary conference on fluctuations in biological systems
+will be held in the small old town of Sigtuna, Sweden, Aug 3-7, 1999,
+and is following upon a series of workshops, where the first was held in
+Sigtuna, Sep 4-9 1995 (Sigtuna Workshop 95). The approach on these
+meetings is theoretical as well as experimental, and the meetings are
+intended to attract participants from various fields, such as biology,
+physics, and computer science. A number of invited speakers will provide
+presentations on the fundamental problems, but participants are invited
+to submit abstracts on topics related to those listed below. The number
+of participants is limited to approx. 150.
+
+MOTIVATION
+Life is normally associated with a high degree of order and
+organization. However, disorder -- in various contexts referred to as
+fluctuations, noise or chaos -- is also a crucial component of many
+biological processes. For example, in evolution random errors in the
+reproduction of the genetic material provides a variation that is
+fundamental for the selection of adaptive organisms. At a molecular
+level, thermal fluctuations govern the movements and functions of the
+macromolecules in the cell. Yet, it is also clear that too large a
+variation may have disastrous effects. Uncontrolled processes need
+stabilizing mechanisms. More knowledge of the stability requirements of
+biological processes is needed in order to better understand these
+problems, which also have important medical applications. Many diseases,
+for instance certain degenerations of brain cells, are caused by failure
+of the stabilizing mechanisms in the cell. Stability is also important
+and difficult to achieve in biotechnological applications.
+
+There is also randomness in structure and function of the neural
+networks of the brain. Spontaneous firing of neurons seems to be
+important for maintaining an adequate level of activity, but does this
+"neuronal noise" have any other significance? What are the effects of
+errors and fluctuations in the information processing of the brain? Can
+these microscopic fluctuations be amplified to provide macroscopic
+effects? Often, one cannot easily determine whether an apparently random
+process is due to noise, governed by uncontrolled degrees of freedom, or
+if it is a result of "deterministic chaos". Would the difference be of
+any importance for biology? Especially, could chaos, which is
+characterized by sensitivity and divergence, be useful for any kind of
+information processing that normally depends upon stability and
+convergence?
+
+OBJECTIVE
+The objective of this meeting is to address questions and problems
+related to those above, for a deeper understanding of the effects of
+disorder in biological systems. Fluctuations and chaos have been
+extensively studied in physics, but to a much lesser degree in biology.
+Important concepts from physics, such as "noise-induced state
+transitions" and "controlled chaos" could also be of relevance for
+biological systems. Yet, little has been done about such applications
+and a more critical analysis of the positive and negative effects of
+disorder for living systems is needed. It is essential to make concrete
+and testable hypotheses, and to avoid the kind of superficial and more
+fashionable treatment that often dominates the field. By bringing
+together scientists with knowledge and insights from different
+disciplines we hope to shed more light on these problems, which we think
+are profound for understanding the phenomenon of life.
+
+TOPICS
+Topics include various aspects, experimental as well as theoretical, on
+fluctuations, noise and chaos, in biological systems at a microscopic
+(molecular), mesoscopic (cellular), and macroscopic (network and
+systems) level.
+
+Contributions are welcome regarding, among others, the following topics:
+
+- Biological signals and noise
+- Neural information processing
+- Synaptic fluctuations
+- Spontaneous neural firing
+- Macromolecular dynamics
+- Dynamics of microtubuli
+- Ion channel kinetics
+- Cell motility
+- Medical implications
+
+INVITED SPEAKERS
+Per Andersen, Oslo University, Norway
+Hans Braun, University of Marburg, Germany
+Franco Conti, Istituto di Cibernetica e Biofisica, CNR, Genova, Italy
+Louis DeFelice, Vanderbilt University, Nashville, USA
+Hans Frauenfelder, Los Alamos National Laboratory, New Mexico, USA
+John Hopfield, Princeton University, USA
+Fernan Jaramillo, Emory University School of Medicine, Atlanta, USA
+Stanislas Leibler, Princeton University, USA
+Uno Lindberg, Stockholm University, Sweden
+Koichiro Matsuno, Nagaoka University of Technology, Japan
+Erik Mosekilde, Technical University of Denmark, Lyngby
+Frank Moss, University of Missouri, St Louis, USA
+Sakire P=F6gun, Center for Brain Research, Ege University, Turkey
+Stephen Traynelis, Emory University School of Medicine, Atlanta, USA
+Horst Vogel, Swiss Federal Institute of Technology, Lausanne,
+Switzerland
+Peter Wolynes, University of Illinois, USA
+James J. Wright, University of Melbourne, Australia
+Mikhail Zhadin, Institute of Cell Biophysics, Pushchino, Russia
+
+PRE-REGISTRATION and abstract submission can preferably be done via the
+Agora'99 home page:
+http://www.theophys.kth.se/~hali/agora/agora99
+
+REGISTRATION FEES
+Regular: 1500 SEK (ca 190 USD)   before June1      ----  2000 SEK  after
+June 1
+Students: 800 SEK (ca 100 USD)    before June 1     ---- 1000 SEK
+after June 1
+
+DEADLINE for abstract submission: June 15, 1999.
+
+FURTHER INFORMATION available from:
+Hans Liljenstrom
+Theoretical Physics
+Royal Institute of Technology
+SE-100 44 Stockholm, Sweden
+and
+Agora for Biosystems
+Box 57, SE-193 22 Sigtuna, Sweden
+
+Phone:    +46-8-790 7167
+Fax:        +46-8-10 48 79
+Email:    hali@theophys.kth.se
+WWW: http://www.theophys.kth.se/~hali
+

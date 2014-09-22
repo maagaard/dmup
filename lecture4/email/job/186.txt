@@ -1,0 +1,202 @@
+
+
+From spm-request@mailbase.ac.uk Fri Sep 17 16:57:05 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id QAA20558
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 17 Sep 1999 16:57:04 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA06889;
+	Fri, 17 Sep 1999 15:49:16 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA02434;
+        Fri, 17 Sep 1999 15:47:49 +0100 (BST)
+Received: from ipv36.unipv.it (ipv36.unipv.it [193.204.35.27]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id PAA02428;
+        Fri, 17 Sep 1999 15:47:45 +0100 (BST)
+Received: from poisson.unipv.it (poisson.unipv.it [193.204.38.127])
+	by ipv36.unipv.it (8.9.1/8.9.1) with SMTP id QAA15288;
+	Fri, 17 Sep 1999 16:39:13 +0200 (MET DST)
+Message-Id: <3.0.6.32.19990917164211.007b25e0@unipv.it>
+X-Sender: gcarlam@unipv.it
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.6 (32)
+Date: Fri, 17 Sep 1999 16:42:11 +0200
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by naga.mailbase.ac.uk id PAA02428
+Subject: Master in Statistical Genetics
+From: Giancarla Motta <gcarlam@unipv.it>
+To: gcarlam@ipv36.unipv.it
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Giancarla Motta <gcarlam@unipv.it>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+The following announcement may be of your interest.
+We apologize if you have received this through other
+listservers, however we are trying to reach the largest audience
+possible for this high profile, important Master.
+
+
+   European Schools for Advanced Studies
+               MASTER IN
+MOLECULAR MEDICINE AND GENETIC EPIDEMIOLOGY
+
+      MODULE IN STATISTICAL GENETICS
+              Pavia, Italy
+         January - November 2000
+
+
+ http://www.unipv.it/webpro/epidgen2.html
+
+
+PROGRAMME
+
+17-21 January 2000
+Basic Population Genetics
+
+14-18 February 2000                    
+Human Molecular Genetics 
+
+February 2000
+Genetic Epidemiology 
+
+20-24 March 2000
+Statistics 	                                
+
+10-14 April 2000
+Linkage Analysis 	                         
+
+8-12 May 2000
+Linkage and Association Analysis - Part I
+
+5-9 June 2000
+Linkage and Association Analysis - Part II
+
+12-16 June 2000
+Introduction to Monte Carlo methods and Bayesian graphical modelling
+
+4-8 September 2000
+Advanced methods in population genetics	
+
+11-15 September 2000
+Computational methods for pedigree data
+
+16-20 October 2000
+Linkage disequilibrium mapping	
+
+13-17 November 2000
+Bioinformatics	
+
+See the Web page for detailed course program.
+
+MODULE COORDINATOR: LUISA BERNARDINELLI
+Dipartimento di Scienze Sanitarie Applicate
+e Psicocomportamentali, University of Pavia, Italy
+
+FACULTY
+
+LUISA BERNARDINELLI, Dip. Scienze Sanitarie Applicate, Università Di Pavia,
+Italy
+CARLO BERZUINI, Dipartimento di Informatica e Sistemistica, Università di
+Pavia, Italy
+MARIO COMELLI, Dip. Scienze Sanitarie Applicate, Università di Pavia, Italy
+SIR DAVID R. COX, Dept. of Statistics and Nuffield College Oxford, UK
+NELSON FREIMAN, Neurogenetics Laboratory and Center for Neurobiology and
+Psychiatry, University of California, San Fran-cisco, USA
+HYWEL B. JONES, Dept. of Genetics, School of Medicine, Stanford University,
+CA, USA and MRC Biostatistic Unit, Institute of Public Health, University
+of Cambridge, UK
+CRISTINA MONTOMOLI, Dip. Scienze Sanitarie Applicate, Università di Pavia,
+Italy
+BERTRAM MÜLLER-MYHSOK, Dept. of Molecular Medicine B. Nocht Inst. for
+Tropical Medicine, Hamburg, Germany
+GUGLIELMINA NADIA RANZANI, Dip. Genetica e Microbiologia, Università di
+Pavia, Italy
+LODEWIJK SANDKUIJL, Department of Clinical Genetics, Erasmus University,
+Rotterdam, NL
+SUSAN K. SERVICE, Neurogenetics Laboratory and Center for Neurobiology and
+Psychiatry, University of California, San Francisco, USA
+SIMON TAVARÉ, Programme in Molecular Biology and Department of Mathematics,
+University of Southern California, Los An-geles, CA 90089-1113 USA
+ELISABETH THOMPSON, Department of Statistics, University of Washington,
+Seattle, WA, 98195-4322 USA
+LAURA A. ZONTA, Dip. Genetica e Microbiologia, Università di Pavia, Italy
+ 
+STRUCTURE OF THE MODULE
+All lectures will be held in English. Duration is 11 months. Each course is
+one week long and consists of both theoretical lec-tures and practical
+sessions on the computer. Exemption from a course can be obtained by
+candidates who can prove their command of the course topics. 
+
+SELECTION OF THE APPLICANTS
+Look at the Web page for more details.
+
+FELLOWSHIPS
+A limited number of fellowships for the programmes are available. 
+
+STUDENT EVALUATION
+The School will lead to a Master Diploma in Statistical Genetics
+
+APPLICATIONS AND FEES
+The course is open to students of any nationality. The deadline for receipt
+of applications is 1 November 1999, and applicants, whether successful or
+unsuccessful, will be informed by 15 November 1999. The admission fee is
+6,000,000 Italian Lira (3,000 EURO).
+
+ACCOMMODATION
+The scientific secretariat is responsible for student accommodation.
+Suitable housing in University Colleges of Pavia will be available. 
+
+ORGANIZATION
+Organizing Secretariat: Istituto Universitario Studi Superiori (IUSS) -
+Collegio Cairoli, Piazza Cairoli, 1 - 27100 PAVIA - Tel. +39 0382/303373 -
+Fax +39 0382/532414 - E-mail IUSS@unipv.it - Internet:
+http://www.unipv.it/webpro/epidgen2.html 
+
+Scientific Secretariat and Location: Dip.to di Scienze Sanitarie Applicate
+e Psicocomportamentali, University of Pavia, Via Bassi, 21 - 27100 PAVIA
+(Italy) Tel. +39 0382 507541 - Fax: +39 0382 507570 - E-mail:
+gcarla@fisher.unipv.it, gcar-lam@unipv.it
+
+
+******************************************************
+
+                 APPLICATION FORM
+
+        EUROPEAN SCHOOL FOR ADVANCED STUDIES
+MASTER IN MOLECULAR GENETICS AND GENETIC EPIDEMIOLOGY
+           MODULE IN STATISTICAL GENETICS
+
+Please type or write in capital letters 
+and send by mail of fax (+39 0382 507570)
+
+NAME:
+SURNAME:
+MAILING ADDRESS:
+TELEHONE:
+FAX:
+E-MAIL:
+DATE OF BIRTH:
+SEX:
+EDUCATION:
+PRESENT EMPLOYMENT:
+PREVIOUS EPIDEMIOLOGICAL TRAINING OR EXPERIENCE:
+PREVIOUS TRAINING OR EXPERIENCE IN STATISTICS:
+PREVIOUS TRAINING OR EXPERIENCE IN GENETICS:
+
+Please, indicate if you would like to apply for a fellowship:
+
+Yes  ( )    No  (  )
+
+
+
+
+
+

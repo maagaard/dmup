@@ -1,0 +1,66 @@
+
+
+From spm-request@mailbase.ac.uk Thu Apr 29 02:15:55 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id CAA22688
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 29 Apr 1999 02:15:49 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id BAA25215;
+	Thu, 29 Apr 1999 01:15:37 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id BAA04372;
+        Thu, 29 Apr 1999 01:12:45 +0100 (BST)
+Received: from merle.acns.nwu.edu (merle.acns.nwu.edu [129.105.16.57]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id BAA04366;
+        Thu, 29 Apr 1999 01:12:41 +0100 (BST)
+Received: (from mailnull@localhost)
+	by merle.acns.nwu.edu (8.8.7/8.8.7) id TAA20260;
+	Wed, 28 Apr 1999 19:12:35 -0500 (CDT)
+Received: from mac101.cnadc.nwu.edu(165.124.234.101) by merle.acns.nwu.edu via smap (V2.0)
+	id xma020190; Wed, 28 Apr 99 19:12:17 -0500
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+X-Sender: drg@merle.acns.nwu.edu
+Message-Id: <v04011701b34d53df31cd@[165.124.234.101]>
+Date: Wed, 28 Apr 1999 19:12:14 -0500
+Subject: JOB OPENING
+From: Darren Gitelman <d-gitelman@nwu.edu>
+To: spm@mailbase.ac.uk
+Cc: "Marsel Mesulam, M.D." <mmesulam@nwu.edu>,
+        "Kevin Labar, Ph.D." <k-labar@nwu.edu>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Darren Gitelman <d-gitelman@nwu.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+COGNITIVE NEUROSCIENTIST FACULTY POSITION
+
+The Cognitive Neurology and Alzheimer's Disease Center of Northwestern
+University is seeking a cognitive neuroscientist to join our
+multidisciplinary Brain Mapping Group. The successful candidate will join a
+team of neurologists, neuropsychologists, cognitive neuroscientists, and
+radiologists studying normal higher cognitive functions and dysfunction in
+stroke, epilepsy and dementia. The Center includes an active functional
+magnetic resonance imaging program, a psychophysics and eye movement
+laboratory, an Alzheimer's Disease Clinical Core, and a Behavioral
+Neurology clinic. Level of appointment commensurate with experience. Send
+letter of interest outlining experience, research goals, and CV to:
+M-Marsel Mesulam, M.D., Northwestern University, 320 E Superior Street,
+Searle 11-453, Chicago, IL 60611
+
+
+
+
+
+----------------------------------------------------------------------
+Darren R. Gitelman, M.D.                   E-mail:  d-gitelman@nwu.edu
+Cognitive Neurology and                    Voice:   (312) 908-9023
+  the Alzheimer's Disease Center           Fax:     (312) 908-8789
+http://www.brain.nwu.edu
+Northwestern Univ., 320 E. Superior St., Searle 11-470, Chicago, IL 60611
+----------------------------------------------------------------------

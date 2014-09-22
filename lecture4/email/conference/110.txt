@@ -1,0 +1,101 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jun 10 03:52:07 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id DAA00152;
+	Wed, 10 Jun 1998 03:52:01 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id cp24578;
+          9 Jun 98 13:16 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24449;
+          9 Jun 98 10:51 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17509;
+          9 Jun 98 10:50 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab08725; 8 Jun 98 18:28 EDT
+Received: from helmholtz.salk.edu by CS.CMU.EDU id aa25223;
+          8 Jun 98 18:27:39 EDT
+Received: (from terry@localhost) by helmholtz.salk.edu (8.7.5/8.7.3) id PAA05690; Mon, 8 Jun 1998 15:27:36 -0700 (PDT)
+Date: Mon, 8 Jun 1998 15:27:36 -0700 (PDT)
+From: Terry Sejnowski <terry@salk.edu>
+Message-Id: <199806082227.PAA05690@helmholtz.salk.edu>
+To: connectionists@cs.cmu.edu
+Subject: NEURAL COMPUTATION 10:5
+Cc: terry@helmholtz.salk.edu
+Status: RO
+X-Status: 
+
+Neural Computation -  Contents Volume 10, Number 5 - July 1, 1998
+
+ARTICLE
+
+Dynamics of Membrane Excitability Determine Inter-Spike 
+Interval Variability:  A Link Between Spike Generation
+Mechanisms and Cortical Spike Train Statistics
+Boris S. Gutkin and G. Bard Ermentrout
+
+NOTE
+
+Correction To Proof That Recurrent Neural Networks Can Robustly
+Recognize Only Regular Languages
+Michael Casey
+
+LETTERS
+
+On the Effect of Analog Noise in Discrete-Time Analog Computations
+Wolfgang Maass, and Pekka Orponen
+
+Category Learning Through Multi-Modality Sensing
+Virginia R. de Sa and Dana H. Ballard
+
+A Hierarchical Model of Binocular Rivalry
+Peter Dayan
+
+Efficient Learning in Boltzmann Machines Using Linear Response Theory
+H. J. Kappen and F. B. Rodriguez
+
+A Learning Theorem for Networks at Detailed Stochastic Equilibrium
+Javier R. Movellan
+
+Asymmetric Dynamics in Optimal Variance Adaptation
+Michael DeWeese and Anthony Zador
+
+Computation with Infinite Neural Networks
+Christopher K. I. Williams
+
+Bayesian Radial Basis Functions of Variable Dimension
+C. C. Holmes and B. K. Mallick
+
+Absence of Cycles in Symmetric Neural Networks
+Xin Wang, Arun Jagota, Fernanda Botelho, and Max Garzon
+
+Pattern Generation by Two Coupled Time-Discrete Neural
+Networks with Synaptic Depression
+W. Senn, and Th. Wannier, J. Kleinle, H.-R. Luscher,
+L. Muller, J. Streit, and K. Wyler
+
+Computational Studies of Lateralization of Phoneme Sequence Generation
+James A. Reggia, Sharon Goodall, and Yuri Shkuro
+
+Nonlinear Component Analysis as a Kernel Eigenvalue Problem
+Bernhard Scholkopf, Alexander Smola, and Klaus-Robert Muller
+
+-----
+
+ABSTRACTS -  http://mitpress.mit.edu/NECO/
+
+SUBSCRIPTIONS - 1998 - VOLUME 10 - 8 ISSUES
+
+                  USA    Canada*   Other Countries
+Student/Retired   $50    $53.50      $78
+Individual        $82    $87.74     $110
+Institution      $285   $304.95     $318
+ * includes 7% GST
+
+(Back issues from Volumes 1-9 are regularly available for
+$28 each to institutions and $14 each for individuals.
+Add $5 for postage per issue outside USA and Canada.
+Add +7% GST for Canada.)
+
+MIT Press Journals, 5 Cambridge Center, Cambridge, MA 02142-9902.
+Tel: (617) 253-2889  FAX: (617) 258-6779 mitpress-orders@mit.edu
+
+-----

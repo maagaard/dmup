@@ -1,0 +1,125 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Tue Mar 17 03:56:23 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id DAA28016;
+	Tue, 17 Mar 1998 03:56:13 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa09506;
+          16 Mar 98 15:39:21 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa09504;
+          16 Mar 98 14:55:12 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06436;
+          16 Mar 98 14:54 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa18535; 16 Mar 98 12:41 EST
+Received: from swift.cvs.rochester.edu by CS.CMU.EDU id aa00963;
+          16 Mar 98 12:40:05 EST
+Received: from [128.151.80.12] (barba.cvs.rochester.edu) by cvs.rochester.edu (4.1/MAIN-MX-1.4.3.3)
+	id AA03790; Mon, 16 Mar 98 12:39:50 EST
+Message-Id: <l0310280bb13313a5c743@[128.151.80.12]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 16 Mar 1998 12:40:13 -0500
+To: cneuro@bbb.caltech.edu, connectionists@cs.cmu.edu,
+        cogpsy@neuro.psy.soton.ac.uk, cns-memberlist@Dartmouth.edu,
+        vision-list@teleos.com
+From: Barbara Arnold <barba@cvs.rochester.edu>
+Subject: 21st CVS Symposium
+Status: RO
+X-Status: 
+
+21st CVS Symposium
+"Environmental Structure, Statistical Learning & Visual Perception"
+
+June 4 - 6, 1998
+
+CENTER FOR VISUAL SCIENCE
+University of Rochester
+Rochester, NY
+
+The Center for Visual Science at the University of Rochester is proud to
+present the 21st Symposium, "Environmental Structure, Statistical Learning
+and Visual Perception".  The three-day symposium will consist of five
+sessions plus an open house and lab tours on Saturday afternoon.
+
+The meeting will begin with a Reception/Buffet on Wednesday evening, June
+3. Formal sessions start Thursday morning, June 4, and end at noon on
+Saturday. There will be optional banquets held on Thursday and Friday
+evenings, and a cookout lunch on Saturday. Informal discussion gatherings
+will follow  the banquets.
+
+PROGRAM
+
+Wednesday, June 3
+4:00-10:00 PM	Registration
+6:00-8:00 PM	Reception/Buffet
+
+Thursday, June 4
+SESSION I: Image Statistics
+E Simoncelli, New York University
+C Chubb, University of CA Irvine
+D Ruderman, The Salk Institute
+SESSION II: Color Constancy
+D. Brainard, Univ of CA Santa Barbara
+S Shevell, University of Chicago
+A Hurlbert, Univ of Newcastle, England
+
+Friday, June 5
+SESSION III:Surface Perception
+T Adelson, MIT
+L Maloney, New York University
+Zili Liu, NEC Research Institute
+SESSION IV: Object Perception
+D Knill	, University of Pennsylvania
+K Nakayama, Harvard University
+P Kellman, University of CA Los Angeles
+
+Saturday, June 6
+SESSION V: Neural Coding and Plasticity
+W Geisler, University of Texas Austin
+N Logothetis, Max-Planck Institute
+SESSION VI: OPEN HOUSE
+Center for Visual Science Open House and Lab Tours
+
+
+REGISTRATION FEES
+Preregistration, Regular $125.00
+Preregistration, Student $ 95.00
+On-site, Regular	$180.00
+On-site, Student	$130.00
+
+To preregister, please return the form posted on our website
+http://www.cvs.rochester.edu/symposium/propsymposia98.html
+Please send a separate form for each person registering. No
+preregistrations will be accepted after May 15.
+
+If you do not have access to our website please contact
+Barbara Arnold at barba@cvs.rochester.edu or 716-275-8659
+
+ACCOMMODATIONS AND MEALS
+The University has moderate cost rooms available for symposium attendees.
+Residence halls are centrally located on the campus and are a short walk to
+Hoyt Hall where the symposium sessions will be held.
+
+A special package of residence hall room and all meals and banquets is
+being offered to Symposium participants. This package includes all meals
+from Thursday breakfast through the Saturday barbecue.
+
+TRAVEL AWARDS
+A small number of travel awards are available to graduate and postdoctoral
+students. Applications for travel assistance must be received by May 1,
+1998. Please refer to the travel award application form, posted on our
+website, for more information.
+http://www.cvs.rochester.edu/symposium/propsymposia98.html
+
+
+If you do not have access to our website please contact
+Barbara Arnold at barba@cvs.rochester.edu or 716-275-8659
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Barbara Arnold                             email: barba@cvs.rochester.edu
+  Center for Visual Science                  phone: 716 275 8659
+  Room 274 Meliora Hall                      fax:   716 271 3043
+  University of Rochester
+  Rochester NY 14627-0270
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+

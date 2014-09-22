@@ -1,0 +1,134 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jan 28 04:56:20 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA07303;
+	Thu, 28 Jan 1999 04:55:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06872;
+          27 Jan 99 17:35 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06860;
+          27 Jan 99 17:28 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21452;
+          27 Jan 99 17:27 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa15735; 27 Jan 99 10:41 EST
+Received: from degusse.IRO.UMontreal.CA by EDRC.CMU.EDU id aa14643;
+          27 Jan 99 10:41:44 EST
+Received: from rouge.IRO.UMontreal.CA (rouge.IRO.UMontreal.CA [132.204.26.110])
+	by degusse.IRO.UMontreal.CA (8.9.1/8.9.1) with ESMTP id KAA28931;
+	Wed, 27 Jan 1999 10:41:22 -0500 (EST)
+Received: (from bengioy@localhost)
+	by rouge.IRO.UMontreal.CA (8.9.1/8.9.1) id KAA28589;
+	Wed, 27 Jan 1999 10:41:18 -0500 (EST)
+Message-ID: <19990127104116.07451@IRO.UMontreal.CA>
+Date: Wed, 27 Jan 1999 10:41:16 -0500
+From: Yoshua Bengio <bengioy@IRO.UMontreal.CA>
+To: d-ssc@mcmail.cis.mcmaster.ca, Connectionists@cs.cmu.edu,
+        neuron-request@CATTELL.PSYCH.upenn.edu, allstat@mailbase.ac.uk,
+        edstat-l@jse.stat.ncsu.edu
+Cc: leger@dms.UMontreal.CA
+Subject: post-doc position in Montreal / statistical data analysis + machine learning 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+X-Mailer: Mutt 0.69
+X-MIME-Autoconverted: from 8bit to quoted-printable by degusse.IRO.UMontreal.CA id KAA28931
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id EAA07303
+Status: RO
+X-Status: 
+
+
+POST DOCTORAL RESEARCH STAFF MEMBER IN
+STATISTICAL DATA ANALYSIS AND MACHINE LEARNING
+FOR HIGH-DIMENSIONAL DATA SETS
+
+MATHEMATICS OF INFORMATION TECHNOLOGY AND COMPLEX SYSTEMS
+(MITACS: a new Canadian Network of Centers of Excellence)
+
+Position to be held jointly at the Department of Computer Science &
+Operations Research and the Department of Mathematics and
+Statistics, at the UNIVERSITY OF MONTREAL, Quebec, Canada
+
+
+NATURE AND SCOPE OF THE POSITION:
+
+A post-doctoral position position is available at the University of
+Montreal within the MITACS network of centers of excellence.
+The  main research area will be the statistical data analysis of
+high-dimensional data sets with machine learning algorithms, also
+known as, "database mining". The main research questions that will be
+addressed in this research are the following:
+ - how to deal with the "curse of dimensionality": algorithms
+   based on variable selection or based on combining many variables
+   with different importance, while controlling generalization to avoid
+   overfitting;
+ - how to make inferences on the models obtained with such methods,
+   mostly using resampling methods such as the BOOTSTRAP.
+This research will be performed within the MITACS project entitled
+"INFERENCE FROM HIGH-DIMENSIONAL DATA". See
+ http://www.iro.umontreal.ca/~bengioy/mitacs.html
+for more information on the project and
+ http://www.mitacs.math.ca
+for more information on the MITACS network.
+The candidate will be working under the supervision of professors
+Yoshua Bengio (computer science and operations research) and
+Christian Leger (mathematics and statistics). See
+ http://www.iro.umontreal.ca/~bengioy
+and
+ http://www.iro.umontreal.ca/~lisa
+for more information respectively on Yoshua Bengio and his
+laboratory. See
+ http://www.dms.umontreal.ca/~leger
+for more information on Christian Leger.
+
+
+ESSENTIAL SKILLS, KNOWLEDGE, AND ABILITIES:
+
+Candidates must possess a recent Ph.D. in computer science,
+statistics, mathematics, or a related discipline, with
+a research background in machine learning (in particular
+neural networks) and/or computational statistical methods
+such as the bootstrap. Candidates must have excellent
+programming skills, with demonstrated experience.
+
+Experience in the following areas will be mostly considered:
+
+- Statistical data analysis in general,
+- bootstrapping methods in particular.
+- Machine learning algorithms in general,
+- artificial neural networks in particular.
+- Programming skills in general,
+- object-oriented programming,
+- participation in large-scale, multiple authors, software projects,
+- experience with C, C++ and S-Plus languages, in particular.
+
+
+LENGTH OF EMPLOYMENT: 1 year (with possible
+renewal for 2 years total), starting as soon
+as possible.
+
+FOR FURTHER INFORMATION, PLEASE CONTACT:
+
+Yoshua Bengio
+ bengioy@iro.umontreal.ca,
+ 514-343-6804, fax 514-343-5834
+or
+Christian Leger
+ leger@dms.umontreal.ca
+ 514-343-7824, fax 514-343-5700
+
+Electronic applications (preferably as a postscript, raw text, or pdf
+file) are encouraged, in the form of a a Curriculum Vitae with
+information on academic experience, academic standing, research
+experience, programming experience, and any other relevant
+information (e.g., pointer to your web site, if any).
+
+--
+Yoshua Bengio
+Professeur aggrégé
+Département d'Informatique et Recherche Operationnelle
+Université de Montréal,
+addresse postale: C.P. 6128 Succ. Centre-Ville, Montreal, Quebec, Canada H3C 3J7
+addresse civique: 2920 Chemin de la Tour, Montreal, Quebec, Canada H3T 1J8
+Tel: 514-343-6804. Fax: 514-343-5834. Bureau 3339.
+http://www.iro.umontreal.ca/~bengioy
+http://www.iro.umontreal.ca/labs/neuro

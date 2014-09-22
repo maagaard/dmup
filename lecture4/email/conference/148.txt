@@ -1,0 +1,97 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Sep 16 16:47:10 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id QAA05663;
+	Wed, 16 Sep 1998 16:46:47 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06038;
+          15 Sep 98 21:47 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06036;
+          15 Sep 98 21:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13125;
+          15 Sep 98 21:42 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05567; 15 Sep 98 17:45 EDT
+Received: from mail.zedat.fu-berlin.de by CS.CMU.EDU id aa10239;
+          15 Sep 98 17:44:58 EDT
+Received: by Mail.ZEDAT.FU-Berlin.DE (Smail3.2.0.98)
+	  from Theorie1.biologie.fu-berlin.de (130.133.235.154) with smtp
+	  id <m0zJ2tv-00NDMfC>; Tue, 15 Sep 1998 23:44:43 +0200 (MEST)
+Date: Tue, 15 Sep 1998 23:44:46 -0900 (PDT)
+From: "PD Dr. Backhaus" <backhaus@zedat.fu-berlin.de>
+To: Christiane Linster <linster@berg.bu.edu>
+cc: cneuro@bbb.caltech.edu, Connectionists@cs.cmu.edu,
+        neuroethology@sio.ucsd.edu, chemsenseslist@wfu.edu
+Subject: Naples/Ischia Course: Final Call for Abstracts  
+X-Sender: backhaus@komma.fddi2.fu-berlin.de
+In-Reply-To: <Pine.SUN.3.91.980913111408.27536A-100000@berg> 
+Message-ID: <Pine.PCW.3.91.980915233921.23310P-100000@Theorie1.biologie.fu-berlin.de>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by eivind.imm.dtu.dk id QAA05663
+Status: RO
+X-Status: 
+
+
+See:    http://www.fu-berlin.de/backhaus/circul.html
+
+Call for Abstracts (deadline: 19.9.98)
+
+ISTITUTO ITALIANO PER GLI STUDI FILOSOFICI
+STUDY PROGRAM ON "FROM NEURONAL CODING TO CONSCIOUSNESS"
+
+INTERNATIONAL SCHOOL OF BIOCYBERNETICS
+NEURONAL CODING OF PERCEPTUAL SYSTEMS
+
+Isle of Ischia (Naples), Italy
+October 12-17, 1998
+
+OPENING CEREMONY AND INTRODUCTORY LECTURE:
+Naples, morning of October 12, 1998
+
+TOPICS:
+
+[1] Vision: Neuronal Coding of Colour, Space, Motion, and Polarized Light
+    Perception
+
+[2] Hearing and Touch: Neuronal Coding of Auditory and
+    Mechano Perception,
+[3] Taste and Smell: Neuronal Coding of Chemical Perception,
+[4] Neuronal Coding of Temperature, Pain, Electro, and Magneto Perception
+[5] Neuronal Coding, Internal Representations, Qualia and Sensations
+    (Consciousness)
+
+ADVISORY BOARD:
+A. Clark (USA), M. Kavaliers (C), L. Maffei (I), T. Radil, (CZ), U. Thurm,
+(D), G. Tratteur (I), R. de Valois, (USA), R. Wehner, (CH), J. S. Werner, (USA),
+
+
+SCHOOL DIRECTOR
+Werner Backhaus
+Freie Universität Berlin
+
+For program and registration form see:
+
+http://www.fu-berlin.de/backhaus/circul.html
+   
+
+
+W. Backhaus
+homepage:
+http://www.fu-berlin.de/backhaus
+with a link to our book "Color Vision -
+Perspectives from Different Disciplines, eds.
+W. Backhaus, R. Kliegl, and J.S. Werner. De Gruyter,
+Berlin - New York, 1998.
+
+New Address:
+W. Backhaus
+Theoretical and Experimental Biology
+Freie Universitaet Berlin
+Villa, Koenigin-Luise-Str. 29
+14195 Berlin
+
+Tel./Fax.: +49-30-838 2692
+e-mail: backhaus@zedat.fu-berlin.de
+
+

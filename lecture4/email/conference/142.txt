@@ -1,0 +1,234 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Sep  1 18:38:12 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id SAA19645;
+	Tue, 1 Sep 1998 18:38:02 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id af15100;
+          31 Aug 98 18:04 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15037;
+          31 Aug 98 17:38 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22030;
+          31 Aug 98 17:37 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa07629; 31 Aug 98 14:31 EDT
+Received: from PO8.ANDREW.CMU.EDU by EDRC.CMU.EDU id aa20756;
+          31 Aug 98 14:30:37 EDT
+Received: (from postman@localhost) by po8.andrew.cmu.edu (8.8.5/8.8.2) id OAA28427; Mon, 31 Aug 1998 14:26:31 -0400 (EDT)
+Received: via switchmail; Mon, 31 Aug 1998 14:26:30 -0400 (EDT)
+Received: from pcs40.andrew.cmu.edu via qmail
+          ID </afs/andrew.cmu.edu/service/mailqs/q000/QF.4puif:200iWZ01D7A0>;
+          Mon, 31 Aug 1998 14:26:18 -0400 (EDT)
+Received: from pcs40.andrew.cmu.edu via qmail
+          ID </afs/andrew.cmu.edu/usr21/mac/.Outgoing/QF.Ypuif6i00iWZ07bJE0>;
+          Mon, 31 Aug 1998 14:26:14 -0400 (EDT)
+Received: from mms.4.170.Jun.27.1996.16.34.50.sun4.51.MacMail.5.2.CUILIB.3.45.SNAP.NOT.LINKED.pcs40.andrew.cmu.edu.sun4m.54
+          via MS.5.6.pcs40.andrew.cmu.edu.sun4_51;
+          Mon, 31 Aug 1998 14:26:14 -0400 (EDT)
+Message-ID: <spuif6C00iWZ07bJ40@andrew.cmu.edu>
+Date: Mon, 31 Aug 1998 14:26:14 -0400 (EDT)
+From: Mary Anne Cowden <mac+@andrew.cmu.edu>
+To: Connectionists@cs.cmu.edu, cogsci@coglit.soton.ac.uk,
+        psyling@psy.gla.ac.uk, cnbc@cnbc.cmu.edu, azure@bns.pitt.edu,
+        Bulletin Board Administration <bb+org.psy.psychology@andrew.cmu.edu>,
+        Outbound News <outnews+netnews.cmu.cs.general@andrew.cmu.edu>,
+        Outbound News <outnews+netnews.cmu.cs.scs@andrew.cmu.edu>,
+        Bulletin Board Administration <bb+org.psy.ego@andrew.cmu.edu>,
+        mac@mail1.andrew.cmu.edu
+Subject: Carnegie Symposium on Mechanisms of Cognitive Development, Oct 9-11, 1998
+Status: RO
+X-Status: 
+
+
+===============================================================
+
+                          CALL FOR PARTICIPATION
+
+                 The 29th Carnegie Symposium on Cognition
+
+  Mechanisms of Cognitive Development: Behavioral and Neural Perspectives
+
+                           October 9 - 11, 1998
+
+          James L. McClelland and Robert S. Siegler, Organizers
+
+----------------------------------------------------------------------------
+The 29th Carnegie Symposium on Cognition is sponsored by the Department of
+Psychology and the Center for the Neural Basis of Cognition. The symposium
+is supported by the National Science Foundation, the National Institute of
+Mental Heatlh, and the National Institute of Child Health and Human
+Development.
+----------------------------------------------------------------------------
+
+This post contains the following entries relevant to the symposium:
+
+   * Overview
+   * Schedule of Events
+   * Attending the Symposium
+   * Travel Fellowships
+
+----------------------------------------------------------------------------
+
+Overview
+
+This symposium will consider how children's thinking evolves during
+development, with a focus on the role of experience in causing change.
+Speakers will examine the processes by which children learn and those that
+make children ready and able to learn at particular points in development,
+using both behavioral and neural approaches.
+
+Behavioral approaches will include research on the 'microgenesis' of
+cognitive change over short time periods (e.g., several hour-long
+sessions) in specific task situations. Research on cognitive change over
+longer time scales (months and years) will also be presented, as will
+research that uses computational modeling and dynamical systems approaches
+to understand learning and development.
+
+Neural approaches will include the study of how neuronal activity and
+connectivity change during acquisition of cognitive skills in children
+and adults. Other studies will consider the possible emergence of
+cognitive abilities through the maturation of brain structures and the
+effects of experience on the organization of functions in the brain.
+Developmental anomalies such as autism and attention deficit disorder
+will also be examined, as windows on normal development.
+
+Four questions will be examined throughout the symposium: 1) Why do
+cognitive abilities emerge when they do during development? 2) What
+are the sources of developmental and individual differences, and of
+developmental anomalies in learning? 3) What happens in the brain when
+people learn? 4) How can experiences be ordered and timed so as to
+optimize learning?
+
+The answers to these questions have strong implications for how we
+educate children and remediate deficits that impede development of
+thinking abilities. These implications will be explored in discussions
+among the participants.
+
+----------------------------------------------------------------------------
+The 29th Carnegie Symposium on Cognition: Schedule
+----------------------------------------------------------------------------
+
+Friday, October 9th: Studies of the Microgenesis of Cognitive Development
+
+8:30 - 9:00 Continental Breakfast
+
+9:00        Welcome
+
+BEHAVIORAL APPROACHES
+
+9:20        Susan Goldin-Meadow,  University of Chicago
+            Giving the mind a hand: The role of gesture in cognitive change
+
+10:20       Break
+
+10:40       Robert Siegler, Carnegie Mellon University 
+            Microgenetic studies of learning in children and in
+            brain-damaged adults
+
+11:40       Lunch
+
+NEUROSCIENCE APPROACHES
+
+1:00        Michael Merzenich, University of California, San Francisco
+            Cortical plasticity phenomenology and mechanisms:
+            Implications for neurorehabilitation
+
+2:00        James L. McClelland,  Carnegie Mellon University/CNBC  
+            Revisiting the critical period: Interventions that
+            enhance adaptation to non-native phonological contrasts 
+            in Japanese adults
+
+3:00        Break
+
+3:20        Richard Haier, University of California, Irvine         
+            PET studies of learning and individual differences
+
+4:20        Discussant: James Stigler, UCLA
+
+Saturday, October 10th: Studies of Change Over Long Time Scales
+
+8:30 - 9:00 Continental Breakfast
+
+BEHAVIORAL APPROACHES
+
+9:00        Esther Thelen, Indiana University
+            Dynamic mechanisms of change in early perceptual motor
+            development
+                                           
+10:00       Robbie Case, University of Toronto
+            Differentiation and integration as the mechanisms in
+            cognitive and neurological development
+
+11:00       Break
+
+11:20       Deanna Kuhn, Teacher's College, Columbia University
+            Why development does (and doesn't) occur: Evidence
+            from the domain of inductive reasoning
+
+12:20       Lunch
+
+NEUROSCIENCE APPROACHES
+
+2:00        Mark Johnson, Birkbeck College/University College London    
+            Cortical specialization for cognitive functions
+
+3:00        Helen Neville, University of Oregon 
+            Specificity and plasticity in human brain development
+
+4:00        Break
+
+4:20        Discussant: David Klahr, Carnegie Mellon University
+
+Sunday, October 11th: Developmental Disorders
+
+8:30 - 9:00 Continental Breakfast
+
+DYSLEXIA
+
+9:00        Albert Galaburda, Harvard Medical School     
+            Toxicity of neural plasticity as seen through a model of
+            learning disability
+
+AUTISM
+
+10:00       Patricia Carpenter, Marcel Just, Carnegie Mellon University
+            Cognitive load distribution in normal and autistic individuals
+ 
+11:00       Break
+ 
+ATTENTION DEFICIT DISORDER
+
+11:20       B. J. Casey, University of Pittsburgh Medical Center     
+            Disruption and inhibitory control in developmental
+            disorders: A mechanistic model of implicated
+            frontostriatal circuitry
+ 
+12:20       Concluding discussant: Michael I. Posner, University of Oregon
+----------------------------------------------------------------------------
+
+Attending the Symposium
+
+Sessions on Friday, October 9 will be held in McConomy Auditorium,
+University Center, Carnegie Mellon. Sessions on Saturday, October 10 and
+Sunday, October 11 will be held in the Adamson Wing, Room 135 Baker Hall.
+Admission is free, and everyone is welcome to attend. Out of town visitors
+can contact Mary Anne Cowden, (412) 268-3151, mac+@cmu.edu, for additional
+information.
+
+---------------------------------------------------------------------------
+This material is based on the symposium web-page:
+
+http://www.cnbc.cmu.edu/carnegie-symposium
+
+----------------------------------------------------------------------------
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         Mary Anne Cowden, Baker Hall 346 C          
+  Psychology Dept, Carnegie Mellon University 
+       5000 Forbes Ave., Pittsburgh, PA 15213      
+   Phone:  412/268-3151   Fax:  412/268-3464
+    http://www.contrib.andrew.cmu.edu/~mac/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

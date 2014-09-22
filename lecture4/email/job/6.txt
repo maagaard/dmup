@@ -1,0 +1,91 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Oct 13 01:31:37 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id BAA26490;
+	Tue, 13 Oct 1998 01:30:57 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29194;
+          12 Oct 98 18:11 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29192;
+          12 Oct 98 17:52 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22580;
+          12 Oct 98 17:52 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa05894; 12 Oct 98 14:25 EDT
+Received: from oxmail4.ox.ac.uk by EDRC.CMU.EDU id aa04263;
+          12 Oct 98 14:25:11 EDT
+Received: from cogsci1.psych.ox.ac.uk by oxmail4 with SMTP (PP) with ESMTP;
+          Mon, 12 Oct 1998 19:24:45 +0100
+Received: from cogsci3.psych.ox.ac.uk (1073744992@cogsci3.psych.ox.ac.uk [163.1.209.143]) 
+          by cogsci1.psych.ox.ac.uk (8.8.8/8.7.3) with ESMTP id TAA31345 
+          for <connectionists@cs.cmu.edu>;
+          Mon, 12 Oct 1998 19:24:44 +0100 (BST)
+Received: from localhost (pothos@localhost) 
+          by cogsci3.psych.ox.ac.uk (8.8.8/8.7.3) with SMTP id TAA12250 
+          for <connectionists@cs.cmu.edu>;
+          Mon, 12 Oct 1998 19:24:43 +0100 (BST)
+X-Authentication-Warning: cogsci3.psych.ox.ac.uk: pothos owned process doing 
+                          -bs
+Date: Mon, 12 Oct 1998 19:24:42 +0100 (BST)
+From: Emmanuel Pothos <emmanuel.pothos@psy.ox.ac.uk>
+X-Sender: pothos@cogsci3.psych.ox.ac.uk
+To: connectionists@cs.cmu.edu
+Subject: post doc position
+Message-ID: <Pine.OSF.3.96.981012192248.12418B-100000@cogsci3.psych.ox.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+
+
+
+UNIVERSITY OF WALES, BANGOR
+
+RESEARCH ASSISTANT
+
+JOB ADVERT
+
+SALARY GRADE 1B -   15,735 - 18,275  	
+
+
+
+A Research Officer is sought to work with Dr. Emmanuel Pothos and
+Professor Nick Chater on an exciting project relating to human
+categorisation.
+
+In the first instance, the project would involve computer implementation
+and analysis of an information theory model of classification, developed
+by Pothos and Chater. Subsequently, human experimental work would be
+designed to investigate the psychological plausibility of the project. 
+
+Although the emphasis will be on the psychological implications of the
+theory, statistical applications will be also be pursued, with a view to
+addressing clustering, data mining problems. 
+
+Candidates should have a high level of computer programming competence
+(preferably C, or Matlab); expertise in the statistics clustering
+literature, and human experimental skills are desirable but not necessary.
+Thus, we welcome applications with a Ph.D. or a good MSc in computer
+science, statistics, cognitive psychology and related disciplines. 
+
+The post will be for one year commencing January 1999 (although this is
+flexible), held at the University of Wales, Bangor, one of the fastest
+growing departments in the UK, which received a 5A rating in the most
+recent RAE. 
+
+Application forms and further particulars are available by contacting :
+Personnel Services, University of Wales, Bangor, Gwynedd,  LL57 2DG.
+tel.:  01248-382926/388132.  e-mail:  pos020@bangor.ac.uk.
+
+
+Please quote  reference number 98/201 when applying.
+
+Closing date for applications:  Monday 16th November 1998.
+
+Informal enquiries can be made by contacting Dr Emmanuel Pothos e.mail:
+e.pothos@bangor.ac.uk, or Professor Nick Chater e.mail:
+nick.chater@warwick.ac.uk
+
+
+Committed to Equal Opportunities
+

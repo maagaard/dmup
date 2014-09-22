@@ -1,0 +1,131 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May  5 04:12:37 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA05450;
+	Wed, 5 May 1999 04:12:30 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab29126;
+          4 May 99 19:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab29124;
+          4 May 99 19:23 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23351;
+          4 May 99 19:23 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11127; 4 May 99 2:38 EDT
+Received: from stucco.cco.caltech.edu by RI.CMU.EDU id aa28140;
+          4 May 99 2:38:33 EDT
+Received: (from mitra@localhost)
+	by stucco.cco.caltech.edu (8.9.1/8.9.1) id XAA27052
+	for connectionists@cs.cmu.edu; Mon, 3 May 1999 23:38:27 -0700 (PDT)
+Date: Mon, 3 May 1999 23:38:27 -0700 (PDT)
+From: Partha Mitra <mitra@its.caltech.edu>
+Message-Id: <199905040638.XAA27052@stucco.cco.caltech.edu>
+To: connectionists@cs.cmu.edu
+Status: RO
+X-Status: 
+
+Workshop on Analysis of Neural Data 
+________________________________________________
+
+Modern methods and open issues in the analysis
+and interpretation of time-series and imaging 
+data in the neurosciences 
+
+___________________________________________________
+>> 16 August - 28 August 1999                      
+>> Marine Biological Laboratories - Woods Hole, MA 
+___________________________________________________
+
+A working group of scientists committed to 
+quantitative approaches to problems in neuroscience
+will focus their efforts on experimental and 
+theoretical issues related to the analysis of large,
+multi-channel data sets. 
+
+The motivation for the work group is based on issues
+that arise in two complimentary areas critical to an
+understanding of brain function. The first involves 
+advanced signal processing methods, particularly 
+those appropriate for emerging multi-site recording 
+techniques and noninvasive imaging techniques. The 
+second involves the development of a calculus to 
+study the dynamical behavior of nervous systems and 
+the computations they perform. 
+
+A distinguishing feature of the work group will be 
+the close collaboration between experimentalists and 
+theorists, particularly with regard to the analysis 
+of data and the planning of experiments. The work 
+group will have a small number of pedagogical 
+lectures, supplemented by tutorials on relevant 
+computational and mathematical techniques. 
+
+This work group is a means to critically evaluate 
+techniques for the processing of multi-channel data, 
+of which imaging forms an important category. Such 
+techniques are of fundamental importance for basic 
+research and medical diagnostics. We have begun to
+establish a repository of these techniques  
+to insure the rapidly dissemination of modern 
+analytical techniques throughout the neuroscience 
+community. 
+
+The work group convenes on a yearly basis.  In 1999, we
+will continue to focus on topics in the analysis of 
+multivariate time series data, consisting of both 
+continuous and point processes. In addition, we will 
+have two specialized programs on neuronal instrumentation:
+
+* 21 August 1999 - Multisite recording of extracellular
+cortical potentials with Si-based probes.  This is offered
+in collaboration with the Center for Neural Communication
+Technology at the University of Michigan. 
+* 26 August 1999 - A comparison of analysis techniques
+for fMRI data.
+ 
+Participants: Twenty five participants, both 
+experimentalists and theorists. Experimentalists are 
+specifically encouraged to bring data records to the 
+work group; appropriate computational facilities will 
+be provided. The work group will further take 
+advantage of interested investigators concurrently
+present at the MBL. We encourage 
+graduate students and postdoctoral fellows as well 
+as senior researchers to apply. 
+
+Participant Fee: $250. 
+
+Support: National Institutes of Health -
+NIMH, NIA, NIAAA, NICHD/NCRR, NIDCD, NIDA, and NINDS. 
+
+Organizers: David Kleinfeld (UCSD) and 
+            Partha P. Mitra (Bell Laboratories). 
+
+Website: http://www.vis.caltech.edu/~WAND
+
+Application: Send a copy of your curriculum vita, 
+together with a cover letter that contains a brief 
+(ca. 200 word) paragraph on why you wish to attend 
+the work group to: 
+
+  Ms. Jean B. Ainge 
+  Bell Laboratories, Lucent Technologies 
+  700 Mountain Avenue 1D-427 
+  Murray Hill, NJ 07974 
+  908-582-4702 (fax) or <jba@bell-labs.com> 
+
+The MBL is an EEO AAI. 
+
+Graduate students and postdoctoral fellows are 
+encouraged to include a letter of support from 
+their research advisor. 
+
+Shared accomodations and board will be provided.
+
+  Applications must be received by 21 May 1999. 
+  Participants will be notified by 7 June 1999.
+
+The Archives for Neurosciences can be found at:
+http://xxx.lanl.gov/archive/neuro-sys
+
+
+

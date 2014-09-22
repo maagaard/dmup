@@ -1,0 +1,51 @@
+
+
+From spm-request@mailbase.ac.uk Sat Jun 19 04:31:18 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id EAA08686
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 19 Jun 1999 04:31:17 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id DAA29615;
+	Sat, 19 Jun 1999 03:28:18 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id DAA18697;
+        Sat, 19 Jun 1999 03:26:31 +0100 (BST)
+Received: from mail.sim.com.mx ([148.245.143.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id DAA18580;
+        Sat, 19 Jun 1999 03:24:49 +0100 (BST)
+Date: Sat, 19 Jun 1999 03:24:49 +0100 (BST)
+Message-Id: <199906190224.DAA18580@naga.mailbase.ac.uk>
+Received: from ITCMEXWORK by mail.sim.com.mx with SMTP (Microsoft Exchange Internet Mail Service Version 5.0.1460.8)
+	id NF6CBGQ6; Fri, 18 Jun 1999 21:12:51 -0600
+MIME-Version: 1.0
+Content-Type: text/plain; charset=unknown-8bit
+Content-Transfer-Encoding: 8bit
+Subject: PRUEBA GRATIS PARA SU PC!
+From: isitel@sim.com.mx
+To: isitel@sim.com.mx
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: isitel@sim.com.mx
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Estimado amigo:
+
+Obtenga una prueba profesional y gratuita para su pc.
+
+Le ayudará a determinar si su pc está lista para operar mas allá del año 2000.
+
+Si le interesa solo devuelva este correo electrónico sin modificarlo y recibirá su
+prueba gratuita de inmediato.
+
+
+Saludos
+
+Soporte Técnico
+Grupo Itcmex s.a
+

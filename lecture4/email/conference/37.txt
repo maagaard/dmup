@@ -1,0 +1,34 @@
+
+
+From ebert@cs.umbc.edu Wed Sep 17 13:51:04 EDT 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id TAA08019; Wed, 17 Sep 1997 19:51:03 +0200 (METDST)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id NAA13601;
+	Wed, 17 Sep 1997 13:49:43 -0400 (EDT)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (ebert@localhost) by dogbert.cs.umbc.edu (8.8.5/8.6.9) id NAA03557; Wed, 17 Sep 1997 13:49:40 -0400 (EDT)
+Message-Id: <199709171749.NAA03557@dogbert.cs.umbc.edu>
+Subject: Re: CFP: Workshop on New Paradigms in Information Visualization and    Manipulation
+To: fnielsen@eivind.imm.dtu.dk (Finn Aarup Nielsen)
+Date: Wed, 17 Sep 1997 13:49:40 -0400 (EDT)
+Cc: lkhansen@eivind.imm.dtu.dk, ebert@cs.umbc.edu (Dr. David Ebert)
+In-Reply-To: <Pine.HPP.3.95.970917192211.2495L-100000@eivind.imm.dtu.dk> from "Finn Aarup Nielsen" at Sep 17, 97 07:31:17 pm
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+> 
+> We are planing to summit an article to the workshop and wonder if 
+> a latex file can be called an ASCII? Or should we convert it to HTML
+> somehow (by hand or latex2html)? What format should should the pictures
+> be in?
+
+We don't consider LaTeX to be ASCII. You could use latex2html to convert it.
+PDF would also be acceptable. The pictures can be in jpg (preferred) or gif.
+
+
+David
+-----

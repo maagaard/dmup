@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Sep 14 18:30:10 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id SAA05572;
+	Tue, 14 Sep 1999 18:30:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27754;
+          14 Sep 99 9:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27751;
+          14 Sep 99 9:42 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16628;
+          14 Sep 99 9:41 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa14479; 14 Sep 99 4:19 EDT
+Received: from phy.ucsf.edu by CS.CMU.EDU id aa17359; 14 Sep 99 4:18:20 EDT
+Received: from coltrane.ucsf.edu (root@coltrane.ucsf.edu [128.218.66.81]) by phy.ucsf.EDU (8.8.6/GSC4.27) with ESMTP
+	id BAA07671; Tue, 14 Sep 1999 01:18:14 -0700 (PDT)
+Received: by coltrane.ucsf.edu (8.9.3) id BAA14216; Tue, 14 Sep 1999 01:18:14 -0700
+From: Ken Miller <ken@phy.ucsf.EDU>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-ID: <14302.1222.260286.182929@coltrane.ucsf.edu>
+Date: Tue, 14 Sep 1999 01:18:14 -0700 (PDT)
+To: Connectionists list <Connectionists@cs.cmu.edu>, cneuro@bbb.caltech.edu,
+        tiptop-user@ioppublishing.co.uk
+Subject: CSH/Stony Brook Fellowships: Interdisciplinary Research in Brain Theory
+X-Mailer: VM 6.72 under 21.1 "20 Minutes to Nikko" XEmacs Lucid (patch 2)
+cc: JS Wallach <wallach@swartzneuro.org>
+Status: RO
+X-Status: 
+
+The Cold Spring Harbor Laboratory and The State University of New York
+at Stony Brook:  SICN Fellowships for Interdisciplinary Research in
+Neuroscience
+
+The Swartz Initiative for Computational Neuroscience (SICN) announces
+a program to promote collaborative studies between researchers in
+computational neuroscience, mathematics, physics, engineering and
+computer sciences. The goal is to understand the algorithms and
+implementations that underlie brain functions. To this end, SICN
+intends to foster the growth of interdisciplinary research in brain
+theory. SUNY at Stony Brook has strong departments in neurobiology,
+mathematics, physical sciences and technology. CSHL had a strong
+program in cellular neurobiology and has made a growing commitment in
+theoretical neuroscience. Scientists will be be hired at the
+post-doctoral level to work in association with faculty or, if deemed
+appropriate, independently. The salary will be highly competitive and
+those selected will be eligible for cintinuing support from SICN.
+Candidates should submit (to Jonathan Wallach at the address below) a
+one-page summary of their research interests and goals, a CV, and the
+names of three academic references. For full consideration,
+applications should be received by October 15th, 1999.
+
+For further information about these positions please contact: 
+Jonathan Wallach, Director
+The Swartz Foundation
+535 Life Sciences
+SUNY at Stony Brook
+Stony Brook, NY 11794-5230, 
+email: wallach@swartzneuro.org, tel: 516 632 4179. 
+
+Visit the Swartz Foundation web site at www.swartzneuro.org for
+complete information about this program.

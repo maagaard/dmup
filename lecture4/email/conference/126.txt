@@ -1,0 +1,261 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jul 16 05:28:45 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id FAA08858;
+	Thu, 16 Jul 1998 05:28:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa00239;
+          15 Jul 98 17:53 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa00237;
+          15 Jul 98 17:47 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00769;
+          15 Jul 98 17:46 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa02921; 15 Jul 98 17:14 EDT
+Received: from ns.ICSI.Berkeley.EDU by RI.CMU.EDU id aa07059;
+          15 Jul 98 17:13:19 EDT
+Received: from fondue.ICSI.Berkeley.EDU (fondue.ICSI.Berkeley.EDU [128.32.201.61])
+	by ICSI.Berkeley.EDU (8.9.0/8.9.0) with ESMTP id OAA06511
+	for <Connectionists@cs.cmu.edu>; Wed, 15 Jul 1998 14:12:56 -0700 (PDT)
+From: Michael Berthold <berthold@ICSI.Berkeley.EDU>
+Received: (berthold@localhost) 
+	by fondue.ICSI.Berkeley.EDU (8.8.2/1.8)
+	id OAA24043 for Connectionists@cs.cmu.edu; Wed, 15 Jul 1998 14:13:07 -0700 (PDT)
+Message-Id: <199807152113.OAA24043@fondue.ICSI.Berkeley.EDU>
+Subject: Announcing IDA-99
+To: Connectionists@cs.cmu.edu
+Date: Wed, 15 Jul 1998 14:13:07 -0700 (PDT)
+X-Mailer: ELM [version 2.4 PL24]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+                            Announcing IDA-99
+
+       Third International Symposium on Intelligent Data Analysis
+  Center for Mathematics and Computer Science, Amsterdam, The Netherlands
+                           9th-11th August 1999
+
+Call for papers
+===============
+  IDA-99 will take  place in Amsterdam from 9th to 11th August 1999,  and is 
+organised by Leiden University  in cooperation  with AAAI and NVKI.  It will
+consist of  a stimulating  program  of tutorials,  invited talks  by leading
+international  experts  in intelligent  data  analysis,  contributed papers,
+poster sessions, and an exciting social program.
+We plan to have  a special issue  of the  Intelligent Data Analysis  journal 
+with extended versions of a number of papers presented during the symposium.
+
+Objective
+=========
+  For many years the  intersection of computing and  data analysis contained
+menu-based statistics  packages and not much else.  Recently,  statisticians
+have embraced computing,  computer scientists are using statistical theories
+and methods, and researchers in all corners are inventing algorithms to find
+structure in vast  online datasets.  Data analysts  now have access to tools
+for exploratory data  analysis,  decision tree induction,  causal induction,
+function  finding,  constructing  customised  reference  distributions,  and
+visualisation,  and there are intelligent assistants to advise on matters of
+design and  analysis.  There are  tools  for  traditional,  relatively small
+samples and also for enormous datasets.  In all,  the scope for probing data
+in new and penetrating ways has never been so exciting.
+
+  Our aim is for IDA-99 to bring  together  a wide  variety  of  researchers
+concerned  with  extracting  knowledge  from  data,  including  people  from
+statistics,  machine learning,  neural networks,  computer science,  pattern
+recognition, database management, and other areas. The strategies adopted by
+people from these areas are  often different,  and a synergy results if this
+is recognised.  IDA-99  is intended  to stimulate interaction  between these
+different areas, so that more powerful tools emerge for extracting knowledge
+from  data  and  a  better  understanding  is  developed  of the  process of
+intelligent data analysis.
+
+It is the third symposium on Intelligent Data Analysis after  the successful
+symposia Intelligent Data Analysis 97 (http://www.dcs.bbk.ac.uk/ida97.html/)
+and Intelligent Data Analysis 95.
+
+Topics
+======
+Contributed papers are invited  on any  relevant topic,  including,  but not
+restricted to:
+
+APPLICATION & TOOLS:
+
+   analysis of different kinds of data (e.g., censored, temporal etc)
+   applications (e.g., commerce, engineering, finance, legal, manufacturing,
+     medicine, public policy, science)
+   assistants, intelligent agents for data analysis
+   evaluation of IDA systems
+   human-computer interaction in IDA
+   IDA systems and tools
+   information extraction, information retrieval
+
+THEORY & GENERAL PRINCIPLES:
+
+   analysis of IDA algorithms
+   classification, projection, regression, optimization, clustering
+   data cleaning
+   data pre-processing
+   experiment design
+   model specification, selection, estimation
+   reasoning under uncertainty
+   search
+   statistical strategy
+   uncertainty and noise in data
+
+ALGORITHMS & TECHNIQUES:
+
+   Bayesian inference and influence diagrams
+   bootstrap and randomization
+   causal modeling
+   data mining
+   decision analysis
+   exploratory data analysis
+   fuzzy, neural and evolutionary appraoches
+   knowledge-based analysis
+   machine learning
+   statistical pattern recognition
+   visualization
+
+Submissions
+===========
+  Participants  who  wish  to  present  a paper  are requested  to submit  a
+manuscript,  not exceeding  10 single-spaced  pages.  We strongly  encourage
+authors to format their manuscript using Springer-Verlag's Advice to Authors
+(http://www.springer.de/comp/lncs/authors.html)   for   the  Preparation  of
+Contributions to  LNCS Proceedings.  This submission format  is identical to
+the one for the final camera-ready copy of accepted papers.  In addition, we
+request a separate page detailing the paper title, authors names, postal and
+email addresses, phone and fax numbers. Email submissions in Postscript form
+are encouraged.  Otherwise,  five hard copies  of the manuscripts  should be
+submitted.
+
+Submissions should be sent to the IDA-99 Program Chair.
+either electronically to:
+
+  ida99@wi.leidenuniv.nl
+
+or by hard copy to:
+
+  Prof. dr J.N. Kok
+  Department of Computer Science
+  Leiden University
+  P.O. Box 9512
+  2300 RA Leiden
+  The Netherlands
+
+  The address for courier services is
+
+  Prof. dr J.N. Kok
+  Department of Computer Science
+  Leiden University
+  Niels Bohrweg 1
+  2333 CA Leiden
+  The Netherlands
+
+Important Dates
+===============
+February 1st, 1999              Deadline for submitting papers
+April 15th, 1999                Notification of acceptance
+May 15th, 1999                  Deadline for submission of final papers
+
+Review
+======
+  All submissions will  be reviewed on the basis of relevance,  originality, 
+significance, soundness and clarity.  At least two referees will review each
+submission independently and final decisions will be made by program chairs,
+in consultation with relevant reviewers.
+
+Publications
+============
+  The proceedings will be published in the Lecture Notes in Computer Science
+series of Springer  (http://www.springer.de/comp/lncs/).  The proceedings of
+Intelligent Data Analysis 97 appeared in this series as LNCS 1280
+(http://www.springer.de/comp/lncs/volumes/1280.htm).
+
+Location
+========
+  The symposium  will use  the facilities of the  Center for Mathematics and
+Computer  Science  in  Amsterdam  (CWI -- http://www.cwi.nl/).  There  is an
+auditorium  for more  than  200 participants  and  several  other rooms  for
+parallel  sessions.    CWI  is  situated  on  the  Wetenschappelijk  Centrum
+Watergraafsmeer (WCW) campus in the eastern part of Amsterdam.  Instructions
+about how to get to CWI can be found at:
+  http://www.cwi.nl/cwi/about/directions.html
+On the campus there are  several other research institutes  and parts of the
+University of Amsterdam (http://www.uva.nl/english).
+
+Social Event
+============
+  For the social event we are thinking  about a boat trip through the canals
+of Amsterdam,  with a  special dinner  in the  centre of  the city.  We will
+provide each  participant  with a  ``social package'',  including a  list of
+restaurants, bars, maps of town (http://www.channels.nl/themap.html), public
+transport information, timetables of trains (http://www.ns.nl/), etc.
+  There are  special  boats  and  trams  that  circle  along  the  touristic
+attractions of Amsterdam and  hence it will be easy for the  participants to
+find their way.  Further information can be found in the  The Internet Guide
+to Amsterdam (http://www.cwi.nl/~steven/amsterdam.html),  panoramic pictures
+are also available (http://www.cwi.nl/~behr/PanoramaUK/Panorama.html).
+
+Exhibitions
+===========
+  IDA-99  welcomes demonstrations  of software  and publications  related to
+intelligent data analysis.
+
+IDA-99 Organisation
+===================
+General Chair:            David Hand, Open University, UK
+Program Chair:            Joost Kok, Leiden University, The Netherlands
+Program Co-Chairs:        Michael Berthold, University of California, USA
+                          Doug Fisher, Vanderbilt University
+
+Members:
+    Niall Adams, Open University, UK
+    Pieter Adriaans, Syllogic, The Netherlands
+    Russell Almond, Research Statistics Group, US
+    Thomas Baeck, Informatik Centrum Dortmund, Germany
+    Riccardo Bellazzi, University of Pavia, Italy
+    Paul Cohen, University of Massachusetts, US
+    Paul Darius, Leuven University, Belgium
+    Tom Dietterich, Oregon State University, US
+    Gerard van den Eijkel, Delft University of Technology, The Netherlands
+    Fazel Famili, National Research Council, Canada
+    Karl Froeschl, Univ of Vienna, Austria 
+    Linda van der Gaag, Utrecht University, The Netherlands
+    Alex Gammerman, Royal Holloway London, UK
+    Jaap van den Herik, University Maastricht, The Netherlands
+    Larry Hunter, National Library of Medicine, US
+    David Jensen, University of Massachusetts, US
+    Bert Kappen, Nijmegen University, The Netherlands
+    Hans Lenz, Free University of Berlin, Germany
+    Frank Klawonn, University of Applied Sciences Emden, Germany
+    Bing Liu, National University, Singapore
+    Xiaohui Liu, Birkbeck College, UK
+    David Madigan, University of Washington, US
+    Heikki Mannila, Helsinki University, Finland
+    Wayne Oldford, Waterloo, Canada 
+    Erkki Oja, Helsinki University of Technology, Finland
+    Albert Prat, Technical University of Catalunya, Spain
+    Luc de Raedt, KU Leuven, Belgium
+    Rosanna Schiavo, University of Venice, Italy
+    Jude Shavlik, University of Wisconsin, US
+    Roberta Siciliano, University of Naples, Italy
+    Arno Siebes, Center for Mathematics and Computer Science, The Netherlands
+    Rosaria Silipo, International Computer Science Institute, US
+    Floor Verdenius, ATO-DLO, The Netherlands
+    Stefan Wrobel, GMD, Germany 
+    Jan Zytkow, Wichita State University, US
+
+(To be extended)
+
+Enquiries
+=========
+
+Latest information regarding IDA-99 will be available on the World Wide Web
+Server of the Leiden Institute for Advanced Computer Science:
+
+   http://www.wi.leidenuniv.nl/~ida99/
+

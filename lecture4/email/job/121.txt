@@ -1,0 +1,102 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu May 20 22:24:48 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA21300;
+	Thu, 20 May 1999 22:24:39 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07172;
+          20 May 99 14:58 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07170;
+          20 May 99 14:47 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14245;
+          20 May 99 14:47 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa20762; 20 May 99 12:00 EDT
+Received: from josef.ifi.unizh.ch by CS.CMU.EDU id aa02520;
+          20 May 99 11:59:13 EDT
+Received: from ifi.unizh.ch by josef.ifi.unizh.ch with SMTP (PP) 
+          id <06215-0@josef.ifi.unizh.ch>; Thu, 20 May 1999 17:58:44 +0200
+X-Sender: llicht@mail.ifi.unizh.ch
+Message-Id: <l03102803b369e1ca1e81@[130.60.99.232]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Thu, 20 May 1999 18:00:14 +0200
+To: connectionists@cs.cmu.edu
+From: Lukas Lichtensteiger <llicht@ifi.unizh.ch>
+Subject: PhD position in Evolutionary Robotics/Artificial Life
+Cc: pfeifer@ifi.unizh.ch
+Status: RO
+X-Status: 
+
+----------------------------------------------------------------------
+                Position for a Ph.D. student in
+
+             Evolutionary Robotics/Artificial Life
+
+              at the AI Lab, University of Zurich
+----------------------------------------------------------------------
+
+A new PhD student position is open at the Artificial Intelligence
+Laboratory, Department of Information Technology, University of Zurich,
+Switzerland.
+Availability: Immediately or at earliest convenience.
+
+The position is dedicated to research in Evolutionary Robotics/Artificial
+Life. In particular, the research focus will be on one or several of the
+following topics:
+
+- the generation of simple artificial organisms capable of exhibiting
+  behavior (in simulation and in the real world)
+- mechanisms of ontogenetic development
+- the interaction of microscopic (genome, cell) and macroscopic (behavior)
+  processes
+- the investigation of the interdependence of environment, morphology, and
+  control
+- the incorporation of biological insights at appropriate levels of abstraction
+  into computer/robotic models
+
+Previous work on an "Artificial Evolutionary System" that implements
+pertinent biological concepts can serve as a starting point. This research
+is intended to bring together ideas from biology, engineering, and computer
+science in novel and productive ways.
+
+If these challenges attract your interest and if you would like to become a
+member of an international research team conducting transdisciplinary work,
+please submit a curriculum vitae, statement of research interests, and the
+names of three references to:
+
+Rolf Pfeifer, Director AI Lab
+Dept. of Information Technology
+University of Zurich
+Winterthurerstrasse 190
+CH-8057 Zurich, Switzerland
+E-mail: pfeifer@ifi.unizh.ch
+Phone:  +41 1 635 43 20/31
+Fax:    +41 1 635 68 09
+
+Profile: Applicants should have a master's degree, or equivalent
+(e.g. diploma or "licence" (Lizentiat)), in one of
+the following areas: biology, neurobiology, computer science, electrical or
+mechanical engineering, physics, mathematics (or related disciplines).
+Ability to work in a strongly interdisciplinary team is expected.
+
+Tasks: The main task for the accepted candidate will be to conduct research
+towards his/her Ph.D. Additional tasks include support for classes
+organized by the AI-Lab.
+
+Financial: The salary will be according to the specification of the
+University of Zurich.
+
+Time prospect: The candidate is expected to complete his/her Ph.D. work
+within a period of maximum 4 years.
+
+----------------------------------------------------------
+Prof. Dr. Rolf Pfeifer
+Director, Artificial Intelligence Laboratory
+Department of Information Technology, University of Zurich
+Winterthurerstrasse 190, CH-8057 Zurich, Switzerland
+Phone: +41 1 635 43 20/31
+Fax:   +41 1 635 68 09
+www.ifi.unizh.ch/~pfeifer
+----------------------------------------------------------
+
+

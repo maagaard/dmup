@@ -1,0 +1,90 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jul 27 00:58:07 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA20240;
+	Tue, 27 Jul 1999 00:57:59 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07094;
+          26 Jul 99 17:09 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07092;
+          26 Jul 99 17:02 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27396;
+          26 Jul 99 17:02 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa05409; 26 Jul 99 16:49 EDT
+Received: from ece.ogi.edu by EDRC.CMU.EDU id aa04880; 26 Jul 99 16:48:48 EDT
+Received: from ece.ogi.edu (choosh.ece.ogi.edu [129.95.90.86])
+	by ece.ogi.edu (8.9.1a/8.9.1) with ESMTP id NAA17075;
+	Mon, 26 Jul 1999 13:48:41 -0700 (PDT)
+Sender: ericwan@ece.ogi.edu
+Message-ID: <379CC9A8.356BA77A@ece.ogi.edu>
+Date: Mon, 26 Jul 1999 13:48:40 -0700
+From: Eric Wan <ericwan@ece.ogi.edu>
+X-Mailer: Mozilla 4.61 [en] (X11; U; Linux 2.2.9 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+CC: Eric Wan <ericwan@ece.ogi.edu>
+Subject: postdoctoral positions available
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+***************** Post-Doctoral Research Associate  ****************
+
+                      OREGON GRADUATE INSTITUTE 
+
+The Oregon Graduate Institute of Science and Technology (OGI) has an
+an immediate opening for a motivated Ph.D. to participate in an
+interdisciplinary autonomous controls project.  Initial appointment is
+for a one-year period, with the possibility for extension depending on
+performance and availability of funding.
+
+
+This is a joint project with the Electrical and Computer Engineering
+Dept, the Center for Coastal and Land-Margin Research (CCALMR,
+http://www.ccalmr.ogi.edu) and the Pacific Software Research Center
+(PacSoft, http://www.cse.ogi.edu/PacSoft/).
+
+
+SOFTWARE ENABLED CONTROL PROJECT OVERVIEW:
+
+With the increase in on-board computational resources, optimal
+nonlinear control can be derived from accurate real-time computational
+models of a vehicle and its physical environment.  This
+multidisciplinary project couples advances in dynamic vehicle modeling,
+large-scale environmental forecasting, software engineering, and
+recent advances in nonlinear control.  The objectives are to
+demonstrate rapid dynamic reconfiguration of control laws and the
+ability to perform complex maneuvers.
+
+Progress to date has focused on optimal neural control approaches for
+trajectory generation of surface vessels navigating in forecasted flow
+fields of the Columbia River Estuary.  Future direction of the program
+will expand to aerospace environments, and may investigate a number
+of possible different control paradigms
+
+
+CANDIDATE QUALIFICATIONS:
+
+Candidates should have a Ph.D. with strong expertise in control
+theory, neural networks and reinforcement learning.
+
+
+ADDITIONAL INFORMATION:
+
+The successful candidate will work with Eric A. Wan
+(http://www.ece.ogi.edu/~ericwan/) and his research group and
+collaborators.
+
+Please send inquiries and background information to
+ericwan@ece.ogi.edu.
+
+
+Eric A. Wan
+Associate Professor, OGI
+http://ece.ogi.edu/~ericwan/
+
+*********************************************************************

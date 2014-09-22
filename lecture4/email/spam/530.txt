@@ -1,0 +1,82 @@
+
+
+From martin@marchsearch.com Thu Aug 12 15:30:00 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id PAA11937
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 12 Aug 1999 15:29:59 +0200 (METDST)
+Received: from mashie.force9.net (mashie.force9.net [195.166.128.30])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id PAA15767
+	for <fn@imm.dtu.dk>; Thu, 12 Aug 1999 15:24:30 +0200 (METDST)
+Received: (qmail 21232 invoked from network); 12 Aug 1999 13:24:30 -0000
+Received: from mayfly.plus.net.uk (HELO mayfly.force9.net) (195.166.128.28)
+  by mashie.force9.net with SMTP; 12 Aug 1999 13:24:29 -0000
+Received: (qmail 6741 invoked from network); 12 Aug 1999 13:24:28 -0000
+Received: from unknown (HELO martin) (212.56.124.204)
+  by mayfly.plus.net.uk with SMTP; 12 Aug 1999 13:24:28 -0000
+From: "Martin Pitt - March Search" <martin@marchsearch.com>
+To: <martin@marchsearch.com>
+Subject: Free Web Site Submission/Promotion
+Date: Thu, 12 Aug 1999 14:26:21 +0100
+Message-ID: <LOBBKCCNMJLLEPIBFJHLOEGACBAA.martin@marchsearch.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Status: RO
+X-Status: 
+
+Dear Reader,
+
+For the past 12 months we have been developing a brand new search engine
+system. Over this time we have sent out a number of robots around the
+Internet to search out and store web sites details on all subjects. However
+we need to control how we go about allowing sites into our engine.
+
+You can now submit your web site to our search engine
+http://www.marchsearch.com and have our robots ordered to visit your site(s)
+first, and then on regular intervals we will return to update your site.
+
+Our aim is to store a vast amount of web sites and details, we do this by
+the use of Meta Keywords and Meta Descriptions and Page Titles, so make sure
+these are correct and really describe your site before submitting. If you
+need some help on doing this then read below, otherwise please spend a few
+minutes to apply your sites information, it's going to do nothing but help
+you or your business.
+
+ADDING META INFORMATION TO YOUR WEB PAGES:
+-----------------------------------------
+
+Add meta Information to the top of your html pages between the <HEAD> and
+</HEAD> as shown below. It really is important to add these to the every
+page on your site, but in the worst case and as a start place them on your
+main site pages, and then target these in search engines like March Search.
+A recent study discovered that only 32% of web sites had Meta Tags. Meta
+Tags are still the most effective way of targetting visitors to your site.
+
+<HEAD>
+<TITLE>Your Sites Name HERE and short sentence/description about your site
+of around 15 words in length</TITLE>
+<META content="Add around 25 keywords that are on the subject of your site
+placing a comma (,) between each word" name=KEYWORDS>
+<META content="Add a sentence about your site around 30 words in length. A
+good tip is to expand your sites Title" name=DESCRIPTION>
+</HEAD>
+
+<!-- MARCH SEARCH BANNER CODING - VERSION 2.0 -->
+<center>
+<h5 align=center>
+<a href="http://www.marchsearch.com">
+<img height=60 width=468 border=0
+src="http://www.march.f9.co.uk/marchbanner1.gif" ISINDEX
+ALT="March Search"><br>
+March Search - Searching for the 21st Century</a></h5>
+</center>
+
+
+http://www.marchsearch.com
+

@@ -1,0 +1,71 @@
+
+
+From mps@imm.dtu.dk  Mon Jul 20 15:16:41 1998
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id PAA23337;
+	Mon, 20 Jul 1998 15:16:40 +0200 (METDST)
+Received: from serv3.imm.dtu.dk (mps@serv3.imm.dtu.dk [130.225.85.13])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id PAA02115;
+	Mon, 20 Jul 1998 15:17:57 +0200 (METDST)
+Received: (from mps@localhost)
+	by serv3.imm.dtu.dk (8.8.6/8.8.6) id PAA11865;
+	Mon, 20 Jul 1998 15:16:03 +0200 (METDST)
+Date: Mon, 20 Jul 1998 15:16:03 +0200 (METDST)
+From: Mads Peter Soerensen <mps@imm.dtu.dk>
+Message-Id: <199807201316.PAA11865@serv3.imm.dtu.dk>
+To: vip_at_imm@serv3.imm.dtu.dk, phd_at_imm@serv3.imm.dtu.dk
+Subject: 32ND EUROPEAN STUDY GROUP with INDUSTRY
+Cc: mps@serv3.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-MD5: ZR9RTi9W9CRvahXFf8J2Rg==
+Status: RO
+X-Status: 
+
+
+                                         20/7  1998
+
+Saafremt du gerne vil deltage i 32ND EUROPEAN STUDY GROUP with INDUSTRY,
+DTU, 31. august - 4. september 1998, er sidste tilmeldingsfrist idag.
+Dog vil jeg tro at Jens Graversen og Paul Hjort, MAT, kan haandtere for
+sendt indsendte tilmeldinger. Se WWW adressen:
+
+http://www.mat.dtu.dk/ESGI32/
+
+Foelgende firmaer har indsendt opgaver:
+
+1) Firma:           SCAN technology 
+   Projekttitel:    Feature recognition in 3D-scanning
+
+2) Firma:           Danish Maritime Institute 
+   Projekttitel:    Dynamic Positioning System
+
+3) Firma:           Danfoss
+   Projekttitel:    Scroll optimization
+
+4) Firma:           LEGO
+   Projekttitel:    How to build with LEGO
+
+5) Firma:           Grundfos
+   Projekttitel:    Mixing of clorine in swimmingpools
+
+
+
+Med venlig hilsen
+  
+Mads
+
+
+-----------------------------------------------------------------
+-   Mads Peter Soerensen                                        -
+-   Lektor                                                      -
+-   Institut for Matematisk Modellering (IMM)                   -
+-   Danmarks Tekniske Universitet (DTU), Bygn. 321              -
+-   2800 Lyngby                                                 -
+-                                                               -
+-   E-mail: mps@imm.dtu.dk                                      -
+-   WWW:    http://www.imm.dtu.dk/                              -
+-   Telefon: (+45) 4525 3094                                    -
+-   Fax:     (+45) 4593 1235                                    -
+-----------------------------------------------------------------

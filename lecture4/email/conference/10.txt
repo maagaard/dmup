@@ -1,0 +1,47 @@
+
+
+From LIS@axp.psl.ku.dk Sat Nov 23 12:33 MET 1996
+Received: from axp.psl.ku.dk by eivind.imm.dtu.dk with SMTP(1.38.193.4/16.2)
+	for thko id AA07977; Sat, 23 Nov 1996 12:33:21 +0100
+Return-Path: <LIS@axp.psl.ku.dk>
+Received: from axp.psl.ku.dk by axp.psl.ku.dk (MX V4.1 AXP) with SMTP; Sat, 23
+          Nov 1996 12:27:42 +0100
+Date: Sat, 23 Nov 1996 12:27:42 +0000
+From: Helen Lisbeth Nielsen <LIS@axp.psl.ku.dk>
+To: Claus Svarer <csvarer@pet.rh.dk>
+Cc: fig <anders@axp.psl.ku.dk>, apb@kennedy.dk, AXEL@axp.psl.ku.dk,
+        b.sperling@inet.uni-c.dk, blink@pet.rh.dk, blk@eivind.imm.dtu.dk,
+        blund@eivind.imm.dtu.dk, borring@pet.rh.dk, bundesen@axp.psl.ku.dk,
+        c918480@student.dtu.dk, cgerlach@axp.psl.ku.dk, CSVARER@pet.rh.dk,
+        EGILLR@IMM.DTU.DK, elgarde@hendrix.imm.dtu.dk,
+        fnielsen@eivind.imm.dtu.dk, gerlach@pet.rh.dk, gitte@kiku.dk,
+        hanson@fys.ku.dk, Hitomi@axp.psl.ku.dk, hitomi@axp.psl.ku.dk,
+        iida@pet.rh.dk, ilaw@pet.rh.dk, kjaer@nordita.dk,
+        kjems@eivind.imm.dtu.dk, lautrup@connect.nbi.dk,
+        lkhansen@eivind.imm.dtu.dk, nal@login.dknet.dk,
+        nmorch@eivind.imm.dtu.dk, pap@eivind.imm.dtu.dk,
+        paulson@connect.nbi.dk, pinborg@pet.rh.dk, POULR@IMM.DTU.DK,
+        ptoft@eivind.imm.dtu.dk, ras@eivind.imm.dtu.dk, sholm@pet.rh.dk,
+        sk@axp.psl.ku.dk, thko@eivind.imm.dtu.dk, tjernigan@ucsd.edu,
+        William@axp.psl.ku.dk, winther@pet.rh.dk
+Subject: Correction of homepage address
+In-Reply-To: <Pine.HPP.3.91.961028123453.1261A-100000@babinski.pet.rh.dk>
+Message-Id: <Pine.VMS.3.91-vms-b4.961123122523.7594B-100000@axp.psl.ku.dk>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Dear all:
+
+There was an error in the homepage address I gave you for the 
+consciousness workshop.  The correct address is:
+
+http://w3.arizona.edu/~uaextend/conferen/consc.html
+
+Sorry for any inconvenience.
+
+Yours,
+
+Lis Nielsen

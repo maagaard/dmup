@@ -1,0 +1,332 @@
+
+
+From ISIC97@ntuvax.ntu.ac.sg Wed Feb  5 21:27 MET 1997
+Received: from gamma.ntu.ac.sg by eivind.imm.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA28017; Wed, 5 Feb 1997 21:27:34 +0100
+Return-Path: <ISIC97@ntuvax.ntu.ac.sg>
+Received: from ntuvax.ntu.ac.sg by ntuvax.ntu.ac.sg (PMDF V5.0-6 #7636)
+ id <01IF2CHQD50WAM5WPL@ntuvax.ntu.ac.sg> for fnielsen@ei.dtu.dk; Wed,
+ 05 Feb 1997 17:25:08 +0800
+Date: Wed, 05 Feb 1997 17:25:08 +0800
+From: ISIC97@ntuvax.ntu.ac.sg
+Subject: CFP: International Symposium On IC Technology, Systems & Applications
+To: fnielsen@eivind.imm.dtu.dk
+Message-Id: <01IF2CHQEOLEAM5WPL@ntuvax.ntu.ac.sg>
+Organization: Nanyang Technological University - Singapore
+X-Vms-To: IN%"fnielsen@ei.dtu.dk"
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-Transfer-Encoding: 7BIT
+Status: RO
+X-Status: 
+
+http://gamma.ntu.ac.sg:8000/~isic97/cfp.html
+
+ISIC-97
+7TH INTERNATIONAL 
+SYMPOSIUM ON 
+IC TECHNOLOGY, SYSTEMS & APPLICATIONS 
+
+10 - 12 September 1997
+Hyatt Regency, Singapore
+
+
+ORGANIZER
+School of Electrical & Electronic Engineering
+Nanyang Technological University
+Singapore
+
+
+SUPPORTED BY
+Lucent Technologies, Bell Labs Innovations
+IEEE Singapore Section
+IEE Singapore Centre
+
+
+THE SYMPOSIUM
+
+The 7th International Symposium on IC Technology, Systems and Applications, 
+ISIC-97, will be held on 10-12 September 1997. Four tutorial sessions will 
+be held in parallel on the first day.  This symposium will provide a forum 
+for IC designers and manufacturing engineers, as well as academics to present 
+and share new research and development results, techniques and problems. 
+ISIC-97 coincides with the 50th anniversary of the invention of the 
+TRANSISTOR. To celebrate this occasion, the symposium will be highlighted 
+by the following keynote addresses :
+
+1.   The Invention of the Transistor - The Foundation of the Silicon Age
+       - Ian Ross, President Emeritus of Bell Laboratories
+
+2.   Chips, Circuits and Systems in a Works-with World
+       - Arno Penzias, Nobel Laureate, Vice President of Research, 
+	 Lucent Technologies / Bell Laboratories
+
+3.   The Integrated Circuit into the Next Century: When Do We Approach the 
+     Limits of Physics, Complexity, and Affordability?
+       - Mark Pinto, Director, IC Research, 
+       Lucent Technologies / Bell Laboratories
+
+4.   Issue of Manufacturing Limitations on ICs.
+      - Mark Melliar-Smith, President and CEO of SEMATECH
+
+
+Papers are solicited in subject areas including but not limited to the 
+following:
+
+A. DEVICE & IC TECHNOLOGY 
+1. Compound Semiconductor Devices
+2. SOI
+3. Testing  and Yield Enhancement
+4. Process Simulation
+5. Device Physics and Modeling
+6. Scaling of Devices and Technologies
+7. New Processes and Materials
+8. Reliability and Failure Analysis
+9. Assembly and Packaging
+
+B. INTEGRATED CIRCUITS AND SYSTEMS 
+1. Artificial Neural Networks and Fuzzy Logic 
+2. Fault-Tolerant Circuits 
+3. Circuit Design and Architecture
+4. Timing  and Communications  
+5. IC Sensors and  MEMs
+6. Switched Capacitor and Current Mode Circuits
+7. Multiple-Valued Logic Circuits
+8. BiCMOS Circuits 
+9. Low-Power Low-Voltage IC designs
+10.Memories
+11.Mixed-Signal Circuits and Systems
+
+C. DESIGN AUTOMATION 
+1. Logic and System Synthesis
+2. Simulation, Verification and Testability
+3. Performance Optimization Methods
+4. AI Methodology
+5. Physical Design and Back Annotation
+6. Innovative Design Capture Techniques
+7. High Level Description Language
+8. MCM Layout
+
+D. APPLICATIONS
+1. Audio, Electroacoustics and Video 
+2. Military Applications 
+3. Cellular Mobile Communications 
+4. Switched Mode Power Supplies 
+5. Broadband Communication Applications
+
+E. SIGNAL PROCESSING 
+1. Speech and Image Processing 
+2. Multi-Dimensional Signal Processing 
+3. Wavelet Theory & Applications
+4. Acoustic Signal Processing
+5. Adaptive and Nonlinear Filtering
+6. Multimedia
+7. Specialized Signal Processors  
+
+
+TUTORIAL SESSIONS 
+
+The following four tutorial sessions will be held in parallel on 
+10 September 1997 :
+
+1. RF IC Design and Systems
+    - Lucent Technologies, USA
+
+2. DSP IC Design and Systems
+    - Mentor Graphics, USA
+
+3. Behavioral Synthesis - The Next 10X Productivity Improvement for VLSI 
+   Design
+    - Synopsys, USA
+
+4. Low Power IC Design
+    - Kaushik Roy, Purdue University, USA
+
+
+PAPERS OF SPECIAL INTEREST
+
+1. Dynamic Translinear Circuits
+    - J. Mulder, W.A. Serdijn, A.C. Vander Woerd, A.H.M. Van Roermund
+    Delft University of Technology, The Netherlands
+
+2. Decision Diagrams for Representation of Discrete Functions in VLSI 
+   Computer-Aided Design Systems
+   - R.S. Stankovic, University of Nis, Yugoslavia
+   - B.J. Falkowski, Nanyang Technological University, Singapore 
+
+3. Evolutionary Algorithms for Computer-Aided Design of Integrated Circuits
+    - Rolf Drechsler, Albert-Ludwigs University, Germany
+
+
+PRELIMINARY REGISTRATION
+
+7TH INTERNATIONAL SYMPOSIUM ON IC TECHNOLOGY, SYSTEMS & APPLICATIONS (ISIC-97)
+10 - 12 September 1997, Hyatt Regency, Singapore
+(Please photocopy this form for additional registrations)
+
+(       )       I intend to present a paper. The abstract is attached.
+		Subject Area / Category (e.g. A1, B2 .. etc) 
+											
+(       )       I intend to attend the symposium. Please send me further 
+		details and the registration form.
+
+(       )       I intend to attend Tutorial Session #  1  2  3   4       
+		( Please ( where applicable.)    
+		
+Family Name: ___________________________ Given Name : _____________________   
+		 (Prof/Dr/Mr/Mrs/Ms)
+
+Job Title: ________________________________________________________________   
+
+Organization: _____________________________________________________________
+
+Address: __________________________________________________________________
+
+	 __________________________________________________________________
+
+	 __________________________________________________________________
+
+Country : ___________________________Email : _______________________________                                         
+
+Telephone : __________________________ Fax : _______________________________                                          
+
+
+Names and addresses of individuals who might be interested in this symposium 
+are:
+
+Name: __________________________      Name : ______________________________                                               
+
+Organization: __________________      Organization: _______________________                                     
+
+Address : ______________________      Address  : __________________________      
+   
+	  ______________________                 __________________________       
+
+	  ______________________                 __________________________       
+
+
+Country ________________________      Country    __________________________
+
+Fax : __________________________      Fax :      ___________________________
+
+Email : ________________________      Email:     ___________________________                                 
+							      
+
+EXHIBITION 
+An exhibition of relevant industrial equipment and systems will be held in 
+conjunction with the regular sessions for paper presentations on the second 
+and third day of the symposium
+
+REGISTRATION FEE 
+
+Tutorials
+10 Sept. 1997
+S$200  per session
+(payment made by 15 June 1997)
+(fee inclusive of tutorial handout, lunch, tea  breaks and 3% GST)
+
+Symposium
+11 & 12
+Sept. 1997
+Early Bird: S$500 
+(payment made by 15 June 1997) 
+Standard  :  S$600 
+(payment after 15 June 1997)
+(fee inclusive of symposium proceedings, tea breaks, lunches, banquet 
+and 3% GST)
+
+Exchange Rate : US$1 ( S$1.40
+
+
+KEYDATES 
+Submission of extended summary    : 31 March 1997
+Notification of Acceptance        : 30 April 1997
+Submission of camera-ready papers : 15 June 1997
+
+
+SUBMISSION OF PAPERS
+Authors are invited to submit three copies of an extended summary of not 
+more than 1000 words and preferably with diagrams, illustrations and 
+references by 31 March 1997. Please send summary to:
+
+
+ISIC-97 Secretariat
+Ms Goh Bee Dee/ Ms Merlin Toh
+Nanyang Technological University
+Centre for Continuing Education 
+Administration Annex #04-06
+Nanyang Avenue 
+Singapore 639798
+Republic of Singapore
+E-mail: isic97@ntuvax.ntu.ac.sg
+Fax: (65) 793-0997 Tel: (65) 799-4723
+Web page: http://gamma.ntu.ac.sg:8000/~isic97/cfp.html
+
+
+INTERNATIONAL ADVISORY COMMITTEE
+
+C Y Chang
+National Chiao Tung University
+
+M I Elmasry 
+University of Waterloo
+
+K Emerson
+Mentor Graphics
+
+M H Er
+Nanyang Technological University
+
+Y C Jenq
+Portland State University
+
+C M Melliar-Smith
+Lucent Technologies
+
+W Milne
+Cambridge University
+
+A Sedra
+University of Toronto
+
+D B Scott
+Texas Instruments
+
+R Steele
+University of Southampton
+
+C M Tang
+Lucent Technologies
+
+T L Tansley
+Macquarie University
+
+J West
+Philips Semiconductors
+
+
+ORGANIZING COMMITTEE 
+
+Symposium Chairman
+Y C Tong 
+
+Symposium Co-Chairman
+M A Do
+
+Advisor
+H S Tan 
+
+Secretary
+K T Lau
+
+Technical Programme
+S S  Rofail
+
+Publications & Publicity
+L S Ng 
+
+Finance
+D J Wong-Ho
+
+Logistics
+T H Ooi 

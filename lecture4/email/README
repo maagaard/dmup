@@ -1,0 +1,78 @@
+The small corpus of emails was collected and labeled by Finn Aarup Nielsen 
+and prepared by Anna Szymkowiak-Have, - both from the Technical University 
+of Denmark. The data set has been used in several of the writings of Anna.
+
+
+With Python the emails can be read with something like:
+
+documents = [ dict(
+            email=open("conference/%d.txt" % n).read().strip(), 
+            category='conference') for n in range(1,372) ]
+documents.extend([ dict( 
+            email=open("job/%d.txt" % n).read().strip(),
+            category='job') for n in range(1,275)])
+documents.extend([ dict( 
+            email=open("spam/%d.txt" % n).read().strip(), 
+            category='spam') for n in range(1,799) ])
+
+
+@InProceedings{SzymkowiakA2001Hierarchical,
+  author = 	 {Anna Szymkowiak and Jan Larsen and Lars Kai Hansen},
+  title = 	 {Hierarchical Clustering for Datamining},
+  booktitle = 	 {Proceedings of {KES-2001} Fifth International
+                  Conference on Knowledge-Based Intelligent
+                  Information Engineering Systems \& Allied
+                  Technologies},
+  editor = 	 {N. Babs and L. C. Jain and R. J. Howlett},
+  year = 	 {2001},
+  month = 	 {September},
+  pages = 	 {261--265},
+  URL = {http://isp.imm.dtu.dk/publications/2001/szymkowiak.kes2001.pdf},
+}
+
+@Article{LarsenJ2002Probabilistic,
+  author = 	 {Jan Larsen and Anna Szymkowiak and Lars Kai Hansen}, 
+  title = 	 {Probabilistic Hierarchical Clustering with Labeled
+                  and Unlabeled Data}, 
+  journal = 	 {International Journal of Knowledge-Based Intelligent
+                  Engineering Systems}, 
+  year = 	 {2002},
+  volume = 	 {6},
+  number = 	 {1},
+  month = 	 {January},
+  pages = 	 {56--62},
+  URL = {http://isp.imm.dtu.dk/publications/2001/larsen.kes.pdf},
+}
+
+@Article{LarsenJ2002Webmining,
+  author = 	 {Jan Larsen and Lars Kai Hansen and Anna Szymkowiak
+                  Have and Torben Christiansen and Thomas Kolenda},
+  title = 	 {Webmining: learning from the world wide web},
+  journal = 	 {Computational Statistics \& Data Analysis},
+  year = 	 {2002},
+  volume = 	 {38},
+  number = 	 {4},
+  pages = 	 {517--532},
+  month = 	 {February},
+  DOI =          {10.1016/S0167-9473(01)00076-7},
+}
+
+@Article{SzymkowiakHaveA2006Clustering,
+  author = 	 {Anna Szymkowiak-Have and M. A. Girolami and Jan
+                  Larsen}, 
+  title = 	 {Clustering via kernel decomposition},
+  journal = 	 {IEEE Transactions on Neural Networks},
+  year = 	 {2006},
+  volume = 	 {17},
+  number = 	 {1},
+  pages = 	 {256--264},
+  URL = {http://eprints.gla.ac.uk/3682/01/symoviak3682.pdf},
+}
+
+
+
+Finn Aarup Nielsen
+Department of Informatics and Mathematical Modelling
+Technical University of Denmark
+http://www.imm.dtu.dk/~fn/
+

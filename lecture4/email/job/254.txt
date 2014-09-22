@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Dec 25 22:36:41 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id WAA19262;
+	Sat, 25 Dec 1999 22:36:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13031;
+          25 Dec 99 14:41 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13029;
+          25 Dec 99 14:33 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13797;
+          25 Dec 99 14:33 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27648; 25 Dec 99 6:09 EST
+Received: from erato.atr.co.jp by edrc.cmu.edu id aa24077; 25 Dec 99 6:08 EST
+Received: from dorothy.erato.atr.co.jp (dorothy.erato.atr.co.jp [133.186.91.2])
+	by canal.erato.atr.co.jp (8.8.8/3.6Wbeta7-05/11/98) with ESMTP id UAA00937;
+	Sat, 25 Dec 1999 20:08:51 +0900 (JST)
+Received: from ctr.atr.co.jp (doya-mac.erato.atr.co.jp [133.186.92.18]) by dorothy.erato.atr.co.jp (8.7.6+2.6Wbeta7/3.5Wbeta-10/29/96) with ESMTP id UAA26965; Sat, 25 Dec 1999 20:08:49 +0900 (JST)
+Message-ID: <3864A5BE.F93732E1@ctr.atr.co.jp>
+Date: Sat, 25 Dec 1999 20:13:21 +0900
+From: Kenji Doya <doya@ctr.atr.co.jp>
+Reply-To: info@meta.rad.atr.co.jp
+Organization: ATR International
+X-Mailer: Mozilla 4.5 (Macintosh; I; PPC)
+X-Accept-Language: ja
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu, cneuro@bbb.caltech.edu
+Subject: Research positions: computational neuroscience and robotics
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+              Post-doctoral Research Positions
+          METALEARNING, NEUROMODULATION AND EMOTION
+                 http://meta.rad.atr.co.jp/
+        CREST, Japan Science and Technology Corporation
+
+The goal of the research project is to understand the mechanisms of
+higher-level regulation of learning functions of the brain. We propose
+computational models of the roles of the neuromodulators (e.g.,
+dopamine, serotonin, noradrenaline, acetylecholine), test them by
+neurobiological and clinical experiments, and explore the functions of
+emotion-like systems in adaptive communication agents.
+
+Post-doctoral research positions are available immediately for the studies
+of 1) modeling the functions of neuromodulators in close collaboration
+with the experimental laboratories below; 2) development of
+self regulated learning algorithms for adaptive agents; and 3) designing
+and building a colony of robots with rich sensory and motor functions.
+
+Candidates should have a strong background in theoretical and/or
+experimental sciences, including neurobiology, psychology, computer
+science, robotics, physics and mathematics. 
+
+Competitive salaries and benefits are provided by JST (Japan Science and
+Technology Corporation). The laboratory is located at ATR International 
+in Kyoto, where people from diverse origins and backgrounds get together
+for basic research on human cognition and telecommunication.
+
+The research project is supported by JST's "Creating the Brain" program,
+supervised by Dr. Shun-ichi Amari. The principal project members and their
+research topics are the following:
+
+Takashi Matsumoto (Waseda University): Development of on-line Bayesian
+learning theory and algorithms.
+
+Shin Ishii (Nara Institute of Science and Technology): Development of 
+metalearning algorithms and architectures for adaptive agents.
+
+Yuko Sekino (Gunma University): In vivo and in vitro experiments on
+regulation of hippocampal memory by neuromodulators in rats and mice.
+
+Toshiyuki Sawaguchi (Hokkaido University): Experiments on the roles of
+neuromodulators in the prefrontal cortex in monkeys.
+
+Shigeto Yamawaki (Hiroshima University): Behavioral and pharmacological
+studies on the roles of serotonin in human cognition using fMRI, MEG and TMS.
+
+Kenji Doya (ATR International): Development of a computational theory of
+neuromodulator functions; Real and simulated experiments of learning and
+communication in multiple agents.
+
+Applicants should send a CV, a statement of research interests, and recent
+reprints and/or preprints by January 31st, 2000 to
+
+	Kenji Doya
+	ATR International
+	2-2 Hikaridai, Seika, Soraku
+	Kyoto 619-0288, Japan
+
+For more information, please contact
+	info@meta.rad.atr.co.jp
+or visit our web page at
+	http://meta.rad.atr.co.jp/
+
+-- 
+Kenji Doya
+ATR International
+2-2 Hikaridai, Seika, Soraku, Kyoto 619-0288, Japan
+Phone:+81-774-95-1251, Fax:+81-774-95-1259
+E-mail:doya@ctr.atr.co.jp, http://meta.rad.atr.co.jp/doya/

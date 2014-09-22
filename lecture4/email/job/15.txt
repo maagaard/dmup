@@ -1,0 +1,67 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Oct 23 13:12:01 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id NAA22879;
+	Fri, 23 Oct 1998 13:11:52 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa26685;
+          23 Oct 98 4:15 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa26682;
+          23 Oct 98 4:08 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06868;
+          23 Oct 98 4:07 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa15316; 23 Oct 98 3:50 EDT
+Received: from mail1.ntu.edu.sg by EDRC.CMU.EDU id aa15599;
+          23 Oct 98 3:50:00 EDT
+Received: by mail1.ntu.edu.sg with Internet Mail Service (5.5.2232.9)
+	id <VMH1B0TD>; Fri, 23 Oct 1998 15:50:06 +0800
+Message-ID: <6665AC0C667ED11186E308002BB487E10366CF41@exchange2>
+From: "Jagath C Rajapakse (Dr)" <ASJagath@ntu.edu.sg>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Subject: graduate student opportunities
+Date: Fri, 23 Oct 1998 15:49:48 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2232.9)
+Content-Type: text/plain
+Status: RO
+X-Status: 
+
+
+
+> School of Applied Science
+> Nanyang Technological University
+> Singapore
+> 
+> Graduate Research Opportunities in Neuroimaging and Neurocomputing
+> 
+> These are exciting opportunities for graduate students to research in
+> neuroimaging and neurocomputing, which are available through a
+> collaborative research project between Singapore Gamma Knife Center,
+> Singapore General Hospital, and the School of Applied Science, Nanyang
+> Technological University.
+> 
+> The functional MRI scans of human brain during cognitive tasks, obtained
+> at the MRI facility of the Singapore General Hospital will be analyzed
+> using neural network paradigms and statistical techniques to detect human
+> brain activation. Students will join a research group analyzing functional
+> MR images and time-series to interpret human brain activities and infer
+> neuronal events in cognitive experiments. The research positions are
+> initially available to complete Masters degree, and may be continued
+> towards Ph.D. degree depending on the performance in the first year.
+> 
+> Research students will receive a monthly stipend above S$1400 depending on
+> the qualifications.
+> The positions will be available during the year 1999.
+> 
+> Prospective students should contact Dr. Jagath Rajapakse for further
+> details and applications:
+> 
+> Dr. Jagath C. Rajapakse
+> School of Applied Science
+> Nanyang Technological University
+> Nanyang Avenue, Singapore 639798
+> Email: asjagath@ntu.edu.sg
+> Phone: +65 790 5802
+> 
+> 
+> 

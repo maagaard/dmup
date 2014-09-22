@@ -1,0 +1,139 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Nov 22 07:54:55 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id HAA22499;
+	Mon, 22 Nov 1999 07:54:52 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16407;
+          22 Nov 99 0:27 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16405;
+          22 Nov 99 0:15 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07032;
+          22 Nov 99 0:15 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa13272; 21 Nov 99 8:33 EST
+Received: from buzz.cs.Dal.Ca by edrc.cmu.edu id aa11243; 21 Nov 99 8:33 EST
+Received: (from localhost user: 'nat' uid#1040 fake: STDIN (nat@borg))
+	by buzz.cs.dal.ca id <S99474AbPKUNf3>;
+	Sun, 21 Nov 1999 09:35:29 -0400
+Date:   Sun, 21 Nov 1999 09:32:55 -0400 (AST)
+Sender: Nathalie Japkowicz <nat@cs.dal.ca>
+From: Nathalie Japkowicz <nat@cs.dal.ca>
+X-Sender: nat@borg
+To: connectionists@cs.cmu.edu
+Subject: CFP: AAAI Workshop on Learning from Imbalanced Data Sets
+Message-ID: <Pine.GSO.4.10.9911210929530.21152-100000@borg>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+          	----------------------------------
+		       Call for Participation
+
+		      	AAAI-2000 Workshop on
+	  	Learning from Imbalanced Data Sets
+
+	            July 31 2000, Austin Texas
+          	----------------------------------
+
+
+The majority of learning systems previously designed and tested on toy 
+problems or carefully crafted benchmark data sets usually assumes that the 
+training sets are well balanced. In the case of concept-learning, for 
+example, classifiers typically expect that their training set contains as 
+many examples of the positive as of the negative class. Unfortunately, this 
+balanced assumption is often violated in real world settings. Indeed, there 
+exist many domains for which some classes are represented by a large number 
+of examples while the others are represented by only a few.
+
+Although the imbalanced data set problem is starting to attract researchers'
+attention, attempts at tackling it have remained isolated. It is our
+belief that much progress could be achieved from a concerted effort and
+a greater amount of interactions between researchers interested in this
+issue. The purpose of this workshop is to provide a forum to foster such
+interactions and identify future research directions. 
+
+
+Topics
+------
+
+* Novel techniques for dealing with imbalanced data sets:
+
+        * Techniques for over-sampling the minority class.
+
+        * Techniques for down-sizing the majority class.
+
+        * Techniques for learning from a single class.
+
+        * Techniques for internally biasing the learning process.
+
+        * Other approaches. 
+
+* Comparing the various methodologies.
+
+* The data imbalance problem in unsupervised learning.
+
+
+Format
+------
+
+The workshop will consist of several sessions concentrating on the themes
+identified above. The workshop will conclude with a panel of distinguished 
+guests commenting on the presentations of the day, discussing future
+directions, and opening the floor for general discussion.
+
+
+Attendance
+----------
+
+This workshop is open to all members of the Machine-Learning, Data-Mining,
+Information Retrieval, Statistics and Connectionist communities interested 
+in the data imbalance problem. Attendance is limited to 65 participants.
+
+
+Submission
+----------
+
+Prospective participants are invited to submit papers on the topics outlined 
+above or on other related issues. Submissions should be 6 pages, and be in 
+line with the AAAI style sheet. Electronic submissions, in Postscript format, 
+are prefered and should be sent to Nathalie Japkowicz at nat@cs.dal.ca. 
+Alternatively, four hard copies of the papers can be sent to:
+
+                       Nathalie Japkowicz
+                       Faculty of Computer Science
+                       DalTech/Dalhousie University
+                       6050 University Avenue
+                       Halifax, N.S.
+                       Canada, B3H 1W5
+
+                       Telephone: (902) 494-3157
+                       FAX:       (902) 492-1517
+
+If space is available, attendance to the workshop is also possible by 
+submitting a 1 or 2 page statement of interest to the above address.
+
+
+Timetable: 
+----------
+
+* Submission deadline: March 10, 2000 
+* Notification date: March 24, 2000 
+* Final date for camera-ready copies to organizers: April 26, 2000 
+
+
+Co-Chairs:
+----------
+
+* Robert Holte, University of Ottawa (holte@site.uottawa.ca); 
+* Nathalie Japkowicz, Dalhousie University (nat@cs.dal.ca); 
+* Charles Ling, University of Western Ontario (ling@csd.uwo.ca); 
+* Stan Matwin University of Ottawa (stan@site.uottawa.ca)
+
+
+Additional Information
+----------------------
+
+http://borg.cs.dal.ca/~nat/Workshop2000/workshop2000.html
+

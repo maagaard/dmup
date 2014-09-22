@@ -1,0 +1,126 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Sep 29 12:44:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA04572;
+	Wed, 29 Sep 1999 12:44:35 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa03117;
+          28 Sep 99 22:50 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa03114;
+          28 Sep 99 22:41 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16545;
+          28 Sep 99 22:40 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa02987; 24 Sep 99 12:06 EDT
+Received: from sirene.rz.uni-duesseldorf.de by RI.CMU.EDU id aa00527;
+          24 Sep 99 12:05:02 EDT
+Received: from hirn.uni-duesseldorf.de (actually kowhai.hirn.uni-duesseldorf.de) 
+          by sirene.rz.uni-duesseldorf.de with SMTP (local, PP);
+          Fri, 24 Sep 1999 18:04:07 +0200
+Message-ID: <37EB9F17.5C02383@hirn.uni-duesseldorf.de>
+Date: Fri, 24 Sep 1999 17:56:07 +0200
+From: Rolf Kotter <RK@hirn.uni-duesseldorf.de>
+Organization: C. & O. Vogt Brain Research Institute + Inst. Anatomy II, HHU
+X-Mailer: Mozilla 4.61 [en] (Win95; I)
+X-Accept-Language: en
+To: connectionists@cs.cmu.edu
+Subject: PTRS - call for submissions
+MIME-version: 1.0
+Content-type: text/plain; charset="iso-8859-1"
+Content-transfer-encoding: 8bit
+Status: RO
+X-Status: 
+
+============================================================================
+                     CALL  FOR  SUBMISSIONS
+
+    Theme issue of Philosophical Transactions: Biological Sciences
+           http://www.pubs.royalsoc.ac.uk/publish/phi_bs/
+
+              Theme: NEUROSCIENCE DATABASES - tools for 
+       exploring structure-function relationships in the brain
+
+                    Theme editor: Rolf Ktter
+
+Understanding the workings of systems as complex as the nervous system
+requires the aid of computational tools to collate, analyse and test
+experimental data with the aim of establishing close structure-function
+relationships. Over the last years many attempts have been made to
+construct neuroscience databases collating data about structures,
+small functional circuits and global functions of the nervous system.
+
+The aim of this Theme Issue is to critically review the achievements and 
+problems of previous and current approaches, to devise future strategies 
+and to make these insights available to everyone concerned with
+neuroscience databases. More specifically, papers are expected to cover 
+one or more of the following topics: 
+
+ adequate representations of different types of neuroscientific data; 
+  identification of promising research fields versus problem data;
+  arguments for representation of individual vs. summary, and raw vs. 
+  interpreted data. 
+
+ tools for meta-analysis of data in neuroscience databases and methods 
+  (statistical, computational, etc.) for establishing structure-function 
+  relationships in the brain.
+
+ quality control of database contents: access control, peer review,
+  links to publications
+
+ strategies to improve the contents, user-friendliness, acceptance,
+  significance and longevity of databases; desirable developments in
+  other fields, e.g. data visualisation. 
+
+ lessons to be learnt from databases in fields beyond neuroscience
+  (e.g. gene sequences, protein structure, images, references; see Human
+  Genome Project or U.S. National Center for Biotechnology Information).
+
+ technical and organisational issues of design, programming (reusable
+  code?), maintenance, updating and cross-linking of databases and
+hardware
+  platforms; support teams, financial requirements, life-cycles of 
+  databases.
+
+ impact of databases on the neuroscience communities; relationship
+  between experimentalists (data producers), data collators and data
+  analysts: who wants and who needs databases, and how do databases
+  affect the production and publication of data?
+
+These topics are often best addressed within the context of specific
+database projects, but note that it is not sufficient to simply present
+your database project. Finally, although the contents of the contributed
+papers can be quite specialised, their concept, thrust and significance
+should be intelligible to interested non-specialists. 
+
+
+SCHEDULE
+
+All submissions will be subject to a rigorous review process.
+The Theme Issue will contain 10-15 refereed papers, which are
+going to be invited on the basis of abstract submissions. 
+
+1 November 1999   Submission of an abstract and a tentative title
+                  declaring intention to submit a full paper by the
+                  deadline given below. This should be done by e-mail
+                  to RK@hirn.uni-duesseldorf.de
+
+                  After selection process and invitation of full papers:
+
+31 May 2000       Deadline for receipt of full paper in three copies.
+
+                  After referees' comments and (if necessary) revisions:
+
+31 December 2000  Finalisation of all papers for publication of theme
+issue
+                  in 2001.
+
+
+ADDRESS FOR SUBMISSIONS AND CORRESPONDENCE
+
+Dr. Rolf Kotter
+C. & O. Vogt Brain Research Institute, Bldg. 22.03
+Heinrich Heine University, Universitatsstr. 1
+D-40225 Dusseldorf, Germany
+phone + fax: +49-211-81-12095
+e-mail: RK@hirn.uni-duesseldorf.de
+http://www.hirn.uni-duesseldorf.de/~rk
+============================================================================

@@ -1,0 +1,95 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Nov 11 04:10:57 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA23528;
+	Wed, 11 Nov 1998 04:10:52 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab15913;
+          10 Nov 98 14:56 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15872;
+          10 Nov 98 14:33 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa13112;
+          10 Nov 98 14:32 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13753; 10 Nov 98 7:37 EST
+Received: from [144.32.40.9] by CS.CMU.EDU id aa12392; 10 Nov 98 7:37:00 EST
+From: Jim Austin <austin@minster.cs.york.ac.uk>
+Message-Id: <9811101221.ZM9279@minster.cs.york.ac.uk>
+Date: Tue, 10 Nov 1998 12:21:47 +0000
+X-Mailer: Z-Mail (3.2.1 6apr95 MediaMail)
+To: connectionists@cs.cmu.edu
+Subject: Workshop
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Status: RO
+X-Status: 
+
+
+
+                  Announcement / Call for Papers
+
+           Weightless Neural Networks Workshop WNNW-99
+                   York, UK, 30th March 1999
+
+
+ WNNW-99 is a third in a series of premier international meetings for
+ dissemination and discussion of research trends and results in
+ weightless neural networks. The main aim of these conferences is to
+ pro- vide a convenient forum for discussion of recent results and
+ ideas in all areas pertaining to weightless neural networks, RAM based
+ networks and N-tuple networks including architectures, algorithms,
+ coding, hardware implementations and novel applications.
+
+ The workshop will be held at the Department of Computer Science,
+ University of York, UK. Most participants will be staying at the
+ on-campus accommodation, close to the venue. The meetings will start
+ on Tuesday, 30th of March, 1999 and will last for two days.
+
+ This meeting is supported by the Advanced Computer Architecture Group
+ at the Department of Computer Science, University of York, UK.
+
+ The latest workshop information will be posted to the workshop home page
+ at http://thalamus.cs.york.ac.uk/wnnw/
+
+
+  Important Dates
+
+ Paper Submission Deadline 	               Tuesday, 19th of January 1998
+ Acceptance Notification Date not later than   Tuesday, 16th of February 1999
+ Workshop Date	                                 Tuesday, 30th of March 1999
+
+
+
+ Inquiries
+
+ Inquiries concerning the meeting can be sent to the organisers either by
+ email to wnnw@cs.york.ac.uk or by post to the following address:
+
+ 	WNNW-98
+ 	Advanced Computer Architecture Group
+ 	Department of Computer Science
+ 	University of York
+	York
+	YO10 5DD
+ 	UK
+
+
+
+ Organising Committee
+
+ 	Prof. Jim Austin, University of York
+ 	Mr. Dan Kustrin, University of York
+ 	Prof. Nigel M Allinson, UMIST
+ 	Prof. Igor Aleksander, Imperial College of Science, Technology and
+Medicine
+ 	Dr. Simon O'Keefe, University of York
+
+
+
+
+-- 
+
+Professor Jim Austin, Department of Computer Science, University of York, York,
+YO1 5DD, UK.
+Tel : 01904 43 2734
+Fax : 01904 43 2767
+web pages: http://www.cs.york.ac.uk/arch/

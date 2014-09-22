@@ -1,0 +1,156 @@
+
+
+From jlaukes@U.Arizona.EDU  Tue Jan 19 03:05:33 1999
+Received: from pavo.U.Arizona.EDU (pavo-1.U.Arizona.EDU [128.196.137.195])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id DAA22909
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 19 Jan 1999 03:05:31 +0100 (MET)
+Received: from localhost (jlaukes@localhost)
+	by pavo.U.Arizona.EDU (8.8.6 (PHNE_14041)/8.8.6) with SMTP id SAA29192;
+	Mon, 18 Jan 1999 18:22:22 -0700 (MST)
+Date: Mon, 18 Jan 1999 18:22:22 -0700 (MST)
+From: James M Laukes <jlaukes@U.Arizona.EDU>
+To: jlaukes@U.Arizona.EDU
+Subject: Online conference:  Investigation of Conscious Emotion
+Message-ID: <Pine.HPX.4.02.9901181815480.27027-100000@pavo.U.Arizona.EDU>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Please post or distribute as appropriate.
+
+
+              The Investigation of Conscious Emotion: 
+      Combining First Person and Third Person Methodologies
+
+                   February 22-March 5, 1999
+                     An On-Line Conference
+
+                         Sponsored By 
+                    Consciousness Studies 
+                 at The University of Arizona 
+            and the Journal of Consciousness Studies
+ 
+Open House and registration begins on February 1, 1999 at: 
+http://www.consciousness.arizona.edu/emotion.html
+There is no cost to register. Access to the conference will require a
+password which will be provided after registration.
+
+Conference Leaders:
+* Lis Nielsen, Psychology, University of Arizona 
+* Al Kaszniak, Psychology, Neurology and Psychiatry, University of Arizona
+ 
+With Invited Commentaries By:
+* Bernard Baars, Psychology, The Wright Institute, Berkeley, California 
+* David Chalmers, Philosophy, University of Arizona 
+* James Coan, Psychology, University of Arizona 
+* Jonathan Cole, Clinical Neurological Sciences, University of Southampton 
+* Craig DeLancey, Philosophy and Cognitive Science, Indiana University 
+* Natalie Depraz, Philosophy, CREA, Ecole Polytechnique, Paris, France 
+* David Galin, University of California, San Francisco 
+* Shaun Gallagher, Philosophy and Cognitive Science, Canisius College 
+* Marja Germans, Psychology, Vanderbilt University 
+* Leslie Greenberg, Psychology, York University, Ontario 
+* Valerie Gray Hardcastle, Philosophy, Virginia Tech 
+* Richard Lane, Psychiatry and Psychology, University of Arizona 
+* Bruce Mangan, Institute of Cognitive Studies, UC Berkeley 
+* Jaak Panksepp, Psychology, Bowling Green State University 
+* Michael Robinson, Psychology, University of Illinois 
+* Marilyn Schlitz, Director of Research, Institute of Noetic Sciences 
+* Jonathan Shear, Philosophy, Virginia Commonwealth University 
+* Heather Urry, Psychology, University of Arizona 
+* Francisco Varela, Cognitive Neuroscience, Paris, France 
+* Max Velmans, Psychology, University of London 
+* Pierre Vermersch, CNRS, GREX, Saint-Elbe, France 
+* Doug Watt, Director of Neuropsychology, Quincy Hospital, Quincy, MA
+ 
+Overall Focus of the Conference:
+The field of emotion research examines a class of mental phenomena for 
+which a main component is the conscious experience of emotion. Due to
+difficulties inherent in rendering first person subjective experience 
+measures amenable to scientific interpretation, our current 
+understanding of the experiential component of emotion remains limited. 
+
+Open-ended verbal response format procedures have had the advantage 
+of allowing description of an emotional experience with whatever words 
+seem to best capture it. However, the resulting narratives can be 
+difficult to adequately categorize and quantify. Fixed response format 
+approaches are more easily quantified, but rest on a priori 
+assumptions about what comprises the domain of emotional experience. 
+
+When these subjective measures are linked to third person behavioral and 
+physiological measures interesting correlations have been found. 
+But what do these correlations tell us? Do they suggest a functional role 
+for the conscious experience of emotion? Does the subjective experience of 
+emotion play an important role in the development of a sense of self, 
+in social communication, in emotional regulation, or in other forms 
+of complex cognitive processing? Or is the experiential component 
+of emotion a mere epiphenomenon? 
+
+As investigators of emotion begin to tackle questions at the interface of 
+emotion, neuroscience, and consciousness studies, new methodologies may be 
+required. This on-line workshop will focus on methodological issues facing 
+emotion researchers in particular, and investigators of consciousness in 
+general, who are interested in understanding role of experience in our 
+mental life.
+ 
+
+
+                   Conference Outline
+                Week One, February 22-26
+
+Methodological Proposals in Consciousness Studies 
+(February 22-23)
+Researchers in a variety of disciplines have outlined broad methodological 
+strategies for approaching the scientific study of consciousness. Common 
+among a number of these is a concern to take subjective reports 
+seriously as a valid source of information about consciousness. 
+
+First Person Methods in Emotion Research 
+(February 23-25)
+Emotion is a complex psychological construct that evades simple definition. 
+However, many researchers will agree that emotions involve several 
+components, including physiological arousal, overt or expressive behavior, 
+cognitive appraisal, and subjective experience. Current research programs 
+incorporate measures of experience in a variety of ways:
+Considered as true "measures of experience," how do the various approaches 
+"measure up"? What are the particular strengths and weaknesses of the 
+various approaches? What are the built-in assumptions of each?
+
+Arguments against Introspection 
+(February 25-26)
+How fatal are the arguments against introspectionism to any attempts to 
+integrate phenomenal data in empirical research on consciousness? 
+
+
+                 Week Two: March 1-5
+
+Re-thinking Our Approach to Experiential Phenomena 
+(March 1-3)
+Perhaps acceptance of phenomenological data as a valid component to 
+experimental studies in its own right will not come from arguments about 
+the validity of introspective data. Instead, such acceptance might 
+come through the consistent demonstration that emotional experience 
+has an important functional role (e.g., in cognitive activity, in 
+social behavior, in mediating physiological responses to emotional events).
+Such an approach will require that we continue to evaluate our measures of 
+experience and get better at understanding the dimensions along which 
+experiences can vary and the types of laboratory situations that 
+are conducive to the elicitation of emotional experiences.
+
+New Methodologies: Evoking Experience and Measuring Experience 
+(March 3-5)
+Participants discuss current and future approaches. 
+ 
+
+System Requirements:
+In preparation for the conference, please be sure that you have a reasonably 
+current web browser. Your web browser's version number should be 
+available under its Help..About.. menus. We strongly recommend a minimum of 
+either Internet Explorer 4 or Netscape Communicator 4. You must have at least 
+Internet Explorer 3.0 or Netscape Communicator 3.0.
+If your browser is an earlier version, please visit 
+http://www.consciousness.arizona.edu/modernsci/contSysReq.html. We have 
+posted the system requirements for each browser version and links to places 
+within Microsoft and Netscape where you can download a newer browser.

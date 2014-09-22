@@ -1,0 +1,50 @@
+
+
+From skala@kiv.zcu.cz Mon Feb  9 09:16:10 MET 1998
+Received: from ori.zcu.cz (ori.zcu.cz [147.228.52.11])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id JAA18483
+	for <fnielsen@ei.dtu.dk>; Mon, 9 Feb 1998 09:16:09 +0100 (MET)
+Received: from uk426-kiv-pc4a.zcu.cz (uk426-kiv-pc4a.zcu.cz [147.228.43.56])
+	by ori.zcu.cz (8.8.5/8.8.5) with SMTP id HAA25854;
+	Mon, 9 Feb 1998 07:33:58 +0100 (MET)
+From: "Vaclav Skala" <skala@kiv.zcu.cz>
+To: <Undisclosed.Recipients@ori.zcu.cz>
+Subject: WSCG conf.on Internet Mbone
+Date: Sun, 8 Feb 1998 16:54:09 +0100
+Message-ID: <01bd34a9$caca12c0$382be493@uk426-kiv-pc4a.zcu.cz>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 4.71.1712.3
+X-MimeOLE: Produced By Microsoft MimeOLE V4.71.1712.3
+Status: RO
+X-Status: 
+
+Dear friends,
+
+The Sixth International conference in Central Europe on Computer Graphics
+and Visualization 98 will be hopefully available on the Mbone
+videoconference system. If you are interested in please, visit the
+                            URL:http://wscg.zcu.cz
+server for details.
+
+The conference is held in February 10-13, 1998 and starts at 8,00 GMT (9.00
+local time).
+
+Please, send us your experience, recommendation - please use subject:
+WSCG-Mbone
+
+Vaclav Skala
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prof. Vaclav Skala
+University of West Bohemia,
+Univerzitni 8, Box 314
+306 14 Plzen-Bory
+Czech Republic
+tel. +420-19-7491-188, fax +420-19-7491-213
+skala@kiv.zcu.cz, http://herakles.zcu.cz/~skala
+
+

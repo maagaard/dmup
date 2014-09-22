@@ -1,0 +1,38 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 30 01:41:38 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id BAA11844;
+	Tue, 30 Nov 1999 01:41:34 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab06824;
+          29 Nov 99 15:50 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab06821;
+          29 Nov 99 15:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17829;
+          29 Nov 99 15:37 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa16126; 28 Nov 99 20:23 EST
+Received: from mail3.ntu.edu.sg by cs.cmu.edu id aa00269; 28 Nov 99 20:23 EST
+Received: by mail3.ntu.edu.sg with Internet Mail Service (5.5.2448.0)
+	id <XB8LHFYM>; Mon, 29 Nov 1999 09:22:25 +0800
+Message-ID: <A5D1A8B98B03D31195550008C75D32AF5B57E4@EXCHANGE6>
+From: "Jagath C Rajapakse (Asst Prof)" <ASJagath@ntu.edu.sg>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Subject: Postdoc in Brain Imaging
+Date: Mon, 29 Nov 1999 09:22:15 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Content-Type: text/plain
+Status: RO
+X-Status: 
+
+Postdoctoral Position in Brain Image Analysis
+
+A postdoctoral research position in structural and functional brain image
+analysis is immediately available in the School of Applied Science, Nanyang
+Technological University, Singapore. Candidate should have a Ph.D. and
+experience in signal/image processing and Unix/C/C++.
+ 
+For further information, contact: Dr. Jagath Rajapakse, School of 
+Applied Science, Nanyang Technological University, N4 Nanyang Avenue,
+Singapore 639798. Email: asjagath@ntu.edu.sg,
+Phone: +65 790 5802, Fax: +65 792 6559

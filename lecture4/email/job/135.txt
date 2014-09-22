@@ -1,0 +1,55 @@
+
+
+From owner-functional-mri-discussion@lists.Stanford.EDU Tue Jun 22 09:38:32 MET 1999
+Received: from lists.Stanford.EDU (lists.Stanford.EDU [171.64.14.232])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id JAA01828
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 22 Jun 1999 09:38:30 +0200 (METDST)
+Received: (from daemon@localhost) by lists.Stanford.EDU (8.8.5/8.7.1) id IAA07334 for functional-mri-discussion-out013712; Mon, 21 Jun 1999 08:14:55 -0700 (PDT)
+Received: from psych.Stanford.EDU (Psych.Stanford.EDU [36.121.0.20]) by lists.Stanford.EDU (8.8.5/8.7.1) with ESMTP id IAA07329 for <functional-mri-discussion@lists.Stanford.EDU>; Mon, 21 Jun 1999 08:14:53 -0700 (PDT)
+Received: from localhost (poldrack@localhost)
+	by psych.Stanford.EDU (8.8.8/8.8.8) with SMTP id IAA29521
+	for <functional-mri-discussion@lists.Stanford.EDU>; Mon, 21 Jun 1999 08:14:52 -0700 (PDT)
+Date: Mon, 21 Jun 1999 08:14:52 -0700 (PDT)
+From: Russell Poldrack <poldrack@Psych.Stanford.EDU>
+X-Sender: poldrack@psych
+To: functional-mri-discussion@lists.Stanford.EDU
+Subject: job posting [Benson@nso.uchc.edu (Benson,Randy)] (fwd)
+Message-ID: <Pine.SUN.3.96.990621081343.29446A-100000@psych>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-functional-mri-discussion@lists.Stanford.EDU
+Precedence: bulk
+Status: RO
+X-Status: 
+
+POSTDOC:
+Postdoctoral position in Functional Neuroimaging
+
+Programs in Functional Neuroimaging and Neuroscience at the
+University of Connecticut School of Medicine
+
+A postdoctoral position is available is available immediately to study human 
+auditory processing using fMRI.  Candidate is encouraged to pursue an 
+established interest of his or her own in the area of audition in conjunction 
+with members of the faculty in the Program in Neuroscience.  No prior 
+experience with human functional neuroimaging is required but ideal candidate 
+would have extensive training in auditory psychophysics, computational 
+modeling of auditory information processing, or neuranatomical/ 
+neurophysiological study of the mammalian auditory system.  Position is two 
+to three years funded by NIDCD (Communication Disorders).  Individuals must 
+have an earned Ph.D. and/or MD 
+degree and be a permanent US resident. Send CV, statement of research 
+background and interests, names and addresses of 3 references to:
+
+Randall Benson, M.D.
+263 Farmington Ave.
+Farmington, CT 06119.  
+
+Email: benson@nso.uchc.edu
+Fax: 860-679-1989
+
+
+==========================================================================
+This message was posted through the Stanford campus mailing list
+server.  If you wish to unsubscribe from this mailing list, send the
+message body of "unsubscribe functional-mri-discussion" to majordomo@lists.stanford.edu

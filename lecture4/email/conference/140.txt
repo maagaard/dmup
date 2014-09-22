@@ -1,0 +1,90 @@
+
+
+From fnielsen@hendrix.imm.dtu.dk  Tue Aug 25 11:26:13 1998
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id LAA03074
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 25 Aug 1998 11:26:11 +0200 (METDST)
+Received: from localhost (fnielsen@localhost)
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with SMTP id LAA13370
+	for <fnielsen@eivind>; Tue, 25 Aug 1998 11:27:41 +0200 (METDST)
+Date: Tue, 25 Aug 1998 11:27:41 +0200
+From: Finn Aarup Nielsen <fnielsen@hendrix.imm.dtu.dk>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: IEEE Visualization 98 October 18 - 23, 1998 (fwd)
+Message-ID: <Pine.SGI.4.00.9808251127380.8923-100000@hendrix.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+Finn Nielsen
+
+---------- Forwarded message ----------
+Date: Mon, 24 Aug 1998 14:41:56 -0400 (EDT)
+From: Dr. David Ebert <ebert@cs.umbc.edu>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: IEEE Visualization 98 October 18 - 23, 1998
+
+                      IEEE Visualization 98
+
+                      (October 18 - 23, 1998)
+
+                      Sheraton Imperial Hotel
+
+               Research Triangle Park, North Carolina
+
+            (http://www.erc.msstate.edu/conferences/vis98)
+
+
+   ***   (Advanced Registration Deadline:  September 25, 1998)   ***
+
+               --- Don't Delay,  Register NOW !! ---
+
+
+Visualization is a vital research and applications frontier shared by
+a variety of science, medical, engineering, business, and
+entertainment fields. The ninth IEEE Visualization conference
+focuses on interdisciplinary methods. It supports collaboration
+among developers and users of visualization methods across all of
+science, engineering, medicine, and commerce.
+
+The conference week will include tutorials, symposia, and mini-workshops
+Sunday through Tuesday, and papers, panels, case studies, and
+late-breaking hot topics presentations Wednesday through Friday. The deadline
+for conference and hotel advance registration is September 25th.
+
+For more information see the IEEE Visualization 98 web site at:
+(http://www.erc.msstate.edu/conferences/vis98)
+
+A few additional items have been added since the release of the
+IEEE Visualization 98 Advance Program.  The University of North
+Carolina at Chapel Hill's Graphics & Imaging Cluster will host
+an open house on Thursday evening of Vis 98. For more
+information see:  (http://www.cs.unc.edu/~glasgow/VIS98.html).
+
+The Information Visualization 98 Symposium has now announced their
+keynote and capstone speakers.  George Robertson of Microsoft will
+provide the Keynote Address on Monday, October 19th and
+Edward Tufte will provide the Capstone Address on Tuesday, October 20th.
+
+The keynote speaker for the Volume Visualization 98 Symposium will
+be Jim Foley.  His address will be on Monday, October 19th.
+
+The keynote speaker for the main Visualization 98 Conference will
+be Pat Hanrahan of Stanford University.  His address will open
+IEEE Visualization 98 on Wednesday, October 21st. The conference
+climaxes with a Capstone Address by Turner Whitted, of Microsoft
+Research, on October 23rd, 1998.
+
+We hope you will join us in Research Triangle Park, North Carolina
+for IEEE Visualization 98.
+
+
+-- The IEEE Visualization 98 Conference Committee
+
+- Dr. David S. Ebert, Computer Science & Electrical Engineering Department --
+- U. of Maryland Baltimore County; 1000 Hilltop Circle, Baltimore, MD 21250 -
+------------ ebert@umbc.edu or http://www.umbc.edu/~ebert  ------------------
+-----------------------------------------------------------------------------

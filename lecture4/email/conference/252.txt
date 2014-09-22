@@ -1,0 +1,96 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May  5 04:12:34 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA05448;
+	Wed, 5 May 1999 04:12:26 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29126;
+          4 May 99 19:35 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29124;
+          4 May 99 19:23 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23346;
+          4 May 99 19:22 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa03394; 3 May 99 16:30 EDT
+Received: from www.phil.gu.se by CS.CMU.EDU id aa10676; 3 May 99 16:29:40 EDT
+Received: from [130.241.57.120] by www.phil.gu.se
+ with SMTP (Eudora Internet Mail Server 1.2); Mon, 3 May 1999 21:31:35 +0100
+Message-Id: <v01530500b353b6988e37@[130.241.57.120]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 3 May 1999 22:28:48 +0200
+To: Neuronet@sans.kth.se, Connectionists <connectionists@cs.cmu.edu>,
+        Uncertainty in AI <uai@cs.orst.edu>,
+        AI and Statistics <ai-stats@watstat.uwaterloo.ca>,
+        Statistics (all-purpose) <allstat@mailbase.ac.uk>,
+        Knowledge Discovery Nuggets <kdnuggets@list1.channel1.com>
+From: ANNIMAB <annimab@www.phil.gu.se>
+Cc: ala@sans.kth.se, lars@ida.his.se, richard@n-space.co.uk,
+        P.J.Lisboa@livjm.ac.uk, getz@nature.BERKELEY.MT.CS.CMU.EDU,
+        teuvo@davinci.hut.fi
+Status: RO
+X-Status: 
+
+Below you can find information about a new conference of interest for
+researchers in medicine, biology, statistics, AI and artificial neural
+networks. (Our apologies if you receive more than one copy of this
+message!) For more information about the conference see:
+
+http://www.phil.gu.se/annimab.html
+
+
+
+First announcement:
+
+                                                     ANNIMAB-1
+
+                                       an international conference on
+
+                      Artificial Neural Networks In Medicine And Biology
+
+                                 Gothenburg, Sweden, May 13-16, 2000
+
+
+
+Artificial neural network (ANN) techniques are currently being used for
+many data analysis and modelling tasks in clinical medicine as well as in
+theoretical biology, and the possible applications of ANNs in these fields
+are countless. The ANNIMAB-1 conference will summarise the state of the
+art, analyse the relations between ANN techniques and other available
+methods, and point to possible future biological and medical uses of ANNs.
+It will have three main themes:
+
+1) Medical applications of artificial neural networks: for better diagnoses
+and outcome predictions from clinical and laboratory data, in the analysis
+of ECG and EEG signals, in medical image analysis, for the handling of
+medical databases, etc.
+
+2) Uses of ANNs in biology outside clinical medicine: for example, in
+models of ecology and evolution, for data analysis in molecular biology, in
+simulations of cell signalling mechanisms, and (of course) in models of
+animal and human nervous systems and their capabilities.
+
+3) Theoretical aspects: recent developments in ANN techniques, ANNs in
+relation to AI and to traditional statistical procedures, possible roles of
+ANNs in the medical decision process, etc. Hybrid systems and integrative
+approaches, such as those involving Bayesian belief nets, will receive
+special attention.
+
+Among the keynote speakers are: Wayne Getz (Berkeley); Teuvo Kohonen
+(Helsinki); Anders Lansner (Stockholm); Paulo Lisboa (Liverpool).
+
+The size of the conference, which starts at 2PM on Saturday, May 13 and
+ends at 3PM on Tuesday, May 16, will be limited to 250 participants.
+
+The second announcement and call for papers is scheduled for August 15,
+1999, and the deadline for abstract submissions is October 15, 1999.
+
+ANNIMAB-S
+the Artificial Neural Networks In Medicine And Biology Society
+Dept of Philosophy, Gothenburg University
+Box 200, SE-405 30 Gothenburg, Sweden
+phone (+46) 31 773 5573
+fax (+46) 31 773 5159
+e-mail: annimab@www.phil.gu.se
+http://www.phil.gu.se/annimab.html
+
+

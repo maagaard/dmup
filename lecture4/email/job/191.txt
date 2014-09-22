@@ -1,0 +1,73 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Oct  7 06:00:02 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA03415;
+	Thu, 7 Oct 1999 05:59:58 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24075;
+          6 Oct 99 22:06 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24073;
+          6 Oct 99 22:01 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00603;
+          6 Oct 99 22:01 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa21737; 6 Oct 99 21:43 EDT
+Received: from gremlin.ucsd.edu by edrc.cmu.edu id aa13764; 6 Oct 99 21:42 EDT
+Received: (from gary@localhost)
+	by gremlin.ucsd.edu (8.9.1a/8.9.1) id SAA20655;
+	Wed, 6 Oct 1999 18:42:52 -0700 (PDT)
+Date: Wed, 6 Oct 1999 18:42:52 -0700 (PDT)
+From: Gary Cottrell <gary@cs.ucsd.edu>
+Message-Id: <199910070142.SAA20655@gremlin.ucsd.edu>
+To: colt@cs.uiuc.edu, connectionists@cs.cmu.edu, ml@ics.uci.edu
+Cc: gary@cs.ucsd.edu
+Subject: Jobs at UCSD
+Status: RO
+X-Status: 
+
+Hi folks -
+
+This is a "heads up" that the CSE Department at UCSD has
+several faculty positions at Junior AND Senior levels that
+we are going to try to fill this coming year. While the ad
+specifies many areas, among the ones listed are machine
+learning, data mining, bioinformatics, and computational
+biology. The goal is to hire the best candidates, regardless
+of area. If you are one of those, please apply!
+
+See the web page:
+http://www-cse.ucsd.edu/cse/Academic.Jobs.html
+
+The deadline is January 15, 2000.
+
+The CSE Department at UCSD is consistently ranked among the
+top 20 in the US, and has made several key hires in recent
+years in theory, networking, distributed systems. UCSD has
+been ranked the number 1 public science university in the US
+using only objective measures. There is a broad group of
+people around the university interested in various standard
+combinations of the words Neural, Computation, Cognition,
+and Science.
+
+Plus, we have the best weather - the beach party last year
+was on Halloween!
+
+cheers,
+gary
+
+Gary Cottrell 858-534-6640 FAX: 858-534-7029 
+Faculty Assistant Chet Frost: 858-822-3286
+Computer Science and Engineering 0114
+IF USING FED EX INCLUDE THE FOLLOWING LINE:          "Only connect"
+3101 Applied Physics and Math Building
+University of California San Diego			-E.M. Forster
+La Jolla, Ca. 92093-0114
+
+Email: gary@cs.ucsd.edu or gcottrell@ucsd.edu
+Home page: http://www-cse.ucsd.edu/~gary/
+
+
+
+
+
+
+

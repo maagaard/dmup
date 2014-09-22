@@ -1,0 +1,69 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Mar 23 21:01:27 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA05332;
+	Tue, 23 Mar 1999 21:01:16 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20475;
+          23 Mar 99 13:33 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20473;
+          23 Mar 99 13:16 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22896;
+          23 Mar 99 13:16 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa12248; 23 Mar 99 8:45 EST
+Received: from axon.physik.uni-bremen.de by RI.CMU.EDU id aa14641;
+          23 Mar 99 8:44:59 EST
+Received: from physik.uni-bremen.de (rdh@axon.physik.uni-bremen.de [134.102.160.57])
+	by axon.physik.uni-bremen.de (8.8.8/8.8.8) with ESMTP id OAA26448
+	for <connectionists@cs.cmu.edu>; Tue, 23 Mar 1999 14:42:42 +0100
+Sender: rdh@axon.physik.uni-bremen.de
+Message-ID: <36F79A51.DE43823F@physik.uni-bremen.de>
+Date: Tue, 23 Mar 1999 14:42:41 +0100
+From: Rolf Henkel <henkel@physik.uni-bremen.de>
+Organization: Institute for Theoretical Neurophysics
+X-Mailer: Mozilla 4.5 [en] (X11; I; Linux 2.0.36 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Connectionist Mailing List <connectionists@cs.cmu.edu>
+Subject: Stereovision - new paper, new web-pages
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear connectionists,
+
+there is a new paper available at
+http://axon.physik.uni-bremen.de/research/papers/
+
+    " Locking onto 3d-Structure by a Combined Vergence- and
+Fusionsystem"
+
+Abstract:  An interacting fusion- and vergence-system is presented which
+utilizes two properties of coherence-based stereo: sub-pixel-precision
+and a stable validation signal for disparity estimates. This allows the
+system to sample the three-dimensional scene with several precisely
+chosen fixation points and automatically accumulate the data into a full
+disparity map. In addition, the system creates a fused cyclopean view of
+the scene, co-registered with the final disparity map.
+
+In addition, a corresponding web-page discussing this model and showing
+some  samples of vergence-movies can be found at
+http://axon.physik.uni-bremen.de/research/stereo/vergence/
+
+Newly updated web-pages discussing additional models for the fusion of
+stereo data into a single cyclopean view as well as the perception of
+transparency & binocular rivalry can be found following the links at
+http://axon.physik.uni-bremen.de/research/stereo/
+
+Comments are very welcome.
+
+Best regards, Rolf Henkel
+
+--
+ Institute of Theoretical Neurophysics, University Bremen, Germany
+ - Email:       henkel@physik.uni-bremen.de
+ - URL:         http://axon.physik.uni-bremen.de/
+
+
+

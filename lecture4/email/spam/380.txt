@@ -1,0 +1,149 @@
+
+
+From promotions@emulive.com Mon Apr 19 05:16:19 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id FAA12005
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 19 Apr 1999 05:16:19 +0200 (METDST)
+Received: from emuweb.emulive.com (emulive-23.emulive.com [207.253.50.151] (may be forged))
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id FAA25784
+	for <fn@imm.dtu.dk>; Mon, 19 Apr 1999 05:16:41 +0200 (METDST)
+Received: from user12345 (stat245.jcs-canada.com [207.253.50.245])
+          by emuweb.emulive.com (2.5 Build 2640 (Berkeley 8.8.6)/8.8.4) with SMTP
+	  id XAA00513; Sun, 18 Apr 1999 23:18:47 -0400
+Date: Sun, 18 Apr 1999 23:18:47 -0400
+From: Emulive promotions <promotions@emulive.com>
+To: <promotions@emulive.com>
+Subject: STREAMING VIDEO SOFTWARE CLEARANCE SALE
+Message-Id: <NetContact.4/18/99.83424.4.promotions@emulive.com>
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+YOUR OWN VIDEO BROADCAST STATION FOR AS LOW AS $199!
+ALL NECESSARY SOFTWARE INCLUDED!
+EASY TO INSTALL AND USE!
+
+Dear Video Streaming Enthusiast,
+
+I would like to take this opportunity to introduce you to Emulive Imaging Corporation. Emulive is a software development company based in Montreal, Canada.  Our product suite allows you to CREATE, MANAGE, BROADCAST and PLAY live and/or pre-recorded video to an unlimited number of viewers over the internet, intranets and extranets.
+
+Emulive's solutions are compatible with all types of TCP/IP connections including (but not limited to) modem, ISDN, xDSL, T1, T3 and Ethernet.  Our playerless java solution offers your audience the ability to immediately view broadcasts within any popular web browser from any platform without having to install a player beforehand.  Unlike competing products, our solutions offer high performance on all but the slowest of PC's, using 32-Bit Windows platforms including 95, 98 and NT.
+
+WE'RE CLEARING OUR INVENTORY!
+We are excited to announce a massive clearance sale to make room in our inventory for the much-anticipated release of version 4. For a limited time, we are now offering three Video Broadcasters Kit (VBK) promotions.
+
+VBK PRODUCT HIGHLIGHTS
+The Video Broadcasters Kit consists of two award winning products by Emulive Imaging
+
+Video Producer
+	- Real-time video encoding, editing and effects at up to 30 frames per second
+	- Screenscrape feature allows you to use your PC screen as a camera input
+	- Runs on any Windows platform and uses Video for Windows compatible devices for camera input
+
+Server
+	- Supports 20 incoming live video feeds and unlimited number of pre-recorded files
+	- Multi-level security features
+	- Integrated Java broadcast viewer with Java chat
+	- Chat server, directory client
+	- Unicast and multicast streaming capabilities
+	- Centralized management of all server content
+	- Complete logging features for audit trails and referrals
+	- Upgradable to 5, 10, 25, 50, 100, 250, 500 and 1000 simultaneous users
+	- Upgradable to the Commerce Edition/Merchant Server which allows PAY PER VIEW
+
+VBK PROMOTIONS
+Over $500 off on every kit!
+
+1) 	Starter VBK
+	Includes
+	- 1x Video Producer
+	- 1x 5 user standard server
+	Allows 5 simultaneous viewers to see your video broadcast
+	$199.00 US
+
+2) 	Intermediate VBK
+	Includes
+	- 1x Video Producer
+	- 1x 25 user standard server
+	Allows 25 simultaneous viewers to see your video broadcast
+	$499.00 US
+
+3) 	Professional VBK
+	Includes
+	- 1x Video Producer
+	- 1x 50 user standard server
+	Allows 50 simultaneous viewers to see your video broadcast
+	$999.00 US
+
+EACH VBK KIT INCLUDES
+- Immediate product delivery via the internet
+- Retail CD-ROM package via snail-mail
+- An Emulive T-Shirt
+- Product specification sheets, info on how to be a reseller and more
+
+- 5 minute set-up, zero maintenance
+- High quality web video at a configurable frame rate
+- Rich on-line documentation with context sensitive help
+- FREE major point revision upgrades for registered users
+- 90-day free technical support
+- 30 day money-back guarantee
+
+TRY BEFORE YOU BUY
+Server and Video Producer are immediately downloadable from our website.  These shareware releases will allow you to build a fully functional system that will operate an unlimited number of times at 30 minutes per operating session.
+
+DOWNLOAD SERVER AND VIDEO PRODUCER
+http://www.emulive.com/downloads
+
+LEARN MORE ABOUT SERVER AND VIDEO PRODUCER
+http://www.emulive.com/products/
+
+HOW TO BUILD YOUR OWN STREAMING VIDEO SOLUTION
+The applications are almost limitless.  We have customers using our VBK for purposes such as security, training, conferencing, medical imaging, day care monitoring, nanny monitoring and event broadcasting.
+Find out more on our website at
+http://www.emulive.com/products/solutions/overview.htm
+
+ORDER THE VBK WITH YOUR CREDIT CARD
+Once you've had a chance to evaluate the Video Broadcaster Kit, contact Randee Fagen at (514) 954-1919 ext. 103, toll free at 877-EMULIVE, or by email at randee@emulive.com.  To receive license keys that will unlock the software, we accept payment by Mastercard, Visa, American Express and wire transfer.  Once your order has cleared, we'll contact you with additional instructions on how to unlock the software.
+
+IMPULSE BUYERS
+If you can't wait, you can order and download a fully licensed copy of our standard Starter Kit for $399 USD via Digital River.  The download is immediate, the license is immediately active.  To buy now, click the following link:
+http://www.digitalriver.com/dr/v2/ec_MAIN.Entry17c?CID=0&SID=1939&SP=10007&PN=5&PID=132693
+
+WHAT OTHERS SAY
+We're often told we're 'one of the best kept secrets on the internet'.
+Our customers love us, and we love 'em right back.  Don't just take our word for it though...
+
+"...these are four of the most robust network video broadcasting tools I have worked with."
+Quoted in a two page page review of Server v3.x, Video Producer, freeware Active Theatre client and freeware Theatre Xpresso Java client.
+Brian Gallagher of WindowsNT Magazine, April 1999, page 149.
+http://www.winntmag.com/Magazine/EReprint.cfm?ArticleID=5065
+
+"...Emulive products offered were exactly what we were looking for.  The products are intuitive, easy to use, easy to implement and monitor, and most of all... no plugins required for the end user.  We were impressed with Emulive's commitment to customer service."
+Michael Owens, Mistral Design Group, Inc.
+
+"I currently use Emulive Server 24 hours a day, 7 days a week.  It is by far the most reliable software I have ever used.  There hasn't been one crash or even a second of lost time with this package!  The video output quality is excellent.  Emulive's customer service is friendly, responsive and helpful."
+Sean Breeden, WebWorx Inc.
+
+Don’t delay!  Impress your friends and co-workers with your technical savvy and show then how they can jump on the broadcast bandwagon as well!
+
+Sincerely,
+
+Randee Fagen
+Sales Manager
+
+Emulive Imaging Corporation
+a division of JCS Canada Inc. 
+est 1996
+
+481 Viger Street West, Suite 400 
+Montreal, Quebec, Canada H2Z 1G6
+tel 514-954-1919
+fax 514-954-9779
+toll free 1-877-EMULIVE
+
+Network Alive!
+
+
+

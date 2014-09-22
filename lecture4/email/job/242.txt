@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Dec  7 19:29:11 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id TAA16103;
+	Tue, 7 Dec 1999 19:29:06 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ad24013;
+          6 Dec 99 23:08 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab24003;
+          6 Dec 99 22:57 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26421;
+          6 Dec 99 22:57 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa28501; 6 Dec 99 13:48 EST
+Received: from angelo.kcl.ac.uk by edrc.cmu.edu id aa20069; 6 Dec 99 13:48 EST
+Received:  from kcl.ac.uk (ee-me0.mech.kcl.ac.uk [137.73.21.200])
+	by angelo.kcl.ac.uk  with ESMTP id SAA04645;
+	Mon, 6 Dec 1999 18:48:13 GMT
+Message-ID: <384C0444.73B9F919@kcl.ac.uk>
+Date: Mon, 06 Dec 1999 18:45:24 +0000
+From: "Althoefer, Kaspar" <K.Althoefer@kcl.ac.uk>
+Reply-To: K.Althoefer@kcl.ac.uk
+Organization: King's College London
+X-Mailer: Mozilla 4.5 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "Althoefer, Kaspar" <Kaspar.Althoefer@kcl.ac.uk>
+Subject: Research Studentship in the Dept. of Mechanical Engineering, King's 
+ College London
+References: <36FB78FF.BEE3684A@kcl.ac.uk>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear Colleagues,
+
+I have a Research Studentship available here in London, UK, to work on
+motion planning and control algorithms for robots involving research on
+sensors and neural networks.
+ 
+Applicants should hold a first class honours degree in mechanical
+engineering, electronic engineering or a related subject. The
+studentship is only open for candidates from the European Union (EU).
+
+Further details can be obtained by writing or e-mailing to me. 
+
+If you know of anyone interested please feel free to pass this
+information on.
+
+Best regards,
+
+Kaspar Althoefer.
+
+
+--
+|_/ I N G'S                    Dr Kaspar ALTHOEFER
+| \ COLLEGE                  Ph.D., Dipl.-Ing., AMIEE
+L O N D O N          Department  of  Mechanical  Engineering
+Founded1829        King's College, Strand, London WC2R 2LS, UK
+
+               TEL: +44 (0)20 7848 2431, FAX: +44 (0)20 7848 2932
+                         e-mail:  K.Althoefer@kcl.ac.uk
+                        http://www.eee.kcl.ac.uk/~kaspar

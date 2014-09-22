@@ -1,0 +1,65 @@
+
+
+From spm-request@mailbase.ac.uk Sat Jul 17 07:30:43 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id HAA05173
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 17 Jul 1999 07:30:42 +0200 (METDST)
+From: spm-request@mailbase.ac.uk
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id GAA04735;
+	Sat, 17 Jul 1999 06:26:18 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id GAA18377;
+        Sat, 17 Jul 1999 06:22:55 +0100 (BST)
+Received: from mail.sim.com.mx ([148.245.143.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id GAA18305;
+        Sat, 17 Jul 1999 06:22:45 +0100 (BST)
+Date: Sat, 17 Jul 1999 06:22:45 +0100 (BST)
+Message-Id: <199907170522.GAA18305@naga.mailbase.ac.uk>
+Received: from tntroma1-2-11.telmex.net.mx by mail.sim.com.mx with SMTP (Microsoft Exchange Internet Mail Service Version 5.0.1460.8)
+	id PASDH6ZA; Sat, 17 Jul 1999 00:26:06 -0600
+MIME-Version: 1.0
+Content-Type: text/plain; charset=unknown-8bit
+Content-Transfer-Encoding: 8bit
+Subject: =?iso-8859-1?Q?EL_EFECTO_CROUCH-ECHLIM
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+_Informaci=F3n_T=E9cnica?=
+From:  itcmex@itcmex.com
+To:  itcmex@itcmex.com
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: itcmex@itcmex.com
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+
+
+
+--------------------------------------------------------------------------------
+
+El efecto Crouch-Echlin
+Por Doug Owen 
+
+Bautizado con el nombre de sus descubridores, Jace Crouch y Mike Echlin, el efecto Crouch-Echlin es un problema que afecta a los relojes de tiempo real de las computadoras (RTCs) y sólo aparecerá, de manera impredecible y esporádicamente, después del 1° de enero del año 2000.
+
+Una de las tareas que realiza el BIOS en el momento de encendido, es tomar la fecha del RTC y almacenarla en un lugar de la memoria donde el sistema operacional pueda encontrarlo. Los BIOS de las PCs manejan las fechas restando el número de años a partir de 1980 (digamos que este es el año "cero" en la era de la computación personal). De manera que al mostrar una fecha, el BIOS siempre resta 80 a los últimos dos dígitos... excepto cuando la fecha es posterior al 2000. Los fabricantes de BIOS se dieron cuenta muy rápido de este problema y lo resolvieron de manera sencilla, agregando una cláusula "if, then" a la rutina de encendido; "if date < 2000, then substract 80, else, go 4_digit_date_routine". O algo así.
+
+Lo que nos trae al problema actual. El RTC se actualiza cada segundo, y mientras se está actualizando, la fecha y la hora están cambiando de manera que se encuentra en un estado indeterminado. En ese momento, el BIOS no puede leer la información del RTC. El RTC le avisa al BIOS y esta se abstiene de leer. El aviso aparece 244 microsegundos antes de que la información cambie para que el BIOS tenga tiempo de decidir si esperar o tomar la información inmediatamente.
+
+Cuando el BIOS tiene que restar 80 años a la fecha que le da el RTC, esta es una operación que dura menos que 244 microsegundos. Sin embargo, cuando tiene que ir a la subrutina de 4 dígitos, el procedimiento gasta algo más que ese tiempo. Normalmente no hay problema. Pero ocasionalmente el BIOS decide chequear la información dentro del margen de 244 microsegundos y si estamos después del 2000, el RTC cambia en medio de la operación. El resultado es que el BIOS lee basura y el sistema operacional arranca con fecha y horas corruptas.
+
+Existen varias curas para este problema. La más básica sería cambiar la manera como el BIOS calcula las fechas. O se podría utilizar un chip RTC con doble buffer para salida. De esta manera no hay peligro que la fecha cambie mientras es leída. Infortunadamente, el efecto Crouch-Echlin fue descubierto recientemente y la mayoría de las motherboards son todavía diseñadas con RTCs sin buffer. Si el mercado pensaba que las recientes Pentium con Windows 98 serían inmunes a los problemas del año 2000, vale la pena una segunda mirada. Otra solución es revisar la fecha cada vez que se enciende la computadora. Se puede cambiar la fecha si es necesario y esta no causará problemas mientras la computadora esté encendida ya que el efecto Crouch-Echlin sólo ocurre con la rutina de inicio. Procedimiento manual, pero efectivo. Sólo es necesario repetirlo todos los días durante los próximos cien años.
+
+El peligro con muchas SOLUCIONES de RTC para los problemas normales del 2000, que no dicen explícitamente que resuelven el efecto Crouch-Echlin, es que de hecho pueden provocarlo.
+
+Visite http://www.itcmex.com/2000.html  y vea como se soluciona este problema. 
+
+
+Atte,
+Grupo Itcmex s.a
+
+

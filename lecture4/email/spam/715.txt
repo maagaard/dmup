@@ -1,0 +1,131 @@
+
+
+From spm-request@mailbase.ac.uk Thu Dec  2 10:49:55 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id KAA26765
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 2 Dec 1999 10:49:54 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id JAA29120;
+	Thu, 2 Dec 1999 09:49:51 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id JAA18395;
+        Thu, 2 Dec 1999 09:47:34 GMT
+Received: from ns.m.u-tokyo.ac.jp (ns.m.u-tokyo.ac.jp [133.11.53.11]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id JAA18377;
+        Thu, 2 Dec 1999 09:47:28 GMT
+Received: from [130.69.108.32] ([130.69.108.32])
+	by ns.m.u-tokyo.ac.jp (8.9.3/3.7W-980822-UTMED) with ESMTP id SAA15858
+	for <spm@mailbase.ac.uk>; Thu, 2 Dec 1999 18:47:26 +0900 (JST)
+Message-Id: <199912020947.SAA15858@ns.m.u-tokyo.ac.jp>
+X-Mailer: Macintosh Eudora Pro Version 3.1.1-J
+Mime-Version: 1.0
+Content-Type: text/enriched; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Date: Thu, 2 Dec 1999 18:50:10 +0900
+Subject: deciding the cut-off cycle
+From: makuuchi michiru <makvvci@m.u-tokyo.ac.jp>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: makuuchi michiru <makvvci@m.u-tokyo.ac.jp>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+<fontfamily><param>Geneva</param>Dear SPM people;
+
+
+This is my thought on the rational for deciding the cut-off cycle of 
+
+high-pass filter.  Please check the sanity of the idea.
+
+
+Suppose two experiments in which epoch durations are all fixed to T
+sec.
+
+	experiment 1   ABABAB
+
+	experiment 2   ABCBACACB
+
+
+The cut-off cycle of high-pass filter for experiment 1
+
+should be 4*T, because an 'AB' makes one cycle (2*T) and 
+
+linear combination of cosine waves above twice of this cycle surely 
+
+pass the signal under 2*T.
+
+
+But this idea can not be extended to the experiment 2, since
+
+we can not find the explicit or apparent cycle for conditions.
+
+
+
+Here I put my thought: the cut-off cycle of high-pass filter for 
+
+both experiment 1 and 2 should be the four times of the epoch
+
+duration, 4*T. If there is no consecutive exposure of the same
+condition, 
+
+the surge of the BOLD signal for a condition is expected  
+
+like this figure. 
+
+                   |^^^^^^^^|
+
+           ____|        |____
+
+              T      T       T       (duration)
+
+This wave can not be modeled by any combination of basis functions 
+
+over 4*T cycle, and will pass the high pass filter of 4*T.
+
+So, regardless of the number of conditions or order of 
+
+presentation, the cut-off cycle should be four times of one 
+
+epoch duration.
+
+
+I would appreciate any comment.
+
+Michiru
+
+
+
+           
+
+
+
+
+
+
+</fontfamily>
++++++++++++++++++++++++++++++++++++++
+
+               Michiru MAKUUCHI         
+
+                      幕内　充
+
+         Cognitive Neuroscience,
+
+Faculty of Medicine, University of Tokyo.
+
+ 7-3-1 Hongo, Bunkuo-ku, Tokyo, Japan.
+
+          phone; +0081-3-5841-3690
+
+         fax;   +0081-3-5802-3329
+
+     e-mail; makvvci@m.u-tokyo.ac.jp
+
++++++++++++++++++++++++++++++++++++++
+

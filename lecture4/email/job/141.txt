@@ -1,0 +1,81 @@
+
+
+From spm-request@mailbase.ac.uk Thu Jul  1 21:12:02 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id VAA22705
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 1 Jul 1999 21:12:01 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id UAA07089;
+	Thu, 1 Jul 1999 20:08:21 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id UAA19105;
+        Thu, 1 Jul 1999 20:05:50 +0100 (BST)
+Received: from sph.umich.edu (dns.sph.umich.edu [141.211.50.48]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id UAA19087;
+        Thu, 1 Jul 1999 20:05:47 +0100 (BST)
+Received: from csrvr9.sph.umich.edu (csrvr9.sph.umich.edu [141.211.50.79])
+	by sph.umich.edu (8.9.3/8.9.1) with SMTP id PAA12947
+	for <spm@mailbase.ac.uk>; Thu, 1 Jul 1999 15:05:44 -0400 (EDT)
+Date: Thu, 1 Jul 1999 15:05:44 -0400 (EDT)
+X-Sender: jonraz@csrvr9.sph.umich.edu
+Message-ID: <Pine.GSO.3.96.990701150413.1890F-100000@csrvr9.sph.umich.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: Post-doc at Penn
+From: Jonathan Raz <jonraz@umich.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Jonathan Raz <jonraz@umich.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+Post-Doc in Neuroimaging Statistics
+
+The University of Pennsylvania is seeking new PhDs to fill one to
+three post-doctoral position(s). Candidates should have completed or
+be nearing completion of a Doctorate in Biostatistics, Statistics,
+Electrical Engineering, Bioengineering, Computer Science, Mathematics,
+or a related field. The successful candidate will develop new
+statistical methods for analysis of functional brain images and time
+series; write methodological and theoretical papers; and collaborate
+with top neuroscientists. This is a great opportunity to gain
+experience in one of the most exciting and rapidly growing areas of
+statistics. Previous experience in time series, imaging, and/or
+neuroscience will be helpful. The post-doctoral appointment can begin
+any time between September 1, 1999 and September 1, 2000. Send CV and
+3 letters of recommendation to:
+
+Jonathan Raz, Ph.D.
+Division of Biostatistics -- CCEB
+University of Pennsylvania Medical Center
+612 Blockley Hall, 423 Guardian Drive
+Philadelphia, PA 19104-6021
+
+or send electronic mail to: 
+
+jraz@cceb.upenn.edu
+
+AA/EOE.
+
+
+
+*******************************************************************************
+Jonathan Raz
+Division of Biostatistics, CCEB               
+University of Pennsylvania Medical Center                
+612 Blockley Hall
+423 Guardian Drive
+Philadelphia, PA 19104-6021
+
+Email: jraz@cceb.upenn.edu
+Home page: http://www.sph.umich.edu/~jonraz	
+Telephone: (215) 573-4467
+Fax: (215) 573-4865
+*******************************************************************************
+

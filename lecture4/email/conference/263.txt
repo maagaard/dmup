@@ -1,0 +1,128 @@
+
+
+From bartz@gris.uni-tuebingen.de Tue Jun  8 10:37:28 MET 1999
+Received: from mx02.uni-tuebingen.de (mx02.uni-tuebingen.de [134.2.3.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id KAA12456
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 8 Jun 1999 10:37:27 +0200 (METDST)
+Received: from cezanne (cezanne.gris.uni-tuebingen.de [134.2.176.54])
+	by mx02.uni-tuebingen.de (8.8.8/8.8.8) with SMTP id XAA15037
+	for <@mx02.uni-tuebingen.de:fnielsen@eivind.imm.dtu.dk>; Mon, 7 Jun 1999 23:33:57 +0200
+Received: from sowa.gris.uni-tuebingen.de by cezanne via ESMTP (940816.SGI.8.6.9/930416.SGI)
+	for <@cezanne:fnielsen@eivind.imm.dtu.dk> id XAA02092; Mon, 7 Jun 1999 23:33:56 +0200
+Received: (from bartz@localhost) by sowa.gris.uni-tuebingen.de (980427.SGI.8.8.8/980728.SGI.AUTOCF) id XAA24507 for fnielsen@eivind.imm.dtu.dk; Mon, 7 Jun 1999 23:33:56 +0200 (CEST)
+Date: Mon, 7 Jun 1999 23:33:56 +0200 (CEST)
+From: bartz@gris.uni-tuebingen.de (Dirk Bartz)
+Message-Id: <199906072133.XAA24507@sowa.gris.uni-tuebingen.de>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Final CFP: IEEE Vis'99 - Hot Topics
+Status: RO
+X-Status: 
+
+=======================================================================
+
+  Final     C A L L   F O R   P A R T I C I P A T I O N
+		Late Breaking Hot Topics Papers
+		    Demonstration Proposals
+		    Creative Application Lab
+
+                Vis99 IEEE Visualization 1999
+                     Celebrating Ten Years
+                    Call for Participation
+                 October 24 - October 29, 1999
+                  San Francisco Airport Hyatt
+                   San Francisco, California
+
+                http://www.erc.msstate.edu/vis99
+            http://davinci.informatik.uni-kl.de/vis99/
+
+    THE INSTITUTE OF ELECTRICAL & ELECTRONICS ENGINEERS, INC.
+
+                     IEEE COMPUTER SOCIETY
+
+                        Sponsored by the
+IEEE Computer Society Technical Committee on Visualization and Graphics 
+                 In Cooperation with ACM/SIGGRAPH
+
+For further information on the conference or symposia contact:
+
+Steve Bryson, Conference Co-Chair, NASA Ames Research Center -
++1-650-604-4524 - Fax: +1-650-604-3957 - bryson@nas.nasa.gov
+
+Theresa-Marie Rhyne, Conference Co-Chair, 
+Lockheed Martin/US EPA Scientific Visualization Center - 
++1-919-541-0207 - Fax: +1-919-541-0056 - trhyne@vislab.epa.gov
+
+See the conference web page for complete up-to-date information and 
+submission details at http://www.erc.msstate.edu/vis99
+
+Conference Topics:
+
+Visualization Algorithms: Volume Rendering, Flow Visualization,
+Isosurfaces, Compression, Vector and Tensor Visualization,
+Sonification, etc.
+
+Visualization Techniques: Information Visualization, Databases, 
+Human Perception, Human Factors, Multi-Variate Visualization, 
+Virtual Reality, etc.
+
+Visualization Applications: Archaeology, Astrophysics, Aerospace,
+Automotive, Biomedicine, Chemistry, Education, Electronics,
+Environment, Finance, Mathematics, Mechanics, Molecular Biology,
+Physics, Virtual Reality, WWW, Java, VRML, HTML, AVS, Data Explorer,
+Iris Explorer, Khoros, etc.
+
+
+IMPORTANT DATES 
+
+June 15: Conference Late Breaking Hot Topics and Demonstration proposals due 
+July 1: InfoVis '99 Late Breaking Hot Topics papers due 
+July 15: Final Conference papers, final InfoVis '99 papers, 
+	and PVG '99 papers due to publisher 
+August 1: Conference Late Breaking Hot Topics selections announced 
+August 21: Conference Late Breaking Hot Topics final papers due to publisher 
+August 31: Conference Late Breaking Hot Topics video submissions due 
+September 25: Close of Early Registration 
+October 24: Conference Commences
+October 25: InfoVis '99 and PVG '99 Commence
+
+
+Late Breaking Hot Topics Papers (due June 15, 1999)
+
+Submissions will be accepted on Late Breaking Hot Topics that pertain 
+to all areas of Visualization. These submissions must be original, may 
+show work in progress, and may not exceed 2500 words or a maximum of 4 
+pages including images. Images and/or NTSC VHS video to accompany the 
+paper are recommended; the video will be included in the conference
+video proceedings. Accepted papers will be published and distributed 
+at the conference. Authors of accepted papers will have an opportunity 
+to submit a revised paper. Submissions will be done electronically. 
+Submission details can be found at the conference web site or by
+contracting Craig Wittenbrink at craig_wittenbrink@hpl.hp.com.Videotapes 
+should be sent to Craig M. Wittenbrink, Hewlett-Packard Laboratories, 
+1501 Page Mill Rd, MS3U-4, Palo Alto, CA 94304-1126, USA -
++1-650.857.2329 - Fax: +1.650.852.3791
+
+Demonstration Proposals (due June 15, 1999)
+
+Visualization '99 is a unique opportunity to present your products or
+research to visualization experts from a wide variety of fields. We
+invite demonstrations of commercial hardware, software, integrated
+systems, peripherals, literature, as well as academic research. We
+encourage demonstrators to have technical representatives in
+attendance. For more information on participating in Visualization '99
+demonstrations, contact Upul Obeysekare at obey@ctc.com
+
+
+Creative Applications Lab (due July 15, 1999)
+
+The Creative Applications Lab (CAL) is designed to let Visualization
+'99 attendees run their software to show off their latest work. CAL
+will have a variety of computers available. For details on
+participating in the CAL, see the conference web site or contact Kelly
+Gaither at +1-601-325-2067 - kelly@erc.msstate.edu
+
+------ 8< ------- 8< ------- 8< ------- 8< ------- 8< ------- 8< ------
+Dirk Bartz 				       University of Tuebingen
+					       Phone: +49-7071/29-76361
+Email: bartz@gris.uni-tuebingen.de	       Fax:   +49-7071/29-5466
+WWW:   http://www.gris.uni-tuebingen.de/~bartz

@@ -1,0 +1,68 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Oct 15 13:35:14 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id NAA07863;
+	Fri, 15 Oct 1999 13:35:07 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13737;
+          14 Oct 99 19:12 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13735;
+          14 Oct 99 19:06 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10464;
+          14 Oct 99 19:06 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab08220; 14 Oct 99 16:17 EDT
+Received: from mail4.microsoft.com by cs.cmu.edu id aa06122; 14 Oct 99 16:16 EDT
+Received: from 157.54.9.103 by mail4.microsoft.com (InterScan E-Mail VirusWall NT); Thu, 14 Oct 1999 13:16:32 -0700 (Pacific Daylight Time)
+Received: by INET-IMC-04 with Internet Mail Service (5.5.2650.21)
+	id <48DDZC22>; Thu, 14 Oct 1999 13:16:31 -0700
+Message-ID: <783D93998201D311B0CF00805FEAA07B010DF872@RED-MSG-42>
+From: Jay Pittman <jpittman@microsoft.com>
+To: "'Connectionists@cs.cmu.edu'" <Connectionists@cs.cmu.edu>
+Subject: job posting at Microsoft
+Date: Thu, 14 Oct 1999 13:16:26 -0700
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Status: RO
+X-Status: 
+
+Here's a job posting that may be of interest to the readers of this list.
+
+
+The Microsoft Handwriting Recognition team has immediate
+openings in handwriting recognition research and development.
+
+Responsibilities center on incorporating research into the
+Microsoft Handwriting Recognition (HR) engine. Experience
+in handwriting recognition technology is not required, but
+a solid background in Computer Science, Mathematics, or
+Statistics, is needed, as is the desire and ability to
+learn new techniques from textbooks or research papers.
+The HR engine is being developed for English and Japanese
+and includes components that implement neural nets, hidden
+Markov models, signal processing, statistical search, n-gram
+statistical language modeling, and context-free grammar
+language modeling. Improvements to the HR engine are
+targeted at increasing performance and accuracy, and
+improving usability problems for mainstream use in
+applications, such as note taking into future versions of
+Microsoft Office. Qualifications required include at least
+a Bachelors degree in Computer Science, Mathematics,
+EE/Signal Processing, or related field, and strong C/C++
+coding skills.  You must be able to code up your ideas to
+improve the recognizer in C/C++.  A strong interest and
+ability to write and support your own code in C/C++ is 
+crucial to being successful in the group.
+
+Send your resume, complete with references
+(if that is practical), to:
+
+Dr. James A. Pittman
+jpittman@microsoft.com
+
+I prefer email in either Word or ascii format,
+but you can also snailmail to:
+
+Dr. James A. Pittman, 30/3092
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA  98052
+

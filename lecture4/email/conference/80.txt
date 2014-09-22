@@ -1,0 +1,144 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Tue Apr 21 08:43:05 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id IAA24387
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 21 Apr 1998 08:43:03 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa05332;
+          21 Apr 98 1:33:37 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa05329;
+          21 Apr 98 1:13:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11583;
+          21 Apr 98 1:12 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa00928; 20 Apr 98 23:15 EDT
+Received: from dirty.research.bell-labs.com by CS.CMU.EDU id aa13504;
+          20 Apr 98 23:14:46 EDT
+Received: from research.research.bell-labs.com ([135.104.1.3]) by dirty; Mon Apr 20 23:13:11 EDT 1998
+Received: from physics.div111.lucent.com ([135.3.80.4]) by research; Mon Apr 20 23:13:06 EDT 1998
+Received: from abacus (abacus.div111.bell-labs.com) by physics.div111.lucent.com (4.1/TK11-17-97mx)
+	id AA01806; Mon, 20 Apr 98 23:13:02 EDT
+Received: from localhost by abacus (5.x) id AA07590; Mon, 20 Apr 1998 22:58:09 -0400
+Sender: mitra@physics.bell-labs.com
+Message-Id: <353C0B41.5C03@bell-labs.com>
+Date: Mon, 20 Apr 1998 22:58:09 -0400
+From: Partha Mitra <pmitra@bell-labs.com>
+X-Mailer: Mozilla 3.01Gold (X11; U; SunOS 5.4 sun4m)
+Mime-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Please distribute
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+_______________________
+Analysis of Neural Data 
+_______________________
+
+Modern methods and open issues in the analysis
+and interpretation of multi-variate time-series
+and imaging data in the neurosciences 
+
+___________________________________________________
+>> 16 August - 29 August 1998                      
+>> Marine Biological Laboratories - Woods Hole, MA 
+___________________________________________________
+
+A working group of scientists committed to 
+quantitative approaches to problems in neuroscience
+will focus their efforts on experimental and 
+theoretical issues related to the analysis of large,
+single- and multi-channel data sets. 
+
+The motivation for the work group is based on issues
+that arise in two complimentary areas critical to an
+understanding of brain function. The first involves 
+advanced signal processing methods, particularly 
+those appropriate for emerging multi-site recording 
+techniques and noninvasive imaging techniques. The 
+second involves the development of a calculus to 
+study the dynamical behavior of nervous systems and 
+the computations they perform. 
+
+A distinguishing feature of the work group will be 
+the close collaboration between experimentalists and 
+theorists, particularly with regard to the analysis 
+of data and the planning of experiments. The work 
+group will have a limited number of research 
+lectures, supplemented by tutorials on relevant 
+computational, experimental, and mathematical
+techniques. 
+
+This work group is a means to critically evaluate 
+techniques for the processing of multi-channel data, 
+of which imaging forms an important category. Such 
+techniques are of fundamental importance for basic 
+research and medical diagnostics. We will establish a
+repository of these techniques, along with benchmarks, 
+to insure the rapidly dissemination of modern 
+analytical techniques throughout the neuroscience 
+community. 
+
+The work group will convene on a yearly basis. 
+For 1997, we propose to focus on topics that
+fall under the rubric of multivariate time-series. 
+
+* Analysis of point processes, e.g., spike trains. 
+Measures of correlation and variability, and their 
+interpretation. 
+* Analysis of continuous processes, e.g., field 
+potential, optical imaging, fMRI, and MEG, and
+the recording of behavioral output, e.g., 
+vocalizations. 
+* Problems that involve both point and continuous 
+processes, e.g., the linear and nonlinear functional 
+relations between spike trains and sensory input 
+and motor output. 
+
+Participants: Twenty five participants, both 
+experimentalists and theorists. Experimentalists are 
+specifically encouraged to bring data records to the 
+work group; appropriate computational facilities will 
+be provided. The work group will further take 
+advantage of interested investigators and course 
+faculty concurrently present at the MBL. We encourage 
+graduate students and postdoctoral fellows as well 
+as senior researchers to apply. 
+
+Participant Fee: $200. 
+
+Support: National Institutes of Health -
+NIMH, NIA, NIAAA, NICHD/NCRR, NIDCD, NIDA, and NINDS. 
+
+Organizers: David Kleinfeld (UCSD) and 
+	Partha P. Mitra (Caltech and Bell Laboratories). 
+
+Website: http://www-physics.ucsd.edu/research/neurodata 
+
+Application: Send a copy of your curriculum vita, 
+together with a cover letter that contains a brief 
+(ca. 200 word) paragraph on why you wish to attend 
+the work group and a justified	request for any 
+financial aid, to: 
+
+  Ms. Jean B. Ainge 
+  Bell Laboratories, Lucent Technologies 
+  700 Mountain Avenue 1D-427 
+  Murray Hill, NJ 07974 
+  908-582-4702 (fax) or <jba@bell-labs.com> 
+
+The MBL is an EEO AAI. 
+
+Graduate students and postdoctoral fellows are 
+encouraged to include a brief letter of support from 
+their research advisor. 
+
+Financial assistance: Assistance for travel, 
+accommodations, and board is available based
+on need. 
+
+  Applications must be received by 18 May 1998. 
+  Participants will be notified by 25 May 
+
+Links to Archives for Neurosciences can be found at:
+http://www-physics.ucsd.edu/research/neurodata/NSarchive2.html

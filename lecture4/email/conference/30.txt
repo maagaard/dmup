@@ -1,0 +1,121 @@
+
+
+From www-vrml-approval@vrml.org Fri Sep  5 07:12:02 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id NAA07999 for <fnielsen@eivind.imm.dtu.dk>; Fri, 5 Sep 1997 13:12:00 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id FAA13498; Fri, 5 Sep 1997 05:13:10 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id FAA13490; Fri, 5 Sep 1997 05:13:07 -0400 (EDT)
+Received: from lotho (lotho.leeds.ac.uk) by world.std.com (5.65c/Spike-2.0)
+	id AA23195; Fri, 5 Sep 1997 05:13:03 -0400
+Received: from earth.leeds.ac.uk by lotho.earth.leeds.ac.uk with SMTP (PP) 
+          id <12980-0@lotho.earth.leeds.ac.uk>; Fri, 5 Sep 1997 10:13:05 +0000
+From: Neil Woodhouse <N.Woodhouse@earth.leeds.ac.uk>
+Date: Fri, 5 Sep 1997 10:13:00 +0100
+Message-Id: <8532.199709050913@gimli.earth.leeds.ac.uk>
+Received: by gimli.earth.leeds.ac.uk (SMI-8.6/fileserver/1.2) id KAA08532;
+          Fri, 5 Sep 1997 10:13:00 +0100
+To: www-vrml-approval@vrml.org
+Subject: 3D Conference.
+Cc: www-vrml@vrml.org
+X-Sun-Charset: US-ASCII
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+Greetings,
+
+I think some of us may be interested in the following conferemce to be held  on the Island of Rhodes, Greece.
+
+regards,
+
+Neil Woodhouse,
+Fluid Dynamics & Flow Visualisation R.Grp.
+Dept of Earth Sciences,
+The University of Leeds,
+England.  
+
+==========================================================================    
+
+
+                        CALL FOR PAPERS
+
+                       SPECIAL SESSION ON 
+
+        3D IMAGING AND VIRTUAL INSPECTION OF OBJECTS AND PLACES 
+
+         in EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO98)
+
+           ISLAND OF RHODES, GREECE, 8-11 September 1998
+
+Topic
+
+The generation of 3D images of real world objects and environments
+from images, range data  and video taken  from single/multiple cameras
+is a fast-growing interdisciplinary field, with computer vision, 
+photogrammetry, signal processing, computer graphics as 
+the main contributing disciplines. The areas of application include
+telepresence, interactive visit of historical and turistic sites and
+museums, inspection of industrial parts, medical training,
+electronic publishing. 
+The special session intend to attract papers on both 3D imaging and 
+visualization, notably on:
+-3D aquisition techniques
+-3D view registration 
+-Fusion of range and intensity data 
+-3D textured models compression
+-VRML and model based rendering for PC
+-Image based rendering   
+
+
+Special session organizer:
+
+Guido M. Cortelazzo 
+Dipartimento di Elettronica e Informatica
+Via Gradenigo 6A
+35131 Padova 
+Italy 
+
+e-mail: corte@dei.unipd.it
+tel.: +39-49-827-7827
+fax : +39-49-827-7826 
+
+Procedure
+
+Prospective authors should submit a full paper in five copies, following the 
+normal procedures for EUSIPCO98 to the session organizer  
+till 15th November 1997.
+Submitted papers will undergo the standard review procedure. 
+
+
+Schedule
+
+Submission deadline:                       15 November 1997
+Notification of acceptance:                28 February 1998
+Submission of camera-ready manuscript:     30 April 1998
+
+----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+FOR FURTHER INFORMATION PLEASE CONTACT :
+
+Guido Maria Cortelazzo 
+
+Dipartimento di Elettronica e Informatica
+Via Gradenigo 6a                     Tel. +39-49-827-7827
+35131 Padova  , Italy                Fax  +39-49-827-7826   
+              
+http://freia.dei.unipd.it
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

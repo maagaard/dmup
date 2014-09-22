@@ -1,0 +1,57 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sun Nov 21 04:21:18 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id EAA17511;
+	Sun, 21 Nov 1999 04:21:14 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13526;
+          20 Nov 99 20:20 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13523;
+          20 Nov 99 20:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05796;
+          20 Nov 99 20:08 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa21298; 20 Nov 99 4:10 EST
+Received: from gremlin.ucsd.edu by cs.cmu.edu id aa16435; 20 Nov 99 4:10 EST
+Received: (from gary@localhost)
+	by gremlin.ucsd.edu (8.9.1a/8.9.1) id BAA29722
+	for Connectionists@cs.cmu.edu; Sat, 20 Nov 1999 01:10:18 -0800 (PST)
+Date: Sat, 20 Nov 1999 01:10:18 -0800 (PST)
+From: Gary Cottrell <gary@cs.ucsd.edu>
+Message-Id: <199911200910.BAA29722@gremlin.ucsd.edu>
+To: Connectionists@cs.cmu.edu
+Subject: Faculty Positions at UCSD
+Status: RO
+X-Status: 
+
+Recall my previous note about three positions at ucsd,
+with most of them mentioning machine learning. We are 
+moving quickly on senior candidates. If you're thinking
+of applying, don't delay! (If you've already applied,
+this does *not* mean we're unhappy with you! ;-))
+
+See "joining our department" off the main web page,
+www.cse.ucsd.edu, for details on applying.
+
+One of the positions:
+
+The Ronald R. Taylor Chair position in Information
+Technology in Computer Science at the full professor
+level. This chair is targeted towards applicants in
+bioinformatics, computational biology, databases,
+data-intensive computing, data mining, or information
+technology.
+
+cheers,
+gary
+
+Gary Cottrell 858-534-6640 FAX: 858-534-7029 
+Faculty Assistant Chet Frost: 858-822-3286
+Computer Science and Engineering 0114
+IF USING FED EX INCLUDE THE FOLLOWING LINE:          "Only connect"
+3101 Applied Physics and Math Building
+University of California San Diego			-E.M. Forster
+La Jolla, Ca. 92093-0114
+
+Email: gary@cs.ucsd.edu or gcottrell@ucsd.edu
+Home page: http://www-cse.ucsd.edu/~gary/
+

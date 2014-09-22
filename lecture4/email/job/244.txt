@@ -1,0 +1,129 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Dec  8 04:49:36 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id EAA17619;
+	Wed, 8 Dec 1999 04:49:30 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab26641;
+          7 Dec 99 16:51 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab26630;
+          7 Dec 99 16:42 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27414;
+          7 Dec 99 16:42 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa25937; 7 Dec 99 13:55 EST
+Received: from cc-inet.ucsf.edu by edrc.cmu.edu id aa04305; 7 Dec 99 13:55 EST
+Received: by cc.ucsf.edu with Internet Mail Service (5.5.2448.0)
+	id <XPTRHZPJ>; Tue, 7 Dec 1999 10:55:20 -0800
+Message-ID: <112CB72C222BD2118FFF00A0C9D18C6460AEF6@cc.ucsf.edu>
+From: "Jain, Ajay" <AJain@cc.ucsf.edu>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Subject: Research Positions at UCSF: Computational biology, bioinformatics, databases
+Date: Tue, 7 Dec 1999 10:55:09 -0800 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Status: RO
+X-Status: 
+
+
+ABOUT THE POSITIONS:
+We are seeking two individuals for post-doctoral positions in
+computational research applied to the study of cancer. Candidates for
+these positions must have a PhD in computer science or closely related
+field and they ideally will have experience applying sophisticated
+computation to real-world problems (e.g. computational biology, drug
+discovery, object recognition, robotics, etc.). Experience in
+machine-learning, neural networks, computational geometry, or physical
+modeling is beneficial, as is formal training in chemistry, biology,
+or physics. Experience in applying machine learning techniques to
+problems involving noisy data is particularly relevant. Candidates
+will be expected to learn aspects of disciplines complementary to
+their own and collaborate extensively with clinical and biological
+researchers.
+
+We are also seeking an individual for a challenging database
+development position. This position is responsible for design and
+implementation of database and data processing systems to support
+clinical and bench science efforts in a web-based
+environment. Designing databases to track human tissue samples,
+databases for long-term patient follow-up, and deploying nationally
+accessible biological data repositories all fall under the
+responsibilities of this position. The systems must be optimized for
+real-time content retrieval via user-friendly Web interfaces. This
+position is for a senior developer able to take on a leadership role,
+supervising and mentoring other developers.
+
+Candidates for all of these positions must have excellent
+communication skills, excellent work history and references, and the
+ability to work both independently and as part of a multidisciplinary
+team of scientists, including colleagues from biology, medicine,
+chemistry, genetics, and other fields. We offer competitive salaries
+and benefits. UC is an affirmative action and equal opportunity
+employer.
+
+ABOUT THE PLACE (see http://cc.ucsf.edu):
+Housed within one of the nation's top biomedical research
+universities, the UCSF Cancer Center brings together hundreds of
+researchers and clinicians dedicated to four fundamental pursuits:
+basic science research into the causes and events of cancer's
+progression; clinical research to translate new knowledge into viable
+treatments; sensitive, state-of-the-art patient care; and programs in
+epidemiology, prevention, and cancer control. Basic scientists and
+clinical health care providers work together toward the translation of
+promising ideas into the creation of new and better treatments for
+cancer patients everywhere.
+
+ABOUT THE RESEARCH (see http://cc.ucsf.edu/jain): 
+Cancer is a disease marked by accumulating genetic abnormalities,
+ultimately resulting in malignancy. These abnormalities are evident in
+the genomic DNA, messenger RNA, and in the expressed proteins of
+cancer cells. Modern techniques for in vitro genomic and proteomic
+analysis are generating data on a very large scale (up to 30,000 data
+points per experiment). DNA microarrays, comparative genomic
+hybridization, flourescent in situ hybridization, 2D gel
+electrophoresis, and other techniques produce quantitative data that
+contain information relevant to the biological state of cells.
+
+These data offer an enormous opportunity for systematic computational
+analyses to make an impact on both therapeutic target discovery as
+well as in clinical decision-making. There is a pressing need for
+computational methods to move beyond data visualization and toward
+generating conclusions that are quantitatively supportable. Coupled
+with data emerging from the Human Genome Project and modern
+structure-based drug design techniques, there are significant
+opportunities to advance cancer research and treatment.
+
+Members of the growing Jain Lab are engaged in developing and applying
+novel computational techniques for:
+
+  1) Analyzing biological data gathered from human and animal tumors
+     generated within the Center and with external collaborators.
+
+  2) Relating DNA/protein sequences to protein function.
+
+  3) Structure-based small-molecule drug design aimed at discovery or
+     refinement of cancer therapeutics.
+
+We are seeking energetic individuals to join in our research efforts.
+
+ABOUT DR. AJAY N. JAIN: 
+Dr. Jain received his PhD in 1991 from Carnegie Mellon University
+working with Dr. Dave Touretzky and Dr. Alex Waibel. From 1992 through
+mid-1999, he worked in a series of start-up biopharmaceutical
+companies on computational methods for structure-based drug
+design. Dr. Jain is Director of Informatics at the UCSF Cancer Center 
+and holds faculty appointments in the Cancer Research Institute and
+Dept. of Laboratory Medicine (see http://cc.ucsf.edu/people/jain_ajay.html).
+
+TO APPLY:
+Please send a full CV and letter describing your qualifications by
+Fax, US Mail, or email (pdf, plain text, or MS Word). Email is the
+preferred mode. Contact information follows.
+
+____________________________________________________
+Ajay N. Jain, PhD
+Director of Informatics, UCSF Cancer Center
+Box 0128, San Francisco, CA 94143-0128
+Deliveries: 2340 Sutter St., Room S336, San Francisco
+Tel: (415) 502-7242 Fax: (415) 476-8218
+Email: ajain@cc.ucsf.edu
+Web: http://cc.ucsf.edu/jain 

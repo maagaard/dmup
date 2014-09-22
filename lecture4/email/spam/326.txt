@@ -1,0 +1,70 @@
+
+
+From owner-www-vrml@vrml.org Wed Feb 24 17:07:36 MET 1999
+Received: from vrml.org (dev.vrml.org [209.66.78.242])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id RAA23934
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 24 Feb 1999 17:07:34 +0100 (MET)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.8/8.8.5) id HAA10532
+	for www-vrml-outgoing; Wed, 24 Feb 1999 07:40:45 -0800 (PST)
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@web3d.org using -f
+Received: from ps.uib.es (ps.uib.es [130.206.33.5])
+	by vrml.org (8.8.8/8.8.5) with ESMTP id HAA10523;
+	Wed, 24 Feb 1999 07:40:36 -0800 (PST)
+Received: from kmm (kmm.uib.es) by clust.uib.es (PMDF V5.1-9 #30169)
+ with SMTP id <01J84M4AM8AO8ZEFHC@clust.uib.es>; Wed, 24 Feb 1999 16:09:19 MET
+Date: Wed, 24 Feb 1999 16:11:55 +0100
+From: claudia <claudia@kmm.uib.es>
+Subject: extrange orders!!!!!!!!!!!!!help!!!!!!!!
+To: owner-www-vrml@vrml.org
+Cc: www-vrml-digest@vrml.org
+Message-id: <36D416BB.446B@kmm.uib.es>
+Organization: kmm.uib.es
+MIME-version: 1.0
+X-Mailer: Mozilla 3.01SC-SGI (X11; I; IRIX64 6.2 IP28)
+Content-type: text/plain; charset=us-ascii
+Content-transfer-encoding: 7bit
+References: <01J84LYRRI9Y8ZEFUJ@clust.uib.es>
+Sender: www-vrml-approval@web3d.org
+Precedence: list
+Reply-To: claudia <claudia@kmm.uib.es>
+Status: RO
+X-Status: 
+
+PMDF e-Mail Interconnect wrote:
+> 
+> This report relates to a message you sent with the following header fields:
+> 
+>   Message-id: <36D415B3.2781@kmm.uib.es>
+>   Date: Wed, 24 Feb 1999 16:07:31 +0100
+>   From: claudia <claudia@kmm.uib.es>
+>   To: $SENDER@vrml.org
+>   Subject: help
+> 
+> Your message cannot be delivered to the following recipients:
+> 
+>   Recipient address: $SENDER@vrml.org
+>   Original address: "$SENDER"@vrml.org
+>   Reason: Remote SMTP server has rejected address
+>   Diagnostic code: smtp; 550 <$SENDER@vrml.org>... User unknown
+>   Remote system: dns; vrml.org (TCP|209.66.78.240|25) (vrml.org ESMTP Sendmail 8.8.8/8.8.5; Wed, 24 Feb 1999 07:34:10 -0800 [PST]) (vrml.org Hello ps.uib.es [130.206.33.5], pleased to meet you)
+> 
+>     ---------------------------------------------------------------
+> Original-envelope-id: 01J84LXP6VWY8ZEF21@clust.uib.es
+> Reporting-MTA: dns; clust.uib.es
+> 
+
+> 
+> I work with cosmoworlds in a Silicon Graphics and I have a problem: when
+> when I animated something, the cosmoworlds give me the orders that the
+> browser could'n understand: CoKeyframe and HERMITE.
+> I try to package all but the discovery process of the package stop by
+> same reason: could'n understand this order.
+> I don't know if I need a patche for my silicon.
+> Do you help me?
+> 
+> Claudia
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@web3d.org with text "info"
+

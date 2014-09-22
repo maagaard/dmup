@@ -1,0 +1,145 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jan 21 03:44:31 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA17850;
+	Thu, 21 Jan 1999 03:44:24 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17824;
+          20 Jan 99 17:33 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17821;
+          20 Jan 99 17:28 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12174;
+          20 Jan 99 17:27 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa26364; 20 Jan 99 9:23 EST
+Received: from mailbox.univie.ac.at by RI.CMU.EDU id aa28474;
+          20 Jan 99 9:21:53 EST
+Received: from localhost (a8731mae@localhost)
+          by mailbox.univie.ac.at (8.8.4/8.8.4) with SMTP
+	  id PAA35278; Wed, 20 Jan 1999 15:19:50 +0100
+Date: Wed, 20 Jan 1999 15:19:50 +0100 (MEZ)
+From: Alexander Riegler <Alexander.Riegler@univie.ac.at>
+To: cogpsy@neuro.ecs.soton.ac.uk, cogsci@nic.surfnet.nl,
+        complex@life.anu.edu.au, comp-neuro@smaug.bbb.caltech.edu,
+        connectionists@cs.cmu.edu, evolutionary-computing@mailbase.ac.uk,
+        hybrid-list@cs.ua.edu, ml@ics.uci.edu,
+        news-announce-conferences@uunet.uu.net, simulation@ufl.edu
+Subject: CFP: New Trends in Cognitive Science 99
+Message-ID: <Pine.A41.3.95.990120151821.12930A-100000@mailbox.univie.ac.at>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+After the success of the first New Trends in Cognitive Science conference
+in Vienna, Austria, we are pleased to announce its successor. While in
+1997 we focused on the problem of representation (for details see 
+http://www.univie.ac.at/cognition/ntcs97.htm), we will this year put 
+emphasis on the notion of computationalism and its future in the 
+cognitive sciences. Please have a look at the attached Call For Papers or
+the conference homepage at http://www.univie.ac.at/cognition/conf/ntcs99/
+for more information.
+
+We are looking forward to welcoming you!
+
+Alex Riegler
+Austrian Society of Cognitive Science
+
+
+
+                 New Trends in Cognitive Science 1999
+
+C o m p u t a t i o n a l i s m -- T h e   N e x t   G e n e r a t i o n
+
+                International Conference and Workshop
+                  Vienna, Austria, May 17-20, 1999
+
+
+           http://www.univie.ac.at/cognition/conf/ntcs99/
+
+            Deadline for submissions: February 15, 1999
+
+
+Invited speakers
+----------------
+
+                Phil AGRE  University of California, Los Angeles 
+              Rainer BORN  University of Linz 
+         Jack B. COPELAND  University of Canterbury 
+           Adrian CUSSINS  University of Illinois, Urbana 
+            Stevan HARNAD  University of Southampton 
+           John HAUGELAND  University of Pittsburgh 
+             David ISRAEL  SRI International 
+           Brian C. SMITH  Indiana University, Bloomington 
+
+
+Purpose
+-------
+
+This international conference and workshop organized by the Austrian
+Society of Cognitive Science attemps to bring together theorists working
+on identifying a "successor" notion of computation--one that not only
+respects the classical (and critical) limiting results about algorithms,
+grammars, complexity bounds, etc., but that also does justice to
+real-world concerns of daily computational practice, and thereby offers
+a much better chance of serving as a possible foundation for a realistic
+theory of mind.  The workshop will focus on the prospects for developing
+a theory that takes computing not to be not abstract, syntactic,
+disembodied, isolated, and non-intentional, but concrete, semantic,
+embodied, interactive, and intentional. If such a successor notion of
+computation can be defined, the resulting rehabilitated computationalism
+may still be our best bet for explaining cognition.
+
+It is hoped that this conference will set the agenda for a "philosophy
+of computation" that will tackle such as issues as: the program/process
+distinction; the notion of implementation and questions of physical
+realization; real-time constraint and real-world interaction; the use
+and limitations of models; relations between concrete and abstract; the
+proper interpretation of complexity results; etc.  Addressing such
+questions is a critical prerequisite for providing a firm foundation for
+cognitive science in the new century.
+
+Paper submission
+----------------
+
+Submitted manuscripts should be between 4000 and 5000 words in length
+and typed doublespaced on one side of plain paper, with wide margins to
+allow for editorial notes. The first page of the manuscript should only
+contain the author's name and affiliation address, the article title,
+and an abstract of about 100-150 words. Each page of the manuscript
+should be consecutively numbered, including pages of references. 
+References should be listed at the end of the article in alphabetical
+and chronological order. Notes should be placed at the bottom of each
+page as footnotes and numbered consecutively. Reviewing will be blind to
+the identities of the authors, which requires that authors exercise some
+care not to identify themselves in their papers.
+
+3 hard copies of the manuscript should be sent to either 
+
+     Matthias Scheutz 
+     Institut fuer Wissenschaftstheorie 
+     Universitaet Wien 
+     Sensengasse 8/10 
+     A-1090 Wien 
+     AUSTRIA
+
+or 
+
+     Matthias Scheutz 
+     Department of Computer Science and Engineering 
+     University of Notre Dame 
+     Notre Dame, IN 46556 
+     USA
+
+
+Conference Site 
+---------------
+
+The conference will take place in the festival hall at the University of
+Vienna, located in Vienna's historical first district. 
+
+
+More information
+----------------
+
+For details see http://www.univie.ac.at/cognition/conf/ntcs99/
+or contact Matthias Scheutz at matthias.scheutz@univie.ac.at

@@ -1,0 +1,70 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jun 18 21:43:41 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id VAA11190;
+	Thu, 18 Jun 1998 21:43:32 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21336;
+          18 Jun 98 13:46 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21334;
+          18 Jun 98 13:29 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10345;
+          18 Jun 98 13:29 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa22222; 18 Jun 98 9:40 EDT
+Received: from spencer.eng.yale.edu by EDRC.CMU.EDU id aa12560;
+          18 Jun 98 9:39:22 EDT
+Received: from eyegore by SPENCER.CTAN.YALE.EDU via SMTP; Thu, 18 Jun 1998 13:39:16 GMT
+Message-ID: <358919FA.35D@yale.edu>
+Date: Thu, 18 Jun 1998 09:45:30 -0400
+From: Ted Carnevale <ted.carnevale@yale.edu>
+Reply-To: ted.carnevale@yale.edu
+Organization: Yale University Neuroengineering and Neuroscience Center
+X-Mailer: Mozilla 3.01 (WinNT; U)
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+CC: ted@SPENCER.CTAN.YALE.EDU
+Subject: the NEURON summer course!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+There have been so many re-announcements of other summer 
+events through multiple channels that I was a bit hesitant 
+to add to the din--but just in case you haven't heard:
+
+Time is running out to register for the NEURON course we're 
+presenting August 1-5 at the San Diego Supercomputer Center.
+
+Salient features:
+1.  lots of hands-on exercises using NEURON on UNIX and 
+      Windows NT workstations
+2.  covers everything you need to know to get started
+3.  topics include:
+    --using real anatomical and biophysical data
+    --extending NEURON's library of biophysical mechanisms 
+        with NMODL
+    --using NEURON's built-in tools for automated 
+        data analysis and model optimization
+    --strategies for increasing model efficiency and accuracy
+    --accelerating simulations with the new variable order, 
+        variable timestep integration method
+    --NEURON's powerful tools for electrotonic analysis
+        (as described in Carnevale et al. Comparative 
+        electrotonic analysis of three classes of rat 
+        hippocampal neurons. JNP 78:703-720, 1997)
+        An early version of this toolkit is described at 
+        http://www.neuron.yale.edu/papers/ebench/ebench.html
+    --project management
+    --customizing the graphical user interface
+    --using NEURON to model networks of neurons
+
+Learn all this and more from the experts!
+
+For more information and the registration form, see
+  http://www.neuron.yale.edu/sdsc98/sdsc98.htm
+
+The registration deadline is approaching rapidly, 
+and only a few seats are left, so don't delay!
+
+--Ted

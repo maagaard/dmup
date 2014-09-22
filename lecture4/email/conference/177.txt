@@ -1,0 +1,68 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Nov 24 18:59:05 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id SAA26327;
+	Tue, 24 Nov 1998 18:59:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21192;
+          24 Nov 98 10:54 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21190;
+          24 Nov 98 10:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21102;
+          24 Nov 98 10:37 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa22130; 24 Nov 98 5:58 EST
+Received: from signal.dra.hmg.gb by CS.CMU.EDU id aa00527; 24 Nov 98 5:57:54 EST
+Received: from byron.dra.hmg.gb (byron.dra.hmg.gb [193.61.199.121])
+        by signal.dra.hmg.gb (8.8.5/) with ESMTP id KAA26533
+        for <Connectionists@CS.CMU.EDU>; Tue, 24 Nov 1998 10:57:23 GMT
+Received: from ovid.dra.hmg.gb (ovid.dra.hmg.gb [193.61.199.62])
+        by byron.dra.hmg.gb (8.8.5/) with ESMTP id KAA32231
+        for <Connectionists@CS.CMU.EDU>; Tue, 24 Nov 1998 10:57:22 GMT
+Received: from localhost (localhost [127.0.0.1])
+        by ovid.dra.hmg.gb (8.8.5/) with SMTP id KAA02169
+        for Connectionists@CS.CMU.EDU; Tue, 24 Nov 1998 10:57:22 GMT
+Message-Id: <KAA02169@ovid.dra.hmg.gb>
+To: Connectionists@cs.cmu.edu
+Subject: IEE Colloquium on Applied Statistical Pattern Recognition 
+Date: Tue, 24 Nov 98 10:57:21 +0000
+From: "John V. Black" <black@signal.dera.gov.uk>
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+IEE COLLOQUIUM ON APPLIED STATISTICAL PATTERN RECOGNITION
+
+Tuesday, 20 April 1999
+to be held at The Midlands Engineering Centre, Birmingham, UNITED KINGDOM
+
+Professional Group E5 (Signal processing)
+and the Pattern & Information Processing Group, DERA Malvern, United Kingdom
+
+The innovative application of advanced pattern recognition techniques is 
+increasingly required to achieve the high levels of performance demanded by 
+modern systems. It is therefore vital for engineers and  scientists to develop 
+their awareness and understanding of emerging and established  techniques, and
+of their successful application.
+
+This colloquium will provide a focus for applied research in this area, drawing
+contributions both from industry and academia. It will increase awareness of 
+developing techniques across a broad range of applications  areas; and will be
+of interest to people working in all areas of statistical pattern recognition,
+addressing applications drawn (for example) from signal and image processing.
+
+A number of invited papers will be presented by leading researchers: some of 
+these will take the form of illustrative tutorial sessions. Additional 
+contributions are welcome, and a one page synopsis of  proposed papers should 
+be sent by Friday, 15 January 1999 to:
+
+Dr Amanda Goode
+Senior Research Scientist, Pattern & Information Processing
+DERA Malvern
+St Andrews Road
+Great Malvern
+Worcestershire  WR14 3PS
+United Kingdom
+
+Tel: (+44) (0)1684 894366
+Fax: (+44) (0)1684 894384
+Email: goode@signal.dera.gov.uk

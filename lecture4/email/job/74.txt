@@ -1,0 +1,107 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Feb 18 07:46:38 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA14436;
+	Thu, 18 Feb 1999 07:46:32 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05709;
+          18 Feb 99 0:25 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05706;
+          18 Feb 99 0:17 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28682;
+          18 Feb 99 0:17 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27985; 17 Feb 99 23:52 EST
+Received: from server-1.gmd.gr.jp by EDRC.CMU.EDU id aa27983;
+          17 Feb 99 23:52:14 EST
+Received: from gmd.gr.jp by server-1.gmd.gr.jp (AppleShare IP Mail Server 6.1) id 24931 via TCP with SMTP; Thu, 18 Feb 1999 13:52:00 +0900
+Message-ID: <36CB9C72.9581E5DC@gmd.gr.jp>
+Date: Thu, 18 Feb 1999 13:53:27 +0900
+From: "Uwe R. Zimmer" <uwe.zimmer@gmd.gr.jp>
+Reply-To: "Uwe R. Zimmer" <uwe.zimmer@gmd.gr.jp>
+Organization: GMD - Japan Research Laboratory
+X-Mailer: Mozilla 4.06 (Macintosh; I; PPC)
+MIME-Version: 1.0
+To: Connectionists <connectionists@cs.cmu.edu>
+Subject: PostDoc Pos at GMD-Japan RL (Distributed Systems)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+PostDoc-Pos-Announcement
+
+
+     --------------------------------------------------------    
+             Post-Doctoral Research Positions in
+ 
+                     Distributed Systems
+     --------------------------------------------------------
+
+
+
+Two new post-doctoral positions are open at GMD Japan Research 
+Laboratory, Kitakyushu, Japan and will be filled at the earliest 
+convenience. The new laboratory (started in November '98 with a 
+team of 8 scientists and 4 support staff, where these first 8 
+positions should be filled until April '99) is based on long term 
+cooperations with the Japanese research community and focuses on 
+the robotics and the telecooperation research fields.
+
+Investigated topics (in the area of telecooperation) are:
+
+   - Distributed systems
+   - Awareness in remote or of global situations
+   - Remote operation
+   - Non-verbal communications
+   - Coupled virtual environments
+
+Computer science aspects of distributed systems, several 
+application layers (currently open for discussion) as well as 
+connected psychological constraints and effects need to be 
+considered simultaniously (but not necessarely by every
+individual researcher).
+ 
+Although we are an independent research group, there are of course
+close connections to GMD in Germany (German National Research 
+Center for Information Technology - http://www.gmd.de/). GMD Japan 
+Research Laboratory is participating in the currently 
+established Gigabit-network project in Japan.
+
+If the above challenges rose your interest, please proceed to our 
+expectations regarding the ideal candidate:
+
+   - Ph.D. / doctoral degree in computer sciences, electrical 
+     engineering, physics, mathematics, psychology or related 
+     disciplines. 
+   - Experiences in experimenting in distributed environments 
+   - Theoretical foundations in mathematics, control, protocols,
+     coding, or systems theory.
+   - Interest in joining an international team of motivated 
+     researchers.
+
+Furthermore it is expected that the candidate evolves/introduces 
+her/his own perspective on the topic, and pushes the goals of the 
+whole group at the same time.
+
+Salary starts at 8 Mill. Yen per year depending on experience. 
+Support concerning the transfer to the Japanese environment is 
+provided.
+
+For any further information, and applications (including addresses
+of referees, two recent publications, and a letter of interest!) 
+please contact:
+
+Uwe R. Zimmer (address below)
+
+P.S. preferred formats for applications: pdf, ps.z, or FrameMaker
+ 
+___________________________________________ 
+                                     ____________________________|
+    Dr. Uwe R. Zimmer                                         ___| 
+                    GMD - Japan Research Laboratory              | 
+                          AIM Building 8F, 3-8-1,                |
+                          Asano, Kokurakita-ku                   |
+                          Kitakyushu-city, 802-0001, Japan       |
+_________________________________________________________________|
+         Voice: +81 93 512 1566 - Fax: +81 93 512 1588           | 
+                    http://www.gmd.gr.jp/                        |

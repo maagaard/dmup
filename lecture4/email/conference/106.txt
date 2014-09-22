@@ -1,0 +1,205 @@
+
+
+From owner-sslug@sslug.dk  Wed Jun  3 11:40:19 1998
+Received: from www.sslug.dk (mail@sslug.imm.dtu.dk [192.38.71.98])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id LAA29889;
+	Wed, 3 Jun 1998 11:40:17 +0200 (METDST)
+Received: (from mail@localhost)
+	by www.sslug.dk (8.8.5/8.8.5) id LAA15317
+	for sslug-list; Wed, 3 Jun 1998 11:22:20 +0200
+Received: from pcainf1.ing.uniroma1.it (pcainf1.ing.uniroma1.it [151.100.11.60])
+	by www.sslug.dk (8.8.5/8.8.5) with ESMTP id LAA15312
+	for <sslug@sslug.imm.dtu.dk>; Wed, 3 Jun 1998 11:22:14 +0200
+Received: from pcainf14.ing.uniroma1.it (pcainf14.ing.uniroma1.it [151.100.11.86])
+	by pcainf1.ing.uniroma1.it (8.8.5/8.8.5) with ESMTP id LAA29175;
+	Wed, 3 Jun 1998 11:19:11 +0200
+Received: from localhost (paciucci@localhost) by pcainf14.ing.uniroma1.it (8.8.5/8.7.3) with SMTP id LAA09902; Wed, 3 Jun 1998 11:15:18 +0200
+X-Authentication-Warning: pcainf14.ing.uniroma1.it: paciucci owned process doing -bs
+Date: Wed, 3 Jun 1998 11:15:18 +0200 (MET DST)
+From: Gabriele Paciucci <paciucci@pcainf11.ing.uniroma1.it>
+X-Sender: paciucci@pcainf14.ing.uniroma1.it
+To: "Gabriele Paciucci (90278)" <paciucci@pcainf11.ing.uniroma1.it>
+Subject: [SSLUG] Call For Paper : Italian's Event
+Message-ID: <Pine.LNX.3.95.980603081020.25485J-100000@pcainf11.ing.uniroma1.it>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=1
+Content-Transfer-Encoding: 8bit            
+Sender: owner-sslug@sslug.dk
+Precedence: list
+Reply-To: sslug@sslug.dk
+Status: RO
+X-Status: 
+
+
++++++++	Dreaming about visiting Italy, and love Linux?
+
++++++++	Happen to be in Italy this October, and love Linux?
+
++++++++	This may be the event for you: 
+
+
+Pluto		                                          LUG Roma
+
+                              LiMe '98
+                         Pluto Meeting 1998
+
+            Italian Conference on the Linux Operating System
+                      Roma, October 7-9, 1998
+             Università degli Studi di Roma ``La Sapienza''
+                       Facoltà di Ingegneria
+
+
+                           Call for Papers
+
+
+Aims and Scope of the Conference
+--------------------------------
+
+Linux, an operating system initially designed by a finnish student, and
+now developed by hundreds of programmers from all over the world
+communicating over the Internet, has made out of the group of its fans and
+gained a firm place next to commercial operating systems.
+
+An ever growing number of applications, free and commercial, is being
+written or ported to Linux. Today, Linux is used for tasks where a few
+years ago costly systems were necessary. 
+
+Furthermore, the open development model makes Linux highly valuable in the
+teaching context: one can study the internals of this operating system,
+modify them and submit an enhanced version of the Operating System to the
+rest of the Linux users' community, thus contributing to the development
+of the system itself. 
+
+Aim of this conference is giving a wide-scope picture of the Linux
+landscape for those who wish to approach it, and specific technical
+information to experienced users. 
+
+
+Topics
+------
+
+1. The Linux Way
+
+  * The General Public Licence and the other ``free'' licenses
+
+  * Free software in the commercial world
+
+  * Sustainable development
+
+2. Linux in the Real World
+
+  * Interoperability
+
+  * Office Automation
+
+  * Linux solutions in the business
+
+3. Linux Applications
+
+  * Reviews of relevant applications
+
+  * Emulators
+
+  * Scientific and educational software
+
+4. Interoperability and Networking under Linux
+
+  * Distributed File System 
+
+  * Development of new file systems for Linux
+
+  * Compatibility with other platforms
+
+  * Network security (cryptographic file systems, SSL, SSH, etc.)
+
+  * IPv6 - The Next Generation
+
+  * Component Programming and CORBA
+
+  * Linux, Java, Intranet
+
+  * Beyond TCP/IP: other network protocols
+
+5. Applications Development
+
+  * Compilers
+
+  * Available development tools
+
+  * Visual programming under Linux
+
+  * Cross compilation
+
+  * Integrated development systems
+
+  * Writing device drivers
+
+  * Development libraries
+
+  * Developing a graphical interface
+
+  * Non X Window-based GUIs
+
+  * Debugging
+
+  * Kernel structure (evolution, news, comparisons between 2.0/2.1-2.2)
+
+  * GNU: development tools
+
+  * Nationalization 
+
+6. Organization of a Linux Distribution
+
+7. The LUG Universe: structure and activity of Linux User Groups (poster
+  session)
+
+8. Linux Documentation
+
+  * Linux Documentation Project (LDP)
+
+  * Italian Linux Documentation Project (ILDP)
+
+  * Documnt preparation systems
+
+  * Manuals
+
+
+Official Language of the Conference
+-----------------------------------
+
+The conference will be held in Italian. Non-italian speakers should
+contact the Organizing Committee.
+
+ 
+Instructions for the Authors
+----------------------------
+
+The Authors are invited to communicate the title and/or the subject of
+their presentation as soon as the decision is made to the e-mail address
+meeting@ingchim.ing.uniroma1.it. An extended abstract (max 300 words) in
+text format (7-bit ASCII), including the name and affiliation (if any) of
+the Author(s), should then be sent to the same e-mail address by June 30,
+1998.
+
+The definitive version of the contribution, together with a brief CV of
+the Author(s) (no more than 30 words), shall be submitted to the above
+address by 31/7/1998 to be included in the conference proceedings. Images
+shall be submitted as separate files in encapsulated PostScript format
+(EPS). 
+
+Further information about the Conference and an ``Istructions kit'' for
+the authors can be found at the URL: http://pluto.linux.it/meeting. 
+Communications by ordinary mail should addressed to: 
+
+Pluto Meeting 1998 - LiMe 98 c/o IEEE Student Branch Roma ``La Sapienza''
+Dip. di Ingegneria Elettronica via Eudossiana, 18 00184 Roma
+
+
+Organizing Committee
+--------------------
+
+The conference is organized jointly by Pluto and Linux User Group - Roma
+under the Patronage of IEEE Student Branch Roma
+
+
+

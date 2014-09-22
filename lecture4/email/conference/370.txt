@@ -1,0 +1,72 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jan 20 23:32:29 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id XAA04869;
+	Thu, 20 Jan 2000 23:32:22 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15949;
+          20 Jan 2000 13:52 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15947;
+          20 Jan 2000 13:43 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05390;
+          20 Jan 2000 13:43 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27475;
+          20 Jan 2000 6:05 EST
+Received: from neuro.informatik.uni-ulm.de by edrc.cmu.edu id aa09306;
+          20 Jan 2000 6:05 EST
+Received: by neuro.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA17467; Thu, 20 Jan 00 12:06:24 +0100
+Date: Thu, 20 Jan 00 12:06:24 +0100
+From: Guenther Palm <palm@neuro.informatik.uni-ulm.de>
+Message-Id: <10001201106.AA17467@neuro.informatik.uni-ulm.de>
+To: Connectionists@cs.cmu.edu
+Subject: KES2000-Sessions
+Cc: palm@neuro.informatik.uni-ulm.de
+Status: RO
+X-Status: 
+
+Dear connectionists,
+
+I am organizing two special sessions for the KES2000 conference. The 
+conference will take place from August 30 to September 1, 2000 in 
+Brighton, Sussex, U.K. More information on the conference can be
+obtained from the KES2000 Web site: 
+              
+                 http://luna.bton.ac.uk/~kes2000/
+
+The topics of the sessions are:
+
+1) Processing of hierarchical structures in neural networks.
+2) Biomedical applications of neural networks.
+
+Accepted session contributions will be published in the conference 
+proceedings by IEEE.
+
+The procedure for submissions is as follows:
+
+1) Please send me a short statement concerning the topic of
+   your intended contribution BEFORE FEBRUARY 04, 2000. 
+
+   This statement may contain a title and a short abstract and 
+   should not exceed half a page.
+   
+   Based on these statements we may further focus the topics
+   of the two workshops.
+
+   I will send out a call for papers ON FEBRUARY 11, 2000.
+
+2) Send the camera ready version of your paper (four A4 pages)
+   UNTIL MARCH 15, 2000.
+
+   The papers will be reviewd and the results will be
+   communicated to the authors in APRIL, 2000.
+
+-------------------------------------------------------------
+
+Guenther Palm
+Neural Information Processing
+University of Ulm
+D-89069 Ulm
+Germany
+
+palm@neuro.informatik.uni-ulm.de

@@ -1,0 +1,89 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Dec 22 20:24:42 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA05423;
+	Tue, 22 Dec 1998 20:24:36 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15847;
+          22 Dec 98 13:20 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15845;
+          22 Dec 98 13:06 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01832;
+          22 Dec 98 13:05 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa10679; 22 Dec 98 5:48 EST
+Received: from fzkmail2.fzk.de by EDRC.CMU.EDU id aa19395; 22 Dec 98 5:47:38 EST
+Received: (from smap@localhost)
+	by fzkmail2.fzk.de (8.8.8+Sun/8.8.8) id LAA28969
+	for <connectionists@cs.cmu.edu>; Tue, 22 Dec 1998 11:45:19 +0100 (MEZ)
+Received: from hpesun3.fzk.de( 141.52.64.9) by fzkmail2 via smap (V2.1)
+	id xma028964; Tue, 22 Dec 98 11:44:58 +0100
+Received: from hpe.fzk.de (hpepc11) by hpesun3.fzk.de (4.1/SMI-4.1)
+	id AA03128; Tue, 22 Dec 98 11:44:56 +0100
+Message-Id: <367F75ED.5E839277@hpe.fzk.de>
+Date: Tue, 22 Dec 1998 11:35:25 +0100
+From: Wolfgang Eppler <eppler@hpe.fzk.de>
+X-Mailer: Mozilla 4.06 [en] (WinNT; I)
+Mime-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Session at EUFIT '99
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Prof Gemmeke asked me to announce the following call for papers:
+
+---------------------------------------------------------------------
+Call for Papers
+
+Invited Session "Time-critical Applications with Neural Networks"
+at EUFIT '99, Aachen, Germany, September 13-16, 1999
+
+Processing power of today's processors like PENTIUM II or PowerPC 
+is sufficient for most of the applications with neural networks.
+Generally, training of neural networks takes much more time than
+recall of trained knowledge but for most of the (industrial) 
+applications training is done only once. So there is no need
+to accelerate learning process by using additional hardware.
+On the other hand, some of the applications with neural networks
+are run under time critical conditions where processing power of 
+standard processors is not sufficient. In these cases, 
+response times of a few microseconds are required. 
+Typical applications are found in the sphere of trigger experiments 
+in high energy physics or pattern recognition in medical 
+applications.
+Therfore, special purpose hardware like fast DSPs, parallel
+processors or neural processor chips are used to fulfill 
+timing requirements.
+
+The invited session cares about those applications using
+special purpose hardware to accelerate neural operations.
+Contributions of both PC based applications using a
+PC acceleration card as well as stand alone applications
+e.g. using fast DSPs in combination with microcontrollers 
+are welcome.
+
+
+Deadline for abstract:                  January 31, 1999
+Deadline for camera ready paper:        March 15, 1999
+
+Address:                                Thomas Fischer
+                                        Forschungszentrum Karlsruhe, FZK
+                                        (Research Centre Karlsruhe)
+                                        POB 3640
+                                        76021 Karlsruhe
+                                        Germany
+
+
+Please contact:
+
+Thomas Fischer, Tel: ++49 7247 82 4042, email: fischer@hpe.fzk.de
+or
+Wolfgang Eppler, Tel: ++49 7247 82 5537, email: eppler@hpe.fzk.de
+
+--------------------------------------------------------------------- 
+FORSCHUNGSZENTRUM KARLSRUHE             Thomas Fischer
+Department HPE                          phone: +49 7247 82-4042
+P.O. Box 3640, 76021 Karlsruhe,         fax:   +49 7247 82-3560
+GERMANY                                 email: fischer@hpe.fzk.de
+----------------------------------------------------------------------

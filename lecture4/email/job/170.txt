@@ -1,0 +1,60 @@
+
+
+From spm-request@mailbase.ac.uk Thu Aug 19 16:21:08 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id QAA03929
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 19 Aug 1999 16:21:07 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA06097;
+	Thu, 19 Aug 1999 15:15:07 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA20359;
+        Thu, 19 Aug 1999 15:13:37 +0100 (BST)
+Received: from fil.ion.ucl.ac.uk (cream.fil.ion.ucl.ac.uk [193.62.66.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id PAA20339;
+        Thu, 19 Aug 1999 15:13:34 +0100 (BST)
+Received: from prince.ion.bpmf.ac.uk. by fil.ion.ucl.ac.uk (SMI-8.6/SMI-SVR4)
+	id PAA18156; Thu, 19 Aug 1999 15:12:52 +0100
+Received: by prince.ion.bpmf.ac.uk. (SMI-8.6/SMI-SVR4)
+	id PAA19455; Thu, 19 Aug 1999 15:12:51 +0100
+Date: Thu, 19 Aug 1999 15:12:51 +0100
+Message-Id: <199908191412.PAA19455@prince.ion.bpmf.ac.uk.>
+X-Sun-Charset: US-ASCII
+Subject: Research assistant position
+From: karl@fil.ion.ucl.ac.uk (Karl Friston)
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: karl@fil.ion.ucl.ac.uk (Karl Friston)
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+Research assistant position available.
+
+There is now an opening for a full-time research assistant at the
+PET-Imaging-Laboratory at the Department of Nuclear Medicine,
+University of Mainz, Germany.
+
+The candidate should have a solid theoretical background from a
+numerate discipline (e.g. physics, computer science, applied
+mathematics). Experience in PET, kinetic modelling, radiotracer
+methodology or tomographic reconstruction are desirable. Applicants
+with computer skills such as programming experience in IDL or MATLAB in
+a UNIX environment will be preferred.  Additional information can be
+obtained by contacting Prof. Peter Bartenstein, head of the department
+at e- mail: bartenstein@nuklear.klinik.uni-mainz.de or by calling
+++49/6131/177124.
+  
+
+----------------------------
+Prof. Dr. P. Bartenstein
+Klinik f. Nuklearmedizin
+Joh. Gutenberg Universitaet
+Langenbeckstr. 1
+D-55101 Mainz
+----------------------------

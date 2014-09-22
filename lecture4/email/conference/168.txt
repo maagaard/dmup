@@ -1,0 +1,129 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Nov  4 11:05:53 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id LAA11133;
+	Wed, 4 Nov 1998 11:05:42 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25034;
+          4 Nov 98 3:37 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25032;
+          4 Nov 98 3:23 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24040;
+          4 Nov 98 3:22 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa25648; 3 Nov 98 0:48 EST
+Received: from brain.sedal.usyd.edu.au by CS.CMU.EDU id aa20109;
+          3 Nov 98 0:48:27 EST
+Received: from sedal.usyd.edu.au (morph.sedal.usyd.edu.au [129.78.24.69])
+	by brain.sedal.usyd.edu.au (8.8.8/8.8.8) with ESMTP id QAA26759;
+	Tue, 3 Nov 1998 16:48:08 +1100 (EST)
+Sender: mousset@sedal.usyd.edu.au
+Message-ID: <363E9918.678CBF50@sedal.usyd.edu.au>
+Date: Tue, 03 Nov 1998 16:48:08 +1100
+From: Eric Mousset <mousset@sedal.usyd.edu.au>
+Organization: University of Sydney - SEDAL
+X-Mailer: Mozilla 4.04 [en] (X11; I; SunOS 5.6 sun4u)
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+Subject: Workshop 'Understanding the Brain and Engineering Models'
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+
+                          WORKSHOP ANNOUNCEMENT
+
+           UNDERSTANDING  THE  BRAIN  AND  ENGINEERING  MODELS
+
+                    University of Sydney, Australia
+                      January 18th and 19th, 1999
+
+
+OUTLINE
+=======
+Over the last decade, research activities in the domain of neuromorphic
+engineering and brain function modelling have significantly increased.
+This workshop seeks to bring together a diverse group of researchers
+to critically examine the progress made so far in this challenging research
+area. We intend to address the following issues:
+
+1. Sensorimotor integration in a broad sense and, more particularly,
+2. Computational models of brain centres such as the cerebellum, basal ganglia
+   and the superior colliculus,
+3. Computational models of the visual and auditory pathways,
+4. Microelectronic and other real-time implementations of such models
+   and their incorporation in roving systems.
+
+
+KEYNOTE  SPEAKER
+================
+Terrence Sejnowski         Howard Hughes Medical Institute,
+                           Computational Neurobiology Laboratory,
+                           The Salk Institute for Biological Studies,
+                           CA, USA
+
+
+TENTATIVE  LIST  OF  SPEAKERS
+=============================
+
+Abdesselam Bouzerdoum      Edith Cowan University, Perth, WA, Australia
+
+Simon Carlile              Department of Physiology,
+                           Sydney University, NSW, Australia
+
+Olivier Coenen             The Salk Institute for Biological Studies,
+                           CA, USA & ANRL Children's Hospital
+
+Ralph Etienne-Cummings     Department of Electrical and Computer Engineering,
+                           Johns Hopkins University, MD, USA
+
+Evian Gordon               Westmead Hospital, The University of Sydney,
+                           NSW, Australia
+
+Marwan Jabri               School of Electrical and Information
+                           Engineering, Sydney University, NSW, Australia
+
+Craig Jin                  School of Electrical and Information
+                           Engineering, Sydney University, NSW, Australia
+
+Eric Mousset               School of Electrical and Information
+                           Engineering, Sydney University, NSW, Australia
+
+Andre Van Schaik           Department of Physiology,
+                           Sydney University, NSW, Australia
+
+
+WHO SHOULD ATTEND?
+==================
+The following groups of participants are targeted:
+(a) Visual/auditory psychophysicists and neurobiologists;
+(b) Computational modellers and engineers, including those interested
+    in real-time software and/or VLSI implementation.
+
+
+REGISTRATION FEE & FORM
+=======================
+Registration fee is AU$ 100 (normal) / AU$ 50 for students.
+It includes coffee, workshop barbecue and workshop handouts.
+A registration form is available at
+http://www.ee.usyd.edu.au/events_news/ubem99reg.html
+
+
+FURTHER  INFORMATION
+====================
+Further information (registration form, detailed program, accomodation
+arrangements, transport, etc.) is available at
+http://www.sedal.usyd.edu.au/~mousset/UBEM99/
+Queries can be directed to Eric Mousset:
+mousset@ee.usyd.edu.au or +62-1-93517208
+
+
+ORGANISERS
+==========
+Eric Mousset (mousset@ee.usyd.edu.au), Sydney University
+Marwan Jabri (marwan@ee.usy.edu.au), Sydney University
+and
+Ralph Etienne-Cummings (etienne@ece.jhu.edu), John Hopkins University
+
+

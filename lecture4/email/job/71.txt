@@ -1,0 +1,77 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Feb  5 01:46:40 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA05666;
+	Fri, 5 Feb 1999 01:46:29 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28816;
+          4 Feb 99 16:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28814;
+          4 Feb 99 16:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09870;
+          4 Feb 99 16:36 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28163; 4 Feb 99 8:17 EST
+Received: from [128.40.213.30] by CS.CMU.EDU id aa12931; 4 Feb 99 8:17:35 EST
+Received: from cajal.gatsby.ucl.ac.uk (cajal.gatsby.ucl.ac.uk [128.40.213.19])
+	by axon.gatsby.ucl.ac.uk (8.9.1/8.9.1) with ESMTP id NAA09000;
+	Thu, 4 Feb 1999 13:17:24 GMT
+Received: (from zoubin@localhost)
+	by cajal.gatsby.ucl.ac.uk (8.8.7/8.8.7) id NAA18273;
+	Thu, 4 Feb 1999 13:17:22 GMT
+Message-Id: <199902041317.NAA18273@cajal.gatsby.ucl.ac.uk>
+From: Zoubin Ghahramani <Zoubin@gatsby.ucl.ac.uk>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Date: Thu,  4 Feb 1999 13:17:22 +0000 (GMT)
+To: connectionists@cs.cmu.edu, neuron-uk@mailbase.ac.uk,
+        cneuro@bbb.caltech.edu, owner-neuromotor-control@cs.umass.edu,
+        cogneuro@ptolemy.arc.nasa.gov, cvnet@skivs.ski.org
+Cc: zhaoping@gatsby.ucl.ac.uk, zoubin@gatsby.ucl.ac.uk
+Subject: Gatsby Unit: PhD and Postdoc positions
+Status: RO
+X-Status: 
+
+		      University College London
+
+		Gatsby Computational Neuroscience Unit
+
+	  Current vacancies:  PhD and Post-doctoral positions
+                                 
+		    ------------------------------
+
+	       Post-doctoral and PhD Research Positions
+		      High and low level vision
+
+Applications are invited for a post-doctoral research fellowship and a
+PhD research studentship in the field of high and low level vision
+tenable from September 1999.  The successful candidate/s will be
+supervised by Dr Zhaoping Li.
+
+Applicants should have a strong analytical background, and a keen
+interest in neuroscience.  Competitive salaries and studentships are
+available.
+
+		    ------------------------------
+
+		       PhD Research Studentship
+	     Computational and experimental motor control
+
+Applications are invited for a PhD research studentship in the field
+of computational and experimental motor control tenable from September
+1999.  The successful candidate will be supervised by Dr Zoubin
+Ghahramani.
+
+Applicants should have a strong analytical background, and a keen
+interest in neuroscience.  Competitive salaries and studentships are
+available.
+
+		    ------------------------------
+
+APPLICATION DEADLINE:	Monday 1 March 1999
+
+HOW TO APPLY:		http://www.gatsby.ucl.ac.uk/vacancies.html
+
+EMAIL ENQUIRIES:	admissions@gatsby.ucl.ac.uk (Janice Hankes)
+
+              

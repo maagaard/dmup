@@ -1,0 +1,69 @@
+
+
+From spm-request@mailbase.ac.uk Thu Sep  9 09:50:41 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id JAA01925
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 9 Sep 1999 09:50:40 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id IAA10136;
+	Thu, 9 Sep 1999 08:43:36 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id IAA16731;
+        Thu, 9 Sep 1999 08:39:22 +0100 (BST)
+Received: from neuro.informatik.uni-ulm.de (neuro.informatik.uni-ulm.de [134.60.73.1]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id IAA16725;
+        Thu, 9 Sep 1999 08:39:18 +0100 (BST)
+Received: by neuro.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA14580; Thu, 9 Sep 99 09:39:42 +0200
+Date: Thu, 9 Sep 99 09:39:42 +0200
+Message-Id: <9909090739.AA14580@neuro.informatik.uni-ulm.de>
+Received: from sun-acht.informatik.uni-ulm.de(134.60.73.18)
+ via SMTP by neuro.informatik.uni-ulm.de, id smtpdAAAa14578; Thu Sep  9 09:39:32 1999
+Received: by sun-acht.informatik.uni-ulm.de (4.1/UniUlm-info-1.1r)
+	id AA00397; Thu, 9 Sep 99 09:39:31 +0200
+Subject: Job opening in fMRI analysis/modeling
+From: fritz@neuro.informatik.uni-ulm.de (Fritz Sommer)
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: fritz@neuro.informatik.uni-ulm.de (Fritz Sommer)
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+
+Research Position (cognitive/computational neuroscience)
+
+A position (beginning Nov 1999, 2 years, 1 year extension possible) 
+is available at the University of Ulm in an interdiscplinary research 
+project on analysis and modeling of functional magnetic resonance data.   
+In this joint project of the departments of Psychiatry, Radiology and 
+Neural Information Processing a method of detection and interpretation 
+of functional/effective connectivity in fMRI data will be developed 
+and will be applied to working memory tasks. 
+
+Candidates should have a background in statistical methods, functional 
+MRI analysis or computational neuroscience. Required is a recent masters 
+degree or equivalent in computer science, physics, mathematics or in a 
+closely related area. The research can be conducted as part of a PhD 
+thesis degree in Computer Science. Experience in programming in C in a 
+Unix environment is necessary, experience with MATLAB and SPM is helpful. 
+
+Salary according to BAT IIa. The University of Ulm is an equal opportunity 
+employer and emphatically encourages female scientists to apply. Employment 
+will be effected through the "Zentrale Universitaetsverwaltung" of the 
+University of Ulm.
+
+Please send CV, letter of motivation and addresses of three referees to: 
+Prof. Dr. Dr. M. Spitzer, Department of Psychiatry III, 
+University of Ulm, Leimgrubenweg 12, 89075 Ulm, Germany 
+or e-mail to manfred.spitzer@medizin.uni-ulm.de. 
+For more detailed information on the research project please contact
+Dr. F. T. Sommer, email: fritz@neuro.informatik.uni-ulm.de
+
+
+

@@ -1,0 +1,67 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jul 17 05:28:51 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA04341;
+	Sat, 17 Jul 1999 05:28:42 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab16031;
+          16 Jul 99 21:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab16029;
+          16 Jul 99 21:27 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16472;
+          16 Jul 99 21:27 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa28843; 16 Jul 99 9:54 EDT
+Received: from axon.rutgers.edu by RI.CMU.EDU id aa01250; 16 Jul 99 9:53:23 EDT
+Received: from stp (stp.rutgers.edu [128.6.102.42]) by axon.rutgers.edu (AIX4.3/UCB 8.8.8/8.8.8) with SMTP id JAA20894; Fri, 16 Jul 1999 09:53:25 -0400
+Reply-To: axon@cortex.rutgers.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+From: Ralph Siegel <axon@cortex.rutgers.edu>
+To: visionsciencelist@lists.best.com, connectionists@cs.cmu.edu,
+        cneuro@bbb.caltech.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Postdoctoral positions - visual system
+Date: Fri, 16 Jul 1999 09:53:01 -0400
+Message-ID: <001801becf92$850ab980$2a660680@stp.rutgers.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Status: RO
+X-Status: 
+
+Postdoctoral Trainee (two positions). Analysis of visual
+structure-from-motion in primates.  Representation of optic flow and
+attention in temporal (STPa) and parietal lobes (7a) are being
+examined in the awake behaving monkey.  These studies utilize single
+unit recording, optical recording, microdialysis techniques.
+Laboratory also has ongoing fMRI, human psychophysical studies and
+computational studies.  Recent graduates who are changing fields from
+either cellular or computational neuroscience to behavioral and
+physiological studies are particularly encouraged to apply.  Computer
+expertise useful, but not necessary.  Superb experimental and
+computational facilities in a multi-disciplinary research center.
+NY-NJ Metro area.
+
+Contact:
+  Ralph Siegel, Ph.D.
+  Center for Molecular and Behavioral Neuroscience
+  Rutgers, The State University
+  197 University Avenue
+  Newark, NJ 07102
+  phone: 973-353-1080  x3261
+  fax:   973-353-1272
+  axon@cortex.rutgers.edu
+  http://www.cmbn.rutgers.edu/cmbn/faculty/rsiegel.html
+
+
+Term:    Beginning July 1, 1999
+Salary:  NIH levels
+
+Please send statement of research interests, curriculum vitae, and
+names of three references.
+

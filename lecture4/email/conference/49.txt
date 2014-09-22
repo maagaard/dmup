@@ -1,0 +1,398 @@
+
+
+From owner-www-vrml@vrml.org Thu Oct 30 08:13:51 MET 1997
+Received: from vrml.org (vrml.org [209.66.78.240]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id IAA04823 for <fnielsen@eivind.imm.dtu.dk>; Thu, 30 Oct 1997 08:13:49 +0100 (MET)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id EAA24142
+	for www-vrml-outgoing; Thu, 30 Oct 1997 04:46:39 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from azure.stl.nps.navy.mil (azure.stl.nps.navy.mil [131.120.64.4])
+	by vrml.org (8.8.7/8.8.5) with ESMTP id EAA24137
+	for <www-vrml@vrml.org>; Thu, 30 Oct 1997 04:46:37 GMT
+Received: from stl.nps.navy.mil (ppp-npsnet.cs.nps.navy.mil [131.120.7.79]) by azure.stl.nps.navy.mil (8.7.3/8.7.3) with ESMTP id UAA22977 for <www-vrml@vrml.org>; Wed, 29 Oct 1997 20:51:05 -0800 (PST)
+Message-ID: <34580862.A35350B@stl.nps.navy.mil>
+Date: Wed, 29 Oct 1997 23:09:06 -0500
+From: Don Brutzman <brutzman@azure.stl.nps.navy.mil>
+Organization: Naval Postgraduate School
+X-Mailer: Mozilla 4.03 [en] (Win95; I)
+MIME-Version: 1.0
+To: vrml list <www-vrml@vrml.org>
+Subject: [Fwd: INFORMATION VISUALISATION-98: CFP]
+Content-Type: multipart/mixed; boundary="------------A740C03C8127CC8704C384D0"
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+--------------A740C03C8127CC8704C384D0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------A740C03C8127CC8704C384D0
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Received: from cs.nps.navy.mil (cs.nps.navy.mil [131.120.1.13]) by azure.stl.nps.navy.mil (8.7.3/8.7.3) with SMTP id MAA20004 for <brutzman@stl.nps.navy.mil>; Wed, 29 Oct 1997 12:13:22 -0800 (PST)
+Received: from CSDAlpha2.sbu.ac.uk by cs.nps.navy.mil (4.1/SMI-4.1)
+	id AA04830; Wed, 29 Oct 97 12:11:45 PST
+Received: from CSDAlpha1.sbu.ac.uk (csdalpha1.sbu.ac.uk [136.148.1.1]) by CSDAlpha2.sbu.ac.uk (8.8.5/8.7.3) with SMTP id UAA31981; Wed, 29 Oct 1997 20:06:42 GMT
+Received: from banisse.dialup.sbu.ac.uk by CSDAlpha1.sbu.ac.uk (5.65v4.0/1.1.10.5/06Nov96-0356PM)
+	id AA26610; Wed, 29 Oct 1997 19:59:54 GMT
+From: banisse@sbu.ac.uk
+Message-Id: <9710291959.AA26610@CSDAlpha1.sbu.ac.uk>
+Comments: Authenticated sender is <banisse@unix.sbu.ac.uk>
+To: Anita@it-link.demon.co.uk
+Date: Wed, 29 Oct 1997 19:59:50 +0000
+Mime-Version: 1.0
+Content-Transfer-Encoding: Quoted-printable
+Subject: Re: INFORMATION VISUALISATION-98: CFP
+Priority: normal
+X-Mailer: Pegasus Mail for Windows (v2.33)
+Content-Type: text/plain; charset=ISO-8859-1
+
+
+*********************************************************************
+** INTERNATIONAL CONFERENCE ON INFORMATION VISUALISATION**
+*********************************************************************
+
+-29-30-31 JULY 1998
+
+-LONDON - ENGLAND
+
+Call for Papers, Videos and Participation
+
+Supported by
+
+GraphicsLink_
+VGRU -Visualisation & Graphics Research Unit-
+ICAD - Intelligent CAD Laboratory of Pontificia Universidade Catolica
+do Rio de Janeiro - PUC-Rio
+
+*********************************************************************
+INTERNATIONAL CONFERENCE ON INFORMATION VISUALISATION
+
+Visualisation of data and information has led to a convergence in the
+use of computing among various disciplines.  The diversity and
+complexity of information and its applications has consequently
+created a domain of erosion of boundaries between information users
+and information originators.  This revolution has in turn created new
+contexts, needs, and potential for interaction between users and
+information.  Now the core question is, how will humankind tame this
+boundless potential?
+---------------------------------------------------------------------
+THEME The theme chosen for this conference is "A PROGRESS TOWARDS
+RESEARCH AND PRACTICE".  IV'98 conference aims to focus on the
+interdisciplinary methods and affiliated research done among various
+science disciplines, medicine, engineering, media and commerce.  This
+three day event will focus on the research and developments conjured
+to meet the roaring demand of today's "Information Transfer" through
+the medium of computing,  accentuating on the linkage that shapes
+academia and industry with the goal of stimulating views and providing
+a forum where researchers and practitioners can discuss the latest
+developments linked to Information Visualisation.
+
+---------------------------------------------------------------------
+SCOPE The conference will feature research reviews, poster papers,
+workshops, keynote lectures, plenary sessions, film and computer
+generated art shows, reviewing the future state of art and discussing
+future directions within the domain of Information Visualisation.
+
+The following symposia are already envisaged (but not restricted): =B7
+Information Visualisation - Data Visualisation - Fundamentals of
+Graphics & Visualisation - Interactive Distributed Media - Rendering -
+Modelling - CAGD - Image Processing - Computer Animation - Education
+of graphics and visualisation - Information Processing in Medical
+Imaging - Design Application & Visual Thinking - Visualisation in Art
+& Humanities - Digital Typography - Digital Photography - Cinema &
+Special effects - Visualisation in Art & Humanities - Virtual
+Environments.
+---------------------------------------------------------------------
+COMPUTER ANIMATION & VISUAL EFFECTS  SHOW Computer animation & effects
+show is a further opportunity within the scope of IV'98 to enhance
+another dimension of computer visualisation & Graphics.  All the
+entries for this section should be presented in form of a short paper
+accompanied by explanatory notes not more than two A-4 size pages and
+those with technical and artistic emphasis could be published in the
+proceedings under short paper or poster paper section.  The programme
+committee will review these entries and it will be presented in a
+special symposium. The following scope of entries are envisaged (but
+not restricted to):  Character Animation - Feature & Short Films -
+Education & Training - Scientific Visualisation & Simulation -
+Computer Art & Effects - Smart Advertising - Art Education.
+
+CONDITIONS OF ENTRY -  Entries must contain a reasonable proportion of
+computer generated materials (i.e. 2D and 3D animation, visual effects
+and digital image processing techniques).  All entrants are
+responsible for their own customs fees if incurred.  It is the
+responsibility of the entrant to secure any permissions and/or
+licences (if any).   A course tutor must confirm student entries from
+his or her university.  The show organisers cannot be held liable for
+any loss or damage to a submission.  We will return the entry
+materials only if requested.
+
+---------------------------------------------------------------------
+COMPUTER AIDED ART A further opportunity to display and present works
+of art that represent how new technology stretches the boundaries of
+creativity even further.  All the entries for this section are
+encouraged to present their work in form of a short paper accompanied
+by explanatory notes not more than two A-4 size pages and those with
+technical and artistic emphasis will be published in the proceedings
+under short paper or poster paper section. The following themes of
+display are already envisaged (but not restricted):  Computer
+Generated Art - Design & Publishing -  Digital Darkroom of Photography
+- Digital Typography and Calligraphy -  Computer Generated Models -
+Cartography - Fractal Models.
+
+---------------------------------------------------------------------
+PANEL DEBATES Panel debates to address important issues in
+visualisation of information from various angles of emphasis
+philosophy, research, applications, systems, results and what next.
+Panellists should be active and expert in their fields.  These
+sessions are between 1 to 2 hours with 3 to 5 speakers.  Panel
+proposals should describe the topics to be debated and identify the
+prospective panellists.  Panels should be organised such that to
+encourage audience participation. Each panellist should include a
+position of statements on the topics with a brief biography about her
+or himself.  These statements will be included in the conference
+proceedings.
+
+---------------------------------------------------------------------
+TUTORIAL PROPOSALS Pre-conference short courses for half- or full day
+are invited for visualisation systems, methods, application areas and
+other related fields.  Tutorials will take place prior to the
+conference.  Proposals should identify the level of proficiencies
+expected from participants at a beginner, intermediate, or advanced
+levels.  You should include: an abstract of the topic, a brief
+description of tutorial's organisation and time allocation for major
+areas, the duration, level of tutorials, and the background and the
+contact address of the instructors.  The proposed tutorials will be
+evaluated by committee members on the basis of its suitability as a
+tutorial format, the past experience of the instructors, the overall
+relevance and balance of the tutorials, and the likely attendance of
+participants.
+
+*********************************************************************
+COMMITTEES
+
+PROGRAMME COMMITTEE (tentative)
+Dr Ebad Banissi (UK),
+Dr Ken Brodlie (UK),
+Dr Mikael Jern (Denmark),
+Professor Fumihiko Kimura (Japan),
+Dr Kunio Kondo (Japan),
+Dr Ma Lizhuang (China),
+Professor yuhua Luo (Spain),
+Professor Udi Manber (USA),
+Professor Michael L.V. Pitteway (UK), 
+Professor Vladimir Prokhorov ( Russia),
+Mr John Risch (USA),
+Professor Przemyslow Rokita (Poland),
+Professor Hassan Said (Malaysia),
+Professor Nadia Magnenat Thalmann (Switzerland)
+Dr Leonardo Traversoni (Mexico),
+Dr Keith Unsworth (New Zealand),
+Dr Wenping Wang (Hong Kong),
+
+ORGANISING COMMITTEE MEMBERS:
+Dr F. Khosrowshahi (South Bank University -SBU-), 
+Dr M. Sarfraz (SA)
+Dr E. Banissi (SBU)
+Dr R. Oxman (Israel)
+Mr D. Henley (SBU),
+Dr F. Hussain (De-Montfort University),
+Mr S. Singh (University of Westminster),
+Mr A. Aljamali (SBU), 
+Mr M. Holden(UMDS, SBU). 
+Dr M. Druex (Brazil)
+Dr A. Ursyn (USA)
+
+TECHNICAL PROGRAMME ORGANISER:  
+Mr A. Aljamali (SBU),
+Mr A.Sabaghi (ELATT).
+
+PROGRAMME SECRETARIAT:
+Ms A.D'Pour (GraphicsLink...)
+
+*********************************************************************
+SCHEDULE
+
+For this conference, it is possible to present full papers, short
+papers or poster presentations, product/ vendor presentations,
+proposal for panel discussions and tutorial/workshop activities that
+will be published in the conference proceedings.  The refereeing is
+applied for the materials to be published only.  Three copies of full
+papers are expected which they will be reviewed by three members of
+the program committee.  An author kit with complete instruction for
+the proceedings will be sent to the authors of the accepted papers.
+The final manuscripts for full papers are expected to be not more than
+8 pages. In case, you want to organise a new symposium, a panel
+discussion or a tutorial, please indicate this in the reply card as
+soon as possible. The important dates are as follow:
+
+19 December 1997    Proposal for symposium, 
+                                  Tutorials and workshop Proposals. 30
+March 1998              Extended Abstracts,
+ 30 April 1998           Paper Submission deadline,
+                                  Proposal for short papers / 
+                                  Posters or Product display.
+31 May 1998            Camera ready papers
+                                 Film & Video submission
+                                 Art Exhibition submission
+
+Send all presentational submissions to:
+
+REF: GraphicsLink...IV'98
+Dr E. Banissi 
+Conference Co-chair
+Visualisation & Graphics Research Unit, South Bank University, 
+103 Borough Road, London SE1 0AA. United Kingdom.
+Tel.:  (Int. +44) 171.815.7476
+Fax: (Int. +44) 171.815. 7499
+email: banisse@sbu.ac.uk
+
+Send all exhibition submissions to conference organiser:
+REF: GraphicsLink_IV'98
+Conference secretariat
+GraphicsLink_
+P.O. BOX 12905 
+London N16 6JX
+United Kingdom.
+Tel: (Int. +44) 181- 
+Fax: (Int. +44) 181-442 4414
+Email: GraphicsLink-IV98@it-link.demon.co.uk
+
+
+*********************************************************************
+VENUE   
+
+School of Oriental and African Studies 
+-SOAS- Brunei Gallery 
+London University
+Thornhaugh Street, Russell Square, 
+London WC1H 0XG, England
+
+The Brunei Gallery of the School of Oriental and African Studies
+-SOAS- is part of University of London.  The Gallery is situated in a
+pleasant location at the Northwest corner of Russell Square in the
+University precinct.  The Gallery comprises a teaching block and a
+museum with two exhibition galleries for special exhibitions of Asian
+and African art. It has also an attractive roof garden. The Brunei
+Gallery is within walking distant of The British Museum and not far
+from the Arts complex on the South Bank of The River Thames.  It is
+conveniently situated near several underground stations and is within
+walking distance from Euston main line and not far from the Channel
+Tunnel Rail Terminus at Waterloo.  The area is served by a wide range
+of hotel accommodation, and SOAS has its own Residence nearby.
+
+REGISTRATION
+Please complete the early registration card.
+                               Pre- registration  before       
+                               Registration after
+                                15th May 98                       15th
+                                May '98
+
+[   ] Presenter            250 GBP                            325 GBP
+[   ] Participants        325 GBP                            375 GBP [
+  ] Students             225 GBP                            275 GBP
+
+[   ] Film entries         35 GBP                             50 GBP [
+  ] Computer Art     35 GBP                             50 GBP
+
+[   ] Tutorials             75 GBP                             125 GBP
+
+ Payment of fee in GBP must accompany registration and cheques/drafts
+should be payable to the order of "GraphicsLink...IV'98".  For direct
+bank transfer, make your payment to "GraphicsLink... " to: Bank:
+MIDLAND; ADDRESS: LONDON N16 7JP; ACCOUNT NO: 01126601; SORT CODE:
+40-06-27.
+
+Registration cancelled by letter/fax will be honoured only if received
+before 15th May 1998. The full registration fee includes admission to
+all academic and exhibition and film show; one copy of the conference
+Proceedings; lunches and refreshments during conference breaks and a
+social event sponsored by IV'98 Conference.
+
+
+*********************************************************************
+REPLY CARD
+
+Surname: .....................................
+ First Name: ................................
+Title : ..........................................
+Affiliation: .................................. 
+Address: 
+......................................................................
+.............................
+......................................................................
+............................. Telephone:
+.......................................... Fax-Number:
+....................................... E-mail:
+................................................ [     ] Yes. I intend
+to attend the GraphicsLink-IV98 conference on Information
+Visualisation:
+
+[     ] Proposing a New Symposium
+It is provisionally agreed that a minimum number of 6 presenters are
+needed to organise a symposium. Please attach to this form a brief
+outline of symposium not more than 250 words. q  Proposing a Tutorial
+Please attach to this form a brief outline of tutorial not more than
+250 words, together with a brief biography of the facilitator /
+presenter. q  Proposing a Roundtable or a Panel Please attach to this
+form a brief outline of scope and the theme not more than 250 words,
+together with names of possible participants and a brief biography of
+yourself.
+
+(    )  Participating in the  Presentation of:
+[     ]  Full Paper    [     ] Short Paper   [     ] 
+ProductPresentation [     ]  Poster Session 
+
+(    )  Participating in the presentation of:
+
+[     ] Computer Animation Show   [     ] Short Feature Film   
+[     ]Educational Film [     ] Computer Art Show  [     ] Art [     ]
+Photography  [     ]Models  [    ]Typography &  Calligraphy
+
+The provisional title of my Paper/ Presentation/ Panel is:
+......................................................................
+................................... The paper belongs tothe following
+symposium:
+......................................................................
+
+[     ]   Attending without any presentation
+
+Do you know other colleagues interested in the theme of this
+conference?
+ Name and Address:
+ .....................................................................
+ .............
+......................................................................
+.............
+......................................................................
+............. Please send this form completed to: Ms Anita D'Pour
+GraphicsLink... IV-98, Conference Secretariat, GraphicsLink_ P.O. Box
+12905 London SE1 0AA, UK. Fax: (+44)-181-442 4414 Email:
+GraphicsLink-IV98@it-link.demon.co.uk
+http://www.it-link.demon.co.uk/IV98/
+
+Or
+
+Dr E. Banissi 
+Conference Co-chair
+REF: GraphicsLink...IV'98
+Visualisation & Graphics Research Unit, South Bank University, 
+103 Borough Road, London SE1 0AA. United Kingdom.
+Email: banisse@sbu.ac.uk
+
+
+
+--------------A740C03C8127CC8704C384D0--
+
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

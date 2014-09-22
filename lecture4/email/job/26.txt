@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov 13 23:00:22 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id XAA26863;
+	Fri, 13 Nov 1998 23:00:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23619;
+          13 Nov 98 14:34 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23603;
+          13 Nov 98 14:21 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa18098;
+          13 Nov 98 14:21 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa18805; 13 Nov 98 13:34 EST
+Received: from russell.mb.jhu.edu by EDRC.CMU.EDU id aa21090;
+          13 Nov 98 13:33:58 EST
+Received: (from niebur@localhost)
+	by russell.mb.jhu.edu (8.8.7/8.8.7) id OAA07483;
+	Fri, 13 Nov 1998 14:32:08 -0500
+Date: Fri, 13 Nov 1998 14:32:08 -0500
+Message-Id: <199811131932.OAA07483@russell.mb.jhu.edu>
+From: "Prof. Ernst Niebur" <niebur@russell.mb.jhu.edu>
+To: connectionists@cs.cmu.edu
+cc: Steven.Hsiao@jhu.edu, Ken.Johnson@jhu.edu, michael.steinmetz@jhu.edu,
+        connor@jhu.edu, hendr_s@jhuvms.hcf.jhu.edu, von.der.heydt@jhu.edu,
+        TAKASHI@MBSERVER.MB.JHU.EDU, guy.mckhann@jhu.edu,
+        kirkwood@MBSERVER.MB.JHU.EDU, goldberg@blaze.cs.jhu.edu
+Subject: Graduate studies in systems and computational neuroscience at Johns Hopkins University
+Reply-to: niebur@jhu.edu
+Status: RO
+X-Status: 
+
+
+
+The Johns Hopkins University is a major private research university
+and its hospital and medical school have been rated consistently as
+the first or second in the nation over the last years. The Department
+of Neuroscience ranks second in the nation (all according to 'US News
+and World Report').
+
+The Zanvyl Krieger Mind/Brain Institute at Johns Hopkins encourages
+students with interest in systems neuroscience, including
+computational neuroscience, to apply for the graduate program in the
+Neuroscience department. The Institute is an interdisciplinary
+research center devoted to the investigation of the neural mechanisms
+of mental function and particularly to the mechanisms of perception:
+How is complex information represented and processed in the brain, how
+is it stored and retrieved, and which brain centers are critical for
+these operations?
+
+Research opportunities exist in all of the laboratories of
+the Institute. Interdisciplinary projects, involving the student in
+more than one laboratory, are particularly encouraged. All students
+accepted to the PhD program of the Neuroscience department receive
+full tuition remission plus a stipend at or above the National
+Institutes of Health predoctoral level.
+
+Additional information on the research interests of the faculty in the
+Mind/Brain Institute and the Department of Neuroscience can be
+obtained at http://www.mb.jhu.edu/mbi.html and at
+http://www.med.jhu.edu/neurosci/welcome.html, respectively.
+
+Applicants should have a B.S. or B.A. with a major in any of the
+biological or physical sciences. Applicants are required to take the
+Graduate Record Examination (GRE; both the aptitude tests and an
+advanced test), or the Medical College Admission Test (MCAT). Further
+information on the admission procedure can be obtained from the
+Department of Neuroscience:
+
+Director of Graduate Studies
+Neuroscience Training Program
+Department of Neuroscience
+The Johns Hopkins University School of Medicine
+725 Wolfe Street 
+Baltimore, MD 21205
+
+Completed applications (including three letters of recommendation and
+either GRE scores or Medical College Admission Test scores) must be
+received by January 1, 1998 at the above address.
+
+
+
+-- 
+Ernst Niebur, PhD				Krieger Mind/Brain Institute
+Asst. Prof. of Neuroscience			    Johns Hopkins University
+niebur@jhu.edu					      3400 N. Charles Street
+(410)516-8643, -8640 (secr), -8648 (fax), -4357 (lab)	 Baltimore, MD 21218

@@ -1,0 +1,78 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jul  1 08:49:45 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA15023;
+	Thu, 1 Jul 1999 08:49:40 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa08411;
+          30 Jun 99 22:15 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08409;
+          30 Jun 99 22:01 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa25788;
+          30 Jun 99 22:01 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa29834; 30 Jun 99 6:28 EDT
+Received: from [141.163.11.5] by RI.CMU.EDU id aa09424; 30 Jun 99 6:28:06 EDT
+Received: from smccabe.plym.ac.uk (smccabe.soc.plym.ac.uk [141.163.210.98])
+	by hebe.soc.plym.ac.uk (8.8.8+Sun/8.8.8) with SMTP id LAA12127
+	for <Connectionists@cs.cmu.edu>; Wed, 30 Jun 1999 11:31:34 +0100 (BST)
+Message-Id: <1.5.4.32.19990630102753.00749220@soc.plym.ac.uk>
+X-Sender: suem@soc.plym.ac.uk
+X-Mailer: Windows Eudora Light Version 1.5.4 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Wed, 30 Jun 1999 11:27:53 +0100
+To: Connectionists@cs.cmu.edu
+From: Sue Denham <sue@soc.plym.ac.uk>
+Subject: Senior Lectureships / Readerships in Computational
+  Neuroscience and Neural Computation
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id IAA15023
+Status: RO
+X-Status: 
+
+University of Plymouth, UK
+School of Computing
+Centre for Neural and Adaptive Systems 
+
+Senior Lectureships / Readerships in Computational Neuroscience and Neural
+Computation
+
+Salary: £27998-£29600 pa (Senior Lecturer)
+
+Applications are invited for two newly-established, permanent
+research-related academic positions in the Centre for Neural and Adaptive
+Systems, a well-established research group which has an international
+reputation in the theory and computational modelling of neural systems.
+Applicants must have a very strong research record in either computational
+neuroscience or biologically inspired neural computation.
+
+Appointments will be made either to a Senior Lectureship (salary:
+£27998-£29600 pa), or to a Readership (salary: £27998-£35204 pa),
+depending on the current research standing of the appointee.
+
+Further information about the positions and the research activities of the
+Centre for Neural and Adaptive Systems can be obtained via e-mail or
+telephone, from Professor Mike Denham (mike@soc.plym.ac.uk; tel: +44 (0)1752
+232547).
+
+Applicants are invited to send, as soon as possible, a full curriculum
+vitae, together with details of their current research activities and future
+plans, to Professor Mike Denham by e-mail to the above  address, or by mail
+to University of Plymouth, Plymouth, PL4 8AA, UK.
+
+
+
+
+
+Dr Sue Denham
+Centre for Neural and Adaptive Systems
+School of Computing
+University of Plymouth
+Plymouth PL4 8AA
+England
+
+tel: +44 17 52 23 26 10
+fax: +44 17 52 23 25 40
+e-mail: sue@soc.plym.ac.uk
+http://www.tech.plym.ac.uk/soc/research/neural/index.html
+

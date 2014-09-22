@@ -1,0 +1,73 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Oct 11 04:07:34 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id EAA05558;
+	Mon, 11 Oct 1999 04:07:30 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02686;
+          10 Oct 99 20:20 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02684;
+          10 Oct 99 20:06 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04590;
+          10 Oct 99 20:06 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03235; 8 Oct 99 18:24 EDT
+Received: from pele.santafe.edu by edrc.cmu.edu id aa07221; 8 Oct 99 18:24 EDT
+Received: from [192.12.12.97] (mac8 [192.12.12.97])
+	by pele.santafe.edu (8.9.1/8.9.1) with ESMTP id QAA01886
+	for <connectionists@cs.cmu.edu>; Fri, 8 Oct 1999 16:24:23 -0600 (MDT)
+Mime-Version: 1.0
+X-Sender: cg@popserver.santafe.edu
+Message-Id: <v04011713b4241f474499@[192.12.12.97]>
+Date: Fri, 8 Oct 1999 16:23:28 -0600
+To: connectionists@cs.cmu.edu
+From: Christine Gonzales <cg@santafe.edu>
+Subject: Complex Systems Summer School, 2000
+Status: RO
+X-Status: 
+
+Santa Fe Institute Complex Systems Summer School, 2000
+June 4 to June 30, 2000 in Santa Fe, New Mexico USA
+
+An intensive four-week introduction to complex behavior in mathematical,
+physical and biological systems, intended for graduate students and
+postdoctoral fellows. No tuition is charged.
+
+The first week will consist of an intensive series of lectures,
+demonstrations, and experiments introducing some core ideas and tools of
+complex systems research. The topics will include experimental and
+theoretical nonlinear dynamics and pattern formation, statistical mechanics
+and stochastic processes, information theory and computation theory,
+adaptive computation, and computer modeling tools.  (Prior to week one,
+there may be an optional intensive two-day math review.)
+
+Weeks two and three will consist of short courses on current research in
+complex systems, and students will work on individual or team projects.
+
+Week four will be devoted to completion and presentation of student projects.
+
+Co-Directors: Raymond E. Goldstein, Physics and Applied Mathematics,
+University of Arizona; Melanie Mitchell, Biophysics, Los Alamos National
+Laboratory; and Lynn Nadel, Psychology, University of Arizona.
+
+Location: Held on the campus of the College of Santa Fe. Administered by
+the Santa Fe Institute.
+
+Application instructions: Provide a current resume with publications list
+(if available), statement of current research interests, comments about why
+you want to attend the school, and two letters of recommendation from
+scientists who know your work.  Include your e-mail address and fax number.
+Send only complete application packages by postal mail to:
+
+Summer School, Santa Fe Institute
+1399 Hyde Park Road
+Santa Fe, New Mexico USA 87501
+505-984-8800 ext. 235 (v); 505-982-0565 (fax)
+
+February 7, 2000 deadline.
+Women and minorities encouraged to apply.
+
+Further information at http://www.santafe.edu/sfi/education/indexCSSS.html
+or summerschool@santafe.edu
+Christine Gonzales
+(505) 984-8800 ext. 235
+Fax. 982-0565

@@ -1,0 +1,618 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Mar 16 10:04:20 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA05775;
+	Tue, 16 Mar 1999 10:04:14 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac05042;
+          16 Mar 99 1:34 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ac05040;
+          16 Mar 99 1:21 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12095;
+          16 Mar 99 1:20 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa20267; 15 Mar 99 16:18 EST
+Received: from cns.bu.edu by RI.CMU.EDU id aa05831; 15 Mar 99 16:18:03 EST
+Received: from retina.bu.edu (retina [128.197.61.93])
+	by cns.bu.edu ((8.8.8.buoit.v1.0)/8.8.8/(BU-S-10/08/98-v1.0)) with SMTP id QAA11005;
+	Mon, 15 Mar 1999 16:03:57 -0500 (EST)
+From: Cynthia Bradford <cindy@cns.bu.edu>
+Received: by retina.bu.edu (8.6.13/BU_Client-1.1)
+	id QAA12910; Mon, 15 Mar 1999 16:03:56 -0500
+Date: Mon, 15 Mar 1999 16:03:56 -0500
+Message-Id: <199903152103.QAA12910@retina.bu.edu>
+To: Connectionists@cs.cmu.edu
+Subject: Call for Registration
+Cc: cindy@cns.bu.edu
+Status: RO
+X-Status: 
+
+***** CALL FOR REGISTRATION ***** 
+               and          
+*****   COMPLETE PROGRAM *****
+
+
+THIRD INTERNATIONAL CONFERENCE ON COGNITIVE AND NEURAL SYSTEMS 
+
+Tutorials: May 26, 1999
+Meeting: May 27-29, 1999 
+
+Boston University
+677 Beacon Street
+Boston, Massachusetts 02215
+http://cns-web.bu.edu/meetings/
+
+Sponsored by Boston University's
+Center for Adaptive Systems
+and 
+Department of Cognitive and Neural Systems
+with financial support from DARPA and ONR 
+
+
+How Does the Brain Control Behavior?
+
+How Can Technology Emulate Biological Intelligence? 
+
+The conference will include invited tutorials and lectures, and
+contributed lectures and posters by experts on the biology and
+technology of how the brain and other intelligent systems adapt 
+to a changing world. The conference is aimed at researchers and 
+students of computational neuroscience, connectionist cognitive 
+science, artificial neural networks, neuromorphic engineering, 
+and artificial intelligence.
+
+A single oral or poster session enables all presented work to be
+highly visible.
+
+Costs are kept at a minimum without compromising the quality of
+meeting handouts and social events.
+
+SEE BELOW FOR THE COMPLETE MEETING SCHEDULE (printed after the
+registration form). 
+
+SEE THE WEB SITE FOR HOTEL AND OTHER CONFERENCE INFORMATION. 
+
+
+********************
+
+REGISTRATION FORM 
+
+Third International Conference on Cognitive and Neural Systems 
+
+Department of Cognitive and Neural Systems
+Boston University 
+677 Beacon Street 
+Boston, Massachusetts 02215 
+Tutorials: May 26, 1999
+Meeting: May 27-29, 1999 
+FAX: (617) 353-7755 
+http://cns-web.bu.edu/meetings/
+
+
+(Please Type or Print) 
+
+Mr/Ms/Dr/Prof: _____________________________________________________
+
+Name: ______________________________________________________________
+
+Affiliation: _______________________________________________________
+
+Address: ___________________________________________________________
+
+City, State, Postal Code: __________________________________________
+
+Phone and Fax: _____________________________________________________
+
+Email: _____________________________________________________________
+
+
+The conference registration fee includes the meeting program,
+reception, two coffee breaks each day, and meeting proceedings. 
+The tutorial registration fee includes tutorial notes and two 
+coffee breaks.
+
+
+CHECK ONE:
+
+(  )  $70 Conference plus Tutorial (Regular) 
+(  )  $45 Conference plus Tutorial (Student)  
+(  )  $45 Conference Only (Regular) 
+(  )  $30 Conference Only (Student) 
+(  )  $25 Tutorial Only (Regular) 
+(  )  $15 Tutorial Only (Student) 
+
+
+METHOD OF PAYMENT (please fax or mail):
+
+[   ] Enclosed is a check made payable to "Boston University". 
+      Checks must be made payable in US dollars and issued by 
+      a US correspondent bank. Each registrant is responsible 
+      for any and all bank charges.
+
+[   ] I wish to pay my fees by credit card 
+      (MasterCard, Visa, or Discover Card only).
+
+Name as it appears on the card: _____________________________________
+
+Type of card: _______________________________________________________
+
+Account number: _____________________________________________________
+
+Expiration date: ____________________________________________________
+
+Signature: __________________________________________________________
+
+********************
+
+
+MEETING SCHEDULE
+
+Wednesday, May 26, 1999 (Tutorials)
+
+ 7:45am---8:30am MEETING REGISTRATION
+ 8:30am--10:00am Stephen Grossberg:
+		 "Development, learning, attention, and grouping
+		  by the laminar circuits of visual cortex"
+10:00am--10:30am COFFEE BREAK
+10:30am--12:00pm Daniel Schacter:
+		 "True memories, false memories:
+		  A cognitive neuroscience perspective"
+12:00pm---1:30pm LUNCH
+ 1:30pm---3:00pm Gail Carpenter:
+		 "Adaptive resonance theory and practice"
+ 3:00pm---3:30pm COFFEE BREAK
+ 3:30pm---5:00pm Tomaso Poggio:
+		 "Supervised learning: Regularization and
+		  support vector machines"
+
+
+Thursday, May 27, 1999 (Invited Talks, Contributed Talks, and Posters)
+Session Chairs: Stephen Grossberg (AM) and Daniel Bullock (PM)
+
+ 7:15am---8:00am MEETING REGISTRATION
+ 7:55am---8:00am Stephen Grossberg:
+		 "Welcome and Introduction" 
+ 8:00am---8:45am Joseph LeDoux:
+		 "Learning about danger: Systems and synapses"
+ 8:45am---9:30am Joaquin Fuster:
+		 "The frontal lobe in temporal aspects of cognition"
+ 9:30am--10:15am John Lisman:
+		 "The role of theta-gamma oscillations in memory processes"
+10:15am--10:45am COFFEE BREAK AND POSTER SESSION I 
+10:45am--11:30am Michael Hasselmo:
+		 "Neuromodulation and cortical memory function:
+		  Physiology and computational modeling"
+11:30am--12:15pm Dario Floreano:
+		"Evolutionary cybernetics: Exploring the foundations
+		 of adaptive intelligence in biomimetic robots"
+12:15pm---1:00pm Paolo Gaudiano:
+		 "Visually guided navigation with autonomous mobile robots" 
+ 1:00pm---2:15pm LUNCH
+ 2:15pm---3:15pm PLENARY TALK: 
+		 Rodney Brooks:
+		 "Learning through social interaction: Robot implementations"
+ 3:15pm---3:30pm Hans Colonius and Petra Arndt:
+		 "Visual-auditory interaction in saccadic eye movements"
+ 3:30pm---3:45pm John A. Bullinaria, Patricia M. Riddell, and Simon K. Rushton:
+		 "Modelling development and adaptation of oculomotor control"
+ 3:45pm---4:00pm Antonio Guerrero, Juan Lopez, and Jorge Feliu:
+		 "Sensory-motor control architecture based on biological
+		  models for a stereohead"
+ 4:00pm---4:15pm Magnus Snorrason and Jeff Norris:
+		 "Vision based path planning for Martian terrain"
+ 4:15pm---4:30pm Philipp Althaus and Paul F.M.J. Verschure:
+		 "Distributed adaptive control 5: Bayesian theory of
+		  decision making, implemented on simulated and real robots"
+ 4:30pm---4:45pm Mark A. Kon and Leszek Plaskota:
+		 "Information complexity of neural networks"
+ 4:45pm---5:00pm C.H. Chen and Baoming Hong:
+		 "A high efficient face recognition technique based on
+		  multi-level feature representations and neural nets"
+ 5:00pm---5:30pm COFFEE BREAK 
+ 5:00pm---8:00pm POSTER SESSION I (see below for details)
+
+
+Friday, May 28, 1999 (Invited and Contributed Talks)
+Session Chairs: Gail Carpenter (AM) and Frank Guenther (PM)
+
+ 7:30am---8:00am MEETING REGISTRATION
+ 8:00am---8:45am Shihab Shamma:
+		 "Encoding of timbre in the auditory system"
+ 8:45am---9:30am Nobuo Suga:
+		 "Adjustment and improvement of auditory signal 
+		  processing by the corticofugal feedback system"
+ 9:30am--10:15am Stephen Grossberg:
+		 "Neural models of auditory and speech perception" 
+10:15am--10:45am COFFEE BREAK 
+10:45am--11:30am Steven Greenberg:
+		 "From sound to meaning: A syllable-centric perspective
+		  on spoken language"
+11:30am--12:15pm Larry Gillick:
+		 "The state of large vocabulary continuous speech recognition"
+12:15pm---1:00pm Andreas Andreou:
+		 "Neuromorphic VLSI microsystems for speech and 
+		  vision processing" 
+ 1:00pm---2:15pm LUNCH
+ 2:15pm---2:30pm James R. Williamson:
+		 "A hierarchical network for learning vernier discrimination"
+ 2:30pm---2:45pm Scott Oddo:
+		 "ARTMAP: Automated interpretation of Lyme IgG 
+		  Western Blots"
+ 2:45pm---3:00pm Artur Dubrawski and Dorota Daniecka:
+		 "Attribute selection for neural training of a breast
+		  cancer diagnosis system"
+ 3:00pm---3:15pm P. Niyogi, M.M. Sondhi, and C. Burges:
+		 "A computational framework for distinctive feature 
+		  based speech recognition"
+ 3:15pm---3:30pm Fatima T. Husain and Michiro Negishi:
+		 "Model of English vowel classification by Spanish speakers"
+ 3:30pm---3:45pm Nancy Chang:
+		 "Learning form-meaning mappings for language understanding"
+ 3:45pm---4:00pm L.M. Romanski and P.S. Goldman-Rakic:
+		 "An acoustically responsive domain in the prefrontal 
+		  cortex of the awake behaving Macaque monkey"
+ 4:00pm---4:30pm COFFEE BREAK 
+ 4:30pm---4:45pm R.M. Borisyuk, M.J. Denham, and F.C. Hoppensteadt:
+		 "An oscillatory model of novelty detection in the 
+		  hippocampus" 
+ 4:45pm---5:00pm M.J. Denham and R.M. Borisyuk:
+		 "An oscillatory model of the septal-hippocampal 
+		  inhibitory circuit and the modulation of hippocampal
+		  theta activity"
+ 5:00pm---5:15pm Simona Doboli, Ali A. Minai, and Phillip J. Best:
+		 "Context-dependent place representations in the
+		  hippocampus"
+ 5:15pm---5:30pm Jeffrey Krichmar, Theoden Netoff, and James Olds:
+		 "Place cells emerge in a network of simulated CA3
+		  pyramidal cells that receive robotic sensor input"
+ 5:30pm---5:45pm Oury Monchi and Michael Petrides:
+		 "Investigating various working memory components with a
+		  computational model of basal ganglia-thalamocortical loops"
+ 5:45pm---6:00pm Frank van der Velde and Marc de Kamps:
+		 "Locating a familiar object using feedback modulation"
+ 6:00pm---8:00pm MEETING RECEPTION
+
+
+Saturday, May 29, 1999 (Invited Talks, Contributed Talks, and Posters)
+Session Chairs: Eric Schwartz (AM) and Ennio Mingolla (PM) 
+
+ 7:30am---8:00am MEETING REGISTRATION
+ 8:00am---8:45am Charles Gilbert:
+		 "Adult cortical dynamics"
+ 8:45am---9:30am David van Essen:
+		 "Mapping and modeling of cortical structure and function"
+ 9:30am--10:15am Randolph Blake:
+		 "What can be perceived in the absence of visual awareness?"
+10:15am--10:45am COFFEE BREAK AND POSTER SESSION II 
+10:45am--11:30am Steven Zucker:
+		 "Complexity, confusion, and computational vision"
+11:30am--12:15pm Ennio Mingolla:
+		 "Cortical computation for attentive visual navigation:
+		  Heading, time-to-contact, and pursuit movements"
+12:15pm---1:00pm Richard Shiffrin:
+		 "A model for implicit and explicit memory" 
+ 1:00pm---2:15pm LUNCH
+ 2:15pm---3:15pm PLENARY TALK: 
+		 Shinsuke Shimojo:
+		 "Visual surface filling-in assessed by psychophysics
+		  and TMS (Transcranial Magnetic Stimulation)"
+ 3:15pm---3:30pm S.R. Lehky, T.J. Sejnowski, and R. Desimone:
+		 "Sparseness of coding in monkey striate complex cells:
+		  Data and modeling" 
+ 3:30pm---3:45pm R.D.S. Raizada and S. Grossberg:
+		 "How do preattentive grouping and attentive modulation 
+		  select object representations in the layers of 
+		  visual cortex?" 
+ 3:45pm---4:00pm Nikolaus Almassy, Gerald M. Edelman, and Olaf Sporns:
+		 "Function of long-range intracortical connections in 
+		  a model of the visual cortex embedded in a behaving 
+		  real-world device"
+ 4:00pm---4:15pm Thorsten Hansen, Karl O. Riedel, Luiz Pessoa, and
+		 Heiko Neumann:
+		 "Regularization and 2D brightness filling-in:
+		  Theoretical analysis and numerical simulations"
+ 4:15pm---4:30pm Daniel A. Pollen, Andrzej W. Przybyszewski, Warren
+		 Foote, and Mark A. Rubin:
+		 "Neurons in Macaque V4 respond strongly to stimulus
+		  discontinuities"
+ 4:30pm---4:45pm DeLiang L. Wang:
+		 "Object-based selection by a neural oscillator network"
+ 4:45pm---5:00pm Nilendu Gautambhai Jani and Daniel S. Levine:
+		 "A neural network theory of proportional analogy-making"
+ 5:00pm---5:30pm COFFEE BREAK 
+ 5:00pm---8:00pm POSTER SESSION II (see below for details)
+
+
+POSTER SESSION I: Thursday, May 27, 1999
+All posters will be displayed for the full day.
+
+Cognition, Learning, Recognition (B):
+ Brigitte Nevers and Remy Versace:
+	"Contributions of studies about the frequency effects in the
+	 processes of activation and integration of memory traces"
+ Gary C.-W. Shyi and Chang-Ming Lin:
+	"Computing representations for object recognition in visual
+	 search: An eye-movement analysis"
+ Emmet Spier:
+	"Cognition not needed: An associative model for the outcome
+	 devaluation effect" 
+ William Power, Ray Frank, Neil Davey, and John Done:
+	"A modular attractor model of semantic access"
+ Sylvain Hanneton, Olivier Gapenne, Christelle Genouel, Charles Lenay, 
+ and Catherine Marque:
+	"Dynamics of shape recognition through a minimal visuo-tactile
+	 sensory substitution interface"
+ Cristiane Salum, Antonio Roque da Silva, and Alan Pickering:
+	"Possible role of dopamine in learning and attention: 
+	 A computational approach"
+ C.-S.R. Li, Y.-Y. Yang, and H.-C. Chen:
+	"Sensory and spatial components of tactile extinction and 
+	 allesthesia in cortical and thalamic lesions"
+ Robert Homer and Bogdan Sasaran:
+	"The role of monoamine neurotransmitters in brain development 
+	 and mental illness: A neural network model"
+ G.J. Dalenoort and P.H. de Vries:
+	"Cognitive control and binding"
+ Stephen Grossberg and Dmitry V. Repin:
+	"How does the brain represent numbers?"
+ Julian Paul Keenan, John Ives, Qun Chen, Gottfried Schlaug,
+ Thomas Kauffman, David Bartres-Faz, and Alvaro Pascual-Leone:
+	"Mapping cortical networks via functional magnetic resonance
+	 imaging and transcranial magnetic stimulation: 
+	 Preliminary results"
+ Julian Paul Keenan, John Ives, Qun Chen, Gottfried Schlaug,
+ Thomas Kauffman, David Bartres-Faz, and Alvaro Pascual-Leone:
+	"Modulating cortical excitability using repetitive transcranial
+	 magnetic stimulation in a self-face study to examine the role
+	 of inhibition in the prefrontal cortex"
+
+
+Adaptive Resonance Theory (B + T):
+ Norbert Kopco, Peter Sincak, and Rudolf Jaksa:
+	"Methods for analysis and enhancement of neural network 
+	 classification of remotely sensed images"
+ Gail A. Carpenter and Matthew W. Giamporcaro:
+	"A computer game testbed for modeling strategic decision making"
+ Gail A. Carpenter, Sucharita Gopal, Scott Macomber, Byron Shock,
+ and Curtis E. Woodcock:
+	"ARTMAP neural network classification of land use change"
+ Marc-Andre Cantin, Eric Granger, and Yvon Savaria:
+	"Four implementations of the fuzzy Adaptive Resonance Theory
+	 (ART) neural network for high data throughput applications"
+ Luis Marti, Luciano Garcia, and Miguel Catasus:
+	"Continuous-valued function approximation by an ART-based
+	 neural network"
+ Mark A. Rubin and Aijaz Baloch:
+	"Demonstration of an ARTEX implementation for recognition 
+	 of visual textures"
+ Quanhong Wang:
+	"Tests of two theoretical explanations for the perceptual 
+	 interference effect: Adaptive Resonance Theory versus 
+	 competitive activation models"
+
+
+Neural and Hybrid Systems (B + T):
+ Hiroki Aoki and Toshimichi Saito:
+	"A SOM with virtual connection and its application to guess 
+	 of membership functions"
+ Hiroyuki Torikai and Toshimichi Saito:
+	"Basic functions from an integrate-and-fire circuit with 
+	 plural inputs"
+ Brian M. O'Rourke:
+	"Tactics for time series modeling with neural networks and
+	 fuzzy clustering"
+ Mark Plutowski:	
+	"Emotional processing: A framework for handling multiple
+	 motivations in autonomous software agents"
+ David V. Reynolds:
+	"Computer simulation of large-scale neural systems of pain
+	 and aggression based on fuzzy logic"
+ Rajat K. De:
+	"Artificial consciousness: Integration of knowledge-based and
+	 case-based approach in a neuro-fuzzy paradigm"
+ G.E. Campbell, W.L. Buff, and D.W. Dorsey:
+	"Decision making in a tactical setting: Crisp or fuzzy reasoning?"
+ Raj P. Malhotra and Yan M. Yufik:
+	"Virtual associative networks for complexity reduction in
+	 information fusion"
+
+
+Audition, Speech, and Language (B + T):
+ M.G. Srikanthan and R.J. Glover:
+	"Wavelet neural network based echolocation"
+ Barbara Shinn-Cunningham, Norbert Kopco, and Scott Santarelli:
+	"Computation of acoustic source position in near-field listening"
+ Lewis Meier:
+	"Application of computerized auditory scene analysis to 
+	 underwater acoustic signals"
+ Ivelin Stoianov:
+	"Recurrent autoassociative networks and sequential processing"
+ Susan L. Denham:
+	"Synaptic depression may explain many of the temporal response
+	 properties observed in primary auditory cortex: 
+	 A computational investigation"
+ Katja Wiemer-Hastings, Arthur C. Graesser, and Peter Wiemer-Hastings:
+	"Exploring effective linguistic context with feedforward 
+	 neural networks"
+
+
+VLSI:
+ Sorin Draghici and Thierry de Pauw:
+	"On the computational power of limited precision weights neural
+	 networks in classification problems: How to calculate the 
+	 weight range so that a solution will exist"
+ Catherine Breslin:
+	"Neuromorphic design by physical equivalence: Simple animal
+	 and neuron models"
+ Luca Marchese:
+	"Neuromorphic VLSI servers"
+ Todd Hinck, Howard Cohen, Gert Cauwenberghs, Allyn Hubbard,
+ and Andreas Andreou:
+	"Neuromorphic VLSI systems for boundary contour integration:
+	An interactive demonstration"
+ Gu Lin and Bingxue Shi:
+	"A programmable and expandable Hamming network integrated circuit" 
+
+
+Neural System Models (B + T):
+ Shinji Karasawa:
+	"Impulse recurrent loops for short-term memory which merges
+	 with experience and long-term memory"
+ F.E. Lauria, R. Prevete, M. Milo, and S. Visco:
+	"The Java package it.na.cy.nnet"
+ Dorian Aur and Teodora Ghioca:
+	"Neural network formation for cooperative bifurcation neurons"
+ Lumei Hui:
+	"Comparison between the two-dot method and the transparency
+	 method for the autostereogram perception"
+ Lydia N. Derkach:
+	"Cognitive neuropsychology: A synthesis of western and 
+	 eastern research"
+ J. Marro and J.J. Torres:
+	"Neural networks with coherent fluctuations of synapses"
+ Nils Hulth:
+	"Feature vector representations and individual scaling of
+	 prototype vectors"
+
+
+
+POSTER SESSION II: Saturday, May 29, 1999
+All posters will be displayed for the full day.
+
+Vision (B):
+ Drazen Domijan:
+	"Boundary computation, presynaptic inhibition, and 
+	 lightness perception"
+ Harald Ruda and Magnus Snorrason:
+	"Modeling time to detection for observers searching for
+	 targets in cluttered backgrounds"
+ Li-Yun Fu:
+	"A neuron filtering model for space- and time-varying 
+	 signal processing"
+ Sachin Ahuja and Bart Farell:
+	"Points, lines, and surfaces"
+ J.M. Harris and S.K. Rushton:
+	"An eccentric hemisphere explanation of visual search 
+	 for motion in depth?" 
+ Vinoth Jagaroo:
+	"A neuropsychological perspective of spatial reference frames:
+	 Implications for the modeling of high-level vision"
+ Jens Mansson:
+	"Contour enhancement by local iso-orientation-cooperation and
+	 texture suppression"
+ Thorsten Hansen and Heiko Neumann:
+	"Contrast processing and contour enhancement: A model of 
+	 recurrent long-range interactions in V1"
+ Wolfgang Sepp and Heiko Neumann:
+	"A hierarchical filling-in model for real-time brightness
+	 reconstruction"
+ Lynette Linden:
+	"Understanding image colors in phase space"
+ Raymond K. Chafin and Cihan H. Dagli:
+	"Biologically inspired connectionist models for image feature
+	 extraction in machine vision systems"
+ Mark Wexler, Francesco Panerai, and Jacques Droulez:
+	"Looking actively at Ames's window"
+ Lavanya Viswanathan, Stephen Grossberg, and Ennio Mingolla:
+	"Neural dynamics of motion grouping across apertures"
+
+
+Sensory-Motor Control (B):
+ Brad Rhodes and Daniel Bullock:
+	"A neural model for sequence learning and production"
+ Sally Bogacz and Willard Larkin:
+	"Motor control in fast musical passages"
+ Thomas J. Anastasio, Paul E. Patton, and Kamel Belkacem-Boussaid:
+	"Modeling multisensory enhancement in the superior colliculus
+	 using Bayes' rule"
+ J.E. Vos and J.J. van Heijst:
+	"A model of sensorimotor development using a neural network"
+ Greg T. Gdowski and Robert A. McCrea:
+	"Sensory signals carried by vestibulo-spinal and other 
+	 non-eye-movement related vestibular neurons during voluntary
+	 head movements"
+ Greg T. Gdowski and Robert A. McCrea:
+	"Sensory signals carried by the vestibular nuclei during 
+	 reflexive head movements evoked by whole body rotation" 
+ Jan G. Smits:
+	"Dependence of time constant for stroke recovery of 
+	 complexity of tasks"
+ M. Chen, C.-S.R. Li, Y.-Y. Yang, C.-Y. Liu, H.-L. Chang,
+ C. Shen, Y.-M. Chuang, and L.-Y. Kao:
+	"Perceptual alternation in obsessive compulsive disorder:
+	 Implications for the functions of the frontostriatal circuitry"
+
+
+Sensory-Motor Control (T) and Robotics (T):
+ John R. Alexander Jr.:
+	"Timing problems of neural control circuits"
+ F. Panerai, G. Metta, and G. Sandini:
+	"An artificial vestibular system for reflex-control of robot
+	 eye movements"
+ Michail G. Lagoudakis and Anthony S. Maida:
+	"A polar neural map for mobile robot navigation"
+ G. Baratoff, C. Toepfer, and H. Neumann:
+	"Combining space-variant maps for flow-based obstacle detection
+	 and body-scaled free-space navigation"
+ Angelo Arleo and Wulfram Gerstner:
+	"Spatial models and autonomous navigation in neuro-mimetic systems"
+ Giorgio Metta, Giulio Sandini, Riccardo Manzotti, and Francesco Panerai:
+	"Learning eye-head-hand coordination: A developmental approach"
+ S. Srinivasan and A. Bradley:
+	"Sequential task execution in a prosthetic limb using an 
+	 artificial neural network"
+
+
+Neural and Hybrid Systems (B + T):
+ Raymond Pavlovski and Majid Karimi:
+	"Control of basins of attraction in a self-trapping neural 
+	 network with near-neighbor synapses"
+ Anatoli Gorchetchnikov:
+	"The level of suppression in feedback connections required for
+	 learning depends primarily on intracellular parameters"
+ David Vogel:
+	"A partial model of cortical memory"
+ Chun-Kam Horng and Chin-Ming Hong:
+	"Learning efficiency improvement of CMAC neural network by
+	 Gaussian basis function"
+ Ana Madevska and Dragan Nikolic:
+	"Automatic classification with support vector machines in
+	 molecular biology"
+ Alex Heneveld:
+	"A plausible neural network architecture: Temporal Hebbian
+	 inhibit-undesireds"
+ M. Mar Abad Grau and Luis Daniel Hernandez Molinero:
+	"Context-specific neural network feature selector with 
+	 missing data"
+ Per Jesper Sjostrom and Lars Ulrik Wahlberg:
+	"Automated cell recognition and counting based on a 
+	 combination of artificial neural networks and standard
+	 image analysis methods"
+ Rafal Bogacz and Marcin Chady:
+	"Local connections in a neural network improve pattern completion"
+ Andrea Corradini:
+	"Automatic posture recognition in color images using 
+	 hybrid neural networks"
+
+
+Neural System Models (B + T):
+ Wei Cao, SongNian Yu, and William Gregory:
+	"New approach for measuring complexity of linear-inseparable
+	 multidimensional data patterns"
+ Zhe Chen:
+	"The application of wavelet neural network for time series
+	 prediction and system modeling based on multiresolution learning"
+ Maria Alvarez Florendo and Anthony Roland Florendo:
+	"Solutions to the binary addition, parity and symmetry problems
+	 using feedforward networks with inhibitory lateral connections"
+ J.R.C. Piqueira, F.M. Formagin, L.H.A. Monteiro, and J.S. Del Nero:
+	"Full connected phase locked loops as a model for synchronizing 
+	 neuron sets"
+ Steven Lehar:
+	"The Gestalt principle of isomorphism and the perceptual 
+	 representation of space"
+ Gu Lin and Bingxue Shi:
+	"A programmable and expandable fuzzy recognition integrated circuit"
+ Boris Galitsky:
+	"How the logic of mental attributes models the autism" 
+
+********************

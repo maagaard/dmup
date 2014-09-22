@@ -1,0 +1,358 @@
+
+
+From ebert@cs.umbc.edu Fri Oct 10 18:50:24 MET 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id SAA16324 for <fnielsen@eivind.imm.dtu.dk>; Fri, 10 Oct 1997 18:50:22 +0200 (METDST)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id MAA29234;
+	Fri, 10 Oct 1997 12:47:48 -0400 (EDT)
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.7/8.8.6) id MAA17472;
+	Fri, 10 Oct 1997 12:47:41 -0400 (EDT)
+Date: Fri, 10 Oct 1997 12:47:41 -0400 (EDT)
+Message-Id: <199710101647.MAA17472@dogbert.cs.umbc.edu>
+From: ebert@cs.umbc.edu (David S. Ebert)
+To: fnielsen@eivind.imm.dtu.dk (Finn Arup Nielsen)
+Cc: ebert@cs.umbc.edu (David S. Ebert)
+Subject:  CIKM'97 Workshop on New Paradigms in Information Visualization and Manipulation
+Status: RO
+X-Status: A
+
+
+Dear Finn Arup Nielsen:
+
+
+Thank you for your interest in the CIKM Workshop on New Paradigms in
+Information Visualization and Manipulation.  On behalf of the
+Organizing Committee, we invite you to participate in the workshop and
+present your paper.  If you wish to revise your paper for the on-site
+workshop printed version, the new version is due on Friday October 24,
+1997 at the following address:
+
+	Dr. David S. Ebert
+	Computer Science & Electrical Engineering Department
+	ECS 210
+	University of Maryland Baltimore County
+	1000 Hilltop Circle
+	Baltimore, MD 21250 
+	(410) 455-3541
+
+After the conference, you will have a short period of time to revise
+your paper for printing in the ACM Workshop Proceedings.  The workshop
+agenda is in preparation, and will be released via e-mail and WWW
+within the next few weeks.  Of the 32 papers submitted, 20 were
+accepted. We will produce a printed proceedings which will include the
+presented papers. If you'd like to send a revised version of your
+paper, please do so by October 24.
+
+
+This invitation is also extended to any colleagues that you are working
+with, but please contact us to let us know exactly who will be attending. 
+(Each participant will be expected to register.)
+
+
+The workshop will be held at the Monte Carlo Hotel, Las Vegas, Nevada, on 
+November 13 and 14, 1997.
+
+The deadline for advance registration for CIKM'97 is October 15.
+Registration can be done by mail, e-mail or fax with the details described
+in the registrations forms (see below).  The deadline for getting the
+special conference rate at the hotel is October 11. We suggest you
+make your reservation even if your travel plans are not yet set. Be
+sure to mention the CIKM'97 conference get the (lowest available) rate
+ plus tax for Nov 9-13,  plus tax for Nov. 14 and 15. 
+After October 11, the hotel will accept reservations 
+at the conference rate only on a space-available basis. 
+
+For more information, including conference and workshop registration, 
+please see the CIKM'97 Web page:
+
+http://enws396.eas.asu.edu/cikm97/cikm97.html
+
+We look forward to a stimulating workshop and hope to see you in
+Las Vegas!
+
+Sincerely,
+
+David Ebert
+Charles Nicholas
+Computer Science & Electrical Engineering Department
+ECS 210
+University of Maryland Baltimore County
+1000 Hilltop Circle
+Baltimore, MD 21250
+USA
+Email:  {ebert, nicholas}@cs.umbc.edu
+Voice:  (410) 455-3541
+FAX:    (410) 455-3969
+
+
+          ACM CIKM'97 and Workshops Registration Form (For NPIVM'97)
+  Sixth International Conference on Information and Knowledge Management
+     November 10 - 14, 1997, Monte Carlo Hotel, Las Vegas Nevada, USA
+                 Sponsored by ACM, ACM SIGART and ACM SIGIR 
+
+Please complete this form (TYPE or PRINT), and return with your payment to the
+address given below (Please copy this form for additional attendees).
+
+Your paper number, if any:__________________________
+
+Your paper title, if any:_____________________________________________________
+
+______________________________________________________________________________
+
+     Paper authors:___________________________________________________________
+
+
+Your
+First Name:_________________________ Last Name:_______________________________
+
+Title (Dr/Mr/Ms/Prof.):_____ Position:________________________________________
+
+Company/Univ.:___________________________________ Dept.:______________________
+
+Address:______________________________________________________________________
+
+City:_______________________________ State:_____ Zip/Postal Code:_____________
+
+Country:______________________ Phone:_________________________________________
+
+Fax:__________________________________E-mail:_________________________________
+
+==============================================================================
+
+ADVANCE RATE(Registration form and payment received by Oct. 10, 1997):
+
+CIKM97 Reg. Fee:
+                   ACM
+               ____Member($350.00) ____Non-Member($400.00) ___Student($250.00) 
+
+
+Tutorial Reg. Fee:
+                   ACM
+(each half day)____Member($200.00) ____Non-Member($250.00) ___Student($125.00)
+
+(each one day) ____Member($300.00) ____Non-Member($350.00) ___Student($220.00)
+
+        Circle your choice: T1  T2  T3  T4  T5  T6  T7  T8  T9 (see below for
+                                                               tutorial titles)
+
+Workshop Reg. Fee:
+                   ACM
+         (each)____Member($325.00) ____Non-Member($375.00) ___Student($250.00)
+ 
+      Circle your choice: W1(GIS97)  W2(NPIVM97) (see below for workshop titles)
+       
+===============================================================================
+
+LATE/ONSITE RATE (Received AFTER October 6, 1997):
+
+CIKM97 Reg. Fee:        
+                   ACM
+               ____Member($400.00) ____Non-Member($450.00) ___Student($275.00)
+
+Tutorial Reg. Fee:       
+                   ACM
+(each half day)____Member($250.00) ____Non-Member($300.00) ___Student($150.00)
+
+(each one day) ____Member($350.00) ____Non-Member($400.00) ___Student($250.00)
+
+        Circle your choice: T1  T2  T3  T4  T5  T6  T7  T8  T9 (see below for
+                                                               tutorial titles)
+
+Workshop Reg. Fee:
+                   ACM
+         (each)____Member($375.00) ____Non-Member($425.00) ___Student($275.00)
+
+      Circle your choice: W1(GIS97)  W2(NPIVM97) (see below for workshop titles)
+
+-------------------------------------------------------------------------------
+
+Total Reg. Fees (from above)                $_______________
+Extra Page Charge:(US$150.00 per page)      $_______________
+Extra Conf. Reception Tickets: ($40/each)   $_______________
+Extra Conf. Banquet Tickets: ($50/each)     $_______________
+Extra copy of conf. proceedings: ($50/each) $_______________
+Extra Workshop Reception Tickets:($40/each) $_______________
+
+                     Total Fees Enclosed: US$_____________________ 
+                            ** Make check/money order payable to ACM/CIKM97 **
+
+Check method of payment: ___Check/money order (payable to ACM/CIKM97)
+
+                         ___Company Purchase Order number:_____________________
+                            (we accept P.O only from companies in USA and 
+                             "ONSITE RATE" (see above) is applied to each P.O)
+
+Signature:________________________________________ Date:_______________________
+
+
+ACM membership number (required for member rate):______________________________
+
+
+* Please let us know if you are or not planning to attend any of the following
+  events (please put "yes" or "no"): 
+      ________________________________________________________________________
+     |                                        | WILL ATTEND | WILL NOT ATTEND |
+     |________________________________________|_____________|_________________|
+     |Nov. 10   Reception 6:30-8:00PM         |             |                 |
+     |----------------------------------------|-------------|-----------------|
+     |Nov. 11   Banquet   7:00-10:00PM        |             |                 |
+     |----------------------------------------|-------------|-----------------|
+     |Nov. 13   Workshop Reception (Workshop  |             |                 |
+     |          attendees only) 6:30-8:00PM   |             |                 |
+     |________________________________________|_____________|_________________|
+
+
+* TUTORIALS:
+
+Half Day Tutorials (Monday, Nov. 10, 1997):
+-------------------------------------------
+
+ T1. Models in Information Retrieval (Morning, Nov. 10)
+       Fredric C. Gey, Ph. D., University of  California
+
+ T2. New Trends in Information Discovery on the Web (Morning, Nov. 10)
+       Chaitanya Baru, Ph. D.
+       Richard Marciano, Ph. D.
+       San Diego Supercomputer Center
+
+ T3. Data Warehousing and OLAP for Decision Support: Foundations and Techniques
+     (Afternoon, Nov. 10)
+       Laks V. S. Lakshmanan, Associate Professor, Concordia University
+       Raymond Ng, Professor, Univ. British Columbia
+
+ T4. Software Agents For Information Retrieval (Afternoon, Nov. 10)
+       T. Finin, C. Nicholas and  J. Mayfield, UMBC
+
+One Day (Two Half Day) Tutorials (Monday, Nov. 10, 1997):
+---------------------------------------------------------
+
+ T5. Multimedia Database Systems
+       V. S. Subrahmanian, Prof., University of Maryland
+
+Half Day Tutorials (Thursday, Nov. 13, 1997):
+---------------------------------------------
+
+ T6. Information Security  (Morning, Nov 13)
+       F. Golshani, Prof.  Arizona State University
+
+One Day (Two Half Day) Tutorials  (Thursday, Nov. 13, 1997):
+------------------------------------------------------------
+
+ T7. OLAP and Statistical Databases  (CANCELED !!!!!!!!!!!!!)
+       F. Olken, Lawrence Berkeley National Laboratory
+
+Half Day Tutorials (Friday, Nov. 14, 1997):
+---------------------------------------------
+
+ T8. Coordination Technology and Workflow Management (Morning, Nov. 14)
+      Frank von Martial, T-Mobil, Germany
+
+ T9. Object-oriented Enterprise Frameworks (Afternoon, Nov. 14)
+      Mohamed E. Fayad, University of Nevada
+
+
+* WORKSHOPS:
+
+  W1:  GIS'97 - Advances in Geographic Information Systems
+
+  W2:  NPIVM'97 - New Paradigms in Information Visualization and Manipulation
+
+  ** Both GIS'97 and NPIVM'97 are two-day workshops (on Nov. 13 - 14, 1997). 
+
+
+* (FOR AUTHORS ONLY):  
+
+  Primary Author is responsible/liable for full registration fees for the 
+  accepted paper and at least one author per accepted paper (if not the primary
+  author) must register by the camera-ready paper deadline set by the Program
+  Chair, (or the paper will be excluded from the proceedings) and this is not 
+  refundable at any cases and the registered author, one per paper, must come 
+  and give presentation. The proceedings will only be distributed and can be 
+  picked on site (there will be extra handling/shipping/mailing charges of 
+  $200.00 if it needs to be mailed to any paid registrants with "no show"). 
+
+  AUTHORS must return camera-ready paper along with ACM copyright form to 
+  Program Chair of NPIVM'97 by the deadline given by the Program Chair. The 
+  REGISTRATION FORM with payment, one per accepted paper, must be mailed to 
+  NPIVM'97 Treasurer, Dr. EK Park (see below for address) by the   
+  camera-ready paper submission deadline set by the Program Chair.
+
+  The maximum length is 4 pages for each accepted paper with a registration.
+  Authors can buy up to 2 extra pages at a cost of U.S. $150.00 per extra page
+  (so total length limit is 6 pages per paper if you buy extra pages). 
+
+
+* (FOR NON-AUTHORS and REGULAR ATTENDEES):
+
+  Send this two-page registration form with payment (in US Dollars ONLY and make 
+  checks or money order payable to "ACM NPIVM97") to:
+         
+              Dr. EK Park
+              Re: ACM CIKM/NPIVM'97
+              Computer Science Telecommunications
+              University of Missouri - Kansas City
+              4747 Troost Ave., Room 207
+              Kansas City, MO 64110 USA
+              (816)235-1497; (816)235-5159(fax); ekpark@cstp.umkc.edu 
+
+* (FOR ALL):
+
+  The conference registration fee covers a copy of proceedings, conference
+  reception, refreshments during the conference, and the dinner banquet. 
+  Additional reception and banquet tickets can be purchased. Each tutorial and
+  workshop registration fee is indicated above and can be registered with one 
+  single registration form.
+
+  All payments must be in U.S. dollars. All checks or money orders from banks 
+  outside the United States should be cashable at a branch of that bank in the
+  United States or at any U.S. bank. If you send us check or money order, it 
+  should have complete "micro encoding line" at the bottom of it (ask your 
+  bank about this). You can also send Traveler's check of American Express or 
+  Visa or MasterCard (be sure that you sign each check and make it payable to 
+  "ACM CIKM/NPIVM97"). We accept purchase orders from U.S. organizations only 
+  and ONSITE RATE is applied to each purchase order. We DO NOT accept any other 
+  form of payments (no credit cards). You are responsible for paying fees to
+  get the check or money order. Student rate attendees must have proper ID.
+
+  ACM CIKM97/Tutorials/Workshops will be held at: 
+                                Monte Carlo Hotel
+                                3770 Las Vegas Boulevard, South
+                                Las Vegas, Nevada 89109 USA
+                                Phone: (702) 730-7777; 702-730-7250(fax)
+  Room Rate: $69.00. All room rates are net per room, per night, single or 
+  double occupancy plus taxes for Nov. 9, 1997 through Nov. 13, 1997. If you 
+  arrive on Nov. 8, 1997 (Saturday), the rate for the Saturday is applied
+  and it is higher.
+
+  Individuals to make their own reservations by calling 1-800-311-8999 (or 
+  702-730-7777), and use the group name "CIKM97" to receive CIKM97 rate. 
+  Individuals are on their own for payment of room, tax and any incidental 
+  charges. All reservations must be made prior to the Cut-off date of 
+  October 11, 1997. All reservations must be guaranteed for late arrival by 
+  a valid credit card or an advance deposit of one night's room and tax. 
+  Check-in time is 3:00PM.
+         
+  Acknowledgement of receipt of the registration form with payment will be 
+  sent out by e-mail only if you provide your e-mail address. Conference 
+  registration materials including receipts and proceedings can be picked up
+  only at the registration desk on site (there will be extra handling/shipping
+  /mailing charges of $200.00 if it needs to be mailed to any paid registrants 
+  with "no show"). 
+
+  Refund Policy: Paid registrants who cannot attend, and do not send a 
+  substitute, are entitled to a refund of paid fees (less a US$200.00 
+  processing fee) if a request is received in writing on or before October 13, 
+  1997. Registrants are liable for their full fees after that date (i.e., 
+  NO Refund will be made !!). All no-show registrations will be billed in full.
+  
+  If you have any questions contact appropriate person: on registrations 
+  (Dr. Park: ekpark@cstp.umkc.edu); on technical programs (Program Chair of 
+  NPIVM97); on other workshop NPIVM97 related matters (Dr. Charles Nicholas:
+  nicholas@cs.umbc.edu).
+
+  Please visit our WWW site for up-to-date CIKM97 program information and 
+  related activities: URL: http://www.arian.eas.asu.edu/cikm97/cikm97.html
+
+
+

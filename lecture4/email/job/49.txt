@@ -1,0 +1,141 @@
+
+
+From mps@imm.dtu.dk  Wed Jan 13 13:59:20 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id NAA22717;
+	Wed, 13 Jan 1999 13:59:15 +0100 (MET)
+Received: from serv7.imm.dtu.dk (mps@serv7.imm.dtu.dk [130.225.85.4])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id NAA13385;
+	Wed, 13 Jan 1999 13:56:30 +0100 (MET)
+Received: (from mps@localhost)
+	by serv7.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id NAA01298;
+	Wed, 13 Jan 1999 13:56:30 +0100 (MET)
+Date: Wed, 13 Jan 1999 13:56:30 +0100 (MET)
+From: Mads Peter Soerensen <mps@imm.dtu.dk>
+Message-Id: <199901131256.NAA01298@serv7.imm.dtu.dk>
+Subject: PhD position on neural networks
+To: vip_at_imm@serv7.imm.dtu.dk, phd_at_imm@serv7.imm.dtu.dk
+Cc: mps@serv7.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-MD5: NGVG2EDgfgbWt2YDFxN0Uw==
+Status: RO
+X-Status: 
+
+
+Kaere Alle,
+
+Jeg har faaet vedlagte annoncering om et post. doc. indenfor
+statistik og neurale netvaerk.
+
+Med venlig hilsen
+Mads
+lok 3094
+
+
+
+------------- Begin Forwarded Message -------------
+
+>From dstb-owner@list.adm.ku.dk Wed Jan 13 12:50:09 MET 1999
+Received: from quark.adm.ku.dk (quark.adm.ku.dk [130.225.127.5])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id MAA10453;
+	Wed, 13 Jan 1999 12:50:08 +0100 (MET)
+Received: (from majordom@localhost)
+	by quark.adm.ku.dk (8.9.2/8.9.0) id MAA19794
+	for dstb-outgoing; Wed, 13 Jan 1999 12:45:38 +0100 (MET)
+X-Authentication-Warning: quark.adm.ku.dk: majordom set sender to 
+owner-dstb@quark.adm.ku.dk using -f
+Received: from kompleks.nbi.dk (kompleks.nbi.dk [130.225.212.54])
+	by quark.adm.ku.dk (8.9.2/8.9.0) with ESMTP id MAA19789
+	for <dstb@list.adm.ku.dk>; Wed, 13 Jan 1999 12:45:30 +0100 (MET)
+Received: from m1.cs.man.ac.uk (0@m1.cs.man.ac.uk [130.88.192.2])
+	by kompleks.nbi.dk (8.8.8/8.8.8) with ESMTP id LAA22941;
+	Wed, 13 Jan 1999 11:29:31 +0100 (MET)
+Received: from t8.cs.man.ac.uk. by m1.cs.man.ac.uk (8.8.8/AL/MJK-2.0)
+	id KAA23892; Wed, 13 Jan 1999 10:29:29 GMT
+Received: from rdf020 by t8.cs.man.ac.uk.; Wed, 13 Jan 1999 10:29:27 GMT
+Message-ID: <369C7586.13728473@cs.man.ac.uk>
+Date: Wed, 13 Jan 1999 10:29:26 +0000
+From: Magnus Rattray <magnus@cs.man.ac.uk>
+Organization: Computer Science Department, University of Manchester
+X-Mailer: Mozilla 3.0 (X11; I; SunOS 4.1.4 sun4c)
+MIME-Version: 1.0
+To: nonlin_net@complex.nbi.dk, biophys_world@complex.nbi.dk,
+        students_dis@complex.nbi.dk, connect_dis@complex.nbi.dk
+Subject: PhD position on neural networks
+Content-Type: text/plain; charset=us-ascii; name="advert.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="advert.txt"
+Sender: owner-dstb@adm.ku.dk
+Precedence: bulk
+Content-Length: 3133
+Status: RO
+
+---------------------------------------------------------------------
+PhD studentship: Statistical Mechanics Analysis of Natural Gradient
+		 Learning
+---------------------------------------------------------------------
+
+Applications are sought for a three year PhD position to study natural
+gradient learning using the methods of statistical mechanics and
+stochastic dynamical systems. The position will be supported by an
+EPSRC studentship and based in the computer science department at
+Manchester University, which is one of the largest and most successful
+computer science departments in the UK. Living expenses will be paid
+according to current EPSRC rates (19635 pounds over three years) with
+substantial extra funding available for participation at international
+conferences and workshops.
+
+Project description:
+
+Natural gradient learning was recently introduced as a principled
+algorithm for determining the parameters of a statistical model
+on-line. The algorithm has been applied to feed-forward neural
+networks, independent component analysis and deconvolution algorithms,
+often providing much improved performance over existing methods. The
+algorithm uses an underlying Riemannian parameter space to re-define
+the direction of steepest descent and respects certain
+invariances which should be observed by any consistent
+algorithm. Natural gradient learning is known to provide optimal
+asymptotic performance under certain restricted conditions but a
+good general understanding of the non-asymptotic learning performance is
+not yet available. This is really the regime which we expect to
+dominate the learning time and recent work by the project supervisor
+and co-workers [1,2] provides some quantification of the advantage
+which can be expected over other algorithms. This analysis involves a
+statistical mechanics formalism which allows an exact solution to
+learning dynamics for learning in a feed-forward neural network. The
+proposed project will build on these initial results in order to
+characterize the behaviour of natural gradient learning with greater
+generality. The project will also explore other applications of
+information geometry to probabilistic modelling.
+
+This project will touch on many interesting mathematical topics
+(information theory, differential geometry, statistical mechanics and
+stochastic dynamical systems) and application areas (optimization,
+neural networks, probabilistic modelling). Prospective candidates
+would ideally be interested in a number of these topics. A good first
+degree in physics, mathematics or a related subject is required.
+
+Contact:  Magnus Rattray (magnus@cs.man.ac.uk)
+	  Computer Science Department,
+	  University of Manchester,
+	  Manchester M13 9PL, UK.
+	  Tel +44 161 275 6187.
+	  http://www.cs.man.ac.uk/~magnus/magnus.html
+
+References:
+
+[1] M Rattray, D Saad, S Amari, "Natural Gradient Descent for On-line
+Learning", Physical Review Letters 81, p5461 (1998).
+
+[2] M Rattray, D Saad, "Transients and Asymptotics of Natural Gradient
+Learning", Proceeding of ICANN 98, edited by L Niklasson, M Boden and
+T Ziemke (Springer-Verlag, London), p165 (1998).
+
+
+	
+
+
+------------- End Forwarded Message -------------

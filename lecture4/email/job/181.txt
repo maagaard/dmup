@@ -1,0 +1,46 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Sep 10 02:28:38 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA12017;
+	Fri, 10 Sep 1999 02:28:27 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16750;
+          9 Sep 99 18:16 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16748;
+          9 Sep 99 18:01 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09701;
+          9 Sep 99 18:00 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa09627; 9 Sep 99 13:41 EDT
+Received: from swift.cvs.rochester.edu by edrc.cmu.edu id aa28287;
+          9 Sep 99 13:41 EDT
+Received: from [128.151.80.12] (barba.cvs.rochester.edu [128.151.80.12])
+	by swift.cvs.rochester.edu (8.8.5/8.8.5.3) with ESMTP id NAA28526
+	for <connectionists@cs.cmu.edu>; Thu, 9 Sep 1999 13:41:01 -0400 (EDT)
+Message-Id: <v04011708b3fda184cadd@[128.151.80.12]>
+Date: Thu, 9 Sep 1999 13:42:19 -0400
+To: connectionists@cs.cmu.edu
+From: Barbara Arnold <barba@cvs.rochester.edu>
+Subject: Faculty Position Open
+Status: RO
+X-Status: 
+
+Assistant Professor in Visual Neuroscience.  The University of Rochester
+has available a tenure-track position for a neuroscientist working in the
+visual system. The successful candidate will have a primary appointment in
+the Department of Brain and Cognitive Sciences
+(http://www.bcs.rochester.edu ) and will be a member of the Center for
+Visual Science (http://www.cvs.rochester.edu), a strong, university-wide
+community of 27 faculty engaged in vision research.  Applicants should
+submit a curriculum vitae, a brief statement of research and teaching
+interests, reprints and three reference letters to:
+David R. Williams, Director Center for Visual Science, University of
+Rochester, Rochester, NY 14627-0270.  Application review begins December 1,
+1999.  The University of Rochester is an equal opportunity employer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Barbara N. Arnold
+Administrator                            email: barba@cvs.rochester.edu
+Center for Visual Science                phone: 716 275 8659
+University of Rochester                    fax: 716 271 3043
+Meliora Hall 274
+Rochester NY 14627-0270
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

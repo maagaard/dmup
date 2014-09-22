@@ -1,0 +1,63 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jan  7 07:53:26 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA27469;
+	Thu, 7 Jan 1999 07:53:18 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15989;
+          7 Jan 99 0:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15986;
+          7 Jan 99 0:43 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14758;
+          7 Jan 99 0:43 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11563; 6 Jan 99 7:22 EST
+Received: from keter.phys.huji.ac.il by RI.CMU.EDU id aa01191;
+          6 Jan 99 7:22:01 EST
+Received: from yesod.huji.ac.il (yesod.fiz.huji.ac.il) by keter.fiz.huji.ac.il with SMTP id AA10980
+  (5.65c/HUJI 4.143 for <connectionists@cs.cmu.edu>); Wed, 6 Jan 1999 14:20:25 +0200
+Message-Id: <00e201be396f$0f516c20$85504084@yesod.huji.ac.il>
+From: Haim Sompolinsky <haim@fiz.huji.ac.il>
+To: connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Postdoc position at Hebrew University
+Date: Wed, 6 Jan 1999 14:21:16 +0200
+Status: RO
+X-Status: 
+
+
+POST-DOCTORAL POSITION AVAILABLE
+
+
+The Neural Computational Theory Group in the Racah Institute of Physics 
+at the Hebrew University of Jerusalem has a post-doctoral position open, 
+beginning in the fall of 1999. The position will involve working on 
+theoretical problems in two areas:
+
+    1.. Supervised and unsupervised learning
+
+    2.. Modeling visual and motor processing in cortical and subcortical 
+neuronal structures
+
+The work to be done in the area of modeling is expected to involve 
+interaction with experimental groups, which are part of the 
+Interdisciplinary Center for Neural Computation at the Hebrew 
+University.
+
+Candidates with a strong background in statistical mechanics, in neural 
+network theory, or in computational neuroscience are encouraged to 
+apply. Those interested should send an application letter along with CV, 
+publications list, brief research statement, and three letters of 
+recommendation to Professor Haim Sompolinsky. The position will be for 
+one year, with the possibility for an extension of up to three years.
+
+Airmail submissions: 
+  Professor Haim Sompolinsky
+  Racah Institute of Physics
+  Hebrew University of Jerusalem
+  Givat Ram
+  Jerusalem 91904
+  ISRAEL
+
+Fax submissions: 972-2-6584437
+
+Email submissions: haim@fiz.huji.ac.il

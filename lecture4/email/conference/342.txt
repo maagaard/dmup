@@ -1,0 +1,124 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Nov 27 13:29:09 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id NAA01295;
+	Sat, 27 Nov 1999 13:29:05 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29299;
+          26 Nov 99 15:37 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29297;
+          26 Nov 99 15:31 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13409;
+          26 Nov 99 15:31 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab07071; 26 Nov 99 13:30 EST
+Received: from mercure.IRO.UMontreal.CA by ri.cmu.edu id aa06436;
+          26 Nov 99 13:29 EST
+Received: from grosse.IRO.UMontreal.CA (grosse.IRO.UMontreal.CA [132.204.26.57])
+	by mercure.IRO.UMontreal.CA (8.9.3/8.9.3) with ESMTP id NAA03823;
+	Fri, 26 Nov 1999 13:29:46 -0500
+Received: (from bengioy@localhost)
+	by grosse.IRO.UMontreal.CA (8.9.1/8.9.1) id NAA14842;
+	Fri, 26 Nov 1999 13:29:46 -0500 (EST)
+Message-ID: <19991126132945.48542@IRO.UMontreal.CA>
+Date: Fri, 26 Nov 1999 13:29:45 -0500
+From: Yoshua Bengio <bengioy@IRO.UMontreal.CA>
+To: connectionists@cs.cmu.edu
+Cc: dale@cs.uwaterloo.ca
+Subject: call for presentations / April Workshop on selecting and combining models
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+X-Mailer: Mutt 0.69
+X-MIME-Autoconverted: from 8bit to quoted-printable by mercure.IRO.UMontreal.CA id NAA03823
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id NAA01295
+Status: RO
+X-Status: 
+
+
+--------------------------------------------------------------------
+
+             Call for Presentations: CRM Workshop on 
+
+ Selecting and Combining Models with Machine Learning Algorithms 
+
+                          April 12-14, 2000
+		 Centre de Recherches Mathematiques
+                             Montreal
+
+Organizers: Yoshua Bengio (Universite de Montreal) and 
+            Dale Schuurmans (University of Waterloo)
+
+A central objective of machine learning research is to develop
+algorithms that learn predictive relationships from data.  This is a
+central component of data mining and knowledge discovery tasks, which
+are becoming commonplace applications in the realm of e-commerce.
+This is a difficult task, however, because inferring a predictive
+function from data is in fact an "ill-posed" problem; that is, many
+functions can often "fit" a given finite data set, and yet these
+functions might generalize very differently on new data drawn from the
+same distribution.
+
+To make this problem well-posed one needs to somehow "calibrate" the
+complexity of the proposed function class to the amount and quality of
+available sample data.  A classical approach is to perform "model
+selection" where one imposes a preference structure over function
+classes and then optimizes a combined objective of class preference
+and data fit.  In doing so, however, it would be useful to have an
+accurate estimate of the expected generalization performance at each
+preference level; one could then pick the function class that obtained
+the lowest expected error, or combine functions from the functions
+classes with the lowest expected error, and so on.  Many approaches
+have been proposed in the past for this purpose, both in the
+statistics and the machine learning research communities.
+
+Recently in machine learning there has been significant interest in
+new techniques for evaluating generalization error, for optimizing
+generalization error, and for combining and selecting models.  This is
+exemplified, for example, by recent work on Structural Risk
+Minimization, Support Vector Machines, various Boosting algorithms,
+and the Bagging algorithm.  These new approaches suggest that better
+generalization performance can be obtained using new, broadly
+applicable procedures.  Progress in this area has not only been
+important for improving our understanding of how machine learning
+algorithms generalize, it has already been demonstrated to be very
+useful for practical applications of machine learning and data
+analysis.
+
+This workshop will bring together several key researchers in the
+fields of machine learning and statistics to present their recent
+results and debate the controversial issues that have been dividing
+them in the recent machine learning and neural network conferences.
+The following leaders in this field have tentatively accepted to
+participate to the workshop as invited speakers:
+
+Peter Bartlett (Australia National University), Leo Breiman
+(University of California-Berkeley), Tom Dietterich (Oregon State
+University), Yoav Freund (AT&T Labs-Research), Radford Neal
+(University of Toronto), Michael Perrone (IBM T.J. Watson Research
+Center), Robert Schapire (AT&T Labs-Research), Grace Wahba (University
+of Wisconsin at Madison).
+
+The workshop will be sponsored by the CRM (Centre de Recherches
+Mathematiques) as well as by the MITACS (Mathematics of Information
+Technology And Complex Systems) Network of Centers of Excellence.
+ 
+Contributors to the workshop are invited to submit a short (1 or 2
+page) summary in electronic form (ascii text, postscript or pdf) of
+the proposed presentation by e-mail, to one of the organizers by
+February 1st, 2000: bengioy@iro.umontreal.ca or dale@cs.uwaterloo.ca.
+
+Information on the workshop will be posted on the following web site:
+ www.iro.umontreal.ca/~bengioy/crmworkshop2000
+
+--------------------------------------------------------------------
+
+-- 
+Yoshua Bengio 
+Professeur aggrégé
+Département d'Informatique et Recherche Operationnelle
+Université de Montréal, 
+addresse postale: C.P. 6128 Succ. Centre-Ville, Montreal, Quebec, Canada H3C 3J7
+addresse civique: 2920 Chemin de la Tour, Montreal, Quebec, Canada H3T 1J8, #2194
+Tel: 514-343-6804. Fax: 514-343-5834. Bureau 3339.
+http://www.iro.umontreal.ca/~bengioy
+http://www.iro.umontreal.ca/~lisa

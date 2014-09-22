@@ -1,0 +1,114 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May 12 05:01:05 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA04864;
+	Wed, 12 May 1999 05:00:57 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16526;
+          11 May 99 14:26 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16502;
+          11 May 99 14:04 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02253;
+          11 May 99 14:03 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa07978; 11 May 99 7:55 EDT
+Received: from l47.eml.org by CS.CMU.EDU id aa05239; 11 May 99 7:54:19 EDT
+Received: from eml.org (GUITARFISH [172.16.2.14]) by tigershark.villa-bosch.de with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id JSL01AX4; Tue, 11 May 1999 13:57:08 +0200
+Message-ID: <373819C8.BBED9617@eml.org>
+Date: Tue, 11 May 1999 13:51:36 +0200
+From: Rainer Malaka <malaka@eml.org>
+Organization: European Media Laboratory
+X-Mailer: Mozilla 4.07 [en] (WinNT; I)
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+Subject: job openings at EML, Germany
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Could you please forward the following announcement. The jobs are
+partially related to connectionism and might be interesting to the
+people on the list.
+
+Best regards
+
+Rainer Malaka
+
+########################################
+
+
+Research Positions at the European Media Laboratory
+
+The Human Language Technology and the Personal Memory group at the
+European Media Laboratory in Heidelberg are seeking several researchers
+to work in the areas of  information retrieval,  information extraction,
+domain ontology building, and human computer interfaces. 
+
+1.   A researcher with experience in terminological  ontology building,
+knowledge representation languages, reasoning,  lexical / knowledge
+acquisition from corpora. The appointee will work in close collaboration
+with the team of Bio-Informatics (molecular biology) of EML and the
+Department of Information Science of Tokyo University. We require
+someone who has a PhD in NLP or in CS with a  demonstrated ability to do
+independent research. 
+Preference will be given to applicants who can demonstrate practical
+abilities in the building of domain ontologies and who have a strong NLP
+background. 
+
+2. A researcher  to work on natural language interfaces with excellent
+knowledge in object-oriented software development (e.g., Java) and XML.
+The appointee should have experience in GUI programming.
+Experience in dialog modeling and discourse structure would be an
+advantage.
+The successful candidate will be responsible for designing and
+implementing an interactive interface for information retrieval,
+database integration and ontological integration. The candidate will
+join an interdisciplinary team of computational linguists, computer
+scientists and domain experts who will use the designed interface for
+practical purposes.  
+
+3. A researcher with strong interests in the area of NLP and in
+particular in statistical NLP. The candidate should have excellent
+programming skills. 
+The candidate should be familiar with the theory and implementation of
+finite-state automata, finite-state transducers and robust parsing
+techniques. 
+The candidate is expected to work on areas such as semantic information
+retrieval, document classification, and clustering.
+
+4. A Computer Scientist with strong background in one or more of the
+following areas: adaptive user interfaces, dialog management for
+human-computer interaction, context and situation modeling. We expect
+the candidates to have significant experience in object-oriented
+software development (e.g., Java), machine learning, and databases.
+Successful candidates should have a PhD or professional experience the
+field.
+Successful candidates will join a multi-disciplinary group and will
+participate in projects that aim at building user-oriented computer
+systems such as mobile tourism information systems. These projects are
+embedded into a network of collaborations with national and
+international research partners from industry and academics. 
+
+We offer competitive salaries, depending on professional experience and
+scientific achievements. The positions are available for 3 years, with
+the possibility of renewing the appointment depending on performance,
+and availability of funding. 
+
+EML is a newly established private research laboratory that primarily
+does contract research for the Klaus Tschira Foundation. It engages in
+research in the manifold uses of information technology, it's primary
+interest being the development of new ways to increase the usefulness of
+such technology for the individual and for society.  Scientists from
+many different disciplines and countries work together at the EML, in
+particular, there is a regular exchange between the EML and national and
+international institutions. You will experience a challenging and
+stimulating international work environment here. In addition, the EML is
+located in one of the most beautiful old mansions of Heidelberg.
+
+Should you be interested in working with us please send your application
+including full CV and relevant material attesting your qualifications by
+11th of June 1999 to our secretary, c/o Brbel Mack,
+Schloss-Wolfsbrunnenweg 33, D-69118 Heidelberg, . 
+
+For further information, please contact our web-site www.eml.org.

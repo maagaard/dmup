@@ -1,0 +1,38 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Dec  5 05:05:58 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA04531;
+	Sat, 5 Dec 1998 05:05:44 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab11480;
+          4 Dec 98 17:32 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab11478;
+          4 Dec 98 17:25 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05246;
+          4 Dec 98 17:24 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19236; 4 Dec 98 15:47 EST
+Received: from scapa.cs.ualberta.ca by RI.CMU.EDU id aa16692;
+          4 Dec 98 15:44:37 EST
+Received: from localhost (user: 'greiner' uid#110 fake: greiner@lacorey.cs.ualberta.ca) by scapa.cs.ualberta.ca id <13530-6722>; Fri, 4 Dec 1998 13:44:31 -0700
+Sender: greiner@cs.ualberta.ca
+From: Russ Greiner <greiner@cs.ualberta.ca>
+To: ml@ics.uci.edu, colt@cs.uiuc.edu, gps@kdnuggets.com, uai@ghost.CS.ORST.EDU,
+        connectionists@cs.cmu.edu, dbworld@cs.wisc.edu,
+        ai-stats@watstat.uwaterloo.ca, nl-kr@snyside.sunnyside.com,
+        ilpnet@ijs.si
+Subject: SIGART/AAAI Doctoral Consortium
+CC: wiebe@nmsu.edu
+Message-Id: <19981204204433Z13530-6722+256@scapa.cs.ualberta.ca>
+Date: 	Fri, 4 Dec 1998 13:44:31 -0700
+Status: RO
+X-Status: 
+
+The SIGART/AAAI Doctoral Consortium is a great opportunity for PhD
+students to receive feedback on their research and network with
+people in the field.  Accepted participants will receive travel
+scholarships and free registration to AAAI-99.  The call for
+participation is at:
+
+http://www.aaai.org/Conferences/National/1999/aaai99-dccall.html
+
+Note that submissions are due  5 February 1999.

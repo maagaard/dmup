@@ -1,0 +1,67 @@
+
+
+From spm-request@mailbase.ac.uk Fri Nov 19 16:36:09 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id QAA11509
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 19 Nov 1999 16:36:08 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA08856;
+	Fri, 19 Nov 1999 15:37:21 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA17815;
+        Fri, 19 Nov 1999 15:35:37 GMT
+Received: from gabriel.cc.emory.edu (gabriel.cc.emory.edu [170.140.1.30]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id PAA17803;
+        Fri, 19 Nov 1999 15:35:32 GMT
+Received: from emory.edu (anx53-187.dialup.emory.edu [170.140.250.187])
+	by gabriel.cc.emory.edu (8.8.8/8.8.8) with ESMTP id KAA13914
+	for <spm@mailbase.ac.uk>; Fri, 19 Nov 1999 10:35:31 -0500 (EST)
+Message-ID: <38356F89.E21A1E77@emory.edu>
+Date: Fri, 19 Nov 1999 10:40:57 -0500
+Organization: Emory University
+X-Mailer: Mozilla 4.61 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Postdoctoral Positions Available
+From: Gregory S Berns <gberns@emory.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Gregory S Berns <gberns@emory.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+The Computation and Cognitive Neuroscience Laboratory
+Emory University School of Medicine
+Atlanta, Georgia, USA
+
+http://www.ccnl.emory.edu
+
+2 Postdoctoral positions are available in either computational
+neuroscience or functional brain imaging.  Our research focuses
+on the integration of computational models with functional
+brain imaging, primarily fMRI.  We are particularly interested
+in the application of nonlinear dynamical systems models to
+fMRI datasets.  As a complementary approach, we also use
+perturbation theory to design cognitive tasks appopriate for
+the study of subconscious information processing in the brain.
+
+Resources include ample computational platforms and access to
+both a Philips 1.5 T scanner and a Varian 3 T to be installed
+in summer 2000.
+
+Please respond to:
+
+Gregory S. Berns, MD PhD
+Assistant Professor of Psychiatry and Behavioral Sciences, Emory
+Univeristy
+& Georgia Institute of Technology / Emory Biomedical Engineering
+
+email:  gberns@emory.edu

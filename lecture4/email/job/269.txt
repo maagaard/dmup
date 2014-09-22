@@ -1,0 +1,109 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jan 19 20:18:20 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id UAA00432;
+	Wed, 19 Jan 2000 20:18:16 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13257;
+          19 Jan 2000 12:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13254;
+          19 Jan 2000 12:00 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03901;
+          19 Jan 2000 12:00 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa04624;
+          19 Jan 2000 6:35 EST
+Received: from fins.uits.indiana.edu by edrc.cmu.edu id aa26080;
+          19 Jan 2000 6:35 EST
+Received: from kate.ucs.indiana.edu (kruschke@kate.ucs.indiana.edu [129.79.5.198])
+	by fins.uits.indiana.edu (8.9.3/8.9.3/1.1IUPO) with ESMTP id GAA03123;
+	Wed, 19 Jan 2000 06:35:16 -0500 (EST)
+Received: from localhost (kruschke@localhost)
+	by kate.ucs.indiana.edu (8.9.3/8.9.3/1.2kate-imap2) with SMTP id GAA22968;
+	Wed, 19 Jan 2000 06:35:15 -0500 (EST)
+Date: Wed, 19 Jan 2000 06:35:15 -0500 (EST)
+From: "John K. Kruschke" <kruschke@indiana.edu>
+X-Sender: kruschke@kate.ucs.indiana.edu
+To: connectionists@cs.cmu.edu
+cc: John Kruschke <kruschke@indiana.edu>
+Subject: Postdoctoral Position in Cognitive Modeling
+Message-ID: <Pine.GSO.3.96.1000119063350.22646E-100000@kate.ucs.indiana.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+POSTDOCTORAL TRAINING FELLOWSHIPS in the
+COGNITIVE SCIENCE PROGRAM at INDIANA UNIVERSITY in
+MODELING OF COGNITIVE PROCESSES
+
+The Psychology Department and Cognitive Science Program
+at Indiana University anticipate one or more
+Postdoctoral Traineeships in the area of Modeling of
+Cognitive Processes, funded by the National Institutes
+of Health. Appointments will pay rates appropriate for
+a new or recent Ph.D. and will be for one or two years,
+beginning July 1, 2000 or later.
+
+Traineeships will be offered to qualified individuals
+who wish to further their training in mathematical
+modeling or computer simulation modeling, in any
+substantive area of cognitive psychology or Cognitive
+Science.
+
+Trainees will be expected to carry out original
+theoretical and empirical research in association with
+one or more of these faculty and their laboratories,
+and to interact with other relevant faculty and other
+pre- and postdoctoral trainees. In addition, they
+should plan to take or audit courses offered within the
+Cognitive Modeling Program.
+
+We are particularly interested in applicants with
+strong mathematical, scientific, and research
+credentials. Indiana University has superb
+computational and research facilities, and faculty with
+outstanding credentials in this area of research,
+including James Townsend, director of the training
+program, and Jerome Busemeyer, Robert Nosofsky, John
+Kruschke, Michael Gasser, Robert Goldstone, Geoffrey
+Bingham, Tom Busey, Donald Robinson, Robert Port, and
+Richard Shiffrin.
+
+Applicants should send an up-to-date vita, relevant
+reprints and preprints, a personal letter describing
+their research interests, background, goals, and career
+plans, and reference letters from two individuals.
+Women, minority group members, and handicapped
+individuals are urged to apply.
+
+Deadline for submission of application materials is
+April 1, 2000, but we encourage earlier applications.
+
+PLEASE NOTE: The conditions of our grant restrict all
+awards to U.S. citizens or current green card holders.
+Awards also have a 'payback' provision, generally
+requiring awardees to carry out research or teach (not
+necessarily at IU) for a minimum period after
+termination of the traineeship.
+
+Cognitive Science information may be obtained at
+http://www.psych.indiana.edu/
+
+Send Materials to
+
+Professor Jerome R. Busemeyer
+Department of Psychology, Rm 367
+Indiana University
+1101 E. 10th St.
+Bloomington, IN 47405-7007
+
+Voice: 812-855-4882
+Fax: 812-855-1086
+email: jbusemey@indiana.edu
+
+Indiana University is an Affirmative Action Employer
+
+
+
+

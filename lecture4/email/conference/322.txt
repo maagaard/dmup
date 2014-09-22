@@ -1,0 +1,130 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Oct 21 03:13:36 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id DAA06282;
+	Thu, 21 Oct 1999 03:13:32 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29277;
+          20 Oct 99 20:13 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29275;
+          20 Oct 99 20:07 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17928;
+          20 Oct 99 20:07 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab12684; 20 Oct 99 19:40 EDT
+Received: from research.nj.nec.com by edrc.cmu.edu id aa03966;
+          20 Oct 99 19:39 EDT
+Received: from alta.nj.nec.com (alta.nj.nec.com [138.15.159.81])
+	by research.nj.nec.com (8.8.8/8.8.8) with ESMTP id TAA13039;
+	Wed, 20 Oct 1999 19:40:39 -0400 (EDT)
+Received: (from giles@localhost)
+	by alta.nj.nec.com (8.9.1/8.9.1) id TAA10434;
+	Wed, 20 Oct 1999 19:29:34 -0400 (EDT)
+Date: Wed, 20 Oct 1999 19:29:34 -0400 (EDT)
+From: Lee Giles <giles@research.nj.nec.com>
+Message-Id: <199910202329.TAA10434@alta.nj.nec.com>
+To: connectionists@cs.cmu.edu
+Subject: call for participation - NIPS99
+Cc: giles@research.nj.nec.com
+Status: RO
+X-Status: 
+
+
+
+                        CALL FOR PARTICIPATION -- NIPS*99
+
+                      http://www.cs.cmu.edu/Web/Groups/NIPS
+
+         Neural Information Processing Systems -- Natural and Synthetic
+                  Monday November 29 - Saturday December 4, 1999
+                              Denver, Colorado
+
+This is the thirteenth meeting of an interdisciplinary conference which brings
+together cognitive scientists, computer scientists, engineers, neuroscientists,
+physicists, and mathematicians interested in all aspects of neural processing
+and computation.  The conference will include invited talks as well as oral and
+poster presentations of refereed papers.  The conference is single track and is
+highly selective.  Preceding the main session, there will be one day of tutorial
+presentations (November 29), and following it, there will be two days of focused
+workshops on topical issues at a Breckenridge (December 3-4). Major categories 
+of accepted papers include the following topics:
+
+Algorithms and Architectures: supervised and unsupervised learning algorithms,
+model selection algorithms, active learning algorithms, feedforward and
+recurrent network architectures, localized basis functions, mixture models,
+belief networks, graphical models, Gaussian processes, factor analysis,
+topographic maps, combinatorial optimization, hybrid symbolic-subsymbolic
+systems.
+
+Applications: handwriting recognition, sequence analysis, expert systems,
+fault diagnosis, medical diagnosis, analysis of medical images, data analysis,
+database mining, information retrieval, network traffic, music processing,
+time-series prediction, financial analysis.
+
+Cognitive Science/Artificial Intelligence: perception and psychophysics,
+neuropsychology, cognitive neuroscience, development, conditioning, human
+learning and memory, attention, language, natural language, reasoning, spatial
+cognition, emotional cognition, conceptual representation, neurophilosophy,
+problem solving and planning.
+
+Implementations: analog and digital VLSI, optical neurocomputing systems, novel
+neurodevices, computational sensors and actuators, simulation tools.
+
+Neuroscience: neural encoding, spiking neurons, synchronicity, sensory
+processing, systems neurophysiology, neuronal development, synaptic plasticity,
+neuromodulation, dendritic computation, channel dynamics, experimental data
+relevant to computational issues.
+
+Reinforcement Learning and Control: exploration, planning, navigation,
+Q-learning, TD-learning, state estimation, dynamic programming, robotic motor
+control, process control, Markov decision processes.
+
+Speech and Signal Processing: speech recognition, speech coding, speech
+synthesis, auditory scene analysis, source separation, applications of hidden
+Markov models to signal processing, models of human speech perception, auditory
+modeling and psychoacoustics.
+
+Theory: computational learning theory, statistical physics of learning,
+information theory, prediction and generalization, regularization, Boltzmann
+machines, Helmholtz machines, decision trees, support vector machines, online
+learning, dynamics of learning algorithms, approximation and estimation theory,
+learning of dynamical systems, complexity theory.
+
+Visual Processing: image processing, image coding, object recognition, visual
+psychophysics, stereopsis, motion detection and tracking.
+
+For general inquiries or requests for registration material
+
+   E-mail: nipsinfo@salk.edu  or Fax: (619) 587-0417
+
+Information can also be found on the NIPS web page.
+
+NIPS*99 Organizing Committee: General Chair, Sara Solla, Northwestern
+University; Program Chair, Todd Leen, Oregon Graduate Institute; Publications
+Chair, Klaus Mueller, GMD First; Tutorial Chair, Joachim Buhmann, University
+of Bonn; Workshops Co-Chairs, Sue Becker, McMaster University, and Rich Caruana,
+Carnegie Mellon University; Publicity Chair, Lee Giles, NEC Research Institute;
+Local Arrangements, Arun Jagota, University of California at Santa Cruz;
+Treasurer, Bartlett Mel, University of Southern California; Web Master, Doug
+Baker, Carnegie Mellon University; Government Liaison, Gary Blasdel, Harvard
+Medical School; Contracts, Steve Hanson, Rutgers University, and Gerry Tesauro,
+IBM.
+
+NIPS*99 Program Committee: Leon Bottou, AT&T Labs - Research; Gary Cottrell,
+University of California San Diego; Zoubin Ghahramani, University College
+London; Tommi Jaakkola, MIT; John Lazzaro, University of California Berkeley;
+Todd Leen, Oregon Graduate Institute (chair); John Moody, Oregon Graduate
+Institute; Barak Pearlmutter, University of New Mexico; Alexandre Pouget,
+University of Rochester; David Saad, Aston University; Lawrence Saul, AT&T
+Labs - Research; Sebastian Thrun, Carnegie Mellon University; Benjamin Van Roy,
+Stanford University; Paul Viola, MIT.
+
+
+                            - Please Post -
+                                                                                
+
+__                                
+C. Lee Giles / Computer Science / NEC Research Institute / 
+4 Independence Way / Princeton, NJ 08540, USA / 609-951-2642 / Fax 2488
+www.neci.nec.com/~giles
+==
+

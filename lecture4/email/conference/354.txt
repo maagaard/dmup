@@ -1,0 +1,281 @@
+
+
+From pascal@icsc.ab.ca Sun Dec 19 03:46:19 MET 1999
+Received: from bernie.compusmart.ab.ca (bernie.compusmart.ab.ca [199.185.130.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id DAA21138
+	for <fnielsen@ei.dtu.dk>; Sun, 19 Dec 1999 03:46:17 +0100 (MET)
+Received: from remote1929.compusmart.ab.ca ([209.115.205.80]:1271 "HELO icsc") by mail.compusmart.ab.ca with SMTP id <31943-24547> convert rfc822-to-8bit; Sat, 18 Dec 1999 19:37:51 -0700
+X-Sender: pascal@mail.compusmart.ab.ca (Unverified)
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0
+Date: 	Sat, 18 Dec 1999 19:27:36 -0700
+To: Prospective authors <pascal@icsc.ab.ca>
+From: Pascal Ryffel <pascal@icsc.ab.ca>
+Subject: ISA'2000 Call for Papers
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8BIT
+Message-Id: <19991219023755Z31943-24547+55806@mail.compusmart.ab.ca>
+Status: RO
+X-Status: 
+
+<html>
+First Call for Papers <br>
+International Congress on <br>
+INTELLIGENT SYSTEMS AND APPLICATIONS (ISA'2000) <br>
+to be held at the University of Wollongong <br>
+(near Sydney), Australia <br>
+from December 12-15, 2000 <br>
+<font color="#0000FF"><u><a href="http://www.icsc.ab.ca/isa2000.htm" eudora="autourl">http://www.icsc.ab.ca/isa2000.htm<br>
+<br>
+</a></font></u><font color="#000000">The ISA’2000 Congress aims to
+provide researchers and <br>
+practitioners from academia and industry with a forum <br>
+to report on the latest developments in intelligent <br>
+systems and their applications within the four major <br>
+areas of computational intelligence, interactive and <br>
+collaborative computing, industrial systems, and <br>
+biologically inspired systems. The Congress will also <br>
+provide a unique opportunity for dialogue and synergy <br>
+between scientists and engineers from different <br>
+backgrounds with the common interest in intelligent <br>
+systems.<br>
+<br>
+The congress consists of the following four Symposia:<br>
+<br>
+1. COMPUTATIONAL INTELLIGENCE (CI'2000) <br>
+Chair: Prof. Franz J. Kurfess, Canada <br>
+Email: franz@cs.concordia.ca <br>
+<br>
+Topics:<br>
+- Adaptive and Learning Systems <br>
+- Artificial Intelligence <br>
+- Artificial Life <br>
+- Biocybernetics <br>
+- Cognitive and Neural Modelling <br>
+- Evolutionary Computation <br>
+- Fuzzy Systems <br>
+- Genetic Algorithms <br>
+- Knowledge-based Systems <br>
+- Machine Learning and Perception <br>
+- Image Processing and Classification <br>
+- Multi Agent Systems <br>
+- Neural Networks <br>
+- Optimization, Heuristics and Search Methods <br>
+- Parallel and Distributed Computing <br>
+- Pattern Recognition and Classification <br>
+- Self-organizing Systems <br>
+- Statistics and Forecasting<br>
+<br>
+The CI'2000 symposium also features a <br>
+SPECIAL SESSION AND TUTORIAL ON <br>
+INTELLIGENT DECISION SUPPORT FOR LEGAL PRACTICE <br>
+Organizer: John Zeleznikow, La Trobe University, <br>
+Bundoora, Australia <br>
+for details see
+</font><a href="http://www.icsc.ab.ca/151-info.htm" eudora="autourl"><font color="#0000FF"><u>http://www.icsc.ab.ca/151-info.htm<br>
+<br>
+<br>
+</a></font></u><font color="#000000">2. INTERACTIVE AND COLLABORATIVE
+COMPUTING (ICC'2000) <br>
+Chairs: Prof. Yoneo Yano and Prof. Hiroaki Ogata, Japan <br>
+Email: yano@is.tokushima-u.ac.jp <br>
+ogata@is.tokushima-u.ac.jp <br>
+<br>
+Topics:<br>
+- Agent Based Systems <br>
+- Adaptive and Adaptable Systems <br>
+- Application for Disabled People <br>
+- Computer Mediated Communication <br>
+- Computer Supported Cooperative Work <br>
+- Computer Supported Collaborative Learning <br>
+- Cooperative Database Systems <br>
+- Digital Libraries / Museums <br>
+- Ergonomic, Interface, and Cognitive Issues <br>
+- Interactive Learning / Tutoring Environments <br>
+- Human Computer Interaction <br>
+- Multimedia, Hypermedia and New Media <br>
+- User Modeling <br>
+- Socialware / Communityware <br>
+- Systems Evaluation <br>
+- Teleworking / Telelearning Environments <br>
+- Wearable / Ubiquitos Computing <br>
+- Internet / Web Based Computing <br>
+- Virtual and Augmented Realities <br>
+for details see
+</font><a href="http://www.icsc.ab.ca/152-info.htm" eudora="autourl"><font color="#0000FF"><u>http://www.icsc.ab.ca/152-info.htm<br>
+<br>
+<br>
+</a></font></u><font color="#000000">3. INDUSTRIAL SYSTEMS (IS'2000)
+<br>
+Chair: Prof. Edward Szczerbicki, Australia <br>
+Email: mees@cc.newcastle.edu.au <br>
+<br>
+Topics:<br>
+- Autonomous Decentralized Systems <br>
+- Behavioral Decision Making <br>
+- Communications and Transportation Systems <br>
+- Continuous Simulation and Applications <br>
+- Data Mining and Knowledge Discovery <br>
+- Decision Technologies <br>
+- Design Coordination <br>
+- Discrete Event Dynamic Systems <br>
+- Distributed Decision Making <br>
+- Education and Multimedia <br>
+- Ecological Monitoring and Simulation Systems <br>
+- Energy and Environmental Systems <br>
+- Human Decision Making <br>
+- Information and Decision Systems <br>
+- InterNet, IntraNet and Virtual Reality Applications <br>
+- Manufacturing Systems and Petri Nets <br>
+- Mass Customization <br>
+- Qualitative Reasoning Conflict Analysis <br>
+- Quality &amp; Reliability Engineering <br>
+- Product Development and Planning <br>
+- Risk Management <br>
+- Robotics <br>
+- Service and Public Sector Systems <br>
+- Simulation Methodology <br>
+- Simulation Training Systems <br>
+- Supervisory Control <br>
+- Systems Modeling, Analysis and Evaluation <br>
+- Technology Forecasting <br>
+- Transportation Systems<br>
+<br>
+The IS'2000 symposium also features a <br>
+WORKSHOP ON MASS CUSTOMIZATION MANAGEMENT (MCM'2000) <br>
+Organizers: Prof. Claus Rautenstrauch &amp; <br>
+Dr. Klaus Turowski, Germany <br>
+for details see
+</font><a href="http://www.icsc.ab.ca/153-info.htm" eudora="autourl"><font color="#0000FF"><u>http://www.icsc.ab.ca/153-info.htm<br>
+<br>
+<br>
+</a></font></u><font color="#000000">4. BIOLOGICALLY INSPIRED SYSTEMS
+(BIS'2000) <br>
+Chair: Hans-Heinrich Bothe, Denmark <br>
+Email: hhb@it.dtu.dk <br>
+<br>
+Topics:<br>
+- Autonomous Robots <br>
+- Behavior based Control <br>
+- Computer Vision, Audition, Olfaction, High-level Perception <br>
+- Hardware- and Software Implementations <br>
+- Intelligent Sensor Fusion <br>
+- Neuromorphic Engineering <br>
+- Sensor and Sensory System <br>
+- Smart Human-machine Communication <br>
+for details see
+</font><a href="http://www.icsc.ab.ca/154-info.htm" eudora="autourl"><font color="#0000FF"><u>http://www.icsc.ab.ca/154-info.htm<br>
+<br>
+<br>
+</a></font></u><font color="#000000">SCIENTIFIC PROGRAM <br>
+ISA'2000 will include invited plenary talks, contributed <br>
+sessions, invited sessions, workshops and tutorials. <br>
+<br>
+<br>
+CALL FOR INVITED SESSIONS <br>
+The organization of invited sessions is encouraged. Prospective <br>
+organizers are requested to send a session proposal (consisting <br>
+of 4-5 invited papers, the recommended session-chair and <br>
+co-chair, as well as a short statement describing the title and <br>
+the purpose of the session) to the respective symposium chair <br>
+or the congress organizer. Invited sessions should preferably <br>
+start with a tutorial paper. The registration fee of the session <br>
+organizer will be waived, if at least 4 authors of invited <br>
+papers register to the conference.<br>
+<br>
+<br>
+POSTER PRESENTATIONS <br>
+Poster presentations are encouraged for people who wish to <br>
+receive peer feedback, and practical examples of applied research <br>
+are particularly welcome. Poster sessions will allow the <br>
+presentation and discussion of respective papers, which will <br>
+also be included in the conference proceedings.<br>
+<br>
+<br>
+CALL FOR WORKSHOPS, TUTORIALS AND OTHER CONTRIBUTIONS <br>
+Several workshops/tutorials are planned for ISA'2000. Each <br>
+workshop/tutorial will focus on a particular topic, and consist <br>
+of several presentations and open discussions. The proposal for <br>
+a workshop/tutorial should include the title, topics covered, <br>
+proposed speakers, targeted audiences, and estimated length <br>
+(hours) of the workshop/tutorial. The proposal should be <br>
+submitted either to the congress chair, the corresponding <br>
+symposium chair or the congress organizer by March 31, 2000.<br>
+<br>
+<br>
+SUBMISSION OF PAPERS <br>
+Prospective authors are requested to either send a draft paper <br>
+(maximum 7 pages) or an extended abstract for review by the <br>
+International Program Committee. All submissions must be <br>
+written in English, starting with a succinct statement of the <br>
+problem, the results achieved, their significance and a <br>
+comparison with previous work. <br>
+<br>
+Submissions must be received by March 31, 2000.<br>
+<br>
+The submission should also include <br>
+- Title of symposium (CI'2000, ICC'2000, IS'2000, BIS'2000) <br>
+- Type of paper (regular, poster, tutorial or invited) <br>
+- Authors names, affiliations, addresses <br>
+- Name of author to contact for correspondence <br>
+- E-mail address and fax # of contact author <br>
+- Topics which best describe the paper (max. 5 keywords) <br>
+- Short CV of authors (recommended)<br>
+<br>
+Submission by electronic mail is strongly recommended to <br>
+operating@icsc.ab.ca<br>
+<br>
+or else by fax or mail (2 copies) to the following address:<br>
+<br>
+ICSC <br>
+International Computer Science Conventions <br>
+P.O. Box 279 <br>
+Millet, AB T0C 1Z0 / Canada <br>
+Fax: +1-780-387-4329 <br>
+Phone: +1-780-387-3546 <br>
+Email Operating Division: operating@icsc.ab.ca<br>
+<br>
+<br>
+PROCEEDINGS AND PUBLICATIONS <br>
+All accepted and invited papers will be included in the <br>
+congress proceedings. Selected papers will also be included <br>
+in special issues of some prestigious journals.<br>
+<br>
+<br>
+IMPORTANT DATES <br>
+March 31, 2000: Submission deadline <br>
+May 31, 2000: Notification of acceptance <br>
+July 30, 2000: Delivery of full papers <br>
+December 12-15, 2000: ISA'2000 congress<br>
+<br>
+<br>
+CONGRESS GENERAL CHAIR <br>
+Prof. Fazel Naghdy <br>
+School of Electrical, Computer, and <br>
+Telecommunications Engineering <br>
+University of Wollongong <br>
+NSW 2522 / Australia <br>
+Email: f.naghdy@uow.edu.au<br>
+<br>
+<br>
+CONGRESS ORGANIZER <br>
+ICSC International Computer Science Conventions <br>
+P.O. Box 279 <br>
+Millet, AB T0C 1Z0 / Canada <br>
+Fax: +1-780-387-4329 <br>
+Phone: +1-780-387-3546 <br>
+Email Operating Division: operating@icsc.ab.ca <br>
+Email Planning Division: planning@icsc.ab.ca<br>
+<br>
+<br>
+SPONSORS <br>
+- University of Wollongong <br>
+- IEE, The Institution of Electrical Engineers <br>
+- IEAust, The Institution of Engineers, Australia <br>
+- Nortel Networks <br>
+- Corporate Research Centre for Intelligent Manufacturing <br>
+  Systems and Technologies Ltd. <br>
+- ICSC International Computer Science Conventions, <br>
+  Canada / Switzerland<br>
+</font></html>
+

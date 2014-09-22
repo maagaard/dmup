@@ -1,0 +1,81 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Nov 18 03:17:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id DAA29990;
+	Thu, 18 Nov 1999 03:17:52 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05374;
+          17 Nov 99 19:39 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05363;
+          17 Nov 99 19:28 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01451;
+          17 Nov 99 19:27 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa17759; 17 Nov 99 18:18 EST
+Received: from curie.psychology.McMaster.CA by cs.cmu.edu id aa27350;
+          17 Nov 99 18:18 EST
+Received: from meitner.psychology.mcmaster.ca (meitner [130.113.218.66])
+	by curie.psychology.mcmaster.ca (980427.SGI.8.8.8/8.8.8-ajr) with ESMTP id SAA02617;
+	Wed, 17 Nov 1999 18:18:41 -0500 (EST)
+Received: from localhost (becker@localhost)
+	by meitner.psychology.mcmaster.ca (980427.SGI.8.8.8/8.8.8-ajr-cl) with SMTP id SAA20052;
+	Wed, 17 Nov 1999 18:18:18 -0500 (EST)
+Date: Wed, 17 Nov 1999 18:18:18 -0500 (EST)
+From: Sue Becker <becker@curie.psychology.mcmaster.ca>
+Reply-To: Sue Becker <becker@mcmaster.ca>
+To: Connectionists@cs.cmu.edu, cogpsy@listserv.tamu.edu,
+        cogneuro@ptolemy.arc.nasa.gov
+Subject: faculty position: human cognition/cognitive neuroscience
+Message-ID: <Pine.SGI.3.96.991117180023.19961J-100000@meitner.psychology.mcmaster.ca>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear list members, 
+The department of Psychology at McMaster has an open faculty
+position at the assistant or associate level that may be of 
+interest. Our advertisement is included below. Althoug it generally
+targets human cognition, cognitive neuroscience (neural computation,
+neuropsychology, brain imaging) is a sub-area of high priority. Feel
+free to contact me if you are interested in applying.
+cheers,
+Sue Becker
+
+Sue Becker                 Department of Psychology, McMaster University 
+becker@mcmaster.ca         1280 Main Street West, Hamilton, Ont. L8S 4K1
+Fax: (905)529-6225         http://www.science.mcmaster.ca/Psychology/sb.html
+Tel: 525-9140 ext. 23020   
+
+For Aug 6/1999-June 30/2000:
+becker@mcmaster.ca         Institute of Cognitive Neuroscience
+Fax: 44-(0)171-391-1145    Alexandra House, University College London
+Tel: 44-(0)171-391-1148    17 Queen Square, London, UK WC1N 3AR
+
+-------------------------------------------------------------
+
+The Department of Psychology at McMaster University invites 
+applications for a tenure track appointment at the Assistant
+Professor level or early Associate Professor level in the 
+area of human cognition.  Preference will be given to applicants 
+with research interests in higher level cognitive processes 
+(e.g., memory, categorization, decision-making), or a research
+program in neuropsychology, particularly one involving patient 
+populations.  However, candidates with research programs in 
+other areas of cognition are strongly encouraged to apply.  
+Research which extends to the domain of cognitive neuroscience 
+(e.g., neuroimaging, neural computation) will be considered an 
+asset.  To apply, send a curriculum vitae, a short statement of 
+research interests, selected reprints, and three letters of 
+reference to: Dr. Bruce Milliken, Department of Psychology, 
+McMaster University, Hamilton, Ontario, CANADA L8S 4K1.  
+Closing date for applications and supporting material is 
+December 15, 1999.  
+
+In accordance with Canadian immigration requirements, this 
+advertisement is directed to Canadian citizens and permanent 
+residents. McMaster University is committed to Employment Equity 
+and encourages applications from all qualified candidates, 
+including aboriginal peoples, persons with disabilities, members 
+of visible minorities, and women.  Interested candidates may learn 
+more about the department at http://www.psychology.mcmaster.ca.  
+

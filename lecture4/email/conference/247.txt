@@ -1,0 +1,501 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk Thu Apr 15 08:21:18 MET 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id IAA28427
+	for dspstaff-list; Thu, 15 Apr 1999 08:21:14 +0200 (METDST)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id IAA28416;
+	Thu, 15 Apr 1999 08:21:08 +0200 (METDST)
+Received: from imm.dtu.dk (putney.imm.dtu.dk [192.38.71.14])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id IAA12156;
+	Thu, 15 Apr 1999 08:21:43 +0200 (METDST)
+Message-ID: <37158528.CC420E1A@imm.dtu.dk>
+Date: Thu, 15 Apr 1999 08:20:24 +0200
+From: Matthew Liptrot <mgl@imm.dtu.dk>
+X-Mailer: Mozilla 4.05 [en] (WinNT; I)
+MIME-Version: 1.0
+To: "dspstaff@eivind.imm.dtu.dk" <dspstaff@eivind.imm.dtu.dk>,
+        "dspstud@eivind.imm.dtu.dk" <dspstud@eivind.imm.dtu.dk>
+Subject: Informatics Conference
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+This conference seems to cover topics that some of you are interested
+in, including web databases, data warehousing, and a talk on the BSCW
+web collaboration project....
+
+Matt
+
+------------------------------ CFP ------------------------------------
+
+CALL FOR PAPERS                                                    :=
+
+  +------------------------------------------------------------+
+  |                         SOFSEM'99                          |
+  |                                                            |
+  |              XXVI-th Seminar on Current Trends             |
+  |            in Theory and Practice of Informatics           |
+  +------------------------------------------------------------+
+
+                  November 27 - December 4, 1999
+                    Devet-skal hotel, Milovy
+                        Czech Republic
+
+           more information -> URL: http://www.sofsem.cz
+
+                         ====================
+Organized by
+
+  CSCS, Czech Society for Computer Science
+  DCIT, Prague
+  Institute of Computer Science, Academy of Sciences, Prague
+  Faculty of Informatics, Masaryk University, Brno
+  Utrecht University
+
+in co-operation with
+  ERCIM - the European Research Consortium
+          for Informatics and Mathematics
+
+-------
+Subject
+-------
+
+SOFSEM (SOFtware   SEMinar) is  an  eight-day  international  conference
+devoted to the theory and the practice of  software systems. Its program
+consists of  a series  of  invited  talks  given by  prominent  academic
+professionals   and researchers.    Contributed  talks   and posters  of
+participants are also included  in the program  of SOFSEM.  The  working
+language is English.
+
+                   -------------------------------
+Invited talks and contributed talks are published by Springer-Verlag in
+the  "Lecture Notes in Computer Science" series and distributed at the
+seminar.
+
+
++----------------------------------------------------------------------+
+ | Sofsem'99 is the 26th in the series of Sofsem seminars held
+annually.|
+ | It is intended to foster cooperation among people working in various
+|
+ |   areas of computer science. Its scientific program offers a unique 
+|
+ |       opportunity to gain a relatively quick and representative     
+|
+ |        overview about the selected parts of computer science,       
+|
+ |                    presented by top researchers.                    
+|
+ |   Its social program provides an optimum framework for discussions, 
+|
+ |  meetings, establishing contacts, and socializing. Especially suited
+|
+ |                 for young computer scientists.                      
+|
+
++----------------------------------------------------------------------+
+
+TABLE OF CONTENTS
+=================
+Topics
+Committees
+Program of Invited Talks
+Submissions
+   Contributed Talks
+   Posters
+   Deadlines
+Contact Addresses, Sofsem www-page
+Fees
+   Cancellation
+   Financial support
+Exhibitions
+Sponsors
+Local Arrangements, Venue, History
+Registration
+REGISTRATION FORM AND PAYMENT NOTICE
+
+------
+Topics
+------
+        Trends in Theory
+        Core Technologies
+        Software and Information Engineering
+        From Data to Knowledge
+        Applications
+
+----------
+Committees
+----------
+  Advisory Board
+  --------------
+  D. Bjorner, (UN University, IIST, Macau),
+  P. van Emde Boas, (CWI Amsterdam, NL),
+  M. Broy, (TU Munich, DE),
+  M. Chytil, (ANIMA Praha, Prague, CZ),
+  G. Gottlob, (TU Vienna, A),
+  K. G. Jeffery, (CLRC RAL, Chilton, Didcot, Oxon, UK),
+  M. Zemankova, (NSF, Washington DC, USA)
+
+  Steering Committee
+  ---------------
+  J. Wiedermann, Chair (Academy of Sciences, Prague, CZ)
+  B. Rovan, Vice-Chair (Comenius University, Bratislava, SK)
+  K. G. Jeffery (CLRC RAL, Chilton, Didcot, Oxon, UK)
+  J. Pavelka (DCIT, Prague, CZ)
+  F. Plasil (Charles University, Prague, CZ)
+  I. Privara (Institute of Informatics and Statistics, Bratislava, SK)
+  J. Staudek (Masaryk University, Brno, CZ)
+
+  Programme Committee
+  -------------------
+  Jan Pavelka, DCIT, Prague, CZ, Chair
+  Gerard Tel, Utrecht Univ, NL, Co-Chair
+  Bernadette Charron, LIX Paris, FR
+  Linda van der Gaag, Utrecht University, NL
+  Torben Hagerup, MPI Saarbrucken, DE
+  Petr Hanacek, Tech. University Brno, CZ
+  Vaclav Hlavac, CTU Prague, CZ
+  Keith G. Jeffery, CLRC, UK
+  Shmuel Katz, Technion, IL
+  Mojmir Kretinsky, Masaryk University, CZ
+  Klaus-Jorn Lange, Universitat Tubingen, DE
+  Borivoj Melichar, CTU Prague, CZ
+  Frantisek Plasil, Charles University, CZ
+  Jaroslav Pokorny, Charles University, CZ
+  Igor Privara, INFOSTAT, SK
+  Branislav Rovan, Comenius University, SK
+  Peter Ruzicka, Comenius University, SK
+  Arno Siebes, CWI Amsterdam, NL
+  Vaclav Sebesta, ICS Acad. of Sciences, CZ
+  Philippas Tsigas, Chalmers Uni, SE
+  Peter van Emde Boas, University of Amsterdam, NL
+  Josef Vasica, DCIT Prague, CZ
+  Filip Zavoral, Charles University, CZ
+
+  Jiri Sochor, Masaryk University Brno, CZ, Secretary
+
+  Organizing Committee
+  --------------------
+    Jan Staudek, MU Brno, CZ, Chair
+    Miroslav Bartosek, Petr Hanacek, Dana Komarkova, Ales Krenek,
+    Zdenek Malcik,     Tomas Pitner, Petr Sojka,     Tomas Staudek
+
+-------------
+Invited Talks 
+-------------
+
+Trends in Theory
+    Jozef Gruska, Masaryk University, Brno, CZ
+      Quantum Challenges
+    Juraj Hromkovic, University of Aachen, DE
+      Stability of approximation algorithms for hard optimization
+problems
+    Wojciech Rytter, Warsaw University, PL
+      Algorithms on compressed strings and arrays
+
+Core Technologies
+    Wolfgang Appelt,GMD, Sankt Augustin, DE
+      WWW based collaboration with the BSCW System
+    Christian Bac, Guy Bernard, Didier Le Tien, INT Evry, FR
+      Middleware and Quality of Service
+    Jean-Marie Rifflet, Universite Paris 7, FR
+      Chorus internals
+    Noemi Rodrigues, Catholic University Rio de Janeiro, BR
+      Dynamic Reconfiguration of CORBA-based Applications
+    Doaitse Swierstra, University Utrecht, NL
+      Parsing
+    Ghica van Emde Boas, IBM Nederland N.V., NL IBM
+      San Francisco: Java based business application components and
+                     new ways to develop them
+
+Software and Information Engineering
+    Paolo Atzeni, University of ROMA III, IT
+      Data bases and the World Wide Web, accomplishments and challenges
+    Juan Biccaregui, CLRC-RAL, UK
+      Exploiting formality in software engineering
+    Ronald Cramer, ETH Zurich, CH
+      Secure Multi-Party Computation
+    Max Garzon, University Memphis, US
+      Biocomputing
+    Vaclav Rajlich, Wayne State University, Detroit, US
+      Software change and evolution
+    Peter Sloot, WINS, NL
+      Distributed Simulation with Cellular Automata:
+      Applications and Architecture
+
+>From Data to Knowledge
+    Alejandro P. Buchmann, T. University, Darmstadt, DE
+      Data warehousing
+    Max Garzon, University Memphis, US
+      Knowledge applications on human-computer interactions
+
+Applications
+    Martin Bogdan, Wolfgang Rosenstiel, University of Tuebingen, DE
+      Application of artificial neural networks for different
+      engineering problems
+    Maxime Crochemore, University of Marne-la-Vallée, FR
+      String algorithms and text compression
+    Emil Pelikan, Czech Academy of Science, CZ
+      Principles of Forecasting
+    Dan Roth, University of Illinois, US
+      Neural Nets Applications
+    Willy Schilders, Philips Labs, NL
+      Electronics design
+    Stephan Tschoeke, University Paderborn, DE
+      Real Life Project with Lufthansa
+
+-----------
+Submissions
+-----------
+  The categories for submissions include Contributed Talks and Posters.
+  Each submission should have a title giving the following information:
+
+  - name, address, e-mail address, and phone/fax number of each author;
+  - specification of one of the authors as the contact person.
+
+  To submit, please send a postscript file  of your contribution via 
+  e-mail. With each submission, please e-mail also an abstract in
+  plain ASCII.  Any other form of electronic submission should be
+  consulted in advance with the PC sectretary.
+
+  Contributed Talks
+  -----------------
+
+  8-page  drafts in English are  expected.   A full camera-ready copy of
+  contributed talks  on current topics in Computer  Science should be no
+  longer than  8-pages.  Presentation time  for contributed talks  is 25
+  minutes. Contributed  talks  will be included  in  the Proceedings  of
+  SOFSEM '99, published in the Lecture  Notes in Computer Science series
+  by Springer-Verlag.
+
+  The Organizing Committee will supply the authors of accepted
+  contributed talks with detailed technical instructions and the LaTeX
+  style file for the preparation of the camera-ready copy.
+
+  Posters
+  -------
+  We actively encourage posters describing work in progress.
+  Final versions of two A4 page poster are expected.
+
+  Deadlines
+  ---------
+  Submission of the contributed talk/poster      May 7, 1999
+  Notification of acceptance / rejection         June 30, 1999
+  Camera-ready copy of the talks                 August 25, 1999
+
+-----------------
+Contact Addresses
+-----------------
+  Sofsem www-page
+  ---------------
+                http://www.sofsem.cz
+
+  Communications and enquires should be adressed to:
+  -------------------------------------------------
+                  sofsem@ics.muni.cz
+
+  Submissions should be adressed to:
+  ---------------------------------
+                  sochor@fi.muni.cz
+
+  or
+
+  Jiri Sochor
+  Faculty of Informatics
+  Masaryk University
+  Botanicka 68a,
+  602 00 Brno
+  Czech Republic
+
+----
+Fees
+----
+  Kc stands for Czech Crowns. USD for US dollars.
+
+  Total cost covers the registration fees, accommodation, and
+  meals for the whole (eight-day) seminar as well as the Proceedings.
+
+  Full fees:
+
+  ---------------------------------------------------------------------
+  type     single_room  double_room  Explanation
+  of fee
+  ---------------------------------------------------------------------
+  S1      10 800  Kc   10 000  Kc    total costs for CZ/SK participants
+  S2         410  USD     380  USD   total costs for others
+  ---------------------------------------------------------------------
+
+  IMPORTANT!
+
+  If payment is made by 13th September 1999
+  the following reductions apply:
+
+  ---------------------------------------------------------------------
+  type     single_room  double_room  Explanation
+  of fee
+  ---------------------------------------------------------------------
+  S1       9 700  Kc    8 900  Kc    total costs for CZ/SK participants
+  S3         380  USD     350  USD   total costs for others
+  ---------------------------------------------------------------------
+
+  PLEASE NOTE:
+
+     SOFSEM '96/97/98 was booked fully to capacity by the end of August
+so
+     REGISTER EARLY
+
+  ---------------------------------------
+  Note for CZ/SK participants:
+
+  Accommodation - daily rates single room incl. brkf.           485,- Kc
+                            one prsn in dble room incl. brkf.   385,- Kc
+                            meals                               300,- Kc
+                            refreshment                          40,- Kc
+  Proceedings and conference fee                              3 310,- Kc
+
+=====================================================================
+
+  Banking           : Ceska sporitelna Brno - mesto, Brno, Czech Rep.
+  Account Name      : Ceska informaticka spolecnost, pobocka Brno
+  Account Number    : 6851659-628/0800
+  Details of Payment: Fill in your name, organization and the purpose of
+                      payment: 'Sofsem 99 conference fee'.
+
+  Cancellation
+  ------------
+  Before 1-st November, 80% of the total cost will be refunded;
+  after  1-st November, 50% of the total cost will be refunded.
+  No refund will be made once the seminar has started.
+
+  Financial support
+  -----------------
+
+  You may apply   for   financial  support   to  partially cover    your
+  accommodation    expenses.   A  strong  preference  will  be  given to
+  undergraduate and graduate  students whose submissions for contributed
+  talks  and/or    posters have been   accepted.   Your  application for
+  financial    support  must reach   the   Organizing Committee  by 1-st
+  August. We will let you know by 15-th August whether requested support
+  will be granted for you.
+
+--------
+Sponsors
+--------
+ApS Brno, s.r.o., COMPAQ Computer, Hewlett-Packard, s.r.o.,
+IBM CR, s.r.o., ORACLE Czech, s.r.o,
+
+-----------
+Exhibitions
+-----------
+1) presenting non profit results
+
+  Organizations and individuals are invited to participate with
+  demonstrations of non-profit research results and literature
+  exhibitions.
+
+2) presenting commercial products
+
+  Organizations are invited to submit exhibitions of commercial software
+  systems, organisation profiles, literature exhibitions, etc.
+
+  Please submit a description of the demonstration and
+  exhibitions to the address at the end of this page.  It is the
+  responsibility of the demonstrator to provide suitable equipment.
+  Exhibitors should contact the following address for further details:
+
+  Faculty of Informatics MU
+  J. Staudek - SOFSEM '99
+  Botanicka 68a
+  602 00 Brno
+  Czech Republic
+  FAX:     +420-5-4121 2747
+  e-mail: sofsem@ics.muni.cz
+
+-----------------------------------
+Local Arrangements, Venue, History
+-----------------------------------
+  For more information regarding SOFSEM'99 and Local Arrangements,
+  Venue and SOFSEM History see Sofsem www-page
+
+  http://www.sofsem.cz
+
+------------
+Registration
+------------
+  To register, please mail the filled-in registration form and the
+  notification of your payment to the OC (On-line registration
+  from Sofsem WWW Home Page is also possible):
+
+  Faculty of Informatics MU
+  J. Staudek - SOFSEM '99
+  Botanicka 68a
+  602 00 Brno
+  Czech Republic
+  FAX:     +420-5-4121 2747
+  e-mail: sofsem@ics.muni.cz
+
+============================= cut here ================================
+
+           SOFSEM 99 Registration Form
+           ---------------------------
+Please mail to     sofsem@ics.muni.cz
+or
+make signed copy
+of Reg Form and
+send/FAX it to     Faculty of Informatics MU
+                   SOFSEM, Jan Staudek
+                   Botanicka 68a
+                   602 00 Brno, Czech Republic
+                   FAX: +420-5-4121 2568
+
+When sending paper mail, please, be sure to use service which is not
+notoriously slow from your particular country.
+
+Given name: ___________________    [] male  [] female
+
+Middle initials: ______________
+
+Family name: __________________
+
+(for your name badge: ____________________ )
+
+Affiliation: ________________
+
+Address: ______________________________________________________
+
+         ______________________________________________________
+
+         ______________________________________________________
+
+e-mail:    _____________________
+
+fax:       ____________________
+
+telephone: __________________
+
+Amount Paid: __________________
+
+Date of Payment:   __________________
+
+Details of Payment:   ___________________________________________
+
+Single / Double Room: __________
+
+Vegetarian (Y/N):       _________
+
+Passport No.
+(CZ/SK - ROC/COP)     ______________________
+
+
+Special requirements: __________________________________________
+
+
+
+=====================================================================

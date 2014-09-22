@@ -1,0 +1,128 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Nov 12 01:54:12 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id BAA26253;
+	Fri, 12 Nov 1999 01:54:03 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20865;
+          11 Nov 99 15:16 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20863;
+          11 Nov 99 15:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14625;
+          11 Nov 99 15:09 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa03333; 11 Nov 99 9:02 EST
+Received: from mercure.IRO.UMontreal.CA by cs.cmu.edu id aa03609;
+          11 Nov 99 9:02 EST
+Received: from grosse.IRO.UMontreal.CA (grosse.IRO.UMontreal.CA [132.204.26.57])
+	by mercure.IRO.UMontreal.CA (8.9.3/8.9.3) with ESMTP id JAA22045
+	for <Connectionists@cs.cmu.edu>; Thu, 11 Nov 1999 09:02:27 -0500
+Received: (from bengioy@localhost)
+	by grosse.IRO.UMontreal.CA (8.9.1/8.9.1) id JAA14860;
+	Thu, 11 Nov 1999 09:02:27 -0500 (EST)
+Message-ID: <19991111090227.40797@IRO.UMontreal.CA>
+Date: Thu, 11 Nov 1999 09:02:27 -0500
+From: Yoshua Bengio <bengioy@IRO.UMontreal.CA>
+To: Connectionists@cs.cmu.edu
+Subject: open faculty position in machine learning / Montreal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+X-Mailer: Mutt 0.69
+X-MIME-Autoconverted: from 8bit to quoted-printable by mercure.IRO.UMontreal.CA id JAA22045
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id BAA26253
+Status: RO
+X-Status: 
+
+
+Hello,
+
+The department of computer science and operations research of
+the University of Montreal is opening two tenure-track
+faculty positions, and one of the main areas of interest is
+that of machine learning. Note that this is a French-speaking
+university and candidates are expected to be able to teach in
+French within about a year of hiring (in the past we have hired several
+non-francophones, and many non-Canadians, who have successfully adapted).
+Note also that Montreal is a great (bilingual English/French) city
+to live in, with the flavor of a European city, a vibrant cultural
+life, four universities, nearby ski slopes, great and inexpensive
+restaurants, and a strong network of research centers in the
+mathematical sciences.
+
+Please don't hesitate to contact me for further information.
+
+ -- Yoshua Bengio,
+    bengioy@iro.umontreal.ca
+    www.iro.umontreal.ca/~bengioy
+
+The official announcement:
+
+---------------------------------------------------------------------
+
+Université de Montréal
+Faculté des arts et des sciences
+Department of Computer Science and Operations Research
+
+The DIRO (Département d'informatique et de recherche opérationnelle - Department
+of Computer Science and Operations Research) invites applications for two
+tenure-track positions in Computer Science at the Assistant Professor level, starting
+June 1st, 2000.
+
+The Department is seeking qualified candidates in Computer Science. Preference will
+be given to applicants with a strong research program in one of the following
+or related  areas:
+
+-- Hardware-software systems (specification, synthesis, and verification of
+   embedded systems);
+-- Artificial intelligence (machine learning and data mining);
+-- Distributed multimedia systems;
+-- Programming languages.
+
+Beyond demonstrating a clear potential for outstanding research,
+the successful candidates must be committed to excellence in teaching.
+
+The Université de Montréal is the leading French-speaking University in North
+America. The DIRO offers B.Sc., M.Sc. and Ph.D. degrees in Computer Science and
+Operations Research, as well as a combined undergraduate degree in Computer
+Science and Mathematics.  With 35 faculty members, 600 undergraduate and
+190 graduate students, the DIRO is one of the largest Computer Science
+departments in Canada as well as one of  the most active in research. Research
+interests of current faculty include computational biology, telecommunications,
+intelligent tutoring systems, computer architecture, software engineering,
+artificial intelligence, computational linguistic, computer graphics and vision,
+machine learning, theoretical and quantum computing, parallelism, optimization,
+heuristics, numerical simulation. Further information can be obtained at the
+Department's web site: http://www.iro.umontreal.ca.
+
+Requirements :  Ph.D. in Computer Science or a related area. Ability to teach and
+                supervise students in French within one year.
+Salary :        Salary is competitive and fringe benefits are excellent.
+
+Hardcopy applications including a curriculum vitae, a statement of current
+research program, at least three letters of reference, and up to three selected
+preprints/reprints, should be sent to:
+
+Sang Nguyen, professeur et directeur
+Département d'informatique et de recherche opérationnelle, FAS
+Université de Montréal
+C.P. 6128, Succ. "Centre-Ville"
+Montréal (Québec), H3C 3J7
+
+by February 1st, 2000.  Applications received after that date
+may be considered until the positions are filled.
+
+In accordance with Canadian Immigration requirements, priority will be
+given to Canadian citizens and permanent residents. The Université de
+Montréal is committed to equity in employment and encourages
+applications from qualified women.
+
+--
+Yoshua Bengio
+Professeur aggrégé
+Département d'Informatique et Recherche Operationnelle
+Université de Montréal,
+addresse postale: C.P. 6128 Succ. Centre-Ville, Montreal, Quebec, Canada H3C 3J7
+addresse civique: 2920 Chemin de la Tour, Montreal, Quebec, Canada H3T 1J8, #2194
+Tel: 514-343-6804. Fax: 514-343-5834. Bureau 3339.
+http://www.iro.umontreal.ca/~bengioy
+http://www.iro.umontreal.ca/~lisa

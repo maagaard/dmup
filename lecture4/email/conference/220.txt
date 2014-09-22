@@ -1,0 +1,115 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb 16 05:55:44 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA22827;
+	Tue, 16 Feb 1999 05:55:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28855;
+          15 Feb 99 21:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28853;
+          15 Feb 99 21:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa25236;
+          15 Feb 99 21:43 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa19199; 15 Feb 99 11:57 EST
+Received: from merle.acns.nwu.edu by EDRC.CMU.EDU id aa24408;
+          15 Feb 99 11:56:52 EST
+Received: (from mailnull@localhost)
+	by merle.acns.nwu.edu (8.8.7/8.8.7) id KAA26756;
+	Mon, 15 Feb 1999 10:56:50 -0600 (CST)
+Received: from unknown(165.124.30.88) by merle.acns.nwu.edu via smap (V2.0)
+	id xma026379; Mon, 15 Feb 99 10:56:07 -0600
+Message-Id: <4.1.19990215104618.00bcc3c0@merle.acns.nwu.edu>
+X-Sender: pattn@merle.acns.nwu.edu
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1 
+Date: Mon, 15 Feb 1999 10:55:52 -0800
+To: neuromus@maelstrom.stjohns.edu, connectionists@cs.cmu.edu
+From: Jim Patton <j-patton@nwu.edu>
+Subject: Conference Announcement & Call for Papers
+Status: RO
+X-Status: 
+
+
+3rd IMACS/IEEE International Multiconference on Circuits, Systems,
+Communications and Computers
+
+Athens, Greece, JULY 4-8, 1999
+
+Special Session on Control in Biological Systems
+
+Session Organizer: Dr. Kamran Iqbal 
+
+
+Biological systems comprise all living organism, in particular the vertebrates.
+There has been a growing interest in the study of such systems since the early
+work of Sherington (The integrative action of the nervous system,1906) .
+Control in biological systems takes many forms, e.g., control of voluntary
+movements, control of gait and posture, control of muscle tension and joint
+stiffness, control of temperature, control of blood pressure, control of
+respiratory system, etc. Biological control is exerted through commands
+originating in the central nervous system, and is assisted by spinal reflexes
+and a low level motor servo. The neuro-physiological controller can be termed
+as autonomous, self-organizing, self-evolving, and hierarchical. 
+
+Biological systems are distinguished by their complex and diverse nature.
+Presence of nonlinear dynamics, multiple degrees-of-freedom, inter-segmental
+couplings, controller and actuator redundancies, multiple levels of feedback,
+finite feedback delays, and the distributed nature of parameters makes
+modelling of biological systems a daunting task. The complexity inherent in
+biological control systems has long challenged the researchers and often
+precluded the use of many a powerful tools otherwise available to control
+theorists. New and exciting additions to systems theory have often evolved from
+study of biological systems, e.g., artificial neural networks.
+
+The proposed session aims to explore the control issues relevant to the
+biological systems. A non-exhaustive list of topics includes the following:
+physiological and neuro-muscular system modeling, musculo-skeletal models,
+biokinematics, biodynamics, biomechanics, motor control, motor learning,
+neurological control of muscle activity, skeltomotor reflexes, control of limb
+movement, control of posture and locomotion, control of skilled movements,
+control of manipulative abilities, control of blood pressure,
+respiratory/ventilatory control, biomedical applications of automatic control,
+functional electrical and functional neuromuscular stimulation, evolutionary
+approaches in biological systems, trajectory control of movements,
+identification and computer simulation of biological systems. 
+
+Instructions to the authors:
+
+
+Please submit the following items by March 15, 1999:
+
+#1. A one page abstract via e-mail to: k-iqbal@nwu.edu (See Sample)
+
+#2. PDF(*.pdf) & MS Word (*.doc) file(s) for the full paper(s) via email (See
+Sample)
+
+#3. The CONSENT TO PUBLISH & TRANSFER OF COPYRIGHT FORM completed and signed
+(Please download and print the Form and mail to address below):
+
+Please Note: 
+Only original papers, written in English, which have not previously been
+published elsewhere will be accepted. 
+Overview papers which will be very well organized and give an extended survey
+of results in their topic are particularly welcome. 
+For all other questions please contact k-iqbal@nwu.edu or write to:
+
+*****************************************************************
+Dr. Kamran Iqbal 
+645 N. Michigan Ave
+Suite 1100
+Chicago, IL 60611
+Ph: 312-503-6801
+*****************************************************************
+
+Benefits of Contributing to the IMAC/IEEE MultiConference 
+*Have your paper published in the Proceedings that will be distributed to all
+conference attendees (including you!) 
+*Have your paper published in the Luxurious Books of World Scientific
+(independently on the Proceedings) 
+*Obtain international recognition in front of the IEEE - IMACS audience 
+*Exchange knowledge with qualified industry professionals 
+*Enhance your CV with two independent Publications (one in the Proceedings, one
+in the Post-Conference Luxurious Books) 
+*Gain recognition as a leader from your peers in the
+Circuits/Systems/Communications/Computers Engineering 
+*Have the opportunity to visit Greece and combine the conference with your
+summer vacations in sun-drenched Greek islands.

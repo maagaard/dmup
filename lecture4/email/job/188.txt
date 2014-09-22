@@ -1,0 +1,117 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Oct  1 09:56:58 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id JAA14046;
+	Fri, 1 Oct 1999 09:56:54 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ad08543;
+          30 Sep 99 15:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ad08541;
+          30 Sep 99 15:34 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18376;
+          30 Sep 99 15:34 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa04711; 30 Sep 99 10:42 EDT
+Received: from davinci.isds.duke.edu by edrc.cmu.edu id aa28751;
+          30 Sep 99 10:42 EDT
+Received: from bosco.isds.duke.edu (bosco.isds.duke.edu [152.3.22.42])
+	by isds.duke.edu (8.8.8/8.8.8) with ESMTP id KAA03187;
+	Thu, 30 Sep 1999 10:40:35 -0400 (EDT)
+Received: (from mw@localhost)
+	by bosco.isds.duke.edu (8.8.8/8.8.8) id KAA10758;
+	Thu, 30 Sep 1999 10:40:35 -0400 (EDT)
+Message-ID: <19990930104035.B3972@isds.duke.edu>
+Date: Thu, 30 Sep 1999 10:40:35 -0400
+From: Mike West <mw@stat.Duke.EDU>
+To: Mike West <mw@isds.duke.edu>
+Subject: Faculty Positions Available At Duke University 
+Reply-To: Mike West <mw@stat.Duke.EDU>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 0.93.2
+Status: RO
+X-Status: 
+
+
+Dear Colleague
+ I would appreciate your assistance in bringing the vacancies below to
+ the attention of potential candidates, and in forwarding the ad to 
+ your departmental colleagues. Thanks.
+Mike W
+ ===========================================================
+ Mike West
+ Arts & Sciences Professor of Statistics & Decision Sciences
+ Director, Institute of Statistics & Decision Sciences 
+           Duke University, Durham, NC 27708-0251. USA
+ tel/fax: (919) 684-8842/8594       http://www.stat.duke.edu 
+ ===========================================================
+
+
+
+
+
+
+            **********************************************
+   	    STATISTICS AND BIOSTATISTICS FACULTY POSITIONS 
+ 	     Institute of Statistics & Decision Sciences 
+		           DUKE UNIVERSITY
+			   ***************
+
+Duke University has openings for tenured and tenure-track faculty, to begin 
+in Fall 2000. We invite applications and nominations for the positions 
+detailed below. 
+
+ (a) Full professor in the Institute of Statistics and Decision 
+     Sciences (ISDS), and  
+
+ (b) Assistant professor in Biostatistics in the School of Medicine, 
+     with a joint appointment in ISDS.
+
+Suitable applicants for appointment as tenured Professor of Statistics
+and Decision Sciences will be recognised research leaders in statistics. 
+We are particularly interested in hearing from potential applicants in 
+Bayesian statistics and related areas, and with disciplinary interests 
+in biomedical applications. In collaboration with other departments at 
+Duke, ISDS is developing a range of activities in statistical genetics 
+and bioinformatics more broadly, and so particularly encourages applicants 
+whose applied interests relate to these areas. Applications and nominations
+should be sent to Mike West, Director, ISDS, Duke University, Durham 
+NC 27708-0251. Applications received by January 15th 2000 will be guaranteed 
+full consideration.
+
+Appointment at the assistant professor level will be tenure track in the 
+Division of Biometry in the School of Medicine, with a secondary 
+appointment in ISDS. The appointee will work on cancer-related research
+projects and cancer clinical trials in the Biostatistics Unit of the
+Duke Comprehensive Cancer Center, and will have teaching and research
+roles in both ISDS and Biometry. A suitable applicant will hold a PhD
+in statistics or biostatistics, and have evident potential for excellence 
+in research in biomedical statistics and quality teaching. Some background 
+in areas involving collaborative medical research, clinical trials and 
+interactions with medical research investigators will be beneficial. 
+Applicants should mail cv and letter of application, and arrange for 
+three letters of reference to be sent to, the Faculty Search Committee, 
+Box 3958, Duke University  Medical Center, Durham, NC 27710. Applications 
+received by January 15th 2000 will be guaranteed full consideration.
+
+Additional appointments in biostatistics, including non-tenure/research track 
+positions, may be available. 
+
+Applications from suitably qualified women and minority candidates, for
+each of the above positions, are particularly encouraged. Duke University 
+is an Equal Opportunity/Affirmative Action Employer. 
+
+        ******************************************************
+        Further information is available at the ISDS web site: 
+ 		     http://www.stat.duke.edu
+        ******************************************************
+
+
+
+
+
+          
+
+
+
+
+

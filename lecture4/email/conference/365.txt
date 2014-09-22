@@ -1,0 +1,117 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jan 18 15:10:11 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id PAA23031;
+	Tue, 18 Jan 2000 15:10:03 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09230;
+          18 Jan 2000 0:27 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09228;
+          18 Jan 2000 0:19 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01531;
+          18 Jan 2000 0:19 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa07055;
+          18 Jan 2000 0:11 EST
+Received: from savanna.brain.riken.go.jp by edrc.cmu.edu id aa10038;
+          18 Jan 2000 0:09 EST
+Received: from localhost (manatee.brain.riken.go.jp [134.160.162.41])
+	by savanna.brain.riken.go.jp (8.9.1a/3.7W-19981203) with ESMTP id OAA31067;
+	Tue, 18 Jan 2000 14:09:36 +0900 (JST)
+To: connectionists@cs.cmu.edu
+CC: tanifuji@postman.riken.go.jp
+Subject: RIKEN Summer School
+X-Mailer: Mew version 1.93 on XEmacs 20.4 (Emerald)
+X-URL: http://www.islab.brain.riken.go.jp/~amari/
+Mime-Version: 1.0
+Content-Type: Text/Plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Message-Id: <20000118140935P.amari@brain.riken.go.jp>
+Date: Tue, 18 Jan 2000 14:09:35 +0900
+From: Shunichi Amari <amari@brain.riken.go.jp>
+X-Dispatcher: imput version 980905(IM100)
+Lines: 82
+Status: RO
+X-Status: 
+
+
+RIKEN Brain Science Institute will organize
+
+            Summer Program 2000
+
+
+The Brain Science Institute (BSI) at RIKEN is offering a summer program to
+train advanced students interested in brain function. Applicants may choose
+either a laboratory internship for two months with one of the 30
+Laboratories at BSI, or participate in an intensive two-week lecture course
+featuring a distinguished international faculty. Summer Interns (Plan A)
+also enroll in the Lecture Course (Plan B). Travel and lodging expenses
+will be supported.
+
+
+Deadline : March 31, 2000
+
+
+INTERNSHIP (PLAN A)
+  July 4 - Sept 1
+
+  (Laboratories at RIKEN BSI)
+   ・Neuronal Function Research Group
+        (K.Mori/Y.Yoshihara/R.Yano/T.K.Hensch)
+   ・Neuronal Circuit Mechanisms Research Group
+        (M.Ito/H.Niki/T.Knopfel)
+   ・Cognitive Brain Science Group
+        (K.Tanaka/M.Tanifuji/A.A.Ioannides)
+   ・Developmental Brain Science Group
+        (K.Mikoshiba/H.Okamoto/T.Furuichi/K.Kajiwara)
+   ・Molecular Neuropathology Group
+        (N.Nukina/K.Yamakawa/R.Takahashi/T.Okamoto)
+   ・Aging and Psychiatric Research Group
+        (T.C.Saido/A.Takashima/T.Yoshikawa)
+   ・Brainway Group
+        (G.Matsumoto/M.Ichikawa)
+   ・Brain-Style Information Systems Research Group
+        (S.Amari/S.Tanaka/A.J.Cichocki)
+   ・Advanced Technology Development Center(ATDC)
+        (C.Itakura/T.Hashikawa/S.Itohara/A.Miyawaki/M.Ogawa)
+
+
+LECTURE COURSE (PLAN B)
+Topic:'How the Brain Works: Experimental and Theoretical Approaches'
+  July 4 - July 15
+
+  The purpose of the course is to provide basic concepts necessary for
+understanding computation in the brain at different levels from synapses to
+systems, and from both experimental and theoretical perspectives.
+Individual lecturers will provide basics of their field and advanced
+topics.
+
+ (Lecturers)
+   Tomoyuki Takahashi (University of Tokyo)
+   Anthony M. Zador (Cold Spring Harbor Laboratory)
+   Idan Segev (The Hebrew University)
+   Bruce L. McNaughton (University of Arizona)
+   Kensaku Mori (RIKEN/University of Tokyo)
+   Ad Aertsen (Albert-Ludwigs-University)
+   Shun-ichi Amari (RIKEN)
+   Kathleen S. Rockland (University of Iowa)
+   Masakazu Konishi (California Institute of Technology)
+   Mitsuo Kawato (ATR Human Info. Proc. Res. Labs.)
+   Earl K.Miller (RIKEN/Massachusetts Institute of Technology)
+   Nancy G. Kanwisher (Massachusetts Institute of Technology)
+   Shimon Ullman (The Weizmann Institute of Science)
+   Keiji Tanaka (RIKEN)
+   Okihide Hikosaka (Juntendo University)
+   Jun Tanji (Tohoku University)
+   Charles Jennings (Nature Neuroscience, Editor)
+   others to be included
+
+
+FURTHER INFORMATION
+
+Application forms : visit our web site http://summer.brain.riken.go.jp
+or send inquiries to Summer Program Organizing Committee, BSI, RIKEN
+2-1 Hirosawa, Wako-shi, Saitama 351-0198, JAPAN
+E-mail : info@summer.brain.riken.go.jp
+Fax : +81-48-462-4914
+
+

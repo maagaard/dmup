@@ -1,0 +1,80 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb  9 22:25:39 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA21532;
+	Tue, 9 Feb 1999 22:25:33 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab11944;
+          9 Feb 99 13:52 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab11942;
+          9 Feb 99 13:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15851;
+          9 Feb 99 13:37 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab11235; 9 Feb 99 12:11 EST
+Received: from rubens.usc.edu by EDRC.CMU.EDU id aa21209; 9 Feb 99 12:11:04 EST
+Received: by rubens.usc.edu. (SMI-8.6/SMI-SVR4)
+	id JAA15291; Tue, 9 Feb 1999 09:10:49 -0800
+Date: Tue, 9 Feb 1999 09:10:49 -0800
+Message-Id: <199902091710.JAA15291@rubens.usc.edu.>
+From: Stefan Schaal <sschaal@usc.edu>
+To: connectionists@cs.cmu.edu
+Subject: Postdoc position in Computational Motor Control
+Status: RO
+X-Status: 
+
+
+Postdoctoral Position in Computational Motor Control
+-----------------------------------------------------
+
+The Computational Learning and Motor Control Laboratory at the 
+University of Southern California, which is part of the Kawato
+Dynamic Brain Project at ATR in Japan, is looking for an outstanding 
+postdoctoral fellow in Computational Motor Control. The position 
+is available starting from April 99, initially for one year, but 
+can be renewed until Sept. 2001.
+
+  Research topics of our group are strongly interdisciplinary.
+On the one hand, we are interested in developing formal theories of
+how the mammalian brain solves problems of sensory motor control.
+On the other hand, we also try to test these theories with humanoid
+robots, ranging from human-arm-like robots up to a full-body humanoid
+with a complete oculomotor and vestibular system. We also employ 
+behavioral experiments to compare human performance against robot 
+performance and our developed theories. A strong emphasis of our 
+research lies on developing statistical learning mechanisms for the 
+self-organization of motor control, for instance, applied to the 
+learning of internal models, the self-organization of internal 
+representations, or high-level topics like imitation learning. 
+More information can be found at:
+http://www-slab.usc.edu   or  http://www.erato.atr.co.jp
+
+  The ideal candidate for this position has a strong background in
+statistical learning and neural networks, in computational neuroscience
+of motor control, in behavioral motor control, as well as in dealing
+with experimental and computer equipment. The candidate is expected
+to independently lead research projects, supervise students, and 
+interact with our Japan-based part of the project through visits to
+Japan. The postdoctoral position allows a great deal of flexibility
+concerning the research topic as long as it fits within the broad
+range of our group's interests in computational motor control.
+
+  Before sending any formal applications, including a CV and at least
+3 letters of recommendation, send a (brief!!) email letter of intent to
+sschaal@usc.edu (Dr. Stefan Schaal), briefly describing your past
+and current research interests, and how you would imagine to 
+integrate in our projects.
+  
+
+Stefan Schaal
+
+Assistant Professor
+Computer Science and Neuroscience
+University of Southern California, HNB 103
+Los Angeles, CA 90089-2520
+               & 
+Head, Computational Learning Group
+Kawato Dynamic Brain Project (ERATO/JST)
+ATR, Japan
+
+phone: (213) 740 9418
+fax:   (213) 740 1510

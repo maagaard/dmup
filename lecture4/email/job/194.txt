@@ -1,0 +1,88 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Oct 12 02:30:14 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id CAA13713;
+	Tue, 12 Oct 1999 02:30:10 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05154;
+          11 Oct 99 19:03 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05152;
+          11 Oct 99 18:53 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05896;
+          11 Oct 99 18:52 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa18155; 11 Oct 99 15:28 EDT
+Received: from ENGC.BU.EDU by cs.cmu.edu id aa01087; 11 Oct 99 15:26 EDT
+Received: from [128.197.51.41] (CORTEX.BU.EDU [128.197.51.41])
+	by engc.bu.edu (8.8.5/8.8.8/(BU-S-10/16/98-v1.0a)) with ESMTP id PAA02735;
+	Mon, 11 Oct 1999 15:26:27 -0400 (EDT)
+X-Sender: vaina@engc.bu.edu
+Message-Id: <v04003a00b427d6f465e6@[128.197.51.41]>
+Mime-Version: 1.0
+Content-Type: text/enriched; charset="us-ascii"
+Date: Mon, 11 Oct 1999 15:29:11 -0400
+To: vaina@engc.bu.edu
+From: "Lucia M. Vaina" <vaina@engc.bu.edu>
+Subject: Research position in fMRI applied to neurorecovery after stroke
+Status: RO
+X-Status: 
+
+Research position in Computational Functional MRI at Brain and Vision
+Research Laboratory, Boston University
+
+This is a newly-funded full-time  research appointment
+
+aimed at  quantitatively and qualitatively characterize the statistical
+and temporal characteristics of brain activations during restorative
+plasticity in the human brain after stroke.
+
+The  postholder will jointly engage in the following aspects of the
+Lab's work:
+
+     * establish functional imaging on a research MRI scanner,
+including
+
+     the stimulus development, presentation system, software and
+interfacing.
+
+     * work with  clinicians to define, establish  and run suitable
+test paradigms on healthy volunteers and patients
+
+     *  image-processing, analysis, visualisation of  clinical data
+obtained in fMRI studies
+
+ * work with MT physicists, psychophysicists and  clinicians to explore
+the uses of near-real-time analysis techniques in fMRI studies, and to
+develop software that tracks the dynamics and changes of activatios
+over time.
+
+The postholders should be able to undertake original research in one
+or more of the following areas of fMRI: statistical models of physical
+and physiological noise; data modelling; parallel statistical and
+image-processing algorithms; visualisation techniques, application of
+various techniques to quantify changes in fMRI images.
+
+Candidates should hold a higher degree in computer csience, engineering
+or physics  and should be familiar with PC and Unix computing.  
+Expertise in statistical and cognitive  modelling, MRI,  image
+analysis, and visualisation are highly desirable.  
+
+Further particulars should be obtained from:
+
+Lucia M. Vaina  Ph.D., D.Sc.
+Professor of Biomedical Engineering and Neurology 
+Brain and Vision Research Laboratory
+Boston University, Department of Biomedical Engineering 
+College of Engineering
+44 Cummington str, Room 315
+Boston University
+Boston, Ma 02215
+USA
+tel: 617-353-2455
+fax: 617-353-6766
+
+
+" Ognuno rimarra nel ricordo; ma ognuno fu grande secondo quelo che
+spero. Uno fu grande sperando il possibile; un altro sperando
+l'eternita; ma chi spero l'impossibile fu il piu grande di tutti"
+
+S. Kierkegard.

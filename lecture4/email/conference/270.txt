@@ -1,0 +1,192 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jun 19 12:03:00 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA11460;
+	Sat, 19 Jun 1999 12:02:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13622;
+          19 Jun 99 1:55 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13595;
+          19 Jun 99 1:44 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08040;
+          19 Jun 99 1:44 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa24842; 18 Jun 99 8:35 EDT
+Received: from [139.153.254.11] by EDRC.CMU.EDU id aa05300;
+          18 Jun 99 8:35:09 EDT
+Received: from tinker.cs.stir.ac.uk by dosh.cs.stir.ac.uk (8.8.7) with ESMTP id NAA11721; Fri, 18 Jun 1999 13:34:17 +0100 (BST)
+Received: by tinker.cs.stir.ac.uk (8.8.6) id NAA09196; Fri, 18 Jun 1999 13:34:16 +0100 (BST)
+Message-Id: <199906181234.NAA09196@tinker.cs.stir.ac.uk>
+MIME-Version: 1.0 (NeXT Mail 3.3 v118.2)
+Content-Type: text/plain; charset=us-ascii
+Received: by NeXT.Mailer (1.118.2)
+From: Dr L S Smith <l.s.smith@cs.stir.ac.uk>
+Date: Fri, 18 Jun 99 13:34:16 +0100
+To: connectionists@cs.cmu.edu
+Subject: 2nd European Workshop on Neuromorphic Systems: Call for participation
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id MAA11460
+Status: RO
+X-Status: 
+
+(Apologies if you receive this more than once)
+
+Call for Participation:
+
+2nd European Workshop on Neuromorphic Systems (EWNS2)
+
+3-5 September 1999, Cottrell Building, University of Stirling,
+Stirling, Scotland
+
+Neuromorphic systems are implementations in silicon of sensory and
+neural systems whose architecture and design are based on
+neurobiology.  The area is at the intersection of many disciplines:
+neurophysiology, computer science and electrical engineering.
+
+Registration Forms and Further Information are available from the
+WWW page
+
+http://www.cs.stir.ac.uk/EWNS2
+
+_____________________
+
+Provisional Programme
+
+Friday September 3
+
+0900-1030: Registration and Coffee
+1030-1115: Pedro Marijuan, Dept. Ingen. Electronica y
+Comunicaciones, Universidad de Zaragoza, Spain: From Darwin to
+Cajal: The Quest for a Neurodynamic Optimization Principle
+
+Session 1: General Papers
+
+1115-1145: Babara Webb, University of Stirling: A Framework for
+Models of Biological Behaviour
+1145-1215: Catherine Breslin and Leslie Smith, University of
+Stirling: Silicon Cellular Morphology
+1215-1245: J Love, Florida Institute of Technology, Melbourne,
+Florida USA and K M Johnson National Research Council, NASA
+Kennedy Space Center, Florida USA: Towards Evolvable Neuromorphic
+Ststems: Adaptive Ontogenetic Engineering of Artificial
+Sensorineural Vestibular Organs
+
+1245-1400: Lunch
+
+Session 2: Auditory I
+
+1400-1445 Simon Jones, Dept. of Electrical Engineering, University
+of Loughborough, England: (title to be announced)
+1445-1515: Mete Erturk, C P Brown, D J Klein and S A Shamma,
+Institute for Systems Research and Dept. of Electrical
+Engineering, University of Maryland, USA:  A Neuromorphic Approach
+to the Analysis of Monaural and Binaural auditory Signals
+1515-1545: Amir Hussain and Douglas R Campbell, Dept of Applied
+Computing, University of Dundee, Scotland: Speech Intelligibility
+- Improvements Using a Binaural Adaptive-Shceme Based Conceptually
+on the Human-Auditory System
+
+1545-1610: Tea
+
+Session 3: Vision I
+
+1610-1640 Tobi Delbruk, Institute for Neuronformatics, Zurich,
+Switzerland: Three Silicon Retinas for Simple Consumer
+Applications
+1640-1710 Seiji Kameda, Akira Honda, Tetsuya Yagi, Faculty of
+Computer Science and Ststems Engineering, Kyushu Institute of
+Technology, Fukuoka, Japan: Real Time Image Processing with an
+Analog Vision Chip System
+
+1930 Wine and Cheese Reception in the Atrium
+_________________________________________________________
+
+Saturday September 4
+
+Session 4: Auditory II
+
+0900-0945: Andre van Schaik, Craig Jin and Simon Carlile,
+University of Sydney, Australia: Human Localisation of Band-Pass
+Filtered Noise
+0945-1015: Amir Hussain, Dept of Applied Computing, University of
+Dundee, Scotland: Binaural Neural-Network Based Sub-Band
+Processing of Noisy Speech Signals
+1015-1045: Sofia Cavaco, Universidade Nova de Lisboa and John
+Hallam, University of Edinburgh: A Biologically Plausible Acoustic
+Motion Detection System for a Robotic Cat
+
+
+1045-1115: Coffee
+
+Session 5: Vision II
+
+1115-1145: E Ros, F J Pelayo, D Palomar, I Rojas, J L Bernier and
+A Prieto, Dept of Architecture and Tecnology of Computers,
+University of Granada, Spain: Stimulus correlation and Adaptive
+Local Motion Detection
+1145-1215: Reid R Harrison and Christof Koch, Computation and
+Neural Systems Program, California Institute of Technology, USA:
+An Analog VLSI Implementation of a Visual Interneuron: Enhanced
+Sensory Processing through Biophysical Modelling
+1215-1245: R Timothy Edwards, Johns Hopkins University, Applied
+Physics Laboratory, Maryland, USA: Acoustic Transient
+Classification with a Template Correlation Processor
+
+1245-1400: Lunch
+
+1400-1445 Avis Cohen, Dept of Biology and Neuroscience and
+Cognitive Science, University of Maryland, USA: (title to be
+announced)
+
+Session 6: Robotics
+
+1445-1515 Timothy Chapman and Babara Webb, University of Stirling:
+A Neuromorphic Hair Sensor Model of Wind-Mediated Escape in the
+Cricket
+1515-1545: R Mudra, R Hahnloser and R J Douglas, Institute for
+Neuroinformatics, Zurich, Switzerland: Integrating neuromorphic
+action-oriented perceptual inputs to generate a navigation
+behaviour for a robot
+
+1545-1615 Coffee
+
+1615-1645 Mark Blanchard, P F M J Verschure, Institute of
+Neuroinformatics, Zurich, Switzerland and F C Rind, Dept of
+Neurobilogy, University of Newcastle upon Tyne, England: Using
+Mobile Robots to Study Locust Collision Avoidance Responses
+1645-1715 Ralf Moller, Dept of Computer Science and Dept of
+Zoology, University of Zurich, Switzerland: Visual Homing in
+Analog Hardware
+
+1915: Conference Dinner
+_______________________________________________
+
+Sunday September 5
+
+Session 7 Hardware
+
+1000-1045: Shii Chii: Institute of Neuroinformatics, Zurich,
+Switzerland: (title to be announced)
+1045-1115: Peter Paschke and Carsten Schauer, Technical University
+of Ilmenau, Germany: A Spike-Based Model of Binaural Sound
+Localization
+1115-1145: Cyprian Grassmann and Joachim K Anlauf, University of
+Bonn, Germany: Fast Digital Simulation of Spiking Neural Networks
+and Neuromorphic Integration with SPIKELAB
+
+1145-1215: B E Eriksson, L S Smith, University of Stirling, M
+Glover, DERA, A Hamilton, University of Edinburgh, Scotland: SPIKE
+II: An integrate-and-fire aVLSI chip.
+
+1215-1315: Lunch
+
+1315-1345: Best Paper Prize
+
+1345-1500: Panel Discussion: Neuromorphic Systems - The Ways
+Forward
+Presentation on EPSRC Silicon and Neurobiology Network (L.S.
+Smith)
+
+1500: Tea and Close of Conference
+
+We gratefully acknowledge the assistance of the Gatsby Charitable
+Foundation.

@@ -1,0 +1,995 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Nov 11 04:10:49 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA23522;
+	Wed, 11 Nov 1998 04:10:41 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15867;
+          10 Nov 98 14:51 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15865;
+          10 Nov 98 14:31 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa13100;
+          10 Nov 98 14:31 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa02135; 9 Nov 98 17:29 EST
+Received: from keating.anu.edu.au by CS.CMU.EDU id aa01354;
+          9 Nov 98 17:29:11 EST
+Received: (from jon@localhost)
+	by keating.anu.edu.au (8.8.8/8.8.8) id JAA08025;
+	Tue, 10 Nov 1998 09:29:03 +1100 (EST)
+From: Jonathan Baxter <Jon.Baxter@keating.anu.edu.au>
+Message-Id: <199811092229.JAA08025@keating.anu.edu.au>
+Subject: no subject (file transmission)
+To: Connectionists@cs.cmu.edu, NIPS98@keating.anu.edu.au,
+        final@keating.anu.edu.au, program@keating.anu.edu.au
+Date: Tue, 10 Nov 1998 09:29:03 +1100 (EST)
+X-Mailer: ELM [version 2.4 PL24]
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+
+*********************** NIPS*98 FINAL PROGRAM **********************
+
+My apologies if you receive this notice more than once.
+
+Jonathan Baxter
+
+********************************************************************
+
+
+
+SUN NOV 29
+----------
+
+
+18:00-22:00	Registration
+
+
+MON NOV 30
+----------
+
+
+08:30-18:00	Registration
+
+09:30-17:30	Tutorials
+
+18:30		Reception and Conference Banquet
+
+20:30		The laws of the WEB (Banquet talk)
+		B. Huberman
+		Xerox PARC
+
+
+TUE DEC 1
+---------
+
+
+		Oral Session 1:
+
+
+08:30		Statistics of visual images: neural representation and synthesis
+		(Invited)
+		E. Simoncelli
+		New York University 
+
+09:20		Attentional modulation of human pattern discrimination 
+		psychophysics reproduced by a quantitative model
+		(VS1, Oral)
+		L. Itti, J. Braun, D. Lee, C. Koch
+		California Institute of Technology
+
+09:40		Orientation, scale, and discontinuity as emergent 
+		properties of illusory contour shape
+		(VS2, Oral) 
+		K. Thornber, L. Williams
+		NEC Research Institute, University of New Mexico
+
+10:00		DTs: dynamic trees 
+		(AA1, Spotlight)
+	 	C. Williams, N. Adams
+		Aston University
+
+		Modeling stationary and integrated time series with 
+		autoregressive neural networks
+		(LT1, Spotlight)
+		F. Leisch, A. Trapletti, K. Hornik
+		Technical University of Vienna
+
+		Analog neural nets with Gaussian or other common noise 
+		distributions cannot recognize arbitrary regular languages
+		(LT2, Spotlight)
+		W. Maass, E. Sontag
+		Technical University of Graz, Rutgers University
+
+		Semiparametric support vector and linear programming machines 
+		(AA8, Spotlight)
+		A. Smola, T. Friess, B. Schoelkopf
+		GMD FIRST
+
+		Blind separation of filtered source using state-space approach 
+		(AA13, Spotlight)
+		L. Zhang, A. Cichocki
+		RIKEN Brain Science Institute
+
+
+10:15-11:00	Break
+
+
+		Oral Session 2:
+
+
+11:00		The bias-variance tradeoff and the randomized GACV
+		(AA4, Oral)
+		G. Wahba, X. Lin, F. Gao, D. Xiang, R. Klein, B. Klein
+		University of Wisconsin-Madison, SAS Institute 
+
+11:20		Kernel PCA and de-noising in feature spaces 
+		(AA7, Oral)
+		S. Mika, B. Schoelkopf, A. Smola, K. Mueller, M Scholz, G. Raetsch
+		GMD FIRST
+
+11:40		Sparse code shrinkage: denoising by maximum likelihood estimation
+		(AA12, Oral) 
+		A. Hyvaarinen, P. Hoyer, E. Oja
+		Helsinki University of Technology
+
+
+12:00-14:00	Lunch
+
+
+		Oral Session 3:
+
+
+14:00		Temporally asymmetric Hebbian learning, spike timing 
+		and neuronal response variability
+		(Invited)
+		L. Abbott 
+		Brandeis University
+
+14:50		Information maximization in single neurons
+		(NS1, Oral)
+		M. Stemmler, C. Koch
+		California Institute of Technology
+
+15:10		Multi-electrode spike sorting by clustering transfer functions
+		(NS2, Oral)
+		D. Rinberg, H. Davidowitz, N. Tishby
+		NEC Research Institute
+
+15:30		Distributional population codes and multiple motion models
+		(NS3, Spotlight)
+		R. Zemel, P. Dayan
+		University of Arizona, Massachusetts Institute of Technology
+
+		Population coding with correlated noise
+		(NS4, Spotlight)
+		H. Yoon, H. Sompolinsky
+		Hebrew University
+
+		Bayesian modeling of human concept learning 
+		(CS1, Spotlight)
+		J. Tenenbaum
+		Massachusetts Institute of Technology
+
+		Mechanisms of generalization in perceptual learning
+		(CS2, Spotlight)
+		Z. Liu, D. Weinshall
+		NEC Research Institute, Hebrew University
+
+		An entropic estimator for structure discovery
+		(SP1, Spotlight)
+		M. Brand 
+		Mitsubishi Electric Research Laboratory
+
+
+15:45-16:15	Break
+
+
+		Oral Session 4:
+
+
+16:15		The role of lateral cortical competition in ocular 
+		dominance development 
+		(NS6, Oral)
+		C. Piepenbrock, K. Obermayer
+		Technical University of Berlin
+
+16:35		Evidence for learning of a forward dynamic model in 
+		human adaptive control
+		(CS3, Oral)
+		N. Bhushan, R. Shadmehr
+		Johns Hopkins University
+
+
+16:55-18:00	Poster Preview
+
+
+19:30		Poster Session
+
+
+WED DEC 2
+---------
+
+
+		Oral Session 5:
+
+
+08:30		Computation by Cortical Modules 
+		(Invited)
+		H. Sompolinsky
+		Hebrew University 
+ 
+09:20		Learning curves for Gaussian processes 
+		(LT14, Oral) 
+		P. Sollich 
+		University of Edinburgh 
+
+9:40		Mean field methods for classification with Gaussian processes 
+		(LT15, Oral) 
+		M. Opper O. Winther
+		Aston University, Niels Bohr Institute
+
+10:00		Dynamics of supervised learning with restricted training sets 
+		(LT16, Spotlight)
+		A. Coolen, D. Saad
+		King's College London, Aston University
+
+		Finite-dimensional approximation of Gaussian processes
+		(LT18, Spotlight)
+		G. Trecate, C. Williams, M. Opper
+		University of Pavia, Aston University
+
+		Inference in multilayer networks via large deviation bounds
+		(LT20, Spotlight)
+		M. Kearns, L. Saul 
+		AT&T Labs
+
+		Gradient descent for general reinforcement learning
+		(CN14, Spotlight)
+		L. Baird, A. Moore
+		Carnegie Mellon University
+
+		Risk sensitive reinforcement learning
+		(CN15, Spotlight)
+		R. Neuneier, O. Mihatsch
+		Siemens AG 
+
+
+10:15-11:00	Break
+
+
+		Oral Session 6:
+
+
+11:00 		VLSI implementation of motion centroid localization for 
+		autonomous navigation
+		(IM6, Oral)
+		R. Etienne-Cummings, M. Ghani, V. Gruev
+		Southern Illinois University
+
+11:20		Improved switching among temporally abstract actions
+		(CN16, Oral)
+		R. Sutton, S. Singh, D. Precup, B. Ravindran
+		University of Massachusetts, University of Colorado
+
+11:40		Finite-sample convergence rates for Q-learning and 
+		indirect algorithms
+		(CN17, Oral) 
+		M. Kearns, S. Singh
+		AT&T Labs, University of Colorado
+
+
+12:00-14:00	Lunch
+
+
+		Oral Session 7:
+
+
+14:00		Statistical natural language processing: better living 
+		through floating-point numbers
+		(Invited)
+		E. Charniak
+		Brown University 
+
+14:50		Markov processes on curves for automatic speech recognition
+		(SP3, Oral)
+		L. Saul, M. Rahim
+		AT&T Labs
+
+15:10		Approximate learning of dynamic models
+		(AA22, Oral)
+		X. Boyen, D. Koller
+		Stanford University
+
+15:30		Learning nonlinear stochastic dynamics using the 
+		generalized EM algorithm
+		(AA23, Spotlight)
+		Z. Ghahramani, S. Roweis
+		University of Toronto, California Institute of Technology
+
+		Reinforcement learning for trading systems
+		(AP9, Spotlight)
+		J. Moody, M. Saffell
+		Oregon Graduate Institute
+
+		Bayesian modeling of facial similarity
+		(AP13, Spotlight)
+		B. Moghaddam, T. Jebara, A. Pentland 
+		Mitsubishi Electric Research Laboratory, 
+		Massachusetts Institute of Technology 
+
+		Computation of smooth optical flow in a feedback 
+		connected analog network
+		(IM8, Spotlight)
+		A. Stocker, R. Douglas
+		University and ETH Zurich
+
+		Classification on pairwise proximity data
+		(AA26, spotlight)
+		T. Graepel, R. Herbrich, P. Bollmann-Sdorra, K. Obermayer
+		Technical University of Berlin
+
+
+15:45-16:15	Break
+
+
+		Oral Session 8:
+
+
+16:15		Learning from dyadic data
+		(AA27, Oral)
+		T. Hofmann, J. Puzicha, M. Jordan
+		Massachusetts Institute of Technology, University of Bonn
+
+16:35		Classification in non-metric spaces 
+		(VS7, Oral)
+		D. Weinshall, D. Jacobs, Y. Gdalyahu
+		NEC Research Institute, Hebrew University 
+
+
+16:55-18:00	Poster Preview
+
+
+19:30		Poster Session
+
+
+THU DEC 3
+---------
+
+
+		Oral Session 9:
+
+
+08:30		Convergence of the wake-sleep algorithm
+		(LT22, Oral)
+		S. Ikeda, S. Amari, H. Nakahara
+		RIKEN Brain Science Institute
+
+08:50		Learning a continuous hidden variable model for binary data
+		(AA32, Oral)
+		D. Lee, H. Sompolinsky
+		Bell Laboratories, Hebrew University
+
+09:10		Direct optimization of margins improves generalization 
+		in combined classifiers
+		(LT23, Oral)
+		L. Mason, P. Bartlett, J. Baxter
+		Australian National University
+
+09:30		A polygonal line algorithm for constructing principal curves
+		(AA39, Oral)
+		B. Kegl, A. Krzyzak, T. Linder, K. Zeger
+		Concordia University, Queen's University, UC San Diego
+
+
+09:50-10:30	Break
+
+
+		Oral Session 10:
+
+
+10:30		Graphical models for recognizing human interactions
+		(AP15, Oral)
+		N. Oliver, B. Rosario, A. Pentland
+		Massachusetts Institute of Technology
+
+10:50		Fast neural network emulation of physics-based models 
+		for computer animation
+		(AP16, Oral)
+		R. Grzeszczuk, D. Terzopoulos, G. Hinton
+		Intel Corporation, University of Toronto
+
+11:10		Things that think 
+		(Invited)
+		N. Gershenfeld
+		Massachusetts Institute of Technology
+
+
+12:00		End of main conference 
+
+
+POSTERS: TUE DEC 1 
+------------------
+
+
+		Basis selection for wavelet regression
+		(AA2, Poster)
+		K. Wheeler
+		NASA Ames Research Center
+
+		Boxlets: a fast convolution algorithm for signal processing
+		and neural networks
+		(AA3, Poster)
+		P. Simard, L. Bottou, P. Haffner, Y. LeCun
+		AT&T Labs
+
+		Least absolute shrinkage is equivalent to quadratic penalization
+		(AA5, Poster)
+		Y. Grandvalet, S. Canu
+		Universite de Technologie de Compiegne
+
+		Neural networks for density estimation
+		(AA6, Poster)
+		M. Magdon-Ismail, A. Atiya
+		California Institute of Technology
+
+		Semi-supervised support vector machines
+		(AA9, Poster)
+		K. Bennett, A. Demiriz
+		Rensselaer Polytechnic Institute
+
+		Exploiting generative models in discriminative classifiers
+		(AA10, Poster)
+		T. Jaakkola, D. Haussler
+		UC Santa Cruz
+
+		Using analytic QP and sparseness to speed training of support
+		vector machines
+		(AA11, Poster)
+		J. Platt
+		Microsoft Research
+
+		Source separation as a by-product of regularization
+		(AA14, Poster)
+		S. Hochreiter, J. Schmidhuber
+		Technical University of Munich, IDSIA
+
+		Unsupervised classification with non-Gaussian mixture
+		models using ICA
+		(AA15, Poster)
+		T-W. Lee, M. Lewicki, T. Sejnowski
+		The Salk Institute
+
+		Hierarchical ICA belief networks
+		(AA16, Poster)
+		H. Attias
+		UC San Francisco
+
+		Efficient Bayesian parameter estimation in large discrete domains
+		(AA17, Poster)
+		N. Friedman, Y. Singer
+		UC Berkeley, AT&T Labs
+
+		Discovering hidden features with Gaussian processes regression
+		(AA18, Poster)
+		F. Vivarelli, C. Williams
+		Aston University
+
+		Bayesian PCA
+		(AA19, Poster)
+		C. Bishop
+		Microsoft Research
+
+		Replicator equations, maximal cliques, and graph isomorphism
+		(AA20, Poster)
+		M. Pelillo
+		University of Venice
+
+		Convergence rates of algorithms for perceptual organization:
+		detecting visual contours
+		(AA21, Poster)
+		A. Yuille, J. Coughlan
+		Smith-Kettlewell Eye Research Institute
+
+		Independent component analysis of intracellular calcium spike data
+		(AP1, Poster)
+		K. Prank, J.Boerger, A. von zur Muehlen, G. Brabant, C. Schoefl
+		Medical School Hannover
+
+		Applications of multi-resolution neural networks to mammography
+		(AP2, Poster)
+		P. Sajda, C. Spence
+		Sarnoff Corporation
+
+		Making templates rotationally invariant: an application to
+		rotated digit recognition
+		(AP3, Poster)
+		S. Baluja
+		Carnegie Mellon University
+
+		Graph matching for shape retrieval
+		(AP4, Poster)
+		B. Huet, A. Cross, E. Hancock
+		University of York
+
+		Vertex identification in high energy physics experiments
+		(AP5, Poster)
+		G. Dror, H. Abramowicz, D. Horn
+		The Academic College of Tel-Aviv-Yaffo, Tel-Aviv University
+
+		Familiarity discrimination of radar pulses
+		(AP6, Poster)
+		E. Granger, S. Grossberg, M. Rubin, W. Streilein
+		Ecole Polytechnique de Montreal, Boston University
+
+		Robot docking using mixtures of Gaussians
+		(AP7, Poster)
+		M. Williamson, R. Murray-Smith, V. Hansen
+		Massachusetts Institute of Technology, Technical University
+		of Denmark, Daimler-Benz
+
+		Call-based fraud detection in mobile communication networks using
+		a hierarchical regime-switching model
+		(AP8, Poster)
+		J. Hollmen, V. Tresp
+		Helsinki University of Technology, Siemens AG
+
+		Multiple paired forward-inverse models for human motor learning
+		and control
+		(CS4, Poster)
+		M. Haruno, D. Wolpert, M. Kawato
+		ATR Human Information Processing Research Laboratories,
+		University College London
+
+		A neuromorphic monaural sound localizer
+		(IM1, Poster)
+		J. Harris, C-J. Pu, J. Principe
+		University of Florida
+
+		Active noise canceling using analog neuro-chip with on-chip
+		learning capability
+		(IM2, Poster)
+		J-W. Cho, S-Y. Lee
+		Korea Advanced Institute of Science and Technology
+
+		Optimizing correlation algorithms for hardware-based
+		transient classification
+		(IM3, Poster)
+		R. Edwards, G. Cauwenberghs, F. Pineda
+		Johns Hopkins University
+
+		A high performance k-NN classifier using a binary correlation
+		matrix memory
+		(IM4, Poster)
+		P. Zhou, J. Austin, J. Kennedy
+		University of York
+
+		A micropower CMOS adaptive amplitude and shift invariant
+		vector quantizer
+		(IM5, Poster)
+		R. Coggins, R. Wang, M. Jabri
+		University of Sidney
+
+		Where does the population vector of motor cortical cells point
+		during reaching movements?
+		(NS5, Poster)
+		P. Baraduc, E. Guigon, Y. Burnod
+		Universite Pierre et Marie Curie
+
+		Heeger's normalization, line attractor network and ideal observers
+		(NS7, Poster)
+		S. Deneve, A. Pouget, P. Latham
+		Georgetown University
+
+		Image statistics and cortical normalization models
+		(NS8, Poster)
+		E. Simoncelli, O. Schwartz
+		New York University
+
+		Learning instance-independent value functions to enhance
+		local search
+		(CN1, Poster)
+		R. Moll, A. Barto, T. Perkins, R. Sutton
+		University of Massachusetts
+
+		Exploring unknown environments with real-time heuristic search
+		(CN2, Poster)
+		S. Koenig
+		Georgia Institute of Technology
+
+		GLS: a hybrid classifier system based on POMDP research
+		(CN3, Poster)
+		A. Hayashi, N. Suematsu
+		Hiroshima City University
+
+		Non-linear PI control inspired by biological control systems
+		(CN4, Poster)
+		L. Brown, G. Gonye, J. Schwaber
+		E.I. DuPont deNemours
+
+		Coordinate transformation learning of hand position feedback
+		controller by using change of position error norm
+		(CN5, Poster)
+		E. Oyama, S. Tachi
+		University of Tokyo
+
+		Optimizing admission control while ensuring quality of service in
+		multimedia networks via reinforcement learning
+		(CN6, Poster)
+		T. Brown, H. Tong, S. Singh
+		University of Colorado
+
+		Barycentric interpolators for continuous space & time
+		reinforcement learning
+		(CN7, Poster)
+		R. Munos, A. Moore
+		Carnegie Mellon University
+
+		Modifying the parti-game algorithm for increased robustness,
+		higher efficiency and better policies
+		(CN8, Poster)
+		M. Al-Ansari, R. Williams
+		Northeastern University
+
+		Coding time-varying signals using sparse, shift-invariant
+		representations
+		(SP2, Poster)
+		M. Lewicki, T. Sejnowski
+		The Salk Institute
+
+		Phase diagram and storage capacity of sequence storing neural networks
+		(LT3, Poster)
+		A. Duering, A. Coolen, D. Sherrington
+		Oxford University, King's College London
+
+		Discontinuous recall transitions induced by competition between
+		short- and long-range interactions in recurrent networks
+		(LT4, Poster)
+		N. Skantzos, C. Beckmann, A. Coolen
+		King's College London
+
+		Computational differences between asymmetrical and symmetrical
+		networks
+		(LT5, Poster)
+		Z. Li, P. Dayan
+		Massachusetts Institute of Technology
+
+		Shrinking the tube: a new support vector regression algorithm
+		(LT6, Poster)
+		B. Schoelkopf, P. Bartlett, A. Smola, R. Williamson
+		GMD FIRST, Australian National University
+
+		Dynamically adapting kernels in support vector machines
+		(LT7, Poster)
+		N. Cristianini, C. Campbell, J. Shawe-Taylor
+		University of Bristol, University of London
+
+		A theory of mean field approximation
+		(LT8, Poster)
+		T. Tanaka
+		Tokyo Metropolitan University
+
+		The belief in TAP
+		(LT9, Poster)
+		Y. Kabashima, D. Saad
+		Tokyo Institute of Technology, Aston University
+
+		Unsupervised clustering: the mutual information between parameters
+		and observations
+		(LT10, Poster)
+		D. Herschkowitz, J-P. Nadal
+		Ecole Normale Superieure
+
+		Classification with linear threshold functions and the linear loss
+		(LT11, Poster)
+		C. Gentile, M. Warmuth
+		University of Milan, UC Santa Cruz
+
+		Almost linear VC dimension bounds for piecewise polynomial networks
+		(LT12, Poster)
+		P. Bartlett, V. Maiorov, R. Meir
+		Australian National University, Technion
+
+		Tight bounds for the VC-dimension of piecewise polynomial networks
+		(LT13, Poster)
+		A. Sakurai
+		Japan Advanced Institute of Science and Technology
+
+		Learning Lie transformation groups for invariant visual perception
+		(VS3, Poster)
+		R. Rao, D. Rudermann
+		The Salk Institute
+
+		Support vector machines applied to face recognition
+		(VS4, Poster)
+		J. Phillips
+		National Institute of Standards and Technology
+
+		Learning to find pictures of people
+		(VS5, Poster)
+		S. Ioffe, D. Forsyth
+		UC Berkeley
+
+		Probabilistic sensor fusion
+		(VS6, Poster)
+		R. Sharma, T. Leen, M. Pavel
+		Oregon Graduate Institute
+
+
+POSTERS: WED DEC 2
+------------------
+
+
+		Learning multi-class dynamics
+		(AA24, Poster)
+		A. Blake, B. North, M. Isard
+		Oxford University
+
+		Fisher scoring and a mixture of modes approach for approximate
+		inference and learning in nonlinear state space models
+		(AA25, Poster) 
+		T. Briegel, V. Tresp
+		Siemens AG
+
+		A randomized algorithm for pairwise clustering
+		(AA28, Poster)
+		Y. Gdalyahu, D. Weinshall, M. Werman
+		Hebrew University
+
+		Visualizing group structure
+		(AA29, Poster)
+		M. Held, J. Puzicha, J. Buhmann
+		University of Bonn
+
+		Probabilistic visualization of high-dimensional binary data
+		(AA30, Poster)
+		M. Tipping
+		Microsoft Research
+
+		Restructuring sparse high dimensional data for effective retrieval
+		(AA31, Poster)
+		C. Isbell, P. Viola
+		Massachusetts Institute of Technology
+
+		Exploratory data analysis using radial basis function latent
+		variable models
+		(AA33, Poster)
+		A. Marrs, A. Webb
+		DERA
+
+		SMEM algorithm for mixture models
+		(AA34, Poster)
+		N. Ueda, R. Nakano, Z. Ghahramani, G. Hinton
+		NTT Communication Science Laboratories, University of Toronto
+
+		Learning mixture hierarchies
+		(AA35, Poster)
+		N. Vasconcelos, A. Lippman
+		Massachusetts Institute of Technology
+
+		On-line and batch parameter estimation of Gaussian mixtures
+		based on the relative entropy
+		(AA36, Poster)
+		Y. Singer, M. Warmuth
+		AT&T Labs, UC Santa Cruz
+
+		Very fast EM-based mixture model clustering using multiresolution
+		kd-trees
+		(AA37, Poster)
+		A. Moore
+		Carnegie Mellon University
+
+		Maximum conditional likelihood via bound maximization and
+		the CEM algorithm
+		(AA38, Poster)
+		T. Jebara, A. Pentland
+		Massachusetts Institute of Technology
+
+		Lazy learning meets the recursive least squares algorithm
+		(AA40, Poster)
+		M. Birattari, G. Bontempi, H. Bersini
+		Universite Libre de Bruxelles
+
+		Global optimization of neural network models via sequential sampling
+		(AA41, Poster)
+		J. de Freitas, M. Niranjan, A. Doucet, A. Gee
+		Cambridge University
+
+		Regularizing AdaBoost
+		(AA42, Poster)
+		G. Raetsch, T. Onoda, K. Mueller
+		GMD FIRST
+
+		Using collective intelligence to route Internet traffic
+		(AP10, Poster)
+		D. Wolpert, K. Tumer, J. Frank
+		NASA Ames Research Center
+
+		Scheduling straight-line code using reinforcement learning
+		and rollouts
+		(AP11, Poster)
+		A. McGovern, E. Moss
+		University of Massachusetts
+
+		Probabilistic modeling for face orientation discrimination:
+		learning from labeled and unlabeled data
+		(AP12, Poster)
+		S. Baluja
+		Carnegie Mellon University
+
+		Adding constrained discontinuities to Gaussian process models
+		of wind fields
+		(AP14, Poster)
+		D. Cornford, I. Nabney, C. Williams
+		Aston University
+
+		A principle for unsupervised hierarchical decomposition of
+		visual scenes
+		(CS5, Poster)
+		M. Mozer
+		University of Colorado
+
+		Facial memory is kernel density estimation (almost)
+		(CS6, Poster)
+		M. Dailey, G. Cottrell, T. Busey
+		UC San Diego, Indiana University
+
+		Perceiving without learning: from spirals to inside/outside
+		relations
+		(CS7, Poster)
+		K. Chen, D. Wang
+		Ohio State University
+
+		Utilizing time: asynchronous binding
+		(CS8, Poster)
+		B. Love
+		Northwestern University
+
+		A model for associative multiplication
+		(CS9, Poster)
+		G. Christianson, S. Becker
+		McMaster University
+
+		Analog VLSI cellular implementation of the boundary contour system
+		(IM7, Poster)
+		G. Cauwenberghs, J. Waskiewicz
+		Johns Hopkins University
+
+		An integrated vision sensor for the computation of optical
+		flow singular points
+		(IM9, Poster)
+		C. Higgins, C. Koch
+		California Institute of Technology
+
+		Spike-based compared to rate-based Hebbian learning
+		(NS9, Poster)
+		R. Kempter, W. Gerstner, L. van Hemmen
+		Technical University of Munich, Swiss Federal Institute of Technology
+
+		Neuronal regulation implements efficient synaptic pruning
+		(NS10, Poster)
+		G. Chechik, I. Meilijson, E. Ruppin
+		Tel-Aviv University
+
+		Signal detection in noisy weakly-active dendrites
+		(NS11, Poster)
+		A. Manwani, C. Koch
+		California Institute of Technology
+
+		Influence of changing the synaptic transmitter release probability
+		on contrast adaptation of simple cells in the primary visual cortex
+		(NS12, Poster)
+		P. Adorjan, K. Obermayer
+		Technical University of Berlin
+
+		Complex cells as cortically amplified simple cells
+		(NS13, Poster)
+		F. Chance, S. Nelson, L. Abbott
+		Brandeis University
+
+		Synergy and redundancy among brain cells of behaving monkeys
+		(NS14, Poster)
+		I. Gat, N. Tishby
+		Hebrew University, NEC Research Institute
+
+		Visualizing and analyzing single-trial event-related potentials
+		(NS15, Poster)
+		T-P. Jung, S. Makeig, M. Westerfield, J. Townsend, E. Courchesne,
+		T. Sejnowski
+		The Salk Institute, Naval Health Research Center, UC San Diego
+
+		A reinforcement learning algorithm in partially observable
+		environments using short-term memory
+		(CN9, Poster)
+		N. Suematsu, A. Hayashi
+		Hiroshima City University
+
+		Experiments with a memoryless algorithm which learns locally optimal
+		stochastic policies for partially observable Markov decision processes 
+		(CN10, Poster)
+		J. Williams, S. Singh
+		University of Colorado
+
+		The effect of eligibility traces on finding optimal memoryless
+		policies in partially observable Markovian decision processes
+		(CN11, Poster)
+		J. Loch
+		University of Colorado
+
+		Learning macro-actions in reinforcement learning
+		(CN12, Poster)
+		J. Randlov
+		Niels Bohr Institute
+
+		Reinforcement learning based on on-line EM algorithm
+		(CN13, Poster)
+		M. Sato, S. Ishii
+		ATR Human Information Processing Research Laboratories,
+		Nara Institute of Science and Technology
+
+		Controlling the complexity of HMM systems by regularization
+		(SP4, Poster)
+		C. Neukirchen, G. Rigoll
+		Gerhard-Mercator-University
+
+		Maximum-likelihood continuity mapping (MALCOM): an alternative
+		to HMMs
+		(SP5, Poster)
+		D. Nix, J. Hogden
+		Los Alamos National Laboratory
+
+		On-line learning with restricted training sets: exact solution
+		as benchmark for general theories
+		(LT17, Poster)
+		H. Rae, P. Sollich, A. Coolen
+		King's College London, University of Edinburgh
+
+		General bounds on Bayes errors for regression with
+		Gaussian processes
+		(LT19, Poster)
+		M. Opper, F. Vivarelli
+		Aston University
+
+		Variational approximations of graphical models using
+		undirected graphs
+		(LT21, Poster)
+		D. Barber, W. Wiegerinck
+		University of Nijmegen
+
+		Optimizing classifiers for imbalanced training sets
+		(LT24, Poster)
+		G. Karakoulas, J. Shawe-Taylor
+		Canadian Imperial Bank of Commerce, University of London
+
+		On the optimality of incremental neural network algorithms
+		(LT25, Poster)
+		R. Meir, V. Maiorov
+		Technion
+
+		General-purpose localization of textured image regions
+		(VS8, Poster)
+		R. Rosenholtz
+		Xerox PARC
+
+		A V1 model of pop out and asymmetry in visual search
+		(VS9, Poster)
+		Z. Li
+		Massachusetts Institute of Technology
+
+		Minutemax: a fast approximation for minimax learning
+		(VS10, Poster)
+		J. Coughlan, A. Yuille
+		Smith-Kettlewell Eye Research Institute
+
+		Using statistical properties of a labelled visual world to
+		estimate scenes
+		(VS11, Poster)
+		W. Freeman, E. Pasztor
+		Mitsubishi Electric Research Laboratory
+
+		Example based image synthesis of articulated figures
+		(VS12, Poster)
+		T. Darrell
+		Interval Research
+
+*******************************************************************************
+

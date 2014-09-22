@@ -1,0 +1,164 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU Thu Mar 12 08:03:55 MET 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id IAA11041
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 12 Mar 1998 08:03:53 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa00317;
+          11 Mar 98 18:57:32 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa00315;
+          11 Mar 98 18:32:16 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00401;
+          11 Mar 98 16:30 EST
+Received: from MAILBOX.SRV.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa19654;
+          11 Mar 98 8:45 EST
+Received: from CNS.BU.EDU by MAILBOX.SRV.CS.CMU.EDU id aa03580;
+          11 Mar 98 8:44:33 EST
+Received: from barbar.esat.kuleuven.ac.be by cns.bu.edu (8.8.5/BU-11/2/94)
+	id IAA02006; Wed, 11 Mar 1998 08:41:59 -0500 (EST)
+From: Johan.Suykens@esat.kuleuven.ac.be
+Received: from euler.esat.kuleuven.ac.be (euler.esat.kuleuven.ac.be [134.58.56.72]) by barbar (version 8.8.5)  for <mass-mail@cns.bu.edu> with SMTP
+	id OAA23087; Wed, 11 Mar 1998 14:41:41 +0100 (MET)
+Organization: ESAT, K.U.Leuven, Belgium
+Received: by euler.esat.kuleuven.ac.be (SMI-8.6/ESAT-v1.5/SUN-SOLARIS)
+	id OAA00032; Wed, 11 Mar 1998 14:41:24 +0100
+Date: Wed, 11 Mar 1998 14:41:24 +0100
+Message-Id: <199803111341.OAA00032@euler.esat.kuleuven.ac.be>
+To: mass-mail@cns.bu.edu
+Subject: International Workshop
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-MD5: BxS14u8VjvJIp7QXqiJT4A==
+Status: RO
+X-Status: 
+
+
+
+ Second call for papers
+
+ International Workshop on 
+
+  ***  ADVANCED BLACK-BOX TECHNIQUES FOR NONLINEAR MODELING:
+       THEORY AND APPLICATIONS                                *** 
+
+ with  !!!  TIME-SERIES PREDICTION COMPETITION !!!
+
+
+ Date:            July 8-10, 1998
+ Place:           Katholieke Universiteit Leuven, Belgium
+ On-line Info:    http://www.esat.kuleuven.ac.be/sista/workshop/
+
+ Organized at the Department of Electrical Engineering (ESAT-SISTA) and the 
+ Interdisciplinary Center for Neural Networks (ICNN) in the framework of the 
+ project KIT and the Belgian Interuniversity Attraction Pole IUAP P4/02.
+ In cooperation with the IEEE Circuits and Systems Society.
+
+
+ * GENERAL SCOPE
+
+   The rapid growth of the field of neural networks, fuzzy systems
+   and wavelets is offering a variety of new techniques for modeling
+   of nonlinear systems in the broad sense. These topics have been 
+   investigated from differents points of view including statistics,
+   identification and control theory, approximation theory, signal
+   processing, nonlinear dynamics, information theory, physics and 
+   optimization theory among others. The aim of this workshop is to serve 
+   as an interdisciplinary forum for bringing together specialists in these
+   research disciplines. Issues related to the fundamental theory as well
+   as real-life applications will be addressed at the workshop.
+
+
+ * TIME-SERIES PREDICTION COMPETITION
+
+   Within the framework of this workshop a time-series prediction 
+   competition will be held. The results of the competition will be
+   announced during the workshop, where the winner will be awarded.
+   Participants in the competition are asked to submit their predicted
+   data together with a short description and references of the 
+   methods used. In order to stimulate wide participation in the 
+   competition, attendance of the workshop is not mandatory but 
+   is of course encouraged. All information about this contest is available
+   at http://www.esat.kuleuven.ac.be/sista/workshop/ .
+
+
+ * INVITED SPEAKERS (confirmed)
+
+   L. Feldkamp (Ford Research, USA)     -  Extended Kalman filtering 
+   C. Micchelli (IBM T.J. Watson, USA)  -  Density estimation 
+   U. Parlitz (Gottingen, Germany)      -  Nonlinear time-series analysis
+   J. Sjoberg (Goeteborg, Sweden)       -  Nonlinear system identification 
+   S. Tan (Beijing, China)              -  Wavelet-based system modeling   
+   V. Vapnik (AT&T Labs-Research, USA)  -  Support vector method of function
+                                           estimation
+   M. Vidyasagar (Bangalore, India)     -  Statistical learning theory 
+   V. Wertz (Louvain-la-Neuve, Belgium) -  Fuzzy modeling
+
+   A workshop book containing the invited talks will be published by Kluwer
+   and will be available at the workshop.
+
+
+ * TOPICS include but are not limited to
+
+   Nonlinear system identification     Backpropagation
+   Time series analysis                Learning and nonlinear optimization
+   Multilayer perceptrons              Recursive algorithms
+   Radial basis function networks      Extended Kalman filtering
+   Fuzzy modelling                     Embedding dimension
+   Wavelets                            Subspace methods
+   Piecewise linear models             Identifiability             
+   Mixture of experts                  Model selection and validation
+   Universal approximation             Simulated annealing
+   Recurrent networks                  Genetic algorithms
+   Regularization                      Forecasting
+   Bayesian estimation                 Frequency domain identification
+   Density estimation                  Classification
+   Information geometry                Real-life applications
+   Generalization                      Software
+
+
+ * REGISTRATION
+
+   Registration fee: 6500 BF for IEEE members and students, and 
+   7500 BF for others (1 US Dollar is approximately 37.5 BF).
+   It includes the workshop book, proceedings, lunches, dinners,
+   refreshments/coffee. For registration form and payment, see
+   http://www.esat.kuleuven.ac.be/sista/workshop/ .
+ 
+
+ * HOTEL INFORMATION
+
+   A block of rooms has been reserved at Begijnhof Congreshotel,
+   New Damshire, Holiday Inn and Ibis. For more information in order 
+   to contact the hotels, see http://www.esat.kuleuven.ac.be/sista/workshop/.
+
+
+ * IMPORTANT DATES
+
+       Deadline paper submission:    April   2, 1998
+       Notification of acceptance:   May     4, 1998
+       Workshop:                     July 8-10, 1998        
+
+   Time-series competition:
+
+       Deadline data submission:     March  20, 1998
+
+
+ * Chairman: 
+
+       Johan Suykens 
+       Katholieke Universiteit Leuven
+       Departement Elektrotechniek - ESAT/SISTA
+       Kardinaal Mercierlaan 94 
+       B-3001 Leuven (Heverlee), Belgium 
+       Tel: 32/16/32 18 02
+       Fax: 32/16/32 19 70
+       Email: Johan.Suykens@esat.kuleuven.ac.be
+
+   Program Committee: 
+
+   B. De Moor, E. Deprettere, D. Roose, J. Schoukens, S. Tan, 
+   J. Vandewalle, V. Wertz, Y. Yu
+
+
+

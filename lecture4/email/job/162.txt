@@ -1,0 +1,65 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Aug  7 04:03:32 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA08057;
+	Sat, 7 Aug 1999 04:03:24 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab01906;
+          6 Aug 99 19:01 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab01904;
+          6 Aug 99 18:50 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13352;
+          6 Aug 99 18:49 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13965; 6 Aug 99 1:28 EDT
+Received: from grey.Colorado.EDU by CS.CMU.EDU id aa24975; 6 Aug 99 1:28:09 EDT
+Received: (from oreilly@localhost)
+	by grey.colorado.edu (8.9.3/8.9.3) id XAA28247;
+	Thu, 5 Aug 1999 23:29:50 -0600
+Date: Thu, 5 Aug 1999 23:29:50 -0600
+Message-Id: <199908060529.XAA28247@grey.colorado.edu>
+X-Authentication-Warning: grey.colorado.edu: oreilly set sender to oreilly@grey.colorado.edu using -f
+From: "Randall C. O'Reilly" <oreilly@grey.colorado.edu>
+To: connectionists@cs.cmu.edu
+Subject: SENIOR and/or JUNIOR COGNITIVE NEUROSCIENCE POSITIONS
+Reply-to: oreilly@psych.colorado.edu
+Status: RO
+X-Status: 
+
+The following is our advertisement for faculty positions available at
+the University of Colorado, Boulder.  One of the directions we are
+interested in pursuing is to enhance our strength in computational
+modeling as a cognitive neuroscience methodology, so modelers are
+encouraged to apply.  Feel free to contact me for further
+information. 
+				- Randy
+
+SENIOR and/or JUNIOR COGNITIVE NEUROSCIENCE POSITIONS
+Department of Psychology,
+University of Colorado, Boulder
+
+The Department of Psychology, University of Colorado, Boulder, invites
+applications for two tenure-track positions in Cognitive Psychology,
+beginning August 2000.  At least one of these positions will be in
+Cognitive Neuroscience.  One appointment will be at the rank of Associate
+or Full Professor, and the second is likely to be at the rank of Assistant
+Professor.  Applicants should send a Curriculum Vitae, a statement of
+research and teaching interests, example research papers, and at least
+three letters of recommendation to:  Ms. Deborah Aguiar, Administrative
+Assistant-Cognitive Psychology Search, Department of Psychology, University
+of Colorado, Boulder, CO 80309-0345.  Inquiries should be addressed to Dr.
+Lyle E. Bourne, Jr., Chair--Cognitive Search, (303) 492-4210,
+lbourne@psych.colorado.edu.  Applications will be reviewed as they are
+completed and until the position is filled.  To insure full consideration,
+however, the application should be complete by November 1, 1999.  The
+University of Colorado at Boulder is committed to diversity and equality in
+education and employment.
+
++-----------------------------------------------------------------------------+
+| Dr. Randall C. O'Reilly        |                                            |
+| Assistant Professor            |                                            |
+| Department of Psychology       | Phone: (303) 492-0054                      |
+| University of Colorado Boulder | Fax:   (303) 492-2967                      |
+| Muenzinger D251C               | Home:  (303) 448-1810                      |
+| Campus Box 345                 | email:  oreilly@psych.colorado.edu         |
+| Boulder, CO 80309-0345         | www:    http://psych.colorado.edu/~oreilly |
++-----------------------------------------------------------------------------+

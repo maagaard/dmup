@@ -1,0 +1,44 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Apr 23 14:55:01 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id OAA12566;
+	Fri, 23 Apr 1999 14:54:53 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02731;
+          22 Apr 99 22:53 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02729;
+          22 Apr 99 22:48 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08712;
+          22 Apr 99 22:48 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa11443; 22 Apr 99 21:59 EDT
+Received: from CNS.BU.EDU by EDRC.CMU.EDU id aa28279; 22 Apr 99 21:58:16 EDT
+Received: from [168.122.13.89] (DIP13-PPP-89.BU.EDU [168.122.13.89])
+	by cns.bu.edu ((8.8.8.buoit.v1.0)/8.8.8/(BU-S-10/08/98-v1.0)) with ESMTP id VAA04470;
+	Thu, 22 Apr 1999 21:58:12 -0400 (EDT)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+X-Sender: steveg@cns.bu.edu
+Message-Id: <v04011711b3458548cc6d@[168.122.13.89]>
+Date: Thu, 22 Apr 1999 22:04:45 -0400
+To: Connectionists@cs.cmu.edu
+From: Stephen Grossberg <steve@cns.bu.edu>
+Subject: Job at Boston University's Department of Cognitive and Neural
+ Systems
+Cc: steve@cns.bu.edu, cindy@cns.bu.edu
+Status: RO
+X-Status: 
+
+SYSTEMS ADMINISTRATOR JOB OPENING AT BOSTON UNIVERSITY
+
+We are seeking a new Director of the Computation Laboratories for the
+Department of Cognitive and Neural Systems (CNS) and the Center for
+Adaptive Systems (CAS) at Boston University, which have active PhD training
+and research programs in biological and artificial neural network modeling.
+Both models of how the brain controls behavior, and applications of these
+insights to outstanding technological problems are developed. The job includes
+responsibility for planning,  developing, purchasing,installing, managing,
+integrating, reconfiguring, updating, and maintaining the CAS/CNS network
+for high-end scientific and technological neurocomputing. Participation in
+research projects is possible for qualified applicants. Salary is
+commensurate with experience. Contact Cindy  Bradford (cindy@cns.bu.edu)
+for more information. Boston University is an equal opportunity employer.

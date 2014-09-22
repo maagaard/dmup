@@ -1,0 +1,116 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU Fri May 22 01:09:59 MET 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id BAA12728;
+	Fri, 22 May 1998 01:09:52 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa19232;
+          21 May 98 13:33:37 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa19230;
+          21 May 98 13:20:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20267;
+          21 May 98 13:20 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa26530; 21 May 98 10:51 EDT
+Received: from beech.sucs.soton.ac.uk by CS.CMU.EDU id aa16991;
+          21 May 98 10:50:34 EDT
+Received: from juniper.sucs.soton.ac.uk (juniper.sucs.soton.ac.uk [152.78.128.175])
+    by beech.sucs.soton.ac.uk (8.8.8/relay-02) with ESMTP id PAA15494
+    for <connectionists@cs.cmu.edu>; Thu, 21 May 1998 15:50:25 +0100 (BST)
+Received: from mulberry.psy.soton.ac.uk (mulberry.psy.soton.ac.uk [152.78.195.73]) by juniper.sucs.soton.ac.uk (8.7.5/8.7.3) with ESMTP id PAA20431 for <connectionists@cs.cmu.edu>; Thu, 21 May 1998 15:50:23 +0100 (BST)
+Received: from localhost (dror2@localhost) by mulberry.psy.soton.ac.uk (8.7.5/8.7.3) with SMTP id PAA05602 for <connectionists@cs.cmu.edu>; Thu, 21 May 1998 15:50:21 +0100 (BST)
+X-Authentication-Warning: mulberry.psy.soton.ac.uk: dror2 owned process doing -bs
+Date: Thu, 21 May 1998 15:50:20 +0100 (BST)
+From: Itiel Dror <dror2@coglit.soton.ac.uk>
+X-Sender: dror2@mulberry.psy.soton.ac.uk
+To: connectionists@cs.cmu.edu
+Subject: CALL FOR PAPERS
+Message-ID: <Pine.SGI.3.95.980521154957.5568E-100000@mulberry.psy.soton.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+
+CALL FOR PAPERS
+
+Pragmatics & Cognition announces a special issue on
+
+FACIAL INFORMATION PROCESSING:
+A MULTIDISCIPLINARY PERSPECTIVE
+
+Guest Editors
+
+Itiel E. Dror and Sarah V. Stevenage
+
+In many senses, faces are at the center of human interaction.
+At a very basic level, faces indicate identity.  However, faces
+are remarkably rich information carriers. For example, facial
+gestures may be used as means of conveying intentions.
+Faces may also permit a direct glimpse into the person's inner
+self (by unintentionally revealing, for example, aspects of
+character or mood).  Given their salient role, the processing of
+the information conveyed by faces and its integration with
+other sources of interactional information raise important
+issues in cognition and pragmatics.
+
+Research on facial information processing has investigated
+these (and other) issues utilizing a variety of approaches and
+methodologies, and developments in both computer and
+cognitive sciences have recently carried this research forward.
+The emerging picture is that there are cognitive subsystems
+which specialize in different aspects of facial processing.  This
+has been supported by neuropsychological evidence
+suggesting that brain damaged patients show dissociations
+between the different aspects of face processing.  In addition,
+research on the development of facial processing abilities, and
+on aspects of the face itself which affect these processing
+abilities, has contributed to our understanding of how facial
+information is perceived.
+
+This special issue of Pragmatics and Cognition is intended to
+provide a common forum for a variety of the topics currently
+under investigation.  Given the breadth of issues and
+approaches used to investigate faces, we encourage
+submissions from a wide range of disciplines.  Our aim is that
+this special issue will tie together the diverse research on
+faces, and show their links and interdependencies.
+
+
+Deadline for submission: August 1, 1998
+Editorial decisions: November 1, 1998
+Revised papers due: February 1, 1999
+Expected publication: October 1999
+
+Papers should be submitted according to the guidelines of the
+journal (see WWW URL:
+http://www.cogsci.soton.ac.uk/~dror/guideline.html).  All
+submissions will be peer reviewed. Please send five copies of
+your submission either to:
+
+Dr. Itiel Dror (dror@coglab.psy.soton.ac.uk) or:
+Dr. Sarah Stevenage (svs1@soton.ac.uk)
+
+Dept. of Psychology
+Southampton University
+Highfield, Southampton SO17 1BJ
+England
+
+For additional and updated information see WWW URL:
+http://www.cogsci.soton.ac.uk/~dror/faces.html
+or contact either of the guest editors.
+
+
+
+
+  #======================================================================#
+  | Itiel E. Dror, Ph.D.            http://www.cogsci.soton.ac.uk/~dror/ |
+  | Department of Psychology        dror@coglab.psy.soton.ac.uk          |
+  | University of Southampton       Office 44 (0)1703 594519             |
+  | Highfield, Southampton          Lab.   44 (0)1703 594518             |
+  | England  SO17 1BJ               Fax.   44 (0)1703 594597             |
+  #======================================================================#
+
+*******************************************************************************
+

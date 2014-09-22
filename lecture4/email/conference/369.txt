@@ -1,0 +1,103 @@
+
+
+From owner-www-vrml@vrml.org Sun Oct  5 02:11:05 MET 1997
+Received: from vrml.org (vrml.org [209.66.78.240]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id CAA10606 for <fnielsen@eivind.imm.dtu.dk>; Sun, 5 Oct 1997 02:10:57 +0200 (METDST)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id UAA15953
+	for www-vrml-outgoing; Sat, 4 Oct 1997 20:50:46 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from mail1.fw-sj.sony.com (mail1.fw-sj.sony.com [198.93.2.11])
+	by vrml.org (8.8.7/8.8.5) with ESMTP id UAA15948
+	for <www-vrml@vrml.org>; Sat, 4 Oct 1997 20:50:37 GMT
+Received: by mail1.fw-sj.sony.com id NAA09130; Sat, 4 Oct 1997 13:51:47 -0700 (PDT)
+Received: by mail1.sgo.in.sel.sony.com id NAA07077; Sat, 4 Oct 1997 13:51:43 -0700 (PDT)
+Received: from goethe.arch.sel.sony.com by erty.arch.sel.sony.com (SMI-8.6/SMI-SVR4)
+	id NAA11326; Sat, 4 Oct 1997 13:51:26 -0700
+Message-ID: <3436ABF0.6827@csl.sony.co.jp>
+Date: Sat, 04 Oct 1997 13:49:52 -0700
+From: rodger lea <rodger@csl.sony.co.jp>
+Reply-To: rodger@csl.sony.co.jp
+Organization: sony research labs
+X-Mailer: Mozilla 3.01Gold (Win95; I)
+MIME-Version: 1.0
+To: chris greenhalgh <c.greenhalgh@cs.nott.ac.uk>,
+        David Roberts <cybdjr@cyber.reading.ac.uk>,
+        Don Brutzman <brutzman@nps.navy.mil>,
+        Hubert L Van Gong <lvg@masi.ibp.fr>, Michael Capps <capps@mit.edu>,
+        Michael Macedonia <mmacedon@crcg.edu>,
+        Michael Rowley <rowley@inmet.com>, olof hagsand <olof@sics.se>,
+        pierre guillaume raverdy <raverdy@csl.sony.co.jp>,
+        Rebecca Xiong <becca@mit.edu>, Robert Barton <rbarton@crcg.edu>,
+        "Stephen L. Abrams" <sabrams@deslab.mit.edu>,
+        Tapas Kumar Das <tkdas@iss.nus.sg>,
+        Tim Regan <tim.regan@bt-sys.bt.co.uk>,
+        vrml mailing list <www-vrml@vrml.org>, wolfgang broll <broll@gmd.de>
+Subject: CFP Distributed VEs
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by mail1.sgo.in.sel.sony.com id NAA07077
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by vrml.org id UAA15949
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+Hello all, my apologies if you've seen this before. 
+
+----------------------------------------------------------------------
+               P L E A S E   R E - D I S T R I B U T E
+---------------------------------------------------------------------- 
+
+                          Call For Papers
+ 
+                DISTRIBUTED SYSTEMS ENGINEERING JOURNAL
+          Special Issue on Distributed Virtual Environments
+ 
+Guest Editor: Rodger Lea
+
+Co-published by The British Computer Society, The Institution of
+Electrical Engineers and The Institute of Physics Publishing
+
+The Distributed Systems Engineering Journal (DSEJ) is planning a special
+issue on Distributed Virtual Environments for late 1998.
+
+Distributed Virtual Environments (DVEs) are shared 3D environments that
+allow multiple participants to meet, interact and manipulate the shared
+scene. They have found uses in such areas as CSCW, telepresence, online
+chat, data visualisation , gaming and large scale simulation. Such
+environments, because of their inherent distributed nature, are forced
+to solve the usual distributed system problems. However, because they
+are also required to provide a degree of visual realism and sufficient
+real time characteristics for group interaction, they have often
+required innovative solutions to the traditional distributed system
+problems. This had led to a range of distributed system architectures
+from client-server, through hybrid systems up to pure, peer-to-peer
+systems.
+
+This special issue is designed to examine the state of the art in DVEs
+and to expose how each system has chosen to architect the distribution
+support to achieve the characteristics required for its particular
+problem domain. Its goal is to provide a timely overview of the
+distributed systems issues faced by DVE developers and the various
+solutions adopted. As such, papers are solicited that focus on the
+distributed systems architecture of DVEs and the ways that such
+architectures support the target domain. Of particular interest are
+papers that report on lessons learned from actual implementations,
+papers discussing wide areas systems in day to day use and papers that
+discuss how the nature of 3D space has been exploited in the overall
+system design.
+
+Important Dates
+
+· Jan 1, 1998: Submission Deadline 
+· May 1, 1998: Acceptance notification 
+· June 15, 1998: Final Manuscript Deadline 
+
+Prospective authors may access instructions for submissions and an html
+version of this Call for Papers at:
+
+http://www.csl.sony.co.jp/person/rodger/dsecfp.html
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

@@ -1,0 +1,77 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Oct 23 04:31:46 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id EAA19605;
+	Fri, 23 Oct 1998 04:31:39 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25221;
+          22 Oct 98 18:43 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25219;
+          22 Oct 98 18:37 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05789;
+          22 Oct 98 18:37 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa18927; 22 Oct 98 10:17 EDT
+Received: from dark.brown.edu by RI.CMU.EDU id aa13080; 22 Oct 98 10:15:35 EDT
+Received: from [128.148.208.215] (burton.cog.brown.edu [128.148.208.215])
+	by dark.brown.edu (8.9.1a/8.9.1) with ESMTP id KAA12855;
+	Thu, 22 Oct 1998 10:15:26 -0400 (EDT)
+Message-Id: <v04011700b254e4d02dee@[128.148.208.215]>
+Date: Thu, 22 Oct 1998 10:15:18 -0400
+To: prosody@list.msu.edu, connectionists@cs.cmu.edu,
+        ai-stats@watstat.uwaterloo.ca, ml@ics.uci.edu, reinforce@cs.uwa.oz.au,
+        uai@ghost.CS.ORST.EDU, cvnet@skivs.ski.org, cogpsy@coglit.soton.ac.uk,
+        william.mace@mail.cc.trincoll.edu,
+        Cognitive.Neuroscience.Society@Dartmouth.Edu, corpora@hd.uib.no,
+        mol@cis.upenn.edu, colibri@let.uu.nl
+From: Annette Burton <Annette_Burton@Brown.edu>
+Subject: Job Announcement
+Status: RO
+X-Status: 
+
+
+                         Brown University's
+                Departments of Applied Mathematics,
+          Cognitive and Linguistic Sciences, and Computer Science
+
+                           announce
+
+           A NEW INTERDISCIPLINARY POSTDOCTORAL OPPORTUNITY
+
+                              in
+
+            LEARNING AND ACTION IN THE FACE OF UNCERTAINTY:
+         COGNITIVE, COMPUTATIONAL AND STATISTICAL APPROACHES
+
+As part of an NSF award to Brown University through the IGERT program, the
+Departments of Cognitive and Linguistic Sciences, Computer Science, and
+Applied Mathematics will be hiring two Postdoctoral Research Associates.
+Fellows will be scholars who have displayed significant interest and
+ability in conducting collaborative interdisciplinary research in one or
+more of the research areas of the program: computational and empirical
+approaches to uncertainty in language, vision, action, or human reasoning.
+As well as participating in collaborative research, responsibilities will
+include helping to coordinate cross-departmental graduate teaching and
+research as well as some teaching of interdisciplinary graduate courses.
+We expect that these fellows will play an important role in creating a
+highly visible presence for the IGERT program at Brown, and their
+interdisciplinary activities will help unify the interdepartmental
+activities of the IGERT program.
+
+Applicants must hold a PhD in Cognitive Science, Linguistics, Computer
+Science, Mathematics, Applied Mathematics, or a related discipline, or show
+evidence that the PhD will be completed before the start of the position.
+Applicants should send a vita and three letters of reference to Steven
+Sloman, Department of Cognitive and Linguistic Sciences, Brown University,
+Box 1978, Providence, RI 02912.  Special consideration will be given to
+those applicants whose research is relevant to at least two of the
+participating departments. The positions will begin September 1, 1999 for
+one year, renewable upon satisfactory  completion of duties in the first
+year.  Salaries will be between $35,000 and $45,000 per year. All materials
+must be received by Jan. 1, 1999, for full consideration.  Brown University
+is an Equal Opportunity/Affirmative Action Employer.
+
+For additional information about the program and ongoing research
+initiatives please visit our website at:
+
+
+http://www.cog.brown.edu/IGERT

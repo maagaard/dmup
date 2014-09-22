@@ -1,0 +1,115 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov  2 07:21:38 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id HAA13679;
+	Tue, 2 Nov 1999 07:21:34 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28260;
+          1 Nov 99 22:55 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28224;
+          1 Nov 99 22:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01141;
+          1 Nov 99 22:36 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa11921; 1 Nov 99 18:22 EST
+Received: from mailbox2.ucsd.edu by edrc.cmu.edu id aa19473; 1 Nov 99 18:22 EST
+Received: from crl.ucsd.edu (crl.ucsd.edu [132.239.147.60])
+	by mailbox2.ucsd.edu (8.9.3/8.9.3) with ESMTP id PAA02026
+	for <connectionists@cs.cmu.edu>; Mon, 1 Nov 1999 15:22:08 -0800 (PST)
+Received: (from elman@localhost)
+	by crl.ucsd.edu (8.9.3/8.9.3) id PAA02112
+	for connectionists@cs.cmu.edu; Mon, 1 Nov 1999 15:21:19 -0800
+Date: Mon, 1 Nov 1999 15:21:19 -0800
+From: Jeff Elman <elman@crl.ucsd.edu>
+Message-Id: <199911012321.PAA02112@crl.ucsd.edu>
+To: connectionists@cs.cmu.edu
+Subject: Center for Research in Language (UCSD) postdocs: 2000/2001
+Status: RO
+X-Status: 
+
+
+THE CENTER FOR RESEARCH IN LANGUAGE UNIVERSITY OF CALIFORNIA, SAN DIEGO
+
+ANNOUNCEMENT OF POSTDOCTORAL FELLOWSHIPS FOR 2000-2001
+
+Applications are invited for postdoctoral fellowships in Language,
+Communication and Brain at the Center for Research in Language at  the
+University of California, San Diego.
+
+The fellowships are supported by the National Institutes of Health
+(NIDCD), and provide an annual stipend ranging from $26,000-41,000
+depending upon years of postdoctoral experience. In addition, some
+funding is provided for medical insurance and travel.
+
+The program provides interdisciplinary training in:
+
+(1) psycholinguistics, including language processing in adults and
+    language development in children;
+(2) communication disorders, including childhood language disorders and
+    adult aphasia;
+(3) electrophysiological studies of language, and
+(4) neural network models of language learning and processing.
+
+Candidates are expected to work in at least one of these four areas,
+and preference will be given to candidates with background and interests
+involving more than one area.
+
+Grant conditions require that candidates be citizens or permanent
+residents of the U.S.  In addition, trainees will incur a payback
+obligation during their first year of postdoctoral NRSA support and are
+required to complete a Payback Agreement.*
+
+Applications must be RECEIVED by FEBRUARY 1.  Applicants should send a
+cover page with requested information (attached), a statement of interest,
+three letters of recommendation, a curriculum vitae and copies of relevant
+publications to:
+
+	CRL POSTDOCTORAL FELLOWSHIP COORDINATOR
+	Center for Research in Language 0526
+	University of California, San Diego
+ 	9500 Gilman Drive
+	La Jolla, California 92093-0526
+	(619) 534-2536
+
+Women and minority candidates are encouraged to apply.
+
+Program Requirements for post-doctoral candidates
+
+(1) Postdoctoral fellows will elect one of the four research
+components as their major area, defined by the fellow's primary laboratory
+affiliation across all years in residence.
+
+(2) Fellows are expected to attend weekly laboratory meetings within
+the major area.
+
+(3) In addition, post-doctoral fellows will carry out a 3 - 6 month
+rotation in a laboratory associated with a second component of the
+training program, including attendance at weekly research meetings.
+
+Access more information via our website:
+http://www.crl.ucsd.edu/fellowships/postdoc_fellow.html
+
+*Payback for post-docs can be discharged in the following ways:
+(1) By receiving an equal period of postdoctoral NRSA support beginning in the 13th month of such postdoctoral NRSA support;
+(2) By engaging in an equal period of health-related research or research training that averages more than 20 hours per week of a full work year;
+(3) By engaging in an equal period of health-related teaching that averages more than 20 hours per week of a full work year.
+
+
+STATMENT OF INTEREST FOR CRL POSTDOCTORAL FELLOWSHIP 2000-2001
+
+Deadline: 2/1/2000
+
+Applicant Name:
+Applicant Address:
+Applicant e-mail:
+Applicant Phone Number:
+Research Interests (from fellowship announcement):
+
+
+Title of PhD Thesis:
+
+
+Institution/Year PhD granted:
+
+
+Citizenship Status:
+

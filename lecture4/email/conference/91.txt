@@ -1,0 +1,262 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Tue May  5 04:20:18 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id EAA04565;
+	Tue, 5 May 1998 04:20:13 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa09474;
+          4 May 98 19:26:41 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa09472;
+          4 May 98 18:59:28 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01804;
+          4 May 98 18:59 EDT
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa15590;
+          4 May 98 14:14 EDT
+Received: from cs.iastate.edu by MM.GP.CS.CMU.EDU id aa12063;
+          4 May 98 14:14:30 EDT
+Received: from ren.cs.iastate.edu (ren.cs.iastate.edu [129.186.3.41])
+	by cs.iastate.edu (8.8.7/8.8.7) with ESMTP id NAA02072
+	for <Connectionists@b.gp.cs.cmu.edu>; Mon, 4 May 1998 13:14:26 -0500 (CDT)
+From: Vasant Honavar <honavar@cs.iastate.edu>
+Received: (from honavar@localhost) by ren.cs.iastate.edu (8.8.7/8.7.1) id NAA10661 for Connectionists@b.gp.cs.cmu.edu; Mon, 4 May 1998 13:14:25 -0500 (CDT)
+Message-Id: <199805041814.NAA10661@ren.cs.iastate.edu>
+Subject: Call for Participation: ICGI-98
+To: Connectionists@mm.gp.cs.cmu.edu
+Date: Mon, 4 May 1998 13:14:23 -0500 (CDT)
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Status: RO
+X-Status: 
+
+ ------------------------------------------------------------------------
+                           Call For Participation
+
+     Fourth International Colloquium on Grammatical Inference (ICGI-98)
+		http://www.cs.iastate.edu/~icgi98/icgi98.html
+
+ Program Co-Chairs: Vasant Honavar and Giora Slutzki Iowa State University
+
+                              July 12-14, 1998
+                           Iowa State University
+                              Ames, Iowa, USA.
+------------------------------------------------------------------------
+                               Cosponsored by
+         International Institute of Theoretical and Applied Physics
+                           Iowa State University
+
+                                    and
+
+                            In cooperation with
+              American Association for Artificial Intelligence
+                 IEEE Systems, Man, and Cybernetics Society
+          ACL Special Interest Group on Natural Language Learning
+------------------------------------------------------------------------
+
+Grammatical Inference, variously refered to as automata induction, grammar
+induction, and automatic language acquisition, refers to the process of
+learning of grammars and languages from data. Machine learning of grammars
+finds a variety of applications in syntactic pattern recognition, adaptive
+intelligent agents, diagnosis, computational biology, systems modelling,
+prediction, natural language acquisition, data mining and knowledge
+discovery.
+
+Traditionally, grammatical inference has been studied by researchers in
+several research communities including: Information Theory, Formal
+Languages, Automata Theory, Language Acquisition, Computational Linguistics,
+Machine Learning, Pattern Recognition, Computational Learning Theory, Neural
+Networks, etc.
+
+Perhaps one of the first attempts to bring together researchers working on
+grammatical inference for an interdisciplinary exchange of research results
+took place under the aegis of the First Colloquium on Grammatical Inference
+held at the University of Essex in United Kingdom in April 1993. This was
+followed by the (second) International Colloquium on Grammatical Inference,
+held at Alicante in Spain, the proceedings of which were published by
+Springer-Verlag as volume 862 of the Lectures Notes in Artificial
+Intelligence, and the Third International Colloquium on Grammatical
+Inference, held at Montpellier in France, the proceedings of which were
+published by Springer-Verlag as volume 1147 of the Lecture Notes in
+Artificial Intelligence. Following the success of these events and the
+Workshop on Automata Induction, Grammatical Inference, and Language
+Acquisition, held in conjunction with the International Conference on
+Machine Learning at Nashville in United States in July 1997, the Fourth
+International Colloquium on Grammatical Inference will be held from July 12
+through July 14, 1998, at Iowa State University in United States.
+
+------------------------------------------------------------------------
+
+The conference seeks to provide a forum for presentation and discussion of
+original research papers on all aspects of grammatical inference including,
+but not limited to:
+
+   * Different models of grammar induction: e.g., learning from examples,
+     learning using examples and queries, incremental versus non-incremental
+     learning, distribution-free models of learning, learning under various
+     distributional assumptions (e.g., simple distributions), impossibility
+     results, complexity results, characterizations of representational and
+     search biases of grammar induction algorithms.
+   * Algorithms for induction of different classes of languages and
+     automata: e.g., regular, context-free, and context-sensitive languages,
+     interesting subsets of the above under additional syntactic
+     constraints, tree and graph grammars, picture grammars,
+     multi-dimensional grammars, attributed grammars, parameterized models,
+     etc.
+   * Theoretical and experimental analysis of different approaches to
+     grammar induction including artificial neural networks, statistical
+     methods, symbolic methods, information-theoretic approaches, minimum
+     description length, and complexity-theoretic approaches, heuristic
+     methods, etc.
+   * Broader perspectives on grammar induction -- e.g., acquisition of
+     grammar in conjunction with language semantics, semantic constraints on
+     grammars, language acquisition by situated agents and robots,
+     acquisition of language constructs that describe objects and events in
+     space and time, developmental and evolutionary constraints on language
+     acquisition, etc.
+   * Demonstrated or potential applications of grammar induction in natural
+     language acquisition, computational biology, structural pattern
+     recognition, information retrieval, text processing, adaptive
+     intelligent agents, systems modelling and control, and other domains.
+
+------------------------------------------------------------------------
+Invited Papers
+
+  1. J. Feldman, International Computer Science Institute and University of
+     California, Berkeley, CA, USA. Topic: Natural Language Acquisition
+     (Exact title to be announced).
+  2. A. Brazma, European Bioinformatics Institute, Cambridge. Topic: Pattern
+     Discovery in Biosequences. (Exact title to be announced).
+
+List of Accepted Papers
+
+  1. Stochastic Regular Tree Language Inference, Rafael C. Carrasco, Jose
+     Oncina and Jorge Calera
+  2. The Data Driven Approach Applied to the OSTIA Algorithm, Jose Oncina
+  3. Approximate Learning of Random Subsequential Transducers, Antonio
+     Castellanos
+  4. How considering incompatible state mergings may reduce the DFA
+     induction search tree, Francois Coste and Jacques Nicolas
+  5. Learning Regular Grammars to Model Musical Style: Comparing Different
+     Coding Schemes, P. P. Cruz-Alcazar and E. Vidal-Ruiz
+  6. Using symbol clustering to improve probabilistic automaton inference,
+     Pierre Dupont and Lin Chase
+  7. Learning a Subclass of Context-Free Languages J. Emerald, K.
+     Subramanian, and D. Thomas
+  8. Learning a determinisitic finite automaton with a recurrent neural
+     network, L Firoiu, T Oates, and P R Cohen
+  9. Learning Feature-Based Phrase-Structure Rules with the Grammar
+     Inference Tool, B. Geistert
+ 10. Learning Stochastic Finite Automata from Experts, Colin de la Higuera.
+ 11. A stochastic search approach to grammar induction Hugues Juille and
+     Jordan Pollack
+ 12. Grammar Model and Grammar Induction in the System NL Page, Keselj
+ 13. Results of the Abbadingo One DFA Learning Competition and a New
+     Evidence Driven State Merging Algorithm K.J. Lang, B.A. Pearlmutter and
+     R. Price
+ 14. Transducer-learning Experiments on Language Understanding Pic and E.
+     Vidal
+ 15. Learning k-variable pattern languages efficiently stochastically finite
+     on average from positive data Peter Rossmanith and Thomas Zeugmann
+ 16. Locally Threshold Testable Languages in Strict Sense: Application to
+     the Inference Problem, Jose Ruiz, Salvador Espana, and Pedro Garcia
+ 17. Grammatical Inference in Document Recognition, Saidi, Tayeb-bey
+ 18. Learning a Subclass of Linear Languages from Positive Structural
+     Information, Jose Sempere and G. Nagaraja
+ 19. Why Meaning Helps Learning Syntax, Isabelle Tellier
+ 20. A Performance Evaluation of automatic Survey Classifiers, Viechnicki
+ 21. Applying grammatical inference by learning a language model for oral
+     dialogue Jacques Chodorowski and Laurent Miclet
+ 22. A polynomial Time incremental Algorithm for learning DFA, R. Parekh, C.
+     Nichitu, V. Honavar
+
+------------------------------------------------------------------------
+Conference Format and Proceedings
+
+The conference will include oral and possibly poster presentations of
+accepted papers, a small number of tutorials and invited talks. All accepted
+papers will appear in the conference proceedings to be published by
+Springer-Verlag as a volume in the Lecture Notes in Artificial Intelligence
+which is part of the Springer-Verlag Lecture Notes in Computer Science
+Series.
+
+------------------------------------------------------------------------
+
+Financial Support
+
+Limited financial support might be available, subject to the availability of
+funds, for:
+
+   * scientists (especially junior researchers) from developing countries,
+     especially for those who can find other sources of support for extended
+     visit at a US institution
+   * graduate students and postdocs from US institutions
+
+Additional details will be posted as they become available.
+
+------------------------------------------------------------------------
+
+Registration Information
+
+Early Registration Deadline:    May 21, 1998. Presenting authors of accepted
+papers should register by May 11, 1998.
+
+Registration Fees:     The conference registration includes the conference
+proceedings and the banquet (on Monday, July 13, 1998).
+
+   * Author/Conference Attendee
+        o By May 21, 1998: US $200
+        o After May 21, 1998: US $250
+
+   * Full-time Student
+        o By May 21, 1998: US $100
+        o After May 21, 1998: US $150
+   * Airport Shuttle: US $15 (one way)
+
+
+------------------------------------------------------------------------
+Program Committee
+
+Technical Program Chairs:
+Vasant Honavar and Giora Slutzki, Iowa State University, USA.
+
+Technical Program Committee:
+R. Berwick, MIT, USA
+A. Brazma, European Bioinformatics Institute, Cambridge, UK.
+M. Brent, Johns Hopkins University, USA
+C. Cardie, Cornell University, USA
+W. Daelemans, Tilburg University, Netherlands
+D. Dowe, Monash University, Australia
+P. Dupont, University Jean Monnet at St. Etienne, France.
+D. Estival, University of Melbourne, Australia
+J. Feldman, International Computer Science Institute, Berkeley, USA
+L. Giles, NEC Research Institute, Princeton, USA
+J. Gregor, University of Tennessee, USA
+C. de la Higuera, University Jean Monnet at St. Etienne, France
+A. Itai, Technion, Israel
+T. Knuutila, University of Turku, Finland
+J. Koza, Stanford University, USA
+K. Lang, NEC Research Institute, Princeton, USA.
+M. Li, University of Waterloo, Canada
+E. Makinen, University of Tampere, Finland
+L. Miclet, ENSSAT, Lannion, France.
+G. Nagaraja, Indian Institute of Technology, Bombay, India
+H. Ney, University of Technology, Aachen, Germany
+J. Nicolas, IRISA, France
+R. Parekh, Allstate Research and Planning Center, Menlo Park, USA
+L. Pitt, University of Illinois at Urbana-Champaign, USA
+D. Powers, Flinders University, Australia
+L. Reeker, National Science Foundation, USA
+Y. Sakakibara, Tokyo Denki University, Japan.
+C. Samuelsson, Lucent Technologies, USA
+A. Sharma, University of New South Wales, Australia.
+E. Vidal, U. Politecnica de Valencia, Spain
+
+------------------------------------------------------------------------
+Local Arrangements Committee
+
+Dale Grosvenor, Iowa State University, USA.
+K. Balakrishnan, Iowa State University, USA.
+R. Bhatt, Iowa State University, USA
+J. Yang, Iowa State University, USA.
+
+------------------------------------------------------------------------
+FURTHER DETAILS ARE AVAILABLE AT: http://www.cs.iastate.edu/~icgi98/icgi98.html

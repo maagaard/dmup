@@ -1,0 +1,78 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jun 17 06:21:35 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA10376;
+	Thu, 17 Jun 1999 06:21:28 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab08044;
+          16 Jun 99 23:06 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08042;
+          16 Jun 99 23:00 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04993;
+          16 Jun 99 23:00 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa12488; 16 Jun 99 8:33 EDT
+Received: from [129.26.8.90] by CS.CMU.EDU id aa12545; 16 Jun 99 8:32:28 EDT
+Received: from borneo.gmd.de (borneo.gmd.de [129.26.12.20])
+	by mail.gmd.de (8.8.8/8.8.8) with ESMTP id OAA08686;
+	Wed, 16 Jun 1999 14:32:00 +0200 (MET DST)
+Received: from gmd.de (tiago [129.26.12.145])
+	by borneo.gmd.de (8.8.8+Sun/8.8.8) with ESMTP id OAA28044;
+	Wed, 16 Jun 1999 14:31:55 +0200 (MET DST)
+Sender: Gerhard.Paass@gmd.de
+Message-ID: <3767993A.DF7290F7@gmd.de>
+Date: Wed, 16 Jun 1999 14:31:54 +0200
+From: Gerhard Paass <Gerhard.Paass@gmd.de>
+Organization: GMD AiS.KD
+X-Mailer: Mozilla 4.5 [en] (X11; I; SunOS 5.5 sun4u)
+X-Accept-Language: German/Germany, de-DE, en
+MIME-Version: 1.0
+To: inductive@hermes.csd.unb.ca, connectionists@cs.cmu.edu
+Subject: CFP: Workshop Neural Networks and Connectionism, Magdeburg
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+[ We apologise if you should receive this message more than once ]
+
+		ANNOUNCEMENT AND CALL FOR PAPERS
+
+	Workshop on  Neural Networks and Connectionism
+
+		Magdeburg, Germany, 29.Sep.1999, 
+
+
+The meeting of the working group 1.1.2 "Connectionism" of the German
+Society
+of Computer Science (GI) takes place in Magdeburg during the
+GI-Workshop-Days
+Learning, Knowledge Discovery, and Adaptivity.  It is devoted to the
+discussion of new trends and ongoing research projects in the areas of
+connectionism and neural networks.
+
+TOPICS
+We want to discuss papers covering empirical, theoretical or
+interdisciplinary topics from connectionsm and neural networks,
+especially
+         * Theory: Prediction and generalization, regularization,
+           computational learning theory, support vector machines,
+           approximation and estimation, learning in dynamical systems.
+         * Algorithms andArchitectures:supervised and unsupervised
+learning,
+           model selection, feedforward aand recurrent architectures,
+hybrid
+           symbolic-subsymbolic approaches.
+         * Knowledge discovery and Adaptivity: active learning,
+reinforcement
+           learning, Markovian state estimation, novelty detection,
+           information content, time-varying systems.
+         * Applications: mmedical diagnosis, data mining, expert
+systems,
+           financial predictions, time series analysis, information
+retrieval,
+           etc.
+
+Deadline for contributions: July 31, 1999 
+
+For details see http://ais.gmd.de/~paass/nn99

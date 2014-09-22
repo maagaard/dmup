@@ -1,0 +1,183 @@
+
+
+From jl@imm.dtu.dk Thu Oct 16 03:29:41 MET 1997
+Received: from danpost.uni-c.dk (danpost.uni-c.dk [129.142.6.64]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id DAA04413 for <fnielsen@eivind.imm.dtu.dk>; Thu, 16 Oct 1997 03:29:40 +0200 (METDST)
+Received: from serv1.imm.dtu.dk (serv1.imm.dtu.dk [130.225.85.9]) by danpost.uni-c.dk (8.8.6/8.6) with ESMTP id DAA20243 for <fnielsen@eivind.imm.dtu.dk>; Thu, 16 Oct 1997 03:26:59 +0200 (METDST)
+Received: from danpost.uni-c.dk (danpost.uni-c.dk [129.142.6.64]) by serv1.imm.dtu.dk with ESMTP (8.7.6/8.7.3) id DAA08350 for <fn@serv1.imm.dtu.dk>; Thu, 16 Oct 1997 03:30:32 +0200 (METDST)
+Received: from serv2.imm.dtu.dk (serv2.imm.dtu.dk [130.225.85.12]) by danpost.uni-c.dk (8.8.6/8.6) with ESMTP id LAA14493; Wed, 15 Oct 1997 11:08:05 +0200 (METDST)
+Received: from eivind.imm.dtu.dk (root@eivind.imm.dtu.dk [192.38.71.101]) by serv2.imm.dtu.dk with ESMTP (8.7.6/8.7.3) id LAA08502; Wed, 15 Oct 1997 11:07:01 +0200 (METDST)
+Received: from jlarsen.imm.dtu.dk (jlarsen.imm.dtu.dk [192.38.71.52]) by eivind.imm.dtu.dk with SMTP (8.7.5/8.7.3) id LAA29299; Wed, 15 Oct 1997 11:10:36 +0200 (METDST)
+Received: by jlarsen.imm.dtu.dk with Microsoft Mail
+	id <01BCD95A.977F07E0@jlarsen.imm.dtu.dk>; Wed, 15 Oct 1997 11:07:57 +-100
+Message-ID: <01BCD95A.977F07E0@jlarsen.imm.dtu.dk>
+From: Jan Larsen <jl@serv1.imm.dtu.dk>
+To: "phd_at_imm@serv2.imm.dtu.dk" <phd_at_imm@serv2.imm.dtu.dk>,
+        "vip_at_imm@serv2.imm.dtu.dk" <vip_at_imm@serv2.imm.dtu.dk>
+Subject: Call for Papers: I /O and Imaging Technology  at Photonics Taiwan '98
+Date: Wed, 15 Oct 1997 11:07:55 +-100
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+PLEASE DISTRIBUTE THIS MESSAGE TO YOUR COLLEAGUES
+
+I would like to draw your attention to
+
+Photonics Taiwan '98 conference on I/O and Imaging Technology,
+July 9-11, 1998, Taipei, Taiwan.
+
+
+On-site Proceedings.  Abstracts for this conference are due by 1 December
+1997. Manuscripts are due by 20 April 1998.
+
+Conference Chairs: Y. Tim Tsai, Industrial Technology Research Institute
+(Taiwan); Teh-Ming Kung, Eastman Kodak Co. (USA); Jan Larsen, Technical
+Univ. of Denmark (Denmark)
+
+Program Committee: Tulay Adali, Univ. of Maryland/Baltimore County (USA);
+Yung-Chang Chen, National Tsing Hua Univ. (Taiwan); King-Lung Huang,
+Industrial Technology Research Institute (Taiwan); Jenq-Neng Hwang, Univ.
+of Washington (USA); Jim Z. Lai, Feng-Chia Univ. (Taiwan); Yawcheng Lo,
+Eastman Kodak Co. (USA); Sethuraman Panchanathan, Arizona State Univ.
+(USA); Soo C. Pei, National Taiwan Univ. (Taiwan); Jing X. Sun, Lexmark
+International, Inc. (USA); Ming-Ting Sun, Univ. of Washington (USA);
+Han-Chung Wang, Industrial Technology Research Institute (Taiwan); James F.
+Wang, Xerox Wilson Ctr. for Research and Technology (USA)
+
+The goal of this conference is to explore the input, output, and imaging
+technologies for digital systems. Over the year, the I/O interfaces have
+been improved in many aspects: from B/W to color, from text to imaging,
+etc. The higher quality is not only desired, but also requested.
+Dissemination of these applications, developed techniques, and their
+effectiveness through a centralized medium is necessary.
+
+Papers are solicited in all relevant areas including:
+* image capturing systems: scanners, cameras, and systems
+* image output systems: inkjet, thermal, and EP printers
+* color imaging: color vision models, image processing
+* human vision and data visualization
+* vision-based algorithms for video and still images
+* real-time architecture for I/O devices and image processing.			
+
+------------------------------------------------
+Submission of Abstracts for Photonics Taiwan '98
+Abstract Due Date: 1 December 1997
+Manuscript Due Date: 20 April 1998
+Proceedings of this conference will be published and available at the meeting.
+**The abstract and manuscript due dates must be strictly observed.**
+
+Your abstract must include all of the following information:
+
+1. SUBMIT TO: Conference Code (Example: TW01)
+
+2. SUBMIT EACH ABSTRACT TO ONE CONFERENCE ONLY.
+   Conference Title, Conference Chair
+
+3. ABSTRACT TITLE
+
+4. AUTHOR LISTING (principal author first)
+   First(given)name  Last(family)name, Affiliation 
+   Mailing address, telephone, fax, and email address.
+
+5. PRESENTATION
+   Indicate your preference for "Oral Presentation" 
+   or "Poster Presentation." Placement is subject to 
+   chairs' discretion.
+
+6. ABSTRACT TEXT
+   Approximately 250 words.
+
+7. KEYWORDS
+   List a maximum of five keywords.
+
+8. BRIEF BIOGRAPHY (of principal author)
+   Approximately 50 words.
+
+CONDITIONS OF ACCEPTANCE
+* Authors are expected to secure registration fees and travel and
+  accommodation funding, independent of SPIE, through their 
+  sponsoring organizations before submitting abstracts.
+* Only original material should be submitted.
+* Commercial papers, descriptions of papers, with no research/
+  development content, and papers where supporting data or a 
+  technical description cannot be given for proprietary reasons 
+  will not be accepted for presentation in this symposium.
+* Abstracts should contain enough detail to clearly convey the 
+  approach and the results of the research.
+* Government and company clearance to present and publish should 
+  be final at the time of submittal.
+* Applicants will be notified of acceptance by mail no later than 
+  23 March 1998. Early notification of acceptance will be placed 
+  on the SPIE Web site, the week of 9 March 1998 at URL:
+  http://www.spie.org/info/tw98_participants.html
+
+PAPER REVIEW
+To ensure a high-quality conference, all abstracts and Proceedings of SPIE
+papers will be reviewed by the Conference Chairs for technical merit and
+content.
+
+INSTRUCTIONS FOR SUBMITTING ABSTRACTS  
+Please choose only one of the following options and send by the due date:
+
+* SPIE WEB - Complete the convenient form found at SPIE Web site:
+  http://www.spie.org/info/tw98_home.html
+
+* or E-MAIL each abstract separately to: abstracts@spie.org in ASCII text
+  (not encoded) format. IMPORTANT: to ensure receipt and proper processing
+  of your abstract, the Subject line must include the following: 
+
+     SUBJECT: TW04,  TSAI/KUNG/LARSEN
+
+* or MAIL three copies of your abstract to:
+  
+     Photonics Taiwan '98
+     SPIE, P.O. Box 10, Bellingham, WA  98227-0010 USA
+     Shipping Address: 1000 20th St., Bellingham, WA 98225 USA
+     Telephone: 360/676-3290
+
+* or FAX one copy to SPIE at 360/647-1445 (send each abstract separately).
+
+ORAL OR POSTER PRESENTATION
+Instructions for Oral and Poster presentations will be included in your
+author kit. All Oral and Poster presentations are included in the
+Proceedings of SPIE and require a manuscript.
+
+PROCEEDINGS
+These conferences will result in volumes published in the Proceedings of
+SPIE that can be ordered through the Advance Technical Program.
+Camera-ready manuscripts are required of all accepted applicants and must
+be submitted in English by 20 April 1998. Copyright to the manuscript is
+expected to be released for publication in the Proceedings of SPIE. **Note:
+If an author does not attend the meeting and make a presentation, the chair
+may choose not to publish the author's manuscript in the conference volume.
+Papers published are indexed in leading scientific databases including
+INSPEC, Compendex Plus, Physics Abstracts, Chemical Abstracts,
+International Aerospace Abstracts, and Index to Scientific and Technical
+Proceedings.
+
+PARTICIPANT REGISTRATION FEE
+Authors and coauthors are accorded a reduced symposium registration fee.
+Participants who attend the symposium and pay the reduced fee may also
+apply for a six-month, nonvoting membership in SPIE if never before a
+member (membership includes OE Reports and Optical Engineering Journal).
+Details are available at the on-site registration desk or by contacting
+SPIE Member Services: membership@spie.org; or call 360/676-3290 and ask for
+member records.
+
+
+============================ ******** =============================
+Jan Larsen                            Phone:  (+45) 45 25 39 08
+Assistant Professor, Ph.D.           Direct:  (+45) 45 25 39 23
+CONNECT                                 Fax:  (+45) 45 87 25 99
+Section for DSP
+Department of Mathematical Modelling
+Building 321                          email:  jl@imm.dtu.dk
+Technical University of Denmark         www:  http://eivind.imm.dtu.dk
+DK-2800 Lyngby, Denmark                 ftp:  eivind.imm.dtu.dk
+===========================  ******** =============================
+
+
+
+

@@ -1,0 +1,25 @@
+
+
+From webstats@ix.netcom.com  Wed Oct 14 09:26:12 1998
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id JAA03382
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 14 Oct 1998 09:26:10 +0200 (METDST)
+From: webstats@ix.netcom.com
+Received: from your (rvl-md16-26.ix.netcom.com [205.184.106.26])
+	by serv1.imm.dtu.dk (8.8.6/8.8.6) with SMTP id JAA28590;
+	Wed, 14 Oct 1998 09:23:09 +0200 (METDST)
+Date: Wed, 14 Oct 1998 09:23:09 +0200 (METDST)
+Message-Id: <199810140723.JAA28590@serv1.imm.dtu.dk>
+To: webstats@ix.netcom.com
+Subject: Free Page Counter & Cool Graphical Visitor Log !
+Status: RO
+X-Status: 
+
+Want to know more about who's visiting your web site? Try Hitmeter!
+
+Our free counter and statistics service will tell you everything you want to know about your web site traffic. In seconds, you will know how your visitors are finding your web page (referring URL), where they are coming from, and many other statistics presented using full color charts and graphs.
+
+Hitmeter installs in just two minutes simply by cutting and pasting a few lines of HTML code into your web page. And no special equipment or programming skills are required. To receive your free Hitmeter, go to http://www.hitmeterservice.com and select "Free Counter" link to register. 
+
+[To be removed from our mailing list, please connect to http://www.hitmeterservice.com/remove.html and click on the "REMOVE ME" button to submit a removal request.]
+

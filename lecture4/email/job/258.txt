@@ -1,0 +1,104 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jan  7 20:59:02 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id UAA13678;
+	Fri, 7 Jan 2000 20:58:58 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12502;
+          7 Jan 2000 13:55 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12500;
+          7 Jan 2000 13:49 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04363;
+          7 Jan 2000 13:49 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa20596; 7 Jan 2000 11:43 EST
+Received: from saluki-mailsmtp.siu.edu by ri.cmu.edu id aa19187;
+          7 Jan 2000 11:42 EST
+Received: from compute.it.siu.edu (compute.it.siu.edu [131.230.252.10])
+	by saluki-mailsmtp.siu.edu (8.9.1/8.9.1) with ESMTP id KAA39338;
+	Fri, 7 Jan 2000 10:33:47 -0600
+Received: from localhost (morten@localhost)
+	by compute.it.siu.edu (8.9.1/8.9.1) with ESMTP id KAA19846;
+	Fri, 7 Jan 2000 10:42:57 -0600
+Date: Fri, 7 Jan 2000 10:42:57 -0600 (CST)
+From: "Dr. Morten H. Christiansen" <morten@compute.it.siu.edu>
+Reply-To: morten@siu.edu
+To: connectionists@cs.cmu.edu
+cc: morten@siu.edu
+Subject: Graduate Openings in Brain and Cognitive Sciences
+Message-ID: <Pine.A41.4.10.10001061819410.21040-100000@compute.it.siu.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear Colleague,
+
+Please bring the following information to the attention of potential
+graduate school applicants from your program with an interest in Brain and
+Cognitive Sciences.
+
+GRADUATE PROGRAM IN BRAIN AND COGNITIVE SCIENCES IN THE DEPARTMENT OF
+PSYCHOLOGY AT SOUTHERN ILLINOIS UNIVERSITY, CARBONDALE.
+
+The Department of Psychology at Southern Illinois University has several
+openings for fall 2000 admission to its newly established Ph.D. program in
+Brain and Cognitive Sciences. The program emphasizes cognitive behavior
+approached from a combination of developmental (infancy and childhood,
+adolescence and aging), neurobiological (neurophysiology, neuropsychology,
+genetics), behavioral (human and animal experimentation) and computational
+(neural networks, statistical analyses) perspectives. As an integral part
+of their training, students become active participants in ongoing faculty
+research programs in the Brain and Cognitive Sciences. Students will
+receive training in two or more different research methodologies, and are
+expected to develop a multidisciplinary approach to their own research.
+
+Current research by the Brain and Cognitive Sciences faculty includes
+perinatal risk factors in child development, neurophysiological and
+behavioral correlates of infant and child cognitive and language
+development, personality and social correlates of cognitive aging, child
+play and social behaviors, identity development across the life span,
+neural network modeling of language acquisition and processing, artificial
+grammar learning, sentence processing, evolution of language and the
+brain, the pharmacological modulation of memory, effects of psychoactive
+drugs, reversible inactivation of discrete brain areas and memory,
+recovery of function from brain damage, electrophysiological models (e.g.,
+long-term potentiation), the neurophysiology of memory, animal learning,
+and human learning and memory.
+
+For more information about the program and application procedures, please
+visit our web site at:
+
+	http://www.siu.edu/~psycho/bcs
+
+Visit also the Department's web site at:
+
+	http://www.siu.edu/~psycho
+
+The deadline for applications is February 1st, 2000. Complete applications
+received by January 15, 2000 may be considered for one of the prestigious
+Morris Fellowships.
+
+Best regards,
+
+Morten Christiansen
+Coordinator of the Brain and Cognitive Sciences Program
+
+
+----------------------------------------------------------------------
+Morten H. Christiansen
+Assistant Professor	       	   Phone: +1 (618) 453-3547
+Department of Psychology      	   Fax:   +1 (618) 453-3563
+Southern Illinois University	   Email: morten@siu.edu
+Carbondale, IL 62901-6502   	   Office: Life Sciences II, Room 271A
+Personal Web Page: http://www.siu.edu/~psycho/faculty/mhc.html
+Lab Web Site: http://www.siu.edu/~morten/csl
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,247 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU Thu Mar  5 01:05:00 MET 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id BAA09932;
+	Thu, 5 Mar 1998 01:04:50 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa08530;
+          4 Mar 98 16:08:53 EST
+Received: by TELNET-1.SRV.CS.CMU.EDU id ar08498; 4 Mar 98 15:15:28 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa07582;
+          4 Mar 98 4:11:23 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19928;
+          4 Mar 98 4:10 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa26698; 4 Mar 98 2:57 EST
+Received: from [162.105.178.91] by RI.CMU.EDU id aa02093; 4 Mar 98 2:56:19 EST
+Received: from localhost (yx@localhost)
+	by pics91.cis.pku.edu.cn (8.8.6/8.8.6) with SMTP id PAA05918
+	for <Connectionists@cs.cmu.edu>; Wed, 4 Mar 1998 15:55:26 +0800
+Date: Wed, 4 Mar 1998 15:55:25 +0800 (CST)
+From: Yu Xiang <yx@pics91.cis.pku.edu.cn>
+Reply-To: Yu Xiang <yx@pics91.cis.pku.edu.cn>
+To: Connectionists@cs.cmu.edu
+Subject: ICNN&B'98: Second Call for Papers
+Message-ID: <Pine.LNX.3.96.980304154924.5856A-100000@pics91.cis.pku.edu.cn>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Final Announcement and Call for Papers
+
+1998 International Conference on Neural Network and Brain (NN&B'98)
+     
+     October 27-30,1998
+       Beijing, China 
+
+Http://www.cie-china.org
+
+
+Sponsored by:
+   China Neural Networks Council
+
+Co-sponsored by:
+   IEEE NNC
+   IEEE Beijing Section
+   IEEE NNC Beijing RIG
+   INNS-SIG
+
+Supported by:
+   National Natural Science Foundation of China
+
+
+                   CALL FOR PAPERS
+Over the past decade or so, neural networks have emerged 
+as a research area with active involvement by researchers 
+from a number of different disciplines, including cognitive 
+science, computer science, engineering, mathematics, 
+neurobiology, physics, and statistics. The theme for the 
+International Conference on Neural Network and Brain (NN&B'98) 
+is to provide a chance for interdisciplinary collaboration and 
+exchange of ideas which will lead us to address research issue 
+in this area from different perspectives, and to promote its 
+application to industries. This conference is intended to bring 
+together researchers from different disciplines to review  the 
+current status of neural networks and understand higher brain 
+functions. Submissions of papers related, but not limited, to 
+the topics listed below are invited.  
+
+                       General Topics
+Adaptive Filtering
+Architectures
+Associative Memory
+Brain Functions
+Cognitive Science
+Cellular Neural Networks
+Computational Intelligence
+Data Analysis
+Fuzzy Neural Systems
+Genetic and Annealing Algorithms
+Hybrid Systems
+Image Signal Processing
+Industrial Automation
+Intelligent Control and Robotics
+Learning and Memory
+Machine Vision
+Model Identification
+Motion Analysis 
+Motion Vision
+Neurobiology
+Neurocognition
+Neural Modeling                                  
+Neurosensors and Wavelets
+Neurodynamics and Chaos
+Optimization
+Parameter Estimation
+Pattern Recognition and signal Processing
+Prediction
+Sensation and Perception
+Sensorimotor Systems
+Speech, Hearing,and Language 
+Supervised/Unsupervised Learning
+System Identification
+Time Series Analysis
+
+                       Implementations
+Hardware Implementation 
+Optical Implementation
+Parallel and Distributed Computing Environment 
+Simulation
+
+                       Applications Areas
+Business, Chemical Engineering,  Communications, Economics 
+and Finance,Industry, Manufacture, Medical, OCR,etc.
+
+                           Submission
+Authors are invited to submit 3 copies of detail synopsis of about 
+1000 words written in English. A cover sheet with author's title, 
+name, affiliation, telephone and fax numbers, mailing address and 
+e-mail.
+
+                Synopsis and manuscript should be sent to:
+Mr. Yu Xiang
+Center for Information Science
+Peking University
+Beijing 100871
+P. R. China
+Tel: 86-10-6275 1937  
+Fax: 86-10-6275 5654
+E-mail: yx@cis.pku.edu.cn
+
+                          Important Dates
+Submission of  synopsis         March 31,1998
+Notification of  acceptance       April 30, 1998
+Submission of photo-ready accepted paper  June 30,1998
+
+                       GENERAL INFORMATION
+  Conference Language
+The official language is English. No simultaneous translation is 
+available.
+
+   Conference Schedule
+October 27     Registration
+October 28-30  Parallel sessions
+October 31   One-day excursion to The Great Wall 
+  and Ming Tombs (tickets may be purchased at 
+              US$35)                
+                                   Venue
+The conference will be held at the Media Center, located at Fuxing 
+Road, Beijing China, which is approximately 3km west to the Tiananmen 
+Square. 
+
+                                Accommodations
+A block of rooms has been reserved for the NN&B*98 Participants at 
+the Media Center, which is an attractive and modern hotel.
+Single occupancy :          US$40 per day
+Double occupancy(2 beds) :   US$56 per day
+
+                                  Registration
+Registration fee covers admission to the conference, reception, 
+refreshments and a copy of the proceedings.
+               Registration Fee
+   by September 10,1998   after September 10,1998     
+Regular    US$360             US$395
+Student    US$275             US$325
+In case of Cancellation, a fee of US$50 will be deducted from the 
+refund. Cancellations should be made in writing to the NN&B*98 
+Secretariat by Oct.15, 1998. No cancellation will be allowed after 
+Oct.15,1998. But a copy of the conference proceedings will be mailed to.
+
+                                 On Site Registration
+The registration desk at the Media Center will be open during the 
+following hours for  on-site registration:
+October 27,1998   8:30-23:00
+October 28,1998   7:30-9:00AM
+ 
+                               Banquet 
+There will be a banquet at 18:30 on October 30,1998. Tickets are  
+available at a cost of US$30.
+
+                               Method of Payment
+All payments including registration, accommodation and tours should 
+be made in US Dollars by Bank transfer to:
+Account number: 71404625
+Account name: Chinese Institute of Electronics
+            Bank of China, Headquarters
+            Fuchengmen Road, Beijing, China
+Attn: Ms. Fang Min, NN&B*98 Secretariat
+Your name and NN&B*98 must be stated on all your payments.
+   
+                             Weather
+The temperature is around 10c during the day, and 2c at night in October.
+
+                             Visas
+All travelers to China must have a valid visa. Visas may be obtained 
+from the Chinese Consulate in most major cities. Conference registrants 
+will be mailed an official invitation letter upon the registration 
+form received  to be used for visa application.
+
+                      Companions' Program
+A companions' program will be available during the conference.
+
+                       Airport Transportation
+On October 27,1998, the Conference staff will assist you at the Beijing 
+airport in getting a taxi to the Media Center. Please provide your flight 
+information in the registration form for this purpose. The taxi fare from 
+the airport to the Media Center is approximately US$20. Please find the 
+NN&B*98 sign at the arrival hall of the airport.
+
+                        POST-CONFERENCE TOURS
+Two post -conference tours will be offered to the conference attendees 
+and accompanying persons.
+Tour A:  November 1-8   
+         Beijing-Xian-Guilin-Guangzhou (Hong
+ Kong Exiting)
+   US$ 998 per person for double occupancy
+   US$ 1159 per person for single occupancy
+Tour B:  November 1-8
+       Beijing-Hongzhou-Shanghai-Suzhou-Guangzhou (Hong Kong Exiting) 
+   US$ 989 per person for double occupancy
+   US$ 1139 per person for single occupancy
+Note: The above fees include accommodations, meals, transportation 
+between cities in China, and airport transfer. The organizer reserves 
+the right to cancel any tour or offer new prices if a minimum number 
+of 10 persons not reached.
+  
+
+FOR FURTHER INFORMATION
+About paper and program              
+Mr. Yu Xiang 
+Center for Information Science 
+Peking University
+Beijing 100871
+China
+Tel: 86-10-6275 1937  
+Fax: 86-10-6275 5654
+E-mail: yx@cis.pku.edu.cn
+
+About registration
+Ms. Min Fang
+NN&B'98 Secretariat
+P.O. Box 165, Beijing 100036, China
+Tel.:(8610)6828 3463
+Fax:(8610)6828 3458
+E-mail: shaz@sun.ihep.ac.cn
+
+
+

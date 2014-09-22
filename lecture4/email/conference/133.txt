@@ -1,0 +1,231 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sun Aug  2 10:03:58 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA10210;
+	Sun, 2 Aug 1998 10:03:44 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16741;
+          2 Aug 98 2:48 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16739;
+          2 Aug 98 2:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12541;
+          2 Aug 98 2:36 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa18052; 1 Aug 98 9:40 EDT
+Received: from sabai.stern.nyu.edu by RI.CMU.EDU id aa22096;
+          1 Aug 98 9:39:41 EDT
+Received: (from aweigend@localhost) by sabai.stern.nyu.edu (8.8.4/8.8.3) id JAA05053; Sat, 1 Aug 1998 09:39:38 -0400 (EDT)
+From: Andreas Weigend <aweigend@stern.nyu.edu>
+Message-Id: <199808011339.JAA05053@sabai.stern.nyu.edu>
+Subject: Computational Finance Jan 6-8 1999 at NYU/Stern: CFP and Registration
+To: connectionists@cs.cmu.edu
+Date: Sat, 1 Aug 1998 09:39:38 -0400 (EDT)
+Cc: cf99@stern.nyu.edu
+X-Mailer: ELM [version 2.4 PL23]
+Content-Type: text
+Status: RO
+X-Status: 
+
+		    Computational Finance  (CF99)
+		    January 6, 1999   (Tutorials)
+		    January 7 - 8    (Conference)
+
+		    Stern School of Business, NYU
+		    http://www.stern.nyu.edu/CF99
+
+  --> Aug 31, 1998: Deadline for submissions
+  --> Oct 31, 1998: Program posted on the web
+  --> Dec  1, 1998: Deadline for early registration
+
+The sixth international conference Computational Finance (CF99) will
+be held at NYU's Leonard N. Stern School of Business, sponsored by the
+New York University Salomon Center, the Center for Research on Information 
+Systems and the Department of Statistics and Operations Research.
+
+Computational Finance has emerged as a genuinely cross-disciplinary
+research meeting. CF99 is the sixth in a series of conferences that
+have been sponsored by the California Institute of Technology and the
+London Business School. In the past, this conference was called Neural
+Networks in the Capital Markets (NNCM). The expanding set of computational 
+tools has moved this meeting from its original emphasis on neural
+network techniques to a broad spectrum of different methodologies.
+
+With several hundred attendees, this fully refereed conference has
+become an international forum where original research in advanced
+computational applications in finance is presented and discussed. 
+
+CF99 brings together decision-makers and strategists from the 
+financial industries, with academics from finance, statistics, 
+economics, information systems and other disciplines.  In the last 
+few years, the conference has seen papers covering many different
+computational techniques including: statistical machine learning, Monte
+Carlo simulation, data mining, knowledge discovery, bootstrapping,
+genetic algorithms, nonparametric methods and information theory.
+
+Applications in many different areas are welcome, including but not
+limited to: risk management, asset allocation, dynamic trading and
+hedging strategies, forecasting, numerical solutions of derivative PDEs,
+option pricing and trading cost control. Studies may cover any major
+international financial market including equity, foreign exchange,
+bond, commodity and derivatives. The conference emphasizes in-depth
+analysis and comparative evaluation with established approaches.
+
+CF99 begins with a full day of tutorials designed to inform the 
+diverse group of participants on a selection of the latest tools 
+and research results. The tutorial speakers (on January 6) are: 
+  o Prof. Stephen Figlewski, Stern School of Business, New York University 
+  o Prof. David A. Hsieh, Fuqua School of Business, Duke University 
+  o Prof. Benjamin van Roy, Stanford University
+  o Prof. Halbert White, University of California, San Diego.
+
+CF99 has two distinguished keynote speakers (on January 7 and 8):
+  o H. Gifford Fong, President of Gifford Fong Associates 
+  o David E. Shaw, PhD, Chairman and CEO of D. E. Shaw & Co., Inc.  
+
+CF99 also features several invited speakers sharing their expertise
+from both the academic and applied perspectives, as well as talk and
+poster sessions for the accepted papers.  A selection of these papers
+will appear in a book published by Kluwer in summer 1999.
+_______________________________________________________________________
+
+    CALL FOR PAPERS
+
+Authors who wish to present papers should submit four copies along
+with full contact information, including e-mail addresses, to:
+
+    CF99 / Andreas Weigend 
+    Information Systems Department 
+    Leonard N. Stern School of Business 
+    New York University 
+    44 W 4th St., MEC 9-171 
+    New York, NY 10012, USA
+
+The final deadline for receiving the four hardcopies is August 31, 1998.  
+Full papers are preferred, but extended abstracts clearly stating the
+results are acceptable. Only original and relevant research work will
+be accepted.  Each manuscript will be reviewed anonymously by several
+members of the program committee.  The program co-chairs will notify
+the corresponding authors of the decision by the end of October.
+_______________________________________________________________________
+
+    REGISTRATION
+
+The registration fees for the conference and tutorials are as follows.
+They includes all printed materials, breakfasts, lunches, Thursday dinner,
+as well as the conference proceedings (Kluwer Academic Publishers).
+Please register by December 1, 1998 in order to avoid late charges of
+additional 50%.
+
+  Rates for early registration (if everything received by December 1):
+
+     Conference only (no tutorials) [i.e., Jan 7 and 8 only]
+     Standard   $600
+     Academic   $300
+     Student    $100  
+
+     Conference with all tutorials  [i.e., Jan 6, 7 and 8]
+     Standard   $900
+     Academic   $400
+     Student    $150
+
+
+  To qualify for the reduced rates, both of the following is required:
+  1) a university e-mail address of the registrant,
+  2) a photocopy of the faculty's, postdoc's or student's university card.
+
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                      CF99 REGISTRATION FORM
+
+Name: __________________________________________________________________
+
+Affiliation: ___________________________________________________________
+
+Address: _______________________________________________________________
+
+Address: _______________________________________________________________
+
+City, State, Zip: ______________________________________________________
+
+	   Phone: __________________________
+
+	     Fax: __________________________
+
+	  E-mail: __________________________
+
+Dietary requests (lunches and dinner): _________________________________
+
+Comments: ______________________________________________________________
+
+Attending: Conference only (no tutorials)  OR  Conference with tutorials
+
+Enclosed is a check (payable to New York University) for USD ______
+
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+To register, please complete the form above and mail it together with a
+check payable to New York University to:
+
+  CF99 / Mary Jaffier
+  New York University Salomon Center
+  Stern School of Business
+  44 W 4th St., MEC 9-160
+  New York, NY 10012, USA
+
+Should you have questions about the registration, please contact 
+Mary Jaffier at the NYU Salomon Center:
+
+  E-mail: mjaffier@stern.nyu.edu
+  Phone: +1 212 998-0700 
+    Fax: +1 212 995-4220
+
+For registration using a credit card, please e-mail cf99@stern.nyu.edu.
+_________________________________________________________________________
+
+    ORGANIZATION
+
+    General Chair 
+      Y. S. Abu-Mostafa, Caltech 
+    Organizational Chair 
+      A. S. Weigend, NYU Stern 
+    Program Co-chairs 
+      B. LeBaron, University of Wisconsin 
+      A. W. Lo, MIT Sloan 
+
+    Program Committee:
+      A. Atiya, Cairo University 
+      J. Cowan, University of Chicago 
+      F. X. Diebold, University of Pennsylvania
+      R. Gencay, University of Windsor 
+      M. Jabri, Sydney University 
+      J. E. Moody, Oregon Graduate Institute 
+      C. E. Pedreira, Catholic Univ. PUC-Rio 
+      A.-P. N. Refenes, London Business School 
+      M. Steiner, Universitaet Augsburg 
+      D. Tavella, Align Risk Analysis 
+      A. Timmermann, University of California, San Diego 
+      H. White, University of California, San Diego 
+      L. Xu, Chinese University of Hong Kong 
+
+Note: The abstracts of the fourth NNCM conference (Nov 1996, Pasadena, CA)
+are in http://www.stern.nyu.edu/~aweigend/Books/NNCM96/NNCM96Contents.html
+The complete volume "Decision Technologies for Financial Engineering" can
+be obtained through http://www.wspc.com.sg/books/compsci/3463.html
+
+
+_________________________________________________________________________
+
+    THE STERN SCHOOL
+
+    Founded in 1900, the Stern School has grown into one of the most
+highly ranked business schools in the world. A talented and diverse
+student body benefits in many ways from Stern's long-standing excellence,
+top faculty and its central New York City location. Stern offers
+several specializations in computational finance that include a highly
+quantitative MBA financial engineering track, an MS in statistics with
+specialization in financial engineering, and PhD programs in the
+fields of finance, statistics and information systems. Related 
+conferences, symposia and workshops at Stern in 1999 include
+Derivatives: What's New?,  Market Risk: Advances and Challenges,
+Data Mining in Finance,  as well as the two-day seminar in the Salomon
+Center's Frontiers in Finance Series in April 1999, Exploiting
+Nonlinearities in Financial Data: Methodologies and Applications.

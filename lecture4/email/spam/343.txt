@@ -1,0 +1,49 @@
+
+
+From spm-request@mailbase.ac.uk Wed Mar 17 08:08:43 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id IAA16380
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 17 Mar 1999 08:08:42 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id HAA08740;
+	Wed, 17 Mar 1999 07:16:43 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id HAA28555;
+        Wed, 17 Mar 1999 07:15:27 GMT
+Received: from MIT.EDU (PACIFIC-CARRIER-ANNEX.MIT.EDU [18.69.0.28]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id HAA28520;
+        Wed, 17 Mar 1999 07:15:22 GMT
+Received: from EECS-ATH-35.MIT.EDU by MIT.EDU with SMTP
+	id AA18425; Wed, 17 Mar 99 02:16:07 EST
+Received: by EECS-ATH-35.mit.edu (SMI-8.6/4.7) id CAA02568; Wed, 17 Mar 1999 02:15:23 -0500
+Message-Id: <199903170715.CAA02568@EECS-ATH-35.mit.edu>
+Date: Wed, 17 Mar 1999 02:15:22 EST
+Subject: question regarding spm software
+From: Andy Tsai <atsai@MIT.EDU>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Andy Tsai <atsai@MIT.EDU>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+Hi,
+
+I am trying to learn the SPM software that I down loaded from your web
+site to analyze fMRI experiments. However, I am running into some
+difficulties (even after reading though some of the literature
+provided on the web site). 
+
+In order to help me learn this software, I am wondering if it would be
+possible for me to get a hold of an example data set with specified
+parameters from you guys so that I can test it out for myself here and
+see first hand how it works.
+
+Thanks very much in advance.
+
+-Andy Tsai
+

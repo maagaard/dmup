@@ -1,0 +1,134 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 31 00:50:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA11205;
+	Tue, 31 Aug 1999 00:50:48 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23634;
+          30 Aug 99 15:25 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23632;
+          30 Aug 99 15:10 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20576;
+          30 Aug 99 15:09 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19458; 30 Aug 99 7:13 EDT
+Received: from dv.op.dlr.de by RI.CMU.EDU id aa08012; 30 Aug 99 7:12:15 EDT
+Received: from euphrat.robotic.dlr.de (euphrat.robotic.dlr.de [129.247.189.80])
+	by dv.op.dlr.de (8.9.3/8.9.3) with ESMTP id NAA83096
+	for <connectionists@cs.cmu.edu>; Mon, 30 Aug 1999 13:11:21 +0200
+Received: from ilz.robotic (ilz [129.247.189.84]) by euphrat.robotic.dlr.de (8.7.5/8.7.3) with ESMTP id NAA07017 for <connectionists@cs.cmu.edu>; Mon, 30 Aug 1999 13:11:20 +0200 (MET DST)
+Received: (from smagt@localhost)
+	by ilz.robotic (8.9.1b+Sun/8.9.1) id NAA29171
+	for connectionists@cs.cmu.edu; Mon, 30 Aug 1999 13:11:19 +0200 (MET DST)
+From: Patrick van der Smagt <smagt@dlr.de>
+Message-Id: <199908301111.NAA29171@ilz.robotic>
+Subject: CFP: Scalable Robotic Applications of Neural Networks
+To: connectionists@cs.cmu.edu
+Date: Mon, 30 Aug 1999 13:11:19 +0200 (MET DST)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+	Scalable Robotic Applications of Neural Networks
+	================================================
+	Special Issue of "Applied Intelligence"
+	Editors: Patrick van der Smagt and Daniel Bullock
+	http://www.robotic.dlr.de/Smagt/CFP/
+
+In this special issue, we want to address the question of whether there
+are real robotic problems that can be better solved using existing
+neuro-computational principles than by using other standard engineering
+techniques.  Where sensory-motor systems cannot be explicitly modeled,
+the brain's success leads us to expect that approaches based on
+adaptive neural control will someday provide a technically sound
+alternative.  However, today's robotic engineers are appropriately
+skeptical regarding use of neural network principles because of the
+apparent scarcity of published research that demonstrates scalability
+of solutions to complex robotic control tasks.  For example, like many
+traditional approaches, many neural network control strategies do not
+scale well from a two-degree-of-freedom robot arm to a seven
+degree-of-freedom system.
+
+
+For this special issue, papers are sought that: 
+
+1. introduce or review biologically plausible models of sensory-motor
+control that truly integrate action and perception;
+
+2. newly apply such models to the control of realistic robots,
+especially manipulators;
+
+3. describe hybrid robot control methodologies that incorporate
+cerebellar or other neuro-computational models (e.g., vision);
+
+4. provide a case history that clearly defines, or illustrates
+overcoming of, barriers to successful competition by neural network
+models for robot control.
+
+
+The scalability of applications of biological models can only be fully
+assessed in the context of demonstrations that are representative of
+real-world complexities.  Therefore, results on real hardware will
+generally be preferred.  However, results on well-simulated complex
+problems will be preferred to results with hardware (e.g., 2 DoF robot
+arms) that can already be optimally controlled with conventional,
+non-neural techniques.
+
+
+Special Issue Editors:
+----------------------
+Patrick van der Smagt
+Institute of Robotics and System Dynamics
+DLR (German Aerospace Research Center) Oberpfaffenhofen, Germany
+smagt@dlr.de
+http://www.robotic.dlr.de/Smagt/
+
+
+Daniel Bullock
+Cognitive and Neural Systems Department
+Boston University
+danb@cns.bu.edu
+http://cns-web.bu.edu/faculty.html#bullock
+
+
+Editor in Chief:
+----------------
+Moonis Ali
+Department of Computer Science
+Southwest Texas State University
+ma04@swt.edu
+http://www.cs.swt.edu
+
+
+
+Submission
+==========
+Deadline for submitting papers: Jan 15, 2000. The journal's
+instructions to authors can be read at
+http://www.robotic.dlr.de/Smagt/CFP/ifa.html.  For this special issue,
+*all* papers must be submitted by the above date in Postscript or PDF
+format via email to smagt@dlr.de.  Hardcopy submissions will not be
+accepted.
+
+To the extent that time permits, the editors will invite short external
+commentaries (to be published in the same issue) on the accepted papers. 
+Submitters should inform the editors if they do *not* want their paper
+treated in an invited commentary. Suggestions of expert reviewers and
+commentators are welcome.
+
+
+About the journal
+=================
+The objective of Applied Intelligence (IJAI) is to provide a medium
+for exchanging applied research on intelligent systems and
+technological achievements.  IJAI is currently in its eighth year of
+publication.  In order to meet the demand, the publication frequency
+has been increased from four to six issues per year effective 1998.
+IJAI is abstracted and/or indexed by twenty indexing publications.
+See http://www.wkap.nl/journals/apin
+-- 
+Dr Patrick van der Smagt                phone +49 8153 281152, fax -34
+DLR/Institute of Robotics and System Dynamics             smagt@dlr.de
+P.O.Box 1116, 82230 Wessling, Germany     http://www.robotic.de/Smagt/

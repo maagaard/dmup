@@ -1,0 +1,66 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Jan 29 00:26:09 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA17752;
+	Fri, 29 Jan 1999 00:26:02 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa09770;
+          28 Jan 99 16:31 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09756;
+          28 Jan 99 16:16 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22665;
+          28 Jan 99 16:16 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa19502; 28 Jan 99 8:39 EST
+Received: from servius.mbfys.kun.nl by EDRC.CMU.EDU id aa26753;
+          28 Jan 99 8:38:35 EST
+Received: from bertus.mbfys.kun.nl by servius.mbfys.kun.nl
+	via bertus.mbfys.kun.nl [131.174.173.249] with ESMTP for <Connectionists@CS.CMU.EDU>
+	id OAA29312 (8.8.8/1.2); Thu, 28 Jan 1999 14:37:44 +0100 (MET)
+From: Bert Kappen <bert@mbfys.kun.nl>
+Received: by bertus.mbfys.kun.nl id OAA17607
+	(8.8.8/2.1 for Connectionists@CS.CMU.EDU); Thu, 28 Jan 1999 14:37:43 +0100 (MET)
+Date: Thu, 28 Jan 1999 14:37:43 +0100 (MET)
+Message-Id: <199901281337.OAA17607@bertus.mbfys.kun.nl>
+To: Connectionists@CS.cmu.edu
+Subject: Postdoc position available at SNN Nijmegen
+Status: RO
+X-Status: 
+
+Post doc position available at SNN, University of Nijmegen, the
+Netherlands.
+
+Background:
+The group consists of 10 researchers and PhD students and conducts
+theoretical and applied research on neural networks and Bayesian
+methods. The group is part
+of the Laboratory of Biophysics which is involved in experimental brain
+science.
+
+Recent research of the group has focused on theoretical description of
+learning processes using the theory of stochastic processes and the design
+of efficient learning rules for Boltzmann machines and other graphical
+models using techniques from
+statistical mechanics; the extraction of rules from data and the
+integration of knowledge and data for modeling; the design of robust
+methods for confidence estimation with neural networks. Applied research
+is conducted on computer assisted medical diagnosis and prediction 
+tasks. Since 1997, SNN Nijmegen has founded a company which sells 
+commercial services and products in the field of neural networks, AI 
+and statistics. For more information see also http://www.mbfys.kun.nl/SNN
+
+Job specification:
+The tasks of the post-doc will be to conduct independent research in one
+of the above areas. In addition, it is expected that the post-doc will
+initiate novel research and will assist in the supervision of PhD students.
+The postdoc should have a PhD in physics, mathematics or computer
+science and a strong theoretical background in neural networks.
+The post-doc salary will be maximally Dfl. 7396 per month, depending on
+experience. The position is available for 2 years with possible
+extension to 4 years.
+
+Applications:
+Interested candidates should send a letter with a CV and list of
+publications before february 20 1999 to dr. H.J. Kappen, SNN, 
+University of Nijmegen, Geert Grooteplein 21, 6525 EZ Nijmegen. 
+For information contact dr. H.J. Kappen, +31 24 3614241 or 
+bert@mbfys.kun.nl.

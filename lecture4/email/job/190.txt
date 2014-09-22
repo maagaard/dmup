@@ -1,0 +1,122 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Oct  6 04:17:07 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA11503;
+	Wed, 6 Oct 1999 04:17:03 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21347;
+          5 Oct 99 20:29 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21345;
+          5 Oct 99 20:16 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa25177;
+          5 Oct 99 20:16 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa15694; 5 Oct 99 6:46 EDT
+Received: from phy.ucsf.edu by cs.cmu.edu id aa00388; 5 Oct 99 6:46 EDT
+Received: from coltrane.ucsf.edu (root@coltrane.ucsf.edu [128.218.66.81]) by phy.ucsf.EDU (8.8.6/GSC4.27) with ESMTP
+	id DAA05476; Tue, 5 Oct 1999 03:46:20 -0700 (PDT)
+Received: by coltrane.ucsf.edu (8.9.3) id DAA17391; Tue, 5 Oct 1999 03:46:20 -0700
+From: Ken Miller <ken@phy.ucsf.EDU>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-ID: <14329.55036.61411.427912@coltrane.ucsf.edu>
+Date: Tue, 5 Oct 1999 03:46:20 -0700 (PDT)
+To: Connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: UCSF Postdoctoral/Graduate Fellowships in Theoretical Neurobiology
+X-Mailer: VM 6.72 under 21.1 "20 Minutes to Nikko" XEmacs Lucid (patch 2)
+Status: RO
+X-Status: 
+
+FULL INFO:
+http://www.sloan.ucsf.edu/sloan/sloan-info.html
+
+PLEASE DO NOT USE 'REPLY'; FOR MORE INFO USE ABOVE WEB SITE OR CONTACT
+ADDRESSES GIVEN BELOW
+
+
+The Sloan Center for Theoretical Neurobiology at UCSF solicits
+applications for pre- and post-doctoral fellowships, with the goal of
+bringing theoretical approaches to bear on neuroscience. Applicants
+should have a strong background and education in mathematics,
+theoretical or experimental physics, or computer science, and
+commitment to a future research career in neuroscience. Prior
+biological or neuroscience training is not required.
+
+The Sloan Center offers opportunities to combine theoretical and
+experimental approaches to understanding the operation of the intact
+brain. Young scientists with strong theoretical backgrounds will
+receive scientific training in experimental approaches to
+understanding the operation of the intact brain. They will learn to
+integrate their theoretical abilities with these experimental
+approaches to form a mature research program in integrative
+neuroscience. The research undertaken by the trainees may be
+theoretical, experimental, or a combination.
+
+Resident Faculty of the Sloan Center and their research interests
+include:
+
+Allison Doupe:       Development of song recognition and production in
+                     songbirds
+Stephen Lisberger:   Learning and memory in a simple motor reflex, the
+                     vestibulo-ocular reflex, and visual guidance of
+                     smooth pursuit eye movements by the cerebral cortex
+Michael Merzenich:   Experience-dependent plasticity underlying learning
+                     in the adult cerebral cortex, and the neurological
+                     bases of learning disabilities in children
+Kenneth Miller:      Circuitry of the cerebral cortex: its structure,
+                     self-organization, and computational function (primarily
+                     using cat primary visual cortex as a model system)
+Roger Nicoll:        Synaptic and cellular mechanisms of learning and
+		     memory in the hippocampus
+Christoph Schreiner: Cortical mechanisms of perception of complex
+                     sounds such as speech in adults, and plasticity of
+                     speech recognition in children and adults 
+Michael Stryker:     Mechanisms that guide development of the visual
+                     cortex
+
+There are also a number of visiting faculty, including Larry Abbott,
+Brandeis University; Bill Bialek, NEC Research; Sebastian Seung, MIT;
+David Sparks, Baylor University; Steve Zucker, Yale University.
+
+TO APPLY, please send a curriculum vitae, a statement of previous
+research and research goals, up to three relevant publications, and
+have two letters of recommendation sent to us.
+
+            The application deadline is February 1, 2000. 
+
+Send applications to: 
+
+                        Steve Lisberger
+          Sloan Center for Theoretical Neurobiology at UCSF
+                    Department of Physiology
+                     University of California
+                       513 Parnassus Ave.
+                  San Francisco, CA 94143-0444
+
+PRE-DOCTORAL applicants with strong theoretical training may seek
+admission into the UCSF Neuroscience Graduate Program as a first-year
+student. Applicants seeking such admission must apply by Jan. 5, 2000
+to be considered for fall, 2000 admission. Application materials for
+the UCSF Neuroscience Program may be obtained from
+http://www.neuroscience.ucsf.edu/neuroscience/admission.html or from
+
+                         Cindy Kelly 
+                 Neuroscience Graduate Program 
+                    Department of Physiology 
+               University of California San Francisco 
+                  San Francisco, CA 94143-0444 
+                   neuroscience@phy.ucsf.edu 
+
+Be sure to include your surface-mail address. The procedure is: make a
+normal application to the UCSF Neuroscience program; but also alert
+the Sloan Center of your application, by writing to Steve Lisberger at
+the address given above.
+
+If you need more information: 
+
+-- Consult the Sloan Center WWW Home Page: http://www.sloan.ucsf.edu/sloan 
+-- Send e-mail to sloan-info@phy.ucsf.edu 
+-- See also the home page for the W.M. Keck Foundation Center for
+   Integrative Neuroscience, in which the Sloan Center is housed:
+   http://www.keck.ucsf.edu/

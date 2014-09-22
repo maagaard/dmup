@@ -1,0 +1,108 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Dec 30 03:14:16 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA22794;
+	Wed, 30 Dec 1998 03:14:09 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa00528;
+          29 Dec 98 14:07 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa00510;
+          29 Dec 98 13:50 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02574;
+          29 Dec 98 13:50 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa06468; 29 Dec 98 8:35 EST
+Received: from kuifje.bbf.uia.ac.be by RI.CMU.EDU id aa00363;
+          29 Dec 98 8:34:49 EST
+Received: by kuifje.bbf.uia.ac.be; (8.8.8/1.1.8.2/22Feb95-0943AM)
+	id OAA05688; Tue, 29 Dec 1998 14:34:05 GMT
+Date: Tue, 29 Dec 1998 14:34:05 GMT
+From: Erik De Schutter <erik@bbf.uia.ac.be>
+Message-Id: <199812291434.OAA05688@kuifje.bbf.uia.ac.be>
+To: connectionists@cs.cmu.edu
+Subject: Trieste Course in Computational Neuroscience
+Status: RO
+X-Status: 
+
+             EU ADVANCED COURSE IN COMPUTATIONAL NEUROSCIENCE
+                                 FIRST CALL
+
+                        AUGUST 23 - SEPTEMBER 17, 1999
+
+         INTERNATIONAL CENTRE FOR THEORETICAL PHYSICS, TRIESTE, ITALY                   
+
+DIRECTORS:    Erik De Schutter (University of Antwerp, Belgium)
+              Klaus Obermayer (Technical University Berlin, Germany)
+              Idan Segev (Hebrew University, Jerusalem, Israel)
+              Alessandro Treves (SISSA, Trieste, Italy)
+
+
+The EU Advanced Course in Computational Neuroscience introduces students 
+to the panoply of problems and methods of computational neuroscience, 
+simultaneously addressing several levels of neural organisation, from 
+subcellular processes to operations of the entire brain.
+
+The course consists of two complementary parts.  A distinguished 
+international faculty gives morning lectures on topics in experimental 
+and computational neuroscience.  The rest of the day is devoted to
+practicals, including learning how to use simulation software and 
+how to implement a model of the system the student wishes to study on 
+individual unix workstations.  
+
+The first week of the course introduces students to essential neuro-
+biological concepts and to the most important techniques in modeling 
+single cells, networks and neural systems.  Students learn how to apply 
+software packages like GENESIS, MATLAB, NEURON, XPP, etc. to the solution 
+of their problems.  During the following three weeks the lectures will 
+cover specific brain functions.  Each week topics ranging from modeling 
+single cells and subcellular processes through the simulation of simple 
+circuits, large neuronal networks and system level models of the brain 
+will be covered. The course ends with a presentation of the students' 
+projects.
+
+The EU Advanced Course in Computational Neuroscience is designed for 
+advanced graduate students and postdoctoral fellows in a variety of 
+disciplines, including neuroscience, physics, electrical engineering, 
+computer science and psychology.  Students are expected to have a basic 
+background in neurobiology as well as some computer experience.  
+
+A total of 30 students will be accepted.  Students of any nationality 
+can apply.  We specifically encourage applications from researchers who 
+work in less-favoured regions of the EU and from women. Travel grants 
+and free accomodations are available for students from most countries in 
+the world.
+
+More information and application forms can be obtained:
+   - http://www.bbf.uia.ac.be/EU_course.shtml
+     http://www.ictp.trieste.it/cgi-bin/ICTPsmr/mklinks/mklist?smr1166
+     Please apply electronically using a web browser if possible.
+   - email: eucourse@bbf.uia.ac.be
+   - by mail:  Prof. E. De Schutter
+               Born-Bunge Foundation
+               University of Antwerp - UIA, 	 
+               Universiteitsplein 1
+               B2610 Antwerp
+               Belgium
+               FAX: +32-3-8202669
+
+APPLICATION DEADLINE:  March 31, 1999.  Applicants will be notified of 
+                       the results of the selection procedures by May 1.
+
+CONFIRMED FACULTY: M. Abeles (Hebrew University Jerusalem, Israel), S. 
+         Amari (RIKEN, Japan), C. Colby (University Pittsburgh, USA), M. 
+       	 Corbetta (Washington University St Louis, USA), O. Ekeberg 
+       	 (Royal Institute of Technology, Sweden), D. Hansel (Ecole 
+       	 Polytechnique Paris, France), D. Heeger (Stanford University, 
+       	 USA), J. Jack (Oxford University, UK), R. Kotter (Heinrich 
+       	 Heine University Dusseldorf, G. LeMasson (University of 
+       	 Bordeaux, France), J. Lund (University College London, UK), 
+       	 E. Marder (Brandeis University, USA), H. Markram (Weizmann 
+       	 Institute, Israel), B. McNaugthon (University Arizona Tucson, 
+       	 USA), J. Rinzel (New York University, USA), M. Stetter 
+       	 (Technical University Berlin, Germany), S. Ullman (Weizmann 
+       	 Institute, Israel), C. Wilson (University of Tennessee, USA), 
+       	 and others to be announced.
+
+The EU Advanced Course in Computational Neuroscience is supported by the 
+European Commission (4th Framework Biotechnology program), by the
+International Centre for Theoretical Physics (Trieste) and by The Brain 
+Science Foundation (Tokyo). 

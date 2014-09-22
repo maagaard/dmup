@@ -1,0 +1,65 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Apr  5 08:06:26 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA23382;
+	Mon, 5 Apr 1999 08:06:18 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16560;
+          5 Apr 99 1:09 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16557;
+          5 Apr 99 1:01 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11221;
+          5 Apr 99 1:00 EDT
+Received: from GS168.SP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05838;
+          5 Apr 99 0:49 EDT
+Received: from localhost by gs168.sp.cs.cmu.edu id aa02512; 5 Apr 99 0:49 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17251; 2 Apr 99 8:28 EST
+Received: from servius.mbfys.kun.nl by EDRC.CMU.EDU id aa17962;
+          2 Apr 99 8:28:01 EST
+Received: from probus by servius.mbfys.kun.nl
+	via probus.mbfys.kun.nl [131.174.173.186] with SMTP for <connectionists-request@cs.cmu.edu>
+	id PAA13144 (8.8.8/1.2); Fri, 2 Apr 1999 15:27:59 +0200 (MET DST)
+Message-Id: <3.0.2.32.19990402143404.009f8da0@pop-srv.mbfys.kun.nl>
+X-Sender: stan@pop-srv.mbfys.kun.nl
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.2 (32)
+Date: Fri, 02 Apr 1999 14:34:04 +0100
+To: connectionists@cs.cmu.edu
+From: Stan Gielen <stan@mbfys.kun.nl>
+Subject: advertisement for vacant Ph.D. position
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+
+The Dept. of Medical Physics and Biophysics of the University of Nijmegen,
+The Netherlands, has a vacancy for a
+
+Ph.D. STUDENT
+
+
+RESEARCH PROJECT
+
+The research project has a theoretical component and an application
+oriented component.
+
+The theoretical component deals with knowledge extraction from
+neural-network related architectures, which have been trained using large
+data-bases. Our group has a large experience with Multi-layer Perceptrons,
+staochastic neural networks and graphical models (see
+http://www.mbfys.kun.nl/snn).
+The application oriented part deals with optimization of the production
+process in a paper production plant. The aim of the project is to train a
+neural network (or related architecture) with data, obtained during the
+paper production process, and then
+-- to find the main relevant parameters, which determine the production
+process and the quality of the output (quality of paper)
+-- to extract rules, which provide insight into the production process
+-- to optimize the process.
+
+The project should produce excellent papers in the best available
+scientific journals. After a period of 4 years, a thesis should be available.
+
+For applications, please send your cv to:
+
+Prof. Stan Gielen: stan@mbfys.kun.nl

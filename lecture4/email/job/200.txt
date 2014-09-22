@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Oct 19 03:08:07 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id DAA24633;
+	Tue, 19 Oct 1999 03:08:03 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24220;
+          18 Oct 99 19:04 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24218;
+          18 Oct 99 18:55 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15272;
+          18 Oct 99 18:54 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa27632; 18 Oct 99 18:46 EDT
+Received: from navel.ucr.edu by cs.cmu.edu id aa23937; 18 Oct 99 18:46 EDT
+Received: from [138.23.90.166] by navel.ucr.edu with ESMTP;
+          Mon, 18 Oct 1999 15:46:58 -0700
+X-Sender: curt@citrus.ucr.edu
+Message-Id: <v04003a13b4314fda6e65@[138.23.90.166]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 18 Oct 1999 15:45:22 -0700
+To: Connectionists@cs.cmu.edu
+From: "Dr. Curt Burgess" <curt@cassandra.ucr.edu>
+Subject: quant & developmental cognition position at Univ Calif, Riverside
+Status: RO
+X-Status: 
+
+Just wanted to make sure that any interested parties on the Connectionist
+email distribution list knew about this position.
+Curt Burgess
+
+----------------------
+The Department of Psychology, University of California, Riverside, invites
+applications for a tenure-track Assistant Professor position in
+Developmental Psychology, beginning July 1, 2000. The Ph.D. degree is
+required at the time of the appointment.  Applicants in all areas of
+developmental psychology are encouraged to apply.  Preferred applicants are
+those with an interest in cognitive development with strong quantitative
+skills, who can contribute to the graduate program in quantitative
+psychology.  We are seeking a developmental psychologist with a strong
+program of substantive research that complements that of the current
+developmental faculty, whose emphases include cognitive and social
+development, and processes of socialization.  Applicants should also be
+committed to excellence in undergraduate and graduate education.  The
+deadline for review of completed applications begins January 10, 2000 and
+continues until the position is filled.
+
+Interested candidates should send their curriculum vitae, reprints if
+available, a cover letter describing research and teaching interests, and
+arrange to have three letters of recommendation sent to:
+
+	Chair, Developmental Psychology Search Committee
+	Box I-CN
+	Department of Psychology
+	University of California - Riverside
+	Riverside, CA 92521
+
+The Riverside campus of the University of California is growing rapidly
+and has an excellent psychology department with a strong record of success
+in research, teaching, and extramural funding.  For information on the
+Department of Psychology, see our web site at: http://www.psych.ucr.edu/.
+The campus is centrally located in Southern California, about 50 miles
+east of Los Angeles and less than an hour's drive from the area's
+mountains, deserts, and beaches.  The University of California, Riverside
+is an equal opportunity employer/affirmative action employer.
+
+---------------------
+   Dr. Curt Burgess, Computational Cognition Lab
+   Chair of Graduate Admissions for Psychology
+   Department of Psychology, University of  California
+   1419 Life Science Building
+   Riverside, CA 92521-0426  URL: http://locutus.ucr.edu/
+   Internet: curt@cassandra.ucr.edu
+   MaBellNet: (909) 787-2392       FAX: (909) 787-3985
+
+

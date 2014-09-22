@@ -1,0 +1,112 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Mar 30 18:03:13 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id SAA10102;
+	Tue, 30 Mar 1999 18:03:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02384;
+          30 Mar 99 4:02 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02382;
+          30 Mar 99 3:57 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03430;
+          30 Mar 99 3:57 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19652; 30 Mar 99 3:26 EST
+Received: from fava.idsia.ch by RI.CMU.EDU id aa04186; 30 Mar 99 3:25:47 EST
+Received: from ruebe.idsia.ch ([195.176.191.76]) by fava.idsia.ch
+          (Post.Office MTA v3.1 release PO203a  ID# 114-37856U100L2S100)
+          with SMTP id AAA12987 for <connectionists@cs.cmu.edu>;
+          Tue, 30 Mar 1999 10:25:41 +0200
+Received: by ruebe.idsia.ch (SMI-8.6/SMI-SVR4)
+	id KAA01726; Tue, 30 Mar 1999 10:25:40 +0200
+Date: Tue, 30 Mar 1999 10:25:40 +0200
+From: Juergen Schmidhuber <juergen@idsia.ch>
+Message-Id: <199903300825.KAA01726@ruebe.idsia.ch>
+To: connectionists@cs.cmu.edu
+Subject: IDSIA PHD JOB OPENING
+Status: RO
+X-Status: 
+
+                        PHD STUDENT WANTED
+
+I am seeking an outstanding PhD candidate for a research project on
+reinforcement learning (RL) and program evolution (PE).
+
+OVERVIEW.  Most machine learning research focuses on learning memory-free
+mappings between input patterns and output patterns.  Humans, however,
+obviously learn entire algorithms mapping input sequences to output
+sequences in a complex fashion.  In particular, they constantly learn to
+identify important events in input streams and store them in short-term
+memory until the memories are needed to compute appropriate output
+actions.  If we want to bridge the gap between the learning abilities
+of humans and machines then we will have to study how such sequential
+processes can be learned.  The focus of this project will be on RL and
+PE methods whose search space consists of fairly arbitrary, possibly
+probabilistic "programs" (as opposed to more limited stimulus/response
+associations).
+
+POSSIBLE PROJECT SUBGOALS.  The project allows considerable
+scientific freedom. If you have a great idea, let's go for it and
+try it. Otherwise we'll start along the following lines.  (1) Explore
+the limits of recent algorithmic search techniques such as "Adaptive
+Levin Search" and "Probabilistic Incremental Program Evolution" -
+both of which can learn memory strategies.  (2) Improve, extend, and
+apply a recent technique "Incremental self-improvement" based on the
+success-story algorithm for probabilistic, self-modifying systems
+that can in principle learn to improve their own learning algorithm
+(metalearning).  (3) Build unsupervised, "curious" systems selecting
+their own training exemplars for building models of the environment,
+and use the models to speed up improvement of goal-directed sequential
+behavior.  (4) Examine RL economies where agents learn to pay each
+other for useful services, and test whether they can learn to memorize.
+See http://www.idsia.ch/~juergen/topics.html for papers on the above
+subjects.
+
+A highly qualified candidate is sought with a background in computational
+sciences, mathematics, engineering, physics or other relevant areas.
+Applicants should submit : (i) Detailed curriculum vitae, (ii) List
+of three references (and their email addresses), (ii) Transcripts of
+undergraduate and graduate (if applicable) studies and (iii) Concise
+statement of their research interests (two pages max).  Candidates are
+also encouraged to submit their scores in the Graduate Record Examination
+(GRE) general test (if available). Please send hardcopies of all
+documents to:
+
+Juergen Schmidhuber, IDSIA, Corso Elvezia 36, 6900-Lugano, Switzerland
+
+Applications (with WWW pointers to studies or papers, if available) can
+also be submitted electronically (in plain ASCII or postscript format,
+but only small files please) to  juergen@idsia.ch.  Please connect
+your first and last name by a dot "." in the subject header, and add a
+meaningful extension. For instance, if your name is John Smith, then your
+messages could have headers such as: subject: John.Smith.cv.ps, subject:
+John.Smith.statement.txt, subject: John.Smith.correspondence.txt....
+This will facilitate appropriate filing of your stuff.  Thanks a lot!
+
+ABOUT IDSIA.  Our research focuses on artificial neural nets,
+reinforcement learning, complexity and generalization issues,
+unsupervised learning and information theory, forecasting, combinatorial
+optimization, evolutionary computation.  IDSIA's algorithms hold the
+world records for several important operations research benchmarks.
+In the "X-Lab Survey" by Business Week magazine, IDSIA was ranked in
+fourth place in the category "COMPUTER SCIENCE - BIOLOGICALLY INSPIRED".
+Its comparatively tiny size notwithstanding, IDSIA also ranked among the
+top ten labs worldwide in the broader category "ARTIFICIAL INTELLIGENCE".
+
+We are located in the beautiful city of Lugano in Ticino, the scenic
+southernmost province of Switzerland.  Milano, Italy's center of fashion
+and finance, is 1 hour away, Venice 3 hours.  Our collaborators at the
+Swiss supercomputing center CSCS are nearby;  the new University of Lugano
+is across the lawn.  Switzerland (origin of special relativity and the
+World Wide Web) boasts the highest citation impact factor, the highest
+supercomputing capacity pc (per capita), the most Nobel prizes pc (450%
+of the US value), the highest income pc, and perhaps the best chocolate.
+
+SALARY: commensurate with experience but generally attractive. Low taxes.
+There also is travel funding in case of papers accepted at important
+conferences.
+
+_________________________________________________
+Juergen Schmidhuber             research director
+IDSIA, Corso Elvezia 36, 6900-Lugano, Switzerland
+juergen@idsia.ch     http://www.idsia.ch/~juergen
+

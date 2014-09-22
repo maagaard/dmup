@@ -1,0 +1,146 @@
+
+
+From janh@maths.lth.se Thu Nov 18 09:25:36 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id JAA01573
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 18 Nov 1999 09:25:35 +0100 (MET)
+Received: from maths.lth.se (kolmogorov.maths.lth.se [130.235.3.6])
+	by serv1.imm.dtu.dk (8.9.3 (PHNE_18979)/8.9.3) with ESMTP id JAA15265
+	for <fn@imm.dtu.dk>; Thu, 18 Nov 1999 09:27:07 +0100 (MET)
+Received: from maths.lth.se (halina.maths.lth.se [130.235.3.48])
+	by maths.lth.se (8.9.2/8.9.2) with ESMTP id JAA05585;
+	Thu, 18 Nov 1999 09:26:34 +0100 (MET)
+Sender: janh@maths.lth.se
+Message-ID: <3833B838.DD141930@maths.lth.se>
+Date: Thu, 18 Nov 1999 09:26:32 +0100
+From: Jan Holst <janh@maths.lth.se>
+Organization: Mathematical Statistics, Centre for Matematical Sciences, Lund Institute 
+ of Technology, Lund, Sweden
+X-Mailer: Mozilla 4.7 [en] (X11; I; SunOS 5.7 sun4u)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Finn =?iso-8859-1?Q?=C5rup?= Nielsen <fn@imm.dtu.dk>,
+        Henrik Bengtsson 
+	<hb@maths.lth.se>
+Subject: [Fwd: Eurandom workshop on stochastics geometry and spatial statistics]
+Content-Type: multipart/mixed;
+ boundary="------------AAF5E9C74D4EB5780BC32CBB"
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+--------------AAF5E9C74D4EB5780BC32CBB
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+-- 
+*************************************************************
+
+     Jan Holst                           
+     Mathematical Statistics
+     Centre for Mathematical Sciences
+     Lund Institute of Technology       	    
+     Box 118                            	       
+     SE-22100 LUND
+     Sweden
+
+     Phone:  +46 46 222 9538 / +46 70 593 7224
+     Fax:     +46 46 222 4623
+     email:   janh@maths.lth.se / Jan.Holst@matstat.lu.se
+     http://www.maths.lth.se/matstat/staff/janh/
+
+*************************************************************
+--------------AAF5E9C74D4EB5780BC32CBB
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by maths.lth.se (8.9.2/8.9.2) with ESMTP id JAA05460
+	for <janh@maths.lth.se>; Thu, 18 Nov 1999 09:18:28 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id IAA02040;
+	Thu, 18 Nov 1999 08:16:07 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id IAA07637;
+        Thu, 18 Nov 1999 08:13:24 GMT
+Received: from hera.cwi.nl (hera.cwi.nl [192.16.191.1]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id IAA07631;
+        Thu, 18 Nov 1999 08:13:20 GMT
+Received: from coaster.cwi.nl (coaster.cwi.nl [192.16.201.138]) by hera.cwi.nl with ESMTP
+	id JAA15064 for ; Thu, 18 Nov 1999 09:12:24 +0100 (MET)
+Received: by coaster.cwi.nl 
+	id JAA26639; Thu, 18 Nov 1999 09:12:23 +0100 (MET)
+Date: Thu, 18 Nov 1999 09:12:23 +0100 (MET)
+Message-Id: <UTC199911180812.JAA26639.colette@coaster.cwi.nl>
+Subject: Eurandom workshop on stochastics geometry and spatial statistics
+From: Marie-Colette.van.Lieshout@cwi.nl
+To: PNA-list@cwi.nl, allstat@mailbase.ac.uk, stoch-ned-l@math.ruu.nl
+Cc: havard.rue@math.ntnu.no, schmidt@mathematik.uni-ulm.de, jlund@dina.kvl.dk,
+        eva@mi.aau.dk, last@mswork.math.nat.tu-bs.de, aila@math.chalmers.se,
+        stoyan@orion.hrz.tu-freiberg.de, Josiane.Zerubia@sophia.inria.fr,
+        jm@math.auc.dk, ilya@stats.gla.ac.uk
+X-List: allstat@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave allstat' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20allstat>
+Reply-To: Marie-Colette.van.Lieshout@cwi.nl
+Sender: allstat-request@mailbase.ac.uk
+Errors-To: allstat-request@mailbase.ac.uk
+Precedence: list
+X-Mozilla-Status2: 00000000
+
+
+===========================================================================
+
+
+
+EURANDOM Workshop on Stochastic Geometry and Spatial Statistics
+
+			        April 2000
+
+			Eurandom, Eindhoven, The Netherlands
+
+
+
+===========================================================================
+
+Thu 27 April : Stochastic Geometry    Fri 28 April : Spatial Statistics 
+
+                                       10:00 - 11:00 Eva Jensen 
+
+ 11:00 - 11:30 registration            11:00 - 11:30 coffee
+
+ 11:30 - 12:30 Ilya Molchanov	       11:30 - 12:30 Jens Lund 
+
+ 14:00 - 15:00 Volker Schmidt          14:00 - 15:00 Dietrich Stoyan 
+
+ 15:00 - 15:30 tea                     15:00 - 15:30 tea 
+
+ 15:30 - 16:30 Gunter Last             15:30 - 16:30 Aila Sarkka 
+
+
+
+                    Sat 29 April : Image Analysis and MCMC 
+
+                     10:00 - 11:00 Josiane Zerubia 
+
+                     11:00 - 11:30 coffee 
+
+                     11:30 - 12:30 Havard Rue 
+
+                     14:00 - 15:00 Jesper Moller 
+
+                     15:00 - 16:30 drinks 
+
+
+For more information or to register your participation, please contact 
+Marie-Colette van Lieshout (colette@cwi.nl, tel: +31 20 9333) or Eurandom 
+(cantrijn@eurandom.tue.nl, tel: +31 40 247 8100). Up to date information
+is available at http://www.cwi.nl/~colette/eurandom.html.
+
+
+
+
+--------------AAF5E9C74D4EB5780BC32CBB--
+

@@ -1,0 +1,67 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Nov 26 03:38:54 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA10160;
+	Thu, 26 Nov 1998 03:38:48 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab24042;
+          25 Nov 98 19:23 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab24026;
+          25 Nov 98 19:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23034;
+          25 Nov 98 19:09 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa24656; 25 Nov 98 12:02 EST
+Received: from umailsrv2.umd.edu by RI.CMU.EDU id aa27939;
+          25 Nov 98 12:02:18 EST
+Received: from zool.umd.edu (zoopsych-487.umd.edu [129.2.37.231])
+	by umailsrv2.umd.edu (8.8.8/8.8.8) with SMTP id LAA20005;
+	Wed, 25 Nov 1998 11:45:47 -0500
+From: Sandy Davis <sd136@umail.umd.edu>
+Reply-To: "Davis, Sandy " <sd136@umail.umd.edu>
+To: connectionists@cs.cmu.edu, neuron-request@CATTELL.psych.upenn.edu
+Cc: "Payne, Richard " <rp12@umail.umd.edu>,
+        "Reggia, James " <Reggia@cs.umd.edu>
+Subject: Computational neuroscientist faculty position
+Message-ID: <SIMEON.9811251146.R@zool.umd.edu>
+Date: Wed, 25 Nov 1998 11:45:46 -0500 (Eastern Standard Time)
+Priority: NORMAL
+X-Mailer: Simeon for Win32 Version 4.1.5 Build (43)
+X-Authentication: IMSP
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Status: RO
+X-Status: 
+
+Computational Neuroscientist. The 
+Neuroscience and Cognitive Science Program at the Univ. of 
+Maryland (www.life.umd.edu/nacs) seeks tenure-track 
+faculty. Areas of research include sensory and motor 
+physiology, analysis of control systems or cognitive 
+neuroscience. A wide range of techniques can be supported, 
+from neural network modeling to brain mapping/imaging/EEG. 
+Candidates who integrate theoretical with experimental 
+research are preferred.  Tenure will be held in the Depts. 
+of Psychology or Kinesiology. Teaching duties include a 
+graduate course in computational neuroscience and 
+undergraduate course(s). For appointment in Psychology, the 
+rank will be Assistant Professor. For Kinesiology, rank is 
+open. For best consideration send, before Feb. 1, 1999, a 
+CV, addresses (including emails) of three references, 
+copies of publications, and statements of both research 
+(documenting any previous extramural funding) and teaching 
+interests to: Dr. Richard Payne, NACS Search, 2239 
+Zoo/Psych Building, University of Maryland, College Park, 
+MD 20742. Women and minorities are strongly encouraged to 
+apply. The University of Maryland is an Equal 
+Opportunity/Affirmative Action Employer
+
+
+Sandy Davis, Graduate Secretary
+Neuroscience and Cognitive Science Program
+2239 Zoo/Psych Building
+Univ. of Maryland, College Park,MD 20742-4415
+phone: (301) 405-8910
+fax: (301) 314-9358
+email: sd136@umail.umd.edu
+
+

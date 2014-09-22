@@ -1,0 +1,67 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Nov 27 22:33:55 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id WAA02695;
+	Sat, 27 Nov 1999 22:33:51 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02193;
+          27 Nov 99 14:57 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02191;
+          27 Nov 99 14:49 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15171;
+          27 Nov 99 14:49 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa22228; 27 Nov 99 5:44 EST
+Received: from morgana.elet.polimi.it by cs.cmu.edu id aa10571;
+          27 Nov 99 5:44 EST
+Received: from host pc-piuri and sender pc-piu.elet.polimi.it [131.175.21.51];
+	by mail relay Morgana.Elet.PoliMi.IT (Sendmail Ver. 8.x.x / 2 Nov. 1998);
+	with protocol SMTP and identifier LAA08157;
+	for recipient <Connectionists@cs.cmu.edu>;
+	on date and time Sat, 27 Nov 1999 11:44:01 +0100 (MET).
+Message-Id: <3.0.5.32.19991127120013.01d474f0@elet.polimi.it>
+X-Sender: piuri@elet.polimi.it
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
+Date: Sat, 27 Nov 1999 12:00:13 +0100
+To: Connectionists@cs.cmu.edu
+From: Vincenzo Piuri <piuri@elet.polimi.it>
+Subject: IJCNN'2000: New web site, Call for Papers and more....
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+========================================================================
+    IEEE-INNS-ENNS INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS
+         Grand Hotel di Como, Como, Italy - 24-27 July 2000 
+ 
+sponsored by the IEEE Neural Network Council, the International Neural 
+Network Society, and the European Neural Network Society
+with the technical cooperation of the Japanese Neural Network Society, 
+AEI, SIREN, and AI*IA 
+
+
+
+Paper submission deadline is coming soon!!!! Please, have a look to 
+the call for papers in the conference web site. 
+Do not miss the opportunity to submit a paper and participate actively 
+to the conference!!!!
+
+Calls for special sessions and tutorials have been also published.
+You can find them on the conference web site.
+
+For your convenience, we set up also a mirror web site in the USA.
+Information will be updated contemporaneously on both sites.
+You can find them at the following addresses
+official conference web site:  http://www.ims.unico.it/2000ijcnn.html
+conference mirror web site: http://www.lans.ece.utexas.edu/2000ijcnn.html
+
+======================================================================
+
+
+
+
+Vincenzo Piuri
+Department of Electronics and Information, Politecnico di Milano
+piazza L. da Vinci 32, 20133 Milano, Italy
+phone +39-02-2399-3606    secretary +39-02-2399-3623
+fax   +39-02-2399-3411    email     piuri@elet.polimi.it

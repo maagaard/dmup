@@ -1,0 +1,104 @@
+
+
+From www-vrml-approval@vrml.org Tue Sep 16 09:24:51 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id PAA27534 for <fnielsen@eivind.imm.dtu.dk>; Tue, 16 Sep 1997 15:24:40 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id HAA19429; Tue, 16 Sep 1997 07:01:05 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id HAA19420; Tue, 16 Sep 1997 07:01:01 -0400 (EDT)
+Received: from ns.devinci.fr by world.std.com (5.65c/Spike-2.0)
+	id AA02698; Tue, 16 Sep 1997 07:00:59 -0400
+Received: from 193.107.160.178 ([193.107.160.178]) by ns.devinci.fr (8.7.5/8.6.12) with SMTP id NAA20776; Tue, 16 Sep 1997 13:00:54 +0200
+Message-Id: <341E67D0.71B5@devinci.fr>
+Date: Tue, 16 Sep 1997 13:07:29 +0200
+From: Jean-Claude HEUDIN <Jean-Claude.Heudin@DeVinci.FR>
+Reply-To: Jean-Claude.Heudin@DeVinci.FR
+Organization: International Institute of Multimedia
+X-Mailer: Mozilla 3.01 [fr] (Macintosh; I; PPC)
+Mime-Version: 1.0
+To: VRML List <www-vrml@vrml.org>
+Subject: VIRTUAL WORLDS 98
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+Hi,
+
+Please find the Call for Papers of the First International
+Conference on Virtual Worlds (VW98).
+
+Thanks for your help,
+
+Jean-Claude HEUDIN
+Conference Chairman
+Jean-Claude.Heudin@devinci.fr
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+CALL FOR PAPERS
+FIRST INTERNATIONAL CONFERENCE ON VIRTUAL WORLDS
+International Institute of Multimedia, Paris, France
+July 1st-3rd 1998
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+
+In the last few years, there have been an increasing interest
+in the design of virtual worlds, using image synthesis, modeling,
+multimedia and virtual reality. In practice this approach is something
+broader and more fundamental. We can imagine virtual worlds reflecting
+some parts of our reality, but also the synthesis of new universes
+with new =93physical=94 laws and artificial life forms.
+This interdisciplinary conference aims to provoke new understandings
+of the important role that such  virtual worlds will play in domains
+such as business, computer games, education, training, simulation, etc.
+It will investigate the relationships between the natural and the
+artificial
+from both theoretical and philosophical points of views. It will also
+address technical developments and practical applications.
+VW=9298 hopes to extend the scientifical community by encouraging
+contributions
+from people involved in technical,  philosophical and art works related
+to
+the design and applications of virtual worlds. The meeting will involve
+oral presentations, both invited and contributed, poster sessions,
+tutorials, debates, exhibitions and demonstrations.
+
+Authors are invited to present original work in one of the following
+topics=20
+(but not limited to) :
+
+Artificial and Virtual Worlds, Applications of Virtual Worlds,
+Synthesis of Virtual Worlds, Artificial Realities, MetaWorlds,
+CyberSpace, Online Communities, Artificial Life,  Evolutionary
+Computation, Simulation of Ecological and Evolving Environments,
+Agents and Multi-Agents, Collective Behaviours, Emergence of
+Social Behaviours, Multimedia, Virtual Realities, Image Synthesis,
+Semiotic Issues, Philosophical Issues, Ethical problems ...
+
+Important Dates :
+
+Submission deadline : 28th February 1998.
+Notification of acceptance : April 98.
+Camera-ready due : May 1998.
+Conference : July 1-3, 1998.
+
+More information at :
+
+http://www.devinci.fr/home/iim/vw98/vw98.htm
+
+Please contact : Jean-Claude Heudin
+International Institute of Multimedia
+P=F4le Universitaire L=E9onard de Vinci
+92916 LA DEFENSE CEDEX - FRANCE
+Voice (33) 01.41.16.75.70
+Fax (33) 01.41.16.75.75
+Jean-Claude.Heudin@devinci.fr
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

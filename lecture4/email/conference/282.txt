@@ -1,0 +1,201 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jul 26 06:07:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA09184;
+	Mon, 26 Jul 1999 06:07:50 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05329;
+          25 Jul 99 22:29 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05326;
+          25 Jul 99 22:17 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26216;
+          25 Jul 99 22:17 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa05671; 25 Jul 99 11:23 EDT
+Received: from ch.artificial-life.com by RI.CMU.EDU id aa26384;
+          25 Jul 99 11:23:06 EDT
+Received: from dendrite.artificial-life.com (192.168.2.1 [192.168.2.1]) by exchange.artificial-life.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id PH6GB8AD; Sun, 25 Jul 1999 11:22:47 -0400
+Message-ID: <000901bed6b1$4006de60$4ca771d1@kmdg.cove.com>
+From: Paolo Gaudiano <pg@artificial-life.com>
+To: connectionists@cs.cmu.edu, neuron@cattell.psych.upenn.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Call for Participation
+Date: Sun, 25 Jul 1999 11:20:36 -0400
+Status: RO
+X-Status: 
+
+
+ First USA-Italy Conference on Applied Neural and Cognitive Sciences
+
+        Boston, October 3-6, 1999
+
+The Italian Ministry of Foreign Affairs, through the Embassy of Italy
+in Washington, has identified Applied Neural and Cognitive Sciences as
+an area of strategic interest for research and development in Italy
+over the next 10 to 20 years. UI-CANCS'99, which is sponsored jointly
+by the Embassy of Italy and by Artificial Life, Inc., compares and
+contrasts industry and research experiences in Italy and in the United
+States.
+
+UI-CANCS'99 focuses on smart sensors, intelligent robotics, and
+related technologies with strong potential for industrial, medical and
+other applications. Invited presentations will define the current
+state-of-the-art and future developments in these fields, they will
+compare and contrast scientific and technological resources in the USA
+and Italy, and they will try to identify the most promising and =
+effective
+sectors in Italian industries and universities to be developed and
+supported over the next 10 to 20 years.
+
+UI-CANCS'99 offers a unique opportunity to present and discuss a broad
+range of scientific and industrial projects within the context of
+applied neural and cognitive sciences. The Conference also aims at
+strengthening collaborations between the USA and Italy, and to develop
+new joint projects.
+
+We hope that this will be the first in a series of international
+meetings held regularly to monitor progress in these fields, to
+identify areas in need of further development support, and to offer a
+meeting point between Italian and American members of industry,
+academia and other organizations.
+
+For additional information please visit http://www.usa-italy.org or
+send e-mail to info@usa-italy.org.
+
+----------------------------------------------------------------------
+
+Conference dates: Sunday, October 3 through Tuesday, October 6,
+1999. These dates include a welcoming reception on Sunday evening and
+an optional visit to local laboratories in the Boston area on
+Wednesday, October 6. Invited talks will be given all day Monday and
+Tuesday morning, while a round-table discussion will be held on
+Tuesday afternoon.
+
+Location: George Sherman Union, Boston University, 775 Commonwealth
+Avenue, Boston, Massachusetts, USA.
+
+Organizing Committee:
+ Daniele Amati, SISSA
+ Emilio Bizzi, MIT
+ Paolo Gaudiano, Artificial Life, Inc.
+ Alexander Tenenbaum, Embassy of Italy
+
+Official Language: English
+
+Presentations: All talks are by invitation.
+
+Registration: See registration form at end.
+
+----------------------------------------------------------------------
+                            Preliminary Program
+
+SUNDAY, OCTOBER 3, 1999
+
+6.00-9.00pm Registration; Welcoming Reception (with full registration)
+
+MONDAY, OCTOBER 4, 1999
+
+8.00-9.00am Registration; Breakfast (with full registration)
+9.00-9.45am Opening Remarks
+9.45am-1.00pm (with 15-min break at 11:15am) Session 1, Smart Sensors
+1.00-3.45pm Lunch
+3.45-7.00pm (with 15-min break at 5.15pm) Session 2, Intelligent
+     Robotics and Software Agents=20
+8.00pm Official dinner and plenary talk (with full registration)
+
+TUESDAY, OCTOBER 5, 1999
+
+8.00-9.00am Breakfast (with full registration)
+9.00am-12.15pm (with 15-min break at 11.15am) Session 3, Biomedical
+               Applications
+12.15-1.15pm Session 4.P1, Relationship Between Industry and Research
+1.15-3.45pm Lunch
+3.45-5.15pm Session 4.P2, Relationship Between Industry and Research
+5.30-7.30pm Round-table discussion.
+
+WEDNESDAY, OCTOBER 6, 1999
+
+9.00am-4.00pm Tour of local labs and companies (with paid registration)
+----------------------------------------------------------------------
+
+      INVITED SPEAKERS
+
+Daniele Amati, International School for Advanced Studies, Trieste, Italy
+Emilio Bizzi, Massachusetts Institute of Technology, Cambridge, USA
+Nunzio Bonavita, ABB Elsag Bailey Hartmann & Braun S.p.A., Genova, Italy
+Paolo Dario, Scuola Superiore Sant'Anna, Pisa, Italy
+Danilo De Rossi, Universita` degli studi di Pisa, Italy
+Arnaldo D'Amico, Universita` degli Studi di Roma "Tor Vergata", Italy
+Marco Dorigo, Universite' Libre de Bruxelles, Belgium
+Paolo Gaudiano, Artificial Life, Inc., Boston, USA
+Helen Greiner, IS Robotics Corporate, Somerville, USA
+Stephen Grossberg, Boston University, USA
+Barbara Hayes-Roth, Stanford University and Extempo, Inc., Redwood City, =
+USA
+Pietro Morasso, Universita` degli studi di Genova, Italy
+Riccardo Parenti, Ansaldo Ricerche Automation Group, Genova, Italy
+Renato Nobili, Universita` degli Studi di Padova, Italy
+Stefano Nolfi, Centro Nazionale delle Ricerche, Roma, Italy
+Antonio Pedotti, Politecnico di Milano, Italy
+Tomaso Poggio, Massachusetts Institute of Technology, Cambridge, USA
+Eberhard Schoeneburg, Artificial Life, Inc., Boston, USA
+David Walt, Tufts University, Medford, USA
+John Wyatt, Massachusetts Institute of Technology, Cambridge, USA
+
+----------------------------------------------------------------------
+      UI-CANCS'99 REGISTRATION FORM
+
+Fill out this form and e-mail it to info@usa-italy.org, or fax it to:
+
+       UI-CANCS'99 Registration (+1) 508 624 6097
+
+Seating will be limited, so please register as soon as possible=20
+.....................................................................
+
+First Name:
+Last Name:
+E-mail address:
+Affiliation:
+Telephone:
+Fax:
+Complete Mailing Address:
+
+
+
+
+Registration type (see notes 1-3 below):
+    __Talks only (regular) US$100    __Talks only (student) US$30
+    __Full (regular) US$200          __Full (student) US$75
+
+Credit card information:
+   Card type (check one):  __VISA  __MC  __AMEX
+   Card number:
+   Name on card:
+   Expiration date:
+
+Optional information (see notes 4-5 below):
+   * I plan to attend the optional lab tour on October 6 (Full
+     registrants only): __Yes   __No
+   * I would like to be considered for partial support through=20
+     a travel grant: __Yes   __No
+
+.....................................................................
+NOTES:
+1. "Talks only" includes attendance to all invited sessions, printed
+   program, badge, and refreshments at all coffee breaks.=20
+2. Full registration includes attendance to all invited sessions,
+   printed program, badge, and refreshment at all coffee breaks,
+   pre-conference evening reception on October 3, breakfast and lunch
+   on October 4 and 5, Banquet and plenary talk on October 4, and
+   optional tour of Boston-area labs on October 6.=20
+3. Students (up to PhD level only) must attach letter from their
+   advisor certifying their student status.=20
+4. Lab tours take place on October 6. Space is limited so attendance
+   cannot be guaranteed. Please check www.usa-italy.org for additional
+   information as it becomes available.
+5. Travel grants for partial support of travel expense might be
+   available to a limited number of participants. Priority is given
+   to students and to participants coming from abroad. If you check
+   this option, you will receive e-mail with additional information.=20
+6. For additional information please e-mail info@usa-italy.org or
+   call 800-701-4741 (+1-508-624-5545 from outside the US).

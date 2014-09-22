@@ -1,0 +1,125 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Sun Mar 22 11:30:56 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id LAA20046;
+	Sun, 22 Mar 1998 11:30:42 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa20677;
+          22 Mar 98 1:29:21 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa20674;
+          22 Mar 98 1:07:27 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13681;
+          22 Mar 98 1:07 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab20729; 21 Mar 98 14:41 EST
+Received: from rumor.research.att.com by RI.CMU.EDU id aa02285;
+          21 Mar 98 14:41:29 EST
+Received: from research.att.com ([135.207.30.100]) by rumor; Sat Mar 21 14:37:39 EST 1998
+Received: from amontillado.research.att.com ([135.207.24.32]) by research-clone; Sat Mar 21 14:36:52 EST 1998
+Received: from radish.research.att.com (radish.research.att.com [135.207.24.16])
+	by amontillado.research.att.com (8.8.7/8.8.7) with ESMTP id OAA03381;
+	Sat, 21 Mar 1998 14:36:50 -0500 (EST)
+From: "Michael J. Kearns" <mkearns@research.att.com>
+Received: (from mkearns@localhost) by radish.research.att.com (8.7.5/8.7) id OAA22409; Sat, 21 Mar 1998 14:36:41 -0500 (EST)
+Date: Sat, 21 Mar 1998 14:36:41 -0500 (EST)
+Message-Id: <199803211936.OAA22409@radish.research.att.com>
+To: Connectionists@CS.cmu.edu
+Subject: NIPS*98 Call for Workshop Proposals
+Cc: mkearns@research.att.com
+Status: RO
+X-Status: 
+
+
+
+                          CALL FOR PROPOSALS
+
+                   NIPS*98 Post Conference Workshops
+                         December 4 and 5, 1998
+                         Breckenridge, Colorado
+
+
+Following the regular program of the Neural Information Processing Systems
+1998 conference, workshops on current topics in neural information
+processing will be held on December 4 and 5, 1998, in Breckenridge,
+Colorado.  Proposals by qualified individuals interested in chairing one
+of these workshops are solicited.  Past topics have included:
+
+   Active Learning, Architectural Issues, Attention, Audition,
+   Bayesian Analysis, Bayesian Networks, Benchmarking, Brain Imaging,
+   Computational Complexity, Computational Molecular Biology, Control,
+   Genetic Algorithms, Graphical Models, Hippocampus and Memory,
+   Hybrid HMM/ANN Systems, Implementations, Music, Neural Plasticity,
+   Language Processing, Lexical Acquisition, Network Dynamics, On-Line
+   Learning, Optimization, Recurrent Nets, Robot Learning, Rule
+   Extraction, Self-Organization, Sensory Biophysics, Signal
+   Processing, Support Vectors, Speech, Time Series, Topological Maps,
+   and Vision Models and Applications.
+
+The goal of the workshops is to provide an informal forum for researchers
+to discuss important issues of current interest.  There will be two
+workshop sessions a day, for a total of six hours, with free time in
+between for ongoing individual exchange or outdoor activities.
+
+Concrete open and/or controversial issues are encouraged and preferred as
+workshop topics.  Representation of alternative viewpoints and panel-style
+discussions are particularly encouraged.
+
+Workshop organizers will have responsibilities including:
+
+1) coordinating workshop participation and content, which involves
+   arranging short informal presentations by experts working in an area,
+   arranging for expert commentators to sit on a discussion panel and
+   formulating a set of discussion topics, etc.
+
+2) moderating or leading the discussion and reporting its high points,
+   findings, and conclusions to the group during evening plenary sessions
+
+3) writing a brief summary and/or coordinating submitted material for
+   post-conference electronic dissemination.
+
+
+Submission Instructions
+-----------------------
+
+Interested parties should submit via e-mail a short proposal for a
+workshop of interest by May 29, 1998.
+
+Proposals should include a title, a description of what the workshop is to
+address and accomplish, the proposed length of the workshop (one day or
+two days), the planned format (mini-conference, panel discussion, or group
+discussion, combinations of the above, etc), and the proposed number of
+speakers.  Where possible, please also indicate potential invitees
+(particularly for panel discussions).  Please note that this year we are
+looking for fewer "mini-conference" workshops and greater variety of
+workshop formats.  The time allotted to workshops is six hours each day,
+in two sessions of three hours each.  We strongly encourage that the
+organizers reserve a significant portion of time for open discussion.
+
+The proposal should motivate why the topic is of interest or
+controversial, why it should be discussed and who the targeted group of
+participants is.  In addition, please send a brief resume of the
+prospective workshop chair, a list of publications, and evidence of
+scholarship in the field of interest.  Submissions should include contact
+name, address, e-mail address, phone number and fax number if available.
+
+Proposals should be mailed electronically to zemel@u.arizona.edu.  All
+proposals must be RECEIVED by May 29, 1998.  If e-mail is unavailable,
+mail so as to arrive by the deadline to:
+
+  NIPS*98 Workshops 
+  c/o Richard Zemel
+  Department of Psychology
+  University of Arizona
+  Tucson, AZ  85721
+
+Questions may be addressed to either of the Workshop Co-Chairs:
+
+Richard Zemel				Sue Becker
+University of Arizona 			McMaster University
+zemel@u.arizona.edu			becker@mcmaster.ca
+
+
+	    PROPOSALS MUST BE RECEIVED BY MAY 29, 1998
+
+			   -Please Post-
+
+

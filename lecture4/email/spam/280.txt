@@ -1,0 +1,84 @@
+
+
+From owner-sig-wtk@sense8.com  Mon Jan 11 08:42:15 1999
+Received: from asbestos.eai.com ([12.10.41.146] (may be forged))
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id IAA01649
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 11 Jan 1999 08:42:13 +0100 (MET)
+Received: from goliath.eai.com ([10.1.1.81])
+	by asbestos.eai.com (8.8.7/8.8.7) with ESMTP id XAA00344;
+	Sun, 10 Jan 1999 23:36:08 -0800 (PST)
+Received: from mail1.eai.com (majordom@mail1.eai.com [10.10.1.7])
+	by goliath.eai.com (8.8.7/8.8.7) with ESMTP id BAA12981;
+	Mon, 11 Jan 1999 01:42:43 -0600 (CST)
+Really-From: owner-sig-wtk@sense8.com
+Received: (from majordom@localhost) by mail1.eai.com (8.6.12/8.6.9) id XAA07895 for sig-wtk-outgoing; Sun, 10 Jan 1999 23:34:50 -0800
+Message-ID: <01BE3D3C.6B426CC0@mp.p.lodz.pl>
+From: Maciej Koman <mkoman@ics.p.lodz.pl>
+To: =?iso-8859-1?Q?=27Bogumi=B3_Balicki=27?=
+	 <balicki@corcoran.if.uj.edu.pl>,
+        "'Brian Rees'" <brianr@sense8.ch>,
+        "'Grzesiu Nowak'" <grzes@pds.net.pl>,
+        "'Immergas'" <immergas@rubikon.net.pl>,
+        "'Jarek Ciechanowski'" <JarekC@pulsar.com.pl>,
+        "'Kajetan Koman'" <kajetank@ck-sg.p.lodz.pl>
+To: "'Klub T.M.P.'" <klubtmp@digest.com.pl>, "'Komex'" <komex@lodz.pdi.net>,
+        "'Patrycja Grzesznik'" <patrycj@ibm.net>,
+        =?iso-8859-1?Q?=27Pawe=B3_Rydz=27?= <pawel.rydz@polkomtel.com.pl>,
+        =?iso-8859-1?Q?=27Pawel_Szlachcic_=28Krak=F3w=29=27?= <pawelsz@tichy.ch.uj.edu.pl>,
+        "'Piotrek Tukaj'" <ptukaj@ics.p.lodz.pl>
+To: "'Radek Mazurczyk'" <radmazur@bilbo.cbmm.lodz.pl>,
+        =?iso-8859-1?Q?=27?=
+ =?iso-8859-1?Q?Sebastian_Forma=F1ski=27?= <sforman@ck-sg.p.lodz.pl>,
+        "'SIG-WTK list members'" <sig-wtk@sense8.com>,
+        "'Wszyscy pracownicy II'" <staff@ics.p.lodz.pl>,
+        "'Jacek Stelmaszczyk'" <steq@free.polbox.pl>
+Subject: sig-wtk: Alert - VIRUS!!!
+Date: Mon, 11 Jan 1999 08:28:46 +-100
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: owner-sig-wtk@sense8.com
+Precedence: bulk
+Reply-To: Maciej Koman <mkoman@ics.p.lodz.pl>
+Status: RO
+X-Status: 
+
+>> VIRUS WARNING!!!!!!!
+>>
+>>This is really important.  Please read this!!!!!
+>>This message is from Beth Homles, Tech. Director with
+>>the State Dept.  NJ.
+>>
+>>If you receive an e-mail titled 'JOIN THE CREW' or 'PENPALS'
+>>
+>>         DO NOT open it!!!!!
+>>
+>>It will erase EVERYTHING on your hard drive!  Send this letter out to as
+>>many people as you can....this is a new virus and not many people know
+>>about it!! This information was received this morning by IBM, please
+>>share it with anyone that might access the Internet!!!
+>>
+>>PENPAL appears to be a friendly letter asking you if you are interested
+>>in a penpal.....but by the time you read this letter it is TOO LATE.
+>>
+>>If this new virus is located on your pc, what will happen:
+>>The Trojan horse virus will have already infected 000200000BC300001A6C
+>>boot sector of your hard drive, destroying all the data present. It is a
+>>self-replicating virus, and once the message is read it will
+>>AUTOMATICALLY forward itself to anyone who's e-mail address is present
+>>in your box!!!
+>>
+>>This virus will destroy your hard drive and holds the potential to
+>>DESTROY the hard drive of anyone whose mail is in your box and whose
+>>mail is in their box and so on and on!!!!!
+>>
+>>So delete any message titled PENPAL or JOIN THE CREW...this virus can do
+>>major DAMAGE to worldwide networks!!!!
+>>
+>>PLEASE PASS THIS ALONG TO ALL YOUR FRIENDS AND PEOPLE IN YOUR MAILBOXES.
+>>AOL HAS SAID THIS IS A VERY DANGEROUS VIRUS AND THERE IS NO REMEDY FOR
+>>THIS...FORWARD IT TO ALL YOUR ON-LINE FRIENDS A.S.A.P.!!!!!!!!!!!!!!!!!!
+>>IBM, NY.
+>>
+>>
+

@@ -1,0 +1,113 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jun 10 09:19:01 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id JAA17478;
+	Thu, 10 Jun 1999 09:18:55 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab20221;
+          9 Jun 99 16:40 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab20212;
+          9 Jun 99 16:23 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13044;
+          9 Jun 99 16:23 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29448; 9 Jun 99 9:33 EDT
+Received: from listserv.vub.ac.be by CS.CMU.EDU id aa24408; 9 Jun 99 9:33:10 EDT
+Received: from mach.vub.ac.be (mach.vub.ac.be [134.184.129.3]) by rc1.vub.ac.be (8.8.8/%I%.0.ap (rc1))
+        id PAA22655; Wed, 9 Jun 1999 15:32:41 +0200 (MET DST) for <Connectionists@CS.CMU.EDU>
+Received: from [164.15.11.80] (iridiamac1.ulb.ac.be [164.15.11.80]) by mach.vub.ac.be (8.8.8+Sun/%I%.1.ap (mach.test))
+        id PAA27015; Wed, 9 Jun 1999 15:33:06 +0200 (MET DST) for <Connectionists@CS.CMU.EDU>
+X-Sender: mdorigo@134.184.129.3
+Message-Id: <l0313030eb3841d3fbb3f@[164.15.11.80]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 9 Jun 1999 15:31:46 +0200
+To: Connectionists@cs.cmu.edu
+From: Marco DORIGO <mdorigo@ulb.ac.be>
+Subject: Fourth European Workshop on Reinforcement Learning: Call for
+ Participation and Abstracts
+Status: RO
+X-Status: 
+
+Call for Abstracts:
+EWRL-4, Fourth European Workshop on Reinforcement Learning
+Lugano, Switzerland, October 29-30, 1999
+
+
+(We apologize for duplicates of this email)
+
+
+Reinforcement learning (RL) is a growing research area. To build a
+European RL community and give visibility to the current situation on
+the old continent, we are running a now biennal series of workshops.
+EWRL-1 took place in Brussels, Belgium (1994), EWRL-2 in Milano, Italy
+(1995), EWRL-3 in Rennes, France (1997).  EWRL-4 will take place in
+Lugano, Switzerland (1999).  The first morning will feature a plenary talk
+by Dario Floreano.  The rest of the two-day workshop will be dedicated to
+presentations given by selected participants.  Presentation length will
+be determined once we have some feedback on the number of participants.
+
+The number of participants will be limited.  Access will be restricted
+to active RL researchers and their students.  Please communicate as soon
+as possible, and in any case before end of July 1999, your intention
+to participate by means of the intention form attached below (e-mail 
+preferred: ewrl@iridia.ulb.ac.be).  Otherwise send intention forms to:
+
+Marco Dorigo
+IRIDIA, CP 194/6
+Universite' Libre de Bruxelles
+Avenue Franklin Roosvelt 50
+1050 Bruxelles
+Belgium
+
+TIMELINE: intention forms and one page abstracts should be emailed 
+by the end of July to ewrl@iridia.ulb.ac.be
+
+Up-to-date information, including inscription fees, hotel information,
+etc., is maintained at: http://iridia.ulb.ac.be/~ewrl/EWRL4/EWRL4.html
+
+The Organizing Committee
+
+Marco Dorigo and Hugues Bersini, IRIDIA, ULB, Brussels, Belgium,
+Luca M. Gambardella and Juergen Schmidhuber , IDSIA, Lugano, Switzerland,
+Marco Wiering, University of Amsterdam, The Netherlands.
+
+--------------------------------------------------------------------
+
+INTENTION FORM (to be emailed by the end of July, 1999, to
+ewrl@iridia.ulb.ac.be)
+
+Fourth European Workshop on Reinforcement Learning (EWRL-4)
+
+Lugano, Switzerland, October 29-30, 1999
+
+Family Name:
+
+First Name:
+
+Institution:
+
+Address:
+
+Phone No.:
+
+Fax No.:
+
+E-mail:
+
+____ I intend to participate without giving a presentation
+
+____ I intend to participate and would like to give a presentation with
+the following title:
+
+____ MAX one page abstract:
+
+
+
+
+
+
+
+
+
+
+

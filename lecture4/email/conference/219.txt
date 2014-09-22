@@ -1,0 +1,86 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb 16 00:37:49 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA21438;
+	Tue, 16 Feb 1999 00:37:40 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28244;
+          15 Feb 99 17:34 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28242;
+          15 Feb 99 17:22 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24682;
+          15 Feb 99 17:21 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa14490; 15 Feb 99 6:36 EST
+Received: from ns1.dice.ucl.ac.be by CS.CMU.EDU id aa26273;
+          15 Feb 99 6:36:24 EST
+Received: from natacha (Natacha.dice.ucl.ac.be [130.104.31.111])
+	by ns1.dice.ucl.ac.be (8.9.2/mp-ns1) with SMTP id MAA16544;
+	Mon, 15 Feb 1999 12:35:44 +0100 (MET)
+From: ESANN <esann@dice.ucl.ac.be>
+To: "Connectionists@cs.cmu.edu" <Connectionists@cs.cmu.edu>
+Subject: ESANN'99 - European Symposium on Artificial Neural Networks
+Date: Mon, 15 Feb 1999 12:36:20 +0100
+Message-ID: <002201be58d7$68aa3270$6f1f6882@natacha.dice.ucl.ac.be>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.2106.4
+Status: RO
+X-Status: 
+
+----------------------------------------------------
+|                                                  |
+|                     ESANN'99                     |
+|                                                  |
+|              7th European Symposium              |
+|           on Artificial Neural Networks          |
+|                                                  |
+|      Bruges (Belgium) - April 21-22-23, 1999     |
+|                                                  |
+|              Preliminary programme               |
+----------------------------------------------------
+
+The preliminary programme of the ESANN 99 conference is now available on the
+Web:
+       http://www.dice.ucl.ac.be/esann
+For those of you who maintain WWW pages including lists of related ANN
+sites: we would appreciate if you could add the above URL to your list;
+thank you very much!
+
+We try as much as possible to avoid multiple sendings of this call for
+papers; however please apologize if you receive this e-mail twice, despite
+our precautions.
+
+For 7 years the ESANN conference has become a major event in the field of
+neural computation.  ESANN is a human-size conference focusing on
+fundamental aspects of artificial neural networks (theory, models,
+algorithms, links with statistics, data analysis, biological
+background,...).
+
+The programme of the conference can be found at the URL
+http://www.dice.ucl.ac.be/esann, together with practical information about
+the conference venue, registration,...  Other information can be obtained by
+sending an e-mail to esann@dice.ucl.ac.be .
+
+=====================================================
+ESANN - European Symposium on Artificial Neural Networks
+http://www.dice.ucl.ac.be/esann
+
+* For submissions of papers, reviews,...
+Michel Verleysen
+Univ. Cath. de Louvain - Microelectronics Laboratory
+3, pl. du Levant - B-1348 Louvain-la-Neuve - Belgium
+tel: +32 10 47 25 51 - fax: + 32 10 47 25 98
+mailto:esann@dice.ucl.ac.be
+
+* Conference secretariat
+D facto conference services
+27 rue du Laekenveld - B-1080 Brussels - Belgium
+tel: + 32 2 420 37 57 - fax: + 32 2 420 02 55
+mailto:esann@dice.ucl.ac.be
+=====================================================

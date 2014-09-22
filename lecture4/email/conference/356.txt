@@ -1,0 +1,221 @@
+
+
+From HWWS2000@gris.uni-tuebingen.de Fri Dec 31 20:33:01 MET 1999
+Received: from mx02.uni-tuebingen.de (mx02.uni-tuebingen.de [134.2.3.12])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id UAA14529
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 31 Dec 1999 20:33:00 +0100 (MET)
+From: HWWS2000@gris.uni-tuebingen.de
+Received: from cezanne.gris.uni-tuebingen.de (cezanne.gris.uni-tuebingen.de [134.2.176.54])
+	by mx02.uni-tuebingen.de (8.8.8/8.8.8) with ESMTP id UAA06546
+	for <@mx02.uni-tuebingen.de:fnielsen@eivind.imm.dtu.dk>; Fri, 31 Dec 1999 20:34:22 +0100
+Received: by cezanne.gris.uni-tuebingen.de (980427.SGI.8.8.8/930416.SGI)
+	for fnielsen@eivind.imm.dtu.dk id UAA13555; Fri, 31 Dec 1999 20:34:21 +0100 (MET)
+Date: Fri, 31 Dec 1999 20:34:21 +0100 (MET)
+Message-Id: <199912311934.UAA13555@cezanne.gris.uni-tuebingen.de>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Graphics Hardware 2000 -  call for participation
+Status: RO
+X-Status: 
+
+
+
+Graphics Hardware 2000
+======================
+
+in cooperation with Eurographics and ACM SIGGRAPH
+(to be confirmed)
+
+Interlaken, Switzerland
+Monday and Tuesday, August 21-22, 2000
+
+Graphics Hardware is a highly visible, established international forum
+for exchanging experience and knowledge related to computer graphics
+hardware. The workshop offers a unique perspective on graphics
+hardware by combining discussions and constructive critique of
+innovative concepts as well as product-level designs. The workshop is
+an inclusive forum for the entire graphics hardware community and
+brings together researchers, engineers, and architects. This year's
+workshop will be held in Interlaken, Switzerland, jointly with
+Eurographics 2000.
+
+Please visit our website at http://www.merl.com/hwws00/
+
+Schedule
+--------
+
+April 12  Deadline for paper submissions
+May 8     Notification of acceptance
+May 22    Camera-ready papers due
+July 12   Deadline for Hot 3D Systems submissions
+Aug 21-22 Workshop
+
+Traditional Papers Track
+------------------------
+
+We invite high-quality, original papers on all aspects of computer
+graphics hardware describing either proven and tested solutions or
+novel ideas and concepts. Possible topics include:
+
+    Graphics accelerator architectures
+    Performance issues
+    Pixel operations and frame buffer techniques
+    Multi-processor architectures for graphics
+    Hardware support for image-based rendering
+    Load balancing in graphics systems
+    Expansion and acceleration of shading models
+    Volume rendering architectures
+    Space, screen, and model partitioning
+    Hardware support for photorealism
+    Media processors
+    Exploitation of new memory technologies for 3D graphics
+
+Authors are invited to send papers electronically, in Adobe PDF format
+as an email attachment, to lastra@cs.unc.edu. Please limit the length
+to 10 typeset pages or 20 double-spaced pages. If electronic
+submission is not feasible, please send six copies of the paper to the
+address below.
+
+If you would like to send videotapes to accompany the paper, please
+make six copies and mail them to the address below. An effort should
+be made to include the segment in both PAL and NTSC on the same VHS
+tape, to ensure that it can be seen by all reviewers.
+
+Submission address:
+
+    Anselmo Lastra
+    Department of Computer Science
+    CB 3175, Sitterson Hall
+    University of North Carolina
+    Chapel Hill, NC 27599-3175 USA
+
+    Phone +919-962-1958
+    FAX +919-962-1799
+    Email: lastra@cs.unc.edu
+
+If you wish to send papers electronically, but via an alternate method
+such as ftp, please contact lastra@cs.unc.edu for instructions.
+
+Hot 3D Systems Track
+--------------------
+
+We invite industry groups to present their latest and greatest 3D
+chips or system designs. Presentations should be technical, rather
+than marketing, and should focus on real products and their
+performance evaluation. Presentations should last approximately 20-25
+minutes. Bound copies of the slides will be prepared for attendees,
+and presentation slides will be made available on the workshop web
+page after the workshop.
+
+Contributors are invited to send their presentation slides
+electronically, in Microsoft PowerPoint format, as an email attachment
+to bosch@us.ibm.com by July 12, 2000. If electronic submission is not
+feasible, please send a hardcopy of the slides to the address below.
+
+Submission address:
+
+    Bengt-Olaf Schneider
+    IBM T.J. Watson Research Center
+    P.O. Box 218, Yorktown Heights NY 10598
+    U.S.A.
+
+    Phone: +914-945-1585
+    Fax: +914-945-4297
+    E-mail: bosch@us.ibm.com
+
+The Workshop
+------------
+
+The workshop will take place in Interlaken, Switzerland in a hotel
+during Monday and Tuesday of Eurographics 2000 week. The workshop will
+feature two full days of paper and industry presentations and invited
+talks. We will continue the workshop's tradition of a sumptuous
+banquet at a unique location.
+
+Registration
+------------
+
+The registration fee (in US $) includes the workshop proceedings,
+banquet, coffee, and lunches. The workshop fee does not cover
+accommodations. Please see our website for full details on registration
+and accommodations.
+
+Best Paper Award
+----------------
+
+An award of $500 will be given to the authors of the paper considered
+to be the outstanding paper presented at the workshop. The award is
+based on the accuracy, originality, and importance of the technical
+concept, the quality and readability of the manuscript, as well as the
+content and delivery of the verbal presentation. To qualify for this
+award, one or more of the principal authors must be enrolled at the
+workshop and present the paper. The winner will be chosen by the
+organizing committee based on audience feedback and will be announced
+at the end of the workshop.
+
+Demonstrations
+--------------
+
+Presenters and workshop participants are invited to bring prototypes
+or products for demonstration at the workshop. Demonstrations will be
+held on Monday and Tuesday during breaks and before and after workshop
+sessions. We highly encourage paper authors and industry presenters to
+demonstrate their systems at the workshop. Please contact the workshop
+chairs to arrange for space or electrical connections that may be
+required for your demonstration.
+
+For more information please visit http://www.merl.com/hwws00/
+
+Organization
+------------
+
+Workshop Chairs:
+Bengt-Olaf Schneider - IBM T.J. Watson Research Center, USA
+Wolfgang Strasser - University of Tuebingen, Germany
+
+Program Chairs:
+Gunter Knittel - HP Labs Palo Alto, USA
+Hanspeter Pfister - MERL, USA
+
+Papers Chairs:
+Anselmo Lastra - UNC Chapel Hill, USA
+Ulrich Neumann - USC Los Angeles, USA
+
+Hot3D Chair:
+Bengt-Olaf Schneider - IBM T.J. Watson Research Center, USA
+
+Local Arrangements Chair:
+Roger Hersch - Ecole Polytechnique Federale de Lausanne (EPFL),
+Switzerland
+
+Publicity Chairs:
+Bartholt Lichtenbelt - 3Dlabs Fort Collins, USA
+Michael Doggett - University of Tuebingen, Germany
+
+
+Program Committee
+(to be confirmed)
+-----------------
+
+     K. Akeley, Silicon Graphics, USA
+     D. Baldwin, 3Dlabs, UK
+     A. Barkans, Microsoft, USA
+     M. Cox, MRJ/NASA Ames and NVIDIA, USA
+     F.C. Crow, Interval Research, USA
+     N. England, University of North Carolina, USA
+     H. Fuchs, University of North Carolina, USA
+     P. Hanrahan, Stanford University, USA
+     D. Jackel, University of Rostock, Germany
+     K. Kiourcha, S3, USA
+     D. Kirk, NVIDIA, USA
+     F. Kitson, HP Labs, USA
+     A.A.M. Kuijk, CWI, Netherlands
+     P. Leray, CCETT, France
+     P. Lister, Sussex University, UK
+     R. Maenner, University of Mannheim, Germany
+     T. Malzbender, HP Labs, USA
+     M. Meriaux, University of Poitiers, France
+     F.J. Peters, Philips Research, Netherlands
+     A. Schilling, University of Tuebingen, Germany
+     C. Shaw, University of Regina, Canada
+
+

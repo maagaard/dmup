@@ -11,5 +11,10 @@ Projects:
 	Make som kind of predection about what roads should be used when?
 		Predictions
 
+	Links: 
+		http://ckan.projects.cavi.dk/dataset/bliptrack-alpha/resource/d7e6c54f-dc2a-4fae-9f2a-b036c804837d
+		http://www.odaa.dk/dataset/realtids-trafikdata
+		
+
 
 

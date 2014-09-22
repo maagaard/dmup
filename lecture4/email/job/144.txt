@@ -1,0 +1,146 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jul  3 06:34:19 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA10013;
+	Sat, 3 Jul 1999 06:34:12 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac13916;
+          2 Jul 99 19:25 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ac13914;
+          2 Jul 99 19:18 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28870;
+          2 Jul 99 19:18 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa24988; 2 Jul 99 12:32 EDT
+Received: from judy.ic.ac.uk by EDRC.CMU.EDU id aa23908; 2 Jul 99 12:31:57 EDT
+Received: from juliet.ic.ac.uk ([155.198.5.4])
+	by judy.ic.ac.uk with esmtp (Exim 2.12 #1)
+	id 1106E9-000468-00; Fri, 2 Jul 1999 17:31:49 +0100
+Received: from rosalind.ee.ic.ac.uk ([155.198.139.10])
+	by juliet.ic.ac.uk with smtp (Exim 2.12 #1)
+	id 1106E2-0000k9-00; Fri, 2 Jul 1999 17:31:43 +0100
+Received: from ic.ac.uk (dax.ee.ic.ac.uk) by rosalind.ee.ic.ac.uk (4.1/4.1)
+          id AA09028; Fri, 2 Jul 99 17:23:52 BST
+Sender: irezek@ic.ac.uk
+Message-Id: <377CE962.CE67477D@ic.ac.uk>
+Date: Fri, 02 Jul 1999 17:31:30 +0100
+From: Iead Rezek <i.rezek@ic.ac.uk>
+X-Mailer: Mozilla 4.6 [en] (X11; I; SunOS 5.5.1 sun4u)
+X-Accept-Language: en
+Mime-Version: 1.0
+To: connectionists@cs.cmu.edu
+Cc: Nawwaf Kharma <nawwaf@ieee.org>
+Subject: PH.D. STUDENT RESEARCH POSITION AT U.B.C.
+Status: RO
+X-Status: 
+
+*********** PH.D. STUDENT RESEARCH POSITION OPENING ****************
+               Electrical & Computer Engineering Dept.
+               University of British Columbia (UBC)
+                    http://www.ece.ubc.ca
+
+The Pattern Recognition research group in the Electrical & Computer
+Engineering Dept. of the University of British Columbia (UBC), seeks
+an appropriately qualified individual to work on the development of
+Software Engineering methodologies & tools for Pattern Recognition
+research and development. The applicant will have to apply for
+enrollment in a Ph.D.  program, under the supervision of Prof. Rabab
+Ward FRSC, and will be expected to interact and cooperate with the
+other members of the research group. A full description of the
+project is attached to this email.
+
+Potential applicants please contact Dr. Nawwaf Kharma for an
+interview.  The last date for submission of applications is July 31st
+99 (for the session starting January 1st 2000). Late applicants will
+be considered for next academic year.  The successful applicant will
+have to provide for one full year of tuition & maintenance costs,
+however, he/she can expect to work as a Teaching Assistant, during the
+following the years, for a total salary of about C$ 17K (enough to
+cover tuition plus most maintenance costs).
+
+We would be very grateful if you would post or share this information
+with other people interested in a Ph.D. in Pattern Recognition &
+Software Engineering, at UBC.
+
+Nawwaf N. Kharma
+E&CE Dept. UBC
+2356 Main Mall,
+Vancouver, B.C. Canada V6T 1Z4
+Tel: +1-604-822 1742
+Fax: +1-604-822-5949
+Email: nawwaf@ieee.org
+
+
+
+================================================================
+
+                         Ph.D. Project Description
+
+Purpose
+
+The aim of this project is to investigate the theoretical and pragmatic
+aspects of using guided random optimization techniques (e.g. Genetic
+Algorithms) for the automatic construction of pattern recognition software
+systems. The final goal of this project is the development of a software
+system capable (with little human intervention) of constructing another
+software system, one, which is (near-) optimally, suited to a specific
+recognition task. An example of a recognition task would be the recognizing
+of the set of words making up a hand-written Arabic sentence.
+
+Background & Motivation
+
+A Character recognition system may be broken up, functionally, into four
+components. One component carries out 'pre-processing' functions, such as
+normalization and thinning. Another component accepts the pre-processed
+input pattern and extracts those features that best characterize the
+pattern. The extracted features are used by a 'classification' component
+(such as a Neural Net) to assign a label to the pattern. All functions
+carried out after (initial) classification fall under 'post-processing'.
+[Image]
+[Image]The majority of the effort expended in the field of character
+recognition has been directed towards the discovery of new algorithms; ones
+that pre-process the input pattern, that extract the most relevant features,
+or that are most able to classify the patterns with increased certainty and
+efficiency.  However, almost all of this effort has been done manually,
+though, there is no reason why a lot of this work cannot, in the future, be
+done by machines. This is exactly the reason for our interest in any/all
+techniques that are potentially capable of emulating some of Man's unique
+ability to search and optimize, and to do so efficiently.
+
+Objectives
+
+specific objectives of this project are:
+
+- To achieve a clear and comprehensive understanding of the processes of
+feature selection, and classification- both in character recognition systems
+and in humans.
+
+- To survey the wide rage of genetic and other evolutionary computation
+algorithms (& software), currently used in the realm of Pattern Recognition,
+and specifically: Character Recognition.
+
+- To acquire a good degree of working knowledge of recent methodologies of
+software engineering; such as object-oriented methodologies (including UML),
+as well as a reasonable level of software testing expertise.
+
+- To propose a hypothesis relating to the theoretical and pragmatic aspects
+of the automatic development of character/pattern recognition software
+systems.
+
+- To methodically specify, design, and code a software development platform
+capable of authoring/customizing software for specific character recognition
+purposes  (in line with hypothesis- above.)
+
+- To validate the software development platform via extensive testing,
+including using it to actually construct a simple (but complete) example of
+a character recognition software.
+
+- To document all the above via various progress reports, scientific papers,
+a software user's manual, and (of course) a thesis.
+
+Skills Required
+
+Very good programming skills (in Delphi/C++), plus an interest in Software
+Engineering.  Some basic background in Character Recognition or/and the
+ability to autonomously learn new concepts and techniques in
+Structural/Statistical Pattern Recognition. Good writing, presentation, and
+communication skills (in English).  Patience!

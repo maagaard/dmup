@@ -1,0 +1,112 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Dec 13 20:46:44 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id UAA20739;
+	Mon, 13 Dec 1999 20:46:38 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12299;
+          13 Dec 99 12:24 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12297;
+          13 Dec 99 12:08 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05524;
+          13 Dec 99 12:08 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa16533; 13 Dec 99 5:05 EST
+Received: from danablue.vision.auc.dk by cs.cmu.edu id aa24599;
+          13 Dec 99 5:05 EST
+Received: from [130.225.49.191] (susanne.vision.auc.dk [130.225.49.191])
+	by danablue.vision.auc.dk (8.8.8/8.8.8) with SMTP id KAA01060;
+	Mon, 13 Dec 1999 10:47:24 +0100 (MET)
+X-Sender: susanne@danablue.vision.auc.dk
+Message-Id: <v02140b05b47552e38fb4@[130.225.49.191]>
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Mon, 13 Dec 1999 10:48:30 +0100
+To: connectionists@cs.cmu.edu
+From: Susanne Nielsen <susanne@smi.auc.dk>
+Subject: NEW DEADLINE FOR REGISTRATION AND SUBMISSION OF ABSTRACTS FOR IFESS 2000, NP 2000
+ WORKSHOP, AND PRE-CONFERENCE COURSE
+Status: RO
+X-Status: 
+
+IFESS - YEAR 2000 - AALBORG, DENMARK
+------------------------------------
+
+IFESS 2000 CONFERENCE, 18TH-20TH JUNE
+NP 2000 WORKSHOP, 21ST-23RD JUNE
+PRE-CONFERENCE COURSE - MOTOR FUNCTIONS AND CNS INJURIES, 17TH-18TH JUNE
+
+
+NB: BECAUSE OF THE CHRISTMAS HOLIDAY WE HAVE POSTPONED THE DEADLINE FOR TWO
+WEEKS. NEW DEADLINE FOR REGISTRATION AND SUBMISSION OF ABSTRACTS IS
+THEREFORE 7TH JANUARY 2000 (POSTMARKED).
+http://www.smi.auc.dk/aalborg2000
+
+
+1. The pre-conference course: "Motor Functions and CNS Injuries" - is
+designated as an international workshop to facilitate the communication
+between the various disciplines involved in the field of restoration of
+motor and sensory functions of individuals with motor disabilities -
+17th-18th June 2000.
+See: http://www.smi.auc.dk/aalborg2000/course
+
+2. The 5th Annual Conference of the International Functional Electrical
+Stimulation Society (IFESS 2000) - aims at bringing together
+internationally leading specialists in the field of Functional Electrical
+Stimulation (FES) to stimulate the exchange of views and new advancements
+and to discuss current and future goals in various applications of FES -
+18th-20th June 2000.
+See: http://www.smi.auc.dk/aalborg2000/ifess
+
+3. The Neural Prostheses VI: Motor Systems Conference (NP 2000) - will be
+organized as an international workshop to facilitate the communication
+between the various disciplines involved in the field of restoration of
+motor and sensory functions of individuals with motor disabilities -
+21st-23th June 2000.
+See: http://www.smi.auc.dk/aalborg2000/np
+
+It is the first time in Europe that these events are organized
+simultaneously. The organizing Committee has aimed at having distinguished
+keynote and invited speakers to introduce all main topics, workshops, and
+sessions.
+
+We are expecting to have up to 200 participants from all over the world,
+among them about 50% graduate students and many clinicians.
+
+As a result of funding of the IFESS 2000, we now have grants available for
+Young Researchers. Further information can be found at:
+http://www.smi.auc.dk/aalborg2000/grants/grants.html
+
+The scientific programs for all three events, information on practical
+details, and registration form can be found at:
+http://www.smi.auc.dk/aalborg2000. If you have any further questions,
+please do not hesitate contacting us at: aalborg2000@smi.auc.dk or at the
+following address:
+
+Center for Sensory-Motor Interaction (SMI)
+Aalborg University
+Fredrik Bajers Vej 7D-3
+9220 Aalborg
+Denmark
+Phone: +45 96 35 88 28
+Fax: +45 98 15 40 08
+
+I take this oppotunity to wish you a merry Christmas and a happy New Year
+and do look forward to seeing you in Aalborg in the new millenium.
+
+Best regards,
+Thomas Sinkjaer
+Chairman Organising Committee IFESS 2000 & NP 2999
+Professor, dr.med., Ph.D.
+
+--------------------------******---------------------------
+Susanne Nielsen, Research Secretary
+Center for Sensory-Motor Interaction (SMI)
+Aalborg University
+Fredrik Bajers Vej 7D-3
+9220 Aalborg
+Denmark
+
+Phone:  +45 96 35 88 28
+Fax:    +45 98 15 40 08
+E-mail: susanne@smi.auc.dk
+
+--------------------------******---------------------------

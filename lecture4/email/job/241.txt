@@ -1,0 +1,61 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Dec  7 19:29:00 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id TAA16091;
+	Tue, 7 Dec 1999 19:28:53 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab24013;
+          6 Dec 99 23:07 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24001;
+          6 Dec 99 22:51 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26356;
+          6 Dec 99 22:51 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa05803; 3 Dec 99 3:29 EST
+Received: from cedar.dcs.shef.ac.uk by ri.cmu.edu id aa23802; 3 Dec 99 3:29 EST
+Received: from bayes.dcs.shef.ac.uk (bayes.dcs.shef.ac.uk [143.167.8.235])
+	by cedar.dcs.shef.ac.uk (8.9.3+Sun/8.9.1) with ESMTP id IAA05360
+	for <connectionists@cs.cmu.edu>; Fri, 3 Dec 1999 08:29:05 GMT
+Received: from bayes (bayes [143.167.8.235])
+	by bayes.dcs.shef.ac.uk (8.9.1b+Sun/8.9.1) with SMTP id IAA00602
+	for <connectionists@cs.cmu.edu>; Fri, 3 Dec 1999 08:34:08 GMT
+Message-Id: <199912030834.IAA00602@bayes.dcs.shef.ac.uk>
+Date: Fri, 3 Dec 1999 08:34:08 +0000 (GMT)
+From: Mahesan Niranjan <m.niranjan@dcs.shef.ac.uk>
+Reply-To: Mahesan Niranjan <m.niranjan@dcs.shef.ac.uk>
+Subject: Faculty Openings at Sheffield
+To: connectionists@cs.cmu.edu
+MIME-Version: 1.0
+Content-Type: TEXT/plain; charset=us-ascii
+Content-MD5: 6HoEc1b4Rq/O3KxDcaGN7w==
+X-Mailer: dtmail 1.3.0 CDE Version 1.3 SunOS 5.7 sun4u sparc 
+Status: RO
+X-Status: 
+
+Dear Connectionists,
+
+A number of faculty positions are being currently advertised in
+the Department of Computer Science in Sheffield.
+
+For one of these, we are looking for someone in the area of Machine
+Learning  - this post was created with my appointment here, and the 
+target candidate will be someone with research interest in Probabilistic
+Modelling with a signal processing bias.
+
+UK academic jobs pay low and are increasingly stressful due to falling 
+Maths standards of students coming in.  But this is still a nice job!
+
+Please visit    http://www.dcs.shef.ac.uk   if you might be interested,
+or pass this to anyone you think might be interested.
+
+Closing date 20 December 1999.
+
+Many thanks
+niranjan
+____________________________________________________________________
+Mahesan Niranjan                   Phone:  44 114 222 1805
+Professor of Computer Science      FaX:    44 114 222 1810
+The University of Sheffield        Email:  M.Niranjan@dcs.shef.ac.uk
+http://www.dcs.shef.ac.uk/~niranjan
+____________________________________________________________________
+
+

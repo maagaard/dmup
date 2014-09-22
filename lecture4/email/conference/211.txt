@@ -1,0 +1,125 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Feb  2 19:27:16 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA10512;
+	Tue, 2 Feb 1999 19:27:09 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab22978;
+          2 Feb 99 11:40 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22975;
+          2 Feb 99 11:24 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07193;
+          2 Feb 99 11:24 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab03051; 2 Feb 99 6:52 EST
+Received: from dv.op.dlr.de by RI.CMU.EDU id aa27800; 2 Feb 99 6:51:54 EST
+Received: from euphrat.robotic.dlr.de (euphrat.robotic.dlr.de [129.247.189.80])
+	by dv.op.dlr.de (8.9.1a/8.9.1) with ESMTP id MAA31304;
+	Tue, 2 Feb 1999 12:51:47 +0100
+Received: from ilz.robotic (ilz [129.247.189.84]) by euphrat.robotic.dlr.de (8.7.5/8.7.3) with ESMTP id MAA12395; Tue, 2 Feb 1999 12:51:41 +0100 (MET)
+Received: (from smagt@localhost)
+	by ilz.robotic (8.9.1b+Sun/8.9.1) id MAA07667;
+	Tue, 2 Feb 1999 12:51:38 +0100 (MET)
+From: Patrick van der Smagt <smagt@dlr.de>
+Message-Id: <199902021151.MAA07667@ilz.robotic>
+Subject: Announcement: IEE Workshop on cerebellar control (London, Feb. 15)
+To: connectionists@cs.cmu.edu, neuron-uk@mailbase.ac.uk
+Date: Tue, 2 Feb 1999 12:51:38 +0100 (MET)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+			WORKSHOP ANNOUNCEMENT
+			=====================
+			Self-learning robots III
+	Brainstyle robotics: The cerebellum beyond function approximation 
+	http://www.robotic.dlr.de/Smagt/workshop/iee99.html
+
+	A Workshop organised by Professional Group A9 (Neural computing)
+	Monday 15 February 1999, Savoy Place, London, UK
+
+Patrick van der Smagt (Institute of Robotics and System Dynamics, DLR),
+	workshop co-organiser
+Noel Sharkey (University of Sheffield),
+	workshop co-organiser 
+
+
+Throughout the years there has been extensive research in the structure
+and working of the cerebellum. The cerebellum is a part of the brain of
+vertebrates that is well understood in various aspects:
+
+The cerebellum is used for the spatial motor coordination of fast
+movements.  High precision of the movement is an important issue.  The
+structure of the cerebellum is well-understood: the cells as well as
+their connections are known. Also the connections to the other parts of
+the brain and spine are understood.  The learning process is
+well-understood since 1992.
+
+The 'traditional' neural approach for robot control typically consists
+of some form of function approximation. We gather a large amount of
+learning samples, and try to represent those as well as possible with
+some (universal or specialized) approximator. The major differences lie
+there where the choice of approximator is concerned.
+
+Does the cerebellum do something different? 
+
+Many special issues and workshops focusing on brain models for robot
+control reflect the increased attention of the development of
+cerebellar models. But what can we expect of such models in the
+future?  Is the cerebellum is 'just' a function approximator, and can
+we mimic its functionality using other models?
+
+In this workshop we will focus on 'working' models of the cerebellum;
+how far have we come? Can real applications be expected in the near
+future? Can cerebellar models do better than others? Are brainstyle
+robotics something to expect in the near future?
+
+Programme
+ 09.00 
+       Registration and Coffee
+ 09.30
+       Welcome
+ 09.40
+       Overview of cerebellar control 
+       Patrick van der Smagt (Institute of Robotics and System Dynamics, DLR)
+ 10.20
+       The cerebellum and visually controlled movements
+       Chris Miall (University Laboratory of Physiology, Oxford)
+ 11.00
+       The cerebellum as a neuronal machine
+       David Willshaw (University of Edinburgh)
+ 11.40
+       Recurrent disinhibition implements a pointer-map module
+       between cerebellar basket and Purkinje cells
+       Klaus Hepp (Institute of Theoretical Physics, ETH Z"urich)
+ 12.20
+       Lunch
+ 13.20
+       Computational Delays and Habits
+       Guido Bugmann (University of Plymouth)
+ 14.00
+       Learning to Reach Via Corrective Movements
+       Andrew Barto (University of Massachusetts)
+ 15.00
+       Tea
+ 15.15
+       Cerebellar vs. stiffness control
+       Pietro Morasso (Universit'a di Genova)
+ 15.55
+       Panel discussion
+ 16.30
+       Close
+
+
+To register for the above event, please contact:
+	Events Office, IEE, Savoy Place,
+        London WC2R 0BL, tel: +44 (0)171 240 1871 ext: 2205/6, 
+        fax: +44 (0)171 497 3633 or email: events@iee.org.uk 
+
+-- 
+dr Patrick van der Smagt                phone +49 8153 281152, fax -34
+DLR/Institute of Robotics and System Dynamics             smagt@dlr.de
+P.O.Box 1116, 82230 Wessling, Germany     http://www.robotic.de/Smagt/

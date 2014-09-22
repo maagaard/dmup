@@ -1,0 +1,79 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Oct 13 21:58:32 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id VAA01702;
+	Tue, 13 Oct 1998 21:58:22 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01155;
+          13 Oct 98 12:24 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01145;
+          13 Oct 98 12:11 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23552;
+          13 Oct 98 12:11 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa23668; 13 Oct 98 8:31 EDT
+Received: from [131.174.173.154] by RI.CMU.EDU id aa15814; 13 Oct 98 8:30:13 EDT
+Received: from bertus.mbfys.kun.nl by servius.mbfys.kun.nl
+	via bertus.mbfys.kun.nl [131.174.173.249] with ESMTP for <Connectionists@CS.CMU.EDU>
+	id OAA06049 (8.8.8/1.2); Tue, 13 Oct 1998 14:29:52 +0200 (MET DST)
+From: Bert Kappen <bert@mbfys.kun.nl>
+Received: by bertus.mbfys.kun.nl id OAA10471
+	(8.8.8/2.1 for Connectionists@CS.CMU.EDU); Tue, 13 Oct 1998 14:29:51 +0200 (MET DST)
+Date: Tue, 13 Oct 1998 14:29:51 +0200 (MET DST)
+Message-Id: <199810131229.OAA10471@bertus.mbfys.kun.nl>
+To: Connectionists@cs.cmu.edu
+Subject: PhD position available
+Status: RO
+X-Status: 
+
+PhD position for neural network research at SNN, University of 
+Nijmegen, the Netherlands.
+
+Background:
+The SNN neural networks research group at the university of Nijmegen 
+consists of 10 researchers and PhD students and conducts
+theoretical and applied research on neural networks and graphical
+models. The group is part
+of the Laboratory of Biophysics which is involved in experimental brain
+science.
+
+Recent research of the group has focussed on theoretical description of
+learning processes using the theory of stochastic processes and the design
+of efficient learning rules for Boltzmann machines using techniques from
+statistical mechanics; the extraction of rules from data and the
+integration of knowledge and data for modeling; the design of robust
+methods for confidence estimation with neural networks; applications in
+medical diagnosis and prediction of consumer behaviour. 
+
+Research project:
+The modern view on AI, neural networks as well as parts of statistics, is to
+describe learning and reasoning using a probabilistic framework. A particular
+advantage of the probabilistic framework is that domain knowledge in the form
+of rules and data can be easily combined in model construction. The main
+drawback is that inference and learning in large probabilistic networks 
+is intractible.
+Therefore, robust approximation schemes are needed to apply this technology to
+large real world applications. 
+The topic of research is to develop learning rules for neural networks
+and graphical models using techniques from statistical mechanics.
+
+Requirements:
+The candidate should have a strong background in theoretical physics or
+mathematics.
+
+The PhD position:
+Appointment will be full-time for four years. Gross salary will be NLG 2184 
+per month in the first year, increasing to NLG 3899 in the fourth year. 
+
+More information:
+Details about the research can be found at
+http://www.mbfys.kun.nl/SNN or by contacting dr. H.J.
+Kappen (bert@mbfys.kun.nl, ++31243614241). 
+
+Applications should include a curriculum vitae and a
+statement of the candidate's professional interests and goals, and one
+copy of recent work (e.g., thesis, article). Interested applicants
+should express their interest by email to bert@mbfys.kun.nl before 
+October 17. Full applications 
+should be sent before October 25 to the
+Personnel Department of the Faculty of Natural Sciences, University of
+Nijmegen, Toernooiveld 1, 6525 ED Nijmegen, vacancy number 98-52.

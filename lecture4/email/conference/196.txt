@@ -1,0 +1,153 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 13 05:36:15 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA18301;
+	Wed, 13 Jan 1999 05:36:08 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29395;
+          12 Jan 99 21:54 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29393;
+          12 Jan 99 21:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01424;
+          12 Jan 99 21:43 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa25701; 12 Jan 99 19:57 EST
+Received: from mail1-wide.etl.go.jp by RI.CMU.EDU id aa06957;
+          12 Jan 99 19:57:09 EST
+Received: from aidan.etl.go.jp (IDENT:berthouz@aidan.etl.go.jp [192.31.204.47])
+	by mail1-im.etl.go.jp (8.9.1a/3.7W-98082521) with ESMTP id JAA12036;
+	Wed, 13 Jan 1999 09:56:40 +0900 (JST)
+Received: (from berthouz@localhost) by aidan.etl.go.jp (8.8.7/3.5Wpl4/ETL-RobotGroup)
+	id JAA03476; Wed, 13 Jan 1999 09:40:37 +0900
+Date: Wed, 13 Jan 1999 09:40:37 +0900
+Message-Id: <199901130040.JAA03476@aidan.etl.go.jp>
+From: Luc Berthouze <berthouz@aidan.etl.go.jp>
+To: connectionists@cs.cmu.edu
+Cc: neuro-mail@bpel.tutics.tut.ac.jp
+Subject: Emergence and Development of Embodied Cognition: - Symposium Announcement
+Reply-to: berthouz@etl.go.jp
+Status: RO
+X-Status: 
+
+
+First International Symposium on Emergence and Development of Embodied Cognition
+				(EDEC99)
+February 9, 1999. At AIST Tsukuba Research Center, Auditorium.
+Sponsored by Electrotechnical Laboratory (ETL), AIST, MITI 
+ and COE program by STA, Japan.
+
+Co-organized by: Dr. Yasuo Kuniyoshi (ETL) and Prof. Rolf Pfeifer (Univ. Zurich)
+
+Language: English.
+Participation: Open to public, limited capacity (140seats).
+
+Pre-registration strongly recommended (see our web page).
+
+Content: This is a one-day open symposium consisting of invited talks by 
+world leading researchers converging onto the issue of interaction dynamics 
+of embodied cognition from the fields of complex systems, biology, 
+neuroscience, psychology, cognitive science, autonomous agents and robotics.
+The symposium intends to provide an overview and to demonstrate the 
+importance of interdisciplinary collaborative efforts into this common 
+research issue.
+
+Conference home page: All important information is located at 
+http://www.etl.go.jp/etl/robotics/EDEC99/
+
+Pre-Registration: Through our web page, as soon as possible, no later than 
+Feb. 1.
+
+Fees: Please pay at the on-site registration desk in cash.
+Symposium:	1,000yen. (Including a handout and coffee break.)
+Lunchbox:	Fee TBA (Recommended as the cafeteria may be crowded.)
+Reception:	3,000yen. (Need prior registration.)
+
+Symposium secretariats: 
+ Registration handling & web page manager:　For registration, see our web 
+page.
+Dr. Luc Berthouze,  Email: berthouz@etl.go.jp
+Humanoid Interaction Lab., Intelligent Systems Division, Electrotechnical 
+Laboratory.
+ Local arrangements:
+Ms. Yoko Sato,  Email: yosato@etl.go.jp Tel.:+81-298-54-5180 
+Fax.:+81-298-54-5971
+Humanoid Interaction Lab., Intelligent Systems Division, Electrotechnical 
+Laboratory.
+
+Program
+9:00	Registration
+9:30 	Yasuo Kuniyoshi	Opening Address - Interdisciplinary EDEC initiative.
+9:40 	Rolf Pfeifer	Dynamics, Morphology, and Materials in The Emergence
+			of Cognition
+10:15	Esther Thelen	Developmental Foundations of Embodied Cognition
+10:50	Linda Smith	The Task Dynamics of the A not-B Error
+11:25	Kazuo Hiraki	Prediction, Habituation and Attention in the Development of
+			Spatial Cognition: Eye-Tracking Data of Infants.
+
+12:00	Lunch
+
+13:00	Shoji Itakura	Comparative Cognitive Approach -- Ontogeny, Phylogeny, 
+			and 'Robogeny': In the Case of Primate Social Cognition
+13:35	Gentaro Taga 	Complex Systems Approach to Development of Action
+			and Perception of Infants
+14:10	Yasuo Kuniyoshi	Towards Emergence and Development of Meaningful
+			Interaction Structures through Complex Embodiment 
+			- A Humanoid Robot 
+14:35	Luc Berthouze	Emergence of Embodied Interaction: The Internal Dynamics
+			Perspective
+
+15:00	Break
+
+15:15	Olaf Sporns	Synthetic Neural Modeling: An Approach to Study the
+			Interaction of Neural Dynamics and Behavior
+15:50	Philippe Gaussier	From dynamical behaviors to dynamical perception
+16:25	Gregor Schoener	The Dynamic Field and Its Preshaping: Concepts toward a 
+			General Theoretical Framework of Embodied Cognition.
+17:00	Takashi Ikegami	Simulating a "Theory of Mind" in Coupled Dynamical 
+			Recognizers --- Embodiment as Dynamic Interfaces ---
+17:35	Closing Discussions
+18:00	Symposium Closes
+18:30 	Reception.
+
+List of Presenters
+1. Prof. Rolf PFEIFER
+Director of AI Lab, Computer Science Department, University of Zurich 
+2. Prof. Esther THELEN
+Professor, Psychology & Cognitive Science, Indiana University
+3. Prof. Linda SMITH
+Professor, Psychology & Cognitive Science, Indiana University
+4. Dr. Kazuo HIRAKI
+Senior Research Scientist, Information Science Division,
+Electrotechnical Laboratory
+5. Prof. Shoji ITAKURA
+Associate Professor, Department of Health Sciences, Oita
+University of Nursing and Health Sciences
+6. Prof. Gentaro TAGA
+Research Assistant Professor, Department of Pure and Applied Sciences,
+The University of Tokyo
+7. Dr. Yasuo KUNIYOSHI
+Senior Research Scientist, Intelligent Systems Division,
+Electrotechnical Laboratory
+8. Dr. Luc BERTHOUZE
+Research Scientist, Intelligent Systems Division,
+Electrotechnical Laboratory
+9. Dr. Olaf SPORNS
+Senior Fellow in Theoretical and Experimental Neurobiology,
+The Neurosciences Institute
+10. Prof. Philippe GAUSSIER
+Professor, The Image and Signal Processing Lab, ENSEA - The Cergy
+Pontoise University
+11. Prof. Gregor SCHOENER
+Director, National Research Center of Cognitive Neuroscience, CNRS
+12. Prof. Takashi IKEGAMI
+Associate Professor, Institute of Physics, College of Arts and Sciences,
+The University of Tokyo
+
+
+---------
+Dr. Luc Berthouze, Research Scientist,
+Intelligent Systems Division
+Electrotechnical Laboratory (ETL), AIST, MITI, Japan.
+Tel.+81-298-54-5369 Fax.+81-298-54-5971
+1-1-4 Umezono, Tsukuba 305-8568, Japan.
+Email: berthouz@etl.go.jp
+http://www.etl.go.jp/~berthouz

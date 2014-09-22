@@ -1,0 +1,60 @@
+
+
+From spm-request@mailbase.ac.uk Fri Jul  9 22:49:32 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id WAA08373
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 9 Jul 1999 22:49:31 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id VAA19484;
+	Fri, 9 Jul 1999 21:44:48 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id VAA16665;
+        Fri, 9 Jul 1999 21:38:00 +0100 (BST)
+Received: from neuron.cpmc.columbia.edu (neuron.cpmc.columbia.edu [156.111.178.70]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id VAA16600;
+        Fri, 9 Jul 1999 21:37:47 +0100 (BST)
+Received: from [156.111.89.37] (pizlatarev2.cpmc.columbia.edu [156.111.89.37]) by neuron.cpmc.columbia.edu with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2232.9)
+	id 3Q5RJMLA; Fri, 9 Jul 1999 16:37:02 -0400
+Message-Id: <v03110700b3ac09f4803f@[156.111.89.37]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 9 Jul 1999 16:35:01 -0400
+Subject: Post Doc in fMRI at Columbia/NYSPI
+From: Mark Slifstein <marks@neuron.cpmc.columbia.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Mark Slifstein <marks@neuron.cpmc.columbia.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+Applications are invited for a postdoctoral position in the Brain Imaging
+Division, Neuroscience Department, New York State Psychiatric
+Institute/Columbia College of Physicians and Surgeons.
+We are looking for a person with a background in statistics, mathematics,
+or biophysics to work
+on the analysis of fMRI data.  This will entail both implementation of
+existing software packages as
+well as the development of novel methods of analysis.  Our division also
+has an extensive and well
+developed program in neuroreceptor mapping using PET, and there will be
+ample opportunity to
+interact with people doing this work as well.
+The applicant should have a PhD in one of the above mentioned areas.
+Doctoral students nearing
+graduation will also be considered.
+To apply, send CV and list of 3 references to
+
+Mark Slifstein, Ph.D.
+Brain Imaging Division, Neuroscience Department
+1051 Riverside Drive, Unit 42
+New York, NY 10021
+USA
+
+or send email to marks@neuron.cpmc.columbia.edu
+
+

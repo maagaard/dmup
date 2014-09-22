@@ -1,0 +1,339 @@
+
+
+From icsc@compusmart.ab.ca Wed Mar 12 20:37:33 EST 1997
+Received: from bernie.compusmart.ab.ca (root@bernie.compusmart.ab.ca [199.185.130.34]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id CAA15240 for <fnielsen@eivind.imm.dtu.dk>; Thu, 13 Mar 1997 02:37:26 +0100 (MET)
+Received: from icsc.compusmart.ab.ca (remote641.compusmart.ab.ca [207.34.71.53]) by bernie.compusmart.ab.ca (8.7.4/8.6.5) with SMTP id RAA26679; Wed, 12 Mar 1997 17:46:05 -0700 (MST)
+Message-Id: <2.2.32.19970313004646.00a97470@mail.compusmart.ab.ca>
+X-Sender: icsc@mail.compusmart.ab.ca (Unverified)
+X-Mailer: Windows Eudora Pro Version 2.2 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 12 Mar 1997 17:46:46 -0700
+To: Prospective Authors <icsc@compusmart.ab.ca>
+From: ICSC Canada <icsc@compusmart.ab.ca>
+Subject: EIS'98 Engineering of Intelligent Systems
+Status: RO
+X-Status: 
+
+
+ANNOUNCEMENT / CALL FOR PAPERS
+
+International ICSC Symposium on
+
+ENGINEERING OF INTELLIGENT SYSTEMS
+EIS'98
+
+http://www.compusmart.ab.ca/icsc/eis98.htm
+=20
+February 11 - 13, 1998
+
+at the University of La Laguna
+Tenerife, Spain=20
+
+*********************************
+
+
+PURPOSE OF THE SYMPOSIUM
+
+In recent years, the applications of Artificial Intelligence have been
+extended thanks to the development of new fields, such as Neural Networks,
+Fuzzy Logic and Genetic Algorithms. The possibility of accurate modeling of
+complex problems permitted by those new tools allow to approach new
+applications of artificial intelligence in control theory, robotics, signal
+processing and even business, financial planning management, damage
+assessment, security, and so on.
+=20
+The main aim of this conference is to bring together theorists from
+different fields of artificial intelligence and people working in
+applicative areas, in order to state the current state of the research and
+applications of Intelligent Systems and make the basis for rewarding
+cooperation in the area.
+
+Contributions are sought in areas based on the list below, which is
+indicative only. Contributions from new application areas will be
+particularly welcome.
+
+*********************************
+
+
+TOPICS OF THE SYMPOSIUM
+=A0
+Theory:
+- Expert Systems
+- Neural Networks
+- Fuzzy Logic
+- Genetics Algorithms
+- Machine Learning
+- Hybrid Systems
+- Chaos Theory=20
+=20
+Applications:
+- Control
+- Industrial Diagnostics
+- Robotics
+- Signal Processing
+- Estimation
+- Modeling
+- Pattern Recognition
+- Speech Processing and Recognition
+- Computer Vision
+- Simulation
+- Multivariate Images Analysis
+- Remote Sensing
+- Business
+- Financial Planning
+- Management
+- Damage Assessment
+- Security
+- Physics
+- Environment=20
+- Hardware Implementations
+=20
+
+*********************************
+
+
+HONORARY CHAIR
+Ramon Lopez de Mantaras, IIIA/CSIC, Barcelona, Spain=20
+
+SYMPOSIUM CHAIR
+Ethem Alpaydin, Bogazici University, Istanbul, Turkey
+
+SYMPOSIUM VICE-CHAIR
+Colin Fyfe, University of Paisley, U.K.
+
+LOCAL ORGANIZING COMMITTEE
+Lorenzo Moreno (Chair)
+G. Nicolas Marichal Plasencia (Vice-Chair)
+Jose Sigut Sssavedra (Vice-Chair)
+
+
+INTERNATIONAL SCIENTIFIC COMMITTEE
+Leopoldo Acosta, Spain
+Luis B. Almeida, Portugal
+Celso Antonio Alves Kaestner, Brazil
+Senen Barro, Spain
+Zeungnam Bien, Korea
+Freimut Bodendorf, Germany
+Piero	Bonissone, USA
+P. Bosc, France
+Hans H. Bothe, Germany
+Joan Cabestany, Spain
+Ricardo Conejo, Spain
+R.M.C. De Keyser, Belgium
+Andrej Dobnikar, Slovenia
+D. Driankov, Sweden
+Madjid Fathi-Torbagahn, Germany
+Colin Fyfe, U.K.
+Raul H. Gallard, Argentina
+Beatriz Gonzalez, Spain
+Madan M. Gupta, Canada
+Fikret Gurgen, Australia
+Alberto F. Hamilton, Spain
+Michael	Heiss, Austria
+Emmanuel C. Ifeachor, U.K.
+Kazuaki	Iwata, Japan
+Mo Jamshidi, USA
+Victoria Jimenez, Spain
+Kazuhiko Kawamura, USA
+T.Y. Lin, USA
+Eduardo Massad, Brazil
+Francesco Masulli, Italy
+Jose A. Moreno, Spain
+Lorenzo	Moreno, Spain
+Roderick Murray-Smith, Denmark
+Masayuki Nakajima, Japan
+Charles C. Nguyen, USA
+Kevin Passino, USA
+David W. Pearson, France
+Witold Pedrycz,	Canada
+J. Demetrio Pineiro, Spain
+H. Prade, France
+Alberto	Prieto, Spain
+Brian Roffel, Netherlands
+Enrique H. Ruspini, USA
+Antonio	Sanchez Aguilar, Mexico
+Jose Luis Sanchez, Spain
+Juan A. Siguenza, Spain
+Nigel C. Steele, U.K.
+J.L. Verdegay, Spain
+
+
+SYMPOSIUM ORGANIZER
+ICSC International Computer Science Conventions
+P.O. Box 279, Millet AB T0C 1Z0, Canada
+Email:    icsc@compusmart.ab.ca
+Web-Site: http://www.compusmart.ab.ca/icsc
+Fax:      +1-403-387-4329
+Phone:    +1-403-387-3546=20
+=A0
+*********************************
+
+
+SCIENTIFIC PROGRAM
+
+EIS'98 will include invited plenary talks, contributed sessions, invited
+sessions, workshops and demonstrations. Various projects are in preparation,
+respectively under consideration. Please consult the EIS'98 Web Site for
+full updated information.
+
+Anyone wishing to organize a session or discussion, is requested to contact
+the general chairman or the symposium organizer before August 31, 1997.
+
+*********************************
+
+
+INVITED SESSIONS
+
+Prospective organizers of invited sessions are requested to send a session
+proposal (consisting of 4-5 invited paper abstracts, the recommended
+session-chair and co-chair, as well as a short statement describing the
+title and the purpose of the session) to the Symposium Chairman or the
+Symposium Organizer. All invited sessions should start with a tutorial=
+ paper.
+
+*********************************
+
+
+DEMONSTRATION SESSIONS
+
+Instead of submitting a paper, proposals for a 20 minute demonstration of a
+practical application can also be submitted. The proposal should follow the
+abstract submission guidelines. Only the abstract of the demonstration will
+be included in the conference proceedings.
+
+*********************************
+
+
+SUBMISSION OF PAPERS
+
+Prospective authors are requested to send an abstract of 500 words for
+review by the International Scientific Committee. All abstracts must be
+written in English, starting with a succinct statement of the problem, the
+results achieved, their significance and a comparison with previous work. If
+authors believe that more details are necessary to substantiate the main
+claims of the paper, they may include a clearly marked appendix that will be
+read at the discretion of the International Scientific Committee.
+
+The abstract should also include:
+
+- Title of conference (EIS'98)
+- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+
+Contributions are welcome from those working in industry and having
+experience in the topics of this conference as well as from academics. The
+conference language is English. Tutorial papers and demonstrations are also
+encouraged.
+
+It is recommended to submit abstracts by electronic mail (ASCII text) to
+
+icsc@compusmart.ab.ca=20
+
+or else by fax or mail (2 copies) to the following address:
+
+ICSC Canada=20
+P.O. Box 279
+Millet, Alberta T0C 1Z0
+Canada
+Email: icsc@compusmart.ab.ca
+Fax: +1-403-387-4329
+
+*********************************
+
+
+PUBLICATION OF PAPERS
+
+Conference proceedings will be published by ICSC Academic Press and be
+available for the delegates at the conference in printed form or on CD-ROM.
+Authors of a selected number of innovative papers may be invited to submit
+extended manuscripts for journal publication.
+
+*********************************
+
+
+BEST PRESENTATION AWARDS
+The best paper presentations will be presented with an award.
+
+
+*********************************
+
+
+REGISTRATION
+
+Full registration is estimated at Ptas. 59,000 and includes attendance to
+the EIS'98 symposium, lunches and dinners, coffee-breaks, social program,
+conference proceedings and daily transportation between the hotels in Santa
+Cruz and the symposium site. Full-time students. who have a valid student
+ID-card, may register with a rebate by eliminating proceedings and the
+social program.
+
+*********************************
+
+
+ACCOMMODATION
+
+Block reservations have been made at hotels in La Laguna and Santa Cruz and
+accommodation at reasonable rates (not included in the registration fee)
+will be available upon registration. Details will follow with the letter of
+acceptance and also be available from the EIS'98 web site.
+
+*********************************
+
+
+CONFERENCE LOCATION
+
+Tenerife, known worldwide as the everspring island, is a volcanic island
+originated in the Tertiary. It looks like a triangle and covers an area of
+2,057 square kilometers. Its orography is complex and abrupt. In the North
+Eastern part an impressive mountainous range divides the island in two steep
+slopes. Actually, one of the most peculiar characteristics of Tenerife is
+the contrast between the North and the South: The North being evergreen and
+quite humid and the South dry and extremely sunny. Tenerife's special
+situation and the incidence of a number of favorable factors, such as the
+constant caress of the westerly winds, keep the mean temperature mild and
+most agreeable throughout the year.
+
+*********************************
+
+
+SOCIAL ACTIVITIES
+
+The social program (also available for accompanying persons) features an
+excursion to the most beautiful spots on the island, including a special
+dinner and entertainment.
+
+*********************************
+
+
+IMPORTANT DATES AND DEADLINES
+
+- Submission of abstracts: May 31, 1997
+- Notification of acceptance: August 31, 1997
+- Delivery of full papers: October 31, 1997
+- Symposium: February 11 - 13, 1997
+
+*********************************
+
+
+FURTHER INFORMATION
+
+Updated information is available from the EIS'98 website at
+
+http://www.compusmart.ab.ca/icsc/eis98.htm
+
+or from the symposium organizer:
+
+ICSC International Computer Science Conventions
+P.O. Box 279, Millet AB T0C 1Z0, Canada
+Email:    icsc@compusmart.ab.ca
+URL:      http://www.compusmart.ab.ca/icsc
+Fax:      +1-403-387-4329
+Phone:    +1-403-387-3546
+
+=20
+

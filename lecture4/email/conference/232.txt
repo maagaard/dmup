@@ -1,0 +1,109 @@
+
+
+From crj@cs.utah.edu Tue Mar  9 22:45:39 MET 1999
+Received: from flounder-t.icase.edu (flounder-f.icase.edu [146.165.142.130])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id WAA02027
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Mar 1999 22:45:38 +0100 (MET)
+Received: from wrath.cs.utah.edu (wrath.cs.utah.edu [155.99.198.100])
+	by flounder-t.icase.edu (8.8.8/8.8.8) with ESMTP id NAA24271;
+	Tue, 9 Mar 1999 13:17:15 -0500 (EST)
+Received: from sci2.cs.utah.edu (sci2.cs.utah.edu [155.99.203.8])
+	by wrath.cs.utah.edu (8.8.8/8.8.8) with ESMTP id LAA10873;
+	Tue, 9 Mar 1999 11:17:12 -0700 (MST)
+Received: (from crj@localhost)
+	by sci2.cs.utah.edu (8.8.8/8.8.8) id LAA440351;
+	Tue, 9 Mar 1999 11:17:12 -0700 (MST)
+Date: Tue, 9 Mar 1999 11:17:12 -0700 (MST)
+Message-Id: <199903091817.LAA440351@sci2.cs.utah.edu>
+From: Chris Johnson <crj@cs.utah.edu>
+To: nielson@asu.edu
+CC: kma@icase.edu, vis-people@icase.edu
+In-reply-to: <36E5620F.92CD6C27@asu.edu> (nielson@asu.edu)
+Subject: Re: NSF/DOE Workshop on Large Scale Visualization
+Status: RO
+X-Status: 
+
+
+Hi Greg,
+
+Yes, no matter which week we looked at there was a conflict with another
+conference/meeting/workshop. 
+
+So we did an informal optimization and chose the May 20-22 as the time that
+conflicted the least.
+
+Sorry it ended up conflicting with your seminar.
+
+Sincerely,
+
+Chris
+
+> Date: Tue, 09 Mar 1999 11:01:51 -0700
+> From: "Dr. Gregory M. Nielson" <nielson@asu.edu>
+> Cc: vis-people@icase.edu
+> Content-transfer-encoding: 7bit
+> 
+> Kwan-Liu,
+> 
+>   The workshop looks very interesting, but the timing is not
+> so great as there is a Dagsthul Seminar in Germany this same
+> week.
+> 
+>     Greg
+> 
+> 
+> 
+> Kwan-Liu Ma wrote:
+> 
+> > Hi:
+> >
+> > Chris Johnson, John Reynders, and I (Kwan-Liu Ma), with the assistance
+> > of a small organizing committee, are moving forward with our plans to
+> > hold a workshop on large-scale data visualization and data management
+> > at the DoubleTree Hotel in Salt Lake City, Utah on May 20-22, 1999.
+> > This workshop is sponsored by both NSF and DOE.
+> >
+> > The format of the workshop will be talks by invited speakers, with
+> > some additional opportunities for shorter talks, and discussion sessions.
+> > Attendance will be partially by invitation and partially by open
+> > registration on a first-come basis.  Registration begins now and
+> > is conducted entirely online. Please visit
+> >
+> >           http://www.icase.edu/LDV99
+> >
+> > for more information.
+> >
+> > Here is the list of invited speakers:
+> >
+> >    Chandrajit Bajaj, UT Austin
+> >    Michael Cox, MRJ at NASA Ames Research Center
+> >    Steve Eick, Lucent Technologies
+> >    Steve Hammond, NCAR
+> >    Bernd Hamann, UC Davis
+> >    Kai Li, Princeton University
+> >    Bill Lorensen, GE Research
+> >    Steve Louis, LLNL
+> >    Dinesh Manocha, UNC, Chapel Hill
+> >    Jamie Painter, LANL
+> >    Will Schroeder, Kitware
+> >    Rick Stevens, ANL
+> >    Philip Heermann, SNL
+> >
+> > Contributed speakers will be selected from the attendees by a committee
+> > using the one-page statements submitted with the online registration.
+> > We will update the workshop's web page periodically as planning for
+> > the workshop proceeds.  Key updates will also be posted to the
+> > vis-large emailing list (vis-large@icase.edu), and other mailing lists.
+> >
+> > Please join us in this important activity.
+> >
+> >   Sincerely,
+> >
+> >   Workshop Co-Chairs
+> >
+> >     Chris Johnson, University of Utah
+> >     Kwan-Liu Ma, ICASE
+> >     John Reynders, LANL
+> 
+> 
+> 

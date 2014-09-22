@@ -1,0 +1,87 @@
+
+
+From spm-request@mailbase.ac.uk Fri Oct 29 17:54:43 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id RAA27289
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 29 Oct 1999 17:54:42 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id QAA23224;
+	Fri, 29 Oct 1999 16:54:32 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id QAA03661;
+        Fri, 29 Oct 1999 16:49:39 +0100 (BST)
+Received: from imc.nih.gov (imc.nih.gov [128.231.90.85]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id QAA03651;
+        Fri, 29 Oct 1999 16:49:35 +0100 (BST)
+Received: by imc.nih.gov with Internet Mail Service (5.5.2650.21)
+	id <V6RAQL9Z>; Fri, 29 Oct 1999 11:49:46 -0400
+Message-ID: <A380C96558B4D1119A2200805F9F4A28012C3508@nimhwebmail.nimh.nih.gov>
+Date: Fri, 29 Oct 1999 11:48:52 -0400
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Content-Type: text/plain;
+	charset="windows-1252"
+Subject: NIH Postdoctoral Fellowship in Neuroimaging
+From: "Berman, Karen (NIMH)" <bermank@dirpc.nimh.nih.gov>
+To: "'spm@mailbase.ac.uk'" <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Berman, Karen (NIMH)" <bermank@dirpc.nimh.nih.gov>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+POSTDOCTORAL FELLOWSHIP IN FUNCTIONAL NEUROIMAGING
+NATIONAL INSTITUTE OF MENTAL HEALTH, NIH 
+INTRAMURAL RESEARCH PROGRAM, BETHESDA, MD
+
+The Unit on Integrative Neuroimaging within the Clinical Brain Disorders Branch
+of the National Institute of Mental Health Intramural Research Program has an
+immediate opening for a postdoctoral fellow at the Bethesda campus of the
+National Institutes of Health.  This is a full-time research position which will
+last from two to five years.  The position is open to U.S. and non-U.S. citizens
+who are 1) recent Ph.D.'s in psychology, cognitive neuroscience, neuroscience,
+neuropharmacology, computer science, or other applicable discipline or 2) M.D.'s
+with residency training in psychiatry, neurology, nuclear medicine, radiology or
+other relevant field.  The successful candidate will be part of a
+multidisciplinary team using functional neuroimaging to map brain activity and
+neurochemical mechanisms associated with normal higher cognitive function as
+well as dysfunction in neuropsychiatric illnesses such as schizophrenia.  In
+addition to collaborative work within the team, he or she will be expected to
+carry out his or her own research.  Possible areas of concentration include 1)
+neurofunctional substrate of higher cognitive function, particularly as regards
+working memory and frontal lobe, 2) neurofunctional bases of neuropsychiatric
+illnesses, especially schizophrenia, 3) computational neuroscience, including
+statistical and systems approaches, and 4) neurochemical underpinnings of higher
+cognitive function and dysfunction.  The goal of these fellowships is to provide
+extensive experience in research design in neuroimaging, development of
+cognitive activation tasks for use in functional neuroimaging, collection of
+neuroimaging data, and image processing and analysis.  Familiarity with
+computers (especially Unix and C/C++) and statistical methods such as SPM and an
+interest in computational methods and cognitive neuroscience will confer an
+advantage but are not absolute requirements.  Stipends are competitive and
+depend on level of experience.  Send letter of interest outlining experience and
+research goals, CV, two letters of recommendation, and (for Ph.D.'s) graduate
+school transcript ASAP to: Karen F. Berman, M.D.; Chief, Unit on Integrative
+Neuroimaging; National Institutes of Health; NIH Building 10, Rm 4C101; 9000
+Rockville Pike; Bethesda MD 20892-1365 USA.  Phone: (301) 496-7603; FAX: (301)
+496-7437.
+
+The National Institute of Mental Health is an Equal Opportunity Employer.
+
+
+
+_______________________________
+Karen Faith Berman, M.D.
+Chief, Unit on Integrative Neuroimaging
+Clinical Brain Disorders Branch, NIMH, NIH
+Bldg. 10, Room 4C101
+9000 Rockville Pike
+Bethesda, MD 20892-1365
+phone: (301) 496-7603
+FAX: (301) 496-7437
+_______________________________ 
+                                 

@@ -1,0 +1,195 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Wed May 13 22:06:39 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id WAA14990;
+	Wed, 13 May 1998 22:06:33 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa02333;
+          13 May 98 11:12:45 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa02309;
+          13 May 98 10:47:49 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07473;
+          13 May 98 10:47 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa18896; 13 May 98 6:56 EDT
+Received: from mail.british-airways.com by RI.CMU.EDU id aa11392;
+          13 May 98 6:53:29 EDT
+Received: from baw-gw.british-airways.com by bawhub1.british-airways.com (X.400 to RFC822 Gateway); Wed, 13  May  1998 10:52:09 Z
+X400-Received: by mta BAWMTA in /c=gb/admd=attmail/prmd=ba/; Relayed; 
+  13 May 1998 10:52:08 Z
+X400-Received: by /c=GB/admd=ATTMAIL/prmd=BA/; Relayed; 13 May 1998 10:50:16 Z
+X400-MTS-Identifier: [/c=GB/admd=ATTMAIL/prmd=BA/; BSC400A1 980513105012690511]
+Content-Identifier: ANNOUNCEMENT: NC
+Content-Return: Prohibited
+X400-Content-Type: P2-1984 ( 2 )
+Conversion: Allowed
+Original-Encoded-Information-Types: IA5-Text
+Priority: normal
+Disclose-Recipients: Allowed
+Alternate-Recipient: Prohibited
+X400-Originator: Simon.N.CUMMING@British-Airways.com
+X400-Recipients: Connectionists@cs.cmu.edu
+Message-Id: <"BSC400A1 980513105012690511*/c=GB/admd=ATTMAIL/prmd=BA/o=British Airways PLC/s=CUMMING/g=SIMON/i=N/"@MHS>
+Date: 13 May 1998 10:50:16 Z
+From: Simon.N.CUMMING@British-Airways.com
+To: OASXGW2 -00000001 * <Connectionists@cs.cmu.edu>
+Subject: ANNOUNCEMENT: NCAF Conference, Derby, UK, 30Jun-1Jul98
+Status: RO
+X-Status: 
+
+ 
+ 
+     NEURAL COMPUTING APPLICATIONS FORUM CONFERENCE, 30 JUNE - 1 JULY 1998
+     DERBY, ENGLAND.
+ 
+     The purpose of the Neural Computing Applications Forum (NCAF) is to
+     promote widespread exploitation of neural computing technology by:
+ 
+     ]providing a focus for neural network practitioners
+     ]disseminating information on all aspects of neural computing
+     ]encouraging close co-operation between industrialists and academics
+ 
+     The Summer meeting will be hosted by
+         --------------
+ 
+     Rolls-Royce in Derby, UK,
+      on Tuesday 30th June and Wednesday 1st July.
+ 
+ 
+     For the first time NCAF will be visiting Derby where the host
+     organisation will be Rolls-Royce. This is the home for the current
+     NCAF chairman, Peter Cowley. His team is arguably the leading UK
+     industrial group in the application of Neural and other AI techniques.
+ 
+ 
+     The 2 days will be packed with applications oriented papers as usual.
+     There will also be adequate time for networking with other
+     practitioners, during coffee, lunch and the Tuesday evening
+     event......
+ 
+ 
+     NCAF Conference in DERBY 30th June - 1st July 1998
+     ==================================================
+ 
+     Programme
+     ---------
+ 
+     Tuesday 30th June 1998
+     ----------------------
+ 
+ 
+     Introduction and Welcome
+     Peter Cowley, Rolls-Royce
+ 
+     Tutorial: Genetic Algorithms - An Evolutionary Tale
+     Rachel Pearce, Rolls-Royce
+ 
+     Condition Monitoring Using Kernel Density Estimation
+     Matt Desforges and Phil Jacob, University of Manchester
+ 
+     Invited Talk: Support Vector Machines
+     Alex Gammerman, Royal Holloway College
+ 
+     Cleaning Aircraft Data
+     Paul Zanelli, University of York
+ 
+     Neural Network Applications in Ship Survivability
+     Philip Thompson, DERA Rosyth
+ 
+ 
+ 
+     Wednesday 1st July 1998
+     -----------------------
+ 
+     What Can Neurons Compute?
+     Gary Green, University of Newcastle
+ 
+     Time and Relative Dimensions in Space with ANN
+     Paul Beatty and David Asbridge, University of Manchester
+ 
+     Wavelet Feature Extraction for Pattern Recognition
+     Wieslaw Staszewski, University of Sheffield
+ 
+     Case Studies in Finance
+     Doug Hird, Abbey National
+ 
+     Recent Applications
+     Brian Kett, Neural Computer Sciences
+ 
+ 
+     Social Programme
+     ----------------
+ 
+     The City Centre Ghost Walk (30 June, evening). The story begins to
+     unfold when you leave Derby Heritage Centre and head towards Lock-up
+     Yard. A moment's reprieve permits the Ghosthunter to partake in liquid
+     refreshment in the Tiger Bar before you are taken into the
+     barrel-vaulted tunnels beneath Market Hall. The story continues as you
+     head across Market Place towards The Bell; eventually ending the first
+     leg of the tour at Lafferty's. Subject to their availability visits to
+     the Police Museum and the Shire Hall are included before returning to
+     the Centre for a Ghosthunter's Supper.
+ 
+     plus
+ 
+     Puzzle Corner: Dumb and Dumber
+ 
+     Graham 'Rottweiler' Hesketh (Rolls-Royce)
+ 
+     .....
+ 
+     Also
+ 
+     Rolls-Royce Advanced Technology Exhibition
+     An opportunity for an informal tour of the aerospace exhibition
+ 
+     .....
+ 
+ 
+ 
+     --------------------------------------------------------------
+ 
+     Conference fees (in Sterling):
+     ---------------
+ 
+     100 pounds for non-members (lunch and evening social event extra).
+     20 pounds for NCAF members (lunch and evening social event extra).
+ 
+     Membership fees:
+     ---------------
+     All amounts are in pounds Sterling, per annum.
+     All members receive a quarterly newsletter and are eligible to vote at
+     the AGM (but see note on corporate membership).
+ 
+     Full (Corporate) Membership : 300 pounds
+     (allows any number of people in the member organisation to attend
+     meetings at member rates; voting rights are restricted to one, named,
+     individual. Includes automatic subscription to the journal Neural
+     Computing and Applications.)
+ 
+     Individual Membership :  170 pounds
+     (allows one, named, individual to attend meetings at member rates;
+     includes journal)
+ 
+     Associate Membership:  110 pounds: includes subscription to the
+     journal and newsletter but does not cover admission to the meetings.
+ 
+     Reduced (Student) Membership : 65 pounds including Journal; 30 pounds
+     without journal. Applications for student membership should be
+     accompanied by a copy of a current full-time student ID card, UB40,
+     etc.
+ 
+     -------------------------------------------------------------------
+ 
+     For further information please e-mail NCAFsec@brunel.ac.uk
+ 
+     or Phone our Voice Mail on (+44/0)1784 477271
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,59 @@
+
+
+From ebert@cs.umbc.edu Tue Mar  3 22:35:32 MET 1998
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id WAA03717
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 3 Mar 1998 22:35:30 +0100 (MET)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id QAA22795
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 3 Mar 1998 16:26:15 -0500 (EST)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.7/8.8.6) id QAA12130
+	for fnielsen@eivind.imm.dtu.dk; Tue, 3 Mar 1998 16:26:15 -0500 (EST)
+Date: Tue, 3 Mar 1998 16:26:15 -0500 (EST)
+Message-Id: <199803032126.QAA12130@dogbert.cs.umbc.edu>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: CFP: IEEE Visualization '98
+Status: RO
+X-Status: 
+
+
+			  Submit A Paper To 
+			IEEE VISUALIZATION '98
+			 October 18 -23, 1998
+		      Research Triangle Park, NC
+
+
+Paper Submissions (due March 31, 1998):
+
+Papers are solicited that present research results related to all
+areas of visualization.  Original papers should be limited to 5,000
+words. The submission of NTSC VHS video (up to 5 minutes in length) to
+accompany the paper is strongly recommended. Please submit 7 copies of
+all materials. An electronic submission form must be completed for
+each submission. Accepted papers will be included in the conference
+proceedings; the videos will be included in the conference video
+proceedings.
+
+For submissions and questions contact:
+
+     Holly Rushmeier
+     IBM TJ Watson Research Center
+     30 Saw Mill River Road
+     Hawthorne, NY 10532
+     Phone: 914-784-7252
+     Fax: 914-784-7667
+     Email: holly@watson.ibm.com
+
+
+
+
+For more information, please see http://www.csee.umbc.edu/~ebert/vis98
+
+
+Sincerely,
+
+D. Ebert, H. Hagen, and H. Rushmeier
+Papers Co-Chairs, IEEE Visualization '98
+ebert@csee.umbc.edu

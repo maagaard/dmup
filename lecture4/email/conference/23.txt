@@ -1,0 +1,53 @@
+
+
+From www-vrml-approval@vrml.org Wed Jul  9 13:21:28 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id TAA00640 for <fnielsen@eivind.imm.dtu.dk>; Wed, 9 Jul 1997 19:21:26 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id JAA29070; Wed, 9 Jul 1997 09:48:22 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id JAA29045; Wed, 9 Jul 1997 09:48:19 -0400 (EDT)
+Received: from ece.uwaterloo.ca by world.std.com (5.65c/Spike-2.0)
+	id AA00741; Wed, 9 Jul 1997 09:48:18 -0400
+Received: from watt.uwaterloo.ca (watt.uwaterloo.ca [129.97.56.5])
+	by ece.uwaterloo.ca (8.8.5/8.8.5) with ESMTP id JAA29933;
+	Wed, 9 Jul 1997 09:48:04 -0400 (EDT)
+From: Bernie Roehl <broehl@ece.uwaterloo.ca>
+Received: (from broehl@localhost)
+	by watt.uwaterloo.ca (8.8.5/8.8.5) id JAA12474;
+	Wed, 9 Jul 1997 09:48:03 -0400 (EDT)
+Message-Id: <199707091348.JAA12474@watt.uwaterloo.ca>
+Subject: VRML 98 Committee
+To: www-vrml@vrml.org, vrml98pc@curve.net
+Date: Wed, 9 Jul 1997 09:48:02 -0400 (EDT)
+X-Mailer: ELM [version 2.4 PL25]
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+(This is sent to both the vrml98pc and www-vrml lists; apologies to those
+who see it twice)
+
+The VRML 98 Organizing Committee is now in place.  The current list of
+members is in
+
+       http://ece.uwaterloo.ca/~broehl/vrml/vrml98comm.html 
+
+The list is based on those who have gotten in touch with me directly in the
+last few weeks.  If you would like to get involved, we'd love to have you
+aboard; just drop me some email and we'll fit you it.
+
+Thanks!
+
+-- 
+   Bernie Roehl
+   University of Waterloo Dept of Electrical and Computer Engineering
+   Mail: broehl@sunee.uwaterloo.ca    Voice:  (519) 888-4567 x 2607 [work]
+   URL: http://sunee.uwaterloo.ca/~broehl/bernie.html
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

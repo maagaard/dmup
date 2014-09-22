@@ -1,0 +1,87 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jan  7 03:00:08 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA26123;
+	Thu, 7 Jan 1999 03:00:01 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15376;
+          6 Jan 99 19:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15374;
+          6 Jan 99 19:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14457;
+          6 Jan 99 19:43 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa21820; 6 Jan 99 15:23 EST
+Received: from smtp4.ny.us.ibm.com by RI.CMU.EDU id aa06247;
+          6 Jan 99 15:22:52 EST
+Received: from northrelay01.pok.ibm.com (northrelay01.pok.ibm.com [9.117.200.21])
+	by smtp4.ny.us.ibm.COM (8.8.7/8.8.7) with ESMTP id PAA27576
+	for <Connectionists@cs.cmu.edu>; Wed, 6 Jan 1999 15:08:30 -0500
+From: mpp@us.ibm.com
+Received: from D51MTA03.pok.ibm.com (d51mta03.pok.ibm.com [9.117.200.31])
+	by northrelay01.pok.ibm.com (8.8.7m1/NCO v1.7) with SMTP id PAA215242
+	for <Connectionists@cs.cmu.edu>; Wed, 6 Jan 1999 15:24:11 -0500
+Received: by D51MTA03.pok.ibm.com(Lotus SMTP MTA Internal build v4.6.2  (651.2 6-10-1998))  id 852566F1.00701137 ; Wed, 6 Jan 1999 15:24:04 -0500
+X-Lotus-FromDomain: IBMUS
+To: Connectionists@cs.cmu.edu
+Message-ID: <852566F1.00700E84.00@D51MTA03.pok.ibm.com>
+Date: Wed, 6 Jan 1999 15:07:04 -0500
+Subject: Job announcement: IBM Pen Computing Group
+Mime-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Status: RO
+X-Status: 
+
+======>   R&D Positions at IBM   <======
+
+The Pen Computing Group at the IBM T.J. Watson Research Center
+is looking for highly motivated individuals to fill R&D positions in the
+area of large-vocabulary, unconstrained, handwriting recognition.
+
+Candidates should have the following qualifications:
+     - MS/PhD in EE, CS, Math, Physics or similar field
+     - Strong mathematics/probability background
+     - Excellent programming skills (in C and C++)
+     - Creativity
+     - Ability to work well as part of a team
+     - Ability to direct their own research
+     - Interest in creating a marketable product
+
+======>   Background   <======
+
+Our current projects include:
+     - HMM-based, unconstrained, handwriting recognition
+     - Language and grammar modeling
+     - Accurate, high-speed, search methods
+     - Document understanding and processing
+     - Pen computing
+
+We have licensed our group's technology for the recently introduced
+CrossPad (http://www.cross-pcg.com) which enables users to
+efficiently index, search and manipulate their hand-written notes on
+their PC using a normal pad of paper.
+
+The IBM T.J. Watson Research Center is one of the top industrial
+laboratories in the world. We offer an exciting research environment
+with the opportunity to become involved in all aspects of cutting edge
+technology in the computer industry.
+
+======> Contact Information <======
+
+Please send CV's to:
+
+Michael P. Perrone
+mpp@us.ibm.com
+
+-or-
+
+Michael P. Perrone
+IBM T.J. Watson Research Center - 36-207
+Route 134
+Yorktown Heights, NY 10598
+914-945-1779
+
+
+
+
+

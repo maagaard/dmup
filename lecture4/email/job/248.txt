@@ -1,0 +1,103 @@
+
+
+From spm-request@mailbase.ac.uk Mon Dec 13 15:34:21 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id PAA17641
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 13 Dec 1999 15:34:20 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id OAA05716;
+	Mon, 13 Dec 1999 14:34:59 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id OAA01914;
+        Mon, 13 Dec 1999 14:27:06 GMT
+Received: from nail.mailbase.ac.uk (nail.mailbase.ac.uk [128.240.226.4]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id OAA01885;
+        Mon, 13 Dec 1999 14:27:01 GMT
+Received: from freya.let.rug.nl (root@freya.let.rug.nl [129.125.8.12]) 
+        by nail.mailbase.ac.uk (8.8.x/Mailbase Relay) with ESMTP id OAA20658;
+        Mon, 13 Dec 1999 14:12:22 GMT
+Received: from let1.let.rug.nl (let1.let.rug.nl [129.125.8.99])
+	by freya.let.rug.nl (8.8.7/8.8.7) with ESMTP id PAA18872;
+	Mon, 13 Dec 1999 15:12:24 +0100 (MET)
+Message-Id: <199912131412.PAA18872@freya.let.rug.nl>
+Received: from LET1/SpoolDir by let1.let.rug.nl (Mercury 1.46);
+    13 Dec 99 15:12:25 +0200
+Received: from SpoolDir by LET1 (Mercury 1.46); 13 Dec 99 15:12:17 +0200
+Organization: Faculteit der Letteren, RuG, NL
+Date: Mon, 13 Dec 1999 15:12:12 +0200
+MIME-Version: 1.0
+Content-type: text/enriched; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+Priority: normal
+X-mailer: Pegasus Mail for Win32 (v3.01d)
+Subject: postdoctoral fellowshipavailable--please post
+From: "L.A. Stowe" <L.A.Stowe@let.rug.nl>
+To: spm@mailbase.ac.uk, cognitive.neuroscience.society@dartmouth.edu,
+        psyling@psy.gla.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "L.A. Stowe" <L.A.Stowe@let.rug.nl>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7BIT
+Status: RO
+X-Status: 
+
+<color><param>0100,0100,0100</param><smaller>Please post the following advertisement.
+
+
+<bold>Functional MRI Postdoctoral Position
+
+School of Behavioral and Cognitive Neuroscience
+
+University of Groningen, The Netherlands
+
+
+</bold>A two-year post-doctoral fellowship to start as soon as possible.  The 
+candidate should have some experience with neuroimaging, preferably using 
+functional magnetic resonance imaging applied to an area of 
+neurology/neuropsychology/neurolinguistics. Expertise in either the 
+methodology itself or in the statistical analysis of such data is desired or 
+equivalent experience which can readily be extended for use with this 
+methodology.
+
+
+The focus of the project is the use of the neuro-imaging technique of functional 
+MRI to investigate the processing of language by normal adults and by groups 
+with various language processing problems.  The postdoctoral fellow will 
+function as part of a tema with responsibility for developing the methodology to 
+be applied in such studies and analyzing experimental data.  The experiments 
+will be coordinated with other research within the project, with the goal of 
+developing a set of paradigms which can be applied across a variety of 
+neurological conditions to extend our knowledge of the variation within within 
+the neuroanatomy of language processing.
+
+
+To apply, send a cv and letters of recommendation, and references to articles 
+available viainternet to L.A.Stowe@let.rug.nl.  The letters of recommendation 
+may also be electronic.  If you wish to apply by mail, use the address below.
+
+
+Forfurther information, please contact Dr. Laurie A. Stowe at:
+
+Dept. of Linguistics					+31 50 6366627
+
+Faculty of Letters RuG
+
+Postbus 716
+
+9700 AS  Groningen, Netherlands		or: 	L.A.Stowe@let.rug.nl
+
+
+
+
+<nofill>
+Laurie A. Stowe                             Postbus 716
+Dept. of Linguistics                        9700 AS  Goningen
+Faculty of Letters RuG                      The Netherlands
+
+tel:  +31 50 363 6627
+fax:  +31 50 363 6855
+email:  L.A.Stowe@let.rug.nl

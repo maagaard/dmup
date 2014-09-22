@@ -1,0 +1,88 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov  6 01:12:01 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA06546;
+	Fri, 6 Nov 1998 01:11:50 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02273;
+          5 Nov 98 16:12 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02176;
+          5 Nov 98 15:32 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa02224;
+          5 Nov 98 15:32 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27426; 4 Nov 98 6:05 EST
+Received: from hilbert.cs.titech.ac.jp by EDRC.CMU.EDU id aa22869;
+          4 Nov 98 6:04:56 EST
+Received: by hilbert.cs.titech.ac.jp (8.6.11+2.4W/3.2W-titmx-2.0gs); Wed, 4 Nov 1998 20:04:51 +0900
+Message-Id: <199811041104.UAA01071@hilbert.cs.titech.ac.jp>
+To: connectionists@cs.cmu.edu
+cc: ogawa@cs.titech.ac.jp
+Subject: Ninth T.I.T. Brain Research Symposium
+Date: Wed, 04 Nov 1998 20:04:50 +0900
+From: Hidemitsu Ogawa <ogawa@cs.titech.ac.jp>
+Status: RO
+X-Status: 
+
+
+Appended below is the program for the Ninth T.I.T. Brain Research 
+Symposium.
+
+Hidemitsu Ogawa
+The Ninth T.I.T. Brain Research Symposium General Chair
+--------------------------------------------------------------------
+
+
+*************************************************************
+          The Ninth T.I.T. Brain Research Symposium
+*************************************************************
+                    December 11, 1998
+              Tokyo Institute of Technology
+ Ferrite Room of Centennial Memorial Hall, Oookayama Campus
+--------------------------------------------------------------------
+
+10:00-10:10  Opening  
+             Hidemitsu Ogawa (T.I.T. Graduate School of Information Science
+             and Engineering)
+		                                                     
+10:10-11:10  Synapse mechanism of pheromonal memory (Invited)
+             Masumi Ichikawa（Tokyo Metropolitan Institute for Neuroscience） 
+
+11:10-11:50  Manipulation technology of individual molecules for brain
+             research: A Challenge in nanoworld
+             Atsushi Ikai （T.I.T. Faculty of Biosciences and Biotechnology）
+
+                  	--- Lunch --- 
+
+13:00-13:40  Study of learning circuit for odor sensor using
+             1bit-stream dataprocessing circuit
+             Takamichi Nakamoto, Satoshi Kawamura, and Toyosaka Moriizumi 
+             (T.I.T. Faculty of Engineering) 
+
+13:40-14:20  Holographic neural computation with weighted sum performed 
+             by wave interference: Simulation by software models and 
+             hardware implementation
+             Itsuo Kumazawa (T.I.T. Graduate School of Information Science and
+             Engineering)
+	             
+14:20-15:00  Neural networks and motivation：What will make it to do?
+             Yukio Kosugi（T.I.T. Interdisciplinary Graduate School of Science
+             and Engineering）
+
+  		        --- Break --- 
+
+15:20-16:00  Recent advance in probabilistic analysis for complex
+             learning machines
+             Sumio Watanabe（T.I.T. Precision and Intelligence Laboratory）
+   
+16:00-17:00  Dynamic independent component analysis in application to 
+             biomedical signal processing: Recent results and open 
+             problems (Invited)
+             Andrzeij Cichocki（RIKEN Brain Science Institute)
+
+
+                                                    (admission: free)
+-------------------------------------------------------------------------
+General Chair：Prof. Hidemitsu Ogawa (Tokyo Institute of Technology,
+               Graduate School of Information Science and Engineering)
+Secretariat  ：Dr.Yukio Kosugi/Email:kosugi@pms.titech.ac.jp
+-------------------------------------------------------------------------

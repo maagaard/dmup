@@ -1,0 +1,272 @@
+
+
+From www-vrml-approval@vrml.org Mon Sep  8 21:44:30 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id DAA09915 for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Sep 1997 03:44:28 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id TAA16123; Mon, 8 Sep 1997 19:31:15 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id TAA16102; Mon, 8 Sep 1997 19:31:10 -0400 (EDT)
+Received: from wired.com (get.wired.com) by world.std.com (5.65c/Spike-2.0)
+	id AA14916; Mon, 8 Sep 1997 19:31:09 -0400
+Received: from mail.virginia.edu (mail.Virginia.EDU [128.143.2.9]) by wired.com (8.8.6/8.7.3) with SMTP id QAA15232; Mon, 8 Sep 1997 16:31:06 -0700 (PDT)
+Received: from curry.edschool.virginia.edu by mail.virginia.edu id aa19857;
+          8 Sep 97 19:31 EDT
+Received: (from aace@localhost) by curry.edschool.Virginia.EDU (8.8.5/8.6.6) id TAA48610; Mon, 8 Sep 1997 19:31:03 -0400
+From: Assoc Advancement Computers Education <aace@curry.edschool.virginia.edu>
+Message-Id: <199709082331.TAA48610@curry.edschool.Virginia.EDU>
+Subject: WebNet 97 (Toronto) Advance Program
+To: AACE <aace@virginia.edu>
+Date: Mon, 8 Sep 97 19:31:02 EDT
+X-Mailer: ELM [version 2.3.1 PL11]
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+For the complete WebNet 97 Advance Program, see
+                  http://www.aace.org/conf/webnet
+
+__________________________________________________________
+                        W e b N e t  97
+
+        WORLD CONFERENCE OF THE WWW, INTERNET & INTRANET
+
+                Nov. 1-5, 1997  *  Toronto, CANADA
+                         Royal York Hotel
+
+                         Organized by
+ AACE-Association for the Advancement of Computing in Education
+       in cooperation WWW/Internet businesses & industry
+___________________________________________________________
+
+                         >> CONTENTS <<
+
+1. Advance Program Online/Early Registration Deadline Sept. 15th
+2. Introduction & Program Activities
+4. Tutorials & Workshops
+5. Keynote & Invited Speakers
+6. Corporate/Development Seminars
+7. Business/Corporate Sessions
+8. Exhibit Space & Sponsorship Opportunities Still Available
+9. Major Topics
+10. Information Request Form
+
+
+Advance Program Online/Early Registration Deadline Sept. 15th
+---------------------------------------------------------------
+The WebNet 97 Advance Program / Registration is online and includes
+information on all program activities listed above.  Also listed are all
+sessions.
+
+For the Advance Program or to Register, see--
+                 http://www.aace.org/conf/webnet
+
+The early registration date for WebNet 97 is less than one week away on
+Sept. 15th.  Take advantage of this discount and register today.  
+
+Early registration also helps ensure that you can reserve space in the
+tutorial/workshop(s) of your choice.
+
+
+Introduction & Program Activities:
+-----------------------------------
+WebNet 97 serves as a multi-disciplinary, international forum for the
+exchange of information on the development, applications, and research on
+all topics related to the Web and Internet. This encompasses the use,
+applications and societal and legal aspects of the Internet in its broadest
+sense.
+
+         *** Over 300 Presentations in 31 Major Topic Areas ***
+
+  * Keynote Speakers  * Invited Speakers * Corporate/Devel. Seminars
+  * Papers            * Panels           * Posters/Demos
+  * Workshops         * Tutorials        * Business/Corp Sessions
+  * SIG Discussions   * Exhibition       * Social Program
+
+
+Tutorials & Workshops
+---------------------
+Advanced HTML and Dynamic Web Page Creation Using Javascript and CGI
+Tomasz and Michael Muldner, Acadia Univ., Canada
+
+Applying the Usability First Approach to the Design of Web Sites
+Jim Carter, Univ. of Saskatchewan, Canada
+
+Intranet Planning
+Gordon Howell, Internet Business Services Ltd., UK
+
+Introduction to VRML, Parts I & II
+Dave Nadeau, San Diego Supercomputer Center, USA
+
+Java Database Connectivity
+Bill Pringle, Internet Business Services Ltd., UK
+
+Multimedia on the Internet
+Borko Furht, Florida Atlantic Univ., USA
+
+Tools for W3 Lessonware Development
+Phil Siviter, Univ. of Brighton, UK
+
+Using Java Applets in Web Pages
+Tomasz and Michael Muldner, Acadia Univ., Canada
+
+Web-based Instruction: A Practical Workshop
+Robby Robson
+Oregon State Univ., USA
+
+
+Keynote & Invited Speakers
+----------------------------
+Agents and Electronic Commerce
+Pattie Maes, MIT, USA
+
+Avatars: CyberSpace with a Human Face:
+Stories from Life in Virtual Worlds on the Internet
+Bruce Damer, DigitalSpace Corp., USA
+
+Current Trends in Electronic Commerce
+Gabby Silberman, IBM, Canada
+
+Picture Perfect: The Opportunities and Challenges for High Resolution
+Imagery on the Internet.
+Ira Goldstein, Hewlett-Packard, USA
+
+Zephyr: A Secure Internet-Based Process to Streamline Engineering
+Cecil Jordan
+Lawrence Livermore National Laboratory, USA
+
+Web Based Knowledge Transfer in a Large International Company
+John Boot, Motorola, Inc., USA
+
+"WWW from WWW" (What We Want from World Wide Web)
+Hermann Maurer, Graz Univ. of Technology, Austria
+
+
+Corporate/Development Seminars
+------------------------------
+WebNet 97 will offer Corporate/Development Seminars by industry leaders
+from the following companies:
+   - IBM
+   - Microsoft
+   - Silicon Graphics
+   - Hyperwave
+
+These seminars will include demonstrations and discussions of new
+developments by these companies.  Participants will learn new skills and
+receive an understanding related to products, ideas, and solutions.
+
+
+Business/Corporate Sessions
+---------------------------
+Leaders from the following companies will participate (partial list):
+
+Apple Canada 
+AT&T
+Corel
+IBM Canada
+Intel
+Microsoft, Inc.
+Lockheed Martin
+Nortel Technology
+Novell
+Oracle Education
+Silicon Graphics, Inc.
+Simon & Schuster
+SunSoft
+
+
+Exhibit Space & Sponsorship Opportunities Still Available
+----------------------------------------------------------
+WebNet 97 offers exhibitors the opportunity to interact with top level
+developers, educators, researchers and administrators gathered for the
+specific purpose of exploring the present and future state of the WWW,
+Internet, and Intranet.  If your company or organization has a product or
+service that furthers this goal, you need to participate in WebNet 97
+
+To request further information on exhibiting/sponsoring opportunities,
+contact Garrett Paulin, email: garrett@aace.org
+Phone: 804-973-3987; Fax: 804-978-7449
+
+See Exhibitor/Sponsorship Information in the WebNet 97 Advance Program at--
+                 http://www.aace/org/conf/webnet
+
+
+Major Topics
+------------
+Advances in Multimedia
+Application Development Tools
+Authoring Tools
+Browsing and Navigation Tools
+Collaborative Learning and Work
+Computer-Human Interface (CHI) Issues, 
+Country Specific Developments
+Courseware Development
+Data and Link Management
+Didactic Issues for Web Presentations
+Digital Libraries and Museums
+Distance Education
+Educational Multimedia
+Electronic Commerce
+Electronic Publishing and Design
+Future Issues in Web Technology
+Industries and Services
+Integration of Web Applications and Services
+JAVA Technology Applications
+Legal Issues
+Net-Based Multimedia/Hypermedia Systems
+Psychology of Web-Use
+Search Engines
+Security and Privacy
+Social and Cultural Issues
+Statistical Tools and User Tracking
+Teaching
+Training
+Virtual Reality
+Web Servers
+Web Site Tools
+
+              O /                               O /
+------------ x  ---------  Cut Here  --------- x ---------------
+              o \                               o \
+                       -------------------
+                       INFORMATION REQUEST
+                       -------------------
+
+To receive future WebNet 97 announcements, please complete
+this form and return to the address below or use the electronic form at
+http://www.aace.org/conf/webnet
+
+  Name: _________________________________________________________
+
+  Address: ______________________________________________________
+
+  _______________________________________________________________
+
+  City/State/Code: ______________________________________________
+
+  Country: ______________________________________________________
+
+  E-Mail: _______________________________________________________
+
+  Phone: ________________________________________________________
+
+Please send me:
+ __  WebNet 97 Conference Advance Program/Registration material
+ __  Conference proceedings ordering information
+ __  Exhibitor booth/Sponsor order information
+ __  Brochure on Association for the Adv. of Computing in Ed.
+ __  Other information (please specify) _________________________
+
+Return to: WebNet 97/AACE
+           P.O. Box 2966
+           Charlottesville, VA 22902 USA
+           E-mail: AACE@virginia.edu;  http://www.aace.org
+           Voice: 804-973-3987;  Fax: 804-978-7449
+================================================================
+
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

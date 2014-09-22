@@ -1,0 +1,287 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Mar  1 08:56:14 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA11251;
+	Mon, 1 Mar 1999 08:54:43 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02967;
+          1 Mar 99 1:17 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02964;
+          1 Mar 99 1:11 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19685;
+          1 Mar 99 1:10 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa15117; 28 Feb 99 8:22 EST
+Received: from [203.30.198.1] by CS.CMU.EDU id aa11189; 28 Feb 99 8:22:13 EST
+Received: from 203.30.198.51 (unverified [203.30.198.51]) by gateworld.at.net.au
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000343349@gateworld.at.net.au>;
+ Sun, 28 Feb 1999 21:29:07 +0800
+Received: from tower0.at.net.au (unverified [203.30.198.202]) by enterprise.at.net.au
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000024532@enterprise.at.net.au>;
+ Sun, 28 Feb 1999 21:04:16 +0800
+Received: by tower0.at.net.au with Internet Mail Service (5.5.1960.3)
+	id <FV21ZF25>; Sun, 28 Feb 1999 21:11:25 +0800
+Message-ID: <51540563F42FD2119B8600002139404504F3F3@tower0.at.net.au>
+From: Dorota Kieronska <dorota@at.net.au>
+To: connectionists@cs.cmu.edu
+Subject: CFP: ICONIP'99
+Date: Sun, 28 Feb 1999 21:11:19 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.1960.3)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Status: RO
+X-Status: 
+
+
+************************************** 
+*                                    *
+* ICONIP'99                          *
+* jointly with                       *
+* ANZIIS'99 and ANNES'99 and ACNN'99 *
+*                                    *
+************************************** 
+
+The 6th International Conference on Neural Information Processing--
+jointly with the 7th Australian and New Zealand International
+Conference on Intelligent Information Processing Systems, and the
+5th New Zealand International Conference on Artificial Neural
+Networks and Expert Systems, and the 11th Australian Conference
+on Neural Networks. 
+
+************************
+*                      *
+* 16-20 November, 1999 *
+* Perth, Australia     *
+*                      *
+************************ 
+
+In 1999, the annual conference of the Asian Pacific Neural Network
+Assembly, ICONIP'99, will be held jointly with three other major
+international conferences in the Asian Pacific Region, from 16 to
+20 November 1999 in Perth, Western Australia. 
+The joint conference will have three parallel streams: 
+
+************************************************************ 
+*
+* Stream1: Biological Neural Information Processing *
+* Stream2: Neural Information Processing and Soft Computing *
+* Stream3: Applied Techniques *
+*
+************************************************************ 
+
+TOPICS OF INTEREST
+
+Stream 1: Biological Neural Information Processing
+Neurobiological systems
+Cognition
+Cognitive models of the brain
+Dynamical modelling, chaotic processes in the brain
+Brain computers, biological computers
+Consciousness, awareness, attention
+Adaptive biological systems
+Modelling emotions
+Perception, vision 
+Learning languages 
+
+Stream 2: Neural Information Processing and Soft Computing
+Soft computing--paradigms, methods, tools
+Artificial neural network models, architectures and algorithms
+Evolutionary programming and genetic algorithms
+Fuzzy systems
+Optimisation
+Expert systems
+Artificial life
+Adaptive systems
+Approximate reasoning
+Hybrid and ensemble systems
+Distributed AI systems, agent-based systems
+Machine learning, data mining and intelligent databases
+Probabilistic and statistical methods 
+
+Stream 3: Applied techniques and Intelligent information systems
+Intelligent information retrieval systems
+Pattern recognition and image processing
+Speech recognition and language processing
+Human-computer interfaces, web computing
+Robotics and mechatronics
+Information engineering
+Time-series prediction
+Intelligent control
+Virtual reality
+Application of intelligent information technologies in:
+engineering, process industries, law, finance and business,
+medicine and sport, geographic information systems, geology,
+data mining, environmental protection, ... 
+
+************************************************************************
+
+HONORARY CHAIR
+Shun-Ichi Amari, Tokyo University 
+
+GENERAL CONFERENCE CHAIR,
+Tamas (Tom) Gedeon, University of New South Wales 
+
+GENERAL CONFERENCE CO-CHAIR
+Yianni Attikiouzel, University of Western Australia
+Marwan Jabri, University of Sydney
+Nikola Kasabov, University of Otago 
+
+PROGRAM COMMITEE CO-CHAIRS
+K Fukushima (jp), T Gedeon, S Halgamuge (au), N Kasabov (nz), D Nauck (de) 
+
+INTERNATIONAL PROGRAM COMMITTEE (TENTATIVE)
+T Adams (fj), D Aha (us), D Alahakoon (au), I Aleksander (uk), S Amari (jp),
+J Andreae (nz), Y Attikiouzel (au), J Austin (uk), J Baldwin (jp),
+P Bartlett (au), A Bastian, J Bezdek (us), R Bogner (au),
+B Bouchon-Meunier (fr), B Bruegge (de), A Bulsara (us), T Caelli (au),
+T Chen (cn), V Cherkassky (us), S Cho, S Cho (kr), A Cichocki (jp),
+I Cloete (za), R Coggins (au), G Coghill (nz), G Deboeck (us), J Diederich,
+V Dimitrov (au), L Ding (sg), T Downs (au), W Duch (pl),
+W Dunin-Barkowski (su), R Eckmiller (de), F Esteva (es), E Falkenauer (be),
+M Fedrizzi (it), B Flower (au), D Fogel (us), W Friedrich (nz), K Fukushima,
+T Furuhashi (jp), T Gedeon (au), M Glesner (de), J Grantner (us),
+S Halgamuge (au), M Hassoun (us), H Hellendoorn (nl), T Hendtlass (au),
+K Hirota (jp), A Hoffmann, J Hughes (au), M Ishikawa (jp), M Jabri,
+I Jagielska, L Jain (au), M Jamshidi (us), A Jennings (au), S Jones (uk),
+J Kacprzyk (pl), V Karri (au), N Kasabov (nz), O Katai, H Kawakami (jp),
+O Kaynak (tr), L Koczy, S Kovacs (hu), A Kowalczyk (au), W Kurutach (th),
+R Kozma (nz), R Kruse (de), D Lakov (bg), S Lee (kr), B Lees, D Levy (au),
+M Lim (sg), P Maheshwari (au), R Marks (us), F Masulli (it), G Matsumoto (jp),
+D McMichael (au), J Miller (nz), S Mitra (us), M Mizumoto (jp), N Morgan (us),
+M Mukaidono, T Musha, T Nagano (jp), D Nauck (de), M Negnevitsky (au),
+M Negoita (us), C Newton, C Latimer (au), R O'Shea (nz), E Oja (fi),
+Y Okabe (jp), N Pal, S Pal (in), M Palaniswami (au), G Pasi (it),
+L Patnaik (in), M Paulin (nz), D Pham (uk), A Ralescu (tr), B Reusch (de),
+L Reznik (au), D Ruan (be), I Rudas (hu), P Sallis (nz), E Sanchez (fr),
+D Saffen, Y Sato (jp), B Schuermann (de), O Simula (fi), U Srinivasan (au),
+S Sugiyama (jp), R Sun, H Szu (us), M Takacs (yu), H Takagi (jp),
+J Taylor (uk), A Topchy (ru), P Treleavan (uk), N Tschiold-Guerman (ch),
+A Tsoi (au), Y Tsujimura, M Tsukada, E Uchino, S Usui (jp), J Herik (nl),
+V Vapnik, R Vemuri (us), N Vojdani, W Wahlster (de), A Waibel (us), P Wallis,
+J Wiles, W Wilson, P Wong (au), L Xu (hk), T Yamakawa, T Yanaru (jp),
+X Yao (au), D Yun, L Zadeh, J Zurada (us)
+
+ORGANISING COMMITTEE CO-CHAIRS: 
+Patrick Wong (Chair), Tom Gedeon, Graham Mann, University of NSW 
+
+CONFERENCE ORGANISER
+Australis Promotions
+PO Box 1025, Bentley Delivery Centre
+Perth 6983, Australia
+phone: +61 8 9470 2552, fax: +61 8 9470 2727,
+email: iconip99@at.net.au <mailto:iconip99@at.net.au> 
+
+CALL FOR PAPERS
+Papers must be received by 16 April 1999. They will be reviewed by
+senior researchers in the field and the authors will be informed about
+the decision of the review process in July 1999. The accepted
+papers must be submitted in a camera-ready format by 31 August. All
+accepted papers will be published by IEEE Computer Society Press. As
+the conference is a multi-disciplinary meeting the papers are required
+to be comprehensible to a wider rather than to a very specialised
+audience. Papers will be presented at the conference either in an oral
+or in a poster session. Please submit five copies of the paper
+written in English on A4-format white paper with 2.5 cm margins on
+all four sides, in two column format, on not more than 6 pages,
+single-spaced, in Times or similar font of 10 points, and printed on
+one side of the page only. Centred at the top of the first page should
+be the complete title, author(s), mailing and e-mailing addresses,
+followed by an abstract and the text. In the covering letter the
+stream and the topic of the paper according to the list above should
+be indicated. The IEEE Transaction journals LaTex article style can be
+used. 
+
+SPECIAL ISSUES OF JOURNALS AND EDITED VOLUMES
+Selected papers will be published in special issues of scientific
+journals. The organising committee is looking for publications of
+edited volumes which include chapters covering the conference topics
+written by invited conference participants. 
+
+TUTORIALS (16 November)
+Conference tutorials will be organized to introduce the basics of
+cognitive modelling, dynamical systems, neural networks, fuzzy
+systems, evolutionary programming, soft computing, expert systems,
+hybrid systems, and adaptive systems. Proposals for tutorials are due
+on 15 March 1999. 
+
+EXHIBITION
+Companies and university research laboratories are encouraged to
+exhibit their developed or distributing software and hardware systems. 
+
+STUDENT SESSION
+Postgraduate students are encouraged to submit papers to this session
+following the same formal requirements for paper submission. The
+submitted papers will be published in a separate brochure. 
+
+VENUE (Perth) 
+The Conference will be held in Perth city. The closing session will be
+held on Saturday, 20 November at a scenic bush location following an
+outdoor seafood barbecue. 
+
+ACCOMMODATION
+Accommodation has been booked at the conference venue, and in the
+numerous Hotels nearby suitable for a range of budgets. Please see
+the web site for details after the paper deadline date. 
+
+POSTCONFERENCE EVENTS
+The ICONIP'99 post conference workshop and expo on "Future Directions
+for Intelligent Information Processing Systems" will be held in
+Dunedin, New Zealand from 22-23 November 1999. Please see the workshop
+homepage http://divcom.otago.ac.nz/infosci/kel/iconip99-workshop.htm.
+An affiliated post-conference workshop is the third Australia-Japan
+joint Workshop on Intelligent and Evolutionary Systems will be held in
+Canberra, Australia from 22-23 November 1999. Please see the workshop
+homepage http://www.cs.adfa.edu.au/conference/aj99/
+
+IMPORTANT DATES
+Papers due: 16 April 1999
+Proposals for tutorials: 1 March 1999
+Notification of acceptance: 15 July 1999
+Final camera-ready papers due: 31 August 1999
+Registration of at least one author of a paper: 31 August 1999
+Early registration: 31 August 1999 
+
+CONFERENCE CONTACTS, PAPER SUBMISSIONS, CONFERENCE
+INFORMATION, REGISTRATION FORMS
+Conference Secretariat ICONIP'99
+Australis Promotions
+PO Box 1025, Bentley Delivery Centre
+Perth 6983, Australia
+phone: +61 8 9470 2552, fax: +61 8 9470 2727,
+email: iconip99@at.net.au <mailto:iconip99@at.net.au>
+web: <http://www.at.net.au/iconip99
+
+------------------------------------------------------------------------
+
+ICONIP'99
+jointly with
+ANZIIS'99 and ANNES'99 and ACNN'99 
+
+TENTATIVE REGISTRATION 
+PLEASE PRINT 
+Title:________________________________ 
+Surname:______________________________ 
+First Name:___________________________ 
+Position:_____________________________ 
+Organisation:_________________________ 
+Department:___________________________ 
+Address:______________________________ 
+______________________________________ 
+City:_________________________________ 
+Country:______________________________ 
+Phone:________________________________ 
+Fax:__________________________________ 
+Email:________________________________ 
+
+Yes/No. Will you attend the conference? 
+Yes/No. Will you submit a paper? 
+Yes/No. Will you attend the closing session on the cruise? 
+Yes/No. Would you like any further information? 
+
+Please send a copy of this completed form by E-mail to
+iconip99@at.net.au <mailto:iconip99@at.net.au> or by post to: Conference
+Secretariat ICONIP'99
+------------------ Australis Promotions
+PO Box 1025, Bentley Delivery Centre
+Perth 6983 Australia 
+------------------------------------------------------------------------

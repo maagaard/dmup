@@ -1,0 +1,44 @@
+
+
+From csvarer@babinski.pet.rh.dk Mon Mar 10 09:19:57 EST 1997
+Received: from babinski.pet.rh.dk (babinski.pet.rh.dk [130.226.104.151]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id PAA27601; Mon, 10 Mar 1997 15:19:54 +0100 (MET)
+Received: (from csvarer@localhost) by babinski.pet.rh.dk (8.7.1/8.7.1) id PAA15275; Mon, 10 Mar 1997 15:17:01 +0100 (MET)
+Date: Mon, 10 Mar 1997 15:11:32 +0000
+From: Claus Bundesen & Axel Larsen <VISION@axp.psl.ku.dk>
+To: escop-list@rug.ac.be, billedskabt@coco.ihi.ku.dk, peterjo@diku.dk,
+        csvarer@pet.rh.dk, Georg.Stenberg@psykol.lu.se
+CC: vision@axp.psl.ku.dk
+Subject: Copenhagen symposium -- correction on lecture hall
+Message-ID: <Pine.VMS.3.91-vms-b4.970310150100.15889A-100000@axp.psl.ku.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+ReSent-Date: Mon, 10 Mar 1997 15:16:58 +0100 (MET)
+ReSent-From: Claus Svarer <csvarer@pet.rh.dk>
+ReSent-To: fig <anders@axp.psl.ku.dk>, apb@kennedy.dk, AXEL@axp.psl.ku.dk,
+        b.sperling@inet.uni-c.dk, blink@pet.rh.dk, blk@eivind.imm.dtu.dk,
+        blund@eivind.imm.dtu.dk, borring@pet.rh.dk, bundesen@axp.psl.ku.dk,
+        c918480@student.dtu.dk, cgerlach@axp.psl.ku.dk, CSVARER@pet.rh.dk,
+        cv@pet.rh.dk, EGILLR@IMM.DTU.DK, elgarde@hendrix.imm.dtu.dk,
+        fnielsen@eivind.imm.dtu.dk, gerlach@pet.rh.dk, gitte@kiku.dk,
+        hanson@fys.ku.dk, henrik@pet.rh.dk, hitomi@axp.psl.ku.dk,
+        iida@pet.rh.dk, ilaw@pet.rh.dk, kjaer@nordita.dk,
+        kjems@eivind.imm.dtu.dk, lautrup@connect.nbi.dk, Lis@axp.psl.ku.dk,
+        lkhansen@eivind.imm.dtu.dk, markus@nmr.ku.dk, mikaelj@pet.rh.dk,
+        nal@login.dknet.dk, nmorch@eivind.imm.dtu.dk, pap@eivind.imm.dtu.dk,
+        paulson@pet.rh.dk, pinborg@pet.rh.dk, pmadsen@pet.rh.dk,
+        POULR@IMM.DTU.DK, ptoft@eivind.imm.dtu.dk, ras@eivind.imm.dtu.dk,
+        sholm@pet.rh.dk, sk@axp.psl.ku.dk, snour@pet.rh.dk,
+        thko@eivind.imm.dtu.dk, tjernigan@ucsd.edu, William@axp.psl.ku.dk,
+        winther@connect.nbi.dk
+ReSent-Message-ID: <Pine.HPP.3.91.970310151658.15269A@babinski.pet.rh.dk>
+Status: RO
+X-Status: 
+
+Please note: 
+The Copenhagen Symposium on Vision an Visual Cognition takes place in 
+lecture hall 15.1.30A (not 10.1.30A). 
+
+Axel Larsen
+
+
+

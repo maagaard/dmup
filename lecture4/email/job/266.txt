@@ -1,0 +1,75 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jan 13 23:19:41 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id XAA18511;
+	Thu, 13 Jan 2000 23:19:36 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28633;
+          13 Jan 2000 16:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28631;
+          13 Jan 2000 16:00 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13130;
+          13 Jan 2000 16:00 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa20643;
+          13 Jan 2000 15:32 EST
+Received: from borg22.nj.nec.com by edrc.cmu.edu id aa28092;
+          13 Jan 2000 15:30 EST
+Received: (from eric@localhost)
+	by borg22.nj.nec.com (8.9.3/8.9.3) id PAA01397;
+	Thu, 13 Jan 2000 15:28:20 -0500
+From: "Eric B. Baum" <eric@research.nj.nec.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Date: Thu, 13 Jan 2000 15:28:20 -0500 (EST)
+To: connectionists@cs.cmu.edu
+Subject: Career Opportunities 
+X-Mailer: VM 6.43 under 20.4 "Emerald" XEmacs  Lucid
+Message-ID: <14462.13606.868870.801430@borg22.nj.nec.com>
+Status: RO
+X-Status: 
+
+The NEC Research Institute (NECI) has immediate openings for
+outstanding researchers in computer science.  Candidates are expected 
+to establish a basic research program of international stature.  
+Ph.D.s are required.
+
+NECI currently has programs in theory; machine learning; web computing;
+computer vision; computational linguistics; operating systems, 
+programming languages and compilers; and parallel architecture.
+
+We are primarily seeking applicants who work on machine learning of 
+relevance to web applications, or on systems with relevance to web 
+applications.  However, we will also give consideration to exceptional 
+applicants in any of our existing areas of focus.
+
+The NEC Research Institute, founded ten years ago, has as its mission 
+basic research in Computer Science and Physics underlying future
+computer and communication technologies.  The Institute offers unusual 
+opportunities in that:
+
+1)Members are free to decide on their own basic research directions and
+projects;
+2)Positions include budgets for research, support staff, travel, and
+equipment;  and
+3)All results are published in the open literature.
+
+Located near Princeton, NJ, NECI has close ties with many outstanding
+research universities in the area.  The Institute's laboratories are
+state-of-the-art and include several high-end parallel compute
+servers. For more details about NECI, see http://www.neci.nj.nec.com.
+
+Applicants must show documentation of eligibility for employment. NECI
+is an equal opportunity employer.  Full applications should include 
+resumes, copies of selected publications, names of at least three 
+references, and a two-page statement of proposed research directions.
+Applications will be reviewed beginning February 1, 2000.
+
+Please send applications or inquiries to:
+
+David L. Waltz
+VP, Computer Science Research
+NEC Research Institute
+4 Independence Way
+Princeton, NJ 08540
+cs-candidates@research.nj.nec.com

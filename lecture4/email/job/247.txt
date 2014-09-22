@@ -1,0 +1,46 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Dec 10 13:01:46 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id NAA02504;
+	Fri, 10 Dec 1999 13:01:43 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa03049;
+          9 Dec 99 23:32 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa03047;
+          9 Dec 99 23:26 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00666;
+          9 Dec 99 23:26 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa26746; 9 Dec 99 23:11 EST
+Received: from x86unx3.comp.nus.edu.sg by edrc.cmu.edu id aa09947;
+          9 Dec 99 23:11 EST
+Received: from sunA.comp.nus.edu.sg (plong@sunA.comp.nus.edu.sg [137.132.87.10])
+	by x86unx3.comp.nus.edu.sg (8.9.1/8.9.1) with ESMTP id MAA10255
+	for <connectionists@cs.cmu.edu>; Fri, 10 Dec 1999 12:11:09 +0800 (SGT)
+Received: from localhost (plong@localhost)
+	by sunA.comp.nus.edu.sg (8.8.5/8.8.5) with ESMTP id MAA03233
+	for <connectionists@cs.cmu.edu>; Fri, 10 Dec 1999 12:11:02 +0800 (GMT-8)
+Date: Fri, 10 Dec 1999 12:11:02 +0800 (GMT-8)
+From: Phil Long <plong@comp.nus.edu.sg>
+To: connectionists@cs.cmu.edu
+Subject: computational learning theory postdoc
+Message-ID: <Pine.GSO.4.21.9912101209430.25351-100000@sunA.comp.nus.edu.sg>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+The computational learning theory group of the National University of
+Singapore is looking for a postdoc.  The focus of the project funding
+the position is the search for theoretically principled, practical
+algorithms for machine learning.  The postdoc will be free to pursue
+independent research along these general lines, but will also have the
+opportunity to collaborate with the members of the group.  The starting
+date is somewhat flexible, but should be some time before September, 2000.
+The position runs for two years.
+
+If you are interested, please send your CV and the names of three references
+to plong@comp.nus.edu.sg by January 15, 2000.
+
+

@@ -1,0 +1,135 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 20 21:01:28 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA14368;
+	Wed, 20 Jan 1999 21:01:19 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17140;
+          20 Jan 99 13:14 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17138;
+          20 Jan 99 12:59 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11966;
+          20 Jan 99 12:59 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa27492; 20 Jan 99 10:35 EST
+Received: from cedar.dcs.shef.ac.uk by RI.CMU.EDU id aa29264;
+          20 Jan 99 10:34:50 EST
+Received: from jung.dcs.shef.ac.uk (jung.dcs.shef.ac.uk [143.167.8.36])
+	by cedar.dcs.shef.ac.uk (8.9.1b+Sun/8.9.1) with SMTP id PAA24134
+	for <connectionists@cs.cmu.edu>; Wed, 20 Jan 1999 15:34:15 GMT
+Received: from localhost by jung.dcs.shef.ac.uk (SMI-8.6/SMI-SVR4)
+	id PAA09264; Wed, 20 Jan 1999 15:34:14 GMT
+Date: Wed, 20 Jan 1999 15:34:13 +0000 (GMT)
+From: Amanda Sharkey <a.sharkey@dcs.shef.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: IEE Colloquium on Condition Monitoring
+Message-ID: <Pine.SUN.3.95.990120153202.9132P-100000@jung>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+IEE Colloquium/NCAF Meeting : Birmingham, UK, 22nd-23rd APRIL 1999
+
+Condition Monitoring: machinery, external structures and health.
+---------------------------------------------------------------
+Neural computing and other computational intelligence techniques can be 
+usefully employed in the areas of Condition Monitoring and Fault
+Diagnosis of machines and external structures (e.g bridges), and of
+Health Monitoring in medicine.  Although these areas are usually
+treated quite separately, they share a number of common issues and
+solutions, and should benefit from a cross-fertilisation of ideas.
+The speakers at this two day colloquium will provide comprehensive
+reviews of recent research and techniques employed in the domains of
+condition monitoring, health monitoring, and fault diagnosis; with the
+underlying aim of facilitating an exchange of ideas and solutions.
+
+Organisers: Dr Peter Cowley (Rolls-Royce), Dr Amanda Sharkey (University of
+Sheffield), Dr Keith Worden (University of Sheffield)..
+
+Provisional Programme: 22nd April
+
+09.00-09.30 Registration and Coffee
+
+09.30-10.00 Welcome and Introduction
+                   Dr Peter Cowley
+                   Rolls-Royce
+               
+10.00-11.00 VIBRO-ACOUSTIC CONDITION MONITORING
+                   Professor Czeslaw Cempel
+                   Poznan University of Technology 
+
+11.00-11.30 Coffee and POSTER Session
+
+11.30-12.30 THE LOS ALAMOS HEALTH MONITORING SURVEY
+                   Dr Chuck Farrar
+                   Los Alamos National Laboratories
+
+12.30-13.30 Lunch
+
+13.30-14.30 CONDITION MONITORING OF ELECTROMECHANICAL PLANT AND CIVIL
+            STRUCTURES
+                   Professor James Penman
+                   University of Aberdeen
+
+14.30-15.30 NOVELTY DETECTION IN JET ENGINES
+                   Professor Lionel Tarassenko
+                   University of Oxford.
+
+15.30-16.00 TEA and POSTER Session
+
+16.00-17.00 FAULT DIAGNOSIS FROM A PROCESS CONTROL PERSPECTIVE 
+                   Professor Ron Patton
+                   University of Hull.
+
+Provisional Programme: 23rd April
+
+09.30-10.30 ACOUSTIC EMISSION LOCATION USING FOUR SENSORS
+                   Dr. Paul Wells
+                   British Aerospace
+
+10.30-11.00 Coffee and POSTER Session
+
+11.00-12.00 FAULT DIAGNOSIS FOR CLOSED-LOOP DRUG INFUSION
+                   Professor Derek Linkens and Dr M.F. Abbod
+                   University of Sheffield
+
+12.00-13.30 Lunch and POSTER Session
+
+13.30-14.30 TECHNICAL AND MEDICAL CONSULTING SYSTEMS USING BAYES NETS
+                   Dr Volker Tresp
+                   Siemens
+
+14.30-15.30 WHY I AM NOT A NON-BAYESIAN
+                   Professor Mahesan Niranjan
+                   University of Sheffield
+
+15.30-16.00 Tea 
+
+16.00-17.00 Panel Discussion
+
+17.00 Close
+
+To register for the above event (both or either of the days) please
+contact: Events Office, IEE Savoy Place, London WC2R OBL, tel:
++44(0)171 240 1871 ext 2205/6 fax +44 (0)171 497 3633 or email:
+events@iee.org.uk
+
+Those interested in presenting a poster summarising research related
+to the themes of condition monitoring are invited to submit an
+abstract.  Abstracts will be reviewed, and authors will be notified of
+acceptance.
+
+Deadlines for poster abstracts: March 1st 1999
+
+Method for submitting poster abstracts: email to
+A.Sharkey@dcs.shef.ac.uk or send a hard copy to
+
+Dr Amanda Sharkey,
+Department of Computer Science,
+Regent Court, Portobello Rd,
+University of Sheffield, S1 4DP
+
+Notification of acceptance of poster abstract: 2nd April 1999
+
+

@@ -1,0 +1,73 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Nov  8 23:37:52 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id XAA06379;
+	Mon, 8 Nov 1999 23:37:44 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab13621;
+          8 Nov 99 16:07 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13608;
+          8 Nov 99 15:49 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10236;
+          8 Nov 99 15:48 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29159; 8 Nov 99 15:21 EST
+Received: from vega.cis-176.brown.edu by cs.cmu.edu id aa06129;
+          8 Nov 99 15:21 EST
+Received: from [128.148.208.215] (burton.cog.brown.edu [128.148.208.215])
+	by vega.brown.edu (8.9.3/8.9.3) with ESMTP id PAA14396
+	for <connectionists@cs.cmu.edu>; Mon, 8 Nov 1999 15:21:15 -0500 (EST)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+X-Sender: Annette_Burton@postoffice.brown.edu
+Message-Id: <v04011706b44cd3532ffc@[128.148.208.215]>
+Date: Mon, 8 Nov 1999 15:22:18 -0400
+To: connectionists@cs.cmu.edu
+From: Annette Burton <Annette_Burton@Brown.edu>
+Subject: IGERT JOB ANNOUNCEMENT
+Status: RO
+X-Status: 
+
+     				Departments of Applied Mathematics,
+                       Cognitive and Linguistic Sciences, and Computer Science
+
+                                        announce
+
+                        A NEW INTERDISCIPLINARY POSTDOCTORAL OPPORTUNITY
+
+                                          in
+
+                         LEARNING AND ACTION IN THE FACE OF UNCERTAINTY:
+                       COGNITIVE, COMPUTATIONAL AND STATISTICAL APPROACHES
+
+As part of an NSF award to Brown University through the IGERT program, the
+Departments of Cognitive and Linguistic Sciences, Computer Science, and
+Applied Mathematics will be hiring a Postdoctoral Research Associate.
+Fellows will be scholars who have displayed significant interest and
+ability in conducting collaborative interdisciplinary research in one or
+more of the research areas of the program: computational and empirical
+approaches to uncertainty in language, vision, action, or human reasoning.
+As well as participating in collaborative research, responsibilities will
+include helping to coordinate cross-departmental graduate teaching and
+research as well as some teaching of interdisciplinary graduate courses.
+We expect that the fellows will play an important role in creating a highly
+visible presence for the IGERT program at Brown, and the interdisciplinary
+activities will help unify the interdepartmental activities of the IGERT
+program.
+
+Applicants must hold a PhD in Cognitive Science, Linguistics, Computer
+Science, Mathematics, Applied Mathematics, or a related discipline, or show
+evidence that the PhD will be completed before the start of the position.
+Applicants should send a vita and three letters of reference to the IGERT
+Postdoc Search Committee, Department of Cognitive and Linguistic Sciences,
+Brown University, Box 1978, Providence, RI 02912.  Special consideration
+will be given to those applicants whose research is relevant to at least
+two of the participating departments. The position will begin September 1,
+2000 for one year, renewable upon satisfactory  completion of duties in the
+first year.  Salaries will be between $35,000 and $42,500 per year. All
+materials must be received by Jan. 15, 2000, for full consideration.  Brown
+University is an Equal Opportunity/Affirmative Action Employer.
+
+For additional information about the program and ongoing research
+initiatives please visit our website at:
+
+http://www.cog.brown.edu/IGERT.

@@ -1,0 +1,105 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Sep 12 00:11:13 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id AAA07138;
+	Sat, 12 Sep 1998 00:11:07 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab23589;
+          11 Sep 98 15:30 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23579;
+          11 Sep 98 15:16 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07449;
+          11 Sep 98 15:15 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa08549; 11 Sep 98 7:08 EDT
+Received: from [139.18.2.23] by EDRC.CMU.EDU id aa07630; 11 Sep 98 7:08:07 EDT
+Received: from neuron1 (localhost [127.0.0.1])
+	by neuron1.informatik.uni-leipzig.de (8.8.8/8.8.8) with SMTP id NAA07281;
+	Fri, 11 Sep 1998 13:07:47 +0200 (MET DST)
+Sender: schierwa@informatik.uni-leipzig.de
+Message-ID: <35F90482.7713@informatik.uni-leipzig.de>
+Date: Fri, 11 Sep 1998 13:07:46 +0200
+From: Andreas Schierwagen <schierwa@informatik.uni-leipzig.de>
+Organization: Univ. Leipzig, Inst. fur Informatik
+X-Mailer: Mozilla 3.01Gold (X11; I; SunOS 5.5 sun4m)
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu, cogpsy@coglab.psy.soton.ac.uk
+Subject: Call for Participation: FNS '99
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by neuron1.informatik.uni-leipzig.de id NAA07281
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id AAA07138
+Status: RO
+X-Status: 
+
+Dear Colleagues,
+
+Below is a brief annoucement of the 6th International Workshop
+"Fuzzy-Neuro Systems '99" taking place in Leipzig, Germany on
+March 18-19, 1999.
+We have published a web page with further details. See
+
+http://www.informatik.uni-leipzig.de/~brewka/FNS/
+
+Andreas Schierwagen
+
+------------------------------------------------------------------------
+
+
+                        6th International Workshop
+
+                         Fuzzy-Neuro Systems '99
+
+
+Fuzzy-Neuro Systems `99 is the sixth event of a well established series
+of workshops with international participation. Its aim is to give an
+overview of the state of the art in research and development of fuzzy
+systems and artificial neural networks. Another aim is to highlight
+applications of these methods and to forge innovative links between
+theory and application by means of creative discussions.
+
+Fuzzy-Neuro Systems `99 is being organized by the Research Committee 1.2
+"Inference Systems" (Fachausschuss 1.2 "Inferenzsysteme") of the German
+Society of Computer Science GI (Gesellschaft für Informatik e. V.) and
+Universität Leipzig, March 18 - 19, 1999
+
+Workshop Chairs: Gerhard Brewka and Siegfried Gottwald
+Local Organization: Ralf Der and Andreas Schierwagen
+
+Topics of interest include:
+
+theory and principles of multivalued logic and fuzzy logic
+representation of fuzzy knowledge
+approximate reasoning
+fuzzy control in theory and practice
+fuzzy logic in data analysis, signal processing and pattern recognition
+fuzzy classification systems
+fuzzy decision support systems
+fuzzy logic in non-technical areas like business administration,
+	management etc.
+fuzzy databases
+theory and principles of artificial neural networks
+hybrid learning algorithms
+neural networks in pattern recognition, classification, process
+	monitoring and production control
+theory and principles of evolutionary algorithms: genetic algorithms and
+	evolution strategies
+discrete parameter and structure optimization
+hybrid systems like neuro-fuzzy systems, connectionist expert systems
+	etc.
+special hardware and software
+
+Submissions should be extended abstracts of 4-6 pages. Please send 5
+copies of your contribution to Gerhard Brewka, Universität Leipzig,
+Institut für Informatik, Augustusplatz 10-11, 04109 Leipzig, Germany.
+Proceedings containing full versions of accepted papers will be
+published.
+
+Preliminary schedule:
+
+
+      Submission of papers: Nov. 8th, 1998
+      Notification of authors: Dec. 15th, 1998
+      Final version of accepted papers: Jan. 16th, 1999
+      Workshop: March 18-19, 1999
+
+The conference language will be English.

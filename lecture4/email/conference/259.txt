@@ -1,0 +1,470 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May 19 22:38:45 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA08881;
+	Wed, 19 May 1999 22:38:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa04482;
+          19 May 99 14:06 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa04480;
+          19 May 99 13:55 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12952;
+          19 May 99 13:55 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab26902; 19 May 99 13:45 EDT
+Received: from sundance.cse.ucsc.edu by EDRC.CMU.EDU id aa11785;
+          19 May 99 13:44:18 EDT
+Received: (from dph@localhost) by sundance.cse.ucsc.edu (8.6.10/8.6.12) id KAA08500 for connectionists@cs.cmu.edu; Wed, 19 May 1999 10:42:45 -0700
+Date: Wed, 19 May 1999 10:42:45 -0700
+From: David Helmbold <dph@cse.ucsc.edu>
+Message-Id: <199905191742.KAA08500@sundance.cse.ucsc.edu>
+To: connectionists@cs.cmu.edu
+Subject: COLT 99 registration information (plain text)
+Status: RO
+X-Status: 
+
+Return-Path: lisa@cse.ucsc.edu 
+Return-Path: <lisa@cse.ucsc.edu>
+Received: from rio.cse.ucsc.edu (rio.cse.ucsc.edu [128.114.49.176])
+	by services.cse.ucsc.edu (8.9.1a/8.9.1) with ESMTP id KAA04830
+	for <dph@vault.cse.ucsc.edu>; Wed, 19 May 1999 10:22:26 -0700 (PDT)
+Received: (from lisa@localhost) by rio.cse.ucsc.edu (8.6.10/8.6.9) id KAA13838 for dph; Wed, 19 May 1999 10:21:58 -0700
+Date: Wed, 19 May 1999 10:21:58 -0700
+From: Lisa Weiss <lisa@cse.ucsc.edu>
+Message-Id: <199905191721.KAA13838@rio.cse.ucsc.edu>
+To: dph@cse.ucsc.edu
+Subject: plain text file
+
+                            COLT '99
+      Twelfth ACM Conference on Computational Learning Theory
+            Tuesday, July 6 through Friday, July 9, 1999
+         University of California, Santa Cruz, California
+
+The workshop will be held on campus, which is hidden away in the redwoods 
+on the Pacific Coast of Northern California.  The workshop is in 
+cooperation with the ACM Special Interest Group on Algorithms and 
+Computation Theory (SIGACT) and the ACM Special Interest Group on 
+Artificial Intelligence (SIGART).
+
+  1. Flight tickets: San Jose Airport is the closest, about a 45
+minute drive.   San Francisco Airport (SFO) is about an hour and 
+forty-five minutes away, but has slightly better flight connections.
+
+  2. Transportation from the airport to Santa Cruz:
+The first option is to rent a car and drive south from San Jose on
+Hwy 880, which becomes Hwy 17 or from San Francisco take either Hwy
+280 or 101 to Hwy 17.  When you get to Santa Cruz, take
+Route 1 (Mission St.) north.  Turn right on Bay Street and follow
+the signs to UCSC.  Commuters must purchase parking permits for $4.00/day
+M-F (parking is free Saturday and Sunday) from the information kiosk at
+the Main entrance to campus or the conference satellite office.  Those 
+staying on campus can pick up permits with their room keys.  Various van 
+services also connect Santa Cruz with the the San Francisco and San Jose 
+airports.  The Santa Cruz Airporter (831) 423-1214 (or (800) 497-4997 
+from anywhere) has regularly scheduled trips (every two hours from 9am 
+until 11pm from San Jose International Airport ($30 each way), and 
+every two hours from 8am until 10pm from SFO, ($35 each way) from either 
+airport. ABC Transportation (831) 464-8893 
+((800) 734-4313 from California (24hr.)) runs a private sedan service 
+($47 for one, $57 for two, $67 for three to six from San Jose Airport 
+to UC Santa Cruz, $79 for one, $89 for two, and $99 for three to six 
+from SFO to UCSC, additional $10 after 11:30 pm, additional $20 to 
+meet an international flight) and will drop you off at your room. Book 
+at least 24 hours in advance.
+
+  3. Conference and room registration:
+Please fill out the enclosed form and send it to us with your payment.
+It must be postmarked by June 1 and received by June 5 to obtain the 
+early registration rate and guarantee the room.  Conference housing is 
+limited by the available space, and late registrants may need to 
+seek off-campus accommodations.
+
+Your arrival: This year we will be at the Kresge apartments.
+Enter the campus at the Main Entrance, which is the intersection of 
+High and Bay Streets. (Look for the COLT signs.) Bay St. turns 
+into Coolidge Dr., continue on this road, which becomes McLaughlin Dr.,
+until you reach the stop sign at the T in the road, turn left onto Heller 
+Dr., and then you will make a right turn into the Kresge East Apts 
+parking lot.  Housing registration will be at the Kresge East Apts 
+parking lot from 2:00 to 4:00 pm on Monday.  Keys, meal cards, parking 
+permits, maps, and information about what to do in Santa Cruz will be 
+available.  The office will remain open until 10:00 pm for late arrivals.  
+Arrivals after 10:00 pm:  stop at the Main Entrance Kiosk and have 
+the guard call the College Proctor, who will meet you at the Satellite 
+Office and give you your housing materials.  Please be prepared to show 
+I.D. or you will not be permitted on campus.  Problems?  Please go 
+directly to the Kresge Satellite Office, or contact the Conference 
+Director at (831) 459-2611.  The Kresge College Conference Office is 
+located in Apt. Building R11-Apt 1111.  From the Kresge East Apts 
+parking lot continue on Heller Dr. to the Porter College entrance, 
+turn right into Porter College, follow the road around (curving right) 
+to Kresge College.  At Kresge College, park in the first lot on your 
+left and look for signs for the Conference Office. Please do not park 
+in spaces with posted restrictions at any time.  In case of emergency, 
+dial 911 from any campus phone.
+
+The weather in July is mostly sunny with occasional summer fog.  Even 
+though the air may be cool, the sun can be deceptively strong; those 
+susceptible to sunburn should come prepared with sunblock.  Bring 
+T-shirts, slacks, shorts, and a sweater or light jacket, as it cools 
+down at night. For information on the local bus routes and schedules, 
+call the Metro Center at (831) 425-8600.
+
+Bring swimming trunks, tennis rackets, etc. You can get day
+passes for $5.00 (East Field House, Physical Education Office) 
+to use the recreation facilities on campus.
+
+For questions about registration or accommodations, contact  
+COLT'99, Computer Science Dept., UCSC, Santa Cruz, CA  95064.  
+The e-mail address is colt99@cse.ucsc.edu, and fax is (831)459-4829.
+For emergencies, call (831)459-2263.
+
+4. General Conference Information:
+The Conference Registration will be at 8:30 Tuesday, outside the 
+Porter dining hall.  Late registrations will be at the same location 
+during the technical sessions.  All lectures will be in the Porter 
+dining hall.  A banquet will be held Tuesday from 6:30--8:00pm
+outside the Porter dining hall.
+
+The workshop has been organized to allow time for informal discussion
+and collaboration.  
+
+COLT `99 CONFERENCE SCHEDULE
+----------------------------
+
+MONDAY, July 5
+--------------
+
+2:00-4:00 pm, Housing Registration, Kresge East Apts Parking Lot.
+
+Note:  All technical sessions will take place in the Porter Dining Hall.
+
+TUESDAY, July 6
+---------------
+
+SESSION 1:  9:00 - 10:30
+
+9:00-9:30 
+The Robustness of the p-norm Algorithms
+Claudio Gentile and Nick Littlestone
+
+9:30-10:00 
+Minimax Regret under Log Loss for General Classes of Experts
+Nicolo Cesa-Bianchi and Gabor Lugosi
+
+10:00-10:30 
+On Prediction of Individual Sequences Relative to a set of Experts
+Neri Merhav and Tsachy Weissman
+
+10:30 - 11:00  BREAK
+
+SESSION 2: 11:00 - 12:00
+
+11:00-11:20 
+On Theory Revision with Queries
+Robert H. Sloan and Gyorgy Turan
+
+11:20-11:40 
+Estimating a Mixture of Two Product Distributions
+Yoav Freund and Yishay Mansour
+
+11:40-12:00 
+An Apprentice Learning Model
+Stephen S. Kwek
+
+12:00 - 2:00 LUNCH
+
+SESSION 3: 2:00 - 3:00
+ 
+2:00-2:20 
+Uniform-Distribution Attribute Noise Learnability
+Nader H. Bshouty, Jeffrey C. Jackson and Christino Tamon
+
+2:20-2:40 
+On Learning in the Presence of Unspecified Attribute Values
+Nader H. Bshouty, and David K. Wilson
+
+2:40-3:00 
+Learning Fixed-dimension Linear Thresholds from Fragmented Data
+Paul W. Goldberg
+
+3:00 - 3:30 BREAK
+
+TUTORIAL 1: 3:30-5:30
+
+3:30-5:30 
+Boosting
+Yoav Freund and Rob Schapire
+
+7:30-9:30 RECEPTION - Kresge Town Hall Area
+
+WEDNESDAY, July 7
+-----------------
+
+9:00-10:00
+INVITED TALK: by David Shmoys
+Approximation Algorithms for Clustering Problems
+
+10:00-10:30 BREAK
+
+SESSION 4:  10:30-12:10
+
+10:30-10:50 
+An Adaptive Version of the Boost-by-majority Algorithm
+Yoav Freund
+
+10:50-11:10 
+Drifting Games
+Robert E. Schapire
+
+11:10-11:30 
+Additive Models, Boosting, and Inference for Generalized Divergences
+John Lafferty
+
+11:30-11:50 
+Boosting as Entropy Projection
+J. Kivinen and M. K. Warmuth
+
+11:50-12:10 
+Multiclass Learning, Boosting, and Error-Correcting Codes
+Venkatesan Guruswami and Amit Sahai
+
+12:10-2:00 LUNCH
+
+SESSION 5:  2:00-3:00
+
+2:00-2:20 
+Theoretical Analysis of a Class of Randomized Regularization Methods
+Tong Zhang
+
+2:20-2:40 
+PAC-Bayesian Model Averaging
+David McAllester
+
+2:40-3:00 
+Viewing all Models as `Probabilistic'
+Peter Grunwald
+
+3:00-3:30 BREAK
+
+TUTORIAL 2: 3:30-5:30
+
+3:30-5:30
+Reinforcement Learning
+Michael Kearns and Yishay Mansour
+
+6:30-8:00 BANQUET - Porter Dining Hall
+
+THURSDAY, July 8
+----------------
+
+SESSION 6:  9:00-10:30
+
+9:00-9:20 
+Reinforcement Learning and Mistake Bounded Algorithms
+Yishay Mansour
+
+9:20-9:40 
+Convergence Analysis of Temporal-difference Learning Algorithms
+Vladislav Tadic
+
+9:40-10:00 
+Beating the Hold-Out
+Avrim Blum, Adam Kalai and John Langford
+
+10:00-10:20 
+Microchoice Bounds and Self Bounding Learning Algorithms
+John Langford and Avrim Blum
+
+10:30-11:00 BREAK
+
+SESSION 7:  11:00-12:00
+
+11:00-11:20 
+Learning Specialist Decision Lists
+Atsuyoshi Nakamura
+
+11:20-11:40 
+Linear Relations between Square-Loss and Kolmogorov Complexity
+Yuri A. Kalnishkan
+
+11:40-12:00 
+Individual Sequence Prediction - Upper Bounds and Application for
+Complexity
+Chamy Allenberg
+
+12:00-2:00 LUNCH
+
+SESSION 8:  2:00-3:00
+
+2:00-2:20 
+Extensional Set Learning
+S. A. Terwijn
+
+2:20-2:40 
+On a Generalized Notion of Mistake Bounds
+Sanjay Jain and Arun Sharma
+
+2:40-3:00 
+On the Intrinsic Complexity of Learning Infinite Objects from Finite
+Samples
+Kinber, Papazian, Smith, and Wiehagen
+
+2:20-2:30 
+Concept Learning with Geometric Hypotheses
+David P. Dobkin and Dimitrios Gunopulos
+
+Friday, July 9
+--------------
+
+TUTORIAL 3: 9:00-11:00
+
+9:00-11:00
+Large Margin Classification
+Peter Bartlett, John Shawe-Taylor, and Bob Williamson
+
+11:00-11:30 BREAK
+
+SESSION 9:  11:30-12:10
+
+11:30-11:50 
+Covering Numbers for Support Vector Machines
+Ying Guo, Peter L. Bartlett, John Shawe-Taylor, and Robert C. Williamson
+
+11:50-12:10 
+Further Results on the Margin Distribution
+John Shawe-Taylor and Nello Cristianini
+
+12:10-2:00 LUNCH
+
+SESSION 10: 2:00-3:40
+
+2:00 - 2:20
+Attribute Efficient PAC-learning of DNF with Membership Queries
+Nader H. Bshouty and Jeffrey C. Jackson and Christino Tamon
+
+2:20 - 2:40
+On PAC Learning Using Winnow, Perceptron, and a Perceptron-Like Algorithm
+Rocco A. Servedio
+
+2:40 - 3:00
+Extension of the PAC Framework to Finite and Countable Markov Chains
+David Gamarnik
+
+3:00 - 3:20
+Learning Threshold Functions with Small Weights using Membership Queries
+E. Abboud, N. Agha, N.H. Bshouty, N. Radwan, F. Saleh
+
+3:20 - 3:40
+Exact Learning of Unordered Tree Patterns From Queries
+Thomas R. Amoth, Paul Cull, and Prasad Tadepalli
+
+3:40  CONFERENCE ENDS 
+
+REGISTRATION INFORMATION
+
+Please fill in the information needed for registration and  
+accommodations.  Make your payment by check or international money order, 
+in U.S. dollars and payable through a U.S. bank, to UC Regents/COLT '99.
+Mail this form together with payment (by June 4, 1999 to avoid the 
+late fee) to:
+
+COLT '99
+Computer Science Department
+University of California
+Santa Cruz, California  95064
+
+Payment may also be made by VISA or MC but will have a $15 surcharge
+and you can fax or email the form.  Questions:  e-mail colt99@cse.ucsc.edu, 
+fax (831)459-4829.  Confirmations will be sent by e-mail.  Anyone 
+needing special arrangements to accommodate a disability should 
+enclose a note with their registration.
+
+CONFERENCE REGISTRATION
+=======================
+
+Name: ________________________________________________________________
+
+Affiliation: _________________________________________________________
+
+Address: _____________________________________________________________
+
+City: _____________________________    State: ________  Zip: _________
+
+Country: _____________________________
+
+Telephone: _____________________________
+
+Email address: __________________________
+
+The registration fee includes a copy of the proceedings and the banquet
+dinner. 
+
+ACM/SIG Members: $175 
+
+Non-Members: $240 
+
+Full time students:  $100 
+
+Reg. Late Fee: $50 
+  (rec'd after June 4) 
+
+Extra banquet tickets: ____ (quantity) x $25 = _______________
+
+How many in your party have dietary restrictions?  
+
+Vegetarian: _____ Other: _____
+
+SHIRT SIZE, please circle one: 	medium 	large 	x-large 
+
+ACCOMMODATIONS AND DINING
+-------------------------
+
+Accommodation fees are $67 per person for a double and $80 for a single 
+per night at the Kresge Apartments.  Cafeteria style breakfast 
+(7:00 to 8:00am), lunch (12:00 to 1:00pm), and dinner (6:30 to 7:30pm) 
+will be served in the College Eight Dining Hall.  Doors close at the 
+end of the time indicated, but dining may continue beyond this time.  
+The first meal provided is dinner on the day of arrival and the last 
+meal is lunch on the day you leave.  NO REFUNDS can be given after June 7.
+Those with uncertain plans should make reservations at an off-campus 
+hotel.  Each attendee should pick one of the following options:
+
+PACKAGE #1: Mon., Tue., Wed., Thurs. nights: $268 double, $320 single. 	
+
+PACKAGE #2: Tue., Weds., Thurs. nights: $201 double, $240 single. 
+
+OTHER housing arrangement. 
+
+Each 4-person apartment  has a living room, a kitchen, a common bathroom, 
+and either four single separate rooms, two double rooms, or two single 
+and one double room.  We need the following information to make room 
+assignments:
+
+Gender (M/F): __________ 	Smoker (Y/N): ___________
+
+Roommate Preference: ________________________________
+
+For shorter stays, longer stays, and other special requirements, you 
+can get other accommodations through the Conference Office.  Make 
+reservations directly with them at (831) 459-2611, fax (831) 459-3422,
+and do this soon as on-campus rooms for the summer fill up well in 
+advance.  Off-campus hotels include the Dream Inn (831) 426-4330 and
+the Ocean Pacific Lodge (831) 457-1234 or (800) 995-0289.
+
+AMOUNT ENCLOSED:
+
+Registration total   	_________________
+
+VISA/MC $15 Charge  	_________________
+
+Extra Banquet tickets  	_________________
+
+Accommodations   	_________________
+
+Mark Fulk Award* 	_________________
+
+TOTAL        		_________________
+
+* The optional Donation for the Mark Fulk Award is tax deductible in 
+  the U.S.A., please see Carl Smith for receipt.
+

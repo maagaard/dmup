@@ -1,0 +1,78 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon May 17 13:30:10 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA05742;
+	Mon, 17 May 1999 13:29:58 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28487;
+          17 May 99 5:53 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28485;
+          17 May 99 5:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10000;
+          17 May 99 5:35 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa20205; 17 May 99 5:23 EDT
+Received: from [131.175.21.1] by EDRC.CMU.EDU id aa14570; 17 May 99 5:23:39 EDT
+Received: from host pc-piuri and sender pc-piu.elet.polimi.it [131.175.21.51];
+	by mail relay Morgana.Elet.PoliMi.IT (Sendmail Ver. 8.x.x / 2 Nov. 1998);
+	with protocol SMTP and identifier LAA32658;
+	for recipient <Connectionists@cs.cmu.edu>;
+	on date and time Mon, 17 May 1999 11:23:26 +0200 (MET DST).
+Message-Id: <3.0.5.32.19990517113433.014e1100@elet.polimi.it>
+X-Sender: piuri@elet.polimi.it
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
+Date: Mon, 17 May 1999 11:34:33 +0200
+To: Connectionists@cs.cmu.edu
+From: vincenzo piuri <piuri@elet.polimi.it>
+Subject: IJCNN'2000 - PRELIMINARY CALL FOR PAPERS
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+Dear Colleague,
+
+On the behalf of the organizing committee I am glad to announce the
+IEEE-INNS-ENNS International Joint Conference on Neural Networks
+IJCNN'2000, to be held at the Grand Hotel Cernobbio, Como, Italy, on
+24-27 July 2000. The conference is organized and sponsored by the IEEE
+Neural Network Council, with the cooperation with the International
+Neural Network Society and the European Neural Network Society.
+
+The preliminary call for papers can be found at the conference web site
+http://www.ims.unico.it/2000ijcnn.html
+
+All information about the conference will be posted there. No printed
+mailing will be done this year: very few emailing will be also done to
+avoid bothering you.  Therefore, stay tuned on the above web site!
+
+If any colleague or student of yours like to be included in this
+emailing list, please forward her/him this message: instructions to
+subscribe the list are attached below.
+
+Other events will be organized before and after the conference: they
+will be announced soon.
+
+Ciao and see you in Como!
+
+
+Vincenzo Piuri
+IJCNN'2000 Program Co-Chair for Europe
+
+=============================================================================
+To subscribe the list send an email to listproc@ims.unico.it
+The body of the message must contain ONLY the following line
+
+SUBSCRIBE CONFERENCES lastname firstname
+
+where lastname and firstname must be replaced by your last and 
+first name respectively. Do not put any signature or any other
+message: they will be ignored and may result in error messages.
+=============================================================================
+
+
+
+Vincenzo Piuri
+Department of Electronics and Information, Politecnico di Milano
+piazza L. da Vinci 32, 20133 Milano, Italy
+phone +39-02-2399-3606    secretary +39-02-2399-3623
+fax   +39-02-2399-3411    email     piuri@elet.polimi.it

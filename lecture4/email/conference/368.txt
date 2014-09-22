@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Jun 25 01:15:16 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id BAA00378;
+	Thu, 25 Jun 1998 01:15:10 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07732;
+          24 Jun 98 14:34 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07729;
+          24 Jun 98 14:27 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02028;
+          24 Jun 98 14:26 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa22192; 24 Jun 98 8:27 EDT
+Received: from [152.78.129.138] by RI.CMU.EDU id aa01600; 24 Jun 98 8:27:07 EDT
+Received: from juniper.sucs.soton.ac.uk (juniper.sucs.soton.ac.uk [152.78.128.175])
+    by beech.sucs.soton.ac.uk (8.8.8/relay-02) with ESMTP id NAA25336;
+    Wed, 24 Jun 1998 13:26:34 +0100 (BST)
+Received: from mulberry.psy.soton.ac.uk (mulberry.psy.soton.ac.uk [152.78.195.73]) by juniper.sucs.soton.ac.uk (8.7.5/8.7.3) with SMTP id NAA19426; Wed, 24 Jun 1998 13:26:16 +0100 (BST)
+Date: Wed, 24 Jun 1998 13:26:15 +0100 (BST)
+From: Stevan Harnad <harnad@coglit.soton.ac.uk>
+X-Sender: harnad@mulberry.psy.soton.ac.uk
+To: PSYCOLOQUY <psyc@pucc.princeton.edu>
+cc: Cogniscience Francophone <echos@dmi.ens.fr>,
+        cogpsy <cogpsy@coglab.psy.soton.ac.uk>,
+        neuromot <neuromotor-control@ai.mit.edu>,
+        behavioral ecology group <enid@forager.unl.edu>
+Subject: Expanded BBS 1998: Call for Papers
+Message-ID: <Pine.SGI.3.95.980624131736.15407A-100000@mulberry.psy.soton.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+[Apologes if you get this message more than once: sent to several lists]
+
+             BBS 1998 Has Expanded by 50%
+
+                CALL FOR PAPERS
+
+Behavioral and Brain Sciences Journal (BBS), founded in '78, has begun its
+third decade in '98 with a 50% Expansion. This means that more articles
+can be accorded Open Peer Commentary, the feature that has had such a
+great impact on the international cognitive and biobehavioral science
+community. (BBS's ISI Impact Factor of 15 is nearly three times the
+highest impact Psychology journal and is one of the 25 highest among
+all 6500 science, social science and Arts/Humanities journals indexed
+by ISI.)
+
+BBS is a unique scientific communication medium, providing the service
+of Open Peer Commentary for reports of significant current work in
+psychology, neuroscience, behavioral biology and cognitive science. If
+a manuscript is judged by BBS referees and editors to be appropriate
+for Commentary it is circulated to a large number of commentators
+across disciplines and around the world. The target article,
+commentaries, and authors' responses then co-appear in BBS.
+
+To be eligible for publication, a paper should not only meet the
+standards of a journal such as Psychological Review or the
+International Review of Neurobiology in terms of conceptual rigor,
+empirical grounding, and clarity of style, but should also offer a
+clear rationale for soliciting Commentary.
+
+A BBS target article can be (i) the report and discussion of empirical
+research that the author judges to have broader scope and implications
+than might be more appropriately reported in a specialty journal; (ii)
+an unusually significant theoretical article that formally models or
+systematizes a body of research; or (iii) a novel interpretation,
+synthesis, or critique of existing experimental or theoretical work.
+Occasionally, articles dealing with social or philosophical aspects of
+the behavioral and brain sciences will be considered. Multiple reviews
+of books also appear.
+
+BBS's Web Pages:
+
+http://www.princeton.edu/~harnad/bbs.html
+http://www.cogsci.soton.ac.uk/bbs
+
+Email:
+
+bbs@cogsci.soton.ac.uk
+harnad@cogsci.soton.ac.uk
+
+--------------------------------------------------------------------
+Stevan Harnad                     harnad@cogsci.soton.ac.uk
+Professor of Psychology           harnad@princeton.edu
+Director,                         phone: +44 1703 592582
+Cognitive Sciences Centre         fax:   +44 1703 594597
+     
+Department of Psychology          http://www.cogsci.soton.ac.uk/~harnad/
+University of Southampton         http://www.princeton.edu/~harnad/
+Highfield, Southampton            ftp://ftp.princeton.edu/pub/harnad/
+SO17 1BJ UNITED KINGDOM           ftp://cogsci.soton.ac.uk/pub/harnad/
+

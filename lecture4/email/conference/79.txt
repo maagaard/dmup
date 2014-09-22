@@ -1,0 +1,70 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk  Fri Apr 17 10:47:18 1998
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) id KAA08050
+	for dspstaff-list; Fri, 17 Apr 1998 10:47:11 +0200 (METDST)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from imm.dtu.dk (rod@eivind.imm.dtu.dk [192.38.71.101])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id KAA08046
+	for <dspstaff@eivind.imm.dtu.dk>; Fri, 17 Apr 1998 10:47:07 +0200 (METDST)
+Message-ID: <35371708.249066A9@imm.dtu.dk>
+Date: Fri, 17 Apr 1998 10:47:05 +0200
+From: Roderick Murray-Smith <rod@imm.dtu.dk>
+Organization: Denmarks Technical University
+X-Mailer: Mozilla 4.03 [en] (X11; I; HP-UX B.10.20 9000/735)
+MIME-Version: 1.0
+To: dsp section <dspstaff@eivind.imm.dtu.dk>
+Subject: [DSPSTAFF] summer school
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+ Hi, this may interest some of you. If you fill in the forms on site
+they may cover your registration & housing costs & some travel
+costs.......
+
+More info at:
+
+http://www.newton.cam.ac.uk/programs/nspw01.html
+
+
+                                               Bayesian Signal
+Processing
+
+                                     Organisers: WJ Fitzgerald
+(Cambridge), RL Smith (North Carolina),
+                                             AT Walden (Imperial), PC
+Young (Lancaster)
+
+                                            At the Newton Institute,
+Cambridge, UK
+
+
+>Is there a more detailed programme with topics and speakers? (I
+couldn't find
+>one on the web-site)
+>
+Not yet, although so far we have as main speakers:
+Adrian Smith
+Peter Green,
+Chris Bishop,
+Mike West
+Chris Robert
+Richard Smith
+
+
+
+
+--
+Roderick Murray-Smith,                       e-mail: rod@imm.dtu.dk
+Dept. of Mathematical Modelling,             Phone   +45 4525 3888
+Bgn. 321, Technical University of Denmark,   FAX:    +45 4587 2599
+DK-2800 Lyngby, Denmark.                     Home:   +45 3321 5477
+http://eivind.imm.dtu.dk/staff/rod/rod.html
+
+

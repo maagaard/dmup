@@ -1,0 +1,195 @@
+
+
+From cg@eivind.imm.dtu.dk Fri Apr  4 09:48:40 EST 1997
+Received: (from cg@localhost) by eivind.imm.dtu.dk (8.7.1/8.7.1) id JAA04612 for immstaf@ei.dtu.dk; Fri, 4 Apr 1997 09:48:38 -0500 (EST)
+X-Authentication-Warning: eivind.imm.dtu.dk: cg set sender to cg@eivind.imm.dtu.dk using -f
+Received: from localhost (cg@localhost) by eivind.imm.dtu.dk with SMTP (8.7.1/8.7.1) id QAA04609 for <immstaff@eivind.imm.dtu.dk>; Fri, 4 Apr 1997 16:48:37 +0200 (METDST)
+Date: Fri, 4 Apr 1997 16:48:37 +0200 (METDST)
+From: Cyril Goutte <cg@eivind.imm.dtu.dk>
+Reply-To: cg@imm.dtu.dk
+To: immstaff <immstaff@eivind.imm.dtu.dk>
+Subject: IPMU'98 Call for Papers (fwd)
+Message-ID: <Pine.HPP.3.95.970404164747.28830G-100000@eivind.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Status: RO
+X-Status: 
+
+
+Date: Thu, 3 Apr 1997 14:54:07 +0100
+From: Bernadette Bouchon-Meunier <Bernadette.Bouchon-Meunier@laforia.ibp.fr=
+>
+To: tout-lip6@ibp.fr
+Subject: IPMU'98 Call for Papers
+
+
+                                   IPMU'98
+
+                         The Seventh Conference on
+                    Information Processing and Management of
+                     Uncertainty in Knowledge-Based Systems
+
+                               July 6 - 10, 1998
+                                 Paris, France
+
+                    ---------------------------------------------
+
+          The IPMU Conference is organized every two years with the aim of
+bringing together scientists working on various methods for the management
+of uncertainty in intelligent systems. This conference provides a medium
+for the exchange of ideas between theoreticians and practitioners using
+different methods to address the important issue of uncertainty.
+         This year, the conference is being held in Paris, a city that
+provides many attractions for the visitor, as well as being a city with a
+rich history in scientific and academic matters. For more information about
+Paris, contact the Paris homepage.
+
+                    ---------------------------------------------
+ Chairpersons:
+ -------------
+     Bernadette BOUCHON-MEUNIER (LAFORIA, CNRS, Universite Paris VI, France=
+)
+     Ronald R. YAGER (Iona College, NY, USA)
+
+ Honorary President:
+ -------------------
+     Lotfi A. ZADEH (University of California at Berkeley, USA)
+
+ International Program Committee:
+ --------------------------------
+J. ACZEL (Canada)  J. AGUILAR-MARTIN (France) J. BALDWIN (U.K.)
+H. BERENJI (USA) P. BESNARD (France) J. BEZDEK ( USA)
+P. BONISSONE (USA) P. BOSC (France) M. DELGADO (Spain)
+D. DUBOIS ( France) F. ESTEVA  (Spain) M. FEDRIZZI (Italy)
+L. FOULLOY (France) P. GALLINARI (Franve) J.G. GANASCIA (France)
+M. GONDRAN (France) M. GRABISCH (France) S. GROSSBERG (USA)
+S. GUIASU (Canada) K. HIROTA (Japan) J. KACPRZYK (Poland)
+A. KANDEL (USA) E..P. KLEMENT (Austria) G. KLIR (USA)
+J. KOHLAS (Suisse) R. KRUSE (Germany) H.L. LARSEN (Denmark)
+J. LOWRANCE (USA) H. NGUYEN (USA) K.G. OLESEN (Denmark)
+S. OVCHINNIKOV  (USA) J. PITRAT (France) H. PRADE (France)
+D. RALESCU (USA) A.F. ROCHA (Brazil) E. RUSPINI (USA) A. SAGE (USA)
+E. SANCHEZ (France) R. SCOZZAFAVA (Italy) G. SHAFER (USA)
+P. SHENOY (USA) H.J. SKALA (Germany) P. SMETS (Belgium)
+M. SUGENO (Japan) T. TERANO (Japan) A. TITLI (France)
+E. TRILLAS (Spain) I.B. TURKSEN (USA) R. VALLEE (France)
+L. VALVERDE (Spain) A. VENTRE (Italy) J.L. VERDEGAY (Spain)
+M.A. VILA (Spain) T. YAMAKAWA (Japan) H. ZIMMERMANN (Germany)
+
+ Organizing Committee
+ --------------------
+A. BILLOT (Univ. Panth=E9on-Assas, France) Chairman
+N. ALADENISE (GIAT-Industries, UPMC) H. AKDAG (Universite de Reims, UPMC)
+C. MARSALA (UPMC) M. RIFQI  (UPMC) L. ZERROUKI  (INRETS, UPMC)
+
+                    ---------------------------------------------
+
+ Topics of particular interest:
+ ------------------------------
+Bayesian and Probabilistic Methods, Fuzzy Methods, Mathematical Theory of
+Evidence, Belief Networks, Possibility theory, Chaos Theory, Measures of
+Information and Uncertainty, Rough Sets
+
+Non-standard Logics, Non-monotonic Logics, Approximate Reasoning,
+Multivalued Logics, Modal Logics, Temporal Reasoning, Default Reasoning
+
+Knowledge Acquisition and Representation, Machine Learning, Inductive
+Methods, Commonsense Knowledge, Intelligent Databases and Information
+Systems, Neural Networks, Database Mining, Uncertainty in Cognition
+
+Intelligent Systems, Fuzzy Control, Genetic Algorithms and Evolutionary
+Computation, Uncertainty in Expert Systems, Decision Support Systems,
+Multicriteria and Group Decision Making, Pattern Recognition, Clustering,
+Classification, Data Analysis, Image Processing, Robotics, Belief Updating
+and Inconsistency Handling, Information Retrieval, Multi-media Management,
+Hybrid Systems, Financial Engineering, Intelligent agents
+
+                    ---------------------------------------------
+
+ Track on various utilizations of trees
+ --------------------------------------
+In honor of Claude Fran=E7ois PICARD who, based on the use of weighted tree=
+s,
+initiated questionnaire theory in the early sixties, we are organizing a
+special track on the applications of tree structures in information
+processing and management of uncertainty in knowledge-based systems.
+All types of papers on this topic will be appreciated, from theory to
+practice, from coding theory to decision-making, processing of natural
+language or arborescent causal networks.
+Please submit your papers with the indication "track on trees".
+
+                    ---------------------------------------------
+
+ Inquiries
+ ---------
+ IPMU'98, LIP6, UPMC, Case 169, 4 place Jussieu
+ 75252 Paris C=E9dex 05, France
+ fax  (33) 1 45 75 08 90
+ ipmu@laforia.ibp.fr
+ http://www-laforia.ibp.fr/~baslofti/ipmu.html
+
+                    ---------------------------------------------
+
+ Time Schedule:
+ --------------
+    September 15, 1997: Submission of special sessions
+    November 1, 1997: Submission of papers.
+    February 15, 1998: Notification of acceptance.
+    March 31, 1998: Submission of final papers.
+    May 15, 1998: Deadline for early registration.
+    July 6-10, 1998: CONFERENCE.
+
+                    ---------------------------------------------
+
+ Instructions for Authors:
+ -------------------------
+ Three copies of full papers (6 - 8 pages) must be submitted at at the
+secretariat address. No electronic or fax submission will be accepted.
+
+ Papers are in 2 columns with the overall line width of 17 cm. Each column
+is 8.25 cm wide.  The space between the columns is .7cm wide.  The left
+margin is 2.8cm and the right margin is 1 cm.  For those using Latex, you
+can find a Latex sty file, and a Latex sample file on the home page.
+ Communications may be either in English or in French.
+
+                  ---------------------------------------------
+
+ Preliminary registration form
+ -----------------------------
+
+   =8A=8A=8A=8A I am interested in attending the Conference.
+   =8A=8A=8A=8A I am interested in submitting a communication.
+
+        Title ...................................
+
+NAME : ....................................................................=
+=2E..
+
+FIRST NAME : .........................................................
+
+ADDRESS :
+=2E........................................................................=
+=2E..
+=2E..................
+
+ZIP CODE : .........................    CITY :
+=2E................................................
+
+COUNTRY : .........................................
+
+AFFILIATION :
+=2E........................................................................=
+=2E..
+=2E....
+
+TELEPHONE : .....................................  E-MAIL
+:......................................
+
+FAX : .................................................
+
+                  ---------------------------------------------
+
+
+
+

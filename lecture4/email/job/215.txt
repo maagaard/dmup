@@ -1,0 +1,45 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov  2 07:21:38 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id HAA13677;
+	Tue, 2 Nov 1999 07:21:32 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab28222;
+          1 Nov 99 22:51 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab28220;
+          1 Nov 99 22:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01135;
+          1 Nov 99 22:36 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa10281; 1 Nov 99 16:37 EST
+Received: from law-f162.hotmail.com by edrc.cmu.edu id aa18223;
+          1 Nov 99 16:36 EST
+Received: (qmail 70514 invoked by uid 0); 1 Nov 1999 21:36:46 -0000
+Message-ID: <19991101213646.70513.qmail@hotmail.com>
+Received: from 143.117.5.176 by www.hotmail.com with HTTP;
+	Mon, 01 Nov 1999 13:36:42 PST
+X-Originating-IP: [143.117.5.176]
+From: Fionn Murtagh <fmdist@hotmail.com>
+To: Connectionists@cs.cmu.edu
+Subject: Research Assistant position
+Date: Mon, 01 Nov 1999 13:36:42 PST
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Status: RO
+X-Status: 
+
+One-year Research Assistant position, PhD or near completion,
+School of Computer Science, The Queen's University of Belfast.
+Closing date November 12, 1999.
+
+- Neural networks for modeling and prediction in environmental
+  and financial data analysis,
+- And other applications including distributed information space
+  searching and navigation; compression and classification;
+  image and signal processing.
+
+Good publications will be of major benefit.  Further information:
+Prof F Murtagh, f.murtagh@qub.ac.uk
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

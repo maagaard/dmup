@@ -1,0 +1,80 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jun 28 14:28:04 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id OAA14732;
+	Mon, 28 Jun 1999 14:27:58 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02247;
+          28 Jun 99 6:17 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02245;
+          28 Jun 99 6:02 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21923;
+          28 Jun 99 6:02 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa15096; 28 Jun 99 5:44 EDT
+Received: from [144.32.40.9] by CS.CMU.EDU id aa09246; 28 Jun 99 5:44:35 EDT
+From: Jim Austin <austin@minster.cs.york.ac.uk>
+Message-Id: <9906281018.ZM661@minster.cs.york.ac.uk>
+Date: Mon, 28 Jun 1999 10:18:45 +0100
+X-Mailer: Z-Mail (3.2.1 6apr95 MediaMail)
+To: connectionists@cs.cmu.edu
+Subject: Lectureship in Neural Networks.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Status: RO
+X-Status: 
+
+
+LECTURESHIP IN NEURAL NETWORKS
+
+University of York, UK.
+
+Closing date 12 July 1999.
+
+
+Applications are invited for a Lectureship, available
+immediately, in any aspect of neural networks,
+including such areas as hardware implementation, parallel
+processing, cognitive aspects, modelling,
+and theory. You will join the Advanced Computer
+Architectures Group within the Department of
+Computer Science one of the UKs leading groups working
+in neural networks and a Department with
+the highest rating in research and teaching. The Group
+undertakes research in all the theory,
+implementation and application of neural networks,
+with over 10 researchers active in this area. The
+group attracts funds from many government sources
+including EPSRC and EU, as well as working with
+a number of industries including British Aerospace,
+The Post Office, Porta Systems and Glaxo-
+Welcome. The group is also well known for its work
+in the hardware implementation of neural
+networks with extensive support for this aspect of
+our research. The groups facilities include a SGI
+Origin 2000 32 node supercomputer, high performance
+workstations and a very supportive research culture.
+
+An associated post is also available in
+Computer Vision (see web below).
+
+Full information on the groups activities can be
+found on http://www.cs.york.ac.uk/arch/neural/.
+
+Full details of the post can be found at
+http://www.york.ac.uk/admin/persnl/jobs/3030.htm
+
+Informal enquires can be made to Prof. Jim Austin at
+austin@cs.york.ac.uk
+
+
+
+
+-- 
+
+Jim Austin, Professor of Neural Computation
+Advanced Computer Architecture Group,
+Department of Computer Science, University of York, York,
+YO10 5DD, UK.
+Tel : 01904 43 2734 Fax : 01904 43 2767
+web pages: http://www.cs.york.ac.uk/arch/
+

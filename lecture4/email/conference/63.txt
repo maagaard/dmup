@@ -1,0 +1,107 @@
+
+
+From ebert@cs.umbc.edu Fri Feb 27 22:48:19 MET 1998
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id WAA19773
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 27 Feb 1998 22:48:17 +0100 (MET)
+Received: from retriever.cs.umbc.edu (ebert@retriever.cs.umbc.edu [130.85.100.32])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id QAA16154
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 27 Feb 1998 16:39:16 -0500 (EST)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by retriever.cs.umbc.edu (8.8.8/8.8.6) id QAA00289
+	for fnielsen@eivind.imm.dtu.dk; Fri, 27 Feb 1998 16:39:15 -0500 (EST)
+Date: Fri, 27 Feb 1998 16:39:15 -0500 (EST)
+Message-Id: <199802272139.QAA00289@retriever.cs.umbc.edu>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Submit a Sketch to SIGGRAPH 98
+Status: RO
+X-Status: A
+
+
+
+			SUBMIT A SKETCH TO SIGGRAPH 98
+
+
+There's still time to participate in SIGGRAPH 98!  
+Deadline for Sketches is 5pm Eastern Daylight Time, April 1, 1998.
+
+Anything related to computer graphics is open for consideration in the
+Sketches program.  Sketches provide a forum for interchange of unique,
+interesting ideas and techniques in computer graphics.  Sketch
+abstracts will be published in an appropriate SIGGRAPH 98 publication.
+Submit your latest research, designs, artwork and animations.
+
+Sketches are lively presentations of interesting new ideas, unique
+collaborations, late-breaking results, works in progress, and novel
+applications of computer graphics techniques and technology. Because
+their format promotes audience feedback, live demonstrations, and
+lively discussion, Sketches recapture some of the immediacy and
+intimacy of the early SIGGRAPH conferences.
+
+Sketches are ideal opportunities for artists, designers, animators, or
+engineers who want to explain how they created their work.
+
+There are four Sketch categories (these are intended as a guide --
+don't let the fact that your submission does not fall neatly into one of
+these categories prevent you from submitting a sketch.):
+
+	Technical	Authors are invited to submit descriptions of
+			their latest research works in progress, and
+			technical innovations.  
+
+	Art & Design	Artists and graphic designers are invited to
+			submit descriptions of graphic designs that
+			utilize unique or interesting ideas. 
+
+	Animations	Computer animators are invited to present
+			descriptions of their latest techniques and
+			products for producing animations.
+
+	Applications	Organizations or individuals are invited to
+			submit proposals for demonstrations or
+			presentations of computer graphics
+			technologies applied in the real world.  The
+			emphasis is on the practical use of computer
+			graphics as a tool for solving everyday problems.
+
+Each accepted Sketch receives one Conference Access registration and
+one copy of the appropriate conference publication.
+
+For general Sketch information, contact Rick Parent at the address
+below or see http://www.siggraph.org/s98/cfp/sketches/index.html
+
+           Rick Parent
+           SIGGRAPH 98 Sketches Chair
+           The Ohio State University
+           Department of Computer and
+           Information Science
+           395 Dreese Laboratory
+           Columbus, Ohio 43210-1277 USA
+           +1.614.292.0055
+           sketches-s98@siggraph.org
+
+For specific questions about the Technical Sketches program, contact
+David Ebert at the address below:
+	David S. Ebert
+	SIGGRAPH 98 Technical Sketches Co-Chair
+	University of Maryland Baltimore County
+	CSEE Department, ECS 210
+	1000 Hilltop Circle
+	Baltimore, MD  21250  USA
+	+1.410.455.3541
+	+1.410.455.3969 fax
+	ebert@umbc.edu
+
+
+To request a copy of the Call for Participation, contact:
+
+	SIGGRAPH 98 Conference Management
+	Smith, Bucklin & Associates, Inc.
+	401 North Michigan Avenue
+	Chicago, Illinois 60611 USA
+	+1.312.321.6830
+	+1.312.321.6876 fax
+	siggraph98@siggraph.org
+	
+

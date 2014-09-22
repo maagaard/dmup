@@ -1,0 +1,85 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Apr 14 19:21:46 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA22784;
+	Wed, 14 Apr 1999 19:21:27 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12501;
+          14 Apr 99 11:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12499;
+          14 Apr 99 11:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24719;
+          14 Apr 99 11:35 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa21824; 14 Apr 99 6:28 EDT
+Received: from alumnus.caltech.edu by EDRC.CMU.EDU id aa16502;
+          14 Apr 99 6:27:36 EDT
+Received: (from ingber@localhost)
+	by alumnus.caltech.edu (8.9.1/8.9.1) id DAA11127
+	for connectionists@cs.cmu.edu; Wed, 14 Apr 1999 03:26:57 -0700 (PDT)
+Message-ID: <19990414052656.A11119@ingber.com>
+Date: Wed, 14 Apr 1999 05:26:56 -0500
+From: Lester Ingber <ingber@ingber.com>
+To: connectionists@cs.cmu.edu
+Subject: Trading Research/Programmer Positions Chicago
+Reply-To: Lester Ingber <ingber@ingber.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 0.93.2i
+X-FTP: ftp.ingber.com
+X-URL: http://www.ingber.com/
+X-URL-ALT: http://www.alumni.caltech.edu/~ingber/
+X-PGP-FINGER: ingber@alumni.caltech.edu
+Status: RO
+X-Status: 
+
+Trading Research/Programmer Positions Chicago
+
+* Open R&D Positions in Computational Finance/Chicago
+DRW Investments, LLC, a proprietary trading firm based at the Chicago
+Mercantile Exchange, with a branch office in London, is expanding its
+research department.  This R&D group works directly with other traders
+as well develops its own automated trading capabilities.
+
+* Programmers/Analysts   --  Full Time
+At least 2-3 years experience programming in C or C++.  Must have
+excellent background in Math, Physics, or similar disciplines.  An
+advanced programmer/analyst position will be primarily dedicated to
+developing and coding algorithms for automated trading.  An
+intermediate programmer/analyst position will be primarily dedicated to
+database management and integrating R&D codes for trader support.
+Flexible hours in intense environment.  Requires strong commitment to
+several ongoing projects with shifting priorities.  See
+http://www.ingber.com/ for some papers and code used on current
+projects.  Please email Lester Ingber <ingber@drwtrading.com> a resume
+regarding this position.
+
+* Graduate Students  --  Part Time
+We are looking for part-time graduate students in computational finance
+who might impact our trading practices.  We expect that each graduate
+student will be a full-time PhD student at a local university, spending
+approximately 10-20 hours/week at DRW.  Projects will focus on
+publishable results.  See http://www.ingber.com/ for some papers on
+current projects.  Please email Lester Ingber <ingber@drwtrading.com> a
+resume regarding these positions.
+
+* Trading Clerks -- Full Time
+We are seeking motivated individuals with a strong work ethic and desire
+to learn about trading.  Our primary focus is on financial futures and
+options.  Responsibilities include actively assisting traders in all
+aspects of trading.  Exposure to math including calculus and statistics
+is desirable.  Please email Jeff Levoff <jlf@drwtrading.com> a resume
+or any questions regarding these positions.
+
+* Additional Information
+We are planning our move to larger offices in our present vicinity of
+the Chicago exchanges before August 1999.  Programmer/analyst and
+graduate student positions will be filled after our move.
+
+* Updates
+Updates on the status of open DRW positions will be placed in
+http://www.ingber.com/MISC.DIR/drw_open_positions
+
+-- 
+ /* Lester Ingber      http://www.ingber.com/       ftp://ftp.ingber.com *
+  * ingber@ingber.com  ingber@alumni.caltech.edu   ingber@drwtrading.com *
+  * PO Box 06440       Wacker Dr PO  Sears Tower   Chicago IL 60606-0440 */

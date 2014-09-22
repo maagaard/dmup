@@ -1,0 +1,55 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 20 21:01:30 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA14370;
+	Wed, 20 Jan 1999 21:01:22 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa17164;
+          20 Jan 99 13:19 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17145;
+          20 Jan 99 13:01 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11978;
+          20 Jan 99 13:00 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab00983; 20 Jan 99 12:48 EST
+Received: from zebra.ini.unizh.ch by RI.CMU.EDU id aa01077;
+          20 Jan 99 12:48:10 EST
+Received: from ini.phys.ethz.ch (IDENT:giacomo@zio.ini.unizh.ch [130.60.71.53])
+	by zebra.ini.unizh.ch (8.9.2/8.9.2) with ESMTP id SAA08336;
+	Wed, 20 Jan 1999 18:23:27 +0100 (MET)
+Sender: giacomo@ini.phys.ethz.ch
+Message-ID: <36A6110F.A2AAC191@ini.phys.ethz.ch>
+Date: Wed, 20 Jan 1999 17:23:27 +0000
+From: Giacomo Indiveri <giacomo@ini.phys.ethz.ch>
+Organization: INI
+X-Mailer: Mozilla 4.5 [en] (X11; I; Linux 2.0.35 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: tell-all@ini.phys.ethz.ch, cns-interest@cns.caltech.edu,
+        connectionists@cs.cmu.edu, cneuro@bbb.caltech.edu
+Subject: TELLURIDE NEUROMORPHIC ENGINEERING WORKSHOP
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+We invite applications  for an exciting  three week summer workshop on
+Neuromorphic Engineering that will be held in Telluride, Colorado from
+Sunday, June 27 to Saturday, July 17, 1999.
+
+Details of the workshop and application instructions are at the URL:
+http://www.ini.unizh.ch/telluride99
+
+
+--
+
+Avis COHEN (University of Maryland)
+Rodney DOUGLAS (Institute of Neuroinformatics, UNI/ETH Zurich,
+Switzerland)
+Christof KOCH (California Institute of Technology)
+Terrence SEJNOWSKI (Salk Institute and UCSD)
+Shihab SHAMMA (University of Maryland)
+and
+Timmer HORIUCHI (Johns Hopkins University)
+Giacomo INDIVERI (Institute of Neuroinformatics, UNI/ETH Zurich,
+Switzerland)
+

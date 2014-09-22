@@ -1,0 +1,179 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jun  9 12:25:48 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA05914;
+	Wed, 9 Jun 1999 12:25:41 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab17372;
+          8 Jun 99 14:19 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa17361;
+          8 Jun 99 14:10 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11617;
+          8 Jun 99 14:09 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab07135; 8 Jun 99 12:28 EDT
+Received: from postbox.dai.ed.ac.uk by RI.CMU.EDU id aa03714;
+          8 Jun 99 12:28:08 EDT
+Received: from curlew (curlew.dai.ed.ac.uk [129.215.41.194])
+	by postbox.dai.ed.ac.uk (8.8.7/8.8.7) with SMTP id RAA02986
+	for <connectionists@cs.cmu.edu>; Tue, 8 Jun 1999 17:27:58 +0100 (BST)
+Date: Tue, 8 Jun 1999 17:27:58 +0100 (BST)
+From: Chris Williams <ckiw@dai.ed.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Call for Participation: ICANN 99 post-conference workshops
+Message-ID: <Pine.SOL.3.95.990608172525.18760I-100000@curlew.dai.ed.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear Connectionists,
+
+Below are brief announcements of the 5 ICANN 99 post-conference
+workshops taking place at the University of Edinburgh on Saturday 11
+September 1999. See 
+
+http://www.dai.ed.ac.uk/daidb/people/homes/ckiw/icann/
+
+and the URLs listed below for further details.
+
+* Call for participation/presentations
+
+This is a call for participation/presentations for these workshops. Please
+see the individual workshop web pages for details, and then contact the 
+appropriate organizers.
+
+* Registration Arrangements
+
+Registration for the workshops is free. Those registering for the
+ICANN conference should register for the workshops on the same
+form. Anyone not attending the conference should register with the
+organizers of the workshop(s) they wish to attend. We need you to do
+this so that we can get rooms of a suitable size for the workshops.
+Those attending are responsible for their own travel and accommodation
+arrangements.
+
+
+Chris Williams
+ICANN 99 Post-Conference workshops organizer
+
+--------------------------------------------------------------------------
+
+     Interactions between theoretical and experimental approaches in
+                     developmental neuroscience
+
+     Organizers: Stephen Eglen, Bruce Graham, David Willshaw (Edinburgh)
+          http://www.anc.ed.ac.uk/~stephen/workshop.html
+
+This workshop will highlight the role of theoretical approaches in
+understanding the development of the nervous system. It will also
+allow us to discuss the ways in which experimental and theoretical
+approaches can interact on various developmental problems.
+
+The workshop will examine several key areas in neural development: 
+
+       Growth and branching in dendritic trees. 
+       Molecular gradients, and their role in topographic mappings. 
+       Neurotrophic factors. 
+       Visual system development. 
+       Development of innervation at the neuromuscular junction. 
+
+
+--------------------------------------------------------------------------
+
+     Emergent Neural Computation Architectures Based on Neuroscience 
+
+     Organizers: Stefan Wermter (Sunderland), Jim Austin (York),
+                 David Willshaw (Edinburgh)
+       http://www.his.sunderland.ac.uk/emernet/icann99w.html
+
+Areas of interest include issues of neuroscience and neural network, such as: 
+
+    1.Synchronisation: How does the brain synchronise its processing?
+      How does the brain schedule its processing?
+    2.Processing speed: How does the brain compute with relatively
+      slow computing elements but still achieve rapid and real time
+      performance?
+    3.Robustness: How does human memory manage to continue to operate
+      despite failure of its components?
+    4.Modular construction: What can we learn from the brain for
+      building modular more powerful artificial neural network architectures
+      to solve larger tasks?
+    5.Learning in context: How can we build learning algorithms which
+      consider context? How can we design incremental learning algorithms
+      and dynamic architectures?
+
+--------------------------------------------------------------------------
+          
+            Neural Networks for Intelligent User Interfaces
+
+     Organizers: Rainer Malaka (Heidelberg), Ramin Yasdi (Sankt Augustin)
+      http://www.dai.ed.ac.uk/daidb/people/homes/ckiw/icann/malaka.html
+
+User interfaces that adapt themselves to individual needs,
+preferences, and knowledge of their users are becoming more and more
+important.  Personalized interfaces are of special importance to deal
+with information overload and navigation by personalizing and
+improving the quality of information retrieval and filtering,
+information restructuring and annotation, as well as information
+visualization. The development of these new intelligent user
+interfaces require techniques that enable computer programs to learn
+how to serve the user most efficiently. Neural networks are not yet
+widely used within this challenging domain.  But the domain seems to
+be an interesting new application area for neural networks due to
+availability of large sets of data and the required automatic
+adaptation to new situations and users.  Therefore, growing interest
+in using various powerful learning methods known from neural network
+models for intelligent user interfaces is arising among researchers.
+
+
+--------------------------------------------------------------------------
+
+Kernel Methods: Gaussian Process and Support Vector Machine predictors
+
+Organizers: Carl Edward Rasmussen (Lyngby), Roderick Murray-Smith (Lyngby)
+            Alex Smola (Berlin), Chris Williams (Edinburgh)
+       
+
+http://www.dai.ed.ac.uk/daidb/people/homes/ckiw/icann/gpsvm.html
+
+This workshop aims to bring together people working with Gaussian
+Process (GP) and Support Vector Machine (SVM) predictors for
+regression and classification problems. The scope of the workshop includes: 
+
+       Methods for choosing kernels: 
+              Generic vs problem specific issues 
+              Uniform convergence and Bayesian theory 
+       Efficient implementation/approximation of GP and SVM predictors 
+       on large datasets 
+       GP classifiers: MCMC methods, variational and Laplace approximations 
+       Kernel methods for dynamic system modelling 
+       Applications of Kernel methods 
+
+
+--------------------------------------------------------------------------
+
+         Developments in Artificial Neural Network Theory: 
+     Independent Component Analysis and Blind Source Separation
+                Organizer: mark Girolami (Paisley)
+http://cis.paisley.ac.uk/staff/giro-ci0/ICANN99/ICANN99_ICA_WS.html
+
+This workshop seeks to re-focus the attention of ANN researchers by
+exploring how ICA / BSS and its further development can push forward
+our knowledge of the computational brain. Proposals are solicited for
+presentation and discussion that address and explore some of the
+following topics:
+
+               Models of Sensory Coding in the Brain 
+               Mammalian Visual Cortex 
+               Image Feature Extraction 
+               Natural Image Statistics and Efficient Coding 
+               Auditory Modelling and the Binaural Cocktail Party Effect
+               Over-complete Basis Representations 
+               State Space Models 
+               Time Varying Mixtures 
+               Non-linear ICA and Topographic Mappings 
+               Applications of ICA to Electrophysiological Data 
+
+
+
+

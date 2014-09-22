@@ -1,0 +1,207 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sun Feb  7 08:09:33 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA22923;
+	Sun, 7 Feb 1999 08:09:22 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa04869;
+          7 Feb 99 0:46 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa04867;
+          7 Feb 99 0:34 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12765;
+          7 Feb 99 0:34 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa10527; 6 Feb 99 18:39 EST
+Received: from equinox.comnet.unr.edu by EDRC.CMU.EDU id aa12165;
+          6 Feb 99 18:38:56 EST
+Received: from aspen.cs.unr.edu (aspen.cs.unr.edu [134.197.40.251])
+	by equinox.comnet.unr.edu (8.9.1a/8.9.1) with ESMTP id PAA25595;
+	Sat, 6 Feb 1999 15:38:26 -0800 (PST)
+Received: from crete.cs.unr.edu by aspen.cs.unr.edu (8.8.8/1.34-UNR-sd-ptp-1.00)
+	id PAA06806; Sat, 6 Feb 1999 15:38:47 -0800 (PST)
+Received: from crete.cs.unr.edu (crete.cs.unr.edu [134.197.40.115])
+	by crete.cs.unr.edu (8.9.1b+Sun/8.9.1) with SMTP id PAA01323;
+	Sat, 6 Feb 1999 15:38:47 -0800 (PST)
+Message-Id: <199902062338.PAA01323@crete.cs.unr.edu>
+Date: Sat, 6 Feb 1999 15:38:47 -0800 (PST)
+From: George Bebis <bebis@cs.unr.edu>
+Reply-To: George Bebis <bebis@cs.unr.edu>
+Subject: IEEE International Conference on Information, Intelligence and Systems
+To: connectionists@cs.cmu.edu, neuron-uk@mailbase.ac.uk,
+        cneuro@bbb.caltech.edu, owner-neuromotor-control@cs.umass.edu,
+        cogneuro@ptolemy.arc.nasa.gov, cvnet@skivs.ski.org
+MIME-Version: 1.0
+Content-Type: MULTIPART/mixed; BOUNDARY=Nursery_of_Raccoons_790_000
+X-Mailer: dtmail 1.3.0 CDE Version 1.3 SunOS 5.7 sun4u sparc 
+Status: RO
+X-Status: 
+
+--Nursery_of_Raccoons_790_000
+Content-Type: TEXT/plain; charset=us-ascii
+Content-MD5: gQUbzCzxvt83giSwqT4odw==
+
+
+
+--Nursery_of_Raccoons_790_000
+Content-Type: TEXT/plain; name="cfp.txt"; charset=us-ascii; x-unix-mode=0644
+Content-Description: cfp.txt
+Content-MD5: e/spARe17g5LEf8XD1lD+w==
+
+                            First Call for Papers
+
+   IEEE International Conference on Information, Intelligence and Systems
+                                 (Symposia)
+
+                             November 1-3, 1999
+                               Washington, DC
+
+                               Sponsored by :
+                            IEEE Computer Society
+
+                           In Cooperation with :
+        AAAI Society; SMC Society; NN Society; IAPR Society; ACM Society
+         PAMI TC; Virtual Intelligence TC; TAI Conference; BU-CIS Center,
+                               TUCrete and UCrete
+
+         Conference includes tours to NIST or NASA and NIH or TIGR
+
+                       http://iciis99.cs.unr.edu/
+
+  ------------------------------------------------------------------------
+
+The IEEE International Conference on Information, Intelligence, and Systems
+(ICIIS) offers theoretical and practical media for the constructive interaction
+among scientists and practitioners from different research fields
+(computers, mathematics, physics, biology, medicine, chemistry,
+engineering, etc) having as goals the development of methodologies and
+tools for the solution of complex problems in neuroscience and
+biology, automation and robotics, image, speech and natural languages,
+and their integration. The conference is organized as four simultaneous
+single-track symposia.
+
+General Symposia Chair:
+N.G.Bourbakis, BU, CIS & UC
+Email:Bourbaki@Binghamton.edu
+Phone:(607) 777-2165
+
+  ------------------------------------------------------------------------
+
+IEEE Symposium on INTELLIGENCE in NEURAL and BIOLOGICAL SYSTEMS (INBS)
+
+SOME TOPICS: Biological Models, Computational Biology, Evolutionary
+Dynamics, Evolutionary Computation Models, Molecular Biology, DNA Sequence
+Processing, Genome Processes, DNA Topologies, Genome Mapping and Sequencing,
+Learning, Perception, Models of Neural Nets, Neuroscientific Models, etc.
+
+     Program Chairs: J.Gattiker, LANL, and J. Wang, NJIT
+     Phone: (505) 665-0604 & (973) 596-3396
+     Email: gatt@lanl.gov & jason@village.njit.edu
+
+     Submit summary to:
+          JR Gattiker
+          TA3, SM43, MSF645, DP13S, XCM
+          Los Alamos National Laboratory
+          Los Alamos, NM 87544
+
+  ------------------------------------------------------------------------
+
+IEEE Symposium on INTELLIGENCE in AUTOMATION and ROBOTICS (IAR)
+
+SOME TOPICS: Robot Path Planning, Multiple Robot Motion Planning, Autonomous
+Navigation, Arm/Leg Control, Robot Vision, Visual Tracking, Human-Robot
+Symbiosis, Telerobotics, Micro and Nano Robotics, Robot Cooperation,
+Assembly Strategies, Sensors, , Walking/Running Robots, Task Planning,
+Process Planning, Scheduling, Intelligent Control, etc.
+
+     Program Chairs: L. Tsoukalas, Purdue U. and A.Tascillo, Ford
+     Phone: (765) 494-0198 & (313) 845-7427
+     Email: tsoukala@helios.ecn.purdue.edu & atascill@ford.com
+
+     Submit summary to:
+          L. Tsoukalas
+          1290 Nuclear Engineering Building
+          Purdue University
+          West Lafayette, IN 47907-1290
+
+  ------------------------------------------------------------------------
+
+IEEE Symposium on IMAGE, SPEECH, NATURAL LANGUAGE SYSTEMS (ISNLS)
+
+SOME TOPICS: Image (Coding, Compression, Encryption, Segmentation,
+Enhancement, Restoration, Skeletonization, Analysis, Morphology, Databases,
+Video, Pattern Recognition, OCR, Image Understanding & Interpretations,
+Mathematical Methods); Speech (Coding, Compression, Processing, Analysis,
+Synthesis, Recognition, Understanding); Natural Language (NL) Processing,
+Computational Linguistics, Document Processing, NL Translation, NL
+Understanding, Multimedia, etc.
+Papers on the technical details of the commercial (e.g. , consumer
+electronics) , scientific, and medical applications of the above are
+encouraged.
+
+     Program Chairs: G. Bebis, U. Nevada, and S. Amer, USGS
+     Phone: (702) 784-6463 & (605) 594-6864
+     Email: bebis@cs.unr.edu & samer@edcmail.cr.usgs.gov
+
+     Submit summary to:
+          George Bebis
+          Dept of Computer Science
+          University of Nevada
+          Reno, NV 89557
+
+  ------------------------------------------------------------------------
+
+IEEE Symposium on INFORMATION and INTELLIGENT AGENTS (IIA)
+
+SOME TOPICS: Agent models and architectures, Agent-oriented programming,
+Communication issues and protocols, Cooperation and coordination,
+Cooperative information systems, Conflict resolution and negotiation,
+Distributed search, Intelligent agents, Multiagent planning and learning,
+Practical applications (Enterprise integration, Feature interaction,
+Information gathering, Manufacturing, Software agents, Software
+engineering), Testbeds and development environments, User interface issues.
+
+     Program Chairs: C. Koutsougeras, Tulane U., and S. Mertoguno, FUJITSU.
+     Phone: (504) 862-3369 & (408) 922-9520
+     Email: ck@eecs.tulane.edu & jmertohu@fmi.fujitsu.com
+
+     Submit summary to:
+          Chris Koutsougeras
+          Electrical Engineering and Computer Science Dept.
+          Tulane University
+          New Orleans, LA 70118
+
+  ------------------------------------------------------------------------
+
+ Information for Authors:
+
+Please send four copies of a paper or an extended summary (3-6 pages)
+describing the methodology and/or results by May 15, 1999 to the appropriate
+Program Chair's address above. Notification of acceptance (please provide 
+email address or fax number) by June 30, 1999. Camera ready articles by 
+August 15, 1999. 
+
+ Publication of Papers and Awards:
+
+This is a fully refereed conference. The proceedings will be published by 
+IEEE Computer Society Press. A collection of best papers will be published 
+in an archival Journal and an Award will be given to each best paper per 
+Symposium. For further details or more up-to-date information please visit 
+the conference WWW page at http://iciis99.cs.unr.edu/ 
+
+ Special Sessions:
+
+Proposals are invited for special sessions on any topic relevant to
+the symposium. If you are interested in organizing an special session
+please follow the procedure outlined below:
+
+1. Submit a proposal (topic area) to one the appropriate program chair.
+
+2. Upon approval, recruit authors for the session (2 hours, 4/5 papers)
+   and review papers for appropriate topic/contents.
+
+3. Session chair submits abstract *package* of author/title/extended
+   abstracts to the appopriate program chair by May 30.
+
+4. Editorial comments, and official acceptance of the session will be
+   made by the program chair(s) by June 30.
+
+--Nursery_of_Raccoons_790_000--

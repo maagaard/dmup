@@ -1,0 +1,91 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Mar  5 03:10:23 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA16636;
+	Fri, 5 Mar 1999 03:10:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10460;
+          4 Mar 99 20:15 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10458;
+          4 Mar 99 20:01 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa25615;
+          4 Mar 99 20:01 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13218; 4 Mar 99 9:25 EST
+Received: from [144.32.40.9] by CS.CMU.EDU id aa04712; 4 Mar 99 9:23:37 EST
+From: Jim Austin <austin@minster.cs.york.ac.uk>
+Message-Id: <9903041403.ZM14635@minster.cs.york.ac.uk>
+Date: Thu, 4 Mar 1999 14:03:18 +0000
+X-Mailer: Z-Mail (3.2.1 6apr95 MediaMail)
+To: Connectionists@cs.cmu.edu
+Subject: 3 year PhD studentship from April 1999.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Status: RO
+X-Status: 
+
+
+
+
+Available from the 1st April 1999.
+
+CASE PhD Studentship in Computer Science and Chemistry.
+University of York, York, UK.
+Supported by the BBSRC and Glaxo-Wellcome Ltd.
+
+Chemical structure matching using neural networks.
+
+Applicants are urgently requested to apply for a three year BBSRC PhD
+studentship supported by Glaxo-Wellcome under the industrial CASE
+scheme. The project will investigate the use of neural network based
+search systems for chemical structure matching in large chemical
+databases. The focus of the studentship will be in identifying the
+benefits of the methods in chemistry, and in the optimisation of the
+methods for small molecule and protein structure matching in very
+large molecular database systems.
+
+The project will be undertaken in the Departments of Chemistry
+(Protein Chemistry Group) and Computer Science (Neural Networks
+Research group) at the University of York and at the Glaxo-Wellcome
+research centre in Peterborough within the Computational Chemistry
+Group. All groups are internationally known for their work in neural
+networks or computational chemistry.
+
+The work will build on collaborative research over the last three
+years between the three groups, details of which can be found in our
+web page
+(http://www.cs.york.ac.uk/arch/neural/research/adam/molecules).
+
+Candidates will have a first degree in chemistry and will have
+programming ability (preferably in C++, under UNIX). Additional
+experience in Computer Science and neural networks would be an
+advantage but is not essential.
+
+The post must be filled on the 1st April 1999, thus candidates must be
+available to take up the post at that date. The deadline for
+applications is 15th March 1999 with interviews to be held as soon as
+possible after that date.
+
+Applications can be made by email, fax or by post. Informal enquiries
+can be made to Prof. Jim Austin at the address below.
+
+Prof. Jim Austin
+Department of Computer Science
+University of York
+York
+YO10 5DD, UK
+
+Tel: 01904 432734
+Fax: 01904 432767
+email: austin@cs.york.ac.uk
+
+
+
+-- 
+
+Jim Austin, Professor of Neural Computation
+Advanced Computer Architecture Group,
+Department of Computer Science, University of York, York,
+YO10 5DD, UK.
+Tel : 01904 43 2734 Fax : 01904 43 2767
+web pages: http://www.cs.york.ac.uk/arch/
+

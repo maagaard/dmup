@@ -1,0 +1,204 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Sep 11 02:31:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA24257;
+	Sat, 11 Sep 1999 02:31:35 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19598;
+          10 Sep 99 17:32 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19596;
+          10 Sep 99 17:26 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11023;
+          10 Sep 99 17:26 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa06782; 10 Sep 99 13:35 EDT
+Received: from turing.cere.pa.cnr.it by RI.CMU.EDU id aa10487;
+          10 Sep 99 13:34:01 EDT
+Received: from unipa.it (chella.cere.pa.cnr.it [147.163.3.35])
+	by turing.cere.pa.cnr.it (8.9.0/8.9.0) with ESMTP id TAA16941
+	for <connectionists@cs.cmu.edu>; Fri, 10 Sep 1999 19:32:15 +0200
+Message-ID: <37D940E8.CA4E081A@unipa.it>
+Date: Fri, 10 Sep 1999 19:33:30 +0200
+From: Antonio Chella <chella@unipa.it>
+Organization: University of Palermo
+X-Mailer: Mozilla 4.61 (Macintosh; I; PPC)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: INTERNATIONAL SCHOOL ON NEURAL NETS <<E.R. CAIANIELLO>>
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by turing.cere.pa.cnr.it id TAA16941
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id CAA24257
+Status: RO
+X-Status: 
+
+[We apologize for multiple copies]
+
+INTERNATIONAL SCHOOL ON NEURAL NETS <<E.R. CAIANIELLO>>
+
+4th Course: Subsymbolic Computation in Artificial Intelligence
+
+ERICE-SICILY: October 24-31, 1999
+
+
+Motivations
+
+Autonomous intelligent agents that perform complex real world
+tasks must be able to build and process rich internal
+representations that allow them to effectively draw inferences,
+make decisions, and, in general, perform reasoning processes
+concerning their own tasks.
+
+Within the computational framework of artificial intelligence
+(AI) this problem has been faced in different ways. According to
+the classical, symbolic approach, internal representations are
+conceived in terms of linguistic structures, as expressions of a
+"language of thought". Other traditions developed approaches
+that are less linguistically oriented, and more biologically and
+anatomically motivated. It is the case of neural networks, and of
+self-organizing and evolutionary algorithms.
+Empirical results concerning natural intelligent systems suggest
+that such approaches are not fully incompatible, and that
+different kinds of representation may interact. Similarly, it can be
+argued that the design of artificial intelligent systems can take
+advantage from different kinds of interacting representations,
+that are suited for different tasks.
+
+In this perspective, theoretical frameworks and methodological
+techniques are needed, that allow to employ together in a
+principled way different kinds of representation. In particular,
+autonomous agents need to find the meaning for the symbols
+they use within their internal processes and in the interaction
+with the external world, thus overcoming the well-known symbol
+grounding problem.
+
+An information processing architecture for autonomous
+intelligent agents should exhibit processes that act on suitable
+intermediate levels, which are intermediary among sensory
+data, symbolic level, and actions. These processes could be
+defined in terms of subsymbolic computation paradigms, such
+as neural networks, self-organizing, and evolutionary
+algorithms.
+
+DIRECTOR OF THE COURSE: Salvatore Gaglio
+DIRECTOR OF THE SCHOOL: M.I.,Jordan – M. Marinaro
+DIRECTOR OF THE CENTRE: A. Zichichi
+SCIENTIFIC SECRETARIAT: Edoardo Ardizzone,
+Antonio Chella, Marcello Frixione
+
+WEB PAGE OF THE SCHOOL: http://www.cere.pa.cnr.it/ScuolaErice/
+
+ÿÿÿÿÿÿÿÿÿÿÿÿ
+
+PROGRAM
+
+FOUNDATIONS
+
+Introduction to Artificial Intelligence
+L. CARLUCCI AIELLO, University of Rome "La Sapienza", Rome, Italy
+
+Neural modelling of higher order cognitive processes
+J. TAYLOR, King's College, London, UK
+
+Connections Models for Data Structures
+M. GORI, University of Siena, Siena, Italy
+
+Neural Systems Engineering
+I. ALEXANDER, Imperial College, London, UK
+
+                                                    
+ASEIT (Advanced School on Electronics and Information Technology)
+OPEN INTERNATIONAL WORKSHOP ON SUBSYMBOLIC TECHNIQUES AND ALGORITHMS
+
+P. GARDENFORS, Lund University, Sweden
+I. ALEXANDER, Imperial College, London, UK
+T. KOHONEN, Helsinki University of Technology, Finland
+J. TAYLOR, King's College, London, UK
+R. ARKIN, Georgia Institute of Technology, USA
+
+                                                    
+REPRESENTATION
+
+Conceptual Spaces
+P.GARDENFORS, Lund University, Sweden
+
+Topological Self Organizing Maps
+T. KOHONEN, Helsinki University of Technology, Finland
+
+Symbolic Representation
+L. CARLUCCI AIELLO, University of Rome "La Sapienza", Rome, Italy
+
+                                                    
+VISUAL PERCEPTION
+
+Evolutionary Processes for Artificial Perception
+G. ADORNI, University of Parma, Italy
+S. CAGNONI, University of Parma, Italy
+
+Cognitive Architectures for Artificial Intelligence
+M. FRIXIONE, University of Salerno
+S. GAGLIO, University of Palermo
+
+Algorithms for computer vision
+V. DI GESU', University of Palermo, Italy
+
+                                                    
+ACTION
+
+Motion Maps
+P. MORASSO, University of Genoa, Italy
+
+The self-organisation of grounded languages on autonomous robots
+L. STEELS, Free University of Brussels, Belgium
+
+Reinforcement Learning in Autonomous Robots
+C. BALKENIUS, Lund University, Sweden
+
+Behaviour-Based Robotics
+R. ARKIN, Georgia Institute of Technology, USA
+
+ÿÿÿÿÿÿÿÿÿÿÿÿ
+
+APPLICATIONS
+
+Interested candidates should send a letter to the Director of the Course:
+
+Professor Salvatore GAGLIO
+Dipartimento di Ingegneria Automatica e Informatica
+Universita' di Palermo
+Viale delle Scienze
+90128 - PALERMO - ITALY
+E-mail: gaglio@unipa.it
+
+They should specify:
+1.date and place of birth, together with present nationality;
+2.affiliation;
+3.address, e-mail address.
+
+Please enclose a letter of recommendation from the group leader
+or the Director of the Institute or from a senior scientist.
+
+PLEASE NOTE
+
+Participants must arrive in Erice on October 24, not later than 5:00 pm.
+
+IMPORTANT
+
+The total fee, which includes full board and lodging (arranged
+by the School), is EURO 1000 (about 1000 USD). Thanks to the
+generosity of the sponsoring institutions, partial or full
+support can be granted to some deserving students who need
+financial aid. Requests to this effect must be specified and
+justified in the letter of application.
+
+Closing date for application: September 20, 1999
+
+A limited number of places is available. Admission to the
+Workshop will be decided in consultation with the Advisory
+Committee of the School composed of Professors S. Gaglio,
+M. Marinaro, and A. Zichichi.
+
+An area for some contributed poster presentations will be
+available. These will be selected on the bases of an abstract
+of two A4 pages to be sent to the Director of the Course before
+September 20, 1999.

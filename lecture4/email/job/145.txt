@@ -1,0 +1,93 @@
+
+
+From spm-request@mailbase.ac.uk Sun Jul  4 17:24:00 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id RAA23970
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 4 Jul 1999 17:23:58 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id QAA24917;
+	Sun, 4 Jul 1999 16:18:53 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id QAA12071;
+        Sun, 4 Jul 1999 16:14:40 +0100 (BST)
+Received: from vaxs.sscl.uwo.ca (vaxs.sscl.uwo.ca [129.100.38.14]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id QAA12063;
+        Sun, 4 Jul 1999 16:14:37 +0100 (BST)
+Received: from [129.100.38.175] by SSCL.UWO.CA (PMDF V5.1-8 #29879)
+ with ESMTP id <01JD5XRANWCY96W3AD@SSCL.UWO.CA> for spm@mailbase.ac.uk; Sun,
+ 4 Jul 1999 11:16:30 EST
+Date: Sun, 04 Jul 1999 11:14:38 -0400
+Message-id: <v03007803b3a52a9801cc@[129.100.38.175]>
+MIME-version: 1.0
+Content-type: text/enriched; charset="us-ascii"
+Content-transfer-encoding: quoted-printable
+Subject: Post Doc in fMRI
+From: "G. Keith Humphrey" <keith@julian.uwo.ca>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "G. Keith Humphrey" <keith@julian.uwo.ca>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+
+Could you please place the following advert on the SPM network.
+
+
+Thank you,
+
+
+Keith Humphrey
+
+
+__________
+
+<fontfamily><param>Times</param><smaller>Applications are invited for a
+postdoctoral position funded by the Medical Research Council of Canada.
+ The applicant will conduct research on the temporal sequencing of
+information processing in the human brain.  The research involves using
+psychophysical methods in combination with a new fMRI technique having
+the kind of high-temporal resolution characteristic of VEPs (See Menon,
+R.S. & Kim, S. (1999).  Spatial and temporal limits in cognitive
+neuroimaging with fMRI.  Trends In Cognitive Sciences, 3 (6), 207-216).
+ In particular, the research will involve further development of robust
+single-event fMRI capabilities and the use of such single-event fMRI to
+characterize the relationships between behavioural and neural measures
+of response latency to visual stimuli.
+
+
+The fMRI research will be conducted at the Laboratory for Functional
+Magnetic Resonance Research at the Robarts Research Institute adjacent
+to the University of Western Ontario campus.  This facility houses one
+of only four 4-Tesla magnets in North America. In addition, we have a
+simulated fMRI facility that is used to train subjects, develop new
+instrumentation, and measure behaviour that cannot be measured directly
+in the high field of the actual magnet.
+
+
+The applicant should have a Ph.D. in experimental psychology or
+cognitive neuroscience, preferably with an emphasis on visual
+perception. We would like the appointment to begin in September of
+1999, but the start date is somewhat negotiable.  The initial
+appointment will be for two years with the possibility of an additional
+one-year appointment.  Salary will follow Medical Research Council of
+Canada guidelines.
+
+
+If you are interested please contact either Ravi Menon
+(<underline><color><param>0000,0000,00FF</param>rmenon@irus.rri.on.ca</color=
+></underline>)
+or Keith Humphrey
+(<underline><color><param>0000,0000,00FF</param>keith@julian.uwo.ca)</color>=
+</underline>.
+
+
+</smaller></fontfamily>
+
+
+
+

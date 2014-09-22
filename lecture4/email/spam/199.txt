@@ -1,0 +1,297 @@
+
+
+From owner-bscw-users@mail2.gmd.de  Sat Oct 31 09:17:49 1998
+Received: from mail2.gmd.de (omega.gmd.de [129.26.8.84])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id JAA04859
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 31 Oct 1998 09:17:47 +0100 (MET)
+Received: by mail2.gmd.de id AA30093
+  (5.67b8/IDA-1.5 for bscw-users-out); Sat, 31 Oct 1998 08:56:57 +0100
+Received: from mail.gmd.de (postix) by mail2.gmd.de with SMTP id AA27178
+  (5.67b8/IDA-1.5 for <bscw-users@omega.gmd.de>); Sat, 31 Oct 1998 08:56:54 +0100
+Received: from sun.tck.ac.jp ([210.154.58.3])
+	by mail.gmd.de (8.8.8/8.8.8) with ESMTP id IAA32132;
+	Sat, 31 Oct 1998 08:52:07 +0100 (MET)
+From: jonny@worldnet.att.net
+Received: from 210.154.58.3 by sun.tck.ac.jp (8.8.7/3.6Wbeta5+97081211) id QAA03971; Sat, 31 Oct 1998 16:41:59 +0900 (JST)
+Date: Sat, 31 Oct 98 00:11:30 EST
+To: jobby@worldnet.att.net
+Subject: Market Timing
+Message-Id: <>
+Sender: owner-bscw-users@mail2.gmd.de
+Precedence: bulk
+Status: RO
+X-Status: 
+
+October 29, 1998
+
+Market Timing 
+
+Table of Contents  
+
+1.     Market Commentary
+2.     USDI  - a player in the IRIDIUM Satellite project
+3.     NLAB update
+4.     Departments
+
+
+1.     MARKET COMMENTARY
+
+As predicted in our last issue the US equity markets have 
+stabilized and begun to head higher again.
+
+Asian markets have had a nice rebound and some currencies 
+have begun to strengthen against the US dollar.  Hong Kong 
+continues to show some weakness, but these problems can 
+probably be traced back to the actions of the Chinese 
+government in Beijing.
+
+During the last week European markets have also begun to 
+move higher once again.  Against this backdrop and more 
+importantly to our subscribers, there is a groundswell 
+of interest and commentary developing in and about the 
+"small cap" sector of the market.  The Russell 2000 small 
+cap index has moved from a low of 303.87 in the first week 
+of October/98 to close on October 23/98 at 367.05.  This 
+is an increase of over 17% in 2 weeks.
+
+We believe the market is entering a phase where interest 
+will begin to increase in this long neglected sector of 
+the market.  There are excellent investment grade and 
+speculative opportunities in this area, which have long 
+been overlooked by the institutional money managers with 
+their fixation on the Dow 30 stocks.  The DOW is now 
+beginning to look, if not a little tired, at least fully 
+valued.  The fund managers are now going to have to go 
+to work and find new areas in which to deploy their 
+client's money.
+
+Leverage is a bad word on Wall Street these days and without 
+leverage these managers are stuck with relatively low returns 
+in the bond and money markets (under 5% on 30 year US treasury 
+bills). It is our feeling this will result in more money flowing 
+into the smaller cap sector of the market - and remember - with 
+the huge amount of money now in mutual funds and the market in 
+general, it only  takes a relatively small reallocation of assets 
+by market participants, to have a substantial impact on the 
+price of these smaller company's shares.
+
+
+2.     US DIGITAL COMMUNICATIONS INC.  (USDI)
+
+We are profiling a new company in this issue of MT:  
+US Digital Communications Inc.
+
+Symbol:  USDI     Trades:  OTC  BB
+
+USDI is a proxy for one of the biggest events in the 
+evolution of wirelesses communications the IRIDIUM 
+Global Communications System.   USDI in conjunction 
+with its subsidiaries SKYSITE (http://www.skysite.com), 
+INSAT and PROJECT 77 (http://www.project77.com), is a 
+supplier of both the Motorola and Kyocera telephones 
+and pagers and a resellers of air time for the IRIDIUM 
+network.  As such, expect to see their revenues and 
+profits grow in lock step with the growth of the overall 
+satellite network.
+
+The IRIDIUM satellite phone system consists of 66 low-level 
+satellites, which completely cover every point of the planet.  
+This $5 billion dollar investment allows any point or 
+individual on earth to access telephone, data transfer 
+or paging service.
+
+The 19 members of this consortium, which has been 
+spearheaded by Motorola, include some of the largest 
+telecom companies in the world, as well as a number of 
+very large Middle Eastern,  Asian and South American 
+private investment companies.  The financial commitment 
+is very large and IRIDIUM (http://www.iridium.com) will 
+go into service November 1, 1998.  The "start" date for 
+IRIDIUM service is one of the reasons that we are bringing 
+this company to your attention now.
+
+As you can see if you look at a chart of the stock  
+(http://www.bigcharts.com) the USDI's share price peaked 
+at $7.00 in early July of this year, in what we believe 
+was anticipation of the original service commencement date 
+of September 23, 1998.  When it became obvious this date 
+was going to be pushed back to November 1, momentum was 
+lost by the stock.  It then bottomed out on October 8 at 
+$2.30. In the last week it has moved back to close on Friday 
+(Oct 23) at $3.93 up 7/8s of a point or 28.5% for the day 
+on 366,200 shares traded! See the October 23 USDI News 
+Release at:
+
+http://biz.yahoo.com/prnews/981023/dc_fcc_us__1.html   
+
+The IRIDIUM name will be on a lot of peoples "radar" 
+screens soon as a $100 million public relations, marketing 
+and advertising program will help launch this service.
+
+This is definitely a "timing" and "momentum" play and 
+there is no doubt that the very wealthy and smart companies 
+and individuals that are part of the IRIDIUM consortium are 
+going to work hard to make this THE wireless network of 
+the future.
+
+Given the momentum that is building in the stock, USDI 
+could easily see its old high of $7.00 between now and 
+shortly after startup of the IRIDIUM service in the next 
+week.  Depending on a stable market and some positive news,
+which we fully expect, and given the sophistication of the 
+underwriters and companies behind the IRIDIUM project, USDI 
+prices above $10 are quite possible over the next 90 days.  
+
+
+4.     NUONCOLOGY LABS UPDATE
+
+NuOncology Labs Inc. (NLAB  -  OTC BB) continues to make 
+progress on its business plan and have announced the opening 
+of their new offices, predictive oncology testing and 
+research building in Houston TX.  (See October 15th News 
+Release at: http://biz.yahoo.com/n/n/nlab.html).  This new 
+facility is capable of performing testing to the rate of 
+1000 comprehensive predictive profiles per month.  
+ 
+MT heard NuOncology is planning a road show in Europe 
+that will include NLAB management starting early in 
+November. These "show and tell" meetings are  intended 
+to attract additional funding, market sponsorship as 
+well as institutional and broker interest for NLAB.  
+We expect soon after this trip there will be further 
+word on the Arglabin/FTI issue by way of publication 
+of their research in a recognized medical journal.  
+In addition there will be more results coming on the 
+second large sample of patients who have been undergoing 
+treatment for various types of cancer with Arglabin.
+
+The share price has fallen on relatively small volume and 
+somewhat tracks the skittish market we have had for the last 
+2 months.  It would not be inconceivable that this market 
+rebounds right back to the $6.50 range in a day or two of 
+trading  - especially if there is some further news on the 
+use of Arglabin as a successful cancer therapy.
+
+REMEMBER this is not a theoretical concept NLAB is working 
+on  - people ARE BEING TREATED with ARGLABIN today and their 
+CANCERS ARE IN REMISSIOIN.   This company has the potential 
+to be a  $500 million - $1 Billion cap company and we believe 
+you will begin to see some recognition of this in the 
+marketplace BEFORE THE END OF NOVEMBER.   For a current 
+quote on NLAB please go to:
+
+http://quote.yahoo.com/q?s=nlab&d=d1
+
+
+DEPARTMENTS
+
+A.    Stock Quotes
+B.    How to Unsubscribe to MT
+C.    Disclaimer
+
+
+A.   STOCK QUOTES
+
+For stock quotes on any company please go to:
+
+http://www.bigchart.com
+
+
+B.   HOW TO UNSUBSCRIBE TO MT
+
+Please note, as per your request you are a subscriber 
+to MT.  If at any time you wish to unsubscribe please 
+put 'unsubscribe' in the subject of your e-mail and return to:
+
+newsletter@premiumservice.com
+
+
+MT respects your privacy and will NEVER release your e-mail 
+address to a third party for any reason.
+
+
+D.  DISCLAIMER:
+
+By being a subscriber you are acknowledging you have read 
+and fully understand our disclaimer below.
+
+MarketTiming (hereafter called MarketTiming) is an 
+independent electronic publication devoted to providing 
+information and factual analysis on selected companies 
+that in the opinion of MarketTiming have investment 
+potential. Companies featured by MarketTiming may have 
+paid MarketTiming or their affiliates the editor or the 
+editor's affiliates family or agents for the dissemination 
+of company information through MarketTiming. MarketTiming 
+and/or its affiliates or principals may have been paid in 
+cash, stock or stock options to disseminate information 
+about the companies it has featured. These payments may 
+have been acquired prior to the dissemination of information 
+on any particular company featured by MarketTiming and stock 
+positions held by MarketTiming employees, affiliates or 
+principals may increase or decrease at any time. Such 
+compensation received by MarketTiming or any of its employees, 
+the editor or any affiliates should be viewed by readers as 
+a potential conflict of interest. The principals of 
+MarketTiming or its affiliates may have from time to time 
+had business dealings with, or hold a substantial stock 
+position in any of the companies featured. Principals, 
+family or affiliates of MarketTiming may also buy hold or 
+sell securities (long or short) in the companies mentioned 
+at any time prior to or after a particular company has been 
+featured by MarketTiming. Our purpose is to locate and 
+research equity investments in micro or small capitalization 
+companies that in our opinion has the potential for long-term 
+appreciation. Investing in any stock must be considered 
+risky, however investing in the companies MarketTiming reviews 
+must be considered to be high risk and use of the information 
+provided is at the investor's sole risk. Purchase of such 
+high-risk securities may result in loss of some or all of 
+the investor's original investment. All statements and 
+expressions are the opinion of MarketTiming and/or its 
+principals and affiliates and are not meant to be a 
+solicitation or recommendation to buy, sell, or hold 
+securities. MarketTiming is not a registered investment
+advisor or broker dealer. The information MarketTiming 
+basis its reports on are generally provided by the 
+company being featured or may come from sources and/or 
+interviews conducted by MarketTiming. While every effort 
+is made to provide true and meaningful information no 
+guarantee is made by MarketTiming as to the accuracy 
+of the information provided. Investors should not rely 
+solely on the information contained in MarketTiming 
+reports to make an investment decision. They should 
+consult a registered broker or financial advisor before 
+purchasing any stock. Investors should consider the 
+information provided by MarketTiming a starting point 
+for doing additional independent research on any of the 
+featured companies. Companies featured are often at 
+very early stages of development and can therefore be 
+subject to business failure, which could result in the 
+investor losing all his or her investment. Statements 
+of fact in the MarketTiming reports are made as of the 
+date stated and are subject to change without notice. 
+Recipients of MarketTiming reports must assume that 
+there has been a change in the affairs of companies 
+profiled, from the date of the report - to the time 
+it may be seen by them. Recipients should independently 
+ascertain from their own investment advisors or the 
+company being profiled the current accuracy of any 
+statements, which may influence their investment decisions. 
+Investing in micro-cap securities is highly speculative 
+and carries an extremely high degree of risk. It is 
+possible that an investor's investment may be lost 
+or impaired due to the speculative nature of the 
+companies profiled by MarketTiming. By subscribing to 
+MarketTiming all subscribers acknowledge they have read 
+and fully understand the above disclaimer.
+
+
+
+end
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Oct 19 23:45:04 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id XAA24612;
+	Mon, 19 Oct 1998 23:44:47 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab16675;
+          19 Oct 98 14:16 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab16673;
+          19 Oct 98 14:03 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01147;
+          19 Oct 98 14:03 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa04886; 19 Oct 98 10:27 EDT
+Received: from [129.215.160.15] by RI.CMU.EDU id aa27952; 19 Oct 98 10:27:15 EDT
+Received: from canna.dcs.ed.ac.uk (root@canna.dcs.ed.ac.uk [129.215.216.106])
+          by muck.dcs.ed.ac.uk with SMTP id PAA02268
+          for <connectionists@cs.cmu.edu>; Mon, 19 Oct 1998 15:26:40 +0100 (BST)
+Message-Id: <22599.199810191426@canna.dcs.ed.ac.uk>
+Received: from dcs.ed.ac.uk by canna.dcs.ed.ac.uk; Mon, 19 Oct 1998 15:26:39 +0100
+To: Nigel.Goddard@ed.ac.uk
+Subject: Computational Functional MRI positions
+Date: Mon, 19 Oct 1998 15:01:56 +0100
+From: Nigel Goddard <Nigel.Goddard@ed.ac.uk>
+Resent-From: Nigel.Goddard@ed.ac.uk
+Resent-To: connectionists@cs.cmu.edu
+Resent-Date: Mon, 19 Oct 1998 15:26:38 +0100
+Resent-Message-ID: <22589.908807198@dcs.ed.ac.uk>
+Resent-Sender: ngoddard@dcs.ed.ac.uk
+Status: RO
+X-Status: 
+
+
+Please forward to interested individuals
+
+
+
+		University of Edinburgh
+	Centre for Interactive Image Analysis
+
+   Research Fellows in Computational Functional MRI
+
+This is an exciting new venture to visualise the working of the human
+brain during cognitive tasks using a new research MR scanner.  The
+Centre for Interactive Image Analysis is run by the SHEFC Brain
+Imaging Research Center for Scotland and the Institute for Adpative
+and Neural Computation at the University of Edinburgh.  Working
+closely together, the two postholders will jointly engage in the
+following aspects of the Centre's work:
+
+     * establish functional imaging on a research MRI scanner, including
+     the stimulus presentation system, software and interfacing.
+
+     * work with cognitive scientists and clinicians to define, establish
+     and run suitable test paradigms on healthy volunteers and patients
+
+     * establish networking, image-processing, analysis, visualisation and
+     archiving facilities for scientific and clinical data obtained in fMRI
+     studies.
+
+     * work with cognitive scientists and clinicians to explore the uses of
+     real-time and near-real-tiem analysis techniques in fMRI studies.
+
+The postholders will be encouraged to undertake original research in
+one or more of the following areas of fMRI: novel pulse sequences;
+statistical models of physical and physiological noise; cognitive
+modelling; parallel statistical and image-processing algorithms;
+visualisation techniques.
+
+Candidates should hold a higher degree in an appropriate subject and should
+be familiar with PC and/or Unix computing.  Expertise in cognitive
+modelling, MRI, statistics, image analysis, and visualisation are highly
+desirable.  At least one postholder will have experience with parallel
+computing on Unix platforms.
+
+Salary scale: 15,735-23,651 p.a.  Both posts are tenable for 3 years
+initially with renewal subject to success in attracting further funding.
+
+For further details see http://www.cns.ed.ac.uk/ciia
+
+Closing date: 6 November 1998. Interviews are expected 16-20 November 1998.
+
+Further particulars and application details should be obtained from
+the Personnel Department, The University of Edinburgh, 1 Roxburgh
+Street, Edinburgh, EH8 9TB Tel. 0131 650 2511 (24 hour answering
+service) quoting reference number 896785.
+
+Informal enquiries may be made to:
+
+	Dr Nigel Goddard
+	Inst. for Adaptive and Neural Computation
+	Tel: +44 131 650 3087
+	Fax: +44 131 650 6899
+	email: Nigel.Goddard@ed.ac.uk
+
+or to:  Dr Ian Marshall
+	Dept. Medical Physics 
+	Tel: +44 131 537 1661/2155
+	FAX: +44 131 537 1026
+	email: I.Marshall@ed.ac.uk
+
+
+

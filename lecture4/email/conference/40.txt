@@ -1,0 +1,201 @@
+
+
+From mo@imm.dtu.dk Wed Oct 15 15:27:53 MET 1997
+Received: from hendrix.imm.dtu.dk (hendrix.imm.dtu.dk [192.38.71.100]) by eivind.imm.dtu.dk with SMTP (8.7.5/8.7.3) id PAA01415 for <fnielsen@eivind.imm.dtu.dk>; Wed, 15 Oct 1997 15:27:52 +0200 (METDST)
+Received: from localhost by hendrix.imm.dtu.dk via ESMTP (950413.SGI.8.6.12/940406.SGI)
+	for <fnielsen@eivind> id PAA10510; Wed, 15 Oct 1997 15:27:43 +0200
+Date: Wed, 15 Oct 1997 15:27:43 +0200 (METDST)
+From: Mattias Ohlsson <mo@imm.dtu.dk>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: 1. circular, iiw5 (fwd)
+Message-ID: <Pine.SGI.3.96.971015152735.10464A-100000@hendrix.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=iso-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Status: RO
+X-Status: 
+
+
+
+---------------------------------------------------------------------------=
+-----
+Mattias Ohlsson, PhD
+
+Department  of Mathematical Modelling,              Tel: +45 45 25 39 21
+Section for Digital Signal Processing,              Fax: +45 45 87 25 99   =
+ =20
+Technical University of Denmark, Building 321       E-mail: mo@imm.dtu.dk
+DK-2800 Lyngby                         =20
+DENMARK                                        =20
+---------------------------------------------------------------------------=
+-----
+
+---------- Forwarded message ----------
+Date: Mon, 25 Aug 1997 17:37:57 +0200 (METDST)
+From: Peter Aundal Toft <pto@serv1>
+To: Lars Kai Hansen <lkhansen@eivind>, Mattias Ohlsson <mo@imm.dtu.dk>
+Subject: 1. circular, iiw5 (fwd)
+
+Har I set denne ?????
+Jeg har v=E6ret til flere af dem - meget gode m=F8der !!!
+
+MVH
+
+
+                                 \|/
+                                (o -)
++-[Son 1.0 released]--------oOOo-(_)-oOOo--+--[http://sslug.ipt.dtu.dk]--+
+|                                          |     __   _                  |=
+=20
+| Peter Toft, Ph.D. Post Doc              |S|   / /  (_)__  __ ____  __ |S|
+| Department of Mathematical Modelling,   |S|  / /__/ / _ \/ // /\ \/ / |S|
+| Section for Digital Signal Processing,  |L| /____/_/_//_/\_,_/ /_/\_\ |L|
+| Bld 321,Technical University of Denmark |U|                           |U|
+| DK-2800 Lyngby, Denmark                 |G| *For IQ's Higher Than 95* |G|
+| Phone +45 45253922    FAX +45 45872599   |                             |
+| Email pto@imm.dtu.dk                     +--[http://sslug.ipt.dtu.dk]--+
+| URL http://eivind.imm.dtu.dk/staff/ptoft                               |
+|                             .oooO                                      |
++-----------------------------(   )---Oooo.------------------------------+
+                               \ (    (   )
+                                \_)    ) /=20
+                                      (_)
+
+---------- Forwarded message ----------
+Date: Mon, 30 Jun 1997 13:57:17 +0200
+From: Bo Holm Jacobsen <geofbhj@aau.dk>
+To: aminov@dou.dk, ole@kms.min.dk, andresen@fys.ku.dk, geofnbc@aau.dk,
+    jcd@obs.aau.dk, pd@kubism.ku.dk, geofdd@aau.dk, debski@igf.edu.pl,
+    Lisbeth.Engell-Soerensen@ifjf.uib.no, jerry@cs.umu.se, srg@kms.min.dk,
+    per.christian.hansen@uni-c.dk, cam@osiris.gfy.ku.dk, jens@ast.cam.ac.uk=
+,
+    geofbhj@aau.dk, jsj@dou.dk, pflm@bro730.astro.ku.dk,
+    klaus@osiris.gfy.ku.dk, mmunkhol@laurel.ocs.mq.edu.au, geofim@aau.dk,
+    geofln@aau.dk, geofsbn@aau.dk, nourani@fys.ku.dk, ko@geofys.uu.se,
+    lbp@geofys.uu.se, pap@eivind, jschou@solar.stanford.edu, paolo@dou.dk,
+    gs@kms.min.dk, syndergaard@nighthawk.dmi.min.dk, geofkis@aau.dk,
+    m.j.thompson@qmw.ac.uk, ptoft@eivind, cct@osiris.gfy.ku.dk,
+    rasmus@mi.aau.dk, hw@osiris.gfy.ku.dk, rikke@mars.gfy.ku.dk,
+    sune@astro.ku.dk, jbp@fysik.ou.dk, tp1@kms.min.dk, peterjo@diku.dk,
+    robertl@oedan.dk, jacobmp@oedan.dk, kbr@oedan.dk, kimgm@oedan.dk,
+    jaas@eivind, km@imm.dtu.dk, lynov@risoe.dk, jesper@math-tech.dk,
+    oosterby@daimi.aau.dk, snfper19@rs580.sh.dk, pskh@eivind,
+    pgt@imm.dtu.dk, rmunk@daimi.aau.dk, shj@cpk.auc.dk, stig@diku.dk,
+    pto@imm.dtu.dk, hansen@mat.dth.dk, sc-l@listserv.uni-c.dk,
+    luzz@sun2.dmu.dk, ocaprani@daimi.aau.dk, datjs@diku.dk,
+    hugger@math.ku.dk, edc@imada.ou.dk, tl@dlc.ku.dk, tdj@dlc.ku.dk,
+    lisbeth@geosun0.univ.trieste.it, lehp@geus.dk, jlj@mi.aau.dk,
+    matarne@math.auc.dk
+Subject: 1. circular, iiw5
+
+
+---------------------------------------------------------------------------=
+---
+                            FIRST CIRCULAR
+---------------------------------------------------------------------------=
+---
+
+                 Interdisciplinary Inversion Workshop 5
+
+                     Methodology and Applications in
+           Geophysics, Astronomy, Physics, and Computational Science
+                             Aarhus University
+                           Wednesday, September 24
+
+---------------------------------------------------------------------------=
+---
+
+This compact one-day meeting, which is arranged by the Danish
+Interdisciplinary=20
+Inversion Group (DIIG), will follow the same format as the previous four
+annual
+workshops with a mixture of oral presentations and poster presentations.
+
+In order to make the planning smooth we impose the following timing:
+September  1: Submit title and authors of your contribution (use FORM A
+below).
+September 12: Register (use FORM B below; for badge, list of participants=
+=20
+                        and mail of proceedings).
+September 17: Submit a one page abstract, possibly including a figure.
+September 24: The Workshop
+October   24: Submit a short contribution to the proceedings volume (4-10
+pages)
+November  24: The proceedings volume is sent to registered participants.
+
+Please direct all communication through
+
+Bo Holm Jacobsen
+geofbhj@aau.dk
+
+Department of Earth Sciences
+Finlandsgade 8; 8200 Aarhus N
+tel: +45 8942 4347=20
+fax: +45 8610 1003
+
+and USE EMAIL AND POSTSCRIPT/ASCII as far as possible for all communication=
+=2E
+
+On behalf of DIIG, best wishes for the summer,
+Bo
+June 30, 1997
+
+---------------------------------------------------------------------------=
+---
+       emailable  FORM A (submit contribution, no later than September 1)
+---------------------------------------------------------------------------=
+---
+Oral presentation 20-30 min including discussion; the number of available
+time slots is limited.
+Posters may incl. an 8 min short oral presentation in the lecture hall.
+
+Do you prefer              Poster?___ ; number of display units **? ___
+              Poster + 8 min oral?___ ; number of display units **? ___
+                   Oral 20-30 min?___
+
+Author(s):_________________________________________________________________=
+_
+          _________________________________________________________________=
+_
+
+Title:_____________________________________________________________________=
+__
+
+Author for correspondence:
+Name:
+address:
+email:
+tel:
+fax:
+
+You may assume two overhead projectors and one slide projector available
+for orals.
+Please contact us if you have additional requirements.
+** Each poster display unit has the height 1.20 m and width 1.50 m.
+---------------------------------------------------------------------------=
+-
+---
+
+---------------------------------------------------------------------------=
+---
+       emailable  FORM B (register, no later than September 12)
+---------------------------------------------------------------------------=
+---
+Yes, I expect to show up on September 24 for the Interdisciplinary Inversio=
+n
+Workshop 5:
+
+Name:
+address:
+email:
+tel:
+fax:
+
+
+(Please make name and mail address sufficiently precise to secure that you
+receive the
+ proceedings volume in November.=20
+ We will also prepare a list of registered participants as well as a badge=
+=20
+ to make the coffee breaks more efficient)
+

@@ -1,0 +1,88 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Oct 29 03:30:21 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id DAA23011;
+	Thu, 29 Oct 1998 03:30:13 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ce09524;
+          28 Oct 98 18:10 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09481;
+          28 Oct 98 17:08 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14949;
+          28 Oct 98 17:07 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa25723; 28 Oct 98 9:06 EST
+Received: from josef.ifi.unizh.ch by CS.CMU.EDU id aa29840;
+          28 Oct 98 9:05:37 EST
+Received: from ifi.unizh.ch by josef.ifi.unizh.ch with SMTP (PP) 
+          id <05837-0@josef.ifi.unizh.ch>; Wed, 28 Oct 1998 14:56:17 +0100
+Message-ID: <363731EF.D0588F50@ifi.unizh.ch>
+Date: Wed, 28 Oct 1998 15:02:07 +0000
+From: Dimitrios Lambrinos <lambri@ifi.unizh.ch>
+X-Mailer: Mozilla 4.5 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Ph.D. position at AILab, Zurich
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+------------------------------------------
+    Position for a Ph.D. student in
+                Biorobotics
+    at the AILab, University of Zurich
+------------------------------------------
+A new Ph.D. student position is open at the Artificial Intelligence
+Laboratory, Dept. of Computer Science of the University of Zurich.
+Availability: Immediately or at earliest convenience.
+
+Continuing previous work conducted at the AILab, this research will be
+focusing on Biorobotics, i.e. on building autonomous agents based on
+biological findings, that are capable of robust visually guided behavior
+in complex real-world environments.
+
+Biorobotics, with its goal of bringing together biology/neurobiology,
+engineering and computer science has enormous potential. On the one hand
+it  will change our perception of biological intelligence, on the other
+it will inspire and influence the way we design, build, and use
+information technology.
+
+The main task of the agents will be to safely navigate in complex
+environments. This will require scaling-up previous theoretical and
+practical work. The challenge will be, first to demonstrate that
+mechanisms which are thought to be employed by natural systems can be
+implemented in real-world artifacts, and second, that such mechanisms,
+though very parsimonious, are sufficient for achieving complex behavior.
+
+If the above challenges capture your interest, and you would to become a
+member of an international research team conducting transdisciplinary
+work, submit a curriculum vitae, statement of research interests, and
+names of three referees ASAP to:
+
+Corinne Maurer
+Dept. of Computer Science
+University of Zurich
+Winterthurerstrasse 190
+CH - 8057 Zurich, Switzerland
+
+E-mail:   maurer@ifi.unizh.ch
+Phone:    41 - 1 - 635 43 31
+Fax:      41 - 1 - 635 68 09
+
+Profile: Applicants should have an MSc degree, or equivalent, in one of
+the following areas: computer science, electrical or mechanical
+engineering, biology, neurobiology, physics, mathematics, cognitive
+science, or related disciplines. He/she should have good programming
+skills (C, C++, etc.) preferably experience with robot programming,
+knowledge of electronics, and strong scientific background.
+
+Tasks: The main task for the accepted candidate will be to conduct
+research towards his/her Ph.D. Additional tasks include support for
+classes organized by the AI-Lab as well as other administrative tasks
+required by the computer science department.
+Financial: The salary will be according to the specification of the
+Swiss National Science Foundation.
+
+Time prospect: The candidate is expected to complete his/her Ph.D. work
+within a period of maximum 4 years.

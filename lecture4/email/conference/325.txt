@@ -1,0 +1,304 @@
+
+
+From pascal@icsc.ab.ca Mon Oct 25 21:36:16 MET 1999
+Received: from bernie.compusmart.ab.ca (mail.tarrabain.net [199.185.130.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id VAA07532
+	for <fnielsen@ei.dtu.dk>; Mon, 25 Oct 1999 21:36:14 +0200 (METDST)
+Received: from remote1941.compusmart.ab.ca ([209.115.205.92]:1093 "HELO user920.kel1volnet5.net") by mail.compusmart.ab.ca with SMTP id <31197-268>; Mon, 25 Oct 1999 13:27:26 -0600
+To: fmmak@cclu.lv
+From: pascal@icsc.ab.ca
+Subject: Announcement
+Reply-To: pascal@icsc.ab.ca
+Message-Id: <19991025192738Z31197-268+8652@mail.compusmart.ab.ca>
+Date: 	Mon, 25 Oct 1999 13:27:26 -0600
+Status: RO
+X-Status: 
+
+
+
+----- We ask your indulgence for duplications -----
+
+
+
+Dear Colleagues,
+
+
+As a recently formed professional group we like to hear from you.
+With a circle of friends we have established the non-for-profit 
+"Natural and Artificial Intelligence Systems Organization"
+(NAISO), presided by Professor Witold Pedrycz, University of 
+Alberta, Canada. NAISO is represented by its International 
+Academic Advisory Board (IAAC), professionals who stand for long
+time experience and high quality. NAISO is closely cooperating 
+with ICSC (International Computer Science Conventions) Canada.
+
+The objectives of NAISO are the encouragement of efficient
+communication between scientists, researchers, engineers and 
+practitioners in the field of natural & artificial intelligence
+systems. The promotion of interaction between research and
+industry worldwide is one of our principal aims. NAISO will meet
+these objectives by the arrangements of international 
+conferences, symposia and workshops.
+
+One of the first projects will be the Information Science 
+Innovations Congress (ISI'2001), with four sub-symposia. 
+The conference venue will be the brand new American University
+of Dubai. A first short announcement follows this message.
+
+If you are not personally interested, you may know of some
+colleagues who are involved in one of the research areas and
+wish to attend this friendly event. We look forward to hearing
+from you. 
+
+Thank you and best regards
+
+The ICSC/NAISO Team
+
+
+*************cut here**************************
+
+
+First Call for Papers
+
+International Congress on
+INFORMATION SCIENCE INNOVATIONS (ISI'2001)
+to be held at the American University in Dubai, U.A.E.
+from March 20-23, 2001
+
+http//www.icsc.ab.ca/isi2001.htm
+
+
+The congress consists of the following four Symposia:
+
+1. CLINICAL TRIALS (CT'2001)
+   Chair: Eduardo Massad, Brazil
+-  Evidence based medicine
+-  Medical database management
+-  Ethical and legal aspects
+-  Clinical epidemiology
+-  Intelligent diagnosis
+-  Decision support systems
+-  Healthcare and medical robots
+-  Telemedicine and telematrix
+-  Quantitative tools
+
+
+2. E-BUSINESS AND BEYOND (EBB'2001)
+   Chair: Peter Aiken, USA
+-  Cryptography and computer security
+-  Multimedia database management
+-  Intelligent networking and routing
+-  Data, voice and video integration
+-  Virtual reality and presence
+-  Intelligent software for E-Business
+-  Computer telephony
+-  Human-machine interaction
+-  Soft computing in business
+-  Management techniques for E-Business
+-  Intelligent computation in economic and financial systems
+   for E-Business
+-  Risk analysis, decision theory and new applications for 
+   E-Business
+-  Market analysis and new applications for E-Business 
+   (Forecasting and statistics)
+-  E-Business models (case studies/workshops; value chain 
+   analysis, paradigms)
+-  Business-to-business applications
+-  Business-to-consumer applications
+-  Interchange models
+
+
+3. INTELLIGENT AUTOMATED MANUFACTURING (IAM'2001)
+   Chair: Kathryn Stecke, USA
+   Co-Chair: Guy Johnson, USA.    
+-  Lean and agile manufacturing 
+-  Manufacturing discrete event systems 
+-  Production planning, scheduling and control 
+-  Assembly planning and scheduling 
+-  Flexible automation and computer integrated manufacturing 
+-  Rapid prototyping and design automation 
+-  Cooperative robots and multi-agent systems  
+-  Micro robotic systems and mechatronics 
+-  Modeling, identification, and control  
+-  Robot sensing and data fusion  
+-  Dynamic vision, tracking, and visual servoing  
+-  Human-machine control, and telerobotics 
+-  Social impact of automation
+-  Aspects of developing countries and culture for automation 
+-  Low cost automation
+
+
+4. ENGINEERING OF NATURAL AND ARTIFICIAL INTELLIGENT SYSTEMS
+   (ENAIS'2001)
+   Chair: Peter Anderson, USA
+-  Neural networks 
+-  Evolutionary computation 
+-  Fuzzy logic and control 
+-  Intelligent agents and multi-agent systems 
+-  Learning and adaptive systems 
+-  Artificial Life 
+-  Biocybernetics 
+-  Intelligent reasoning and planning  
+-  Vision, recognition, and reconstruction 
+-  Haptics, interfaces, simulation and virtual reality 
+-  Intelligent autonomous vehicles 
+-  Multi-criteria decision analysis 
+-  Parallel and distributed computing 
+-  Self-organizing systems 
+
+
+SCIENTIFIC PROGRAM
+ISI'2001 will include invited plenary talks, contributed 
+sessions, invited sessions, workshops and tutorials. 
+
+
+INVITED SESSIONS
+The organization of invited sessions is encouraged. Prospective
+organizers are requested to send a session proposal (consisting
+of 4-5 invited papers, the recommended session-chair and 
+co-chair, as well as a short statement describing the title and
+the purpose of the session) to the respective symposium chair
+or the congress organizer. Invited sessions should preferrably
+start with a tutorial paper. The registration fee of the session
+organizer will be waived, if at least 4 authors of invited
+papers register to the conference.
+
+
+POSTER PRESENTATIONS
+Poster presentations are encouraged for people who wish to 
+receive peer feedback and practical examples of applied research
+are particularly welcome. Poster sessions will allow the
+presentation and discussion of respective papers, which will
+also be included in the conference proceedings.
+
+
+WORKSHOPS, TUTORIALS AND OTHER CONTRIBUTIONS
+Several workshops/tutorials are planned for ISI'2001. Each
+workshop/tutorial will focus on a particular topic, and consist
+of several presentations and open discussions. The proposal for
+a workshop/tutorial should include the title, topics covered,
+proposed speakers, targeted audiences, and estimated length
+(hours) of the workshop/tutorial. The proposal should be
+submitted either to the congress chair, the corresponding
+symposium chair or the congress organizer by June 30, 2000.
+
+
+SUBMISSION OF PAPERS
+Prospective authors are requested to either send a draft paper
+(maximum 7 pages) or an extended abstract for review by the
+International Program Committee. All submissions must be
+written in English, starting with a succinct statement of the
+problem, the results achieved, their significance and a
+comparison with previous work. 
+
+Submissions must be received by June 30, 2000.
+
+The submission should also include
+- Title of symposium (CT'2001, EBB'2001, IAM'2001 or ENAIS'2001)
+- Type of paper (regular, poster, tutorial or invited)
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+- Short CV of authors (recommended)
+
+Submission by electronic mail is strongly recommended to
+ 
+operating@icsc.ab.ca
+
+or else by fax or mail (2 copies) to the following address:
+
+NAISO / ICSC
+Natural and Artificial Intelligent Systems Organization 
+P.O. Box 279 
+Millet, AB T0C 1Z0 / Canada 
+Fax:    +1-780-387-4329   
+Phone:  +1-780-387-3546 
+Email:  operating@icsc.ab.ca
+
+
+PROCEEDINGS AND PUBLICATIONS
+All accepted and invited papers will be included in the congress
+proceedings. Selected papers will also be included in special
+issues of some prestigious journals.
+
+
+IMPORTANT DATES
+June 30, 2000:       Submission deadline 
+September 30, 2000:  Notification of acceptance 
+November 30, 2000:   Delivery of full papers 
+March 20-23, 2001:   ISI'2001 congress
+
+
+CONGRESS GENERAL CHAIR
+Prof. Milad Fares Sebaaly 
+American University in Dubai 
+Faculty of Information Technology 
+P.O. Box: 28282, Dubai, U.A.E. 
+E-mail: msebaaly@aud.edu
+
+CONGRESS GENERAL VICE CHAIR 
+Prof. Hans-Heinrich Bothe 
+Technical University of Denmark (DTU) 
+Department of Information Technology 
+Building 344, DK-2800 Lyngby / Denmark 
+Email: hhb@it.dtu.dk
+
+CT'2001 SYMPOSIUM CHAIR
+Prof. Eduardo Massad  
+University of Sao Paolo 
+School of Medicine 
+Av. Dr. Arnaldo 455, CEP, 
+01246-903 Sao Paolo SP, Brazil 
+E-mail: edmassad@usp.br 
+
+EBB'2001 SYMPOSIUM CHAIR
+Prof. Peter Aiken
+Institute for Data Research 
+Department of Information Systems 
+1015 Floyd Avenue - Room 4170 
+Virginia Commonwealth University 
+Richmond, Virginia 23284-4000 
+E-mail:paiken@acm.org
+
+IAM'2001 SYMPOSIUM CHAIR
+Prof. Kathryn Stecke (IAM'2001) 
+School of Business Administration 
+University of Michigan, Ann Arbor 
+701 Tappan Street, 
+Ann Arbor, MI 48109-1234, USA 
+E-mail: kstecke@umich.edu
+
+ENAIS'2001 SYMPOSIUM CHAIR
+Prof. Peter G. Anderson  
+Rochester Institute of Technology 
+Computer Science Department 
+1168 Ross Building, 102 Lomb Memorial Drive 
+Rochester, NY 14623-5608, USA 
+E-mail: pga@cs.rit.edu
+
+PUBLICATION CHAIR
+Prof. Jihad Nader 
+American University in Dubai 
+Faculty of Business Administration 
+P.O. Box: 28282, Dubai, U.A.E. 
+E-mail: jnader@aud.edu
+
+CONGRESS ORGANIZER 
+NAISO / ICSC
+Natural and Artificial Intelligent Systems Organization 
+P.O. Box 279 
+Millet, AB T0C 1Z0 / Canada 
+Fax:    +1-780-387-4329   
+Phone:  +1-780-387-3546 
+Email:  operating@icsc.ab.ca
+
+POTENTIAL SPONSORS 
+- IEEE Institute of Electrical and Eletronic Engineers 
+- IEE Institute of Electrical Engineers 
+- INFORMS Institute for Operations Research and the Management
+  Sciences 
+- SMDM Society for Medical Decision Making 
+- SME Society of Manufacturing Engineers 
+- ICSC International Computer Science Conventions  
+

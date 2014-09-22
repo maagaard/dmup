@@ -1,0 +1,55 @@
+
+
+From spm-request@mailbase.ac.uk  Fri Dec  4 07:05:15 1998
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id HAA26589
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 4 Dec 1998 07:04:58 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id GAA17226;
+	Fri, 4 Dec 1998 06:11:15 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id GAA03178;
+        Fri, 4 Dec 1998 06:08:14 GMT
+Received: from goku.telmex.net.mx (goku.telmex.net.mx [200.33.150.80]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id GAA03162;
+        Fri, 4 Dec 1998 06:08:09 GMT
+Received: from df1.telmex.net.mx ("port 1701"@[148.233.150.44])
+ by sims00.telmex.net.mx (Sun Internet Mail Server sims.3.5.1998.09.21.23.34)
+ with SMTP id <0F3F00LDOEYVPU@sims00.telmex.net.mx> for spm@mailbase.ac.uk;
+ Thu,  3 Dec 1998 23:59:15 -0600 (CST)
+Date: Thu, 03 Dec 1998 23:59:15 -0600 (CST)
+Date-warning: Date header was inserted by sims00.telmex.net.mx
+Message-id: <0F3F00LK2FAPPU@sims00.telmex.net.mx>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; CHARSET=ISO-8859-1
+Content-transfer-encoding: 8BIT
+Subject: Gift for your pc...!
+From: itcmex@df1.telmex.net.mx
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: itcmex@df1.telmex.net.mx
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8BIT
+Status: RO
+X-Status: 
+
+____________________________________________________
+Get FREE a binary solutions for your PC!.No purchase it´s needed.
+Visit  http://www.itcmex.com/2000.html (bilingual site)
+Have a nice day!
+
+Regards,
+
+ITCMEX GROUP from Mexico.
+http://www.itcmex.com
+
+///////////////////////////////////////////////////////////////////////
+ ===========================================================
+If you wish to be removed from this advertiser's future mailings, please reply 
+with the subject "Remove" and this software will automatically block you 
+from their future mailings.
+///////////////////////////////////////////////////////////////////////

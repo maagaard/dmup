@@ -1,0 +1,66 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Oct 14 03:18:34 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id DAA27450;
+	Thu, 14 Oct 1999 03:18:30 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10758;
+          13 Oct 99 19:39 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10753;
+          13 Oct 99 19:29 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08999;
+          13 Oct 99 19:29 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa15218; 13 Oct 99 18:48 EDT
+Received: from salicet.ucd.ie by edrc.cmu.edu id aa07737; 13 Oct 99 18:48 EDT
+Received: from aifric ([137.43.4.95]) by Salicet.ucd.ie (PMDF V5.2-32 #32510)
+ with SMTP id <0FJK00EI7COAUU@Salicet.ucd.ie> for connectionists@cs.cmu.edu;
+ Wed, 13 Oct 1999 23:48:10 +0100 (BST)
+Date: Wed, 13 Oct 1999 23:43:43 +0100
+From: Ronan Reilly <Ronan.Reilly@ucd.ie>
+Subject: UCD, Ireland - Two-year graduate studentship
+To: connectionists@cs.cmu.edu
+Message-id: <02aa01bf15cc$6a0de370$5f042b89@ucd.ie>
+Organization: University College Dublin
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+Content-type: text/plain; charset=utf-8
+X-Priority: 3
+X-MSMail-priority: Normal
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by eivind.imm.dtu.dk id DAA27450
+Status: RO
+X-Status: 
+
+Two-year graduate studentship on a computational neuroscience project
+
+Department of Computer Science, University College Dublin, Ireland
+
+The Cortical Software Re-Use (CSRU) project is a two-year
+interdisciplinary project involving the Departments of Mathematical
+Physics, Psychology, and Computer Science.  Its aim is to apply a
+dynamical systems approach to modelling cortical computation with a
+specific focus on frontal lobe function.
+
+The Department of Computer Science at University College Dublin has
+funding of €12,700 per year for two years for an MSc or PhD
+student to work on the project.  The ideal candidate will have a
+background in computer science and some experience of computational
+modelling in the neuroscience area.
+
+For further details, contact Ronan.Reilly@ucd.ie.
+
+________________________________
+Ronan G. Reilly, PhD
+Department of Computer Science
+University College Dublin
+Belfield
+Dublin 4
+Ireland
+
+voice: +353-1-706 2475
+fax: +353-1-269 7262
+e-mail: Ronan.Reilly@ucd.ie
+web: http://www.cs.ucd.ie/staff/rreilly/
+
+

@@ -1,0 +1,97 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Dec 15 02:10:09 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA10186;
+	Tue, 15 Dec 1998 02:10:02 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01099;
+          14 Dec 98 17:04 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01060;
+          14 Dec 98 16:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19679;
+          14 Dec 98 16:36 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa06995; 14 Dec 98 12:16 EST
+Received: from [130.88.192.2] by RI.CMU.EDU id aa13078; 14 Dec 98 12:14:58 EST
+Received: from t8.cs.man.ac.uk. by m1.cs.man.ac.uk (8.8.8/AL/MJK-2.0)
+	id RAA08833; Mon, 14 Dec 1998 17:14:31 GMT
+Received: from rdf020 by t8.cs.man.ac.uk.; Mon, 14 Dec 1998 17:14:28 GMT
+Sender: magnus@cs.man.ac.uk
+Message-ID: <36754773.148E1EB5@cs.man.ac.uk>
+Date: Mon, 14 Dec 1998 17:14:27 +0000
+From: Magnus Rattray <magnus@cs.man.ac.uk>
+Organization: Computer Science Department, University of Manchester
+X-Mailer: Mozilla 3.0 (X11; I; SunOS 4.1.4 sun4c)
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+Subject: PhD Studentship 
+Content-Type: text/plain; charset=us-ascii; name="advert.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="advert.txt"
+Status: RO
+X-Status: 
+
+---------------------------------------------------------------------
+PhD studentship: Statistical Mechanics Analysis of Natural Gradient
+		 Learning
+---------------------------------------------------------------------
+
+Applications are sought for a three year PhD position to study natural
+gradient learning using the methods of statistical mechanics and
+stochastic dynamical systems. The position will be supported by an
+EPSRC studentship and based in the computer science department at
+Manchester University, which is one of the largest and most successful
+computer science departments in the UK. Living expenses will be paid
+according to current EPSRC rates (19635 pounds over three years) with
+substantial extra funding available for participation at international
+conferences and workshops.
+
+Project description:
+
+Natural gradient learning was recently introduced as a principled
+algorithm for determining the parameters of a statistical model
+on-line. The algorithm has been applied to feed-forward neural
+networks, independent component analysis and deconvolution algorithms,
+often providing much improved performance over existing methods. The
+algorithm uses an underlying Riemannian parameter space to re-define
+the direction of steepest descent and respects certain
+invariances which should be observed by any consistent
+algorithm. Natural gradient learning is known to provide optimal
+asymptotic performance under certain restricted conditions but a
+good general understanding of the non-asymptotic learning performance is
+not yet available. This is really the regime which we expect to
+dominate the learning time and recent work by the project supervisor
+and co-workers [1,2] provides some quantification of the advantage
+which can be expected over other algorithms. This analysis involves a
+statistical mechanics formalism which allows an exact solution to
+learning dynamics for learning in a feed-forward neural network. The
+proposed project will build on these initial results in order to
+characterize the behaviour of natural gradient learning with greater
+generality. The project will also explore other applications of
+information geometry to probabilistic modelling.
+
+This project will touch on many interesting mathematical topics
+(information theory, differential geometry, statistical mechanics and
+stochastic dynamical systems) and application areas (optimization,
+neural networks, probabilistic modelling). Prospective candidates
+would ideally be interested in a number of these topics. A good first
+degree in physics, mathematics or a related subject is required.
+
+Contact:  Magnus Rattray (magnus@cs.man.ac.uk)
+	  Computer Science Department,
+	  University of Manchester,
+	  Manchester M13 9PL, UK.
+	  Tel +44 161 275 6187.
+	  http://www.cs.man.ac.uk/~magnus/magnus.html
+
+References:
+
+[1] M Rattray, D Saad, S Amari, "Natural Gradient Descent for On-line
+Learning", Physical Review Letters 81, p5461 (1998).
+
+[2] M Rattray, D Saad, "Transients and Asymptotics of Natural Gradient
+Learning", Proceeding of ICANN 98, edited by L Niklasson, M Boden and
+T Ziemke (Springer-Verlag, London), p165 (1998).
+
+
+	
+

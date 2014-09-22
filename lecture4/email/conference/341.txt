@@ -1,0 +1,158 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Nov 24 02:29:33 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id CAA05719;
+	Wed, 24 Nov 1999 02:29:28 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21337;
+          23 Nov 99 17:36 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21052;
+          23 Nov 99 15:26 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08942;
+          23 Nov 99 15:26 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05401; 23 Nov 99 14:14 EST
+Received: from pc19.RTNA.DaimlerChrysler.COM by cs.cmu.edu id aa13749;
+          23 Nov 99 14:13 EST
+Received: from localhost (rogers@localhost)
+	by pc19.rtna.daimlerchrysler.com (8.8.7/8.8.7) with SMTP id LAA24971
+	for <connectionists@cs.cmu.edu>; Tue, 23 Nov 1999 11:15:23 -0800
+X-Authentication-Warning: pc19.rtna.daimlerchrysler.com: rogers owned process doing -bs
+Date: Tue, 23 Nov 1999 11:15:23 -0800 (PST)
+From: Seth Rogers <rogers@rtna.daimlerchrysler.com>
+To: connectionists@cs.cmu.edu
+Subject: Complete CFP: International Conference on Machine Learning
+Message-ID: <Pine.LNX.3.96.991123111418.24925B-100000@pc19.rtna.daimlerchrysler.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+                         Call for Papers
+
+    THE SEVENTEENTH INTERNATIONAL CONFERENCE ON MACHINE LEARNING
+
+                       June 29-July 2, 2000
+                        Stanford University
+
+
+The Seventeenth International Conference on Machine Learning (ICML-2000) 
+will be held at Stanford University from June 29 to July 2, 2000, in the
+heart of Silicon Valley. The conference will bring together researchers 
+to exchange ideas and report recent progress in the computational study
+of learning.
+
+Topics for Submission
+
+ICML-2000 welcomes submissions on all facets of machine learning, but
+especially solicits papers on problem areas, research topics, learning
+paradigms, and approaches to evaluation that have been rare at recent 
+conferences, including: 
+
+- the role of learning in natural language, vision and speech, planning 
+  and scheduling, design and configuration, logical and spatial reasoning, 
+  motor control, and more generally on learning for performance tasks 
+  carried out by intelligent agents; 
+
+- the discovery of scientific laws and taxonomies, the construction of
+  componential and structural models, and learning at multiple levels
+  of temporal and spatial resolution; 
+
+- the effect of the developers' decisions about problem formulation, 
+  representation, data quality, and reward function on the learning 
+  process; 
+
+- computational models of human learning, applications to real-world 
+  problems, exploratory research that describes novel learning tasks, 
+  work that integrates familiar methods to demonstrate new functionality, 
+  and agent architectures in which learning plays a central role; 
+
+- empirical studies that combine natural data (to show relevance) with 
+  synthetic data (to understand conditions on behavior), along with formal 
+  analyses that make contact with empirical results, especially where the 
+  aim is to identify sources of power, rather than to show one method is 
+  superior to others. 
+  
+Naturally, we also welcome submissions on traditional topics, ranging 
+from induction over supervised data to learning from delayed rewards, but
+we hope the conference will also attract contributions on the issues above. 
+
+Review Process
+
+The ICML-2000 review process will be structured to encourage publications
+covering a broad range of research and to foster increased participation 
+in the conference. To this end, we have instituted:
+
+- area chairs who will be responsible for recruiting papers in their area
+  of expertise and overseeing the review process for those submissions; 
+
+- conditional acceptance of papers that are not publishable in their initial
+  form, but that can be improved enough for inclusion in time to appear in
+  the proceedings; and
+
+- a review form that requires referees to explicitly list any problems 
+  with a paper, what it would take to overcome them, and, if they recommend
+  rejection, why it cannot be fixed in time for inclusion. 
+
+The overall goal is to make the review process more like that in journals, 
+with time for the authors to incorporate feedback from reviewers. Each 
+submitted paper will be reviewed by two members of the program committee, 
+with the decision about its acceptance overseen by the responsible area
+chair and the program chair. 
+
+Paper Submission
+
+Authors should submit papers using same format and length as the final 
+proceedings version. The detailed instructions for authors at
+
+   http://www-csli.stanford.edu/icml2k/instructions.html
+
+include pointers to templates for LaTeX and Word documents. These specify 
+two-column style, Times Roman font with 10 point type, vertical spacing 
+of 11 points, overall text width of 6.75 inches, length of 9.0 inches,
+0.25 inches between the two columns, top margin of 1.0 inch, and left 
+margin of 0.75 inch. (The right and bottom margins will depend on whether
+one uses US letter or A4 paper.) Papers must not exceed eight (8) pages 
+including figures and references. We will return to the authors any
+papers that do not satisfy these requirements.
+
+The deadline for submissions to ICML-2000 is MONDAY, JANUARY 24, 2000.
+Submission will be entirely electronic by transferring papers to the
+ICML-2000 ftp site, as explained in the detailed instructions for
+authors. Authors must submit papers in POSTSCRIPT format to ensure
+our ability to print them out for review.
+
+Each submission must be accompanied by the paper's title, the authors'
+names and physical addresses, a 250-word abstract, the contact author's 
+email address and phone number, and the author who would present the 
+talk at the conference. Authors must enter this information into the 
+submission form at the conference web site by FRIDAY, JANUARY 21.
+
+ICML-2000 allows simultaneous submission to other conferences, provided
+this fact is clearly indicated on the submission form. Accepted papers 
+will appear in the conference proceedings only if they are withdrawn
+from other conferences. Simultaneous submissions that are not clearly 
+specified as such will be rejected. 
+
+Other Conference Information
+
+The Seventeenth International Conference on Machine Learning will be
+collocated with the Thirteenth Annual Conference on Computational
+Learning Theory (COLT-2000) and the Sixteenth Conference on Uncertainty 
+in Artificial Intelligence (UAI-2000). Registrants to any of these 
+meetings will be able to attend the technical sessions of the others
+at no additional cost.
+
+ICML-2000 will also be preceded by tutorials on various facets of
+machine learning. For additional information, see the web site for 
+the conference at
+
+  http://www-csli.stanford.edu/icml2k/
+
+which will provide additional details as they become available. If
+you have questions about ICML-2000, please send electronic mail to
+icml2k@csli.stanford.edu.
+
+The conference has received support from DaimlerChrysler Research and
+Technology, Stanford's Center for the Study of Language and Information 
+(CSLI), and the Institute for the Study of Learning and Expertise (ISLE).
+

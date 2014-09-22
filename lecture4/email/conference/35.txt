@@ -1,0 +1,132 @@
+
+
+From owner-www-vrml@vrml.org Fri Sep 26 19:09:32 MET 1997
+Received: from vrml.org (vrml.org [209.66.78.240]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id TAA10440 for <fnielsen@eivind.imm.dtu.dk>; Fri, 26 Sep 1997 19:09:30 +0200 (METDST)
+Received: (from majordom@localhost)
+	by vrml.org (8.8.7/8.8.5) id NAA01785
+	for www-vrml-outgoing; Fri, 26 Sep 1997 13:52:04 GMT
+X-Authentication-Warning: vrml.org: majordom set sender to www-vrml-approval@vrml.org using -f
+Received: from lotho (lotho.leeds.ac.uk [129.11.84.29])
+	by vrml.org (8.8.7/8.8.5) with SMTP id NAA01780
+	for <www-vrml@vrml.org>; Fri, 26 Sep 1997 13:51:55 GMT
+Received: from earth.leeds.ac.uk by lotho.earth.leeds.ac.uk with SMTP (PP) 
+          id <03043-0@lotho.earth.leeds.ac.uk>; Fri, 26 Sep 1997 14:55:44 +0000
+From: Neil Woodhouse <N.Woodhouse@earth.leeds.ac.uk>
+Date: Fri, 26 Sep 1997 14:55:40 +0100
+Message-Id: <15321.199709261355@gimli.earth.leeds.ac.uk>
+Received: by gimli.earth.leeds.ac.uk (SMI-8.6/fileserver/1.2) id OAA15321;
+          Fri, 26 Sep 1997 14:55:40 +0100
+To: www-vrml@vrml.org
+Subject: Conference
+X-Sun-Charset: US-ASCII
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+  
+
+
+   The call for papers about special session " 3D Imaging and 
+Virtual Inspection of Objects and Places " had  an error concerning 
+the sumission procedure.
+   Please replace the previuos message with the following one and in case 
+of interest follow the submission procedure specified below. 
+
+
+
+                         CALL FOR PAPERS
+
+                       SPECIAL SESSION ON 
+
+        3D IMAGING AND VIRTUAL INSPECTION OF OBJECTS AND PLACES 
+
+         in EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO98)
+
+           ISLAND OF RHODES, GREECE, 8-11 September 1998
+
+Topic
+
+The generation of 3D images of real world objects and environments
+from images, range data  and video taken  from single/multiple cameras
+is a fast-growing interdisciplinary field, with computer vision, 
+photogrammetry, signal processing, computer graphics as 
+the main contributing disciplines. The areas of application include
+telepresence, interactive visit of historical and turistic sites and
+museums, inspection of industrial parts, medical training,
+electronic publishing. 
+The special session intend to attract papers on both 3D imaging and 
+visualization, notably on:
+-3D aquisition techniques
+-3D view registration 
+-Fusion of range and intensity data 
+-3D textured models compression
+-VRML and model based rendering for PC
+-Image based rendering   
+
+
+Special session organizer:
+
+Guido M. Cortelazzo 
+Dipartimento di Elettronica e Informatica
+Via Gradenigo 6A
+35131 Padova 
+Italy 
+
+e-mail: corte@dei.unipd.it
+tel.: +39-49-827-7827
+fax : +39-49-827-7826 
+
+
+SUBMISSION OF PAPERS: 
+---------------------
+
+  * Information details are available: 
+  
+     -- by anonymous ftp to:   ftp.di.uoa.gr in /pub/eusipco    
+    
+     -- on the WWW server URL: http://www.di.uoa.gr/~eusipco
+
+  * Prepare a 2-3 page summary of the paper, including figures and references
+  * Fill out the Paper Cover Sheet. Style files are available on the WWW server
+    at the above given address
+  * Send 5 copies of both summary and paper cover sheet to:
+
+Guido M. Cortelazzo 
+Dipartimento di Elettronica e Informatica 
+Via Gradenigo 6A
+35131  Padova 
+Italy 
+
+
+DEADLINES:
+----------
+  * Submission of proposal: October 31, 1997.      
+  * Notification of acceptance: February 28, 1998.  
+  * Submission of camera - ready paper: April 30, 1998.
+  
+
+
+----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+FOR FURTHER INFORMATION PLEASE CONTACT :
+
+Guido Maria Cortelazzo 
+
+Dipartimento di Elettronica e Informatica
+Via Gradenigo 6a                     Tel. +39-49-827-7827
+35131 Padova  , Italy                Fax  +39-49-827-7826   
+e-mail: corte@dei.unipd.it              
+http://freia.dei.unipd.it
+
+
+
+
+
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

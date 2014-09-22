@@ -1,0 +1,57 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Oct 15 01:14:43 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id BAA04298;
+	Fri, 15 Oct 1999 01:14:39 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13201;
+          14 Oct 99 15:27 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13179;
+          14 Oct 99 15:13 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10204;
+          14 Oct 99 15:12 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa26361; 14 Oct 99 7:10 EDT
+Received: from sabai.stern.nyu.edu by edrc.cmu.edu id aa14748;
+          14 Oct 99 7:10 EDT
+Received: (from aweigend@localhost) by sabai.stern.nyu.edu (8.8.4/8.8.3) id HAA05655; Thu, 14 Oct 1999 07:10:03 -0400 (EDT)
+From: Andreas Weigend <aweigend@stern.nyu.edu>
+Message-Id: <199910141110.HAA05655@sabai.stern.nyu.edu>
+Subject: Jobs: Music Cognition / Machine Learning / Web
+To: Connectionists@cs.cmu.edu
+Date: Thu, 14 Oct 1999 07:10:03 -0400 (EDT)
+Cc: soundwalk@stanfordalumni.org
+X-Mailer: ELM [version 2.4 PL23]
+Content-Type: text
+Status: RO
+X-Status: 
+
+Early-stage, VC funded startup at the intersection of data mining,
+music cognition and the Web is seeking several top-notch developers.
+Our technology for navigating through the space of music is based on
+consumer perception, machine listening, and computational learning,
+including neural networks and Bayes nets.  It will be deployed in
+several commercial applications, enabling the consumer to explore and
+access music using our novel search capabilities.
+
+We are looking for exceptional talent with outstanding technical and
+analytical abilities to join our interdisciplinary team in the area of
+machine learning and statistical modeling (e.g., in Matlab or S-Plus).
+
+Other jobs are in the areas:
+- Coding (demonstrable strength in C, C++, JavaScript, Java, Perl);
+- Database systems and programming (SQL, ODBC, JDBC).
+
+Ideal candidates will have additional experience in areas such as
+information retrieval, collaborative filtering, user interface design
+and Web-based applications.
+
+We are located in the Bay Area on a private estate that provides a
+creative and inspiring setting with a very productive infrastructure.
+
+If you are interested in working on this exciting technology, please
+email your resume in plain text to soundwalk@stanfordalumni.org,
+clearly indicating your specific experiences in your strongest area.
+
+Thank you.
+
+Andreas Weigend

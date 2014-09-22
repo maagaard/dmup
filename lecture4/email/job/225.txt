@@ -1,0 +1,36 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 16 23:11:23 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id XAA23260;
+	Tue, 16 Nov 1999 23:11:19 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab02160;
+          16 Nov 99 15:26 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02157;
+          16 Nov 99 15:14 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13489;
+          16 Nov 99 15:13 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa20402; 16 Nov 99 14:48 EST
+Received: from neuron.cs.Colorado.EDU by edrc.cmu.edu id aa03415;
+          16 Nov 99 14:47 EST
+Received: from localhost.cs.colorado.edu (localhost.cs.colorado.edu [127.0.0.1])
+	by neuron.cs.colorado.edu (8.9.3/8.9.2) with SMTP id MAA20910
+	for connectionists@cs.cmu.edu; Tue, 16 Nov 1999 12:47:25 -0700 (MST)
+Message-Id: <199911161947.MAA20910@neuron.cs.colorado.edu>
+X-Authentication-Warning: neuron.cs.colorado.edu: localhost.cs.colorado.edu [127.0.0.1] didn't use HELO protocol
+To: connectionists@cs.cmu.edu
+Subject: faculty positions in Machine Learning at U. Colorado, Boulder
+Date: Tue, 16 Nov 99 12:47:25 -0700
+From: Mike Mozer <mozer@cs.colorado.edu>
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+
+The Computer Science Department at the University of Colorado at
+Boulder has immediate openings for two new faculty members in the area
+of Machine Learning (at either junior or senior level).  Additional
+openings are likely in the coming years through the Institute of 
+Cognitive Science.  Details can be found in the job ad at
+
+       http://www.cs.colorado.edu/department/news/news.html#search

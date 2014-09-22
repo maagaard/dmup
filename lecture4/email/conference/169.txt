@@ -1,0 +1,71 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk  Wed Nov  4 11:23:35 1998
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id LAA11330
+	for dspstaff-list; Wed, 4 Nov 1998 11:22:04 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from romeo.ic.ac.uk (romeo.ic.ac.uk [155.198.5.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id LAA11316;
+	Wed, 4 Nov 1998 11:21:55 +0100 (MET)
+From: m.liptrot@ic.ac.uk
+Received: from oban.cc.ic.ac.uk [155.198.5.28] 
+	by romeo.ic.ac.uk with smtp (Exim 1.62 #1)
+	id 0zb0CY-0007jz-00; Wed, 4 Nov 1998 10:30:10 +0000
+Received: from sg1.cc.ic.ac.uk ([155.198.63.8] helo=cscmgb.cc.ic.ac.uk)
+	by oban.cc.ic.ac.uk with esmtp (Exim 1.90 #1)
+	id 0zb0CW-00000S-00; Wed, 4 Nov 1998 10:30:08 +0000
+Received: by cscmgb.cc.ic.ac.uk (980427.SGI.8.8.8/4.0)
+          id KAA05078; Wed, 4 Nov 1998 10:30:06 GMT
+Message-Id: <199811041030.KAA05078@cscmgb.cc.ic.ac.uk>
+Subject: Computational Neuroscience Colloquium
+To: dspstaff@eivind.imm.dtu.dk, dspstud@eivind.imm.dtu.dk
+Date: Wed, 4 Nov 1998 10:30:06 +0000 (gmt)
+Cc: m.liptrot@ic.ac.uk
+X-Mailer: ELM [version 2.4 PL23]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+Some of you may be interested in this...
+
+(The IEE is the British equivalent of the American IEEE)
+
+Matt
+
+Computational Neuroscience 
+
+ Colloquium organised by Professional Group A9 (Neural networks) 
+
+                Tuesday, 24 November 1998
+                Savoy Place, London 
+
+ PROVISIONAL PROGRAMME
+
+ AIMS AND SCOPE 
+
+A one-day colloquium will be encompassing developments in
+this new, emerging discipline. Stemming from the activities of
+Professional Group A9 on neural computing, computational
+neuroscience is both an explanatory activity and a methodology
+for system synthesis. It attempts to explain the findings of
+neurobiologists by the application of appropriate analysis largely
+derived from neural network studies and approaches synthesis
+as stemming from the understanding of neurobiological
+processes. Typical work in this area is the modelling of
+awareness in the visual system, the role of the hippocampus in the
+process of learning in humans and primates, and cortical
+processing of auditory signals. At the applications end, this work
+leads to studies in artificial perception in all modalities
+including olfaction and taste. Invited speakers from the USA and the
+UK will present their work at the meeting. 
+
+Full information and a provisional programme can be found at:
+
+http://www.iee.org.uk/Events/a24nov98.htm
+

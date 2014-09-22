@@ -1,0 +1,108 @@
+
+
+From spm-request@mailbase.ac.uk Mon Apr 26 13:03:24 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id NAA15095
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 26 Apr 1999 13:03:23 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id MAA20427;
+	Mon, 26 Apr 1999 12:02:58 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id LAA27658;
+        Mon, 26 Apr 1999 11:57:15 +0100 (BST)
+Received: from fil.ion.ucl.ac.uk (cream.fil.ion.ucl.ac.uk [193.62.66.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id LAA27634;
+        Mon, 26 Apr 1999 11:57:12 +0100 (BST)
+Received: from zappa.fil.ion.ucl.ac.uk by fil.ion.ucl.ac.uk (SMI-8.6/SMI-SVR4)
+	id LAA28256; Mon, 26 Apr 1999 11:53:26 +0100
+Received: by zappa.fil.ion.ucl.ac.uk (SMI-8.6/SMI-SVR4)
+	id LAA08758; Mon, 26 Apr 1999 11:53:24 +0100
+Date: Mon, 26 Apr 1999 11:53:24 +0100
+Message-Id: <199904261053.LAA08758@zappa.fil.ion.ucl.ac.uk>
+X-Sun-Charset: ISO-8859-1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=unknown-8bit
+Content-Transfer-Encoding: 8bit
+Subject: postdoctoral position
+From: john@fil.ion.ucl.ac.uk (John Ashburner)
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: john@fil.ion.ucl.ac.uk (John Ashburner)
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+| ******************************
+| Post-doctoral research position (1-2 years) in Brain imaging research
+| 
+| Department :
+| Department of Radiology, Geneva University Hospital: Division of nuclear
+| medicine
+| 
+| Location :
+| 	Division of nuclear medicine
+| 
+| Description :
+| Software designer / Data processing specialist, and medical imaging expert
+| Activity : 100 %
+| One-year position (possibly renewable for a second year)
+| Availability: as soon as possible
+| 
+| Position created by and depending from the University of Geneva
+| Interfaculty Program of Cognitive Neurosciences
+| 
+| Funding :
+| University of Geneva Interfaculty Program of Cognitive Neuroscience
+| 
+| Goals :
+| 1) Applied research activities in a pluridisciplinary team (physicians,
+| medical imaging scientist,  neuropsychologists) in the neuroimaging
+| laboratory of the division of nuclear medicine and for the University of
+| Geneva Interfaculty Program of Cognitive Neuroscience
+| 
+| a. Development of a 3D image processing tool allowing a voxel to voxel
+| determination of differences between a single individual and a normal
+| population reference sample in regional cerebral blood flow measured by
+| Xenon-133 and HMPAO SPECT, ECD activation rCBF SPECT and FDG PET (as
+| function of gender, age and laterality).
+| b. Elaboration of a statistical tool allowing to calculate and determine
+| significant thresholds in such differences (by analogy to
+| osteodensitometry, the concept of "significant pathologic threshold" should
+| be associated with z-score and T-score computation)
+| c. Creation of an image processing tool which can resume graphically the
+| results obtained through the previously listed processing.
+| d. Implementation into existing software used in the division of nuclear
+| medicine (Toshiba Medical, Sensor System MEDx, USA)
+| 2) Active participation to the interdisciplinary project "Brain energy
+| metabolism in dementias of the Alzheimer type: physiopathological
+| mechanisms and correlations with functional brain imaging and cognitive
+| performance" (granted by the Swiss National Research Fund)
+| 3) Write-up of publications on the research projects in progress
+| 4) Elaboration of new research projects, and grant proposals
+| 
+| 
+| Requirements :
+| Doctoral degree.
+| Qualifications in functional imaging (PET and SPECT) data processing and
+| analysis.
+| Use of SUN SPARC workstations, implemented with MATLAB and various other
+| software (MEDx, IMAGEMATCH, SPM).
+| 
+| Please send a vita, a description of current work and research interests,
+| and three letters of recommendation, to the following address:
+| Prof. Daniel Slosman
+| Division de Médecine Nucléaire
+| HCUG
+| 1211 Genève 11
+| Fax: (+41-22) 732 7165
+| email : slosman@cmu.unige.ch
+| Voice phone: (+41 22) 37 27 141
+| Information can be obtained at the same address.
+| 
+| 

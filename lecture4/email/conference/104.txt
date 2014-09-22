@@ -1,0 +1,143 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU Fri May 22 10:14:37 MET 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA13719;
+	Fri, 22 May 1998 10:14:29 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa19460;
+          21 May 98 17:03:25 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa19458;
+          21 May 98 16:52:28 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20520;
+          21 May 98 16:51 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11799; 20 May 98 20:30 EDT
+Received: from smaug-gw.caltech.edu by RI.CMU.EDU id aa19097;
+          20 May 98 20:29:49 EDT
+Received: from bbb.caltech.edu (smaug.bbb.caltech.edu) by gateway.bbb.caltech.edu (4.1/SMI-4.0)
+	id AA28137; Wed, 20 May 98 17:29:40 PDT
+Received: from [131.215.137.89] (jimmac.bbb.caltech.edu) by bbb.caltech.edu (4.1/SMI-4.1)
+	id AA19644; Wed, 20 May 98 17:29:36 PDT
+Message-Id: <v03007808b18934bbf4cd@[131.215.137.89]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 20 May 1998 17:33:43 -0800
+To: Connectionists@CS.cmu.edu, cns-interest@cns.caltech.edu
+From: "James M. Bower" <jbower@bbb.caltech.edu>
+Status: RO
+X-Status: 
+
+
+************************************************************************
+
+SEVENTH ANNUAL COMPUTATIONAL NEUROSCIENCE MEETING (CNS*98)
+
+July 26 - 30, 1998   Santa Barbara, California
+
+REGISTRATION INFORMATION
+
+************************************************************************
+
+Registration is now open for this year's Computational Neuroscience meeting
+(CNS*98).  This is the seventh in a series of annual inter-disciplinary
+conferences intended to address the broad range of research approaches and
+issues involved in the general field of computational neuroscience.  As in
+previous years, this meeting will bring together experimental and
+theoretical neurobiologists along with engineers, computer scientists,
+cognitive scientists, physicists, and mathematicians interested in
+understanding how biological neural systems compute.  The meeting will
+equally emphasize experimental,  model-based, and more abstract theoretical
+approaches to understanding neurobiological computation.
+
+The meeting in 1998 will take place at Fess Parker's Doubletree Resort in
+Santa Barbara, California and include plenary, contributed, and poster
+sessions.  The first session starts at 9 am, Sunday July 26th and the
+meeting ends with the annual CNS banquet on Thursday evening, July 30th.
+There will be no parallel sessions.  The meeting includes two half days of
+informal workshops focused on current issues in computational neuroscience.
+Day care will be available for children and given the beauty and
+recreational interest of the area, we encourage families to attend.
+
+LOCATION:  The meeting will take place at the Fess Parker's Double Tree
+Resort in Santa Barbara, California.
+
+MEETING ACCOMMODATIONS:  Accommodations for the meeting have been arranged
+at Fess Parker's Doubletree Resort.  Information concerning reservations,
+hotel accommodations, etc. are available at the meeting web site indicated
+below.  A block of rooms are reserved at special rates. 30 student rate
+rooms are available on a first-come-first-served basis, so we recommend
+students acting quickly to reserve these slots.  NOTE that registering for
+the meeting, WILL NOT result in an automatic room reservation.  Instead you
+must make your own reservations by contacting the hotel itself.  As this is
+the high season for tourists in Santa Barbara, you should make sure and
+reserve your accommodations quickly by contacting:
+
+Fess Parker's Doubletree Resort
+(RESERVATION REQUEST ORDER FORM LOCATED BELOW)
+
+NOTE:  IN ORDER TO GET THE AVAILABLE ROOMS, YOU MUST CONFIRM
+HOTEL REGISTRATIONS BY JUNE 24, 1997.
+
+When making reservations by phone, make sure and indicate that you are
+registering for the Computational Neuroscience (CNS*98) meeting.   Students
+will be asked to verify their status on check in with a student ID or other
+documentation.
+
+MEETING REGISTRATION FEES:
+
+Registration received on or before June 26, 1998:
+	Student:  $  95
+	Regular:  $ 225
+
+Meeting registration after June 26, 1998:
+	Student:  $ 125
+	Regular:  $ 250
+
+
+BANQUET:  Registration for the meeting includes a single ticket to the
+annual CNS Banquet.  Additional Banquet tickets can be purchased for $35
+each person.  The banquet will be held on Thursday, July 30th.
+
+DAY CARE:  Day care will be available at the conference for those who
+inform us in advance of their day care needs. Note that day care will not
+be provided during the evening.  Please send e-mail to
+judy@bbb.caltech.edu.  Please provide the following information:
+
+	1. name of parent(s),
+	2. e-mail address,
+	3. age of children and
+	4. estimated times during which children will need day care.
+
+Day care will be provided free of charge accept for children under the
+age of 2 years old for whom a fee may be charged.
+
+AIRFARE: Santa Barbara has its own small airport with daily flights from
+Los Angeles and San Francisco.   In addition, ground transportation is
+available to Santa Barbara from Los Angeles International Airport (and a
+one  and a half hour drive).  Special discount rates have been arranged
+with United and Northwest airlines, if you mention the following group ID
+with airline reservations:
+
+Northwest Airlines - Phone No:  1-800-328-1111 Meeting I.D. No:  NMG66
+United Airlines -  Phone No:    1-800-521-4041 (U.S. and Canada) Meeting
+I.D. No:  525SV
+
+
+*********************************************************************
+
+ADDITIONAL INFORMATION (including the agenda with list of talks)
+can be obtained by:
+
+o Using our on-line WWW information and registration server, URL of:
+            http://www.bbb.caltech.edu/cns/cns98/cns98.html
+
+o ftp-ing to our ftp site.
+
+            yourhost% ftp ftp.bbb.caltech.edu
+            Name (ftp.bbb.caltech.edu:<<yourname>): ftp
+            Password:  yourname@yourhost.yourside.yourdomain
+            ftp> cd cns98
+            ftp> ls
+
+o Sending Email to:
+            cns98@bbb.caltech.edu
+

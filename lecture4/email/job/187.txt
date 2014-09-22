@@ -1,0 +1,114 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Sep 28 12:52:55 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA19129;
+	Tue, 28 Sep 1999 12:52:51 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29994;
+          27 Sep 99 22:38 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29980;
+          27 Sep 99 22:22 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15278;
+          27 Sep 99 22:22 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa13698; 27 Sep 99 15:27 EDT
+Received: from emperor.psych.ualberta.ca by RI.CMU.EDU id aa14955;
+          27 Sep 99 15:26:24 EDT
+Received: (qmail 20546 invoked by uid 1002); 27 Sep 1999 19:28:38 -0000
+Date: Mon, 27 Sep 1999 13:28:38 -0600 (MDT)
+From: "Michael R.W. Dawson" <mike@deathstar.psych.ualberta.ca>
+X-Sender: mike@emperor.psych.ualberta.ca
+To: Connectionists <connectionists@cs.cmu.edu>
+Subject: Jobs at U.ofA.
+Message-ID: <Pine.LNX.3.96.990927132626.20523A-100000@emperor.psych.ualberta.ca>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+DEPARTMENT OF PSYCHOLOGY, UNIVERSITY OF ALBERTA
+
+Two positions in Computational Psychology / Computational Neuroscience or
+in Cognitive Engineering
+
+The Department of Psychology at the University of Alberta, is seeking to
+expand its program in Computational Psychology and Cognitive Engineering.
+Two tenure-track positions at the Assistant Professor level in
+Computational Psychology / Computational Neuroscience or in Cognitive
+Engineering will be open to competition. Appointments will be effective
+July 1, 2000.
+
+Candidates in Computational Psychology / Computational Neuroscience should
+have a strong interest in modeling and predicting human behavior, or in
+modeling of brain functions at the level of neurons, neuronal groups or
+large brain subsystems using formal approaches such as mathematical
+modeling, neural networks, evolutionary computing, or computer simulations.
+Candidates in Cognitive Engineering should have a strong interest in
+interaction of humans with computers, machines or complex environments, in
+decision-support systems in industrial, medical or emergency situations,
+and in the design of computer-based tools to support and enhance
+performance of humans in
+these situations.
+
+The expectation is that the successful candidates will secure competitive
+research funds and/or industrial support. Hiring decisions will be made on
+the basis of demonstrated research capability, teaching ability, potential
+for interactions with colleagues and fit with departmental needs. 
+
+The applicant should send a curriculum vitae, a statement of current and
+future research plans, recent publications, and arrange to have at least
+three letters of reference forwarded, to: Dr Terry Caelli, Chair,
+Department of Psychology P220 Biological Sciences Building University of
+Alberta Edmonton, Alberta Canada T6G 2E9. Closing date for applications is
+December 1, 1999.
+
+Further information on these positions can be obtained from
+http://web.psych.ualberta.ca/hiring.
+
+In accordance with Canadian Immigration requirements, this advertisement is
+directed to Canadian Citizens and permanent residents. If suitable Canadian
+citizens and permanent residents cannot be found, other individuals will be
+considered. The University of Alberta is committed to the principle of
+equity in employment. As an employer we welcome diversity in the workplace
+and encourage applications from all qualified women and men, including
+Aboriginal peoples, persons with disabilities, and members of visible
+minorities.
+
+_____________________________________________________
+
+Background
+
+
+Computational Psychology / Computational Neuroscience 
+
+Computational Psychology is concerned with the generation of formal
+representations and algorithms for modeling, predicting and improving human
+behavior. Computational Neuroscience, on the other hand, is concerned with
+modeling brain functions different levels, at the level of single neurons,
+at the level of neuronal groups, and at the level of brain subsystems.
+Both, Cognitive Psychology and Cognitive Neuroscience, rely on a wealth of
+formal approaches: mathematical modeling, neural networks, evolutionary
+computing, computer simulations, uncertainty calculi, HMMs, etc. A hiring
+in this area not only strengthens the expertise in our program, but also
+helps to
+increase collaborative ties between programs (in particular with BCN) and
+between departments (in particular with Neuroscience and with Computing
+Science). 
+
+Cognitive Engineering is concerned with the interaction of humans with
+complex environments, such as the interaction of humans with computers,
+machines or complex (typically industrial) environments, with
+decision-support systems in industrial, medical or emergency situations,
+with the design of computer-based tools to support and enhance performance
+of humans in these situations, and with methods to efficiently train humans
+for these situations. Cognitive Engineering relies on a variety of methods
+and tools, including performance
+assessment, spatial information systems and methods for developing computer
+support technologies (e.g. expert systems, uncertainty, machine learning).
+Cognitive Engineering has close links to Human Factors and industrial
+applications. 
+--
+Professor Michael R.W. Dawson | mike@bcp.psych.ualberta.ca |
+(780)-492-5175
+Biological Computation Project, Dept. of Psychology, University of Alberta
+Edmonton, AB, CANADA T6G 2E9 | http://www.bcp.psych.ualberta.ca/~mike/  
+

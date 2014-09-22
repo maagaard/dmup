@@ -1,0 +1,190 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Dec  7 19:28:56 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id TAA16088;
+	Tue, 7 Dec 1999 19:28:50 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24013;
+          6 Dec 99 23:07 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23999;
+          6 Dec 99 22:50 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26350;
+          6 Dec 99 22:50 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa14777; 3 Dec 99 11:32 EST
+Received: from krimson.cc.kuleuven.ac.be by cs.cmu.edu id aa04775;
+          3 Dec 99 11:32 EST
+Received: from simone.neuro.kuleuven.ac.be (simone.neuro.kuleuven.ac.be [134.58.34.50])
+	by krimson.cc.kuleuven.ac.be (8.9.1a/8.9.0) with ESMTP id RAA07655;
+	Fri, 3 Dec 1999 17:26:50 +0100
+Received: from neuro.kuleuven.ac.be by simone.neuro.kuleuven.ac.be (8.8.8+Sun/SMI-SVR4)
+	id RAA05407; Fri, 3 Dec 1999 17:27:07 +0100 (MET)
+Sender: nnsp00@neuro.kuleuven.ac.be
+Message-ID: <3847EF5B.CF3908CB@neuro.kuleuven.ac.be>
+Date: Fri, 03 Dec 1999 17:27:07 +0100
+From: "NNSP2000, Sydney" <nnsp00@neuro.kuleuven.ac.be>
+X-Mailer: Mozilla 4.04 [en] (X11; I; SunOS 5.6 sun4u)
+MIME-Version: 1.0
+To: icassp99@enpc1897.eas.asu.edu, INDUCTIVE@hermes.csd.unb.ca,
+        connect_dis@complex.nbi.dk, Connectionists@cs.cmu.edu,
+        fuzzy-mail@dbai.tuwien.ac.at, submission@vislist.com
+Subject: IEEE workshop on 
+	Neural Networks for Signal Processing (NNSP), Sydney, Australia, December 2000.
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Please find attached advanced information about the IEEE workshop on
+Neural Networks for Signal Processing (NNSP) which is to be held in
+Sydney, Australia, in December 2000.
+
+In case you would like to be removed from our mailing list: reply to
+this mail with as subject "remove".
+
+Marc M. Van Hulle
+Katholieke Universiteit Leuven
+Belgium
+
+
+***********************************************
+****               CALL FOR PAPERS                           ****
+****     submission deadline: March 31, 2000           ****
+***********************************************
+
+December 11-13, 2000, Sydney, Australia
+
+NNSP'2000 homepage: http://eivind.imm.dtu.dk/nnsp2000
+
+Thanks to the sponsorship of IEEE Signal Processing Society
+and the IEEE Neural Networks Council the tenth of a series of
+IEEE workshops on Neural Networks for Signal Processing
+will be held at the University of Sydney Campus, Sydney, Australia.
+The workshop will feature keynote lectures, technical presentations,
+and panel discussions.
+
+Papers are solicited for, but not limited to, the following areas:
+
+Algorithm and Architectures:
+Artificial neural networks (ANN), adaptive signal processing,
+Bayesian modeling, MCMC, generalization, design algorithms,
+optimization, parameter estimation, nonlinear signal processing,
+Markov models, fuzzy systems (FS), evolutionary computation (EC),
+synergistic models of ANN/FS/EC, and wavelets.
+
+Applications:
+Speech processing, image processing, sonar and radar, data fusion,
+intelligent multimedia and web processing, OCR, robotics, adaptive
+filtering,
+blind source separation, communications, sensors, system identification,
+
+and other general signal processing and pattern recognition
+applications.
+
+Implementations:
+Parallel and distributed implementation, hardware design,
+and other general implementation technologies.
+
+
+PAPER SUBMISSION PROCEDURE
+Prospective authors are invited to submit a full paper
+using the electronic submission procedure described at the workshop
+homepage: http://eivind.imm.dtu.dk/nnsp2000
+
+Accepted papers will be published in a hard-bound volume by IEEE
+and distributed at the workshop.
+
+
+SCHEDULE
+Submission of full paper:                                         March
+31, 2000
+Notification of acceptance:                                      May 31,
+2000
+Submission of photo-ready accepted paper:         July 15, 2000
+Advanced registration, before:                                September
+15, 2000
+
+
+ORGANIZATION
+
+Honorary Chair
+  Bernard WIDROW
+  Stanford University
+
+General Chairs
+  Ling GUAN
+  University of Sydney
+  email: ling@ee.usyd.edu.au
+
+  Kuldip PALIWA
+  Griffith University
+  email: kkp@shiva2.me.gu.edu.au
+
+Program Chairs
+  Tulay Adali
+  University of Maryland, Baltimore County
+  email: adali@umbc.edu
+
+  Jan LARSEN
+  Technical University of Denmark
+  email: jl@imm.dtu.dk
+
+Finance Chair
+  Raymond Hau-San WONG
+  University of Sydney
+  email: hswong@ee.usyd.edu.au
+
+Proceedings Chairs
+  Elizabeth J. WILSON
+  Raytheon Co.
+  email: bwilson@ed.ray.com
+
+  Scott C. DOUGLAS
+  Southern Methodist University
+  email: douglas@seas.smu.edu
+
+Publicity Chair
+  Marc Van HULLE
+  Katholieke Universiteit, Leuven
+  email: marc@neuro.kuleuven.ac.be
+
+Registration and Local Arrangements
+  Stuart PERRY
+  Defence Science and Technology Organisation
+  email: Stuart.Perry@dsto.defence.gov.au
+
+Europe Liaison
+  Jean-Francois CARDOSO
+  ENST
+  email: cardoso@sig.enst.fr
+
+America Liaison
+  Amir ASSADI
+  University of Wisconsin at Madison
+  email: ahassadi@facstaff.wisc.edu
+
+Asia Liaison
+  Andrew BACK
+  RIKEN
+  email: andrew.back@usa.net
+
+
+
+Program Committee
+Amir Assadi                   Yianni Attikiouzel           John
+Asenstorfer    Andrew Back
+Geoff Barton                   Herve Bourlard                Andy
+Chalmers       Zheru Chi
+Andrzej Cichocki            Tharam Dillon                  Tom
+Downs             Hsin Chia Fu
+Suresh Hangenahally     Marwan Jabri                   Haosong
+Kong        Shigeru Katagiri
+Anthony Kuh                   Yi Liu
+Fa-Long Luo          David Miller
+Christophe Molina          M Mohammadian            Erkki
+Oja                 Soo-Chang Pei
+Jose Principe                   Ponnuthurai Suganthan   Ah Chung
+Tsoi        Marc Van Hulle
+A.N. Venetsanopoulos  Yue Wang
+
+

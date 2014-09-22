@@ -1,0 +1,79 @@
+
+
+From spm-request@mailbase.ac.uk  Fri Jan 29 12:42:55 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id MAA22749
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 29 Jan 1999 12:42:54 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id LAA29710;
+	Fri, 29 Jan 1999 11:45:35 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id LAA10834;
+        Fri, 29 Jan 1999 11:36:55 GMT
+Received: from godiva.coventry.ac.uk (root@godiva.coventry.ac.uk [193.61.107.32]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id LAA10822;
+        Fri, 29 Jan 1999 11:36:52 GMT
+Received: from acm.org (q127-3.coventry.ac.uk [194.66.49.5]) by godiva.coventry.ac.uk (8.9.2/8.6.11) with ESMTP id LAA06583 for <spm@mailbase.ac.uk>; Fri, 29 Jan 1999 11:37:04 GMT
+Message-ID: <36B19E50.D9E15238@acm.org>
+Date: Fri, 29 Jan 1999 11:41:05 +0000
+X-Mailer: Mozilla 4.5 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------A26FCB9162A7C265CBF68B1D"
+Subject: Spatial normalization and stroke patients
+From: Sergio Carvalho <sergio.carvalho@acm.org>
+To: SPM Mailing List <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Sergio Carvalho <sergio.carvalho@acm.org>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+This is a multi-part message in MIME format.
+--------------A26FCB9162A7C265CBF68B1D
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Does anyone have experience on the results of spatial normalization on
+stroke patients? I have a scan of a stroke patient, where a reduced
+perfusion area is easily perceivable. However, after spatial
+normalization the dark area completely vanishes. Why?
+
+--
+Sergio Carvalho
+---------------
+sergio.carvalho@acm.org
+
+If at first you don't succeed, skydiving is not for you
+
+
+--------------A26FCB9162A7C265CBF68B1D
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="sergio.carvalho.vcf"
+Content-Description: Card for Sergio Carvalho
+Content-Disposition: attachment;
+ filename="sergio.carvalho.vcf"
+Content-Transfer-Encoding: 7bit
+
+begin:vcard 
+n:Carvalho;Sergio
+tel;home:+ 351 2 9486676
+tel;work:+ 351 933 6201882
+x-mozilla-html:TRUE
+org:FEUP
+adr:;;Rua Dr Carlos Felgueiras, 472, 1o Esq;Maia;N/A;4470 MAIA;Portugal
+version:2.1
+email;internet:sergio.carvalho@acm.org
+title:Mr
+x-mozilla-cpt:;8768
+fn:Sergio Carvalho
+end:vcard
+
+--------------A26FCB9162A7C265CBF68B1D--

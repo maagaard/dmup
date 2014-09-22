@@ -1,0 +1,50 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Aug 30 02:31:24 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA23047;
+	Mon, 30 Aug 1999 02:31:18 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21257;
+          29 Aug 99 19:13 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21252;
+          29 Aug 99 18:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa19087;
+          29 Aug 99 18:59 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa16054; 29 Aug 99 10:09 EDT
+Received: from murphy.giccs.georgetown.edu by RI.CMU.EDU id aa29033;
+          29 Aug 99 10:08:43 EDT
+Received: from brecker.giccs.georgetown.edu (brecker [141.161.231.170]) by murphy.giccs.georgetown.edu (8.7.6/8.7.3) with ESMTP id KAA20067; Sun, 29 Aug 1999 10:00:32 -0400
+From: Geoff Goodhill <geoff@giccs.georgetown.edu>
+Received: (from geoff@localhost) by brecker.giccs.georgetown.edu (8.8.7/8.7.3) id KAA13562; Sun, 29 Aug 1999 10:08:34 -0400
+Date: Sun, 29 Aug 1999 10:08:34 -0400
+Message-Id: <199908291408.KAA13562@brecker.giccs.georgetown.edu>
+To: cneuro@bbb.caltech.edu, connectionists@cs.cmu.edu
+Subject: Postdoc position available
+Status: RO
+X-Status: 
+
+POSTDOCTORAL POSITION IN AXON GUIDANCE
+
+A postdoctoral position in now available to join a small team of
+physicists, biologists and computational neuroscientists investigating
+mechanisms of axon guidance in the developing nervous system. We are
+combining mathematical modeling with the development of a novel
+bioengineering technology for complementary quantitative experiments.
+We are looking for someone with skills in mathematical biological
+modeling, dynamics of complex systems, or quantitative imaging and
+data acquisition. For more details see
+http://www.giccs.georgetown.edu/labs/cns/axon.html
+
+Send a CV and contact information for at least two referees,
+preferably be email, to
+
+Geoffrey J Goodhill
+Georgetown Institute for Cognitive and Computational Sciences
+Georgetown University Medical Center
+3970 Reservoir Road NW
+Washington DC 20007
+Tel: (202) 687 6889
+Fax: (202) 687 0617
+Email: geoff@giccs.georgetown.edu
+Homepage: www.giccs.georgetown.edu/labs/cns
+

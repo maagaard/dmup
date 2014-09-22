@@ -1,0 +1,65 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Jan 19 19:19:27 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA01496;
+	Tue, 19 Jan 1999 19:19:21 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14140;
+          19 Jan 99 10:53 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14138;
+          19 Jan 99 10:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10338;
+          19 Jan 99 10:36 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28636; 19 Jan 99 5:19 EST
+Received: from arwen.unibe.ch by CS.CMU.EDU id aa15650; 19 Jan 99 5:18:19 EST
+Received: from asterix.iam.unibe.ch (actually asterix.unibe.ch) by arwen 
+          with smtpL; Tue, 19 Jan 1999 11:15:58 +0100
+Received: from iam.unibe.ch by asterix.iam.unibe.ch (SMI-8.6/SMI-SVR4) 
+          id LAA13027; Tue, 19 Jan 1999 11:17:59 +0100
+Sender: wsenn@iam.unibe.ch
+Message-ID: <36A45BCB.6E351A6E@iam.unibe.ch>
+Date: Tue, 19 Jan 1999 10:17:47 +0000
+From: Walter Senn <wsenn@iam.unibe.ch>
+X-Mailer: Mozilla 4.5 [en] (X11; I; Linux 2.0.36 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Position Announcements
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+POSTDOC AND PhD POSITIONS IN COMPUTATIONAL NEUROSCIENCE
+
+The University of Bern, Switzerland, is building an interdisciplinary research
+group in Computational Neuroscience supported by the Department of Physiology
+and the Institute of Mathematics. As part of this effort, several positions will
+become available on 1/4/1999:
+
+1 Post-doctoral position in Computational Neuroscience (up to 3 years)
+1 Post-doctoral position in Experimental Neuroscience (up to 3 years)
+1 Pre-doctoral (Ph.D.)  position in Computational Neuroscience (4 years)
+
+The theoretical work of the existing group focuses on short-term synaptic
+adaptation, single neuron computation and dynamics of networks of spiking
+neurons. The recent  experimental studies at the Physiological Institute concern
+LTP/LTD experiments on activity-dependent cortical synapses, dendritic signal
+processing and the culturing of networks on multi-electrode arrays. Candidates
+with research activities in one of these fields are encouraged to apply, but
+strong candidates with research in a related topic will also be considered. For
+additional information see http://pylp76.unibe.ch/~fniwww/jobs/NCjobsMore.html .
+
+Please send a letter of application along with CV, publication list, brief 
+statement of current research, and two letters of recommendation before February
+20, 1999, to
+
+Dr. Walter Senn
+Department of Physiology
+University of Bern
+Bhlplatz 5
+CH-3012 Bern, Switzerland
+
+e-mail:wsenn@iam.unibe.ch
+FAX ++41 31 631 46 11

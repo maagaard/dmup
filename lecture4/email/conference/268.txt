@@ -1,0 +1,57 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jun 11 20:45:07 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA06087;
+	Fri, 11 Jun 1999 20:44:40 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24923;
+          10 Jun 99 22:57 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24921;
+          10 Jun 99 22:53 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15099;
+          10 Jun 99 22:53 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11908; 10 Jun 99 22:48 EDT
+Received: from [131.215.25.161] by RI.CMU.EDU id aa00905; 10 Jun 99 22:47:50 EDT
+Received: from jimmac.bbb.caltech.edu ([131.215.25.164])
+	by gateway.bbb.caltech.edu with esmtp (Exim 2.05 #2)
+	id 10sHMV-00017B-00; Thu, 10 Jun 1999 19:48:07 -0700
+Mime-Version: 1.0
+X-Sender: jbower@gateway.bbb.caltech.edu
+Message-Id: <v04011740b3862982977b@[131.215.25.164]>
+Date: Thu, 10 Jun 1999 19:49:13 -0700
+To: cns-interest@cns.caltech.edu, Connectionists@cs.cmu.edu
+From: "James M. Bower" <jbower@bbb.caltech.edu>
+Subject: Travel Grants for CNS*99
+Status: RO
+X-Status: 
+
+
+                                   *********  TRAVEL GRANTS  *********
+
+
+FOR THE UPCOMING EIGHTH ANNUAL COMPUTATIONAL NEUROSCIENCE MEETING (CNS*99)
+
+                                                     July 18 - 22, 1999
+                                               Pittsburgh, Pennsylavania
+
+
+We have just learned that travel grants for students and postdoctoral
+fellows will be available for the upcoming CNS meeting.
+
+While priority for support will go to those who are listed as authors on
+CNS papers, we anticipate also being able to support some graduate students
+and postdoctoral fellows who want to attend the meeting without presenting
+a paper.
+
+Information on the meeting agenda, registration, etc can be found at:
+http://cns.numedeon.com/cns99/
+
+
+Please note that conference rates at the hotel and assured room
+availability require that you make reservations at
+the Pittsburgh Hilton and Towers BEFORE JUNE 17th.
+
+Please contact the hotel directly for reservations and make sure and
+mention that you are attending CNS*99.
+
+The Pittsburgh Hilton and Towers:   (412) 391-4600

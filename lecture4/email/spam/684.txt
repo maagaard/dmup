@@ -1,0 +1,86 @@
+
+
+From ti@dsp2.dspnet.com Sat Nov 20 09:12:02 MET 1999
+Received: from dsp2.dspnet.com ([198.3.252.25])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id JAA14494
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 20 Nov 1999 09:12:01 +0100 (MET)
+Received: (from ti@localhost)
+	by dsp2.dspnet.com (8.8.7/8.8.7) id EAA18528
+	for fnielsen@eivind.imm.dtu.dk; Sat, 20 Nov 1999 04:20:32 -0500
+Date: Sat, 20 Nov 1999 04:20:32 -0500
+From: Texas Instruments <ti@dsp2.dspnet.com>
+Message-Id: <199911200920.EAA18528@dsp2.dspnet.com>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: VoIP Workshop LIVE Today
+Status: RO
+X-Status: 
+
+o  DO YOU WANT TO BETTER UNDERSTAND HOW PACKETIZED VOICE WORKS?
+o  DO YOU WANT TO BUILD EQUIPMENT THAT CAN HANDLE VOICE, FAX, OR 
+   DATA - WITHOUT THE NEED TO RECONFIGURE CALL MANAGEMENT 
+   PATTERNS?
+o  DO YOU WANT TO KNOW ABOUT VOIP QUALITY OF SERVICE ISSUES AND 
+   HOW THEY CAN BE ADDRESSED?
+o  DO YOU  NEED TO BUILD IP PHONE, IPBX, CABLE MODEM, DSL, OR 
+   OTHER "VOICE OVER" ENABLED PRODUCTS?
+
+If so, join Texas Instruments and Telogy Networks, a Texas 
+Instruments Company, at http://www.techonline.com for the 
+industry's first TechOnLine University course on Voice over 
+Internet Protocol. (See details below for accessing the course.)
+
+As the leading provider of VoIP hardware and software, TI and 
+Telogy bring you an educational training course designed to keep 
+you informed of the latest developments and benefits in the fast 
+growing packetized voice industry.
+
+The 1½ hour course is divided into 4 easy-to-follow modules, 
+including:
+
+o MODULE 1: Anatomy of Internet Phone Calls (20 MINS.)
+o MODULE 2: Internet Telephony: The Case for Universal Ports 
+  (30 MINS.)
+o MODULE 3: Implementation Challenges (30 MINS.)
+o MODULE 4: Applications (15 MINS.)
+
+MODULE 1 explains the anatomy of an Internet phone call and 
+describes what actually happens when voice travels over a packet 
+network. It further identifies problems inherent with Internet 
+telephony and explains how these problems can be addressed.
+
+MODULE 2 is designed to introduce the basics of traditional 
+telephony and highlight the roles of gateways and remote access 
+servers in the transmission and reception of voice, fax, and 
+modem data. Participants will be able to identify the roles of 
+gateways and remote access servers and explain the benefits of a 
+universal port solution that integrates voice, fax and data 
+modem capabilities.
+
+MODULE 3 outlines and identifies the challenges involved in 
+implementing a Voice Over Internet Protocol solution, and 
+explains the types of features that should be included.
+
+MODULE 4 reviews the major development areas for VoIP products 
+and details six key application areas.
+
+Look for more exciting courses to come from Texas Instruments, 
+the world leader in DSP and Analog.
+
+To access the VoIP course, follow these simple steps:
+
+1) Register at http://www.techonline.com and log in.
+2) From the TechOnLine Home page, click "TECHONLINE UNIVERSITY" 
+   in the lower left column.
+3) From the TechOnLine University Home page, click "User 
+   Preferences" in the upper left column. Configure your system 
+   and then click "Submit".
+4) Click "Courses" in the left column and then select the 'Voice 
+   over Internet Protocol' course title. Please note that once 
+   you select the course, it will be part of your learning 
+   Transcript.
+5) Begin the course by clicking on the first module 'Anatomy of 
+   Internet Phone Calls'.
+
+----------------------------------------------------------------
+If you feel this e-mail was not relevant, you can change your 
+e-mail preferences at http://www.techonline.com/list_update.html

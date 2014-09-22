@@ -1,0 +1,592 @@
+
+
+From lkhansen@eivind.imm.dtu.dk Mon May 31 14:51:47 MET 1999
+Received: (from lkhansen@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id OAA05871;
+	Mon, 31 May 1999 14:51:46 +0200 (METDST)
+Date: Mon, 31 May 1999 14:51:46 +0200 (METDST)
+From: Lars Kai Hansen <lkhansen@eivind.imm.dtu.dk>
+Message-Id: <199905311251.OAA05871@eivind.imm.dtu.dk>
+Subject: CALL FOR PARTICIPATION - MULTIMEDIA RESEARCH SCHOOL Copenhagen
+To: thko@eivind.imm.dtu.dk, fnielsen@eivind.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: multipart/mixed;boundary=41c6_167e-2781_446b-794b_15fb
+Status: RO
+X-Status: 
+
+
+--41c6_167e-2781_446b-794b_15fb
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+Content-MD5: wk1Wm8r0bGYdLo+tuVmyGg==
+
+------------- Begin Forwarded Message -------------
+
+=46rom carstensen@tele.dtu.dk Mon May 31 14:18:02 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id OAA05462;
+	Mon, 31 May 1999 14:18:01 +0200 (METDST)
+Received: from hp1.tele.dtu.dk (root@hp1.tele.dtu.dk [192.38.68.101])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id OAA11072;
+	Mon, 31 May 1999 14:16:14 +0200 (METDST)
+Received: from [192.38.86.49] (carstensen.cti.dtu.dk [192.38.86.49])
+	by hp1.tele.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id OAA24007;
+	Mon, 31 May 1999 14:16:06 +0200 (METDST)
+X-Sender: carstens@hp1.tele.dtu.dk
+Message-Id: <v03007805b3782e1231fb@[192.38.86.49]>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;=20
+boundary=3D"=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D_-1283969340=3D=3D_=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D"
+Date: Mon, 31 May 1999 14:19:12 +0200
+To: cg@it.dtu.dk, hhl@it.dtu.dk, sp@it.dtu.dk, robin@it.dtu.dk, =
+jlj@iau.dtu.dk,
+        ml@iau.dtu.dk, sf@tele.dtu.dk, riis@tele.dtu.dk, ls@tele.dtu.dk,
+        jmc@imm.dtu.dk, sdh@imm.dtu.dk, lkhansen@imm.dtu.dk, =
+pskh@imm.dtu.dk,
+        jaas@imm.dtu.dk, mg@serv1.imm.dtu.dk, ld@emi.dtu.dk, =
+pd@emi.dtu.dk,
+        ke@emi.dtu.dk, af@emi.dtu.dk, njc@gk.dtu.dk, =
+dueholm@lanmai.ilf.dtu.dk,
+        fv@gk.dtu.dk, jbansler@cit.dk, claire@cti.dtu.dk, =
+havn@tele.dtu.dk,
+        jn@tele.dtu.dk, schmidt@tele.dtu.dk, skouby@cti.dtu.dk, =
+aws@dtv.dk,
+        lbj@dtv.dk, tp@dat.dtu.dk, sb@dtv.dk, mg@dtv.dk, rod@imm.dtu.dk,
+        thko@imm.dtu.dk
+From: Peter Carstensen <carstensen@tele.dtu.dk>
+Subject: CALL FOR PARTICIPATION - MULTIMEDIA RESEARCH SCHOOL Copenhagen
+Content-Length: 29724
+Status: RO
+
+K=E6re Multimedie-interesserede
+
+Hermed et call for til et Multimedie PhD-sommerskole arrangement vi er
+involveret i at organisere. Spred den venligst til eventuelle =
+interesserede.
+
+mange hilsener
+Peter Carstensen
+
+
+>Subject: CALL FOR PARTICIPATION - MULTIMEDIA RESEARCH SCHOOL Copenhagen
+>
+>First Call for Participation -- PLEASE CIRCULATE
+>
+>Interaction and Collaboration in Virtual Environments
+>3rd Nordic Interactive Multimedia Research School
+>September 8-11, 1999
+>The IT-University in Copenhagen
+>
+>Location and organization
+>The research school is organized by InterMedia-=C5rhus and
+>InterMedia-Copenhagen (http://www.intermedia.uni.dk). The Research =
+School
+>will be located at the recently established IT-University in Copenhagen
+>(http://www.itu.dk) which is located on Glentevej 67, DK-2400 =
+Copenhagen
+>NV, Denmark.
+>Background:
+>Research in the area of analysis and design of interactive media and
+>communication technologies have recently received  a lot of attention =
+in
+>most Nordic national research programs. In Denmark the national =
+InterMedia
+>institute has been established, in Norway, University of Oslo has
+>established an InterMedia laboratory, and in Sweden the national
+>Interactive Institute has been established, and more initiatives are in =
+the
+>pipe line in the Nordic countries. This implies in turn that new =
+research
+>projects have been established, as well as many research students have
+>started projects in this area.
+>The Nordic Interactive Multimedia Research School is a joint network =
+effort
+>organized around workshops at least twice a year. It is intended to =
+include
+>Ph.D. students and others engaged in multimedia research coming from a =
+wide
+>spectrum of backgrounds, such as computer science, humanistic sciences,
+>social sciences, and architecture as well as performing artists working
+>with digital media and arts.  The first research school was held at Art =
+and
+>Communication in Malm=F6, Sweden November 22nd-26th, 1998, and it was =
+called
+>"The Staging of Space, Time and Interactivity". The second school was =
+held
+>at University of Art and Design Helsinki, Finland, May 28th - 30th, =
+1999,
+>and it was called "In Terms of Design". This is the third research =
+school
+>in the series, and since it focuses on collaboration and interactive =
+media,
+>it is held prior to the ECSCW conference
+>(http://www.cti.dtu.dk/cscw/ecscw99.html) with which we hope to achieve
+>much synergy.
+>Purpose and Goal:
+>The purpose of the Research school is to bring Ph.D. students from the
+>Nordic countries together with internationally well-respected =
+researchers
+>in their field of interest. The subject is "Interaction and =
+Collaboration
+>in Virtual Environments", and it focuses on various aspects of =
+distributed
+>multimedia technologies and applications including collaboration =
+support,
+>communication, virtual and augmented reality, collaborative learning,
+>network organizations, Internet and Intranet applications etc.
+>Requirements for participation
+>Participants need to send a position paper (1-3 pages) about their =
+current
+>research which contains: Title, a few central keywords, goal of the
+>research, method of research, status and results sofar, research issues =
+for
+>discussion. The position paper will be used as a basis for organizing =
+theme
+>workshops with relevant senior researcher discussants.
+>We prefer position papers in HTML or PDF format. Either the file or a =
+link
+>to the file should be mailed to the address below together with =
+appropriate
+>affiliation and address information. We do also accept submissions on =
+paper
+>or floppy sent with ordinary mail.
+> Important Dates:
+>Deadline for submission of abstract: Friday August 6
+>Deadline for registration: Friday August 20
+>Research school: September 8 -11
+>ECSCW: September 12-16
+>Format:
+>The format of the research school is similar to the previous schools in =
+the
+>series. There are mainly lectures in the morning and mainly working =
+group
+>sessions in the afternoon.
+>
+>Preliminary program:
+>See webpage or the attached RTFdocument
+>Lecturer names etc. will be announced soon on the URL below.
+>
+>Accommodation:
+>A number of cheap hotels will soon be announced on the website.
+>Program Committee:
+>J=F8rgen Bang, jbang@imv.au.dk, (Contact person:);Janni Nielsen,
+>janni.nielsen@cbs.dk; Peter Carstensen, carstensen@cti.dtu.dk; and Kaj
+>Gr=F8nb=E6k, kgronbak@intermedia.au.dk.
+>Registration:
+>The estimated price is DKr. 2000 including lunches and dinners; the =
+precise
+>registration fee is dependent on the amount of support and sponsorships =
+we
+>can achieve.
+>
+>Position papers as well as registration should be addressed to:
+>Annette Andersen,
+>InterMedia - =C5rhus,
+>=C5bogade 34, DK-8200 =C5rhus N
+>email: annette@intermedia.au.dk
+>Phone:	+45 8942 5610
+>Fax: 	+45 8942 5624
+>Website:
+>http://www.intermedia.uni.dk/ResearchSchool
+>
+
+
+------------- End Forwarded Message -------------
+
+--41c6_167e-2781_446b-794b_15fb
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: 7bit
+Content-MD5: NvBYw3Cp9ODCORInRg9RSg==
+Content-Description: Attachment
+X-Content-Name: Attachment
+
+(This file must be converted with BinHex 4.0)
+
+:&&*PFe0MD%0[F'9ZD'&RC@iZ8P4'!&*84L"08eG%!!!!!%6i!!!!!'PNHeabG'B
+aA'eKBeaKER0TBh"R-6!`-$"FG@-a)&aNC@CQ-&aNC@CXB@jR-6!c-eaNC@CXB@j
+RCQ8a-$-cHeaeF(*lA'C[ER4dBQalA'B`A'CZD@aFCQ0SBA*cCA3b06CFCR"bF6*
+lA#TFF'&ZEh0P)$!b-$)`0M!c-$8`0$!e-$)`-c!dI94TE@9c)%jPGb"5EfeKEMY
+pHeaQ-9aQEQPXA'CMD'&bFf9d-M8fA'C`FR%bHe`UA("KEQpcC5!`-M"L-$B`0$!
+b-$)`-M!b-$)`0(e"FQPKE$Yp$AYFCM4FCQjTE&aQBfKKFR0PG$)e0PaQF(*a-RY
+F+Pa`B@j[Ff8J-$)`-$!e-$!`-$!`-$!`-$!`-$"p9'PYCA-lIAYFCM)`A'CZD@a
+FCQ0SBA*cCA3b06CFCR"bF6*lA#TFF'&ZEh0P)$!b-')`B6!d-$)`-6!b-$)`-M!
+dI8&bD@&X)%*XB@0V1hepHe`UA(9NHeaQEfjdG'*XHeaQ-&aQEQPXA'CMD'&bFf9
+d-M8fA'C`FR%bHe`UA("KEQpcC5!`-M!b-$B`-c!e-$3`06!b-$-`0(e8D@ePFb"
+1CAFJ8QpYB@ilI3elA'BaA'CZD@aFCQ0SBA*cCA3b06CFCR"bF6*lA#TFF'&ZEh0
+P)$!b-')`0M!d-$)`-M!b-$)`-M!dI8&bD@&X1helA'BdA'CZD@aFCQ0SBA*cCA3
+b06CFCR"bF6*lA#TFF'&ZEh0P)$!b-$!`06!`-$!`-$!`-$!`-$!`I94TE@9c1he
+lA'Bb-&aQEQPXA'CMD'&bFf9d-M8fA'C`FR%bHe`UA("KEQpcC5!`-M"L-'%`0$!
+b-$%`-M!b-$)`0(e"FQPKE#"#E'&MDcYpIAepHeaMEfa[FR4LE$YFFQ9N-&aRFQ9
+PEM"FBQaeC6!l$9abC@3`A'GbC@9Z-&aLE(9P-M8e1eabC@3`A'GbC@9Z-M8eA'*
+XG@8b068lA(*PC$"FCh*PC@ib069FBQaeC6!lA(*PC$)e09aRFQ9PEM"FBQaeC6)
+e06YFFQ9N-M8eA'GbC@9Z-&aLE(9P-$YFFQ9N-M8eA'GbC@9Z-M8eA'*XG@8`1ea
+bC@3b069FCh*PC@ib069FBQaeC6)e06YFFQ9N-&aRFQ9PEM"FBQaeC6%b1$YFFQ9
+N-&aRFQ9PEM%b1&aLE(9P-6)i1eabC@3`A'GbC@9Z-6)iA'*XG@8`1eabC@3a-MK
+FCh*PC@i`A'*XG@8a-MJl$9abC@3a-MKFCh*PC@i`A'*XG@8`1eabC@3a-MKFCh*
+PC@ia-MKFBQaeC6!lA(*PC$%b1&aRFQ9PEM%b1&aLE(9P-6)i1eabC@3a16*FCh*
+PC@ia16*FBQaeC6%j-MYpHeacG(PXCA0SC@9dHeahD@4MG'a`BA*FB@4UGA0dFQP
+RD(3JA'BdA'aKEQFb-$8hA'0RFQPN)&acEQ9iG$!J6QpbE@&X1helA#TFBh-a-#"
+FB@4NDA4TGQ8J4'9QBA9XG#"3BA*KCh*KF'JJ4QpZG$YpHe`UA'0c-68JA'&NC'P
+dDACP)&aeE&aMCM)JA(0LBA0PC'pZ-6!J$8KjF'9bE'PZDcYpHe`UA'0c-6BJA'&
+NC'PdDACP)&aeE&aMCM%b)&acBQ&cC@4[EM%`)%C[E'a[Gf9N5(P`CA*XD@jV1he
+pHeaTEQC[HeadDA4XC5"5CA0PBA*MD#"cBfK[Ef`JF'aKEMTpHeaKGA4SEh)J5f&
+U)%GbA#GLCQjLA#GLC@YpHea[F'9bBA4[FL"+B@jZD@8J4R*TDA-J5h*TFh4PER0
+PERelA'0bC@&dD@eFHA)a16NjA'e[09aNH6)iA'Kb19aYD@ie-(elA(*PGR4TE9a
+jFM%j16PFE@meA'4j-MKFD()jA'eTEM8`IAYFGQ9bFfP[EM*p$AYFC@4YD@jc-Ae
+lA'j[CR"KCf9c-RelA'j[CRG[FQ4c1$!`IAYFEQpQBfKKFR-d06BeIAYF+PaMEfe
+`B@jj)%4"58e*,%&9IAYFEQpQBfKKFR0hFc8f-$CpHeafCA*Z-6%eIAeFF'&`CA*
+h-6%j-$"FF'&`CA*S-6Bi0$"FE@&bCf`a0$3`A'eKFQGb-63d-&aYBA*RG$%a-c4
+FE@&bCf)a-6-d)!eFCQ&MD@jRF&ahD@4[Gf0dFQaFCR4ZBQTFB@9ZC'4[BeaYBA*
+RE@PbFQpbA'C[FQecD'&NC9afD@9hDfPZC$&FGQPPGh0MB@aP-6!`A("RBR*NFQK
+PB@4FF'GLFQ4bCQp[G#"FCQ9d-&acC@0dC#"FE'PZCAJY-c)h0MGFC@jNEQKPFQ9
+FFf9MG'4PCQ&eE(4ME#"lA#TFF'jcC@0XGQ`aA("ZG@0bE9a`ER0dBA*d-9a`EQP
+ZC'9ZG$Fb-&a`EQKKEQGlA("ZG(KdB5!ZIAelA#TFF'jcC@0XGQ`b$9a`ER9ME(4
+bA("ZFh4KFR3aA("ZD@jNC@jd0c)`A("ZD'&ZChYFF'jdH(4K)#jpIAYF+Pa`ER0
+PBfafE$0FF'jNC@0FF'jcG'&bG$&FF'jTEQ4PER3h-M"FF'jSB@jRHea`ER4iG'%
+J,RepHe`UA("ZFf9ME(CX0&a`EQaME(4bA("ZFh4KFR3aA("ZD@jNC@jd0c)`A("
+ZD'&ZChYFF'jdH(4K)#PpIAYF+Pa`ER0PBfafE$9FF'jNC@0FF'jcG'&bG$&FF'j
+TEQ4PER3h-M"FF'jSB@jRHea`ER4iG')J+(elA("ZG(KdB5!TIAelA#TFF'jcC@0
+XGQ`f$9a`EQaME(4bA("ZFh4KFR3aA("ZD@jNC@jd0c)`A("ZD'&ZChYFF'jdH(4
+L)#KpHea`ER4iG'%J+AepHe`UA("ZFf9ME(CX0ea`EQaMFQeFF'jcG'&bG$&FF'j
+TEQ4PER3h-M"FF'jSB@jRHea`ER4iG')J+(elA("ZG(KdB5!TIAelA#TFF'jcC@0
+XGQ`iA("ZE'0XG(*FF'jcG'&bG$&FF'jTEQ4PER3h-M"FF'jSB@jRHea`ER4iG')
+J+(elA("ZG(KdB5!TIAelA#TFF'jcC@0XGQ`jA("ZE'0bE9a`ER0dBA*d-9a`EQP
+ZC'9ZG$Fb-&a`EQKKEQF0Hea`ER4iG')J+(elA("ZG(KdB5!TIAeFF'&bC&a`E'&
+TEL"FF@0FGfPNBh4XF'&bA'&NDR9cG(*TCfKd)&aQ0&aXB@jR-M!e0eaMCh*TC#"
+lA'*FCM)`A'Cc-MKFBfBaA'aKEQFa-$-c)%CTFR0d)%0KE'`JCQpb)&"KFR4TBfP
+`BA4TEfik$9a`BA)J5@jdCA*KBh4TEfiJB@jN)%0[E'aKBQpbBA4TEfiJA'aTEQ8
+JD@iJ9QPbG(9KE#"&ERCTFQpZE@9ZG(0pHeaLA'Bb-&aQFc)iA'aKEQFa-$-c)!e
+FF'&b)(elA'*FE'&ZCc%`-c-J-h*N)%j[FQ4TBb"*ER4PFQ&MG'PfC5"0G@adD@e
+PC'PK)&*PFf9KFQ0S)&0MD'p[E!eFF'&b)&0PF(4PE@*PFL!i,6%a,#!a16Nj$9a
+`BA)J9'KP)%P8,99ZDACPFR0TG(NJD@iJ3fp`C@jSB@GPEJeFF'&b)(eFF'&bC#"
+FGfPNBh4XF'&bA'&NDR9cG(*TCfKd)(YFE'&ZCc%`-c-J$9a`BA)JIAYFCM)`A'a
+KEQFa-$-c)%a[Bf&dD@pZ)'&ZC#"[FQGKEQPkBA4TEfi0A("KFL"pHeaXB@jR-6!
+c-b"8D'8JFQ9cC@&bBfJJFf0SEfpX)'Pc)'pbCf&ZDATPC#"LH5"*ER4PFNePC'P
+K,9ae-6NhA#Fi-A*SGA-JB@jN)%PZG'9b6@9ND@%Y3fp`C@jSB@GPEL!SIAYFCQP
+PE'4FCQaNC'PbG(PlA#TFCQaND@jcG#"lA'aKEQFa-$-c)#")@9"&8Na*6NXJD(4
+dF$S[,hGhGbjTER4PFQePC'PK,R9ZD5jNDb"pHeaXB@jR-6!c-b"lA#TFC'&dB@C
+TC@aN)!d`-'3`BcPPB6FjCMPLB@0P-6%iBcJb-$"KB6!`0'*K16"L-$)`-$!`-$!
+a0c!`-$!`-$&N-$!`-$!`0MJ`-$Fd-$!h0$!`0c!`-$0K-$!bCM!`-QB`-$Fh-$!
+h0c!`0cF`-$*P-$!f16!`0Q8`-$Fd-$!f06!`0c)`-$CN-$!f06!`0M3`-$Bj-$!
+f-6!`-Q8`-$Fe-$!fC6!`0MN`-$*P-$!f0$!`0Q)`-$!`-$"P-'-jC@%h1@BjBQ&
+MC6%a1'-i-M!`B@%`-$4LB6N`BM0M-$!`-$!`0MJ`-$Fd-$!h0$!`0c!`-$0K-$!
+bCM!`-QB`-$Fh-$!h0c!`0cF`-!dbC6!`0MN`-$CP-$!h0$!`0M8`-$Fb-$!fC$!
+`0M8`-$Bd-$!f16!`0M%`-$*P-$!h06!`0Q8`-$Bj-$!bC6!`0M3`-$CL-$!bCM!
+`-$!`-(epIAYFCQaNFR0XG#"lA'0c-69FG@aFBfBbA'aKEQFa-$-c)'KdG(!k,bp
+hGhFZD@jdCA*YC@4TB5jeEQNZC'YpIAelA'aKEQFa-$-c)#NZ)&4SC5"5CA0PBA*
+MD#"6BfK[Ef`JGfPXE#"LC5"XEf0KG'9N)'&d)(4SC5"bC@0PER4XH5"PFh4KBQa
+TFfKPC#"*9#e9EQPfCA*cDA4j)'PZ)%0[F'9ZD'&RC@iJ+(d0HeaQD@9XC&aQE'4
+NDA*dHAYF+PaQE'4TER0d)(YFE'&ZCc%`-c-J)%KC8%956%P15b"SG(4`1Lm[GhG
+h,QPdG5jNDb"pHeaXB@jR-6!c-b"lA#TFC'&dB@CTC@aN)!d`-'3`BcPPB6FjCMP
+LB@0P-6%iBcJb-$"KB6!`0'*K16"L-$)`-$!`-$!a0c!`-$!`-$%b-$!`-$!`0MJ
+`-$Fd-$!h0$!`0c!`-$0K-$!bCM!`-QB`-$Fh-$!h0c!`0cF`-$*P-$!f16!`0c3
+`-$Fe-$!bC6!`0M3`-$CL-$!`-$!`C6"M1@9K0cPQ1@*KBf8a-6KM1$)`-'&K-$!
+dBQ%j-')b0M!`-$!`-$Bi-$!h0$!`0c3`-$F`-$!cB6!`-QB`-$*Q-$!h0c!`0cF
+`-$Fh-$!bC6!`0MN`-$Fd-$!h06!`-Q8`-$Bd-$!fBM!`-QB`-$!`-$"pI3epHea
+QE'4bFfad)(YFBh-a09aeE&aMCM*FE'&ZCc%`-c-JD(4dF$S[,hGhGbjTG(8ZC'Y
+pIAelA'aKEQFa-$-c)#NJGfKTBfJJDA-JE'pMBA4PC#"[EL"(E'9ZG'9fC@SJ0MF
+X)%4,,6)d-$!J3fp`C@jSB@GPEL"19L`J4'9ZE@&bDbi0A("KFL"pHeaQ-M"FE'&
+ZCc%`-c-J3Q&MDfGbEh9ZC$S0A("KFL"pHeaXB@jR-6!c-b"5CA0PBA*MD#"TEL"
+dD'8JBA*PB5"[CL"KEQ&XHA0TFb"KEQ3JC'9cD@GZ)'pQ)'PZG'9bB@0dDACP)'e
+PC'PK)'&ZC#"MEfeYG@jTBf&dD@pZ)(4PBfKZEfa[CfPPFb"SBACP)(*PBf9ZG'a
+j)(*PBf9TGQ9N)#"K)'a[G#"[CL"KG(4PER4TEfiJD@iJE@pcG#"1Eh*ND@-JEQ&
+dD@pZB@`JFQ9cC@&bBfJJF(*[$@GbB@ec,L"*EL"%C@jYBA*V)(4SC5"ZBA4TEfj
+KE#"*ER4PFNePC'PK)'PZFh4TG(9dC5"SBA-JBQ9PEL"PFh4KBQaTFfKPC#`JD@i
+J6QpbGf&j,#"9EQPfCA*cDA4j)'pQ)%pcE'mJD'&c)'9cG'&LE'PcD'9N)'&Z)%P
+ZG'9b6@9ND@%JE'&LEh*KG'pbH5`JB@jN)'PZ)&0hC@4PEL"dD'8JEQ&dD@pZB@`
+J5@jdCA*KBh4TGQ8J5@jcG'PdGA4P)'KKFb"LC@9Z)'9cG'&LE'PcD'9N,#"KEQ3
+JE@pbC5"TEQPdD@&dDACPFb"KFQ8JD@iJG'KP)("TF'8JE!eTEQ8JD@iJG'KP)%j
+[FQ4TBb"MEh9ZG(*TCA-Z)&4SDA-JD@e`E'PPFb"TEL"dGA*Z)(4SBA3JEQ9h)(*
+PFf9KFQ0S)("bEfTPBh4c)'KKGQ8JBQ9PEL"PFh4KBQaTFfKPC#`JBA-JGf9XE#"
+KFb"YB@jj)(*PFf9KFQ0S)(0dG@4PER4c)'KKGQ8JFh4KFR4PC#"`FQpUC@0dFb"
+TEL"dD'Pc)'&bC@%Z$9a`BA)J9'KP)%j[FQ4TBb"*ER4PFQ&MG'PfC5"0G@adD@e
+PC'PK)&*PFf9KFQ0S)&0MD'p[E#"TFb"K)'T[D@jd)'jPG(G[FQXJC@CQEh*d)'p
+bCf&ZDATPC#"K$A*[G@jN)(G[FQYcD'p`Fb"KG#"XC@&cG#"dGfPMC5"K)(PPBA)
+Z)%Pd)'Pc)'PZG'9ZC'9N)(4[)'PZBfaeC'8J8'JZ4#iJFh4eC'9ZG(-JB@jN)'p
+dD'9bFb"PEQGKCf9N)'PZ)'eeE(4TE@9ND@%JFQ9cC@&bBfJJBfpYD@jR)'CbEfd
+JB5"hD@4P)(0`C@0dFR9Y)'pQ)'*KBfYRFQpeEQ4c,#"cG@0S)'&c)'0[EA"eG'9
+b)(0MD@9ZBf8X)'KeE@&ZDA0dD@-JFf0TC@jMCA-X)(0[BfPKE#"cBfPPEQ0PFb`
+JB@jN)'&bBfKTG'9MG(9bC3dJBA-JGf9XE#"KFb"`CA*QEh*YD@jR)'&bG'PcG(-
+JGfpbDfPZCb"hDA4S)'4TCfPdB@`JE@9ND@%JB@jN)'&bG(-Z)#"8D'8JCQPbFh3
+JFQ9cC@&bBfJJFf0SEfpX)(GKFb"SC@aN)'&d)%&bG#"KEQ3J3fpYEA9ZD@0KG'P
+[EL"TEL"0B@aYA(8b0$CF*cPK,#"6Gf9NC@iJ6QpfC@eLCA)J-M*ZC#db0RelA'a
+KEQFa-$-cA(0eF'9b)(4SIAYFE'&ZCc%`-c-J,#!a16Ni,#"KEQ3JDA3JGf&c)'0
+KE'aPC#"FE'4LE(&eEh4P)!e8D'8J8h4KCfPZCb"[CL"6F'&MC5`J9'PYC5"KEQ3
+J5@jdCA*KBh4TGQPdH9abC'*XFA9[G'8J,L"8D'8JFf9MEfjN)(0MD'p[E#"hBA-
+JD'9XC#"KG#"pHeaMCM&FE'&ZCc%`-c-J93eZDACPFR0TG(NJEfBJ3A*d)'&ZC#"
+%CA0TCfiJ5'9XFfPZDfNX)%CTEQaKEQ3X)%eKH5!b1(4S)#dJ-c"dD#`J-6Nj15`
+JB@jN)'Pd)(GKFb"MB@aXC@3J)NPZ)&4PFQec)'pQ)%4PFfPREL)Z)&4SDA-JDA-
+JG'KP)(4SDA*N)(*PFf9KFQ0S)(0MD'p[E#"TEL"dD'8JFf9bD@9c,#"KEQ3JFfP
+ZBf8JDA3JCQpMGA0PFb"[EL"MEfaXB@*[FQ&dD@pZ)'&ZC#"TER4PFQ&MG'PfC5"
+YC@4TB5`JDA3JDA-JD'9XC#"`FQP[FL"dEb"dD'8J48063eFJBfpZCQ80FQ9ZBf8
+J+'KdG(!k,bphGhFZBh4T,Q4dG5jNDbpMFf0h,f9MFf0h16NZD(4YE#NJGfPdD#"
+hD'PMD#"hC5"SEh"P)(4[)'&MD'PPGQ8JEA9MD#"cH@jPFQGj,L"pHeaLA'BaA'C
+c-MKFBfBaA'aKEQFa-$-c)!eFF'&b)(elA'Bb-&aXB@jR-6!c-b"3GA*`Eh0P)'&
+ZC#"(Ef&X1JeFF'&b)(elA'aKEQFa-$-c)&4SC5"`GA*`Eh0P)'pQ)(4SC5"5CA0
+PBA*MD#"cBfK[Ef`JDA-JG'mJBR*TEQFJ8'JZ4#iJFh4eC'9ZG(-JCR*[E5"dD'8
+J6QpbC'PM)'0[G@jdFQPPFb"dEfGPG'KPFL"hDA4S)'PZG'9bEQ&dD@pZB@aXH5"
+hC@aX,A*PFh"PBh4PC#"bCA0PBA*MD'9bFb"TEL"dD'9TFL"QD@9XC#"[CL"TER4
+PFQ9cG#iJ9'KP)(0eBQTPBh3JDA-J)RelA'0Q-9aXB@jR-6!c-b!05@jdCA*KBh4
+TEfiJB@jN)%0[E'aKBQpbBA4TEfiJD@iJ9QPbG(9KE#"&ERCTFQpZE@9ZG(0pHea
+XB@jR-6!c-b!L,#"KEQ3JDA3JCQpMGA0PFb"[EL"fBA*TEh9c)'&cF'9MG(-JEfB
+JC'PcG(*TBR9dC@3JEA9XG'PYC@4TB5"dC@0SEQpXEfGTCA-JB@jN)'&`F'aTBf&
+dD@pZFb"TEQ0XG@4TEQFJBfpXE'&LEh*KG'P[EL"cGA"`Eh*d,#"MEfeYG@jTBf&
+dD@pZ,#"fDA*dG@&X)'&ZC#"KG@GYC@jdC3eN)(*PB@aTG(NX)'0[E'aKBQpbBA4
+TGQ8JE'9KFQjTEQFX)'jPG(G[FQXJEh*RB@jTHQ&dD@pZFb`J5@jdCA*ZCA3JB@j
+N)%PZG(*KEQ9d)'&`F'aTBf&dD@pZFb"PG'-Z$9a`BA)JIAYFCM)`A'aKEQFa-$-
+c)&*PFA9TFQ9YC@jdFb"QEh)JF'&bG'PMDA"KG'P[EJeFF'&b)(elA'aKEQFa-$-
+c)&"KFR4TBfP`B@jdFb"ZC@9N)(4[)(0PEQ3JB5"`Eh0TG'P[EL"`BA"PFL!S-5d
+c)("KCf9c+5"KBQpeG#"dD'9TFL"MGA*bC@jd)(*PFf9KFQ0S)(GSD@0S)'0[ER4
+KD@jc1L"8DA4XC5`JB5"QCAFJBf9ZG(*KE#"VCAPhEh)0C(-X)'G[B@`JEfBJG'K
+P)(*PFf9KFQ0S,#"YCA4SEf3JEfBJFQ9cC@&bBfJX)(0dBA4eFb"KEQ3JFQ9cG@a
+dFb"cEfCKFL`JFQ9cC@&bBfJJDA0cG@9c)'C[FL"NDA0MGA0cD@pZ,L"8D'8JF'p
+cDA4TEfiJF'&`CA)JGfPXE#"LC5"eFf9N)'&c)'%JBQ&cDA-JCQpb)'pbCf&ZDAT
+TEQFJG'KPE@8JGfpbDh0SEh"c)(GTG'JJFQ9XCACKER3JFf9ZD@pb)(*PFf9KFQ0
+SCA)JC'PcBh9cFf&ZG(-Z$9a`BA)J9f8JF(*PCQ9b)("[FfPdD@pZ)("KF'9bFb"
+TEL")9%e-)'pb)&"%4L"QEh*YBA3Z)%9TG'KPFL"dD'8JCQPXC5"[FL"K)'aTEQX
+JG'mJG'KP)'CTE'8JFfK[G@aN)'*P)'eKD@aPC#"dEb"dD'8JB@4NFQ9cFb"LC@a
+[Gb"dEfGPG'KPFJdJGfPdD#"KF("bEh"bD@&dC5"KCQCTE'PKG'P[EL"KEQ3JB@4
+NFQ9cFb"TEQC[FQeKG'P[ELiJ9f8JC'mJB@acEb"KBf0PF(3JFh9LE@PcFfP[ER-
+JEfiJF'&`CA)JEh)JCQa[F("j)(0PER3JGfPdD#"[FQ4TEQ&bH5"YB@PX,JeFF'&
+b)(elA'Bb-&aXB@jR-6!c-b"FF'&RC5"*EA"[FR4KER3J4'&dCA-k$9a`BA)JIAY
+FE'&ZCc%`-c-J4'9KC'aTEQ8JCQpb)(0eBQeTFh0TEfiJEfBJB@*cG(*KBh3k)%C
+bD@4KH5""G@GeFh3J0JeFF'&b)%4PB@4XD@jP)'C[FL"bC@GTFh4bBA4TEfik)%C
+bD@4KH5""G@GeFh3J-M!0A("KFL"5CA0PBA*MD#"cBfK[Ef`k)&0PF(4PE@*PFL!
+i)#da-3eFF'&b)%9$8d0A1L"pHeaMCM&FE'&ZCc%`-c-J8f9`G'9YBQ9b)$%b,6%
+fIAYFE'&ZCc%`-c-J$9a`BA)JIAYFCM)`A'aKEQFa-$-c)%C[FQeKG$S0A("KFL"
+pHeaXB@jR-6!c-b"8D'8JCQpbE@&d)'pQ)(4SC5"bCA0PBA*MD#"cBfK[Ef`JDA-
+JFfPYD@aKFL"dEb"dD'8JF(*PGQP[GA-JFf0SEfpXFb"TEL"dD'8JFf9bD@9c,L"
+8D'9bC5"KFQ8JE@&TEQaj)'aPBh4eFQ9c)'PZ)(4SC5"YEh*ZD@jR)'&ZC#"YB@P
+ZE(NJGfpbDfPZCb"RFQpeF#"cCA0cD@pZFb"TEL"dD'8JB@CdCA*ZEfpZ,RelA'B
+b-&aXB@jR-6!c-b!0A("KFL"3FQ9XD@eTEQ&bH5"`FQpRFQ&Y1JeFF'&b)(eFF'&
+bC#"FFQNh16"FGfPNBh4XF'&bA'&NDR9cG(*TCfKd)(YFE'&ZCc%`-c-J$9a`BA)
+JI9adFQphC#"FG(*RBA"S-6!iA(4bDf9PF&adFQ*bC(*dA'*bC(*cA'*bC(*h-6!
+JA(4bBR*NFQaFBR*NFR0FBR*NFRFa-#"FG(*LFQ4bBPaLFQ4bFeaLFQ4bGc%`)&a
+dFQ*bC(*bA'*bC(*cA'*bC(*h-6!JA(4bBR*NFQKFBR*NFR0FBR*NFRFa-#"FG(*
+LFQ4bGPaLFQ4bFeaLFQ4bGc%`)&aME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4
+bGc%`)&aME'*bC(*XA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*NFRF
+a-#"FBfaLFQ4bFJeFBR*NFR0FBR*NFRFa-#"FBfadH'abG')JA'0PE'ai-6)h0Pa
+ME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*XA'*bC(*cA'*
+bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bFPaLFQ4bFeaLFQ4
+bGc%`)&aME(4iE(*dBL"FBf9XE(Jc-6JjA'0XGQ9bG'&XG&aME'*bC(*dA'*bC(*
+cA'*bC(*h-6!JA'0XBR*NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bBPaLFQ4bFea
+LFQ4bGc%`)&aME'*bC(*b$9aLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9XE(J
+e-6!cA'0XGQ9bG'&XG&aME'*bC(*dA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQaFBR*
+NFR0FBR*NFRFa-#"FBfaLFQ4bBPaLFQ4bFeaLFQ4bGc%`)&aME'*bC(*bA'*bC(*
+cA'*bC(*h-6!JA'0XG(KXFR4L)&aMC@aXH$F`-6GFBfafCA*dB@adA'0XBR*NFR4
+FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bE&aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*LA'*
+bC(*cA'*bC(*h-6!JA'0XBR*NFR)0A'*bC(*cA'*bC(*h-6!JA'0XG(KXFR4L)&a
+MC@aXH$Jj-c&FF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(YFBPa
+QFc)`A'aKEQFa-$-c)&0PFh0TEfjcA'0PE'`J9f9NEQ9cC'&j)$KpHeaLA'Cc-M"
+FE'&ZCc%`-c0FFh9`CA)JG'KpHeaLA'Cc-M"FE'&ZCc%`-c-J,#!J8f9`G'9YBQ9
+bA'0PE'`JI9a`BA*N)&abD5da-$KFGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfK
+d)(YFBPaQFc)`A'aKEQFa-$-c)&4SGA*cC'&j)$PpH`eFBPaQFc)`A'aKEQFa-$-
+cA(0eF'9b)(4SIAYFBPaQFc)`A'aKEQFa-$-c)#`J)&0PF(4PE@*PFPaMC@aX)%C
+bD@4KH5!a-(elA'*FCR-b-&aXB@jR-6!c-eacGA"PFL"dD(elA'*FCR-b-&aXB@j
+R-6!c-b!X)#!J8f9`G'9YBQ9bA'0PE'`J8f&dGA*NBANJ-6&pHeaLA'Cc-M"FE'&
+ZCc%`-c0FFh9`CA)JG'KpHeaLA'Cc-M"FE'&ZCc%`-c-J,#!J8f9`G'9YBQ9bA'0
+PE'`JI9a`BA*N)&ahD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JH`eFE'&ZCc%
+`-c-JA(*[Gb"pA(4bEhGN)&adFQGKF'Ja-$KFG(*VC@9`A(4bBR*NFR4FBR*NFR0
+FBR*NFRFa-#"FG(*LFQ4bE&aLFQ4bFeaLFQ4bGc%`)&adFQ*bC(*LA'*bC(*cA'*
+bC(*h-6!JA(4bBR*NFR*FBR*NFR0FBR*NFRFa-#"FG(*LFQ4bD&aLFQ4bFeaLFQ4
+bGc%`)&adFQ*bC(*fA'*bC(*cA'*bC(*h-6!JA'0XGQ9bG'&XG&aME'*bC(*dA'*
+bC(*cA'*bC(*h-6!JA'0XBR*NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bBJeFBR*
+NFR0FBR*NFRFa-#"FBfaLFQ4bFPaLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9
+XE(Ja-MFfA'0XGQeRCPaME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4bGc%`)&a
+ME'*bC(*XA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*NFRFa-#"FBfa
+LFQ4bFPaLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9XE(Jc-6JjA'0XGQ9bG'&
+XG&aME'*bC(*dA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQaFBR*NFR0FBR*NFRFa-#"
+FBfaLFQ4bBJeFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bFPaLFQ4bFeaLFQ4bGc%`)&a
+ME(4iE(*dBL"FBf9XE(Je-6!cA'0XGQ9bG'&XG&aME'*bC(*dA'*bC(*cA'*bC(*
+h-6!JA'0XBR*NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bBPaLFQ4bFeaLFQ4bGc%
+`)&aME'*bC(*bA'*bC(*cA'*bC(*h-6!JA'0XG(KXFR4L)&aMC@aXH$F`-6GFBfa
+fCA*dB@adA'0XBR*NFR4FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bE&aLFQ4bFeaLFQ4
+bGc%`)&aME'*bC(*L$9aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*bA'*bC(*cA'*bC(*
+h-6!JA'0XG(KXFR4L)&aMC@aXH$Jj-c&FF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&
+NDR9cG(*TCfKd)(YFBPaQFc)`A'aKEQFa-$-c)$NZ-$!Y-6!Z-$"FBf9XE#"pHea
+QFc)`A'aKEQFa-$-c)&*PCfPcG(*KG'P[EPaMC@aX)(eFF'&bC#"FFQNY-6!iA(G
+TC'0dE("KFPaTER4LE&aKC'TeFh4bD@GSG#"lA'Cc-M"FE'&ZCc%`-c-J4'PcG(*
+TBR9dC@3J4@4eBf&dD@pZ)&aMC@aX)%m0F'9Z)%0[E'aKBQpbBA4TGQ8J5(P`CA*
+YC@4TB9aMC@aX)(elA'Cc-M"FBfBaA'aKEQFa-$-c)%0[E'aKBQpbBA4TGQ8J9QP
+bG(9KE#"&ERCTFQpZE@9ZG(0pHeaQFc)`A'aKEQFa-$-c)&aMC@aX)(eFF'&bC#"
+FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(YFE'&ZCc%`-c-JA(*[Gb"pA(4
+bEhGN)&adFQGKF'Ja-$KFG(*VC@9`A(4bBR*NFR4FBR*NFR0FBR*NFRFa-#"FG(*
+LFQ4bE&aLFQ4bFeaLFQ4bGc%`)&adFQ*bC(*L$9aLFQ4bFeaLFQ4bGc%`)&adFQ*
+bC(*bA'*bC(*cA'*bC(*h-6!JA(4bBR*NFQKFBR*NFR0FBR*NFRFa-#"FG(*LFQ4
+bGPaLFQ4bFeaLFQ4bGc%`)&aME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4bGc%
+`)&aME'*bC(*XA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*NFRFa-#"
+FBfaLFQ4bFPaLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9XE(Ja-MFfA'0XGQe
+bCeaME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*X$9aLFQ4
+bFeaLFQ4bGc%`)&aME'*bC(*LA'*bC(*cA'*bC(*h-6!JA'0XBR*NFR*FBR*NFR0
+FBR*NFRFa-#"FBfadH'abG')JA'0PE'ai-c%i19aME(CPFR4KE(4FBfaLFQ4bG&a
+LFQ4bFeaLFQ4bGc%`)&aME'*bC(*XA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*
+NFR0FBR*NFRFa-#"FBfaLFQ4bFPaLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9
+XE(Je-6!cA'0XGQ9bG'&XG&aME'*bC(*dA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ`
+0A'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bFPa
+LFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9XE(Jh-$%hA'0XGQ9bG'&XG&aME'*
+bC(*dA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4
+bBPaLFQ4bFeaLFQ4bGc%`)&aME'*bC(*bA'*bC(*cA'*bC(*h-6!JA'0XG(KXFR4
+L)&aMC@aXH$Jj-c&FF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(X
+0A'*FCR-b-&aXB@jR-6!c-b!a-#i`-#da-#ia09aMC@aX)(elA'Cc-M"FE'&ZCc%
+`-c-JA'0PE'`JI9a`BA*N)&abD5da-$KFGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*
+TCfKd)(YFD9aQFc)`A'aKEQFa-$-c)%0[CQCPC9aMC@aX)%0[CQCPCAelA'PFCR-
+b-&aMCM&FE'&ZCc%`-c-JA'0PE'`JIAYFD9aQFc)`A'aKEQFa-$-c)%0[CQCPC9a
+MC@aX)(eFF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(YFE'&ZCc%
+`-c-JA(*[Gb"pA("KFQ3J$9ahD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JHea
+LA'Cc-M"FE'&ZCc%`-c-J-6!Z-68Y-6%Z-69FBf9XE#"pHeaQFc)`A'aKEQFa-$-
+c)&aMC@aX)(eFF'&bC#"FFQNY-6!iA(GTC'0dE("KFPaTER4LE&aKC'TeFh4bD@G
+SG#"lA'Cc-M"FE'&ZCc%`-c-J4'PKE'pRG@8J4'9cD@GZ)&aPEQ4KFfJJ)#"YGA4
+eB@`JE'9KFQjTEQFJBQ9dGf9PEL"`BA*dD@0TF'&ZG(0FBf9XE#"pHeaQFc)`A'0
+Q-9aXB@jR-6!c-b!03fpXE'&LEh*KG'PfC5"KGA4SEh*TEQFJEfiJG'KP)&GPBRe
+lA'Cc-M"FE'&ZCc%`-c-JA'0PE'`J8Qp[EAGKFQ9FBf9XE#"pA("KFQ3JA(GTC'0
+dE("KFPaTER4LE&aKC'TeFh4bD@GSG#"lA'aKEQFa-$-c)&abEhFJI9a`BA*N)&a
+hD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JHeaLA'Cc-M"FE'&ZCc%`-c-J-6%
+Z-68Y-6%Z-c"FBf9XE#"pHeaQFc)`A'aKEQFa-$-c)&aMC@aX)(eFF'&bC#!0A(*
+T,6%`1&ahD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JHeaTA'Cc-M"FE'&ZCc%
+`-c-J3R*PB@YFBf9XE#"#FQ9KDeaMC@aX)%*bC@&VA'0PE'`JI9a`BA*N)&ahD@4
+MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JHeaXB@jR-6!c-b"FFQph)(eFG(*[Gf3
+JA(4bCf&`D$%`1&adFQYPCA"FG(*LFQ4bG&aLFQ4bFeaLFQ4bGc%`)&adFQ*bC(*
+XA'*bC(*cA'*bC(*h-6!JA(4bBR*NFQ*FBR*NFR0FBR*NFRFa-#"FG(*LFQ4bFJe
+FBR*NFR0FBR*NFRFa-#"FG(*LFQ4bD&aLFQ4bFeaLFQ4bGc%`)&adFQ*bC(*fA'*
+bC(*cA'*bC(*h-6!JA'0XGQ9bG'&XG&aME'*bC(*dA'*bC(*cA'*bC(*h-6!JA'0
+XBR*NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bBPaLFQ4bFeaLFQ4bGc%`)&aME'*
+bC(*bA'*bC(*cA'*bC(*h-6!JA'0XG(KXFR4L)&aMC@aXH$%b0cCFBfafCA*dB@a
+dA'0XBR*NFR4FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bE&aLFQ4bFeaLFQ4bGc%`)&a
+ME'*bC(*L$9aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*bA'*bC(*cA'*bC(*h-6!JA'0
+XG(KXFR4L)&aMC@aXH$-a1$PFBfafCA*dB@adA'0XBR*NFR4FBR*NFR0FBR*NFRF
+a-#"FBfaLFQ4bE&aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*LA'*bC(*cA'*bC(*h-6!
+JA'0XBR*NFR*FBR*NFR0FBR*NFRFa-#"FBfadH'abG')JA'0PE'ai06%`-eaME(C
+PFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*XA'*bC(*cA'*bC(*
+h-6!JA'0XBR*NFQ)0A'*bC(*cA'*bC(*h-6!JA'0XBR*NFR*FBR*NFR0FBR*NFRF
+a-#"FBfadH'abG')JA'0PE'ai0c!a0eaME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFea
+LFQ4bGc%`)&aME'*bC(*XA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*
+NFRFa-#"FBfaLFQ4bFPaLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9XE(Ji16-
+aA("KFQ3JA(GTC'0dE("KFPaTER4LE&aKC'TeFh4bD@GSG#"lA'*FCR-b-&aXB@j
+R-6!c-b!a-5ic-#da-Lic-&aMC@aX)(el$9aQFc)`A'aKEQFa-$-c)&GPE'0[E@8
+JB@jN)%PZG(*[C(9MG'P[EPaMC@aX)(eFF'&bC#"FFQNY-6!iA(GTC'0dE("KFPa
+TER4LE&aKC'TeFh4bD@GSG#"lA'Cc-M"FE'&ZCc%`-c-J,5"0EhCPE@9ZG#`J3Qp
+NH5"KEQ3J8h"KBf80A("KFL!Y)&CTFh9KE#"TER4PFR"bCA4KG'P[ER-JB@jN)'9
+YBQpND@ePER4cA'0PE'`J3fpYE@pZ)%PZCQpbE@&dD@pZ)&0`B@0PF`eFF'&b)%Y
+ZEhGXC@4RC5"0B@jKCf9YC@jd)'pZ)%PZG(*KEQ9dFeaMC@aX)%ePC'PKFh"KBf9
+cA'0PE'`JI9a`BA*N)&ahD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JHeaXB@j
+R-6!c-b"FFQph)(eFF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(Y
+FBPaQFc)`A'aKEQFa-$-c)$%b,M-`,6%c,M-`A'0PE'`JIAYFD9aQFc)`A'aKEQF
+a-$-c)%aeEQ0SA'0PE'`JI9a`BA*N)&abD5da-$KFGfPNBh4XF'&bA'PZG'*XA'&
+NDR9cG(*TCfKd)(X0A'PFCR-b-&aXB@jR-6!c-b"-G@jMD&aMC@aX)%aeEQ0SA'0
+PE'`J6(9ZBfKFBf9XE#"pA("KFQ3JA(GTC'0dE("KFPaTER4LE&aKC'TeFh4bD@G
+SG#"lA'aKEQFa-$-c)&abEhFJI9a`BA*N)&ahD@4MG'a`BA*FD@jdBQaFB@4UGA0
+dFQPRD(3JHeaLA'Cc-M"FE'&ZCc%`-c-J-6-Z-c!Y-68Z-$!kA'0PE'`JIAYFCR-
+b-&aXB@jR-6!c-b!L5f9jEQpdC5)JEfiJG'KP)(4SC@eP,PaMC@aX)(eFF'&bC#!
+0A(*T,6%`1&ahD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3JHeaQFc)`A'aKEQF
+a-$-c)%&MB@4PEANJEfBJG@jLEh9ZC#"$FQ9KG'PfDA4jA'0PE'`J8Q9QE'9MG'P
+[EL"[EL"YEh*ZD@jR)'PZG(*[C(9MG'P[ER0FBf9XE#"5C@CXC@0dD@pZ)'pZ)'e
+[FQjTEQFJD@jdFQpNG@0dD@pZFeaMC@aX)(eFF'&bC#"FGfPNBh4XF'&bA'PZG'*
+XA'&NDR9cG(*TCfKd)(YFE'&ZCc%`-c-JA(*[Gb"pA("KFQ3J$9ahD@4MG'a`BA*
+FD@jdBQaFB@4UGA0dFQPRD(3JHeaLA'Cc-M"FE'&ZCc%`-c-J-68Z-$!Y-68Z-c"
+FBf9XE#"pHeaTA'Cc-M"FE'&ZCc%`-c-J3fpQCQ9PIAYFCR-b-&aXB@jR-6!c-b"
+FBf9XE#"pA("KFQ3JA(*T,6%`1&ahD@4MG'a`BA*FD@jdBQaFB@4UGA0dFQPRD(3
+JHeaTA'Cc-M"FE'&ZCc%`-c-J,5"NEb!YA'0PE'`J3fpQCQ9PIAYFD9aQFc)`A'0
+Q-9aXB@jR-6!c-b"FBf9XE#"pHeaTA'Cc-M"FE'&ZCc%`-c-J3fpQCQ9PA'0PE'`
+J$AeFF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(YFE'&ZCc%`-c-
+JA(*[Gb"pA("KFQ3JA(GTC'0dE("KFPaTER4LE&aKC'TeFh4bD@GSG#"lA'*FCR-
+b-&aXB@jR-6!c-b!a05ic-#da0bi`-&aMC@aX)(elA'Cc-M"FE'&ZCc%`-c-J4'p
+MG'pbB@`JGfpbDh0SEh"FBf9XE#"pA("KFQ3JA(*T,6%`1&ahD@4MG'a`BA*FD@j
+dBQaFB@4UGA0dFQPRD(3JHeaTA'Cc-M"FE'&ZCc%`-c-J,5"NEb!YA'0PE'`JIAY
+FCR-b-&aXB@jR-6!c-b!04'pMG'pbB@`JGfpbDh0SEh"FBf9XE#"%Ef0dEh*KE#"
+hEh*VFfK[F&aMC@aX)(eFF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&NDR9cG(*TCfK
+d)(YFE'&ZCc%`-c-JA(*[Gb"pA("KFQ3JA(GTC'0dE("KFPaTER4LE&aKC'TeFh4
+bD@GSG#"lA'*FCR-b-&aXB@jR-6!c-b!a1#ic-#!Y)$pFBf9XE#"pHeaTA'Cc-M"
+FE'&ZCc%`-c-J4'PZEQ9bA'0PE'`JI9a`BA*N)&abD5da-$KFGfPNBh4XF'&bA'P
+ZG'*XA'&NDR9cG(*TCfKd)(X0A'PFCR-b-&aXB@jR-6!c-b"%D@jZCA*FBf9XE#"
+%D@jZCA*FBf9XE#"%D@jZCA*FBf9XE#"pA("KFQ3JA(GTC'0dE("KFPaTER4LE&a
+KC'TeFh4bD@GSG#"lA'aKEQFa-$-c)&abEhFJI9adFQphC#"FG(*RBA"S-6!iA(4
+bDf9PF&adFQ*bC(*dA'*bC(*cA'*bC(*h-6!JA(4bBR*NFQaFBR*NFR0FBR*NFRF
+a-#"FG(*LFQ4bBPaLFQ4bFeaLFQ4bGc%`)&adFQ*bC(*bA'*bC(*cA'*bC(*h-6!
+JA(4bBR*NFQKFBR*NFR0FBR*NFRFa-#"FG(*LFQ4bGJeFBR*NFR0FBR*NFRFa-#"
+FBfafCA*dB@adA'0XBR*NFR4FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bE&aLFQ4bFea
+LFQ4bGc%`)&aME'*bC(*LA'*bC(*cA'*bC(*h-6!JA'0XBR*NFR*FBR*NFR0FBR*
+NFRFa-#"FBfadH'abG')JA'0PE'ai-6)h0PaME(CPFR4KE(4FBfaLFQ4bG&aLFQ4
+bFeaLFQ4bGc%`)&aME'*bC(*XA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0
+FBR*NFRFa-#"FBfaLFQ4bFPaLFQ4bFeaLFQ4bGc%`)&aME(4iE(*dBL!0A'0PE'a
+i-c%i19aME(CPFR4KE(4FBfaLFQ4bG&aLFQ4bFeaLFQ4bGc%`)&aME'*bC(*XA'*
+bC(*cA'*bC(*h-6!JA'0XBR*NFQ*FBR*NFR0FBR*NFRFa-#"FBfaLFQ4bFPaLFQ4
+bFeaLFQ4bGc%`)&aME(4iE(*dBL"FBf9XE(Je-6!cA'0XGQ9bG'&XG&aME'*bC(*
+dA'*bC(*cA'*bC(*h-6!JA'0XBR*NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bBPa
+LFQ4bFeaLFQ4bGc%`)&aME'*bC(*bA'*bC(*cA'*bC(*h-6!JA'0XG(KXFR4L)&a
+MC@aXH$F`-6F0A'0XGQ9bG'&XG&aME'*bC(*dA'*bC(*cA'*bC(*h-6!JA'0XBR*
+NFQaFBR*NFR0FBR*NFRFa-#"FBfaLFQ4bBPaLFQ4bFeaLFQ4bGc%`)&aME'*bC(*
+bA'*bC(*cA'*bC(*h-6!JA'0XG(KXFR4L)&aMC@aXH$Jj-c&FF'&bC#"FGfPNBh4
+XF'&bA'PZG'*XA'&NDR9cG(*TCfKd)(YFBPaQFc)`A'aKEQFa-$-c)$)`,M!`)#d
+J2eaMC@aX)(elA'Cc-M"FE'&ZCc%`-c-J8fpMD@&X)'&MG'PfDA4j)'PZ)(4SC5"
+MDA4jA'0PE'`JI9a`BA*N)!eFFQNY-6!iA(GTC'0dE("KFPaTER4LE&aKC'TeFh4
+bD@GSG#"lA'Cc-M"FE'&ZCc%`-c-JA'0PE'`J8fpMD@&X)'&MG'PfDA4j)'PZ)(4
+SC5"MDA4jA'0PE'`J6QpZC9aMC@aX)(eFF'&bC#"FGfPNBh4XF'&bA'PZG'*XA'&
+NDR9cG(*TCfKd)(YFE'&ZCc%`-c-JA(*[Gb"pA("KFQ3JA(GTC'0dE("KFPaKC'T
+eFh4bD@GSG#"lA'aKEQFa-$-c)!eFF'&b)%aPBh4eFQ9b)'jKE@9c)'9dBbiJGfP
+XE#"LC5"KEQj[G@jMC@3JFfp[EL"[EL"dD'8J99*-)'*PE'ph,JeFF'&b)(elA'B
+b-&aXB@jR-6!c-b""Bf0[E@e[C'&dD@pZ1JeFF'&b)(elA'aKEQFa-$-c)%%JER9
+YBQ9b)'pQ)'0SC@&`)'K[G'9XFb"hD@aX)(0[EfiJBQ8JB@jZEh9ZBf9N)'pZ)(4
+SC5"hC@*cDA4P,JeFF'&b)(elA'Bb-&aXB@jR-6!c-b"3FQpRFQ&Y)%0[E@eTG(4
+PC6S0A("KFL"pHeaXB@jR-6!c-b"+A(8b0$KF*f*QFQGPEL"#B@jR,#"UBQ&ZCd"
+TEABZBA8ZC'XX)#K$EfjdB@0d)("PFR0[EMST1dTKEQjT)%jTC@acC@iX)(elA'0
+Q-9aXB@jR-6!c-b"UB@jZD5jZD@9XFf9Z3'0LFbjNDhelA'aKEQFa-$-c)$XJ8'9
+dCA)J3f&bFh4PER0PELapHeaMCM&FE'&ZCc%`-c-J)'0KFR0dC@jcC@j!Bh4T,Q4
+dG5jNDhelA'aKEQFa-$-c)$XJB@jN)%YKDL"(FPae-M3iA#GLCQjLA(8b-c"F*f*
+PDbapHeaMCM&FE'&ZCc%`-c-J$5"VCh*[EQ*KDd"TER4PFQePC'PK,Q&e,Q4VIAY
+FE'&ZCc%`-c-J,JeFF'&b)(elA'Bb-&aXB@jR-6!c-b"5C@GTFh4bBA4TEfik$9a
+`BA)JIAYFE'&ZCc%`-c-J9'KP)'9cG'PYBA4PC#"`FQPMC5"TFb"%5h)Z)$)`-$!
+JD@jME(9ND@jR)'aeEQ0SCA-JB@jN)'4TEQjPFR-l)(4SC5"`FQ9MDA0P)(*PCfP
+cG(*KG'P[EL"QC@8JDA-JC'9`C@jNC@jd)'pZ)(4SC5"KE@peER3JEfBJFh9`F'p
+bG#"KEQ3JFh"[ER0[FR0SDA"c)(GP)'0KEL"KBfKTCACP,JeFF'&b)!eFF'&b)&"
+[FfPdD@pZ)("KF'9bFb"KFb"hC@aX)'&c)(*PCfPcG(*KG'P[EL"cD'peE'3JBQ8
+JB@4NFQ9cFf9N)(4[1JeFF'&b)%&ZEQ9dG'8J3@jNCA*cC@iX)!eFF'&b)%PZG'9
+b6@9ND@%J,5"FG6%j0e`R1$&bD(9c,!eFF'&b)&ae-6NhA#Fi-@*[Cf&NC5!c0#`
+J4%XY1$)`-#"FG6%j0e`R1$&bD(9c)%i0A("KFL"PE@&TE$SJIAYFCQPPE'4FCQa
+NC'PbG(PlA#TFCQaND@jcG#"lA'aKEQFa-$-c)#")@9"&8Na*6NXJE@&TE(4[1Q&
+ZEQ9dG'9!D@jdCA*YC@4TB5jKG5jNDb"pHeaXB@jR-6!c-b"lA#TFC'&dB@CTC@a
+N)!d`-'3`BcPPB6FjCMPLB@0P-6%iBcJb-$"KB6!`0'*K16"L-$)`-$!`-$!a0c!
+`-$!`-$%j-$!`-$!`0M%`-$CP-$!fC6!`0M8`-$Fd-$!h0$!`0M8`-$3`-$!f16!
+`0Q8`-$Fd-$!f06!`0c)`-$CN-$!f06!`0M3`-$Bj-$!f-6!`-Q8`-$Ba-$!h06!
+`-Q8`-$Bd-$!fBM!`-$!`-'8`BcPPB6FjCMPLB@0P-6%iBcJb-$"KB6!`0'*K16"
+L0$!`-$!`-$!fC$!`0M%`-$Bj-$!fBc!`0c3`-$CQ-$!cB6!`0M%`-$CP-$!fC6!
+`0M8`-$Fd-$!h0$!`0M8`-!dd-$!`0MN`-$CP-$!h0$!`0M8`-$Fb-$!fC$!`0M8
+`-$Bd-$!f16!`0M%`-$*P-$!f-6!`0c8`-$*P-$!f0$!`0Q)`-$!`-$"pIAelA'C
+XC(*cE(3JHeaMFc%eA(9XA'0Q-PaXB@jR-6!c-b"KEQjPG(4P3'PZG'9bE@9ND@%
+ZBA8ZC'YpIAelA'aKEQFa-$-c)!eFF'&b)&"SEfjP1PadB@)J+c3e)$Jj0$)J06B
+a-!eFF'&b)%CKH$SJA(4KBL!V0$8J1$Nd-L!e0M)d$9a`BA)JIAYFCM)`A'aKEQF
+a-$-c)&GPBR0TG'8k$9a`BA)JIAYFCQPPE'4FCQaNC'PbG(PlA#TFCQaND@jcG#"
+lA'aKEQFa-$-c)#")@9"&8Na*6NXJD(4dF$S[,hGhGbjTER4PFQePC'PK,R9ZD5j
+NDbp5CA0PBA*MD&0MD'p[E#"pHeaXB@jR-6!c-b"lA#TFC'&dB@CTC@aN)!d`-'3
+`BcPPB6FjCMPLB@0P-6%iBcJb-$"KB6!`0'*K16"L-$)`-$!`-$!a0c!`-$!`-$*
+M-$!`-$!`0MJ`-$Fd-$!h0$!`0c!`-$0K-$!bCM!`-QB`-$Fh-$!h0c!`0cF`-$*
+P-$!f16!`0Q8`-$Fd-$!f06!`0c)`-$CN-$!f06!`0M3`-$Bj-$!f-6!`-Q8`-$F
+e-$!fC6!`0MN`-$*P-$!f0$!`0Q)`-$*Q-$!e-M!`0M8`-$Fc-$!f06!`0M%`-$F
+b-$!f-c!`0MJ`-$8c-$!f-c!`0MJ`-$CQ-$!fCM!`0Q-`-$!`-$"P-'-jC@%h1@B
+jBQ&MC6%a1'-i-Jd`-'&K-$!dBQ%j-')e1$!`-$!`-$Bi-$!h0$!`0c3`-$F`-$!
+cB6!`-QB`-$*Q-$!h0c!`0cF`-$Fh-$!bC6!`0MN`-$CP-$!h0$!`0M8`-$Fb-$!
+fC$!`0M8`-$Bd-$!f16!`0M%`-$*P-$!h06!`0Q8`-$Bj-$!bC6!`0M3`-$CL-$!
+bCM!`06)`-$Be-$!h-c!`0M8`-$Ba-$!h-M!`0M-`-$Bi-$!e-c!`0M-`-$Bi-$!
+fCM!`0QB`-$CM-$!`-$!`IAepHeaQE'4bFfad)(YFBh-a09aeE&aMCM*FE'&ZCc%
+`-c-JD(4d$AYF+PaLDfeVFh4KFR3JAdKXG$3e-M3d0$Ji-he`He`UA'*VE@YPEQ3
+JAdKXG$3e-M3d0$Ji-hdk,bphGhFZD@jdCA*YC@4TB5jeEQNZC'X[8Q9cC@&bBfK
+lA#TFBQYYDh0dBA*d)&p)E(3d06)d0$3i0cCp8hYF+PaLDfeVC@jN)&p)E(3d06)
+d0$3i0cCpBfK[EfapIAelA'aKEQFa-$-c)#!0A("KFL"pICYD!!!!:
+--41c6_167e-2781_446b-794b_15fb
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-MD5: XTD6uYGvd+3UWKf2/30HWw==
+Content-Description: Attachment.txt
+X-Content-Name: Attachment.txt
+
+__________________________________________________
+ Peter H. Carstensen                    e-mail: carstensen@cti.dtu.dk
+ Center for Tele-Information
+ Technical University of Denmark, build. 371
+ DK-2800 Lyngby
+ Denmark
+ Phone: +45 45 25 51 73             GSM: +45 20 92 51 73
+ Fax: +45 45 96 31 71
+ URL: http://www.cti.dtu.dk/pc
+___________________________________________________
+

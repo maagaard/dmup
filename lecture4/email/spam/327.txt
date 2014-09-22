@@ -1,0 +1,100 @@
+
+
+From gdh5@zx81.naw.de Thu Feb 25 10:15:58 MET 1999
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id KAA01067
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 25 Feb 1999 10:15:57 +0100 (MET)
+From: gdh5@zx81.naw.de
+Received: from zx81.naw.de (zx81.net-and-works.de [195.21.11.249])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id KAA04974
+	for <WWW@HENDRIX.IMM.DTU.DK>; Thu, 25 Feb 1999 10:18:26 +0100 (MET)
+Received: (from root@localhost)
+	by zx81.naw.de (8.8.8/8.8.8) id KAA10217;
+	Thu, 25 Feb 1999 10:12:58 +0100
+Message-Id: <199902250912.KAA10217@zx81.naw.de>
+Received: from 1cust153.tnt1.ontario.ca.da.uu.net(208.254.108.153) by zx81.naw.de via smap (V2.1)
+	id xmab10134; Thu, 25 Feb 99 10:10:56 +0100
+To: user@the_internet.com
+Date: Thu, 25 Feb 99 01:12:04 EST
+Subject: IS YOUR COMPUTER READY FOR 2000?
+Status: RO
+X-Status: 
+
+IS YOUR COMPUTER READY FOR 2000?
+
+Make sure you're not left behind, prepare for Y2K.
+
+Did you know 98% of new computers FAIL Y2K testing?
+
+Did you know that Windows 3.x, 95, 98, and NT are not Y2K compliant?
+These programs need to be patched before the year 2000, if
+you want to keep using them.
+
+Our diskette will test your computer's clock (RTC) and BIOS, see if you're ready for 
+the New Year.
+
+Our diskette will test your computer's software, and unlike other Test diskettes, 
+we can read your source coding line by line to find the exact problems
+in your programs.
+
+Our test diskette can read 85% of all shrink wrapped software on the
+market, plus C++, V-Basics, Oracle, MS-SQL, Access, Delphi, Paradox, Fox Pro, 
+Power Builder, Sybase, and more.
+
+If you have a problem, then we have the answer for you!
+
+For a limited time, you can receive the Test Diskette at 50% off the 
+normal price. 
+
+Price: $39.90
+
+SALE PRICE: $19.95 + s/h ($10 for international orders)
+
+Call 1 909/627-3557 
+IMC Marketing, Information Technologies Dept.
+An A+ Authorized Service Center.
+
+Order Form
+
+Company Name:_________________________________________
+
+Contact Name:___________________________________________
+
+Phone Number(___)_____-______ Fax Number(___)_____-______
+
+Mailing Address:_________________________________________
+
+City:_______________________State:______Zip:______________
+
+Credit Card #____________________________  Visa or  Mastercard
+
+Exp. Date:___________ Signature:___________________________
+
+Products:			Price Per Unit:	Quantity:	Total Price:
+Test Diskette		$19.95	
+Test Diskette License* 	$1.00	
+--------------------------------------------------------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>Sub Total:_______________
+California residents add 8.25% sales tax:_______________
+>>>>>>>>>>>>>>>>>>>>>>>>Shipping: $10.00
+>>>>>>>>>>>>>>>>>>>>>>>>Grand Total:____________
+
+International funds must be paid in U.S. dollars via Certified check or International money order.
+* Test diskette is only for 1 computer, each additional computer that needs to be tested will require a separate license per computer.
+
+    
+										ù
+
+Please affix your check here
+
+A fax copy of your signed check is considered payment in full.
+There is no need to send the original copy of your check, please retain for your records.
+Please make check payable to IMC Marketing
+Thank you.
+
+Fax Order form to 1 (909) 591-3688 24hrs, 7 days a week
+Or mail to IMC, 806 Buccanon Blvd., Bldg 115, Suite 119
+Boulder City, NV 89005
+ATTN: IT Dept.
+
+

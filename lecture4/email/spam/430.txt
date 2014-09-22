@@ -1,0 +1,68 @@
+
+
+From spm-request@mailbase.ac.uk Tue May 25 21:04:05 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id VAA17761
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 25 May 1999 21:04:04 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id UAA08004;
+	Tue, 25 May 1999 20:02:03 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id UAA24336;
+        Tue, 25 May 1999 20:01:25 +0100 (BST)
+Received: from mail.med.upenn.edu (MAIL.MED.UPENN.EDU [165.123.128.11]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id UAA24330;
+        Tue, 25 May 1999 20:01:23 +0100 (BST)
+Received: (from ericz@localhost)
+	by mail.med.upenn.edu (8.9.3/8.9.3) id PAA02219;
+	Tue, 25 May 1999 15:01:20 -0400 (EDT)
+Message-Id: <199905251901.PAA02219@mail.med.upenn.edu>
+Date: Tue, 25 May 1999 15:01:20 -0400 (EDT)
+In-Reply-To: <374AF0A9.146897F3@wfubmc.edu> from "Aaron Field" at May 25, 99 02:49:13 pm
+X-Mailer: ELM [version 2.4 PL23-upenn3.1]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Subject: Re: SPM99b: Double hrf convolution?
+From: ERIC  ZARAHN <ericz@mail.med.upenn.edu>
+To: afield@wfubmc.edu
+Cc: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: ERIC  ZARAHN <ericz@mail.med.upenn.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Aaron,
+
+> 
+> SPMers,
+> 
+> During an fMRI analysis in SPM99b, using a standard boxcar paradigm,
+> there are two occasions when the user must decide whether to convolve
+> with the hemodynamic response function. The first occurs during setup of
+> the design matrix, when the option to convolve the boxcar with the hrf
+> is offered. The second occurs during the estimation step, when the hrf
+> is offered as an alternative to a Gaussian kernel for temporal smoothing
+> of (I believe) the data as well as the entire design matrix, which I
+> understand to be necessary due to the nature of serially correlated
+> regression. If I select both of these options, does the boxcar get
+> convolved with the hrf twice? If so, this seems inappropriate, as once
+> should be enough.
+
+
+
+I can not answer your question regarding what the SPM program does, but
+indeed it is theoretically correct to convolve the boxcar with the HRF
+twice. This is because the underlying neural activity has been convolved
+twice (given the assumptions one makes): once by physiology (which
+one could heuristically associated with your "1st" HRF convolution)
+and once by the matrix operations peformed in the SPM program.
+
+Sincerely,
+Eric

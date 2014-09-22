@@ -1,0 +1,178 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Nov 18 20:10:49 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id UAA05754;
+	Thu, 18 Nov 1999 20:10:42 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07558;
+          18 Nov 99 11:44 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07551;
+          18 Nov 99 11:34 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02406;
+          18 Nov 99 11:33 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27745; 18 Nov 99 3:19 EST
+Received: from ilabws.informatik.uni-leipzig.de by edrc.cmu.edu id aa00291;
+          18 Nov 99 3:18 EST
+Received: from oemcomputer (pmi3.isdn.uni-leipzig.de [139.18.110.68])
+	by ilabws.informatik.uni-leipzig.de (8.8.8/8.8.8) with ESMTP id JAA13635
+	for <Connectionists@cs.cmu.edu>; Thu, 18 Nov 1999 09:18:39 +0100 (MET)
+Message-Id: <199911180818.JAA13635@ilabws.informatik.uni-leipzig.de>
+From: villmann@informatik.uni-leipzig.de
+To: "Connectionists@cs.cmu.edu" <Connectionists@cs.cmu.edu>
+Date: Thu, 18 Nov 1999 09:18:58 +0100
+MIME-Version: 1.0
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: 7BIT
+Subject: ESANN'2000 - special session - NN Applications in Medicine
+X-Confirm-Reading-To: villmann@informatik.uni-leipzig.de
+X-pmrqc: 1
+Return-receipt-to: villmann@informatik.uni-leipzig.de
+Priority: normal
+X-mailer: Pegasus Mail for Win32 (v3.12a)
+Status: RO
+X-Status: 
+
+Dear colleages,
+
+I want to announce and to invite to submit contributions to the 
+special session 
+
+ "Neural Networks Applications in Medicine" 
+
+organized by Thomas Villmann (Ujniversity Leipzig, Germany) and 
+to be held on the 
+
+
+----------------------------------------------------
+|                                                  |
+|                    ESANN'2000                    |
+|                                                  |
+|              8th European Symposium              |
+|           on Artificial Neural Networks          |
+|                                                  |
+|      Bruges (Belgium) - April 26-27-28, 2000     |
+|                                                  |
+|         Announcement and call for papers         |
+|                                                  |
+|            Deadline: 10 December 1999            |
+----------------------------------------------------
+
+PROPOSAL
+-------------------
+
+
+Artificial neural networks can be taken as a special kind of learning 
+and self-adapting data processing systems. The abilities to handle 
+noisy and high-dimensional data, nonlinear 
+problems, large data sets etc. using neural techniques have lead to 
+an innumerous number of applications. A important area of 
+applications is the medical research and data analysis. Thereby, 
+we have to distinguish at least two main directions: the first one is 
+the description of neural processes in brains by neural network 
+models. The other one is the field of data analysis and related 
+topics. The announced special session should be lightening the 
+second item. The applications of neural networks for data 
+processing in medicine open a wide cover of possible tasks. This 
+leads to further developments also in the theory of neural networks. 
+The applications include several techniques ranging from image 
+processing, (non-linear) principle component analysis and 
+dimension reduction, processing of noisy and/or incomplete data, 
+time serie prediction, feature extraction and classification problems 
+to the processing of non-metric data, i.e. categorial or ordinal data. 
+The recent proposed approach of Blind Source Separation using 
+neural networks also gives a possibility to solve the in medicine 
+often occuring problem of data decorrelation. Neural network 
+approaches as robust tools play in increasing role in real world 
+application in medicine. In the proposed special session we want 
+give examples of applications of neural networks in medicine which 
+have lead to new developments in the neural network development. 
+Thereby we focus on applications combining original ideas and new 
+aspcets in neural network approaches with a real world task.
+
+Authors are invited to submit contributions which can be in any 
+area of medical research and applications as there are for example 
+the following (but not restricted)
+
+1.) image processing (NMR-spectroscopy, radiology, ...)
+2.) time series prediction (EEG analysis, cardiology, sleep 
+     detection, ...)
+3.) pattern classification
+4.) clustering, fuzzy clustering
+5.) Blind Source Separation and Decorralation
+6.) dimension and noise reduction
+7.) evaluation of non-metric data (categorial/ ordinal data)
+
+It should be emphasized that, in agreement with the scope of the 
+ESANN, a strong theoretical background and new aspects of 
+neural networks development are required for an acceptation of 
+contributions.
+
+
+
+
+Prospective authors are invited to submit
+
+- six original copies of their manuscript (including at least two 
+originals or very good copies without glued material, which will be used 
+for the proceedings)
+- one signed copy of the author submission form before December 10, 1999.
+Authors are invited to join a floppy disk or CD with their contribution 
+in (generic) PostScript or PDF format. Sorry, electronic or fax submissions
+are not accepted.
+
+Working language of the conference (including proceedings) is English.
+The instructions to authors, together with the author submission form,
+are available on the ESANN Web server:
+       http://www.dice.ucl.ac.be/esann 
+
+A printed version of these documents is also available through the
+conference secretariat (please use email if possible).  Authors are
+invited to follow the instructions to authors.  A LaTeX style file is
+also available on the Web.
+
+Authors must indicate their choice for oral or poster presentation on
+the author submission form.  They must also sign a written agreement
+that they will register to the conference and present the paper in
+case of acceptation of their submission.  Authors of accepted papers
+will have to register before February 28, 2000.  They will benefit
+from the advance registration fee.
+
+Submissions must be sent to:
+       Michel Verleysen
+       UCL - DICE
+       3, place du Levant
+       B-1348 Louvain-la-Neuve
+       Belgium
+       esann@dice.ucl.ac.be
+
+All submissions will be acknowledged by fax or email before December
+23, 1999.
+
+Deadlines
+---------
+Submission of papers        December 10, 1999
+Notification of acceptance  January 31, 2000
+Symposium                   April 26-27-28, 2000
+
+Registration fees
+-----------------
+              registration before         registration after
+              March 17, 2000              March 17, 2000
+Universities  BEF 16000                   BEF 17000
+Industries    BEF 20000                   BEF 21000
+
+The registration fee include the attendance to all sessions, the
+lunches during the three days of the conference, the coffee breaks
+twice a day, the conference dinner, and the proceedings.
+
+
+__________________________________________________________
+
+Dr. Thomas Villmann
+University Leipzig - Clinic for Psychotherapy
+Karl-Tauchnitz-Str. 25
+04109 Leipzig
+Germany 
+Phone: +49 (0)341 9718868   Fax : +49 (0)341 2131257
+email: villmann@informatik.uni-Leipzig.de
+__________________________________________________________

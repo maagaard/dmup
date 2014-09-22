@@ -1,0 +1,53 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Oct 24 19:28:58 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id TAA00391;
+	Sat, 24 Oct 1998 19:28:53 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29765;
+          24 Oct 98 5:47 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab29746;
+          24 Oct 98 5:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08553;
+          24 Oct 98 5:34 EDT
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa21870;
+          22 Oct 98 12:21 EDT
+Received: from CNS.BU.EDU by MM.GP.CS.CMU.EDU id aa13850; 22 Oct 98 12:21:43 EDT
+Received: from cochlea.bu.edu (cochlea [128.197.61.94])
+	by cns.bu.edu ((8.8.8.buoit.v1.0)/8.8.8/(BU-S-10/08/98-v1.0)) with SMTP id LAA26274;
+	Thu, 22 Oct 1998 11:17:48 -0400 (EDT)
+From: Boston University - Cognitive and Neural Systems <cns-cas@cns.bu.edu>
+Received: by cochlea.bu.edu (8.6.13/BU_Client-1.1)
+	id LAA18379; Thu, 22 Oct 1998 11:17:46 -0400
+Date: Thu, 22 Oct 1998 11:17:46 -0400
+Message-Id: <199810221517.LAA18379@cochlea.bu.edu>
+To: cns-cas@cns.bu.edu
+Subject: Faculty Opening CNS-BU
+Status: RO
+X-Status: 
+
+
+NEW FACULTY IN COGNITIVE AND NEURAL SYSTEMS
+AT BOSTON UNIVERSITY
+
+Boston University seeks an assistant or associate professor
+for its graduate Department of Cognitive and Neural
+Systems. The department offers an integrated curriculum of
+psychological, neurobiological, and computational concepts,
+models, and methods in the fields of computational
+neuroscience, connectionist cognitive science, and neural
+network technology in which Boston University is a leader.
+Candidates should have an outstanding research profile,
+preferably including extensive analytic or computational
+research experience in modeling a broad range of nonlinear
+neural networks, especially in one or more of the areas:
+vision and image processing, adaptive pattern recognition,
+cognitive information processing, speech and language,
+adaptive-sensory motor control, and neural network
+technology. Send a complete curriculum vitae and three
+letters of recommendation to Search Committee, Department
+of Cognitive and Neural Systems, 677 Beacon Street, Boston
+University, Boston, MA 02215. Boston University is an Equal
+Opportunity/Affirmative Action employer.
+
+(please post)

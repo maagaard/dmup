@@ -1,0 +1,107 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri May  7 18:53:53 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id SAA12599;
+	Fri, 7 May 1999 18:53:39 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07592;
+          7 May 99 10:42 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07590;
+          7 May 99 10:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27488;
+          7 May 99 10:20 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa21035; 7 May 99 10:04 EDT
+Received: from usui.newnet.co.uk by EDRC.CMU.EDU id aa09936;
+          7 May 99 9:59:53 EDT
+Received: from cinderella.neuralt.com (neuralt.newnet.co.uk [195.89.143.30])
+	by usui.newnet.co.uk (8.9.3/8.9.3) with ESMTP id OAA06362
+	for <connectionists@cs.cmu.edu>; Fri, 7 May 1999 14:59:36 +0100 (GMT/BST)
+Received: by CINDERELLA with Internet Mail Service (5.0.1458.49)
+	id <JZ5GBN7H>; Fri, 7 May 1999 14:59:34 +0100
+Message-ID: <FDBC510C54B3D111934E00009290220D4A6423@CINDERELLA>
+From: George Bolt <grb@neuralt.com>
+To: "'Connectionists Email Group'" <connectionists@cs.cmu.edu>
+Subject: Job vacancy - Neural Technologies Limited
+Date: Fri, 7 May 1999 14:59:33 +0100
+X-Priority: 3
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.0.1458.49)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id SAA12599
+Status: RO
+X-Status: 
+
+Neural Scientist
+
+Neural Technologies Limited is the leading UK company working in the
+application and exploitation of neural computing and other advanced
+technologies across a wide range of industrial and commercial
+environments. Our continued growth has led to the requirement of an
+applied Neural Scientist to join our highly motivated team to help in
+the development and deployment of practical advanced computing solutions
+on a high profile projects.
+
+Do you want to apply your neural computing skills to solve real-world
+problems?  Neural Technologies can offer you this opportunity - just
+some of the areas we work in are:
+	*	Telecommunications - fraud, churn, etc.
+	*	Finance - credit scoring, risk management, instrument
+trading, etc.
+	*	Marketing - modelling and analysis
+	*	Data Analysis and Visualisation - virtual reality
+	*	Etc.
+
+You will be expected to demonstrate not only high standards of
+professionalism but technical innovation second to none.  Self
+confidence, adaptability, proactivity and communication skills are as
+important as the technical skills.  Required skills are:
+	*	Well versed in neural network and other advanced
+algorithm development and their practical application, should have at
+least 2 years applied knowledge of at least 2 of the following:
+		*	MLP, RBF, Decision Trees, etc.
+		*	Kohonen/SOM, LVQ, etc.
+		*	Rule induction and inferencing, case-based
+reasoning, etc.
+		*	Evolution, GA's, etc.
+		*	Optimisation
+	*	Experienced using MATLAB
+	*	Proven problem solving abilities and system design
+	*	Good mathematical background
+*	Able to code in C or C++ within the PC environment
+
+Experience of the following would also be an advantage:
+	*	Knowledge of conventional statistics
+	*	Signal processing techniques (e.g. speech)
+	*	Application domains (credit scoring, fraud analysis,
+telecommunications, banking and finance)
+
+All candidates should be working at a practical research level or have
+extensive industrial experience.  A keen view to the commercial
+realities of working within a small, but fast growing, company is
+required.  Neural Technologies Limited operate a non-smoking policy.
+
+Contact:  Julie Naylor, Technical Administrator, Neural Technologies
+Limited, Bedford Road, PETERSFIELD, Hampshire  GU32 3QA  (UK)
+Fax:	+44 (0) 1730 260466
+Phone:	+44 (0) 1730 260256
+Email:    techadmn@neuralt.com
+Website: http://www.neuralt.com	
+
+
+George Bolt
+Director of Product Innovation
+Neural Technologies
+
+Cafe Neural: http://www.neuralt.com
+Tel: +44 (0) 1730 260 256
+Fax: +44 (0) 1730 260 466
+
+> ********** NOTE
+> Any views expressed in this message are those of the individual
+> sender,
+> except where the sender specifically states them to be the views of
+> Neural Technologies Limited
+> **********
+> 

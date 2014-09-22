@@ -1,0 +1,263 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Jul 11 07:41:08 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id HAA07760;
+	Sat, 11 Jul 1998 07:41:02 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16959;
+          10 Jul 98 19:52 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16917;
+          10 Jul 98 19:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24757;
+          10 Jul 98 19:35 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa09968; 10 Jul 98 9:21 EDT
+Received: from m7.limsi.fr by CS.CMU.EDU id aa16864; 10 Jul 98 9:20:45 EDT
+Received: from m72.limsi.fr by m7.limsi.fr, Fri, 10 Jul 1998 15:20:02 +0200
+Received: by m72.limsi.fr (4.1/SMI-4.1)
+	id AA23879; Fri, 10 Jul 98 15:19:32 +0200
+Date: Fri, 10 Jul 98 15:19:32 +0200
+From: Paul Mc-Kevitt <pmck@limsi.fr>
+Message-Id: <9807101319.AA23879@m72.limsi.fr>
+To: connectionists@cs.cmu.edu, nl-kr@snyside.sunnyside.com,
+        aaai@smi.stanford.edu
+Subject: MIND-III: SPATIAL COGNITION, DUBLIN, IRELAND, AUG 17-19
+Cc: pmck@m7.limsi.fr
+Status: RO
+X-Status: 
+
+
+
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
+                    MIND III: Annual Conference of the 
+                   Cognitive Science Society of Ireland
+                         Theme: Spatial Cognition
+
+		Dublin City University, Dublin, Ireland
+		           August 17-19, 1998
+
+You are invited to participate in the Annual Conference of the CSSI, on the
+Theme of Spatial Cognition, at Dublin City University from August 17-19,
+1998.  This conference will bring together researchers from different
+Cognitive Science disciplines (Psychology, Computer Science, Linguistics,
+and Cognitive Geography) who are studying different aspects of spatial
+cognition.  The conference will provide a forum for researchers to share
+insights about different aspects of spatial cognition and from the
+perspective of different disciplines. 
+
+The academic programme will begin at 9:00 a.m. on August 17th and end on
+19th. The social programme will include a barbecue and ceili (traditional
+Irish Dance) on Tuesday 18th and a tour and concert on Wednesday after the
+end of the academic programme. 
+
+For information on registration and accommodation, please visit the web
+page at:
+ 
+                   http://www.psych.ucsb.edu/~hegarty/cssi/
+
+The deadline for early registration is July 15th (after that the price
+increases significantly). 
+
+For questions about the programme, contact 
+                                   Mary Hegarty: hegarty@psych.ucsb.edu
+
+For questions about registration and local arrangements, contact
+                                   Sean O Nuallain: sonualla@compapp.dcu.ie
+
+PROGRAMME COMMITTEE:
+
+Ruth Byrne, Trinity College Dublin   
+Jerome Feldman, University of California, Berkeley   
+Mary Hegarty, University of California, Santa Barbara (Program Chair)   
+Christopher Habel, University of Hamburg   
+George Lakoff, University of California, Berkeley   
+Robert H. Logie, University of Aberdeen   
+Jack Loomis, University of California, Santa Barbara   
+Paul Mc Kevitt, Aalborg University and University of Sheffield   
+Daniel R. Montello, University of California, Santa Barbara   
+N. Hari Naryanan, Auburn University and Georgia Institute of Technology   
+Patrick Olivier, University of Wales, Aberystwyth   
+Sean O Nuallain, Dublin City University (Co-Chair)   
+Terry Regier, University of Chicago   
+Keith Stenning, Edinburgh University   
+Michael Spivey, Cornell University   
+Arnold Smith, National Research Council, Canada   
+Barbara Tversky, Stanford University  
+
+
+                              PROGRAMME 
+
+KEYNOTE SPEAKERS:
+
+Michel Denis, Groupe Cognition Humaine, LIMSI-CNRS, 
+Universite de Paris-Sud
+
+Andrew Frank, Department of Geoinformation, 
+Technical University Wien
+
+TALK PRESENTATIONS:
+
+ENVIRONMENTAL SPATIAL COGNITION
+
+G. Allen, University of South Carolina
+Men and women, maps and  minds: Cognitive bases of sex-related 
+differences in reading and interpreting maps
+
+C. Christou & H. Bulthoff, Max-Planck Institute for Biological
+Cybernetics, Tubingen
+Using virtual environments to study spatial encoding
+
+D. Jacobson, R. Kitchin, T. Garling, R. Golledge & M. Blades, 
+University of California, Santa Barbara, Queens University of Belfast, 
+Gotenborg University
+Learning a complex urban route without sight: Comparing naturalistic 
+versus laboratory measures
+
+P. Peruch, F. Gaunet, C. Thinus-Blanc, M-D. Giroudo, CNRS, 
+Marseille & CNRS-College de France, Paris
+Real and imagined perspective changes in visual versus locomotor 
+navigation
+
+M. J. Sholl, Boston College
+The accessibility of metric relations in self-to-object and object-to-object
+ systems
+
+LANGUAGE AND SPACE
+
+T. Baguley & S. J. Payne, Loughborough University and Cardiff University 
+of Wales
+Given-new versus new-given? An analysis of reading times for spatial 
+descriptions
+
+K. C. Coventry & M. Prat-Sala, University of Plymouth
+The interplay between geometry and function in the comprehension of spatial
+ propositions
+
+J. Gurney & E. Kipple, Army Research Laboratory, Adelphi, MD
+Composing conceptual structure for spoken natural language in a virtual 
+reality environment
+
+S. Huang, National Taiwan University
+Spatial Representation in a language without prepositions
+
+S. Taub, Gallaudet University
+Iconic spatial language in ASL: Concrete and metaphorical applications
+
+C. Vorwerg, University of Bielefeld
+Production and understanding of direction terms as a categorization process
+
+COMPUTATION AND SPATIAL COGNITION
+
+M. Eisenberg & A. Eisenberg, University of Colorado
+Designing real-time software advisors for 3-d spatial operations
+
+J. Gasos & A. Saffiotti, IRIDIA, Universite Libre de Brruxelles
+Fuzzy sets for the representation of uncertain spatial knowledge in 
+autonomous robots
+
+R. K. Lindsay, University of Michigan
+Discovering Diagrammatic Demonstrations
+
+P. McKevitt, Aalborg University and University of Sheffield
+CHAMELEON meets spatial cognition
+
+D. R. Montello, M.F.Goodchild, P. Fohl & J. Gottsegen, University of 
+California, Santa Barbara
+Implementing fuzzy spatial queries: Problem statement and behavioral 
+science methods
+
+S. O Nuallain & J. Kelleher, Dublin City University
+Spoken Image meets VRML and JAVA
+
+SPATIAL REASONING AND PROBLEM SOLVING
+
+M. Gattis, Max Planck Institute for Psychological Research, Munich
+Mapping relational structure in visual reasoning
+
+J. N. McGregor, T. C. Ormerod & E. P. Chronicle, University of 
+Victoria and Lancaster University
+Spatial and conceptual factors in human performance on the traveling 
+salesperson problem
+
+P.D.Pearson, R. H.Logie & K.J. Gilhooly, University of Aberdeen
+Verbal representations and spatial manipulation during mental synthesis
+
+L. Rozenblit, M. Spivey & J. Wojslawowicz
+Mechanical reasoning about gear-and-belt systems: Do eye-movements 
+predict performance?
+
+C. Sophian & M. Crosby, University of Hawaii at Manoa
+Ratios that even young children understand: The case of spatial proportions
+
+THEORETICAL PERSPECTIVES:
+
+R. H. Logie, Department of Aberdeen
+Constraints on visuo-spatial working memory
+
+N. H. Narayanan, Auburn University
+Exploring virtual information landscapes: Spatial cognition meets information
+visualization
+
+A. Smith, National Research Council, Canada
+Spatial cognition without spatial concepts
+
+C. Speed & D. G.Tobin, University of Plymouth
+Space under stress: Spatial understanding and new media technologies
+
+M. Tiressa, A. Caressa and G.Geminiani, Universita di Torino &
+Universita di Padova
+A theoretical framework for the study of spatial cognition
+
+
+POSTER PRESENTATIONS
+
+M. Betrancourt, A. Pellegrin & L. Tardif, Research Institut, 
+INRIA Rhone-Alpes
+Using a spatial display to represent the temporal structure of 
+multimedia documents
+
+M. Bollaert, LIMSI-CNRS, University de Paris-Sud
+A connectionist model of mental imagery
+
+K Borner & C Vorwerg, University of Bielefeld
+Applying VR technology to the study of spatial perception and cognition
+
+A. Caressa, A. Abrigliano & G. Geminiani, Universita de Padova & 
+Universita di Torino.
+Describers and explorers: A method to investigate cognitive maps. 
+
+E. P. Chronicle, T. C. Ormerod & J. McGregor. Lancaster University 
+and University of Victoria
+When insight just won't come: The failure of visual cues in the nine-dot 
+problem.
+
+R. Coates, C.J. Hamilton & T. Heffernan, University of Teeside and 
+University of Northumbria at Newcastle
+In Search of the visual and spatial characteristics of visuo-spatial 
+working memory
+
+G. Fernandez, LMSI-CNRS
+Individual differences in the processing of route directions
+
+R. Hornig, B. Claus & K. Eyferth, Technical University of Berlin
+In search for an overall organizing principle in  spatial mental models: 
+A question of inference
+
+M-C. Grobety, M. Morand & F. Schenk
+Cognitive Mapping across visually disconnected environments
+
+N. Gotts, University of Wales, Aberystwyth
+Describing the topology of spherical regions using the "RCC" formalism
+
+X. Guilarova, Moscow M.V. Lomosonov State University
+Polysemy of adjective "round" via Lakoff's radical category structuring
+
+J. S. Longstaff, Laban Center, London
+Cognitive Structures of Kinesthetic Space: Reevaluating Rudolph Labans 
+Choreutics
+
+U. Schmid, S. Wiebrock & F. Wysotzki, Technical University of Berlin
+Modeling spatial inferences in text understanding
+
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+

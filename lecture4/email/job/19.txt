@@ -1,0 +1,120 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Oct 29 03:30:22 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id DAA23014;
+	Thu, 29 Oct 1998 03:30:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id af09564;
+          28 Oct 98 18:15 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa09532;
+          28 Oct 98 17:53 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa15054;
+          28 Oct 98 17:53 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa09961; 28 Oct 98 17:51 EST
+Received: from paris.ics.uci.edu by RI.CMU.EDU id aa15333;
+          28 Oct 98 17:50:07 EST
+Received: from sifnos.ics.uci.edu by paris.ics.uci.edu id aa26794;
+          28 Oct 98 14:41 PST
+X-Mailer: exmh version 1.6.7 5/3/96
+To: Connectionists@cs.cmu.edu
+Subject: Tenure track faculty position at UC Irvine
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Wed, 28 Oct 1998 14:41:05 -0800
+From: Padhraic Smyth <smyth@sifnos.ics.uci.edu>
+Message-ID:  <9810281441.aa26794@paris.ics.uci.edu>
+Status: RO
+X-Status: 
+
+
+
+Dear Connectionists
+    FYI, the tenure-track position advertised below encompasses
+research topics closely related to neural computation, such as computational
+statistics and computational biology. I would be grateful
+if you would pass this information along to any of your
+colleagues or students who may be interested. I am happy to answer
+any general questions about the department and UCI if you
+wish to contact me by email.
+
+Padhraic Smyth
+Associate Professor
+Information and Computer Science
+University of California, Irvine.
+smyth@ics.uci.edu
+
+
+
+
+Open Faculty Position in Information and Computer Science at UC Irvine
+http://www.ics.uci.edu/interfac.html
+
+The Department of Information and Computer Science (ICS) has a 
+tenure-track position open in the general area of interdisciplinary 
+applications of computing. Research emphases include areas such as
+computational statistics, scientific data visualization, computer
+graphics and animation, computational biology, medical informatics,
+information organization, storage, retrieval and visualization.
+
+The available position is at the assistant professor level, but
+exceptional candidates from all ranks will be considered. In all cases,
+we are looking for applicants with a Ph. D. degree in Computer Science
+or a related field, and strong research credentials as evidenced by 
+scholarly publications. Applicants for senior positions must also 
+demonstrate a proven track record in original research and teaching 
+activities.
+
+The ICS Department is organized as an independent campus unit reporting
+to the Executive Vice Chancellor. It runs the second most popular 
+major at UCI and has designed an undergraduate honors program that 
+attracts the campus' most qualified students. ICS faculty are involved
+in the forefront of research in the emerging areas of the computer 
+science discipline such as multimedia/embedded computing,
+knowledge-discovery in databases, bioinformatics and the role of 
+information in computer science and society. The faculty has effective 
+interdisciplinary ties to colleagues in biology, cognitive science, 
+engineering, management, medicine, and the social sciences. The 
+Department currently has 32 full-time faculty and 125 Ph.D. students
+involved in various research areas including computer science theory, 
+artificial intelligence, networks and distributed systems, databases, 
+multimedia systems, computer systems design, software/software 
+engineering, human-computer interaction and computer-supported 
+cooperative work. 
+
+ICS at UC Irvine represents one of the fastest growing departments 
+and a computer science program that builds upon our strengths in core
+as well as growth areas of computer science. Although UCI is a young
+university, it has attained remarkable stature in the past 3 decades. 
+Two Nobel prizes were recently awarded to UCI faculty. UCI is located
+three miles from the Pacific Ocean near Newport Beach, approximately
+forty miles south of Los Angeles. Irvine is consistently ranked among
+the safest cities in the U.S. and has an exceptional public school 
+system. The campus is surrounded by high-technology companies that
+participate in an active affiliates program. Both the campus and the 
+area offer exciting professional and cultural opportunities. Mortgage 
+and housing assistance are available including newly built, for-sale 
+housing located on campus and within short walking distance from the 
+department.
+
+Applicants should send a cover letter indicating that they are applying
+for the "interdisciplinary applications of computing faculty position,
+Position E", a CV, sample papers and contact information for five
+references to:
+	ICS Faculty Position E 
+	c/o Joy Schuler>
+	Department of Information and Computer Science
+	University of California, Irvine
+	Irvine, CA 92697-3425.
+
+Application screening will begin immediately upon receipt of curriculum
+vitae. Maximum consideration will be given to applications received 
+by December 1, 1998. Salaries commensurate with experience.  The 
+University of California is an Equal Opportunity Employer, committed 
+to excellence through diversity.
+
+
+
+
+
+
+

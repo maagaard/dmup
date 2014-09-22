@@ -1,0 +1,91 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Dec 16 21:02:31 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id VAA10835;
+	Thu, 16 Dec 1999 21:02:21 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18235;
+          16 Dec 99 13:06 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18233;
+          16 Dec 99 12:53 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02379;
+          16 Dec 99 12:53 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa01706; 16 Dec 99 7:38 EST
+Received: from otto.mth.kcl.ac.uk by edrc.cmu.edu id aa08939; 16 Dec 99 7:37 EST
+Received: from dipsy.mth.kcl.ac.uk (dipsy [137.73.14.180])
+	by otto.mth.kcl.ac.uk (8.9.1b+Sun/8.9.3) with ESMTP id MAA06302
+	for <connectionists@cs.cmu.edu>; Thu, 16 Dec 1999 12:37:53 GMT
+Received: from dipsy.mth.kcl.ac.uk (dipsy.mth.kcl.ac.uk [137.73.14.180])
+	by dipsy.mth.kcl.ac.uk (8.9.1/8.9.1) with SMTP id MAA23273
+	for <connectionists@cs.cmu.edu>; Thu, 16 Dec 1999 12:37:50 GMT
+Received: from localhost by dipsy.mth.kcl.ac.uk (5.65v4.0/1.1.19.2/07Oct98-0439PM)
+	id AA23052; Thu, 16 Dec 1999 12:37:50 GMT
+Date: Thu, 16 Dec 1999 12:37:50 +0000 (GMT)
+From: Peter Sollich <psollich@mth.kcl.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Postgraduate research open day
+Message-Id: <Pine.OSF.4.05.9912161226150.3253-100000@dipsy.mth.kcl.ac.uk>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear colleagues,
+
+on behalf of the Neural Networks and Disordered Systems group in the
+Department of Mathematics at King's College London, I am forwarding the
+announcement below of our forthcoming postgraduate open day. I would be
+grateful if you could encourage all interested (and suitably qualified)
+students to attend.
+
+Many thanks in advance for your help,
+Peter Sollich
+
+--------------------------------------------------------------------------
+ Peter Sollich                               Department of Mathematics
+ Phone:  +44 - (0)20 - 7848 2875 (new!)      King's College
+ Fax:    +44 - (0)20 - 7848 2017 (new!)      University of London
+ E-mail: peter.sollich@kcl.ac.uk             Strand
+ WWW:    http://www.mth.kcl.ac.uk/~psollich  London WC2R 2LS, U.K.
+--------------------------------------------------------------------------
+
+
+*****************************************************************************
+*                                                                           *
+*                          POSTGRADUATE OPEN DAY                            *
+*                          ---------------------                            *
+*                                                                           *
+*  The Mathematics Department of King's College London is holding an Open   *
+*  Day for prospective postgraduate students on the 18th of February,       *
+*  2000. The day will include talks by members of the various research      *
+*  groups in the Department, as well as a panel discussion and small group  *
+*  discussions with prospective supervisors and current students. Coffee,   *
+*  lunch and tea will be provided, and the department will consider         *
+*  making a contribution towards students' travel expenses.                 *
+*                                                                           *
+*  King's College has one of the largest departments of mathematics in      *
+*  the United Kingdom and is one of the four London Colleges with the       *
+*  highest RAE research rating in both pure and applied mathematics. The    *
+*  mathematics department of King's is an exceptionally active, balanced    *
+*  and broad research unit, which offers research supervision in a wide     *
+*  range of subjects in pure and applied mathematics, including Analysis,   *
+*  Number Theory, Geometry and Topology, Theoretical Physics, General       *
+*  Relativity,                                                              *
+*                NEURAL NETWORKS AND DISORDERED SYSTEMS,                    *
+*                                                                           *
+*  Statistical Mechanics, Quantum Probability, Mathematical Biology and     *
+*  Financial Mathematics.                                                   *
+*                                                                           *
+*  For full details of the Open Day programme, a registration form, and     *
+*  the booklet "Postgraduate Mathematics at King's", please contact         *
+*                                                                           *
+*  The Postgraduate Secretary, Department of Mathematics,                   *
+*  King's College London, Strand, London WC2R 2LS                           *
+*  Phone 020-7848 2107, Fax 020-7848 2017, Email pgopenday.maths@kcl.ac.uk  *
+*                                                                           *
+*  Further details and an electronic registration form are also available   *
+*  from the Department's web site at                                        *
+*  "http://www.mth.kcl.ac.uk/postgraduate/openday2000.html".                *
+*                                                                           * 
+*****************************************************************************
+

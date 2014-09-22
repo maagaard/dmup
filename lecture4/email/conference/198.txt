@@ -1,0 +1,77 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Jan 20 06:30:08 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA05126;
+	Wed, 20 Jan 1999 06:30:03 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa15367;
+          19 Jan 99 21:10 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa15365;
+          19 Jan 99 21:05 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10853;
+          19 Jan 99 21:04 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11681; 19 Jan 99 19:58 EST
+Received: from grey.Colorado.EDU by RI.CMU.EDU id aa22437;
+          19 Jan 99 19:58:30 EST
+Received: (from oreilly@localhost)
+	by grey.colorado.edu (8.8.7/8.8.7) id SAA21605;
+	Tue, 19 Jan 1999 18:00:43 -0700
+Date: Tue, 19 Jan 1999 18:00:43 -0700
+Message-Id: <199901200100.SAA21605@grey.colorado.edu>
+From: "Randall C. O'Reilly" <oreilly@grey.colorado.edu>
+To: connectionists@cs.cmu.edu
+CC: jrudy@clipr.colorado.edu
+Subject: TR on Hippocampus and Neocortex
+Reply-to: oreilly@psych.colorado.edu
+Status: RO
+X-Status: 
+
+The following technical report is now available for downloading as:
+ftp://grey.colorado.edu/pub/oreilly/papers/oreillyrudy99_hipconj_tr.ps
+
+				- Randy
+
+	 Conjunctive Representations in Learning and Memory:
+	   Principles of Cortical and Hippocampal Function
+
+		Randall C. O'Reilly and Jerry W. Rudy
+
+		       Department of Psychology
+			University of Colorado
+			  Boulder, CO 80309
+
+		      ICS Technical Report 99-01
+
+Abstract:
+
+We present a theoretical framework for understanding the roles of the
+hippocampus and neocortex in learning and memory.  This framework
+incorporates a theme found in many theories of hippocampal function,
+that the hippocampus is responsible for developing conjunctive
+representations binding together stimulus elements into a unitary
+representation that can later be recalled from partial input cues.
+This idea appears problematic, however, because it is contradicted by
+the fact that hippocampally lesioned rats can learn nonlinear
+discrimination problems that require conjunctive representations.  Our
+framework accommodates this finding by establishing a principled
+division of labor between the cortex and hippocampus, where the cortex
+is responsible for slow learning that integrates over multiple
+experiences to extract generalities, while the hippocampus performs
+rapid learning of the arbitrary contents of individual experiences.
+This framework shows that nonlinear discrimination problems are not
+good tests of hippocampal function, and suggests that tasks involving
+rapid, incidental conjunctive learning are better.  We implement this
+framework in a computational neural network model, and show that it
+can account for a wide range of data in animal learning, thus
+validating our theoretical ideas, and providing a number of insights
+and predictions about these learning phenomena.
+
++-----------------------------------------------------------------------------+
+| Dr. Randall C. O'Reilly        |                                            |
+| Assistant Professor            |                                            |
+| Department of Psychology       | Phone: (303) 492-0054                      |
+| University of Colorado Boulder | Fax:   (303) 492-2967                      |
+| Muenzinger D251C               | Home:  (303) 448-1810                      |
+| Campus Box 345                 | email:  oreilly@psych.colorado.edu         |
+| Boulder, CO 80309-0345         | www:    http://psych.colorado.edu/~oreilly |
++-----------------------------------------------------------------------------+

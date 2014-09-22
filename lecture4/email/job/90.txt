@@ -1,0 +1,73 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Mar 25 01:54:12 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA17078;
+	Thu, 25 Mar 1999 01:54:04 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab22529;
+          24 Mar 99 18:25 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22516;
+          24 Mar 99 18:11 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24507;
+          24 Mar 99 18:10 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id by02241; 24 Mar 99 13:02 EST
+Received: from rsunx.crn.cogs.susx.ac.uk by RI.CMU.EDU id aa00614;
+          24 Mar 99 12:48:38 EST
+Received: from csrd.crn.cogs.susx.ac.uk (cogs.susx.ac.uk) [139.184.48.103] (philh)
+	by rsunx.crn.cogs.susx.ac.uk with esmtp (Exim 1.82 #1)
+	id 10Prjb-00078V-00; Wed, 24 Mar 1999 17:46:31 +0000
+Sender: philh@skinner.boltz.cs.cmu.edu
+Message-ID: <36F924BC.1F00D15D@cogs.susx.ac.uk>
+Date: Wed, 24 Mar 1999 17:45:32 +0000
+From: Phil Husbands <philh@cogs.susx.ac.uk>
+Organization: COGS, University of Sussex
+X-Mailer: Mozilla 4.5 [en] (X11; I; SunOS 5.6 sun4m)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Lectureship in Adaptive Systems
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+  University of Sussex
+  School of Cognitive and Computing Sciences
+  Lectureship in Computer Science and Artificial Intelligence Grade A or B
+  (Ref 076)
+
+
+Applicants should have an interest in the area of evolutionary and
+adaptive systems, and be able to show evidence of significant research
+achievement in any aspect of adaptive robotics, artificial life,
+evolutionary computing or related fields. Applicants with a commitment
+to interdisciplinary research at the interface between AI and the
+biological sciences are particularly encouraged.
+
+Further particulars can be found at:
+http://www.cogs.susx.ac.uk/users/philh/aijob.html
+
+Informal inquiries can be made to Dr P Husbands, tel (+44 (0)1273)
+678556, email philh@cogs.susx.ac.uk, or Professor H Buxton, tel (+44
+(0)1273) 678569, email hilaryb@cogs.susx.ac.uk.  Details of the School
+are available at http://www.cogs.susx.ac.uk, or from the School
+Office.
+
+Salary scales:
+
+Lecturer Grade A:  16,655 pounds to 21,815 pounds per annum.
+Lecturer Grade B: 22,726 pounds to 29,048 pounds per annum.
+
+Application packs for the above posts are available from and should be
+returned to Staffing Services, University of Sussex, Falmer, Brighton,
+East Sussex, BN1 9RH, tel (+44 (0)1273) 877324, and details are also
+available via http://www.sussex.ac.uk/Units/staffing/personnl/vacs/
+
+Requests for application packs may also be sent via email to
+S.Jenks@sussex.ac.uk.  Links to school web sites and further
+information about the University may be seen at
+http://www.central.sussex.ac.uk 
+
+WHEN REQUESTING DETAILS, PLEASE QUOTE THE RELEVANT REFERENCE NUMBER.
+
+CLOSING DATE FOR APPLICATIONS: Friday 16 April 1999.

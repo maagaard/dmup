@@ -1,0 +1,53 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov  6 01:11:53 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA06544;
+	Fri, 6 Nov 1998 01:11:47 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02174;
+          5 Nov 98 16:05 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02172;
+          5 Nov 98 15:31 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa02213;
+          5 Nov 98 15:31 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa23483; 4 Nov 98 1:37 EST
+Received: from life.ai.mit.edu by EDRC.CMU.EDU id aa19822; 4 Nov 98 1:37:01 EST
+Received: from heungbu.ai.mit.edu (IDENT:seung@HEUNGBU.MIT.EDU [18.42.0.108])
+	by life.ai.mit.edu (8.9.1/AI2.7/ai.master.life:2.2) with SMTP id BAA22159;
+	Wed, 4 Nov 1998 01:36:52 -0500 (EST)
+Date: Wed, 4 Nov 1998 01:36:52 -0500 (EST)
+Message-Id: <199811040636.BAA22159@life.ai.mit.edu>
+From: "H. Sebastian Seung" <seung@mit.edu>
+To: comp-neuro@bbb.caltech.edu, connectionists@cs.cmu.edu
+Subject: Postdoctoral research positions available
+Status: RO
+X-Status: 
+
+Postdoctoral research positions:
+
+The Seung Lab for Theoretical Neurobiology
+Department of Brain and Cognitive Sciences
+The Massachusetts Institute of Technology
+
+The Seung Lab invites applications for postdoctoral research
+positions, to be filled between January and September 1999.
+
+Applicants should ideally have experience in theoretical neurobiology
+or machine learning, and strong training in the physical sciences or
+engineering.
+
+The Seung Lab specializes in the theoretical study of learning and
+memory in neural networks, both biological and artificial.  More
+information about our activities can be found at
+<http://web-bcs.mit.edu/cgi-bin/faculty_page.pl?Name=seung>
+
+Applications should include a CV, research statement, copies of
+relevant publications, and three letters of recommendation.
+
+Send applications to:
+
+Prof. Sebastian Seung
+Dept. of Brain & Cognitive Sciences
+MIT, E25-210
+Cambridge, MA 02139
+seung@mit.edu

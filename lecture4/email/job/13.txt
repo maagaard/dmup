@@ -1,0 +1,68 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Oct 21 06:35:02 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id GAA06521;
+	Wed, 21 Oct 1998 06:34:57 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa20426;
+          20 Oct 98 23:04 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa20424;
+          20 Oct 98 22:48 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02669;
+          20 Oct 98 22:48 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa04298; 20 Oct 98 10:14 EDT
+Received: from [141.163.11.5] by RI.CMU.EDU id aa12948; 20 Oct 98 10:13:40 EDT
+Received: from smccabe.plym.ac.uk by soc.plym.ac.uk (SMI-8.6/SMI-SVR4)
+	id PAA18290; Tue, 20 Oct 1998 15:10:48 +0100
+Message-Id: <1.5.4.32.19981020141500.0073f550@soc.plym.ac.uk>
+X-Sender: suem@soc.plym.ac.uk
+X-Mailer: Windows Eudora Light Version 1.5.4 (32)
+Mime-Version: 1.0
+Date: Tue, 20 Oct 1998 15:15:00 +0100
+To: connectionists@cs.cmu.edu
+From: Sue Denham <sue@soc.plym.ac.uk>
+Subject: Lecturership Post Available
+Status: RO
+X-Status: 
+
+University of Plymouth
+
+School Of Computing
+
+
+Lecturer/Senior Lecturer in Computational Intelligence in Finance and Business
+
+
+Applications are invited for the above position.
+
+Candidates must have either:
+i) a PhD degree in the area of computational intelligence (neural computing
+or evolutionary computing) and an interest in, together with some experience
+of, the application of these computing technologies in finance, investment
+and business, or
+ii) a higher degree in a financial/business discipline and at least five
+years'experience of applying computational intelligence techniques in the
+financial/business sector.
+
+A record of research publication in this field is highly desirable.
+
+The person appointed will be expected:
+i) to lead the development of teaching and research in this field, working
+within the School's Centre for Neural and Adaptive Systems, and
+ii) to take a leading role in the design and promotion of a new MSc
+programme in Computational Intelligence in Finance and Business, which the
+School is planning to start within the next two years.
+
+Further details of the position are available from:
+
+Dr Sue Denham
+Centre for Neural and Adaptive Systems
+School of Computing
+University of Plymouth
+Plymouth PL4 8AA
+England
+
+tel: +44 17 52 23 26 10
+fax: +44 17 52 23 25 40
+e-mail: sue@soc.plym.ac.uk
+http://www.tech.plym.ac.uk/soc/research/neural/index.html

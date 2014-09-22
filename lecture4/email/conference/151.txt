@@ -1,0 +1,139 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Mon Sep 28 06:10:22 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id GAA29517;
+	Mon, 28 Sep 1998 06:10:16 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16757;
+          27 Sep 98 21:53 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16755;
+          27 Sep 98 21:46 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04851;
+          27 Sep 98 21:46 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa12835; 27 Sep 98 17:21 EDT
+Received: from listserv.okstate.edu by CS.CMU.EDU id aa10508;
+          27 Sep 98 17:20:24 EDT
+Received: from okway.okstate.edu (139.78.100.105) by listserv.okstate.edu (LSMTP for Windows NT v1.1a) with SMTP id <1.33367300@listserv.okstate.edu>; 27 Sep 1998 16:23:47 -0500
+Received: from ccMail by okway.okstate.edu (ccMail Link to SMTP R8.20.00.25)
+    id AA906921992; Sun, 27 Sep 1998 16:19:10 -0600
+Message-Id: <9809279069.AA906921992@okway.okstate.edu>
+X-Mailer: ccMail Link to SMTP R8.20.00.25
+Date: Sun, 27 Sep 1998 13:57:35 -0600
+From: Gary Yen <gyen@okway.okstate.edu>
+To: Connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Conference Announcement
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Description: "cc:Mail Note Part"
+Status: RO
+X-Status: 
+
+Contributed by: Gary G. Yen    gyen@master.ceat.okstate.edu
+
+
+
+CALL FOR PAPERS
+
+1999 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORK
+
+RENAISSANCE HOTEL
+WASHINGTON, D.C.
+JULY 10-16, 1999
+
+The premier conference on neural networks returns to Washington, D.C. in 
+1999. Come celebrate the end of the Decade of the Brain and prepare to 
+welcome the next millenium with a review of where we are and a preview of 
+where we are going. IJCNN'99 spans the neural network field from neurons to 
+consciousness, from learning algorithms to robotics, from chaos to control. 
+This is an unparalleled opportunity to learn about cutting edge 
+developments, to publicize your contributions, and to form new ties with 
+your colleagues in industry, academia, and government from around the 
+world. For details see our web site: www.inns.org or contact David Brown, 
+IJCNN'99 General Chair: dgb@cdrh.fda.gov
+
+CONFERENCE HIGHLIGHTS:
+* Distinguished plenaries, highlighted by keynote speaker John Hopfield. 
+* Strong technical program, presenting leading research in all 
+  neural-network related fields.
+* Focused special sessions on such subjects as Biomedical Applications and
+  Chaos.
+* Theme symposium: Modeling the Brain from Molecules to Mind.
+* Forum on Global Competitiveness, including Congressional face-off on U.S.
+  SBIR program.
+* International workshops on "Getting Your Application to Market,"
+  including patent and venture capital questions, and on "Getting Funding  
+  for your Rsearch."
+* Vigorous tutorial program, with courses taught by the leading experts in
+  our field.
+* Exhibits and demonstrations of real-world applications.
+* Media fair-Show what you have achieved and help educate the public. 
+* Awards for best posters and for student contributions.
+* Job fair, matching up applicants with employment opportunities. 
+* And much, much more: check out IJCNN'99 news on the web site:
+  www.inns.org
+
+CALL FOR PAPERS
+(Deadline December 4, 1998)
+Co-technical Program Committee Chairs: 
+Daniel Alkon (NIH)  Clifford Lau (ONR)
+
+IJCNN'99 review and acceptance will be based on a one-page summary, which 
+will be distributed to Conference participants in a summary book. Detailed 
+instructions for authors are given on the reverse side of this sheet and on 
+the web site. Conference proceedings will be in CD form. Hard-copy 
+proceedings may be available for an additional fee.
+
+Use of illustrations is encouraged in the summaries, within the single 
+allowed page. Use of audio and video segments in the CD proceedings will be 
+considered. Poster presentations will be encouraged, with "single-slide" 
+poster presentations interspersed with regular oral sessions. Monetary 
+awards presented for best poster in several categories. Best student paper 
+awards will also be given.
+
+INSTRUCTIONS FOR AUTHORS:
+Paper summary format information
+
+The summary must be accompanied by a cover sheet listing the following 
+information:
+1. Paper title
+2. Author information - full names and affiliations as they will appear in
+   the program
+3. Mailing address, telephone, fax, and email for each author 4. Request 
+   for oral or poster presentation
+5. Topic(s), selected from the list below:
+
+Biological foundations       Neural systems 
+Mathematical foundations     Architectures 
+Learning algorithms          Intelligent control 
+Artificial systems           Data analysis 
+Pattern recognition          Hybrid systems 
+Intelligent computation      Applications
+
+  
+The one-page, camera-ready summary must conform to the following 
+requirements:
+1. All text and illustrations must appear within a 7x9 in. (178x229mm)
+   area. For US standard size paper (8.5x11 in.), set margins to 0.75 in.   
+   (18mm) left and right and 1 in. top and bottom. For A4 size paper, set 
+   margins to 17mm left and right, 25mm top, and 45 mm bottom.
+2. Use 10-point Times Roman or equivalent typeface for the main text.
+   Single space all text, allowing extra space between paragraphs.
+3. Title (16 pt. Bold, centered) Capitalize only first word and proper
+   names.
+4. Authors names, affiliation (12 pt., centered) omit titles or degrees.
+5. Five section headings (11 pt. bold). The following five headings MUST be
+   used: Purpose, Method, Results, New or breakthrough aspect of work, and 
+   Conclusions.
+
+Three copies of the one-page summaries are due in camera-ready, hardcopy 
+form to INNS by December 4, 1998. Sent to:
+
+IJCNN'99/INNS
+19 Mantua Road
+Mt. Royal, NJ 08061 USA
+Phone: 609-423-7222 ext. 350
+
+Acceptance will be determined by February 8, 1999, and complete papers are 
+due in digital form for CD publication by May 3, 1999.

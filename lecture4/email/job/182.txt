@@ -1,0 +1,60 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Sep 11 02:31:42 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA24261;
+	Sat, 11 Sep 1999 02:31:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19613;
+          10 Sep 99 17:35 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19600;
+          10 Sep 99 17:27 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11029;
+          10 Sep 99 17:26 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa12822; 10 Sep 99 17:19 EDT
+Received: from nak.Berkeley.EDU by RI.CMU.EDU id aa13282; 10 Sep 99 17:16:10 EDT
+Received: from Berkeley.EDU (merckx.Psych.Berkeley.EDU [128.32.243.137])
+	by nak.berkeley.edu (8.8.5/8.8.5) with ESMTP id OAA28818;
+	Fri, 10 Sep 1999 14:15:36 -0700 (PDT)
+Received: from hinault (hinault [128.32.243.224])
+	by Berkeley.EDU (8.9.1b+Sun/8.9.1) with SMTP id OAA03484;
+	Fri, 10 Sep 1999 14:17:21 -0700 (PDT)
+Message-ID: <007c01befbd1$f8de2fc0$e0f32080@hinault.Psych.Berkeley.EDU>
+From: Frederic Edouard Theunissen <fet@socrates.berkeley.edu>
+To: connectionists@cs.cmu.edu, comp-neuro@bbb.caltech.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Cc: zedeck@socrates.berkeley.edu, carolyns@socrates.berkeley.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Postion available in quantitative Psychology
+Date: Fri, 10 Sep 1999 14:18:05 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.5
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Status: RO
+X-Status: 
+
+
+
+********************************************************************
+UNIVERSITY OF CALIFORNIA AT BERKELEY: The
+Department of Psychology invites applications at any level for two
+tenured/tenure-track positions beginning July 1, 2000. We are interested in
+two areas: (1) quantitative psychology (including, but not limited to,
+multivariate analysis, measurement, mathematical modeling, and computer
+modeling), and (2) social/personality psychology. Applications for the
+position must be postmarked by October 1, 1999, and are to include a
+curriculum vitae, a description of research interests and selected reprints
+sent to: Search Committee, Department of Psychology, 3210 Tolman Hall #1650,
+University of California, Berkeley, CA 94720-1650. Candidates should also
+arrange to have at least three letters of recommendation sent to the same
+address by the application date. Candidates are asked to specify the
+position for which they are applying, and to submit an application for each
+position should they wish to be considered for both. Applications postmarked
+after the deadline will not be considered. The University of California is
+an Equal Opportunity/Affirmative Action Employer.
+
+

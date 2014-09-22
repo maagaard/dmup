@@ -1,0 +1,102 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Jan 19 19:19:30 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA01498;
+	Tue, 19 Jan 1999 19:19:24 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa14183;
+          19 Jan 99 10:57 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa14142;
+          19 Jan 99 10:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10344;
+          19 Jan 99 10:37 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa04584; 19 Jan 99 8:16 EST
+Received: from [147.122.1.17] by EDRC.CMU.EDU id aa15575; 19 Jan 99 8:16:01 EST
+Received: (from bricolo@localhost)
+	by shannon.sissa.it (8.9.1/8.9.1 - rinno 3.1 conf on 98/05) id OAA89766
+	for connectionists@cs.cmu.edu; Tue, 19 Jan 1999 14:15:23 +0100
+From: Emanuela Bricolo <bricolo@sissa.it>
+Message-Id: <199901191315.OAA89766@shannon.sissa.it>
+Subject: pre and postdoctoral positions
+To: connectionists@cs.cmu.edu
+Date: Tue, 19 Jan 1999 14:15:22 +0100 (NFT)
+X-Mailer: ELM [version 2.4 PL17]
+Content-Type: text
+Status: RO
+X-Status: 
+
+
+                  Cognitive Neuroscience at S.I.S.S.A.
+
+S.I.S.S.A., the International School for Advanced Studies of Trieste, Italy,
+is an interdisciplinary postgraduate research institute directly supported by
+the Italian Ministry for Universities and Research. Its working language is
+English and non-Italian Ph.D. students, postdocs and faculty comprise about a
+third of the total. There are no fees; fellowships are offered to all students.
+
+A new sector, Cognitive Neuroscience, has been operating within S.I.S.S.A.
+since November, 1995. It currently includes groups working on:
+
+* Neuropsychology and modelling of semantic memory, word processing and
+  frontal lobe processing (Tim Shallice, coordinator of the sector)
+
+* Neurophysiology and neuropsychology of spatial representation and spatial
+  behaviour (P.Paolo Battaglini, U. of Trieste)
+
+* Information processing and plasticity of representations in the
+  somatosensory system (Mathew Diamond)
+
+* Neurophysiology and neurobiology of developmental and adult plasticity 
+  in the visual system (Luciano Domenici)
+
+* Information-theoretic analysis and modelling of coding in higher sensory
+  and memory areas (Alessandro Treves)
+
+and a new Psycholinguistics group led by Jacques Mehler is expected to join 
+soon. In addition, the Programme in Neuroscience is a framework for joint
+activities with groups in the Biophysics sector, including
+
+* Computational neuroscience (Vincent Torre)
+
+The sector is now seeking:
+
+ ** 4 postdoctoral researchers (deadline for applications March 31, 1999) **
+
+   ** 1 Human Frontier postdoctoral researcher (deadline April 30, 1999) **
+
+ ** up to 5 qualified non-Italian Ph.D. students (deadline April 30, 1999) **
+     
+All positions are open to candidates with any background and expertise of
+interest to the sector, although a balanced allocation of resources will be 
+a consideration in the selection. Postdocs are for 1 year, renewable for a 
+second year, and may start from September, 1999. The spring preselection of 
+Ph.D. students allows outstanding foreign candidates to be admitted without 
+taking the normal entrance exam in October, in Trieste. Such students then 
+come directly at the start of the regular 3-year Ph.D. program, in November.
+
+Applications for both types of position should include a full CV, stating
+date of birth, citizenship, proficiency in english and complete academic
+records; at least one letter of reference, sent directly to SISSA; and any 
+other item useful in assessing the candidate. Applicants for Ph.D.s should 
+be under 30, and be able to provide hardcopy certificates of their records.
+
+SISSA - Cognitive Neuroscience - via Beirut 2/4, 34013 Trieste, Italy.
+
+Further information can be accessed at http://www.sissa.it/cns/
+
+
+
+******************************************
+
+	Emanuela Bricolo
+	Cognitive Neuroscience
+	SISSA
+	Via Beirut 2/4
+	34014 Trieste
+	ITALY
+
+	office: +39-40-3787239
+	fax:    +39-40-3787249
+	email:  bricolo@sissa.it
+
+******************************************

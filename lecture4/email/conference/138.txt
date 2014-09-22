@@ -1,0 +1,84 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Aug 21 09:57:17 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id JAA04192;
+	Fri, 21 Aug 1998 09:57:08 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25183;
+          20 Aug 98 18:03 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25179;
+          20 Aug 98 17:58 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07133;
+          20 Aug 98 17:57 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab18030; 20 Aug 98 17:56 EDT
+Received: from spencer.eng.yale.edu by CS.CMU.EDU id aa15253;
+          20 Aug 98 17:55:59 EDT
+Received: from eyegore by SPENCER.CTAN.YALE.EDU via SMTP; Thu, 20 Aug 1998 21:55:32 GMT
+Message-ID: <35DC9CFB.6BD6@yale.edu>
+Date: Thu, 20 Aug 1998 18:02:35 -0400
+From: Ted Carnevale <ted.carnevale@yale.edu>
+Reply-To: ted.carnevale@yale.edu
+Organization: Yale University Neuroengineering and Neuroscience Center
+X-Mailer: Mozilla 3.01 (WinNT; U)
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+CC: ted@SPENCER.CTAN.YALE.EDU, Michael Hines <michael.hines@yale.edu>
+Subject: NEURON course at SFN98
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Short course announcement
+
+Title:  Using the NEURON Simulation Environment
+
+What, where, and when:  This is a Satellite Symposium 
+that will be presented at the Society for Neuroscience 
+meeting in Los Angeles, CA, on Saturday, Nov. 7, 1998. 
+
+Speakers:  N.T. Carnevale, M.L. Hines, 
+           J.W. Moore, and G.M. Shepherd
+
+Description
+
+NEURON, which runs under UNIX/Linux, MSWindows, and MacOS, 
+is an advanced simulation environment that handles realistic 
+models of biophysical mechanisms, individual neurons, and 
+networks of cells. In lectures with live computer 
+demonstrations, this course will present information 
+essential for teaching and research applications of NEURON. 
+It will emphasize practical issues that are key to the most 
+productive use of this powerful and convenient modeling tool. 
+
+Partial list of topics to be covered: 
+* How NEURON separates biologically important features, such as 
+  spatio-temporal complexity, from purely numerical concerns 
+  like accuracy and stability. 
+* Efficient design, implementation, and use of models, including
+  variable-order variable-timestep integration, and NEURON's 
+  latest tools for network simulations. 
+* Using the graphical interface to control and modify simulations, 
+  and to analyze data and simulation results without additional
+  programming. 
+* Getting the most out of special features such as vectors and 
+  the extensive function library. 
+* Expanding NEURON's repertoire of biophysical mechanisms. 
+* Using NEURON simulations in neuroscience education. 
+* Databases for empirically-based modeling. 
+
+Each registrant will receive a CD-ROM with software, plus a
+comprehensive set of notes that includes material which has 
+not yet appeared elsewhere in print. 
+
+Registration is limited to 55 individuals on a first-come, 
+first-serve basis. 
+
+Early registration deadline Friday, October 2, 1998
+Late registration deadline Friday, October 16, 1998 
+NO on-site registration will be accepted.
+
+For more information and the electronic registration form, see 
+  http://www.neuron.yale.edu/sfn98.html
+
+--Ted

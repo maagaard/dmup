@@ -1,0 +1,68 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jan  5 03:29:19 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id DAA05394;
+	Wed, 5 Jan 2000 03:29:15 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06795;
+          4 Jan 2000 20:18 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06793;
+          4 Jan 2000 20:10 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28611;
+          4 Jan 2000 20:10 EST
+Received: by ux3.sp.cs.cmu.edu id aa11972; 4 Jan 2000 17:49 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11888; 4 Jan 2000 17:42 EST
+Received: from gremlin.ics.uci.edu by ri.cmu.edu id aa19335;
+          4 Jan 2000 17:41 EST
+Received: from sifnos.ics.uci.edu  ( smyth@sifnos.ics.uci.edu [128.195.4.104] )
+          by gremlin-relay.ics.uci.edu id aa10281
+          for <connectionists@cs.cmu.edu>; 4 Jan 2000 14:41 PST
+X-Mailer: exmh version 2.0.2 2/24/98
+To: connectionists@cs.cmu.edu
+Subject: faculty positions in biomedical image/signal analysis at UC Irvine
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Tue, 04 Jan 2000 14:41:37 -0800
+From: Padhraic Smyth <smyth@sifnos.ICS.UCI.EDU>
+Message-ID:  <200001041441.aa10281@gremlin-relay.ics.uci.edu>
+Status: RO
+X-Status: 
+
+
+Dear Connectionist Colleagues,
+
+     UCI has 5 new faculty slots currently open in our biomedical
+engineering department - the department was started last year based
+on an award from the Whittaker Foundation and is expected to grow
+substantially over the next few years. See
+http://soeweb.eng.uci.edu/bme/jobs.stm  for details.
+
+       One area of particular relevance to readers of this list
+is biomedical image and signal analysis: there are excellent
+opportunities for collaborative research across campus in this
+area at present, e.g., we have very active medical and biological
+research programs in brain imaging (e.g., in Alzheimer's research,
+autism research) with significant opportunities for interdisciplinary
+projects. Note that researchers whose focus is specifically in medical 
+imaging (for example) are likely to be of more interest to UCI than
+researchers interested in image analysis in general.
+
+       Other listed research areas of potential interest to connectionists
+are computational neuroscience, quantitative modeling of biological
+systems, and parallel and/or distributed biomedical computational
+systems. 
+
+        Note that although the advertised deadline is January 1, late
+applications are still welcome - I meant to send this email out
+last Fall :). Positions are available at both senior and junior 
+levels.
+
+      Please do not send your applications to me personally (use
+the address on the Web page). But feel free to let me know you have
+applied, particularly if you apply in the image/signal
+analysis area.
+
+Padhraic Smyth
+Information and Computer Science
+University of California, Irvine
+

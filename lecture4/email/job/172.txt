@@ -1,0 +1,83 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 24 07:44:21 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA14157;
+	Tue, 24 Aug 1999 07:44:10 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07256;
+          23 Aug 99 23:46 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07232;
+          23 Aug 99 23:26 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09809;
+          23 Aug 99 23:26 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa15043; 23 Aug 99 10:33 EDT
+Received: from m1.cs.man.ac.uk by CS.CMU.EDU id aa18295; 23 Aug 99 10:32:05 EDT
+Received: from weasel.cs.man.ac.uk. by m1.cs.man.ac.uk (8.8.8/AL/MJK-2.0)
+	id PAA03652; Mon, 23 Aug 1999 15:31:59 +0100 (BST)
+Received: from cs.man.ac.uk by weasel.cs.man.ac.uk.; Mon, 23 Aug 1999 15:31:56 +0100 (BST)
+Sender: magnus@cs.man.ac.uk
+Message-ID: <37C15B5A.377B33D3@cs.man.ac.uk>
+Date: Mon, 23 Aug 1999 15:31:55 +0100
+From: Magnus Rattray <magnus@cs.man.ac.uk>
+Organization: Manchester University
+X-Mailer: Mozilla 4.06 [en] (X11; I; SunOS 5.7 sun4u)
+MIME-Version: 1.0
+To: Connectionists@CS.cmu.edu
+Subject: Post-doctoral position
+Content-Type: text/plain; charset=iso-8859-1
+X-MIME-Autoconverted: from 8bit to quoted-printable by m1.cs.man.ac.uk id PAA03652
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id HAA14157
+Status: RO
+X-Status: 
+
+Readers of the list may be interested in the following post-doc
+position, which is jointly offered by the University of Manchester and
+Rhône-Poulenc Rorer.  Candidates with experience in neural networks
+and related machine-learning/visualisation techniques are particularly
+encouraged to apply.
+
+ Magnus Rattray,
+ Dept. of Computer Science,
+ University of Manchester,
+ Manchester M13 9PL.
+
+--------------------------------------------------------------------
+
+ Post-doctoral research associate for gene expression analysis
+ (Rhône-Poulenc Rorer and University of Manchester)
+
+We are looking for a post-doctoral research associate to work on a 2
+year project on the analysis of gene expression patterns from DNA
+arrays. The work would be done in a collaboration between
+Rhône-Poulenc Rorer and the University of Manchester. The post would
+provide an ideal opportunity for a mathematically trained scientist to
+apply their skills to one of the fastest growing and most exciting
+areas of modern biology.
+
+The successful candidate will work primarily at Rhône-Poulenc
+Rorer's site near London and liaise extensively with
+experimentalists. He/she will be part of a large multidisciplinary
+team involving biologists and bioinformaticians that is applying and
+developing state of the art mathematical and computational methods for
+biologically relevant problems.
+
+The ideal candidate would have excellent communication skills, a
+mathematical background, preferably in areas such as multivariate
+statistical analysis and pattern recognition, and a strong interest in
+molecular biology.
+
+As an Equal Opportunities Employer, we welcome applications from
+suitably qualified people from all sections of the community
+regardless of race, religion, gender or disability.
+
+For further details please contact:
+
+              Dr Burkhard Morgenstern,
+              Rhône-Poulenc Rorer Limited,
+              JA3-3 Rainham Road South,
+              Dagenham, Essex.
+              RM10 7XS
+              UK.
+              Email: burkhard.morgenstern@rp-rorer.co.uk
+

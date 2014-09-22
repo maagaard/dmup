@@ -1,0 +1,349 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Feb 20 11:25:39 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id LAA19438;
+	Sat, 20 Feb 1999 11:25:24 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12284;
+          20 Feb 99 2:43 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12268;
+          20 Feb 99 2:32 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01664;
+          20 Feb 99 2:32 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa19579; 19 Feb 99 13:20 EST
+Received: from hermes.ex.ac.uk by RI.CMU.EDU id aa14106; 19 Feb 99 13:19:58 EST
+Received: from cspc62 [144.173.14.162] by hermes via SMTP (SAA17775); Fri, 19 Feb 1999 18:19:53 GMT
+From: Sameer Singh <S.Singh@exeter.ac.uk>
+Sender: S.Singh@exeter.ac.uk
+To: connectionists@cs.cmu.edu
+Subject: Lectureship at Exeter University, UK
+In-Reply-To: <SIMEON.9902191823.A@cspc62.ex.ac.uk>
+Message-ID: <SIMEON.9902191822.B@cspc62.ex.ac.uk>
+Date: Fri, 19 Feb 1999 18:10:22 +0000 (GMT Standard Time)
+Priority: NORMAL
+X-Mailer: Simeon for Win32 Version 4.1.2 Build (32)
+X-Authentication: IMSP
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by eivind.imm.dtu.dk id LAA19438
+Status: RO
+X-Status: 
+
+
+ School of Engineering and Computer Science
+
+ LECTURER IN COMPUTER SCIENCE VACANCY (ref number 6084)
+
+ Further Particulars
+
+ We are seeking an active, energetic researcher to
+ contribute to one of the research areas in Computer
+ Science: artificial intelligence, distributed and
+ parallel systems, media computing, pattern recognition and
+ neural computing.
+
+ We would expect the successful candidate to contribute to
+ the teaching programme at all levels and to develop modules
+ in their own area of interest.
+
+ This is a permanent position, available from the Summer
+ Term 1999, or as soon as possible thereafter.
+
+ The School
+
+ The School of Engineering and Computer Science was formed
+ on 1 August 1998 through the merger of the former
+ Department of Computer Science and School of Engineering.
+ For the purposes of student recruitment and quality
+ assessment, the subject departments of Computer Science and
+ Engineering retain an identity within the new School. For
+ management and other purposes, the School is a fully
+ integrated academic unit under the Head of School,
+ Professor David Owens. School-level committees handle both
+ research and teaching policy matters.
+
+ The philosophy of the new School is to promote
+ interdisciplinary work across the boundaries of engineering
+ and computing and between the engineering      
+ sub-disciplines. The approach has been in place within
+ engineering since the formation (by merger of separate
+ departments) of the former School of Engineering in 1988.
+ The merger with the Department of Computer Science, founded
+ in 1979, represents an exciting opportunity to extend this
+ concept at all levels: undergraduate, postgraduate and
+ staff. One of our objectives is to establish a degree
+ programme that bridges the two disciplines: a     
+ major/minor degree in Electronics with Computer Science. At
+ present third year students in Computer Science regularly
+ take options within Engineering. The School also runs full
+ MSc, MPhil and PhD programmes.
+
+ At present, Computer Science and Engineering are located in
+ separate buildings on the main University campus, but plans
+ are being developed to bring the whole School into single
+ premises with the Harrison building (the current home of
+ Engineering). The relocation will provide the School, by the
+ summer of 2000, with new, extensive, purpose-built
+ laboratory and computing facilities.
+
+ Computer Science
+
+ There are currently eleven academic staff in Computer
+ Science. All academic staff are expected to contribute to
+ research and teaching and to undertake appropriate
+ administrative duties.
+
+ A Computer Support Group of seven, including a hardware
+ technician, maintains and upgrades the Department's
+ computing facilities in conjunction with the University's
+ IT Services. Members of the group are able also to provide
+ support to specific research projects.
+
+ 
+ In our major undergraduate laboratories we run Windows
+ 98/95 and Linux. In support of these clients, clusters of
+ Silicon Graphics workstations act as servers connected by
+ Samba, a public domain Internet implementation of a Windows
+ NT service. The research laboratories generally use Unix,
+ either PCs running Linux, Silicon Graphics running Irix or
+ Sun workstations running SunOS or Solaris.
+
+ In total, we run 16 Silicon Graphics workstations connected
+ by an ATM network capable of high speed video transmission,
+ 11 Sun workstations, 50 Pentium PCs including 27 multimedia
+ PCs running Windows 98/95 or Linux, 4 laser printers
+ including a high quality colour laser printer. Supported
+ applications include software for mathematical computing,
+ 3D animation and visualisation, parallel and distributed
+ systems, image processing and neural networks.
+
+ All our computers are connected to the Internet. We run our
+ own web server including an internal Intranet. Research
+ groups have their own specialist servers connected to the
+ network. The University's IT Services provides
+ undergraduate accounts and filespace and other specialist
+ facilities.
+
+ We maintain a World Wide Web entry with home page:
+ http://www.dcs.exeter.ac.uk
+
+ Details of the syllabus for the current taught modules may
+ be found under the syllabus entry on the page:
+ http://www.dcs.exeter.ac.uk/wyska
+
+ Research
+
+ Computer Science was graded 4A in the 1996 Research
+ Assessment Exercise. While recognising the importance of
+ fostering individual initiative in research, the school
+ encourages the formation of groups which act as a stimulus
+ to research, enable informed but informal critical
+ discussion and provide a supportive environment for
+ postgraduate study. We currently recognise three research
+ groups in Computer Science:
+
+ Pattern Recognition and Neural Computing
+ (Director: Dr Sameer Singh)
+
+ Pattern Analysis and Neural Networks represent technologies
+ of the future at the cutting edge of computer science
+ research. This group investigates research issues in a
+ number of applied topics in computer science and
+ engineering. Our interests extend to Pattern Recognition,
+ Neural Networks, Image Processing, Medical Imaging, OCR,
+ Financial Forecasting and Linguistic Computing. A large
+ number of our projects are with external collaborators and
+ are supported by both internal and external grants. The
+ group is committed to excellence in research achieved
+ through a range of interactions at national
+ and international level. At present the research group has
+ more than twelve full-time members. Full details about the
+ group are available at the web site:
+ http://www.dcs.ex.ac.uk/research/pann
+
+ Distributed and Parallel Systems
+ (Director: Dr Stephen Turner)
+
+ Research within this group concentrates on programming
+ systems formed by connecting a number of processors, where
+ the connection could be as tight as the bus of a
+ multiprocessor, or as loose as the Internet. Our work on
+ parallel computing involves harnessing many processors to
+ solve a single problem, with discrete event simulation
+ being an area of particular interest. As well as running
+ parallel programs, we are interested in predicting their
+ performance on different machine configurations. Another
+ area of interest is the successful exploitation of
+ distributed database technology, where we research into its
+ application in solving extant problems in complex
+ information sharing domains. Finally, we are also
+ interested in programming networked embedded computing
+ devices using the idea of mobile code.
+
+ Artificial Intelligence
+ (Director: Dr Antony Galton)
+
+ The work of this research group comprises three main
+ strands:-
+
+ Knowledge Representation, with particular application to
+ qualitative spatial and temporal reasoning; Media
+ Computing, including natural language engineering and
+ information retrieval, GIS and visualisation, multimedia
+ databases, and psychological aspects of multimedia;
+ Future Computing Paradigms, such as evolutionary computing
+ and genetic algorithms, and quantum computing
+
+ In accordance with our research strategy, special purpose
+ laboratories have been established with dedicated equipment
+ within the first two of these sub-areas. We also maintain a
+ Media Computing laboratory through which we explore a range
+ of issues concerning the use of media in the way we    
+ communicate and undertake creative endeavours.
+ Visualisation in particular - data, program, knowledge -
+ features in all research groupings.
+
+ We pride ourselves on presenting a seamless view of
+ computational paradigms and treat all such paradigms
+ (symbolic as well as sub-symbolic, parallel
+ as well as sequential, declarative as well as procedural,
+ object-oriented as well as block-structured) as equally
+ valid, according to the circumstances.
+
+ With the formation of the new School, we aim to enhance
+ joint research initiatives. Initially these might be on the
+ basis of engineering applications providing a demonstrator
+ for software technologies developed in computer science.
+ Also the theoretical backing provided by research in
+ computer science could aid developments in engineering.
+ There will also be possibilities for technology led
+ developments in media computing.
+
+ It is the responsibility of the Director of each research
+ group to produce an annual research plan based on the
+ individual plans of the staff within the
+ group. Such plans are the basis for recommendations on
+ equipment purchase and access to travel funds and study
+ leave.
+
+
+ There are currently sixteen students on our MPhil/PhD
+ programme. Since 1989 we have had a 100% submission record
+ for all SERC/EPSRC funded PhD students. We run a thesis
+ committee system whereby each student is encouraged in the
+ development of their research but also has their progress
+ monitored. We have an EPSRC-approved advanced, specialist
+ MSc degree programme in New Generation Computing.
+
+ Undergraduate Teaching
+
+ We received a rating of excellent in 1994 HEFCE Teaching
+ Quality Assessment, one of only 10 UK Universities so rated.
+ Our submission to HEFCE stressed the importance of feeding
+ research back into the teaching programmes and we apply
+ this approach to all our degrees.
+
+ Approximately 65 undergraduates are admitted each year. Our
+ main programme is the Single Honours degree in Computer
+ Science. In collaboration with the School of Psychology we
+ offer an Interdisciplinary Single Honours programme in
+ Cognitive Science. There are also in place arrangements for
+ major/minor programmes with the School of Mathematical
+ Sciences and a with European study programme. We have
+ placed some of our modules within the University's
+ modularity scheme thus allowing students from other
+ disciplines to study computing.
+
+ Teaching allocations are based on a formula that takes
+ account of research supervisory commitments. Also, all
+ junior staff are given time to undertake a
+ structured independent-learning course (recognised by the
+ Staff and Educational Development Association (SEDA)) run by
+ the Staff Development Unit.
+
+ Other Information
+
+ The starting salary will be up to £26,523 on the in the
+ Lecturer A scale or Lecturer B scale (£16,655 - £29,048),
+ dependent upon teaching research experience. There is a
+ 3-year probationary period.
+
+ Full-time members of the academic staff may not undertake
+ without consent of the University Council outside paid work,
+ except external examining, literary work, public lecturing,
+ and extra-mural teaching, occasional broadcasting and the
+ giving of advice on an ad-hoc basis and on a relatively
+ small scale.
+
+ The successful applicant (if aged under 60) may join the
+ Universities' Superannuation Scheme (USS), or maintain USS
+ membership if applicable; 6.35% of gross salary is
+ contributable by the individual, with the University
+ contributing such sums as will be required to maintain the
+ full benefits of the scheme.
+
+ For permanent appointments, in the case of a person
+ appointed from within the United Kingdom, all agreed
+ removal expenses will normally be reimbursed. In the case
+ of the appointment of a candidate from overseas, the full
+ cost of removal expenses together with one adult economy
+ fare from the candidate's place of residence will normally
+ be reimbursed. In this context, it should be noted that the
+ phrase "removal expenses" is interpreted by the
+ University to mean the removal of household effects and
+ excludes the cost of storage and the reimbursement of
+ personal fares save the one adult economy fare payable to a
+ person appointed overseas. Claims for reimbursement of
+ removal expenses should be accompanied by three competitive
+ tenders and the receipted account. Reimbursement will
+ normally be on the basis of the lowest tender.
+
+ Interviewees will be asked to complete a Medical
+ Questionnaire.
+
+ The University is committed to a comprehensive policy of
+ equal opportunities in employment in which individuals are
+ selected and treated solely on the basis of their relevant
+ merits and abilities and are given equal opportunities
+ within the University.
+
+ In making this appointment the University reserves the
+ right to consider persons other than those who have
+ submitted applications by the closing date.
+
+ To apply, candidates forward 7 copies (or, if posted
+ overseas, 1 copy in a format suitable for photocopying) of
+ your curriculum vitae, including particulars of your
+ qualifications and experience, and a list of their
+ publications, together with names and addresses of three
+ referees a supporting letter of application which includes
+ a statement indicating your intended areas of research, and
+ summary of personal details sheet.
+
+ Applications should reach the Personnel Division,
+ University of Exeter, Northcote House, The Queen's Drive,
+ Exeter, EX4 4QJ, Devon, UK, by 26 February 1999 . Please
+ quote the reference number 6084 on your application and in
+ all correspondence.
+
+ Candidates should note that the University normally
+ contacts referees for shortlisted candidates without
+ further advice to applicants. When advising of
+ referees, if they are resident overseas please ensure you
+ supply fax numbers and/or email addresses enabling us to
+ contact them (if necessary) without delay.
+
+ In the interests of economy, the University does not notify
+ candidates who have been unsuccessful with their
+ application; consequently if you have not
+ heard from us within six weeks of the closing date, please
+ assume that you have not been successful on this occasion.
+
+ For further information and an informal discussion please
+ contact Dr Wendy Milne (w.milne@exeter.ac.uk), telephone
+ 01392 264061. Informal contact with the Directors of
+ research is also welcomed.
+
+ fps.6084
+

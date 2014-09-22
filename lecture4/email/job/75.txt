@@ -1,0 +1,106 @@
+
+
+From spm-request@mailbase.ac.uk  Thu Feb 18 22:55:10 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id WAA27281
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 18 Feb 1999 22:55:09 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id VAA05983;
+	Thu, 18 Feb 1999 21:57:00 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id VAA11715;
+        Thu, 18 Feb 1999 21:52:56 GMT
+Received: from mailfwd.nih.gov (mailfwd.nih.gov [165.112.130.9]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id VAA11701;
+        Thu, 18 Feb 1999 21:52:53 GMT
+Received: from [165.112.64.15] ([165.112.64.15])
+	by mailfwd.nih.gov (8.8.5/8.8.5) with ESMTP id QAA21491
+	for <spm@mailbase.ac.uk>; Thu, 18 Feb 1999 16:52:51 -0500 (EST)
+X-Sender: brauna@NIHExchange5.nih.gov
+Message-Id: <v0300781ab2f22da81a3f@[165.112.64.15]>
+Mime-Version: 1.0
+Content-Type: text/enriched; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 18 Feb 1999 16:52:34 -0400
+Subject: Full-time position - NIDCD, NIH
+From: Allen Braun <brauna@nidcd.nih.gov>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Allen Braun <brauna@nidcd.nih.gov>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+
+<bold><bigger>Mathematics/Statistics/Computational Neuroscience
+Position at the National Institutes of Health.
+
+
+</bigger></bold><bigger>The Language Section, National Institute on
+Deafness and Other Communication Disorders, National Institutes Health,
+is soliciting applications from individuals with baccalaureate,
+masters, or doctoral degrees in computer science, mathematics,
+statistics, biomedical engineering, psychology, or other relevant
+disciplines interested in a full time position beginning immediately.
+Salary will be determined according to education and experience.  A
+minimum commitment of two years is required. =20
+
+
+The National Institutes of Health Intramural Research Program is one of
+the premiere research centers in the nation, and this represents a
+unique opportunity for individuals with extensive computer-based skill
+and experience as well as an interest in neuroscience, neural modeling
+and/or biomedical imaging. =20
+
+
+Duties will include some system administration, data base development
+and maintenance, as well as development, assessment, and validation of
+existing and new methods for image processing and voxel-wise
+statistical analyses.  Candidates will be able to develop and implement
+their own research projects.  Experience with UNIX systems and C++
+programming language is required.  Knowledge of computer applications
+in functional neuroimaging is also recommended but is not required, as
+is knowledge of statistical applications in functional neuroimaging and
+image processing.=20
+
+
+Send resume, letter of interest outlining qualifications and
+experience, and transcripts to: Allen R. Braun, M.D., Acting Chief,
+Language Section, NIDCD, Building 10, Room 5N118A, National Institutes
+of Health, Bethesda MD 20892.  Phone: (301) 402-1497; FAX: (301)
+594-5274; e-mail:
+<underline><color><param>0000,0000,00FF</param>brauna@nidcd.nih.gov</color><=
+/underline>.
+ The National Institute on Deafness and Other Communication Disorders
+is an Equal Opportunity
+Employer.</bigger><fontfamily><param>Geneva</param>
+</fontfamily><fontfamily><param>Times</param>=20
+
+</fontfamily>
+
+Allen Braun, M.D.
+
+Acting Chief, Language Section
+
+Voice, Speech and Language Branch
+
+National Institute on Deafness and
+
+Other Communication Disorders
+
+Building 10, Room 5N118A
+
+National Institutes of Health
+
+Bethesda, MD  20892
+
+
+Phone: 301-402-1497
+
+=46ax: 301-594-5274
+
+brauna@nidcd.nih.gov

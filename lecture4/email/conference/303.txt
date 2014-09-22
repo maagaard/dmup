@@ -1,0 +1,135 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Sep 16 13:04:08 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA28723;
+	Thu, 16 Sep 1999 13:04:03 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02085;
+          15 Sep 99 21:12 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02070;
+          15 Sep 99 20:57 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00537;
+          15 Sep 99 20:57 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27448; 15 Sep 99 16:53 EDT
+Received: from MACLENNAN.CS.UTK.EDU by edrc.cmu.edu id aa01569;
+          15 Sep 99 16:51 EDT
+Received: from cs.utk.edu (localhost [127.0.0.1])
+	by maclennan.cs.utk.edu (cf v3.2) with ESMTP id QAA07609
+	for <connectionists@cs.cmu.edu>; Wed, 15 Sep 1999 16:51:08 -0400 (EDT)
+Message-Id: <199909152051.QAA07609@maclennan.cs.utk.edu>
+To: connectionists@cs.cmu.edu
+Subject: CFP/field computation
+Date: Wed, 15 Sep 1999 16:51:04 -0400
+From: Bruce MacLennan <mclennan@cs.utk.edu>
+Status: RO
+X-Status: 
+
+Dear Colleagues:
+
+As program co-chair of 4th International Conference on COMPUTATIONAL
+INTELLIGENCE AND NEUROSCIENCE (Atlantic City, February 27 - March 3,
+2000), I am organizing a special session on FIELD COMPUTATION
+(continuum-limit neural computation).  (The general conference Call for
+Papers is attached.)  A number of groups are now working in this area,
+and the time is ripe to gather in one place and compare results.
+
+If you have been working in this area, I hope you will consider
+submitting a paper to this session.  Although the conference CFP lists
+Sep 1 as the deadline for receipt of summaries, we will continue to
+receive them for this special session through Sep 30.  However, if you
+are interested in participating but cannot meet this deadline, please
+let me know and I'll see what we can arrange.
+
+Best wishes and thank you,
+Bruce MacLennan
+
+Department of Computer Science
+The University of Tennessee
+Knoxville, TN 37996-1301
+
+PHONE: (423)974-5067
+FAX:   (423)974-4404
+EMAIL: maclennan@cs.utk.edu
+URL:   http://www.cs.utk.edu/~mclennan    [sic]
+
+=====================================================================
+
+			   Call for Papers
+
+		   4th International Conference on
+
+	     COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+		   http://www.csci.csusb.edu/iccin
+
+
+      Trump Taj Mahal Casino and Resort]], Atlantic City, NJ USA
+		     February 27 -- March 3, 2000
+
+	    Summary Submission Deadline: September 1, 1999
+
+
+			Conference Co-chairs:
+
+	      Subhash C. Kak, Louisiana State University
+		Jeffrey P. Sutton, Harvard University
+
+This conference is part of the Fourth Joint Conference Information Sciences.
+		     http://www.ee.duke.edu/JCIS/
+
+***Added plenary speakers***: Marvin Minsky and Brian Josephson
+
+Plenary Speakers include the following:
+
++------------------------------------------------------------------------+
+|James Anderson   |Wolfgang Banzhaf  |B. Chandrasekaran|Lawrence J. Fogel|
+|-----------------+------------------+-----------------+-----------------|
+|Walter J. Freeman|David E. Goldberg |Irwin Goodman    |Stephen Grossberg|
+|-----------------+------------------+-----------------+-----------------|
+|Thomas S.Huang   |Janusz Kacprzyk   |A. C. Kak        |Subhash C. Kak   |
+|-----------------+------------------+-----------------+-----------------|
+|John Mordeson    |Kumpati S. Narenda|Anil Nerode      |Huang T. Nguyen  |
+|-----------------+------------------+-----------------+-----------------|
+|Jeffrey P. Sutton|Ron Yager         |                 |                 |
++------------------------------------------------------------------------+
+
+Areas for which papers are sought include:
+
+	o Artificial Life
+	o Artificially Intelligent NNs
+	o Associative Memory
+	o Cognitive Science
+	o Computational Intelligence
+	o DNA Computing
+	o Efficiency/Robustness Comparisons
+	o Evaluationary Computation for Neural Networks
+	o Feature Extraction & Pattern Recognition
+	o Implementations (electronic, Optical, Biochips)
+	o Intelligent Control
+	o Learning and Memory
+	o Neural Network Architectures
+	o Neurocognition
+	o Neurodynamics
+	o Optimization
+	o Parallel Computer Applications
+	o Theory of Evolutionary Computation
+
+
+Summary Submission Deadline: September 1, 1999
+
+Notification of authors upon review: November 1, 1999
+
+December 1, 1999 - Deadline for invited sessions and exhibition proposals
+
+Papers will be accepted based on summaries. A summary shall not exceed 4 pages
+of 10-point font, double-column, single-spaced text, with figures and tables
+included.
+
+For the Fourth ICCIN, send 3 copies of summaries to:
+
+George M. Georgiou
+Computer Science Department
+California State University
+San Bernardino, CA 92407-2397
+U.S.A.
+georgiou@csci.csusb.edu
+

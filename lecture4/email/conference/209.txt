@@ -1,0 +1,309 @@
+
+
+From pascal@icsc.ab.ca  Tue Feb  2 04:01:44 1999
+Received: from bernie.compusmart.ab.ca (bernie.compusmart.ab.ca [199.185.131.34])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id EAA27600
+	for <fnielsen@ei.dtu.dk>; Tue, 2 Feb 1999 04:01:42 +0100 (MET)
+Received: from remote486.compusmart.ab.ca ([206.75.85.205]:1045 "HELO user920.kel1volnet5.net") by mail.compusmart.ab.ca with SMTP id <31243-418>; Mon, 1 Feb 1999 19:51:33 -0700
+To: flynn@umunhum.stanford.edu
+From: pascal@icsc.ab.ca
+Subject: WMC'99 World Manufacturing Congress
+Reply-To: pascal@icsc.ab.ca
+Message-Id: <19990202025139Z31243-418+68688@mail.compusmart.ab.ca>
+Date: 	Mon, 1 Feb 1999 19:51:33 -0700
+Status: RO
+X-Status: 
+
+CALL FOR PAPERS / EXTENDED SUBMISSION DEADLINE: FEBRUARY 15, 1999
+
+We try to avoid duplicated mailings and apologize if they do occur. 
+
+
+SECOND WORLD MANUFACTURING CONGRESS (WMC'99)
+http//www.icsc.ab.ca/wmc99.htm
+
+September 27-30, 1999
+at the Universities at Sunderland and Durham, U.K.
+
+WMC'99 is organized in conjunction with the
+NORTHERN MANUFACTURING EXHIBITION 1999
+
+**************************************
+
+
+EXTENDED SUBMISSION DEADLINE
+
+Extended Abstracts should be sent to
+<operating@icsc.ab.ca>
+by February 15, 1999
+
+**************************************
+
+
+SPONSORS
+
+University of Sunderland, U.K.
+University of Durham, U.K.
+University of Newcastle-upon Tyne, U.K.
+IEEE - Institute of Electrical and Electronics Engineers
+IEEE - Communications Society
+IEE - Institution of Electrical Engineers
+IMechE - Institution of Mechanical Engineers
+ICSC - International Computer Science Conventions
+City of Newcastle
+
+**************************************
+
+
+PURPOSE OF THE CONGRESS
+
+Manufacturing for the Millennium The emphasis of this congress is on bringing researchers and industry closer together and endeavor to highlight the importance of both theoretical and applied research in the light of new shifts in the global economy. The continuous exchange of  scientific and technical information is of particular importance in a time of worldwide challenges in the  manufacturing industry. The impact of other rapidly changing industries such as microelectronics, automation, computer/information engineering and environmental protection is evolving new philosophies in manufacturing. The congress, to be held every second year, is meant to be a forum for academia and industry for research and the transfer of research to practice. The previous congress held in New Zealand (WMC'97) attracted participants from 35 countries around the world.
+
+The following symposia form part of WMC'99
+- ISMS'99 International Symposium on Manufacturing Systems
+- ISMT'99 International Symposium on Manufacturing Technology
+- ISMM'99 International Symposium on Manufacturing Management
+
+**************************************
+
+
+INTERNATIONAL SYMPOSIUM ON MANUFACTURING SYSTEMS (ISMS'99)
+
+- Artificial Intelligence in Manufacturing 
+- Concurrent and Simultaneous Engineering
+- Data Capture Automation
+- Database Technology
+- Decision Support Tools
+- Electronic Data Interchange (EDI)
+- Financial Aspects of Manufacturing
+- Intelligence in Manufacturing Systems (Neural Nets, Knowledge-based Systems, etc.)
+- IT and Communications in Manufacturing
+- Manufacturing Control
+- Manufacturing Organization
+- Manufacturing Planning
+- Modeling and Simulation
+- Multimedia Applications
+- Research Directions for Manufacturing Systems
+- Virtual Enterprise
+- Virtual Reality in Manufacturing (simulation, VRML, etc.)
+
+**************************************
+
+
+INTERNATIONAL SYMPOSIUM ON MANUFACTURING TECHNOLOGY (ISMT'99)
+
+- Advanced Manufacturing Processes
+- Aerospace Manufacturing
+- Automation in Agriculture
+- Clean Manufacturing
+- Collaborative and Distributed Design
+- Computer Aided Design
+- Computer Aided Manufacture
+- Construction as a Manufacturing Process
+- Design of Manufacture and Assembly
+- Electronics Manufacture
+- Forming of Engineering Materials
+- Industrial Automation
+- Industrial Laboratory Automation
+- Intelligent Automation and Soft Computing
+- Intelligent Manufacturing
+- Manufacturing Process Control
+- Materials in Manufacturing (metals, ceramics, polymers, plastic, leather, composites, etc.)
+- Measurement and Control
+- Mechatronics
+- Micro and Nano Scale Manufacturing (MEMS)
+- Packaging Technologies
+- Process Automation
+- Rapid Prototyping
+- Research Directions for Manufacturing Technology
+- Robotics
+- Special Cutting Processes
+- Technology for Integrating Manufacturing Software Applications
+
+**************************************
+
+
+INTERNATIONAL SYMPOSIUM ON MANUFACTURING MANAGEMENT (ISMM'99)
+
+- Benchmarking
+- Business Process Re-Engineering
+- Co-operative Manufacturing
+- Education and Training
+- Global Product Strategies
+- Human Factors in Manufacturing
+- Information Management
+- International Technology Transfer
+- Lean Manufacture
+- Logistics
+- Manufacturing Re-design
+- Operation Strategies
+- Product Design
+- Product Innovation
+- Production Performance Matrics
+- Quality (including Statistical Process Control SPC)
+- Research Directions for Manufacturing Management
+- Supplier Development
+- World Class Manufacturing
+
+**************************************
+
+
+SCIENTIFIC PROGRAM
+
+WMC'99 will include invited plenary talks, academic and industrial workshops, contributed and invited sessions, tutorials and industrial visits. 
+
+**************************************
+
+
+EXHIBITION
+
+The Northern Manufacturing Exhibition at Telewest Arena in Newcastle-upon-Tyne runs in conjunction with WMC'99 and is accessible for the congress participants.
+
+**************************************
+
+
+
+PUBLICATION OF PAPERS
+
+Proceedings will be available at the congress in print and on CD-ROM. Selected papers will be considered for publication in leading international journals, including IMechE Proceedings Parts B and I Journal of Engineering Manufacture and Journal of Systems Control Engineering.
+
+**************************************
+
+
+CONGRESS LOCATION
+
+WMC'99 will be held at the University of Durham, U.K., the third oldest and one of the most prestigious universities in England.
+
+Travelling to Durham is easy. As a key business centre at the heart of the North East of England, it offers excellent links by road, rail, sea and air with the U.K., Europe and beyond.
+
+**************************************
+
+
+ACCOMMODATION AND SOCIAL ACTIVITIES
+
+On-site accommodation with private facilities, as well as standard student bedrooms will be available for the delegates at very reasonable rates.
+
+Social activities form part of the congress and will also be available for accompanying persons.
+
+**************************************
+
+
+CONGRESS ORGANIZATION
+
+WMC'99
+General Chair Dr. Mozafar Saadat, U.K.
+General Co-Chair Prof. Paul M. Braiden, U.K.
+Steering Committee Chair Prof. Saeid Nahavandi, Australia
+
+ISMS'99 
+Symposium Chair Prof. Guy Johnson, USA
+Program Chair Prof. Paul M. Braiden, U.K.
+
+ISMT'99
+Symposium Chair Prof. Hiroshi Makino, Japan
+Program Chair Prof. Ernie Appleton, U.K.
+
+ISMM'99
+Symposium Chair Prof. Mike Gregory, U.K.
+Program Chair Prof. Dennis Wilcock, U.K.
+
+WMC'99 CONGRESS ORGANIZER
+ICSC International Computer Science Conventions
+P.O. Box 279, Millet AB T0C 1Z0, Canada
+Email operating@icsc.ab.ca
+URL http//www.icsc.ab.ca
+Fax +1-780-387-4329
+Phone +1-780-387-3546
+
+INTERNATIONAL STEERING COMMITTEE
+L.Alting, Denmark / R.Benson, UK / B.Bergman, Sweden / P.Braiden, UK / C.Ferguson, Australia / S.Fujii, Japan / T.Fukuda, Japan / M.Gregory, UK / J.R. Hewit, UK / M.Jamshidi, USA / G.Johnson, USA / W.Khalil, France / M.Mansour, Switzerland / C.McLean, USA / J.Mo, Australia / W.Monteith, New Zealand / S.Nahavandi, Australia (Chair) / L.Nemes, Australia / C.Nguyen, USA / S.Pires, Brazil / M. Saadat, UK / P.Schenker, USA / T.J.Tarn, USA / P.Taylor, UK / D.Wilcock, UK
+
+INTERNATIONAL TECHNICAL COMMITTEE
+H.Abachi, Australia / M.Abdollahian, Australia / A.Adlemo, Sweden / L.Aguilera, Brazil / M.Ang, Singapore / D. Barnes, New Zealand / H.Beigi, USA / B.Benhabib, Canada / J.Billingsley, Australia / J.Cernetic, Slovenia / T. Chandra, Australia / H.Cho, Korea / A.Goldenberg, Canada / P.Khosla, USA / T.King, UK / A.K.Kochhar, UK / H.Koivo, Finland / R.Kress, USA / R.Lashkari, Canada / V. Lumelsky, USA / K.Maani, New Zealand / A.Maciejewski, USA / C.Maynard, Australia / A.Meghdari, Iran / A.Misra, USA / P.Moore, UK / F.Naghdy, Australia / S.Nahavandi, Australia / P.O'Grady, USA / M.Papageorgiou, Greece / C.Preece, UK / M. Saadat, UK (Chair) / M.Sarhadi, UK / B.Siciliano, Italy / R.Skelton, USA / D. Smith, New Zealand / T.Sobh, USA / D.Tedford, New Zealand / K. Valavanis, USA / A.Villa, Italy / Z.Vukic, Croatia / I.Walker, USA / D.Wilcock, UK / Y.Wong, Singapore / G.Yen, USA
+
+**************************************
+
+
+CALL FOR PAPERS
+
+Prospective authors are requested to send an extended abstract (or a draft paper of maximum 7 pages) for review by the International Technical Committee. All submissions must be written in English, starting with a succinct statement of the problem, the results achieved, their significance and a comparison with previous work, as well as a list of references.
+
+The submissions should also include 
+- Title of symposium (ISMS'99, ISMT'99 or ISMM'99)
+- Type of paper (regular, demonstration, tutorial or invited)
+- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+- Short c.v. of authors (recommended)
+
+Contributions are welcome from researchers, academics and industrialists active in any field of manufacturing covered by the topics of the congress. Congress language is English. Invited sessions, tutorial papers and demonstrations are also encouraged. Prospective organizers are requested to submit a session proposal to the congress organizer.
+
+**************************************
+
+
+SUBMISSION OF PAPERS
+
+The deadline for submissions has been extended to February 15, 1999.
+Extended abstracts should be sent either by
+
+Electronic mail (recommended) to
+operating@icsc.ab.ca
+(Text, PostScript or Word files)
+
+Fax to ICSC Canada
++1-780-387-4329
+
+Airmail or courier (2 copies) to
+ICSC Canada
+P.O. Box 279
+Millet, AB T0C 1Z0
+Canada
+
+**************************************
+
+
+IMPORTANT DATES
+
+It is the intention of the organizers to have the congress proceedings available for the delegates. Consequently, the deadlines below are to be strictly respected
+
+- Extended Submission Deadline February 15, 1999
+- Notification of Acceptance March 31, 1999
+- Delivery of Full Papers May 15, 1999
+- WMC'99 congress September 27-30, 1999
+
+**************************************
+
+
+WMC'99 WEB SITE
+
+Full updated information is always available from
+
+http//www.icsc.ab.ca/wmc99.htm
+
+**************************************
+
+
+
+FURTHER INFORMATION
+
+For further information please contact
+
+ICSC International Computer Science Conventions
+P.O. Box 279, Millet AB T0C 1Z0, Canada
+Email operating@icsc.ab.ca
+Fax +1-780-387-4329
+Phone +1-780-387-3546
+
+or
+
+Dr. Mozafar Saadat, General Chair WMC'99
+School of Engineering and Advanced Technology
+University of Sunderland
+Edinburgh Building, Chester Road, Sunderland SR1 3SD / U.K.
+Email mozafar.saadat@sunderland.ac.uk
+Fax +44-191-515-2703
+Phone +44-191-515-2867
+
+************************************** 

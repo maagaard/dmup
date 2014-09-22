@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon May  3 06:48:36 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA08379;
+	Mon, 3 May 1999 06:48:29 +0200 (METDST)
+Received: by mlist-1.sp.cs.cmu.edu id aa24894; 2 May 99 21:01 EDT
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24323;
+          2 May 99 16:11 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24321;
+          2 May 99 15:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa21491;
+          2 May 99 15:58 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa06401; 30 Apr 99 21:27 EDT
+Received: from ENGA.BU.EDU by RI.CMU.EDU id aa07400; 30 Apr 99 21:27:08 EDT
+Received: from [128.197.51.41] (CORTEX.BU.EDU [128.197.51.41])
+ by enga.bu.edu (PMDF V5.2-31 #31340)
+ with ESMTP id <01JANQ5NDSQU000DKL@enga.bu.edu> for connectionists@cs.cmu.edu;
+ Fri, 30 Apr 1999 21:26:56 EDT
+Date: Fri, 30 Apr 1999 20:28:50 -0400
+From: "Lucia M. Vaina" <vaina@enga.bu.edu>
+Subject: Postion in computational fMRI in Brain and Vision Research Lab-BU
+X-Sender: vaina@enga.bu.edu
+To: connectionists@cs.cmu.edu
+Message-id: <v04003a02b34ffafba47f@[128.197.51.41]>
+MIME-version: 1.0
+Content-type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+Computational fMRI, graphics algorithms, and image processing.
+
+Full time position in Brain and Vision Research Laboratory, Boston University
+
+This  exciting new venture in the Brain and Vision Research Laboratory at
+Boston University, Department of Biomedical Engineering involves
+visualisation the working (plasticity and restorative plasticity) of the
+human brain  during sensory-motor tasks.
+
+Specifically, the postholder will:
+
+
+   *  explore the uses of real-time and near-real-time analysis
+>techniques in fMRI studies by applying several existing data abalysis
+>packages for fMRI.
+
+* model the  changes of functional connectivity of brain activations
+using  structural equations models and functional connectivity models.
+
+   * develop and implement  motion correction algorithms, elastic matching
+algorithms.
+
+Candidates should  have at least an MS in Electrical Engineering, Computer
+Science, Physics or Mathematics. Good communication and interpersonal
+skills, excellent background in C programming and should be familiar with
+the Unix environment.  Good knowledge of college level mathematics (linear
+algebra,partial differential equatuions, statistics and probability),signal
+processing. Knowledge of computer graphics algorithms is a plus.
+Familiarity with Sun, or SGI platforms and PC
+is very desirable.
+
+Please send a letter of application along with CV, publication list if
+available, brief  statement of current research and background, and two
+letters of recommendation  to
+
+Professor Lucia M. Vaina
+Brain and Vision Research Laboratory
+Biomedical Engineering Department
+College of Engineering
+Boston University
+44 Cummington str
+Boston, Ma 02115
+USA
+fax: 617-353-6766
+(Please note that I will away between May 7-15).
+
+
+
+Lucia M. Vaina  Ph.D., D.Sc.
+Professor of Biomedical Engineering and Neurology
+
+Brain and Vision Research Laboratory
+Boston University, Department of Biomedical Engineering
+College of Engineering
+44 Cummington str, Room 315
+Boston University
+Boston, Ma 02215
+USA
+
+tel: 617-353-2455
+fax: 617-353-6766
+
+

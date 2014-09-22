@@ -1,0 +1,135 @@
+
+
+From owner-dspstaff@eivind.imm.dtu.dk  Thu Feb 11 10:51:59 1999
+Received: (from majordom@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id KAA08376
+	for dspstaff-list; Thu, 11 Feb 1999 10:51:51 +0100 (MET)
+X-Authentication-Warning: eivind.imm.dtu.dk: majordom set sender to owner-dspstaff@eivind.imm.dtu.dk using -f
+Received: from localhost (cg@localhost)
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA08372
+	for <dspstaff@eivind.imm.dtu.dk>; Thu, 11 Feb 1999 10:51:48 +0100 (MET)
+Date: Thu, 11 Feb 1999 10:51:48 +0100 (MET)
+From: Cyril Goutte <cg@eivind.imm.dtu.dk>
+To: dspstaff@eivind.imm.dtu.dk
+Subject: CFP PKDD Prague
+Message-ID: <Pine.HPP.3.96.990211105106.15813X-100000@eivind.imm.dtu.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-dspstaff@eivind.imm.dtu.dk
+Precedence: bulk
+Reply-To: dspstaff@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+
+
+========================================================
+                  CALL FOR PAPERS
+
+                            3rd EUROPEAN CONFERENCE
+                      ON PRINCIPLES AND PRACTICE OF
+                   KNOWLEDGE DISCOVERY IN DATABASES
+                      PRAGUE, September 15-18, 1999
+                         http://lisp.vse.cz/pkdd99/
+
+
+ABOUT PKDD'99
+
+Data Mining and Knowledge Discovery in Databases (KDD) have emerged 
+from a combination of many research areas: databases, statistics, 
+machine learning, automated scientific discovery, inductive logic 
+programming, artificial intelligence, visualization, decision 
+science, and high performance computing. While each of these areas 
+can contribute in specific ways, KDD focuses on the value that is 
+added by creative combination of the contributing areas. The goal of 
+PKDD '99 is to provide a European- based forum for interaction among 
+all theoreticians and practitioners interested in data mining. 
+Interdisciplinary collaboration is one desired outcome, but the main 
+long-term focus is on theoretical principles for the emerging 
+discipline of KDD and on practical applications of discovery systems 
+that are built on those principles. We seek the KDD-specific 
+principles that go beyond each contributing area. We seek a new 
+generation of applications that go beyond applications developed in 
+each contributing area.
+
+LOCATION
+
+PKDD'99 will take place in Prague, Czech Republic, at the campus of 
+the University of Economics, 15 minutes walking distance from the 
+historical center of Prague.
+
+
+TOPICS OF INTEREST
+
+ - Data and knowledge representation for data mining
+ - Statistics and probability in data mining
+ - Logic-based perspective on data mining
+ - Data warehousing and knowledge discovery
+ - Man-Machine interaction in data mining
+ - Artificial Intelligence contributions to KDD
+ - High performance computing for data mining
+ - Machine learning and automated scientific discovery
+ - Quality assessment of data mining results
+ - Applications of data mining and knowledge discovery
+ - KDD process
+
+
+PROGRAM
+
+ - invited talks by KDD leaders and experts
+ - oral and poster presentations of innovative research papers
+ - software demonstrations
+ - panel discussions
+ - discovery challenge
+ - tutorials
+
+
+PROGRAM CHAIRS
+
+Jan Zytkow 
+Univ. of North Carolina, 
+Charlotte 
+e-mail: zytkow@uncc.edu 
+
+Jan Rauch
+University of Economics, 
+Prague
+e-mail: rauch@vse.cz
+
+
+SUBMISSION OF PAPERS
+
+Submitted papers should be in English and not exceed 10 single-spaced 
+pages of 12pt font (excluding title page but including tables, 
+figures and bibliography). A separate title page should begin with 
+title, authors, affiliations, surface and e-mail addresses, and an 
+abstract of about 200 words. LaTeX and Word style files are available 
+at http://lisp.vse.cz/pkdd99/styles. The title page must be submitted
+electronically in ASCII by May 1. An electronic version of the paper
+must be submitted by May 4th, 1999. Electronic submission can be done
+using e-mail to pkdd99@lisp.vse.cz (uuencoded and compressed 
+PostScript) or using the form on the PKDD99 web page (PostScript). 
+Four hard copies of the paper by regular mail are also accepted if 
+electronic submission is not possible. All items should be sent to 
+the following addresses:  
+
+Regular mail: 
+Jan Rauch
+University of Economics,
+W. Churchill Sq. 4,
+130 67 Prague, Czech  Republic
+e-mail: pkdd99@lisp.vse.cz
+
+
+IMPORTANT DATES
+
+Tutorial proposals submission deadline: May 15th, 1999
+Panel proposals submission deadline: May 15th, 1999
+Demo proposals submission deadline: July 15th, 1999
+Discovery Challenge papers submission: July 1st, 1999
+
+Abstract submission deadline: May 1st, 1999
+Papers submission deadline:   May 4th, 1999
+Notification of acceptance: June 4th, 1999
+Camera ready papers: June 30th, 1999
+

@@ -1,0 +1,54 @@
+
+
+From spm-request@mailbase.ac.uk Fri Jun 25 00:29:58 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id AAA05323
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 25 Jun 1999 00:29:55 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id XAA10696;
+	Thu, 24 Jun 1999 23:26:01 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id XAA12377;
+        Thu, 24 Jun 1999 23:15:58 +0100 (BST)
+Received: from post-ofc06.srv.cis.pitt.edu (root@post-ofc06.srv.cis.pitt.edu [136.142.185.43]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id XAA12369;
+        Thu, 24 Jun 1999 23:15:54 +0100 (BST)
+Received: from soaresjc-96.wpic.pitt.edu (ehdup-u-88.rmt.net.pitt.edu [136.142.23.198])
+          by post-ofc06.srv.cis.pitt.edu with ESMTP (8.8.8/8.8.8/cispo-7.2.2.2)
+          ID <SAA27504@post-ofc06.srv.cis.pitt.edu> for <spm@mailbase.ac.uk>;
+          Thu, 24 Jun 1999 18:15:42 -0400 (EDT)
+Message-Id: <199906242215.SAA27504@post-ofc06.srv.cis.pitt.edu>
+Date: Thu, 24 Jun 1999 17:55:35 -0400
+X-MSMail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1161
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Subject: research assistant position
+From: "Jair Soares, M.D." <soares@pop.pitt.edu>
+To: <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Jair Soares, M.D." <soares@pop.pitt.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+RESEARCH ASSISTANT - NEUROIMAGING RESEARCH
+
+There is an opening for a full-time research assistant at the Neurochemical
+Brain Imaging Laboratory, Western Psychiatric Institute and Clinic,
+University of Pittsburgh Medical Center.  The candidate should have strong
+computer skills, and ability to manage a lab computer network.  Knowledge
+of Unix language and experience with image analysis softwares are highly
+desirable.  The work will include analysis of brain imaging data, including
+PET, MRS, and MRI data.  Additional information can be obtained by
+contacting Dr. Jair C. Soares, assistant professor of psychiatry, at email:
+soares+@pitt.edu, or by calling 412-6243282.  Resumes can be faxed to
+412-4883461.
+

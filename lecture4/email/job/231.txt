@@ -1,0 +1,70 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sun Nov 21 04:21:23 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id EAA17518;
+	Sun, 21 Nov 1999 04:21:19 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab13541;
+          20 Nov 99 20:23 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab13528;
+          20 Nov 99 20:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05812;
+          20 Nov 99 20:09 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28502; 20 Nov 99 17:09 EST
+Received: from schilling.ucdavis.edu by cs.cmu.edu id aa23885;
+          20 Nov 99 17:09 EST
+Received: from palm.ucdavis.edu (palm.ucdavis.edu [128.120.137.12])
+	by schilling.ucdavis.edu (8.9.3/UCD3.13.13) with ESMTP id OAA01844
+	for <connectionists@cs.cmu.edu>; Sat, 20 Nov 1999 14:09:18 -0800 (PST)
+Received: from ucdavis.edu (localhost.ucdavis.edu [127.0.0.1])
+	by palm.ucdavis.edu (8.9.3/8.9.3/UCD4.0.3) with ESMTP id OAA15797
+	for <connectionists@cs.cmu.edu>; Sat, 20 Nov 1999 14:09:10 -0800 (PST)
+Sender: bruno@palm.ucdavis.edu
+Message-ID: <38371C06.F225F9D8@ucdavis.edu>
+Date: Sat, 20 Nov 1999 14:09:10 -0800
+From: Bruno Olshausen <baolshausen@ucdavis.edu>
+Organization: Center for Neuroscience, UC Davis
+X-Mailer: Mozilla 4.51C-SGI [en] (X11; I; IRIX 6.5 IP32)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Faculty position in cognitive neuroscience - UC Davis
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+
+           FACULTY POSITION IN COGNITIVE NEUROSCIENCE
+                             UC DAVIS
+
+
+The Center for Neuroscience and the Department of Psychology at the
+University of California, Davis, invite applications for a Cognitive
+Neuroscientist at the assistant, associate or full professor level to
+begin July 1, 2000.  Specialization within the area of cognitive
+neuroscience is open, however, we are particularly interested in
+faculty who work on some aspect of human neurophysiology and can
+utilize newly established functional brain imaging facilities.  Those
+who apply computational modeling approaches toward understanding
+cognitive aspects of brain function are also encouraged to apply.
+Applicants are expected to demonstrate leadership in their research
+specialty, ability to obtain extramural funds, and ability to teach
+cognitive neuroscience courses at both graduate and undergraduate
+levels.  Candidates must possess a Ph.D. degree.  The Center for
+Neuroscience is in the midst of rapid growth, and the successful
+applicant will have the opportunity to participate in the recruitment
+of additional positions in cognitive neuroscience.
+
+The University of California, Davis, is an affirmative action/equal
+opportunity employer with a strong institutional commitment to the
+development of a climate that supports equality of opportunity and
+respect for differences. Applicants should send a letter describing
+research and teaching interests, a curriculum vitae, copies of
+representative publications, and at least five letters of
+recommendation to: Edward G. Jones, Director, Center for Neuroscience,
+1544 Newton Court, University of California, Davis, CA,
+95616-8686. All materials must be received by February 1, 2000, to be
+assured consideration. The search will continue until this position is
+filled. The University of California is an Equal Opportunity Employer.

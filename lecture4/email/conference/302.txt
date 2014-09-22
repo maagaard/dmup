@@ -1,0 +1,60 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Sep 16 05:00:18 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id FAA24120;
+	Thu, 16 Sep 1999 05:00:12 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02068;
+          15 Sep 99 21:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02065;
+          15 Sep 99 20:57 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00532;
+          15 Sep 99 20:57 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa22275; 15 Sep 99 12:49 EDT
+Received: from [209.25.80.3] by RI.CMU.EDU id aa26354; 15 Sep 99 12:47:13 EDT
+Received: by exchange.artificial-life.com with Internet Mail Service (5.5.2448.0)
+	id <S8FD69N1>; Wed, 15 Sep 1999 12:46:22 -0400
+Message-ID: <BF8171546BB5D211A10600805FC7D71C14D7E3@exchange.artificial-life.com>
+From: Paolo Gaudiano <Paolo.Gaudiano@artificial-life.com>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>,
+        "'neuron@cattell.psych.upenn.edu'" <neuron@cattell.psych.upenn.edu>,
+        "'reinforce@cs.uwa.edu.au'" <reinforce@cs.uwa.edu.au>
+Cc: "'avatars@ccon.org'" <avatars@ccon.org>,
+        "'neuro-announce-l@bu.edu'" <neuro-announce-l@bu.edu>,
+        "'cns-announce@cns.bu.edu'" <cns-announce@cns.bu.edu>,
+        "'ai-seminar@ai.mit.edu'" <ai-seminar@ai.mit.edu>,
+        "'all-ai@ai.mit.edu'" <all-ai@ai.mit.edu>
+Subject: FINAL CALL FOR PARTICIPATION in BOSTON, October 3-6
+Date: Wed, 15 Sep 1999 12:46:21 -0400
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Status: RO
+X-Status: 
+
+
+FINAL ANNOUNCEMENT: UI-CANCS'99 to take place in Boston on October 3-6.
+
+[You will likely receive multiple copies of this. That's because this
+is such a great conference at such a low price that we think everyone
+should know about it before it's too late :-). Sorry about the clutter.]
+
+What: USA-Italy Conference on Applied Neural and Cognitive Sciences
+When: October 3-6, 1999
+Where: Boston University Sherman Union, 775 Commonwealth Ave, Boston.
+Web: www.usa-italy.org
+
+Come hear outstanding members of industry and academia discuss
+state-of-the-art research and applications in intelligent agents,
+robotics, smart sensors, artificial intelligence, biomedical
+engineering and other cutting-edge technologies.
+
+Thanks to the generous support of Artificial Life, Inc. and of the
+Italian Ministry of Foreign Affairs, we are able to offer extremely
+low registration rates---even including meals and a tour of local area
+labs (space limited).
+
+Please visit our web site to see the exciting line-up we have planned
+and for additional details. If you have any questions please send
+e-mail to <info@usa-italy.org>.

@@ -1,0 +1,117 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Nov 18 15:56:58 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id PAA25709;
+	Wed, 18 Nov 1998 15:56:52 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05378;
+          18 Nov 98 4:50 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05347;
+          18 Nov 98 4:41 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12662;
+          18 Nov 98 4:41 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa22594;
+          18 Nov 98 4:29 EST
+Received: from localhost by skinner.boltz.cs.cmu.edu id aa12552;
+          18 Nov 98 4:28 EST
+Subject: Graduate training in the Neural Basis of Cognition
+From: Dave_Touretzky@cs.cmu.edu
+To: connectionists@cs.cmu.edu, comp-neuro@bbb.caltech.edu,
+        cogpsy@neuro.ecs.soton.ac.uk
+Date: Wed, 18 Nov 1998 04:28:36 -0500
+Message-ID: <12550.911381316@skinner.boltz.cs.cmu.edu>
+Sender: Dave_Touretzky@skinner.boltz.cs.cmu.edu
+Status: RO
+X-Status: 
+
+
+			Graduate Training with the
+		 Center for the Neural Basis of Cognition
+
+The Center for the Neural Basis of Cognition offers an
+interdisciplinary doctoral training program operated jointly with nine
+affiliated PhD programs at Carnegie Mellon University and the
+University of Pittsburgh.  Detailed information about this program is
+available on our web site at http://www.cnbc.cmu.edu.
+
+The Center is dedicated to the study of the neural basis of cognitive
+processes including learning and memory, language and thought,
+perception, attention, and planning; to the study of the development
+of the neural substrate of these processes; to the study of disorders
+of these processes and their underlying neuropathology; and to the
+promotion of applications of the results of these studies to
+artificial intelligence, robotics, and medicine.
+
+CNBC students have access to some of the finest facilities for
+cognitive neuroscience research in the world: Magnetic Resonance
+Imaging (MRI) and Positron Emission Tomography (PET) scanners for
+functional brain imaging, neurophysiology laboratories for recording
+from brain slices and from anesthetized or awake, behaving animals,
+electron and confocal microscopes for structural imaging, high
+performance computing facilities including an in-house supercomputer
+for neural modeling and image analysis, and patient populations for
+neuropsychological studies.
+
+Students are admitted jointly to a home department and the CNBC
+Training Program.  Applications are encouraged from students with
+interests in biology, neuroscience, psychology, engineering, physics,
+mathematics, computer science, or robotics.  For a brochure describing
+the program and application materials, contact us at the following
+address:
+  Center for the Neural Basis of Cognition
+  115 Mellon Institute
+  4400 Fifth Avenue
+  Pittsburgh, PA 15213
+  Tel. (412) 268-4000.  Fax: (412) 268-5060
+  email: cnbc-admissions@cnbc.cmu.edu
+
+Application materials are also available online.
+
+The affiliated PhD programs at the two universities are:
+
+    Carnegie Mellon		University of Pittsburgh
+      Biological Sciences         Mathematics
+      Computer Science	          Neurobiology
+      Psychology                  Neuroscience
+      Robotics                    Psychology
+      Statistics
+
+The CNBC training faculty includes:
+
+German Barrionuevo (Pitt Neuroscience):  LTP in hippocampal slice
+Marlene Behrmann (CMU Psychology): spatial representations in parietal cortex
+Pat Carpenter (CMU Psychology): mental imagery, language, and problem solving
+B.J. Casey (Pitt Psychology): attention; developmental cognitive neuroscience
+Carson Chow (Pitt Mathematics): spatiotemporal dynamics in neural networks
+Carol Colby (Pitt Neuroscience): spatial reps. in primate parietal cortex
+Steve DeKosky (Pitt Neurobiology): neurodegenerative human disease
+William Eddy (CMU Statistics): analysis of fMRI data
+Bard Ermentrout (Pitt Mathematics): oscillations in neural systems
+Julie Fiez (Pitt Psychology): fMRI studies of language
+Chris Genovese (CMU Statistics): making inferences from scientific data
+John Horn (Pitt Neurobiology): synaptic plasticity in autonomic ganglia
+Allen Humphrey (Pitt Neurobiology): motion processing in primary visual cortex
+Marcel Just (CMU Psychology): visual thinking, language comprehension
+Robert Kass (CMU Statistics): transmission of info. by collections of neurons
+Eric Klann (Pitt Neuroscience): hippocampal LTP and LTD
+Roberta Klatzky (CMU Psychology): human perception and cognition
+Richard Koerber (Pitt Neurobiology): devel. and plasticity of spinal networks
+Tai Sing Lee (CMU Comp. Sci.): primate visual cortex; computer vision
+Pat Levitt (Pitt Neurobiology): molecular basis of cortical development
+Michael Lewicki (CMU Comp. Sci.): learning and representation
+David Lewis (Pitt Neuroscience): anatomy of frontal cortex
+Brian MacWhinney (CMU Psychology): models of language acquisition
+James McClelland (CMU Psychology): connectionist models of cognition
+Paula Monaghan Nichols (Pitt Neurobiology): vertebrate CNS development
+Carl Olson (CNBC): spatial representations in primate frontal cortex
+David Plaut (CMU Psychology): connectionist models of reading
+Michael Pogue-Geile (Pitt Psychology): development of schizophrenia
+John Pollock (CMU Biological Sci.): neurodevelopment of the fly visual system
+Walter Schneider (Pitt Psych.): fMRI, models of attention & skill acquisition
+Charles Scudder (Pitt Neurobiology): motor learning in cerebellum
+Susan Sesack (Pitt Neuroscience): anatomy of the dopaminergic system
+Dan Simons (Pitt Neurobiology): sensory physiology of the cerebral cortex
+William Skaggs (Pitt Neuroscience): representations in rodent hippocampus
+David Touretzky (CMU Comp. Sci.): hippocampus, rat navigation, animal learning
+
+See http://www.cnbc.cmu.edu for further details.

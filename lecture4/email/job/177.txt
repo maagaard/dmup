@@ -1,0 +1,49 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 31 10:09:26 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id KAA15277;
+	Tue, 31 Aug 1999 10:09:16 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23655;
+          30 Aug 99 15:30 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23642;
+          30 Aug 99 15:15 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20624;
+          30 Aug 99 15:15 EDT
+Received: from TEST-HUB.FAC.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa24788;
+          30 Aug 99 11:52 EDT
+Received: from nba19.med.uth.tmc.edu by test-hub.fac.cs.cmu.edu id aa05061;
+          30 Aug 99 11:52 EDT
+Received: from nba19.med.uth.tmc.edu ([129.106.236.129])
+          by nba19.med.uth.tmc.edu (Netscape Messaging Server 3.6)
+           with ESMTP id 303; Mon, 30 Aug 1999 10:49:23 -0500
+Message-ID: <37CAA7E6.4459CBAC@nba19.med.uth.tmc.edu>
+Date: Mon, 30 Aug 1999 10:48:54 -0500
+From: James Knierim <jknierim@nba19.med.uth.tmc.edu>
+Organization: UT Houston Medical School
+Subject: postdoctoral position available
+Status: RO
+X-Status: 
+
+
+Postdoctoral position available in
+behavioral/cognitive neuroscience
+
+We use state-of the-art multi-electrode technology to record single-unit
+activity from neuronal ensembles in the hippocampus and related
+structures of freely moving animals.  Current projects include studies
+of the interactions between place cells in the hippocampus and head
+direction cells of the thalamus, and the processing of information
+through the different areas of the hippocampal formation (entorhinal
+cortex, dentate gyrus, CA fields, and subiculum).  Expertise in
+single-unit physiology, behavioral neuroscience, or computational
+neuroscience is preferred.  Please send a CV, statement of research
+interests, and references to:
+
+James J. Knierim, Ph.D.
+Department of Neurobiology and Anatomy
+University of Texas-Houston Medical School
+P.O. Box 20708
+Houston, TX 77225
+
+E0E/AA/SSP/Smoke-free Environment

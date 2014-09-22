@@ -1,0 +1,60 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Sep  1 01:30:50 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA26619;
+	Wed, 1 Sep 1999 01:30:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa26750;
+          31 Aug 99 17:10 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa26748;
+          31 Aug 99 16:59 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22247;
+          31 Aug 99 16:59 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab19010; 31 Aug 99 8:25 EDT
+Received: from pantheon-po03.its.yale.edu by RI.CMU.EDU id aa23251;
+          31 Aug 99 8:23:52 EDT
+Received: from yale.edu (net245-238.its.yale.edu [130.132.245.238])
+	by pantheon-po03.its.yale.edu (8.8.8/8.8.8) with ESMTP id IAA23589;
+	Tue, 31 Aug 1999 08:23:39 -0400 (EDT)
+Message-ID: <37CBCA07.F2E22E68@yale.edu>
+Date: Tue, 31 Aug 1999 08:26:47 -0400
+From: Ted Carnevale <ted.carnevale@yale.edu>
+Organization: Psychology Dept., Yale University
+X-Mailer: Mozilla 4.61 [en] (WinNT; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Connectionists group <connectionists@cs.cmu.edu>
+CC: Ted Carnevale <ted.carnevale@yale.edu>,
+        Michael Hines <michael.hines@yale.edu>
+Subject: SFN 1999 NEURON course
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+This year, the Society for Neuroscience meeting is earlier 
+than in 1997 or 19998, so the deadline to sign up for the 
+NEURON short course is approaching rapidly.  Seats are 
+still available, but quick action is needed to take 
+advantage of the early registration fee.
+
+Among the new features that will be covered, I should 
+mention:
+
+  The Cell Builder, which will be of particular interest 
+  to experimentalists and others whose models are closely 
+  linked to empirical observations.  The Cell Builder 
+  makes it easy to construct new models, but its greatest 
+  strength may be in the management of anatomically complex 
+  models based on quantitative morphometric data.
+
+  The Multiple Run Fitter, a powerful and flexible new tool 
+  for optimizing models with high-dimensional data sets.  
+  This tool is useful for experimentalists and theoreticians 
+  alike.
+
+Further information about the course and an electronic 
+registration form are posted at 
+  http://www.neuron.yale.edu/miami99.html
+
+--Ted

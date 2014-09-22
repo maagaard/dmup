@@ -1,0 +1,46 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Aug  4 00:58:35 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA00410;
+	Wed, 4 Aug 1999 00:58:25 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25667;
+          3 Aug 99 16:55 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25665;
+          3 Aug 99 16:46 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09058;
+          3 Aug 99 16:45 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa14657; 3 Aug 99 11:44 EDT
+Received: from [146.191.32.7] by EDRC.CMU.EDU id aa09255; 3 Aug 99 11:43:17 EDT
+Received: from Gate-Message_Server by wpmail.paisley.ac.uk
+	with Novell_GroupWise; Tue, 03 Aug 1999 16:49:32 +0000
+Message-Id: <s7a71d9c.014@wpmail.paisley.ac.uk>
+X-Mailer: Novell GroupWise 5.2
+Date: Tue, 03 Aug 1999 16:48:55 +0000
+From: Darryl Charles <char-ci0@wpmail.paisley.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Ph.D. studentship
+Mime-Version: 1.0
+Status: RO
+X-Status: 
+
+PhD studentship available in the Applied Computational Intelligence 
+Research Group at the University of Paisley, Scotland.
+
+A bursary (approx. =A35500) is available for the successful applicant who 
+will examine the positive effects of additive noise in unsupervised 
+artificial neural networks, particularly networks that have been developed 
+here at Paisley. Visual data is of particular interest in this research.
+Applicants should be suitably qualified and preferably have neural network 
+and/or vision related experience/interest.
+Supervisory team will consist of Dr. Darryl Charles (Director of studies) 
+and Prof. Colin Fyfe.
+
+Send a CV to char-ci0@paisley.ac.uk
+
+Darryl Charles
+CIS dept.
+University of Paisley
+Paisley
+Scotland
+PA1 2BE

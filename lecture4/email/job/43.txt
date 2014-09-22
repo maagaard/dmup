@@ -1,0 +1,56 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Dec 15 16:14:48 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id QAA01496;
+	Tue, 15 Dec 1998 16:14:39 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01863;
+          15 Dec 98 0:54 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01861;
+          15 Dec 98 0:48 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20021;
+          15 Dec 98 0:48 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa18110; 14 Dec 98 22:36 EST
+Received: from orvieto.CS.Berkeley.EDU by EDRC.CMU.EDU id aa01254;
+          14 Dec 98 22:36:36 EST
+Received: (from jordan@localhost)
+	by orvieto.CS.Berkeley.EDU (8.9.1/8.9.1) id TAA00633
+	for connectionists@cs.cmu.edu; Mon, 14 Dec 1998 19:35:43 -0800 (PST)
+From: Michael Jordan <jordan@CS.Berkeley.EDU>
+Message-Id: <199812150335.TAA00633@orvieto.CS.Berkeley.EDU>
+Subject: faculty position in Statistics at UC Berkeley
+To: connectionists@cs.cmu.edu
+Date: Mon, 14 Dec 1998 19:35:43 -0800 (PST)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+The enclosed announcement of a faculty position in Statistics
+at the University of California at Berkeley may be of interest
+to those of you whose research is statistics-oriented, either
+theoretical or applied.
+
+Mike Jordan
+
+----------------------------------------------------------------------------
+
+Announcement of a faculty position in the Department of Statistics
+University of California at Berkeley
+
+  Applications are invited for tenured/tenure-track rank faculty position to
+  begin 7/1/99. We will consider strong candidates in any area of
+  theoretical and applied statistics, probability, and applied probability
+  theory. The department is particularly interested in hearing from suitable
+  qualified women or members of minorities currently under-represented in
+  faculty positions. Send applications or inquiries (including resume and
+  three names of references) by 1/19/99 to: Chair, University of California,
+  Berkeley, Department of Statistics, 367 Evans Hall #3860, Berkeley, CA
+  94720-3860, Fax: (510) 642-7892; E-mail: recruit@stat.berkeley.edu. The
+  University of California is an Affirmative Action/Equal Opportunity
+  Employer.
+
+(see http://www.stat.berkeley.edu for additional information)
+

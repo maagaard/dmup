@@ -1,0 +1,51 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed May  5 13:50:16 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA11282;
+	Wed, 5 May 1999 13:50:07 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ad29140;
+          4 May 99 19:41 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ad29130;
+          4 May 99 19:24 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23372;
+          4 May 99 19:24 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab24125; 4 May 99 15:30 EDT
+Received: from avion.cs.umd.edu by EDRC.CMU.EDU id aa06761;
+          4 May 99 15:29:17 EDT
+Received: (from reggia@localhost)
+	by avion.cs.umd.edu (8.9.3/8.9.1) id PAA25542
+	for connectionists@cs.cmu.edu; Tue, 4 May 1999 15:29:16 -0400 (EDT)
+Date: Tue, 4 May 1999 15:29:16 -0400 (EDT)
+From: "James A. Reggia" <reggia@cs.umd.edu>
+Message-Id: <199905041929.PAA25542@avion.cs.umd.edu>
+To: connectionists@cs.cmu.edu
+Subject: Postdoc position, computational neurosci., language
+Status: RO
+X-Status: 
+
+
+ (The following includes computational modeling related to 
+  neuoscience of language and its disorders. Please direct
+  questions etc. to Dr. Rita Berndt as indicated below.)
+
+
+Post-doctoral Fellowship in the Cognitive Neuroscience of Language and its
+Disorders
+
+Two-year post-doctoral fellowship available  after July 1, 1999, at the
+University of Maryland School of Medicine, in Baltimore, Maryland.   
+Training opportunities will provide experience in the application of
+contemporary research methods (including computational modeling, cognitive
+neuropsychology,  event-related potentials and functional neuroimaging)  to
+the topic of normal and disordered language processing.   Applicants with
+doctoral degrees in related basic science areas (cognitive psychology,
+neuroscience, linguistics, computer  science, etc.) and clinical
+disciplines (speech/language pathology; clinical neuropsychology) are
+invited to apply.  Questions may be directed to rberndt@umaryland.edu.   To
+apply, send HARD COPIES of  C.V., names and addresses of three referees,
+and statement of research interests and career goals to: Rita S. Berndt,
+Ph.D., Department of Neurology, University of Maryland School of Medicine,
+22 South Greene Street, Baltimore, Maryland  21201.  Applications should be
+received by July 1, 1999, for full consideration.  
+  

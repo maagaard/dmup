@@ -1,0 +1,220 @@
+
+
+From spm-request@mailbase.ac.uk Fri Jun 18 10:36:18 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id KAA26513
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 18 Jun 1999 10:36:17 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id JAA14836;
+	Fri, 18 Jun 1999 09:33:10 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id JAA01581;
+        Fri, 18 Jun 1999 09:30:59 +0100 (BST)
+Received: from resu1.ulb.ac.be (resu1.ulb.ac.be [164.15.59.200]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id JAA01575;
+        Fri, 18 Jun 1999 09:30:55 +0100 (BST)
+Received: from mach.vub.ac.be (mach.ulb.ac.be [164.15.128.3]) by resu1.ulb.ac.be (8.8.8/3.12.0.ap (resu.test))
+        id KAA07407; Fri, 18 Jun 1999 10:26:29 +0200 (MET DST) for <spm@mailbase.ac.uk>
+Received: from [164.15.20.54] (lapse-mac12.ulb.ac.be [164.15.20.54]) by mach.vub.ac.be (8.8.8+Sun/%I%.1.ap (mach.test))
+        id KAA09165; Fri, 18 Jun 1999 10:27:11 +0200 (MET DST) for <spm@mailbase.ac.uk>
+X-Sender: blipschu@pop.ulb.ac.be
+Message-Id: <l03130309b38fc1981229@[164.15.20.54]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Priority: 1 (Highest)
+Date: Fri, 18 Jun 1999 10:29:00 +0100
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by naga.mailbase.ac.uk id JAA01575
+Subject: Fw: Time Magazine Poll 
+From: Brigitte Lipschutz <blipschu@ulb.ac.be>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Brigitte Lipschutz <blipschu@ulb.ac.be>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+>From: "Dr W. Lipschutz" <drwilly@skynet.be>
+>To: <m.vaneylen@ping.be>, "Linda Robert Goldberg" <fancydiam@iafrica.com>,
+>        "Laurent Lipschutz" <lipschutz.l@skynet.be>, <jajapaull@hotmail.com>,
+>        <D.Lipschutz1@student.derby.ac.uk>,
+>        "Brigitte Lipschutz" <blipschu@ulb.ac.be>,
+>        "Asher Silber" <persil@village.uunet.be>,
+>        "Apotheek Silberklank" <drug@pandora.be>
+>Subject: Fw: Time Magazine Poll (IMPORTANT)
+>Date: Thu, 17 Jun 1999 22:14:36 +0200
+>MIME-Version: 1.0
+>X-Priority: 1
+>X-MSMail-Priority: High
+>X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+>
+>
+>-----Oorspronkelijk bericht-----
+>Van: Marcel Bauer <bebe@iway.be>
+>Aan: Jack Freund <xiv@village.uunet.be>; Herman Riegelhaupt
+><riegel@iway.be>; Maurice Breit <large@pandora.be>; Scheiner J
+><Jasch@village.uunet.be>; Eric Rabino <erita@village.uunet.be>; Willy
+>Lipschuts <drwilly@skynet.be>; Daniel Fraenkel <dafra@pandora.be>; Daniel
+>Kijner <icnd7511@imaginet.fr>
+>Datum: donderdag 17 juni 1999 21:31
+>Onderwerp: Fw: Time Magazine Poll (IMPORTANT)
+>
+>
+>>
+>>-----Original Message-----
+>>From: Adler family <oly@pandora.be>
+>>To: yoni Ajdler <ajdler@glo.be>; yigal (Zermatt) <yigals@schneider.co.il>;
+>>Tomer Marx <marx@glo.be>; Steve Majercik <sissi@club.innet.be>; Solange &
+>>Georges Ingber <solange.susswein@skynet.be>; Raphael Lieber
+>><samuel.lieber@pandora.be>; Omri Golding <omriko@hotmail.com>; Oded Regev
+>><Oded.Regev@ipc.co.il>; Nelly Heller <Nelly.Heller@wanadoo.fr>; Mathieu
+>>Sommerfeld <masy@iway.be>; lior manor <lior@liormanor.co.il>; liliane et
+>>marc <seidman_marc@wanadoo.com>; Julie Aharon <way885@iway.be>; Jacqui Horn
+>><jack@innet.be>; igal bini <igi@village.uunet.be>; Hollander Charly
+>><dali@innet.be>; Henri Maneles <heman@village.uunet.be>; gerrit van
+>>caekenberghe <gerrit.van.caekenberghe@skynet.be>; Emilie Szustak
+>><szustak@glo.be>; Elad <EladBarokas@hotmail.com>; dick morel
+>><junebug1211@mail.tds.net>; Davina Bauer <bebe@iway.be>; Billy Fisher
+>><dsrb@erols.com>; Benfredj <fredjli@iway.be>; Ben Eschenaimer
+><esch@iway.be>
+>>Date: jeudi, juin 17, 1999 5:00
+>>Subject: Time Magazine Poll (IMPORTANT)
+>>
+>>
+>>>
+>>>----- Original Message -----
+>>>From: Patricia Ramet <patram@compuserve.com>
+>>>To: Adler Family <oly@pandora.be>; Gaertner <angel@Iway.Be>; José
+>>><josephramet@skynet.be>
+>>>Sent: Thursday, June 10, 1999 1:25 PM
+>>>Subject: Time Magazine Poll (IMPORTANT)
+>>>
+>>>
+>>>
+>>>
+>>>-------------Message réacheminé----------------
+>>>
+>>>Exp.: Mary Paul, INTERNET:mariana@inforamp.net
+>>>A: , patram
+>>>
+>>>Date: 5/06/99 14:01
+>>>
+>>>RE : Time Magazine Poll (IMPORTANT)
+>>>
+>>>Sender: mariana@inforamp.net
+>>>Received: from mail4.toronto.istar.net (mail4.toronto.istar.net
+>>>[209.89.75.35])
+>>>by hpamgaab.compuserve.com (8.8.8/8.8.8/HP-1.4) with ESMTP id IAA10069
+>>>for <patram@compuserve.com>; Sat, 5 Jun 1999 08:02:09 -0400 (EDT)
+>>>Received: from [137.186.224.186] (helo=MARYPAUL)
+>>>by mail4.toronto.istar.net with smtp (Exim 1.92 #2)
+>>>for patram@compuserve.com
+>>>id 10qF9L-00052A-00; Sat, 5 Jun 1999 08:02:08 -0400
+>>>Message-Id: <3.0.1.16.19990605080322.3d879cb2@inforamp.net>
+>>>X-Sender: mariana@inforamp.net
+>>>X-Mailer: Windows Eudora Light Version 3.0.1 (16)
+>>>Date: Sat, 05 Jun 1999 08:03:22
+>>>To: patram@compuserve.com
+>>>From: Mary Paul <mariana@inforamp.net>
+>>>Subject: Time Magazine Poll (IMPORTANT)
+>>>Mime-Version: 1.0
+>>>Content-Type: text/plain; charset="us-ascii"
+>>>
+>>>>X-From_: KRAllison@aol.com Fri Jun 04 09:03:58 1999
+>>>>From: KRAllison@aol.com
+>>>>Date: Fri, 4 Jun 1999 08:57:37 EDT
+>>>>Subject: Time Magazine Poll (IMPORTANT)
+>>>>To: joanandron@worldnet.att.net, RUQF51@prodigy.com,
+>>>jonbriss@ix.netcom.com,
+>>>>        judi@pop3.wt.net, bridgelove@judykay.com, kbarrett@triquest.com,
+>>>>        kate.bevan@ft.com, mediatorken@earthlink.net,
+>>>ACE1242@concentric.net,
+>>>>        matej.accetto@kiss.uni-lj.si, aga@ionet.net, MBrice1650@aol.com,
+>>>>        mytmoss@mindspring.com, spitt@interlog.com, PATJIMMY@aol.com,
+>>>>        rhilchey@hotmail.com, rebecca_corwin@compuserve.com,
+>>>>        sahib@ids2.idsonline.com, RoziMP@aol.com,
+>curious@nicoleramon.com,
+>>>>        shep@bridgementor.com, Spearl@ma.ultranet.com,
+>robinswr@erols.com,
+>>>>        Zee@pipeline.com, gerstein1@home.com, SusiQue@aol.com,
+>>>>        zylvia@earthlink.net, 110363.3710@compuserve.com,
+>>>>        thomasgreer@worldnet.att.net, Dodgeduo@aol.com
+>>>>
+>>>>
+>>>>Stop Hitler From Becoming Person of the Century!
+>>>>
+>>>>Hitler is on the list for TIME's Person of the Century!! How could this
+>>>have
+>>>>happened? Well, anyone can vote online for their person of the
+>>Century...so
+>>>>you should as well! Read the email (below) that we received at Jewish
+>>>>Community Online.
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>Dear friends,
+>>>>
+>>>>
+>>>>TIME magazine is organizing an e-mail election in order to find the
+>>"person
+>>>>of the century" and Hitler is high on the list!
+>>>>
+>>>>
+>>>>I don't know how you think about it, but I don't want to see his face on
+>>>the
+>>>>cover of this year's December edition of the Time magazine. I don't think
+>>>>that someone who is responsible for the death of millions and someone who
+>>>>taught hatred in such an unbelievable way should be called the "man of
+>the
+>>>>century". For me, personally, there are others like Ytzchak Rabin, Martin
+>>>>Luther King, Nelson Mandela or even Bill Gates who deserve this honor
+>more
+>>>>than Hitler. Others making the top list (as of June 1st) are Elvis
+>>Presley,
+>>>>Princess Dianna, Madonna, and Albert Einstein.
+>>>>
+>>>>
+>>>>Neonazi groups from all over the world call on their members to vote via
+>>>>e-mail for Hitler and now I want to do the same, but the other way round.
+>>>>
+>>>>
+>>>>It is up to you if you want to follow my call for voting against Hitler
+>>and
+>>>>it is also up to you if you want to spread this e-mail or not. It won't
+>>>cost
+>>>>you anything and takes just a little time to do. At the end of April
+>>Hitler
+>>>>was in the lead with nearly 200,000 votes. At the end of May the leader
+>is
+>>>>Bill Gates: let's keep the image of Hitler where it belongs - face down
+>in
+>>>>the gutter!
+>>>>
+>>>>
+>>>>Please vote against him -- TIME Magazine's Person of the Century
+>>>>
+>>>>Thank you in advance and forward this message to as many people as you
+>>can.
+>>>>
+>>>>http://cgi.pathfinder.com/time/time100/poc/century.html
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>>
+>>
+>>
+>
+
+

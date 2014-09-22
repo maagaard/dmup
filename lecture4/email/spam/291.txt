@@ -1,0 +1,53 @@
+
+
+From jhart@tenagra.com  Thu Jan 21 00:42:09 1999
+Received: from hendrix.imm.dtu.dk (hendrix2.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id AAA16421
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 21 Jan 1999 00:42:08 +0100 (MET)
+Received: from arganet.tenagra.com (root@arganet.tenagra.com [204.96.98.225])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id AAA08288
+	for <fnielsen@hendrix.imm.dtu.dk>; Thu, 21 Jan 1999 00:46:24 +0100 (MET)
+Received: from [208.2.92.135] (tomservo.tenagra.com [208.2.92.135])
+	by arganet.tenagra.com (8.8.5/8.8.5) with ESMTP id RAA09694;
+	Wed, 20 Jan 1999 17:45:10 -0600 (CST)
+Date: Wed, 20 Jan 1999 17:45:10 -0600 (CST)
+X-Sender: jhart@prefect.tenagra.com
+Message-Id: <v04003a01b2cbc6e8befd@[208.2.92.135]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: books@tenagra.com
+From: "Jeremy L. Hart" <jhart@tenagra.com>
+Subject: Kurzweil Link to Your Site
+Status: RO
+X-Status: 
+
+Dear Webmaster - There is a link to your Web site from the companion site
+to Ray Kurzweil's new book, "The Age of Spiritual Machines," on the
+following page:
+
+http://www.penguinputnam.com/kurzweil/links.htm
+
+Would you consider installing a link back?  Kurzweil is one of the most
+honored scientists, inventors, and entrepreneurs of our time.  He has
+helped machines act like humans, with pioneering contributions in the areas
+of speech recognition, machine reading, OCR scanning, and synthesized
+music.  His new book argues that machine intelligence will soon exceed
+human intelligence, with profound implications.
+
+I have written some HTML linking text, below, which you can use or modify
+for the link.  If you have room for a graphical link, I can send a small
+button graphic -- it's only 7k.  Thanks for your consideration and please
+let me know if you plan to link or if you want the button GIF.
+
+Sincerely,
+JEREMY HART
+(281) 480-6300
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Linking Text:
+
+<a href="http://www.penguinputnam.com/kurzweil">The Age of Spiritual
+Machines</a> Companion site to Ray Kurzweil's book. Contains excerpts and
+extensive links to resources in computer science, artificial intelligence,
+neurology, physics, biology, history, and the future.<br>
+

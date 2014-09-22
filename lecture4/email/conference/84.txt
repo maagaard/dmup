@@ -1,0 +1,66 @@
+
+
+From ebert@cs.umbc.edu Mon Dec  1 15:18:39 MET 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id PAA03550 for <fnielsen@eivind.imm.dtu.dk>; Mon, 1 Dec 1997 15:18:37 +0100 (MET)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id JAA04142;
+	Mon, 1 Dec 1997 09:13:42 -0500 (EST)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.7/8.8.6) id JAA21590;
+	Mon, 1 Dec 1997 09:13:41 -0500 (EST)
+Message-Id: <199712011413.JAA21590@dogbert.cs.umbc.edu>
+Subject: Re: Final paper instructions
+To: fnielsen@eivind.imm.dtu.dk (Finn Aarup Nielsen)
+Date: Mon, 1 Dec 1997 09:13:40 -0500 (EST)
+Cc: ebert@cs.umbc.edu (Dr. David Ebert)
+In-Reply-To: <Pine.HPP.3.95.971201140148.2468A-100000@eivind.imm.dtu.dk> from "Finn Aarup Nielsen" at Dec 1, 97 02:23:57 pm
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+This is what the ACM page says:
+
+The right to post a personal copy on non-ACM servers for limited
+noncommercial distributions, provided that the ACM Copyright notice is
+attached to the personal copy and that the server prominently displays
+a general policy notice (see sample of Server Notice in Revised ACM
+Interim Copyright Policy, version 2, section 5.3) about the use of
+copyright works it contains.
+
+David
+-----
+
+> 
+> 
+> 
+> Dear David,
+> 
+> I have now posted the my camera-ready manuscript today with ordinary
+> airmail: It should arrive at the end of the week.
+> 
+> Regarding copyright: Am I allowed to put the manuscript on my ftp and
+> http server?
+> 
+> Regards Finn
+> 
+> __________________________________________________________________
+> 
+> 	Finn Aarup Nielsen, BScEE, MScE, Research Assistant
+> 	Section for Digital Signal Processing (DSP)
+> 	Department of Mathematical Modelling (IMM)
+> 	Technical University of Denmark (DTU)
+> 	Mail: Bygning 321, DTU, DK-2800 Lyngby
+> 	Site: Bygning 305.218, DTU, DK-2800 Lyngby
+> 	mailto:fnielsen@eivind.imm.dtu.dk
+> 	http://hendrix.imm.dtu.dk/staff/fnielsen/
+> 	Phone:(+45) 45 25 39 21, Fax: (+45) 45 87 25 99
+> __________________________________________________________________
+> 
+> 
+> 
+> 
+

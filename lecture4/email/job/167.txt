@@ -1,0 +1,59 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 17 00:37:53 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA12264;
+	Tue, 17 Aug 1999 00:37:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21438;
+          16 Aug 99 16:52 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21436;
+          16 Aug 99 16:39 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27751;
+          16 Aug 99 16:39 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa22429; 16 Aug 99 7:33 EDT
+Received: from [147.188.192.9] by EDRC.CMU.EDU id aa15004; 16 Aug 99 7:32:34 EDT
+Received: from edward by frank.cs.bham.ac.uk with SMTP (MMTA);
+          Mon, 16 Aug 1999 12:32:11 +0100
+Date: Mon, 16 Aug 1999 12:32:24 +0100 (BST)
+From: Xin Yao <X.Yao@cs.bham.ac.uk>
+X-Sender: xin@edward
+To: connectionists@cs.cmu.edu
+Subject: PhD scholarship/studentship in EC+NNs
+Message-ID: <Pine.SOL.3.96.990816123105.7103A-100000@edward>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+The following PhD scholarship/studentship is available from the School of
+Computer Science, the University of Birmingham, UK. For more information about
+this EPSRC CASE Studentship, please go to
+        http://www.cs.bham.ac.uk/~pjh/prospectus/research/xy_bt.html
+For more information about the School, please go to
+        http://www.cs.bham.ac.uk
+
+----------------------------------------------------------------------------
+                         EPSRC CASE Studentship
+                                     on
+     Combinations Between Evolutionary Computation and Neural Networks
+                              supported by BT
+
+Applications are invited for a studentship starting in Autumn 1999 under
+the supervision of Professor Xin Yao and in co-operation with BT Laboratories'
+Future Technologies Group.
+
+Applications are restricted to students with a " relevant connection" to
+the European Union. For the successful candidate, the scholarship will pay
+their tuition fees and (if they have a "relevant connection" with the United
+Kingdom) a tax-free maintenance allowance of between GBP10,620 and GBP12,130
+per year, depending on age.
+
+More details: http://www.cs.bham.ac.uk/~pjh/prospectus/research/xy_bt.html
+
+Enquiries: Prof Xin Yao (x.yao@cs.bham.ac.uk)
+           Dr Peter Hancox (P.J.Hancox@bham.ac.uk)
+----------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,39 @@
+
+
+From Loustaunau@neuro.com  Fri Dec  4 21:16:30 1998
+Received: from smtp0-alterdial.uu.net (smtp0-alterdial.UU.NET [192.48.96.28])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id VAA02484
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 4 Dec 1998 21:16:28 +0100 (MET)
+Received: from Renee.neuro.com by smtp0-alterdial.uu.net with SMTP 
+	(peer crosschecked as: [208.229.199.9])
+	id QQfsir09193
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 4 Dec 1998 20:23:09 GMT
+Received: by Renee.neuro.com with Microsoft Mail
+	id <01BE1F99.9E1B5000@Renee.neuro.com>; Fri, 4 Dec 1998 15:20:25 -0500
+Message-ID: <01BE1F99.9E1B5000@Renee.neuro.com>
+From: Renee Loustaunau <Loustaunau@neuro.com>
+To: "'fnielsen@eivind.imm.dtu.dk'" <fnielsen@eivind.imm.dtu.dk>
+Subject: Neuro Scan Labs 1999 Workshop on Multimodal Neuroimaging
+Date: Fri, 4 Dec 1998 15:20:24 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id VAA02484
+Status: RO
+X-Status: 
+
+Workshop on Multimodal Neuroimaging:
+"Accomplishments, Challenges and the Future"
+
+We are pleased to announce the next Neuro Scan Workshop which will be held in Frankfurt, Germany on March 19 to 21, 1999 at the J.W. Goethe University Hospital.
+
+In conjunction with the Department of Psychiatry at the J.W. Goethe University Klinikum, leading researchers from Europe, Asia, and North America will be presenting their latest work followed by open and often intensive discussions of the activities in this exciting area of research.  This format has proven very successful for both experienced and new to the field researchers.
+
+For additional information, a listing of the speakers, registration, hotel information, etc., visit the Workshop website at http://www.neuro.com/neuroscan/workshop.htm or contact the workshop coordinator via email Loustaunau@neuro.com
+
+------------------------------------------------------------------------------------
+Special Notice for European Researchers:
+
+We are also pleased to announce that the Neuromedical Supplies' Quik-Cap is now CE approved.  A substantial improvement over existing electrode placement systems, for more information on the Quik-Cap and all your lab supply needs connect to the website http://www.neuro.com/neuromed/ or contact us via fax at 703.444.0676 or by email Neuromed@neuro.com
+
+Thanks and hope you can join us in Frankfurt!!!

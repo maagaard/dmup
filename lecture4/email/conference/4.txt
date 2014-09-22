@@ -1,0 +1,405 @@
+
+
+From www-vrml-owner@hardly.hotwired.com Sat Jun  1 14:34 MET 1996
+Received: from hardly.hotwired.com by eivind.ei.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA02691; Sat, 1 Jun 1996 14:34:03 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id FAA05852 for www-vrml14; Sat, 1 Jun 1996 05:01:10 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id EAA05772 for www-vrml-out; Sat, 1 Jun 1996 04:45:46 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id EAA05767 for <www-vrml@hardly.hotwired.com>; Sat, 1 Jun 1996 04:45:43 -0700 (PDT)
+Received: from worldesign.com ([206.159.63.2]) by wired.com (8.7.4/8.7.3) with ESMTP id EAA27952 for <www-vrml@wired.com>; Sat, 1 Jun 1996 04:45:38 -0700 (PDT)
+Received: from datsun (206.159.63.25) by worldesign.com
+ with SMTP (Apple Internet Mail Server 1.1); Sat, 1 Jun 1996 04:45:49 -0700
+Message-Id: <1.5.4.16.19960601044412.5eb7d8b2@worldesign.com>
+X-Sender: bob@worldesign.com
+X-Mailer: Windows Eudora Light Version 1.5.4 (16)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: www-vrml@wired.com
+From: "Dr. Robert Jacobson - Worldesign Inc. [www.worldesign.com]" <bob@worldesign.com>
+Subject: Virtual Humans '96 Conference, Anaheim, June 19-20, 1996,
+  sponsored by VR NEWS - REGISTER NOW!
+Date: Sat, 1 Jun 1996 04:45:49 -0700
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+=========================================================================
+
+THIS IS THE FIRST CONFERENCE TO DEAL EXCLUSIVELY WITH THE TOPIC OF
+"VIRTUAL HUMANS":  AVATARS, MODELS, AND INTEGRATED DIGITAL FIGURES OF
+HUMAN BEINGS IN VIRTUAL WORLDS AND COMPUTER ANIMATIONS.  IT IS OF DIRECT
+INTEREST TO THE VRML COMMUNITY.
+
+THIS CONFERENCE IS HAPPENING IN THREE WEEKS. RESERVATIONS SHOULD BE MADE
+_IMMEDIATELY_ IF YOU'RE INTERESTED IN ATTENDING.  EMAIL OR CALL:
+
+-> DR. SANDRA KAY HELSEL, VR NEWS, SAN@WELL.COM, 520-887-4485, -3267 FAX
+
+=========================================================================
+
+>Virtual Humans Conference
+>19/20 June, Hyatt Regency Alicante, Anaheim
+>
+>Introduction
+>
+>Two powerful forces are combining to open up the Virtual Humans
+>marketplace. The first is the accelerating and tangible market interest now
+>evident in all forms of Virtual Reality. The hype and the hope are at last
+>giving way to solid commercial activity. Right across the board, from
+>commercial training to entertainment systems, and from virtual engineering
+>to heritage reconstructions, the market is maturing and growing, and
+>multi-million dollar contract awards are no longer a rarity. 
+>
+>The second, inevitably, is the Internet. Around a half-dozen on-line 3D
+>communities are up and running, complete with their first-generation
+>avatars. In a few years time there will be hundreds, and then thousands -
+>social, cultural, commercial meeting places, visited daily by millions of
+>people.
+>
+>What is crystal clear is that these virtual environments need to have
+>virtual people in them. On-line social and games communities are designed
+>specifically for that purpose. Virtual cars, aircraft, houses, retail
+>stores and factories are not just for looking at - they will be used by
+>real people when they are built, and they too need virtual humans, to check
+>out their accessibility and convenience, maintainability and safety.
+>Virtual shopping malls will have sales 'bots; historical reconstructions
+>will have guides, sometimes taking the form of contemporary inhabitants;
+>virtual fashion shows will have mannequins; virtual learning environments
+>will have virtual teachers, demonstrators, and difficult customers.
+>
+>Until recently, there was no virtual humans marketplace to speak of: just a
+>few pioneering research groups - notably Prof. Badler's team at the
+>University of Pennsylvania, and the Thalmanns in Switzerland - a handful of
+>products, and a few significant projects each year. There is now an
+>unmistakeable undercurrent of change, and of new interest. The leading VR
+>software companies are building or licensing human modeling extensions;
+>performance animation is becoming commonplace at marketing events, and is
+>moving strongly into the TV and virtual studio field; standards discussions
+>are under way in relation to humanoids for ergonomic testing. 
+>
+>More important still is that the graphics and computational power necessary
+>to support real-time virtual humans is starting to become affordably
+>available. Silicon Graphics's InfiniteReality raised the performance
+>threshold dramatically earlier this year, and all the trends suggest that
+>comparable power will be on the desktop within two to three years.
+>
+>Virtual Humans '96 is the first event of its kind. It brings together
+>leading researchers and practitioners from a wide range of disciplines, all
+>with a common interest in the development of humanoid technologies of one
+>kind or another. The audience for the conference will similarly comprise
+>people with widely differing backgrounds - creative arts professionals,
+>industrial designers, ergonomics and human factors specialists, academic
+>researchers, anthropologists and sociologists, aerospace and military
+>simulation experts, entertainment industry representatives.
+>
+>At the conference they will encounter many different types of humanoid -
+>both autonomous and human-controlled - with differing levels of capability.
+>In terms of appearance, motion, behavior, intelligence, communication and
+>control, they will see just about the best there is, anywhere in the world.
+>Importantly, delegates and speakers  will also meet each other: contacts
+>and cross-fertilization are crucial by-products of events such as this.
+>
+>And they will be present at the public launch of what will surely become a
+>huge new global industry and marketplace, and one which may eventually have
+>implications for real humans which we cannot yet guess.
+>
+>
+>
+>DAY 1 - SESSION 1 'COMPOSITE VIRTUAL HUMANS'
+>Moderator - Prof. Nadia Thalmann
+>
+>
+>8.00 am - 9.10 am: Registration
+>
+>9.10 am - 9.15 am
+>Welcome and Opening Remarks
+>Dr Sandra K. Helsel, VR NEWS
+>
+>9.15 am - 9.45 am
+>Keynote Address
+>
+>9.45 am - 10.45 am
+>In Pursuit of Realism
+>Prof. Nadia Magnenat Thalmann
+>MIRALAB-CUI, University of Geneva
+>
+>Prof. Nadia Thalmann has pioneered European research into Virtual Humans
+>for over 15 years, and enjoys an outstanding international reputation both
+>for her spectacular state-of-the-art demonstrations, and for the rigorous
+>and intensive academic research programs which make them possible. One of
+>her most celebrated projects was the creation of a lifelike real-time 3D
+>computer graphics articulated model of Marilyn Monroe. The current focus of
+>her work is the development of realistic virtual humans with
+>characteristics such as emotions, clothes and hair. Prof. Thalmann will
+>demonstrate examples of her latest work, created using the newly-released
+>MARILYN software, provide some insights into how she sees the applications
+>and capabilities of Virtual Humans developing in the near term, and discuss
+>the principal technical barriers which future research programs must
+>address.
+>
+>10.45 am - 11.15 am: Refreshment Break
+>
+>11.15 am - 12.15 pm
+>The State of the Art
+>Prof. Norman Badler
+>Center for Human Modeling and Simulation, University of Pennsylvania
+>
+>Prof. Badler has been engaged for something over 20 years in human body
+>modeling and simulation. Much of his work at the University of Pennsylvania
+>has centered on the Jack software, widely regarded as the world's most
+>advanced and versatile commercially-available human modeling system. Jack's
+>capabilities include complex articulated motion, with balance-aware motion
+>modification; collision avoidance; gesture and facial expressions;
+>goal-based tasking; natural language processing, and many other features.
+>It is used for a wide range of applications, including industrial ergonomic
+>testing, military simulation and training, and human factors research. In
+>his presentation, Prof Badler will demonstrate an advanced version of Jack,
+>discuss some of its most effective applications, and look ahead to what
+>further developments and applications are likely over the nextcouple of
+>years.
+>
+>12.15 pm - 1.45 pm: Lunch Break
+>
+>
+>SESSION 2 - 'APPEARANCE & ANIMATION'
+>
+>
+>1.45 pm - 2.30 pm
+>Human Modeling for Animation
+>Chris Landreth
+>Alias/Wavefront Inc.
+>
+>Chris Landreth is one of the world's leading animation professionals. He
+>specializes in detailed and accurate human modeling, and was recently
+>nominated for an academy award for his work on 'the end', a short animation
+>film produced by Alias/Wavefront  The animation software industry has
+>already solved many of the graphical presentation problems which real-time
+>modelers will need to address, in areas such as face, hair and clothes
+>simulation. Chris will demonstrate some of his work in this field,
+>focussing on the advanced facial and body animation work which made 'the
+>end' possible.
+>
+>2.30 pm - 3.15pm
+>Real-Time Human Animation
+>Marc Raibert
+>Boston Dynamics Inc.
+>
+>Marc Raibert, founder of Boston Dynamics, was formerly Professor of
+>Electrical Engineering and Computer Science at MIT.  In previous work, he
+>developed laboratory robots that used control systems for balance and to
+>coordinate their motions.  These robots had legs on which they ran, jumped,
+>traveled on simple paths, ran fast (13 mph), climbed a simple stairway, and
+>did simple gymnastic maneuvers. Raibert's approach to automated computer
+>characters is to adapt control systems from robotics, and to combine them
+>with physics-based simulation, to allow the creatures to move with physical
+>realism, without an animator specifying all the details. Boston Dynamics
+>creates automated computer characters and engineering simulations for
+>things that move. Marc Raibert will explain his company's approach to the
+>simulation of realistic human motion, and demonstrate some of their latest
+>work.
+>
+>3.15pm - 3.45 pm: Refreshment Break
+>
+>3.45 pm - 4.30 pm
+>Virtual Theater
+>David Morin
+>SOFTIMAGE Microsoft
+>
+>By synchronizing a real-time 3D computer environment to a real world camera
+>you can create a Virtual Theater, whose sets can be populated with a
+>mixture of real people and virtual characters. Live actors can be
+>positioned between layers of computer-generated 3D background, where they
+>can interact with virtual actors. David Morin, Special Projects Director,
+>will demonstrate the capabilities of the SOFTIMAGE Microsoft Virtual
+>Theater software technology, and discuss some of its applications, which
+>include virtual studios, 3-D game simulations, virtual reality for
+>location-based entertainment, fast previews for post-production special
+>effects, and previsualization and walk-throughs for engineering and
+>architects
+>
+>4.30 pm - 5.15pm
+>High-Level Control of Human Motion
+>Prof. Jessica Hodgins
+>Georgia Institute of Technology
+>
+>Computer animations and virtual environments both require a source of
+>motion for their characters.  Prof. Hodgins's group is exploring one
+>possible solution to this problem: applying high-level control algorithms
+>to physically realistic models of the systems to be animated.  The goal is
+>to allow the animator to control the system at a high level and without an
+>understanding of the underlying forces and torques or the motion of the
+>individual joints. Her current research focuses on the control of dynamic
+>physical systems, both natural and human-made, and explores techniques that
+>may someday allow robots and animated creatures to plan and control their
+>actions in complex and unpredictable environments. She will explain the
+>basis of control systems that allow rigid body models of humans to run or
+>bicycle at a variety of speeds, bounce on a trampoline, and perform
+>handspring vaults and platform dives.
+>
+>5.15pm - 6.00 pm
+>Synthespians
+>Jeff Kleiser
+>Kleiser/Walczak Construction Co.
+>
+>Jeff Kleiser's and Diana Walczak's background and credits in the computer
+>animation and special effects fields range from 'Tron' and 'Flight of the
+>Navigator', via 'Stargate', to 'Clear and Present Danger' and 'Honey I
+>Shrunk the Theater'. Their ground-breaking human animation work on 'Judge
+>Dredd' , based around a 3D full body scan of Sylvester Stallone, received
+>international acclaim, and is an example of the 'synthespian' concept,
+>created (and trademarked) by Kleiser/Walczak in the late 1980's. The
+>company recently opened Synthespian Studios, a production facility designed
+>specifically to create computer-generated characters. Jeff Kleiser lectures
+>widely on the subject of computer animation, to both academic and
+>commercial audiences. In his presentation, he will show examples of some
+>recent work, and discuss the implications of introducing synthespians into
+>real-time virtual environments.
+>
+>
+>DAY 2 - SESSION 3 'INTELLIGENCE AND COMMUNICATION'
+>Moderator: Prof. Norman Badler
+>
+>
+>9.00 am - 9.45 am
+>Julia, the Chatterbot
+>Michael Mauldin
+>Carnegie Mellon University
+>
+>Julia operates in a text-only virtual world called a MUD (Multi-User
+>Domain). She is a robot user, with the ability to conduct apparently
+>intelligent conversations with human users, many of whom are unaware that
+>she is not human. Developed over a period of five years by Michael Mauldin,
+>who will demonstrate her capabilities, she is currently the most advanced
+>example of what were originally called Maas-Neotek robots, from William
+>Gibson's book 'Neuromancer'. Julia analyses the structure and meaning and
+>context of what is said to her, distinguishes between comments, questions,
+>etc., accesses an encyclopedic database of response components, and
+>assembles plausible conversational English responses, employing humor,
+>sarcasm, politeness, impatience, and diplomacy, as appropriate. 
+>
+>9.45 am - 10.30 am
+>Multimodal Interaction with Humanoid Characters
+>Kristinn Thorisson
+>MIT Media Lab
+>
+>When people talk to each other they generally use a wealth of gesture,
+>speech, gaze and facial expressions to communicate the intended content.
+>Complex information is combined in a concise manner and representational
+>styles are chosen in real-time as the conversation unfolds. Kris Thorisson
+>has been a researcher at the MIT Media Lab since 1990. His recent work
+>centers on humanoid interface agents, and in particular on capturing
+>elements that are critical to multimodal dialogue between a real and a
+>virtual human. Techniques such as eye tracking, speech recognition, etc.
+>are used to generate responses, including speech and gesture, from the
+>virtual human in real-time. His system is called 'Ymir', and he will
+>demonstrate its capabilities using a virtual human called 'Gandalf'. 
+>
+>10.30 am -11.00 am: Refreshment Break
+>
+>11.00 am - 11.45 am
+>Modeling Perceptive Virtual Humans with MARILYN
+>Prof Daniel Thalmann
+>Swiss Federal Institute of Technology 
+>
+>MARILYN is a powerful and versatile virtual human simulation system. It was
+>developed during a five-year project funded by the European Union, and has
+>now been released commercially. It includes facial animation, body
+>animation with deformations, grasping and walking, and hair and clothes
+>simulation. It also supports autonomy and perception, and can be used to
+>create simulations in which virtual humans move around in complex
+>environments they may know and recognize, and in which they can for example
+>play ball games based on their visual and tactile perception, and react to
+>other virtual humans, and to real humans. Prof. Thalmann will speak on the
+>subject of autonomous and perceptive virtual humans, and will demonstrate
+>some of the work which has been carried out using the MARILYN software.
+>
+>11.45 am - 12.30 pm
+>Synthetic Digital Societies
+>Prof. Paul Rosenbloom
+>University of Southern California
+>
+>Prof. Rosenbloom's AI research activities include responsibility for the
+>Soar Project at USC. Soar has been under development since 1983, and is a
+>multi-disciplinary, multi-site attempt to build a general cognitive
+>architecture. A current application is Soar IFOR (Intelligent Forces), the
+>ultimate intent of which is to develop automated pilots whose behavior in
+>simulated battlefields is nearly indistinguishable from that of human
+>pilots. A prototype was deployed with some success in the STOW-E exercise
+>in 1994, probably the first occasion on which an AI system was a direct
+>participant in an operational military exercise. Prof. Rosenbloom will
+>demonstrate teams of Soar-based automated pilots, and discuss some of the
+>wide-ranging potential applications - and implications - of autonomous
+>groups of computer-generated humanoids, capable of pursuing individual and
+>collective goals, and of learning while they do so.
+>
+>12.30 pm - 2.00 pm: Lunch Break
+>
+>SESSION 4 - 'AVATARS'
+>
+>2.00 pm - 2.45 pm
+>Speaking as a Virtual Human . . . 
+>Linda Jacobson
+>Silicon Graphics Inc.
+>
+>Linda Jacobson, Silicon Graphics's 'Virtual Reality Evangelist', has for
+>some years also been a leading figure in the field of performance
+>animation. This typically involves a human performer, equipped with
+>anything from a face tracker to a full body motion capture system,
+>controlling in real-time the movement, gestures and speech of a
+>computer-generated graphical creature. Performance animation has been
+>widely used at marketing events, entertainment venues, and in TV shows.
+>With the advent of avatar worlds on the Internet, a wide range of
+>performance animation skills is likely to be required, by professional
+>hosts and performers, and both active and passive visitors and
+>participants.
+>
+>Ms Jacobson has gained extensive understanding of the physical,
+>intellectual and creative demands placed on the human performer, and will
+>offer some insights into her experiences, and guidance for future designers
+>and users of these systems.
+>
+>2.45 pm - 3.30 pm
+>Avatars on the 'Net
+>Mitra
+>Paragraph International
+>
+>Avatars for on-line Internet communities have to be designed to operate
+>within very tight processing and network bandwidth constraints. The
+>widespread adoption of VRML and Java will further define the boundaries of
+>achievable avatar appearance, motion and behavior. At the same time
+>however, avatars on the net are expected to constitute the vast majority of
+>the world's virtual humans, and considerable ingenuity will be applied to
+>maximising performance within these constraints.
+>
+>Mitra was the principal architect of the avatar worlds developed by Worlds
+>Inc. and of VRML+, Worlds Inc's VRML superset. He was a respected and
+>leading contributor to the VRML 2.0 standardisation process, in the course
+>of which his former company WorldMaker Inc., jointly with Silicon Graphics
+>and Sony, formulated the Moving Worlds specification. He will discuss and
+>demonstrate examples of the latest generation of Internet avatars. 
+>
+>3.30 pm - 4.00 pm: Refreshment Break
+>
+>4.00 pm - 4.45 pm
+>Avatar Control in Immersive Virtual Reality
+>Dr Jonathan Waldern
+>Virtuality Group plc
+>
+>The Virtuality Group has been the market leader in the field of Virtual
+>Reality entertainment systems throughout the 1990s. In recent years their
+>games and experiences have incorporated increasingly versatile autonomous
+>creatures and avatars. The company's range of activities and developments
+>has now broadened to include consumer products, including an
+>Internet-compatible immersive VR system currently under development.
+>
+>Dr Waldern, co-founder of Virtuality, will preview this system, which
+>incorporates innovative hardware and software technology for avatar
+>control. 
+>
+>
+>4.45 pm - 5.30 pm
+>Panel Discussion
+>and Closing Remarks
+

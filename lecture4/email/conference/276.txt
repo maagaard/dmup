@@ -1,0 +1,79 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jul  7 17:01:17 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id RAA04083;
+	Wed, 7 Jul 1999 17:01:08 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa22839;
+          6 Jul 99 18:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22837;
+          6 Jul 99 18:47 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03301;
+          6 Jul 99 18:46 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa06439; 6 Jul 99 16:54 EDT
+Received: from scf-fs.usc.edu by EDRC.CMU.EDU id aa06371; 6 Jul 99 16:53:55 EDT
+Received: from hipnet33.usc.edu (hipnet33.usc.edu [128.125.33.4])
+	by scf-fs.usc.edu (8.8.8/8.8.8/usc) with SMTP
+	id NAA21382; Tue, 6 Jul 1999 13:53:52 -0700 (PDT)
+Message-Id: <3.0.3.32.19990706135713.007a83c0@scf.usc.edu>
+X-Sender: rinehart@scf.usc.edu
+X-Mailer: QUALCOMM Windows Eudora Pro Version 3.0.3 (32)
+Date: Tue, 06 Jul 1999 13:57:13 -0700
+To: Connectionists@CS.cmu.edu
+From: John Rinehart <rinehart@scf-fs.usc.edu>
+Subject: conference:  Replacement Parts for the Brain: Intracranial Implantation of Hardware Models of Neural Circuitry 
+Cc: rinehart@usc.edu, berger@bmsrs.usc.edu
+Status: RO
+X-Status: 
+
+Replacement Parts for the Brain:  Intracranial Implantation
+of Hardware Models of Neural Circuitry
+
+An NIMH, USC-AMI Sponsored Conference
+
+August 12-14 1999, Willard Hotel Washington D.C.
+
+
+ This conference will bring together leading researchers throughout
+the country for a focus on one of the newest frontiers of
+neuroscientific and bioengineering research: the intracranial
+implantation of computer chip models of brain function as neural
+prosthetics to replace damaged or dysfunctional brain tissue.  In
+considering the development of "replacement parts for the brain",
+speakers will address recent advances in (i) biologically realistic
+mathematical models of brain or spinal cord function, (ii) silicon-
+and/or photonics-based computational devices which incorporate those
+models, and (ii) "neuron-silicon interface" devices, i.e.,
+micron-scale multi-site electrode arrays to provide bi-directional
+communication between the computational element and functioning
+neuronal tissue.  The conference is intended to synergize
+interdisciplinary research in the neural, engineering, and biomedical
+sciences.
+
+
+For more information regarding the conference and meeting registration,
+please click on the conference web site address:
+
+    http://www.usc.edu/dept/biomed/NeuralProstheticsCNF
+
+Conference Organizers:
+
+Theodore W. Berger, Ph.D.
+Director, Center for Neural Engineering
+500 Olin Hall
+Department of Biomedical Engineering
+University of Southern California
+Los Angeles, CA 90089-1450
+telephone: 213-740-8017
+fax: 213-740-0343
+e-mail: berger@bmsrs.usc.edu
+
+Dennis Glanzman, Ph.D.
+Chief, Theoretical Neuroscience Program
+NIMH
+Room 11-102
+5600 Fishers Lane
+Rockville, MD
+telephone: 301-443-1576
+fax: 301-443-4822
+e-mail: glanzman@helix.nih.gov

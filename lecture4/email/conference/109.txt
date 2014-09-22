@@ -1,0 +1,154 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Wed Jun 10 01:12:59 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id BAA29824
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 10 Jun 1998 01:12:57 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ad14897;
+          9 Jun 98 11:37:04 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa07468;
+          5 Jun 98 3:47:26 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11525;
+          5 Jun 98 3:47 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa21714; 5 Jun 98 2:26 EDT
+Received: from dec11.cs.monash.edu.au by CS.CMU.EDU id aa17381;
+          5 Jun 98 2:24:03 EDT
+Received: (from dld@localhost)
+	by dec11.cs.monash.edu.au (8.8.8/8.8.8) id PAA06363;
+	Fri, 5 Jun 1998 15:47:24 +1000
+Date: Fri, 5 Jun 1998 15:47:24 +1000
+From: David L Dowe <dld@cs.monash.edu.au>
+Message-Id: <199806050547.PAA06363@dec11.cs.monash.edu.au>
+Subject: CFPs: Info theory in biology, due July 13
+Status: RO
+X-Status: 
+
+Information-theoretic approaches to biology
+-------------------------------------------
+
+This is the Call For Papers for the 4th Pacific Symposium on BioComputing
+(PSB99, 1999) conference track on "Information-theoretic approaches
+to biology".
+
+PSB-99 will be held from 4-9 January, 1999, in Mauni Lani on the
+Big Island of Hawaii.
+
+Track Organisers: David L. Dowe (dld@cs.monash.edu.au) and Klaus Prank.
+
+WWW site:  http://www.cs.monash.edu.au/~dld/PSB99/PSB99.Info.CFPs.html .
+
+Specific technical area to be covered by this track:
+
+Approaches to biological problems using notions of information or complexity,
+including methods such as Algorithmic Probability, Minimum Message Length and
+Minimum Description Length. Two possible applications are (e.g.) protein
+folding and biological information processing.
+Kolmogorov (1965) and Chaitin (1966) studied the notions of complexity and
+randomness, with Solomonoff (1964), Wallace (1968) and Rissanen (1978) applying
+these to problems of statistical and inferential learning (and ``data mining'')
+and to prediction.  The methods of Solomonoff, Wallace and Rissanen have
+respectively come to be known as Algorithmic Probability (ALP), Minimum Message
+Length (MML) and Minimum Description Length (MDL).  All of these methods relate
+to information theory, and can also be thought of in terms of Shannon's
+information theory, and can also be thought of in terms of Boltzmann's
+thermo-dynamic entropy.
+
+An MDL/MML perspective has been suggested by a number of authors in the context
+of approximating unknown functions with some parametric approximation scheme
+(such as a neural network). The designated measure to optimize under this
+scheme combines an estimate of the cost of misfit with an estimate of the cost
+of describing the parametric approximation (Akaike 1973, Rissanen 1978,
+Barron and Barron 1988, Wallace and Boulton, 1968).
+
+This track invites all original papers of a biological nature which use
+notions of information and/or information-theoretic complexity, with no strong
+preference as to what specific nature.  Such work has been done in problems of,
+e.g., protein folding and DNA string alignment.  As we shortly describe in some
+detail, such work has also been done in the analysis of temporal dynamics in
+biology such as neural spike trains and endocrine (hormonal) time series
+analysis using the MDL principle in the context of neural networks and
+context-free grammar complexity.
+
+To elaborate on one of the relevant topics above, in the last three years
+or so, there has been a major focus on the aspect of timing in biological
+information processing ranging from fields such as neuroscience to
+endocrinology. The latest work on information processing at the single-cell
+level using computational as well as experimental approaches reveals previously
+unimagined complexity and dynamism. Timing in biological information processing
+on the single-cell level as well as on the systems level has been studied by
+signal-processing and information-theoretic approaches in particular in the
+field of neuroscience (see for an overview: Rieke et al. 1996). Using such
+approaches to the understanding of temporal complexity in biological
+information transfer, the maximum information rates and the precision of spike
+timing to the understanding of temporal complexity in biological information
+transfer, the maximum information rates and the precision of spike timing could
+be revealed by computational methods (Mainen and Sejnowski, 1995; Gabbiani and
+Koch 1996; Gabbiani et al., 1996).
+
+The examples given above are examples of some possible biological application
+domains.  We invite and solicit papers in all areas of (computational) biology
+which make use of ALP, MDL, MML and/or other notions of information and
+information-theoretic complexity.
+
+In problems of prediction, as well as using "yes"/"no" predictions, we would
+encourage the authors to consider also using probabilistic prediction, where
+the score assigned to a probabilistic prediction is given according to the
+negative logarithm of the stated probability of the event.
+
+
+Further comments re PSB-99 :
+----------------------------
+ PSB99 will publish accepted full papers in an archival Proceedings. All
+ contributed papers will be rigorously peer-reviewed by at least three
+ referees.  Each accepted full paper will be allocated up to 12 pages in the
+ conference Proceedings. The best papers will be selected for a 30-minute
+ oral presentation to the full assembled conference. Accepted poster
+ abstracts will be distributed at the conference separately from the
+ archival Proceedings. To be eligible for proceedings publication, each full
+ paper must be accompanied by a cover letter stating that it contains
+ original unpublished results not currently under consideration elsewhere.
+ See http://www.cgl.ucsf.edu/psb/cfp.html for more information.
+
+ IMPORTANT DATES:
+
+ Full paper submissions due:			July   13, 1998
+ Poster abstracts due:				August 22, 1998
+ Notification of paper acceptance:		September 22, 1998
+ Camera-ready copy due:				October 1, 1998
+ Conference:					January 4 - 9, 1999
+
+
+
+More information about the  "Information-theoretic approaches to biology"
+track, including a sample list of relevant papers is available on
+the WWW at  http://www.cs.monash.edu.au/~dld/PSB99/PSB99.Info.CFPs.html .
+
+More information about PSB99 is available from
+http://www.cgl.ucsf.edu/psb/cfp.html
+
+For further information,
+e-mail    Dr. David Dowe, dld@cs.monash.edu.au 
+or e-mail Dr. Klaus Prank, ndxdpran@rrzn-serv.de .
+
+
+
+This page was put together by
+Dr. David Dowe,
+School of Computer Science and Softw. Eng.,
+Monash University, Clayton, Vic. 3168, Australia
+e-mail: dld@cs.monash.edu.au
+Fax: +61 3 9905-5146
+http://www.csse.monash.edu.au/~dld/
+
+and
+
+Dr. Klaus Prank,
+Abteilung Klinische Endokrinologie
+Medizinische Hochschule Hannover
+Carl-Neuberg-Str. 1
+D-30623 Hannover
+Germany
+e-mail: ndxdpran@rrzn-serv.de
+Tel.: +49 (511) 532-3827
+Fax.: +49 (511) 532-3825
+http://sun1.rrzn-user.uni-hannover.de/~ndxdpran/

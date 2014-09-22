@@ -1,0 +1,30 @@
+
+
+From ebert@cs.umbc.edu Fri Sep 19 15:07:03 EDT 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id VAA17485 for <fnielsen@eivind.imm.dtu.dk>; Fri, 19 Sep 1997 21:07:02 +0200 (METDST)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id PAA14064
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 19 Sep 1997 15:05:36 -0400 (EDT)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (ebert@localhost) by dogbert.cs.umbc.edu (8.8.5/8.6.9) id PAA06271 for fnielsen@eivind.imm.dtu.dk; Fri, 19 Sep 1997 15:05:33 -0400 (EDT)
+Message-Id: <199709191905.PAA06271@dogbert.cs.umbc.edu>
+Subject: Re: CFP: Workshop on New Paradigms in Information Visualization and    Manipulation
+To: fnielsen@eivind.imm.dtu.dk (Finn Aarup Nielsen)
+Date: Fri, 19 Sep 1997 15:05:33 -0400 (EDT)
+In-Reply-To: <Pine.HPP.3.95.970919193749.16170A-101000@eivind.imm.dtu.dk> from "Finn Aarup Nielsen" at Sep 19, 97 07:45:03 pm
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Finn,
+	Thank you for your submission. We will let you know if we have
+any problems decoding the files.
+
+Thanks,
+
+David
+-----
+

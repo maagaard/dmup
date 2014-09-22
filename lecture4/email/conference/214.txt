@@ -1,0 +1,115 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Feb  3 19:34:45 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA24462;
+	Wed, 3 Feb 1999 19:34:39 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25478;
+          3 Feb 99 11:28 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25475;
+          3 Feb 99 11:13 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08484;
+          3 Feb 99 11:13 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa00433; 3 Feb 99 8:59 EST
+Received: from [192.87.11.98] by RI.CMU.EDU id aa11233; 3 Feb 99 8:58:52 EST
+Received: from nibr.nih.knaw.nl (nibr.nih.knaw.nl [192.87.10.129]) by ns1.nih.knaw.nl (8.6.12/8.6.12) with ESMTP id PAA08793 for <connectionists@cs.cmu.edu>; Wed, 3 Feb 1999 15:07:17 +0100
+Received: from nibr (nibr.nih.knaw.nl [192.87.10.129]) by nibr.nih.knaw.nl with SMTP (8.7.1/8.7.1) id PAA26080 for <connectionists@cs.cmu.edu>; Wed, 3 Feb 1999 15:06:23 +0100 (MET)
+Sender: A.van.Ooyen@nih.knaw.nl
+Message-ID: <36B857DF.3E9F@nih.knaw.nl>
+Date: Wed, 03 Feb 1999 15:06:23 +0100
+From: Arjen van Ooyen <A.van.Ooyen@nih.knaw.nl>
+Organization: Netherlands Institute for Brain Research
+X-Mailer: Mozilla 3.01Gold (X11; I; HP-UX B.10.20 9000/816)
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Conference Announcement
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear Computational Neuroscientist,
+
+This mailing is to bring to your attention the International
+Conference on Theory and Mathematics in Biology and Medicine
+1999, that will be held from Tuesday June 29 through Saturday
+July 3, 1999, in Amsterdam, the Netherlands. 
+
+At this joint meeting of the European Society for Mathematical
+and Theoretical Biology (ESMTB), the Society for Mathematical
+Biology (SMB), and the Netherlands Society for Theoretical
+Biology (NVTB), a full day is dedicated to Computational
+Neuroscience. 
+
+This day will comprise two plenary invited lectures, given by
+Prof David Willshaw (University of Edinburgh, United Kingdom) and
+by Prof Idan Segev (Hebrew University, Israel), 12 contributing
+lectures of 20 minutes duration, as well as a poster session.
+
+Please find all information of the conference at
+http://www.bio.vu.nl/tmbm99/
+
+We hope that the opportunity to emphasize Computational
+Neuroscience in the broad field of Mathematical and Theoretical
+Biology as well as the opportunity to become informed about the
+progress in other interesting topics at this meeting will
+encourage you to participate and submit an abstract. 
+
+*******************************************************
+ The deadline of Abstract Submission is 1st March, 1999.
+*******************************************************
+
+Kind regards, and we look forward to meeting you this summer in
+Amsterdam, 
+
+Jaap van Pelt, Arjen van Ooyen 
+Netherlands Institute for Brain Research, 
+Amsterdam, The Netherlands
+Organisers Session Computational Neuroscience 
+
+
+Brief overview of the Computational Neuroscience Session and
+the rest of the conference:
+----------------------------------------------------------------
+
+Understanding the brain in health and disease is perhaps the
+greatest challenge for science in the next century. Because the
+brain is an extremely complex and organised system from the
+molecular up to the behavioural level, this goal can not be
+achieved without modelling and computational approaches. The
+Computational Neuroscience Session aims at emphasizing this role
+of Mathematical Modeling and Computer Simulation in Neuroscience.
+Participants are invited to present progress in understanding the
+structure, function and development the brain.
+
+-----------------------------------------------------------------
+
+The full-day major topics of this conference include 
+1. Non-Linear Population Dynamics
+2. Epidemiology of Infectious Diseases
+3. Sequencing, Folding and Molecular Structure
+4. Evolution, Game Theory and Adaptive Dynami
+5. Computational Neuroscience
+6. Immunology and Within-Host Dynamics of Pathogens
+
+The half-day minor topics of this conference include 
+1. Individual-Based Population Dynamics
+2. Gene Networks
+3. Pattern Formation and Morphogenesis
+4. Education in Mathematical Biology
+5. Parasites and Diseases in Wildlife
+6. Metabolic Control Networks
+7. Whole Heart Modelling
+8. Metapopulation Dynamics
+9. Toxicology
+10. Particle Based Modelling
+11. Networks, Cellular Signalling and Biological Rhythms
+12. Classification Methodology
+13. Miscellaneous
+==========================================================
+-- 
+Arjen van Ooyen, Netherlands Institute for Brain Research,
+Meibergdreef 33, 1105 AZ Amsterdam, The Netherlands.
+email: A.van.Ooyen@nih.knaw.nl 
+website: http://www.cns.ed.ac.uk/people/arjen.html  
+phone: +31.20.5665483  fax: +31.20.6961006

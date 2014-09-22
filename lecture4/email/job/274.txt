@@ -1,0 +1,76 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jan 24 06:56:09 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id GAA18791;
+	Mon, 24 Jan 2000 06:56:02 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23130;
+          23 Jan 2000 22:28 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23128;
+          23 Jan 2000 22:12 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09714;
+          23 Jan 2000 22:12 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa26304; 23 Jan 2000 14:37 EST
+Received: from f108.law7.hotmail.com by cs.cmu.edu id aa07909;
+          23 Jan 2000 14:37 EST
+Received: (qmail 29809 invoked by uid 0); 23 Jan 2000 19:37:21 -0000
+Message-ID: <20000123193721.29808.qmail@hotmail.com>
+Received: from 143.117.5.176 by www.hotmail.com with HTTP;	Sun, 23 Jan 2000 11:37:21 PST
+X-Originating-IP: [143.117.5.176]
+From: Fionn Murtagh <fmdist@hotmail.com>
+To: connectionists@cs.cmu.edu
+Subject: RA posn. -visualizn. of user behavior in information spaces 
+Date: Sun, 23 Jan 2000 11:37:21 PST
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Status: RO
+X-Status: 
+
+A Research Assistant position will be available soon
+in Computer Science, The Queen's University of Belfast,
+in the area of visualization of user behavior in information
+spaces.  Please let Fionn Murtagh (address below) know
+of your interest in this position.  A short description
+of the work to be undertaken follows.
+
+The European (5th Framework) project "IRAIA - Getting
+Orientation in Complex Information Spaces as an Emergent
+Behavior of Autonomous Information Agents", which will
+last for two years, will be starting in March 2000.
+
+"Information retrieval systems of the future will be
+huge information repositories, distributed all over the
+world.  Even the users will contribute to these
+repositories by communicating their experiences to other
+users who follow their footsteps.  IRAIA's design
+metaphor focuses on the ants' system for communicating
+information.  Navigating the web should allow people to
+leave pointers for those who might also navigate along
+the same paths."
+
+QUB work in this project will include the development of
+an architecture of different layers of abstraction that
+support the construction of a coordinate system based on
+ontologies and investigation of user behavior.  Such
+user profiling will be based on information visualizations
+such as Kohonen self-organizing feature maps or similar
+active maps based on linkage graphs.  These will be
+interfaced to the agent (CORBA, EJB) environment used.
+In more open research, the fact that map visualizations
+are used means that we will also seek to relate and
+exploit intriguing technologies used in digital image
+transmission - thinwire transmission technologies, and
+foveation-based strategies, based on multiscale transforms.
+
+------------------------------------------------------------
+Prof. F. Murtagh, School of Computer Science, The Queen's
+University of Belfast, Belfast BT7 1NN, Northern Ireland
+http://www.cs.qub.ac.uk/~F.Murtagh   f.murtagh@qub.ac.uk
+Centre for Image and Vision Systems  http://www.qub.ac.uk/ivs
+------------------------------------------------------------
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+

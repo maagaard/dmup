@@ -1,0 +1,47 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jul  7 03:51:54 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA25034;
+	Wed, 7 Jul 1999 03:51:48 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab22266;
+          6 Jul 99 13:58 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab22264;
+          6 Jul 99 13:51 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03078;
+          6 Jul 99 13:51 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa01195; 6 Jul 99 13:09 EDT
+Received: from law-f140.hotmail.com by CS.CMU.EDU id aa07072;
+          6 Jul 99 13:08:56 EDT
+Received: (qmail 65674 invoked by uid 0); 6 Jul 1999 17:08:37 -0000
+Message-ID: <19990706170837.65673.qmail@hotmail.com>
+Received: from 143.117.5.176 by www.hotmail.com with HTTP;
+	Tue, 06 Jul 1999 10:08:37 PDT
+X-Originating-IP: [143.117.5.176]
+From: Fionn Murtagh <fmdist@hotmail.com>
+To: Connectionists@CS.cmu.edu
+Subject: Post-Doc Research Fellowship available, 3 yrs
+Date: Tue, 06 Jul 1999 10:08:37 PDT
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Status: RO
+X-Status: 
+
+Post-Doc Research Fellowship available, 3 yrs
+
+Research areas of particular interest - non-exhaustive:
+
+- image display and transfer, eyegaze monitoring
+- image and video compression, videoconferencing
+- wavelet transforms, multiscale methods, neural networks
+- multivariate data analysis, signal processing
+- space, medical, financial data and image analysis
+
+Information:
+Prof. F. Murtagh, School of Computer Science, The
+Queen's University of Belfast, Belfast BT7 1NN, Nth Ireland
+http://www.cs.qub.ac.uk/~F.Murtagh, email f.murtagh@qub.ac.uk
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

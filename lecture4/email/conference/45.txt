@@ -1,0 +1,52 @@
+
+
+From ebert@cs.umbc.edu Thu Oct 16 14:54:33 MET 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id OAA06446 for <fnielsen@eivind.imm.dtu.dk>; Thu, 16 Oct 1997 14:54:32 +0200 (METDST)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id IAA12467
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 16 Oct 1997 08:51:50 -0400 (EDT)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.7/8.8.6) id IAA02365
+	for fnielsen@eivind.imm.dtu.dk; Thu, 16 Oct 1997 08:51:50 -0400 (EDT)
+Date: Thu, 16 Oct 1997 08:51:50 -0400 (EDT)
+Message-Id: <199710161251.IAA02365@dogbert.cs.umbc.edu>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: More Author Information
+Status: RO
+X-Status: 
+
+Dear NPIV 97 author,
+
+Below are some more details about the NPIV 97 workshop.
+
+
+1) By now you should have registered for the conference at the
+author rate of $250 (deadline was October 15).  Please contact
+Dr. E.K. Park (registration chair) with any registration questions:
+	ekpark@cstp.umkc.edu
+
+2) For the version of the paper to be included in the proceedings
+distributed on-site, we can use the paper you already submitted, or
+you can revise it and send us a new version by Friday, October 24
+1997. For best formatting when printed, a Postscript or PDF file is
+preferred; however, HTML is acceptable. Please email the new version
+to me, or if the file is extremely large (several MB), make it
+available at a web address and we will retrieve it. The on-site
+proceedings will be black and white photocopied papers.
+
+3) You will have a chance to update your paper after the workshop for
+inclusion in the Workshop proceedings distributed by ACM.
+
+4) Your on-site presentation should be a 20 minute talk followed by a
+10 minute question and answer period. The workshop schedule is now
+available at
+ http://www.cs.umbc.edu/conferences/cikm/npiv/npiv97_schedule.html 
+
+
+If you have any more questions, please feel to contact us. 
+
+Sincerely,
+
+David Ebert and Charles Nicholas
+NPIV 97 Co-Chairs

@@ -1,0 +1,69 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Nov 12 04:43:37 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA05316;
+	Thu, 12 Nov 1998 04:43:32 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19103;
+          11 Nov 98 21:18 EST
+Received: from VIE.IUS.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19101;
+          11 Nov 98 21:01 EST
+Received: from VIE.IUS.CS.CMU.EDU by vie.ius.cs.cmu.edu id aa15085;
+          11 Nov 98 21:01 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa28336; 11 Nov 98 15:54 EST
+Received: from dark.brown.edu by RI.CMU.EDU id aa29893; 11 Nov 98 15:54:14 EST
+Received: from [128.148.208.31] (ornette.cog.brown.edu [128.148.208.31])
+	by dark.brown.edu (8.9.1a/8.9.1) with ESMTP id PAA25795
+	for <connectionists@cs.cmu.edu>; Wed, 11 Nov 1998 15:54:12 -0500 (EST)
+Date: Wed, 11 Nov 1998 15:54:12 -0500 (EST)
+X-Sender: William_Warren_Jr@postoffice.brown.edu
+Message-Id: <v03010d06b26f6397701c@[128.148.208.31]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: connectionists@cs.cmu.edu
+From: Bill Warren <Bill_Warren@Brown.edu>
+Subject: Please post -- thanks!
+Status: RO
+X-Status: 
+
+Please circulate to your graduating seniors:
+
+GRADUATE TRAINEESHIPS
+Visual Navigation in Humans and Robots
+Brown University
+
+The Department of Cognitive and Linguistic Sciences and the Department of
+Computer Science at Brown University are seeking graduate applicants
+interested in visual navigation in humans and robots.  The project
+investigates the nature of the spatial knowledge that is used in active
+navigation, and how it interacts with the environmental layout, landmark
+properties, and navigational task during learning.  The research is based
+in a unique virtual reality lab with a 40 x 40 ft wide-area tracker, Kaiser
+head-mounted display, and SGI Onyx 2 graphics.  Human experiments study
+active navigation and landmark recognition in virtual environments, where
+3D structure and properties are easily manipulated.  In conjunction,
+biologically-inspired navigation strategies are tested on a mobile robot
+platform.  Computational modeling pursues (a) reinforcement learning and
+hidden Markov models for spatial navigation and (b) neural net model of the
+hippocampus.  The project is under the direction of Leslie Kaelbling
+(Computer Science, www.cs.brown.edu), Michael Tarr and William Warren
+(Cognitive & Linguistic Sciences, www.cog.brown.edu).  Three to four
+graduate traineeships are available, beginning in the Fall of 1999.
+Applicants should apply to either of these home departments.  Application
+materials can be obtained from:  The Graduate School, Brown University, Box
+1867, Providence, RI 02912,  phone (401) 863-2600, www.brown.edu.  The
+application deadline is Jan. 1, 1999.
+
+This program is funded by a Learning and Intelligent Systems grant from
+NSF, and an IGERT training grant from NSF.
+
+                        -- Bill
+
+                        William H. Warren, Professor
+                        Dept. of Cognitive & Linguistic Sciences
+                        Box 1978
+                        Brown University
+                        Providence, RI  02912
+                        (401) 863-3980 ofc, 863-2255 FAX
+                        Bill_Warren@brown.edu
+

@@ -1,0 +1,193 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Aug  7 07:55:55 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id HAA15239;
+	Fri, 7 Aug 1998 07:55:46 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa28659;
+          6 Aug 98 21:27 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa28657;
+          6 Aug 98 21:22 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18490;
+          6 Aug 98 21:22 EDT
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa19273;
+          6 Aug 98 15:04 EDT
+Received: from CNS.BU.EDU by MM.GP.CS.CMU.EDU id aa02316; 6 Aug 98 15:04:06 EDT
+Received: from retina.bu.edu (retina [128.197.61.93])
+	by cns (8.8.5/8.8.5/(BU-S-02/10/97-v1.0)) with SMTP id OAA27142;
+	Thu, 6 Aug 1998 14:43:10 -0400 (EDT)
+From: Cynthia Bradford <cindy@cns.bu.edu>
+Received: by retina.bu.edu (8.6.13/BU_Client-1.1)
+	id OAA28727; Thu, 6 Aug 1998 14:43:12 -0400
+Date: Thu, 6 Aug 1998 14:43:12 -0400
+Message-Id: <199808061843.OAA28727@retina.bu.edu>
+To: cindy@cns.bu.edu
+Subject: Boston University: Cognitive and Neural Systems 1999 Meeting
+Status: RO
+X-Status: 
+
+*****CALL FOR PAPERS***** 
+
+THIRD INTERNATIONAL CONFERENCE ON COGNITIVE AND NEURAL SYSTEMS 
+May 26-29, 1999 
+
+Sponsored by Boston University's
+Center for Adaptive Systems
+and 
+Department of Cognitive and Neural Systems
+with financial support from DARPA and ONR 
+
+
+How Does the Brain Control Behavior?
+
+How Can Technology Emulate Biological Intelligence? 
+
+The conference will include invited tutorials and lectures, and
+contributed lectures and posters by experts on the biology and
+technology of how the brain and other intelligent systems adapt 
+to a changing world. The conference is aimed at researchers and 
+students of computational neuroscience, connectionist cognitive 
+science, artificial neural networks, neuromorphic engineering, 
+and artificial intelligence.
+
+A single oral or poster session enables all presented work to be
+highly visible.
+
+Abstract submissions encourage submissions of the latest results. 
+
+Costs are kept at a minimum without compromising the quality of
+meeting handouts and social events.
+
+
+CALL FOR ABSTRACTS
+
+Session Topics:
+
+* vision 		     * spatial mapping and navigation 
+* object recognition 	     * neural circuit models 
+* image understanding 	     * neural system models 
+* audition 		     * mathematics of neural systems 
+* speech and language        * robotics 
+* unsupervised learning      * hybrid systems (fuzzy, evolutionary, digital)
+* supervised learning        * neuromorphic VLSI 
+* reinforcement and emotion  * industrial applications 
+* sensory-motor control      * other 
+* cognition, planning, and 
+  attention  
+
+Contributed Abstracts must be received, in English, by January 29,
+1999.  Notification of acceptance will be given by February 28,
+1999. A meeting registration fee of $45 for regular attendees and $30
+for students must accompany each Abstract. See Registration
+Information for details. The fee will be returned if the Abstract is
+not accepted for presentation and publication in the meeting
+proceedings. Registration fees of accepted abstracts will be returned
+on request only until April 15, 1999.
+ 
+Each Abstract should fit on one 8.5" x 11" white page with 1" margins
+on all sides, single-column format, single-spaced, Times Roman or
+similar font of 10 points or larger, printed on one side of the page
+only. Fax submissions will not be accepted. Abstract title, author
+name(s), affiliation(s), mailing, and email address(es) should begin
+each Abstract.  An accompanying cover letter should include: Full
+title of Abstract; corresponding author and presenting author name,
+address, telephone, fax, and email address; and a first and second
+choice from among the topics above, including whether it is biological
+(B) or technological (T) work.  Example: first choice: vision (T);
+second choice: neural system models (B).  (Talks will be 15 minutes
+long. Posters will be up for a full day. Overhead, slide, and VCR
+facilities will be available for talks.) Abstracts which do not meet
+these requirements or which are submitted with insufficient funds will
+be returned. Accepted Abstracts will be printed in the conference
+proceedings volume. No longer paper will be required. The original and
+3 copies of each Abstract should be sent to: Cynthia Bradford, Boston
+University, Department of Cognitive and Neural Systems, 677 Beacon
+Street, Boston, MA 02215.
+
+REGISTRATION INFORMATION: Early registration is recommended.  To
+register, please fill out the registration form below.  Student
+registrations must be accompanied by a letter of verification from a
+department chairperson or faculty/research advisor. If accompanied by
+an Abstract or if paying by check, mail to the address above.  If
+paying by credit card, mail as above, or fax to (617) 353-7755, or
+email to cindy@cns.bu.edu. The registration fee will help to pay for a
+reception, 6 coffee breaks, and the meeting proceedings.
+
+STUDENT FELLOWSHIPS: Fellowships for PhD candidates and postdoctoral
+fellows are available to cover meeting travel and living costs. The
+deadline to apply for fellowship support is January 29, 1999. Applicants
+will be notified by February 28, 1999. Each application should include 
+the applicant's CV, including name; mailing address; email address; 
+current student status; faculty or PhD research advisor's name, address, 
+and email address; relevant courses and other educational data; and a 
+list of research articles. A letter from the listed faculty or PhD advisor 
+on official institutional stationery should accompany the application and 
+summarize how the candidate may benefit from the meeting. Students who also 
+submit an Abstract need to include the registration fee with their
+Abstract. Reimbursement checks will be distributed after the meeting.
+
+
+REGISTRATION FORM 
+
+Third International Conference on Cognitive and Neural Systems 
+
+Department of Cognitive and Neural Systems
+Boston University 
+677 Beacon Street 
+Boston, Massachusetts 02215 
+Tutorials: May 26, 1999 
+Meeting: May 27-29, 1999 
+FAX: (617) 353-7755 
+
+(Please Type or Print) 
+
+Mr/Ms/Dr/Prof: _____________________________________________________
+
+Name: ______________________________________________________________
+
+Affiliation: _______________________________________________________
+
+Address: ___________________________________________________________
+
+City, State, Postal Code: __________________________________________
+
+Phone and Fax: _____________________________________________________
+
+Email: _____________________________________________________________
+
+
+The conference registration fee includes the meeting program,
+reception, two coffee breaks each day, and meeting proceedings. 
+The tutorial registration fee includes tutorial notes and two 
+coffee breaks.
+
+
+CHECK ONE:
+
+(  )  $70 Conference plus Tutorial (Regular) 
+(  )  $45 Conference plus Tutorial (Student)  
+(  )  $45 Conference Only (Regular) 
+(  )  $30 Conference Only (Student) 
+(  )  $25 Tutorial Only (Regular) 
+(  )  $15 Tutorial Only (Student) 
+
+
+METHOD OF PAYMENT (please fax or mail):
+
+[   ] Enclosed is a check made payable to "Boston University". 
+      Checks must be made payable in US dollars and issued by 
+      a US correspondent bank. Each registrant is responsible 
+      for any and all bank charges.
+
+[   ] I wish to pay my fees by credit card 
+      (MasterCard, Visa, or Discover Card only).
+
+Name as it appears on the card: _____________________________________
+
+Type of card: _______________________________________________________
+
+Account number: _____________________________________________________
+
+Expiration date: ____________________________________________________
+
+Signature: __________________________________________________________

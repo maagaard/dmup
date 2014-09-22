@@ -1,0 +1,373 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jul  7 03:51:58 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA25037;
+	Wed, 7 Jul 1999 03:51:51 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa22276;
+          6 Jul 99 14:02 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa22272;
+          6 Jul 99 13:55 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03103;
+          6 Jul 99 13:55 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa24984; 6 Jul 99 5:43 EDT
+Received: from math-s.math.tu-cottbus.de by RI.CMU.EDU id aa13307;
+          6 Jul 99 5:42:24 EDT
+Received: from vieta.math.tu-cottbus.de.math.tu-cottbus.de (vieta.math.tu-cottbus.de [141.43.35.1])
+	by Math.TU-Cottbus.DE (8.9.3/8.9.3) with SMTP id LAA28196;
+	Tue, 6 Jul 1999 11:35:59 +0200 (METDST)
+Received: from vieta.math.tu-cottbus.de by vieta.math.tu-cottbus.de.math.tu-cottbus.de (SMI-8.6/SMI-SVR4)
+	id LAA02849; Tue, 6 Jul 1999 11:35:58 +0200
+Message-Id: <199907060935.LAA02849@vieta.math.tu-cottbus.de.math.tu-cottbus.de>
+Date: Tue, 6 Jul 1999 11:35:58 +0200 (MET DST)
+From: Klaus Weber <klweber@Math.TU-Cottbus.DE>
+Reply-To: Klaus Weber <klweber@Math.TU-Cottbus.DE>
+Subject: NC'2000 Announcement and CfP
+To: Connectionists@CS.cmu.edu
+Cc: klweber@Math.TU-Cottbus.DE
+Status: RO
+X-Status: 
+
+
+ANNOUNCEMENT / CALL FOR PAPERS
+
+Second International ICSC Symposium on
+NEURAL COMPUTATION  /  NC'2000
+To be held at the Technical University of Berlin, Germany
+May 23-26, 2000
+
+http://www.icsc.ab.ca/nc2000.htm
+
+
+
+SYMPOSIUM CHAIR
+Prof. Hans Heinrich Bothe
+  Oerebro University
+  Dept. of Technology Science
+  Fakultetsgatan 1
+  S - 70182 Oerebro, Sweden
+  Email:    hans.bothe@ton.oru.se
+  Phone:   +46-19-10-3786
+  Fax:       +46-19-10-3463
+
+and
+
+  Technical University of Denmark (DTU)
+  Department of Information Technology
+  Building 344
+  DK-2800 Lyngby, Denmark
+  Email:    hhb@it.dtu.dk
+  Phone:   +45-4525-3632
+  Fax:       +45-4588-0117
+
+
+PUBLICATION CHAIR
+Prof. Raul Rojas
+  Freie Universit=E4t Berlin
+  Institut Informatik / FB Mathematik
+  Takustrasse 9
+  D - 14195 Berlin / Germany
+  Email:     rojas@inf.fu-berlin.de
+  Fax:        +49-30-8387-5109
+
+
+SYMPOSIUM ORGANIZER
+ICSC International Computer Science Conventions
+  P.O. Box 657
+  CH-8055 Zurich / Switzerland
+  Phone:    +41-878-888-150
+  Fax:        +41-1-761-9627
+  Email:      icsc@icsc.ch
+  WWW:    http://www.icsc.ab.ca
+
+
+INTERNATIONAL PROGRAM COMMITTEE
+Igor Aleksander, Imperial College of Science & Technology, London, U.K.
+Peter G. Anderson, Rochester Institute of Technology, NY, USA
+Horst Bischof, Technical University Vienna, Austria
+Ruediger W. Brause, J.W. Goethe-University, Frankfurt, Germany
+Juan Lopez Coronado, Universidad Polotecnica de Cartagena, Spain
+Ludwig Cromme, Brandenburgische Technische Universitaet Cottbus, Germany
+Chris deSilva, University of Western Australia Crawley, Australia
+Georg Dorffner, Austrian Research Institute for Artificial Intelligence, Vienna,
+Austria
+Kunihiko Fukushima, The University of  Electro-Communications, Tokyo, Japan
+Wulfram Gerstner, EPFL Lausanne, Switzerland
+Stan Gielen, University of Nijmegen, Netherlands
+Marco Gori, University of Siena, Italy
+Bruce Graham, University of Edinburgh, U.K.
+Gunham Dundar, Bosporus University, Istanbul, Turkey
+Chris J. Harris, University of Southampton, U.K.
+Dorothea Heiss-Czedik, Technical University Vienna, Austria
+Michael Heiss, Siemens Vienna, Austria
+Lakhmi C. Jain, University of South Australia, The Levels, Australia
+Nikola Kasabov, University of Otago, Dunedin, New Zealand
+Bart Kosko, University of Southern California, Los Angeles CA, USA
+Rudolf Kruse, University of Magedburg, Germany
+Fa-Long Luo, R&D Department, Redwood City, USA
+G.Nicolas Marichal, University of La Laguna Tenerife, Spain
+Giuseppe Martinelli, University of Rome 1, Italy
+Fazel Naghdy, University of Wollongong, Australia
+Sankar K. Pal, Indian Statistical Institute, Calcutta, India
+M. Palaniswami, University of Melbourne, Australia
+Yoh-Han Pao, Case Western Reserve University, Cleveland OH, USA
+Alexander V. Pavlov, Laboratory for Optical Fuzzy Systems, Russia
+Witold Pedrycz, University of Alberta, Canada
+Raul Rojas, Freie Universit=E4t Berlin, Germany
+V. David Sanchez A., Falon, Inc., San Diego CA, USA
+Bernd Schuermann, Siemens ZFE, Munich, Germany
+J.S. Shawe-Taylor, Royal Holloway University of London, U.K.
+Peter Sincak, Technical University of Kosice, Slovakia
+Nigel Steele, Coventry University, U.K.
+Rainer Stotzka, Forschungszentrum Karlsruhe, Germany
+Piotr Szczepaniak, Technical University of Lodz, Poland
+Csaba Szepesvari, University of Szeged, Hungary
+Henning Tolle, Technische Hochschule Darmstadt, Germany
+Shiro Usui, Toyohashi University of Technology, Toyohashi, Japan
+Klaus Weber, Technical University of Cottbus, Germany
+Andreas Weingessel, Technical University Vienna, Austria
+Takeshi Yamakawa, Kyushu Institute of Technology, Fukuoka, Japan
+Andreas Zell, Universitaet Tuebingen, Germany
+Jacek M. Zurada, University of Louisville, K.Y., USA
+(list incomplete)
+
+*************************************************
+
+
+INTRODUCTION
+
+The science of neural computation focusses on mathematical aspects to solve
+complex practical problems, and it also seeks to help neurology, brain theory
+and cognitive psychology in the understanding of the functioning of the nervous
+system by means of computational models of neurons, neural nets and subcellular
+processes. NC'2000 aims to become a major point of contact for research
+scientists, engineers and practitioners throughout the world in the field of
+Neural Computation. Participants will share the latest research, developments
+and ideas in the wide arena of disciplines encompassed under the heading of
+NC'2000 as a follow-up of the most successful NC'98 conference in Vienna,
+Austria.
+
+*************************************************
+
+
+TOPICS
+
+Contributions are sought in areas based on the list below, which is indicative
+only. Contributions from new applications areas are welcome.
+
+COMPUTATIONAL NEURAL NETWORK MODELS
+- Artificial neural network paradigms
+- Knowledge representation
+- Learing and generalization
+- Probabilistic neural networks
+- Information theoretic approaches
+- Time-coded neural networks
+- Pulse-coded neural networks
+- Self-organization
+- Cellular automata
+- Hybrid systems (e.g. neuro-fuzzy, GA, evolutionary strategies)
+- Chaos in neural networks
+- Statistical and numerical aspects
+
+NEUROPHYSIOLOGICALLY INSPRIED MODELS
+- Neurophysiological foundations
+- Spiking neuron models and neuron assemblies
+- Models of brain centers and sensory pathways
+- Sensormotor integration
+- Sensation, Perception and Attention
+- Spatio-temporal Orientation
+- Reactive Behavior
+
+SOFTWARE AND HARDWARE IMPLEMENTATIONS
+- Simulation and Graphical Programming Tools
+- Distributed Systems
+- Neuro-chips, -controllers and -computers
+- Analog and Digital Electronic Implementations
+- Optic, Holographic Implementations
+
+NEURAL NETWORK APPLICATIONS
+- Pre-processing and Feature Extraction
+- Sound, Speech and Image Processing
+- Pattern Recognition and System Identification
+- Computer Vision, Feature Binding and Image Understanding
+- Autonomous Sensor Systems, Multivariate Sensor Fusion
+- Robotics and Control
+- Behavior based Exploration and Planning
+- Power Systems
+- Environmental Systems
+- Decision Support Systems
+- Medical Applications
+- Operational Research and Logistics
+
+*************************************************
+
+
+SCIENTIFIC PROGRAM
+
+NC'2000 will include invited plenary talks, contributed sessions, invited
+sessions, workhops and tutorials.
+
+*************************************************
+
+
+INVITED SESSIONS
+
+The organization of invited sessions is encouraged. Prospective organizers are
+requested to send a session proposal (consisting of 4-5 invited papers, the
+recommended session-chair and co-chair, as well as a short statement describing
+the title and the purpose of the session to the Symposium Chairman or the
+Symposium Organizer. Invited sessions should preferably start with a tutorial
+paper. The registration fee of the session organizer will be waived, if at least
+4 authors of invited papers register to the conference.
+
+*************************************************
+
+
+POSTER PRESENTATIONS
+
+Poster presentations are encouraged for people who wish to receive peer feedback
+and practical examples of applied research are particularly welcome. Poster
+sessions will allow the presentation and discussion of respective papers, which
+will also be included in the conference proceedings.
+
+*************************************************
+
+
+WORKSHOPS, TUTORIALS AND OTHER CONTRIBUTIONS
+
+Proposals should be submitted as soon as possible to the Symposium Chairman or
+the Symposium Organizer.
+
+*************************************************
+
+
+SUBMISSION OF PAPERS
+
+Prospective authors are requested to either send a draft paper or an extended
+abstract for review by the International Program Committee. All papers must be
+written in English, starting with a succinct statement of the problem, the
+results achieved, their significance and a comparison with previous work.
+
+Submissions must be received by October 31, 1999. Regular papers, as well as
+poster presentations, tutorial papers and invited sessions are encouraged.
+
+The abstract should also include:
+- Title of conference (NC'2000)
+- Type of paper (regular, poster, tutorial or invited)
+v- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+- Short CV of authors (recommended)
+
+Contributions are welcome from those working in industry and having experience
+in the topics of this conference as well as from academics. The conference
+language is English.
+
+It is strongly recommended to submit abstracts by electronic mail to
+
+  icsc@icsc.ch
+
+or else by fax or mail (2 copies) to the following address:
+
+  ICSC Switzerland
+  P.O. Box 657
+  CH-8055 Zurich
+  Switzerland
+  Fax: +41-1-761-9627
+
+*************************************************
+
+
+BEST PRESENTATION AWARDS
+
+The best oral and poster presentations will be honored with best presentation
+awards.
+
+
+*************************************************
+
+
+PUBLICATIONS
+
+Conference proceedings (including all accepted papers) will be published by ICSC
+Academic Press and be available for the delegates at the symposium in printed
+form or on CD-ROM.
+
+Authors of a selected number of innovative papers will be invited to submit
+extended manuscripts for publication in prestigious international journals.
+
+*************************************************
+
+v
+IMPORTANT DATES
+
+- Submission Deadline:		October 31, 1999
+- Notification of Acceptance:	         	December 31, 1999
+- Delivery of full papers:	            February 15, 2000
+- Tutorials and Workshops:            	May 23, 2000
+- NC'2000 Symposium:                    	May 24-26, 2000
+
+*************************************************
+
+
+ACCOMMODATION
+
+Accommodation at reasonable rates will be available at nearby hotels. Full
+details will follow with the letters of acceptance.
+
+*************************************************
+
+
+SOCIAL AND TOURIST ACTIVITIES
+
+A social program will be organized and also be available for accompanying
+persons.
+
+*************************************************
+
+
+THE FASCINATING CITY OF BERLIN
+
+The old and new capital of Germany is a mecca for scientists and cultural
+enthusiasts, for day workers and night owls. Charming with its several opera
+houses, concert halls, cabarets, and beer gardens, Berlin is full of spontaneous
+cultural events or happenings. As an urban building site for the future, it is
+at the same time a living contradiction and a casual place with relaxation areas
+and large parks right in the city center. The fine nature, pine tree forests,
+and '1001' lakes around the city supply Berlin with it's very specific
+'sparkling air' in spring time. No other city in Germany has during the last 100
+years played such a prominent role in history and in the imagination of the
+people: social and industrial revolution, world war I and later manifestation of
+the first German republic, the 'Golden Twenties', nazis dictatorship and world
+war II, splitting by the Berlin Wall, 'economic miracle' in the west and
+socialistic showpiece city in the east, '68 student and alternative lifestyle
+movement in the west and peace movement in the east, and finally, the fall of
+the Wall. Berlin tempts with its many research facilities, and it is Germany's
+largest industrial city with headquarters or dependences of most major
+vcompanies. At present, approximately 3.5 million inhabitants live in the
+reunified city, among which more than 120.000 students, who study in three
+universities and twelve colleges or schools of arts.
+Berlin ist eine Reise wert.
+Welcome!
+
+*************************************************
+
+
+FURTHER INFORMATION
+
+Fully updated information is available from
+
+http://www.icsc.ab.ca/nc2000.htm
+
+You may also contact
+
+- ICSC International Computer Science Conventions
+  P.O. Box 657, CH-8055 Zurich, Switzerland
+  Email:   icsc@icsc.ch
+  Phone:  +41-878-888-150
+  Fax:      +41-1-761-9627
+
+or, for specific scientific requests, the symposium chairman.
+

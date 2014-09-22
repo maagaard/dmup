@@ -1,0 +1,141 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Apr  6 06:07:13 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA00646;
+	Tue, 6 Apr 1999 06:07:08 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18863;
+          5 Apr 99 23:07 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18850;
+          5 Apr 99 22:58 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12386;
+          5 Apr 99 22:58 EDT
+Received: from MM.GP.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa27592;
+          5 Apr 99 21:33 EDT
+Received: from snowmass.phys.nwu.edu by MM.GP.CS.CMU.EDU id aa14904;
+          5 Apr 99 21:32:24 EDT
+Received: (from solla@localhost)
+	by snowmass.phys.nwu.edu (8.8.5/8.8.5) id UAA10264
+	for Connectionists@C.CS.CMU.EDU; Mon, 5 Apr 1999 20:32:18 -0500 (CDT)
+From: "Sara A. Solla" <solla@snowmass.phys.nwu.edu>
+Message-Id: <199904060132.UAA10264@snowmass.phys.nwu.edu>
+Subject: NIPS*99 -- Call for Workshop Proposals 
+To: Connectionists@mm.gp.cs.cmu.edu
+Date: Mon, 5 Apr 1999 20:32:18 -0500 (CDT)
+Reply-To: solla@nwu.edu
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Status: RO
+X-Status: 
+
+
+
+
+
+                CALL FOR WORKSHOP PROPOSALS -- NIPS*99 
+
+                   NIPS*99 Post Conference Workshops
+                         December 3 and 4, 1999
+                         Breckenridge, Colorado
+
+
+Following the regular program of the Neural Information Processing Systems 1999 
+conference, workshops on various current topics in neural information processing
+will be held on December 3 and 4, 1999, in Breckenridge, Colorado. Proposals by 
+qualified individuals interested in chairing one of these workshops are solicited. 
+Past topics have included:
+
+              Active Learning                 Architectural Issues         
+              Attention                       Audition                 
+              Bayesian Analysis               Bayesian Networks
+              Benchmarking                    Brain Imaging                
+              Computational Complexity        Computational Molecular Biology 
+              Control                         Genetic Algorithms 
+              Graphical Models                Hippocampus and Memory 
+              Hybrid HMM/ANN Systems          Implementations
+              Music                           Neural Plasticity 
+              Network Dynamics                On-Line Learning 
+              Optimization                    Recurrent Nets 
+              Robot Learning                  Rule Extraction
+              Self-Organization               Sensory Biophysics 
+              Signal Processing               Support Vectors 
+              Speech                          Time Series 
+              Topological Maps                Vision Models and Applications
+
+The goal of the workshops is to provide an informal forum for researchers to
+discuss important issues of current interest. There will be six hours of workshop 
+meetings per day, split into morning and afternoon sessions, with free time in 
+between for ongoing individual exchange or outdoor activities. 
+
+Concrete open and/or controversial issues are encouraged and preferred as workshop
+topics. Representation of alternative viewpoints and panel-style discussions are 
+particularly encouraged. 
+
+Workshop organizers will have responsibilities including:
+
+1) coordinating workshop participation and content, which involves arranging 
+   short informal presentations by experts working in an area, arranging for 
+   expert commentators to sit on a discussion panel, formulating a set of 
+   discussion topics, etc.
+
+2) moderating or leading the discussion and reporting its high points, findings, 
+   and conclusions to the group during evening plenary sessions
+
+3) writing a brief summary and/or coordinating submitted material for post
+   conference electronic dissemination.
+
+
+SUBMISSION INSTRUCTIONS: Interested parties should submit a short proposal for 
+a workshop via e-mail by by May 28, 1999.  
+
+Proposals should include a title, a description of what the workshop is to 
+address and accomplish, the proposed length of the workshop (one day or two days),
+the planned format (mini-conference, panel discussion or group discussion, 
+combinations of the above, etc.), and the proposed number of speakers. The names 
+of invitees and/or potential invitees should be given whenever possible. Note 
+that preference will be given to workshop proposals that reserve a significant 
+portion of the time for open discussion and/or panel discussion, as opposed to 
+a pure "mini-conference" format. An example of a good workshop format is as 
+follows:  
+
+  Hour 1: Tutorial lecture providing background and introducing terminology 
+          relevant to the topic. 
+  Hours 2,3,4,5: Four half-hour lectures introducing different approaches to
+          the topic, alternating with half-hour discussions following each
+	  lecture.   
+  Hour 6: General discussion.
+
+We suggest that organizers allocate at least 50% of the workshop schedule to 
+questions, discussion, and breaks. Past experience suggests that workshops 
+otherwise degrade into mini-conferences as talks begin to run over.
+
+The proposal should motivate why the topic is of interest or controversial, why 
+it should be discussed, and who the targeted group of participants is. In addition,
+it should include a brief resume of the prospective workshop chair with a list of 
+publications to establish scholarship in the field of interest. Submissions need 
+to include contact name, address, e-mail address, phone number, and fax number if 
+available.
+
+Proposals can be mailed electronically to becker@mcmaster.ca. All proposals must 
+be RECEIVED by May 28, 1999. If e-mail is unavailable, mail the proposal so that 
+it will arrive by the deadline at: 
+
+  NIPS*99 Workshops 
+  c/o Rich Caruana
+  School of Computer Science
+  Carnegie Mellon University
+  5000 Forbes Avenue
+  Pittsburgh, PA 15213, USA
+
+Questions may be addressed to either of the Workshop Co-Chairs:
+
+Sue Becker                               Rich Caruana
+McMaster University                      Carnegie Mellon University
+becker@mcmaster.ca                       caruana@cs.cmu.edu
+
+	    PROPOSALS MUST BE RECEIVED BY MAY 28, 1999
+
+
+ 
+
+

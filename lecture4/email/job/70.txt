@@ -1,0 +1,54 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sun Feb 14 13:21:53 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA07320;
+	Sun, 14 Feb 1999 13:21:47 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24546;
+          14 Feb 99 4:24 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24544;
+          14 Feb 99 4:18 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22856;
+          14 Feb 99 4:18 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id ab06664; 14 Feb 99 3:27 EST
+Received: from neuron.tau.ac.il by EDRC.CMU.EDU id aa13137;
+          14 Feb 99 3:26:57 EST
+Received: from localhost (horn@localhost) by neuron.tau.ac.il (8.8.5/8.7.5) with SMTP id KAA07010; Sun, 14 Feb 1999 10:26:33 +0200 (IST)
+Date: Sun, 14 Feb 1999 10:26:32 +0200 (IST)
+From: David Horn <horn@neuron.tau.ac.il>
+To: cogpsy@listserv.tamu.edu, cneuro@bbb.caltech.edu,
+        connectionists@cs.cmu.edu
+Subject: Position in Functional Brain Imaging at Tel Aviv University
+Message-ID: <Pine.SGI.3.96-heb-2.07.990214102157.1123J-100000@neuron.tau.ac.il>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+                     TEL AVIV UNIVERSITY
+
+      SENIOR ACADEMIC POSITION IN FUNCTIONAL BRAIN IMAGIMG
+
+               ADAMS SUPER CENTER FOR BRAIN STUDIES
+
+Applications are invited for a senior academic position in functional
+brain imaging. The successful applicant should have experience in fMRI
+and will be expected to lead a research program in this field in
+collaboration with different disciplines throughout Tel Aviv University.
+The appointment procedure shall be according to the nomination
+regulations of Tel Aviv University. Departmental affiliation will be
+decided according to the academic background of the appointee.
+
+Applications including a CV, list of publications and a short summary of
+research interests should be sent by April 15th, 1999 to:
+Prof. David Horn, Adams Super Center for Brain Studies,
+Kaplun Bldg. room #428, Tel Aviv University, Tel Aviv, 69978, Israel.
+(Fax: ++972-3-6407932; e-mail: brainctr@neuron.tau.ac.il).
+
+Candidates should arrange to have three letters of reference transmitted
+directly to the above address.
+
+
+
+

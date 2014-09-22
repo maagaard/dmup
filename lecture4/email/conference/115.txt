@@ -1,0 +1,101 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Jun 13 03:49:53 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id DAA18121;
+	Sat, 13 Jun 1998 03:49:43 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05958;
+          12 Jun 98 19:31 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05956;
+          12 Jun 98 19:24 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02276;
+          12 Jun 98 19:23 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa13418; 12 Jun 98 14:00 EDT
+Received: from [157.228.12.13] by EDRC.CMU.EDU id aa12774;
+          12 Jun 98 13:59:15 EDT
+Received: from skuld.sunderland.ac.uk (skuld.sund.ac.uk) [157.228.106.130] 
+	by isis.sunderland.ac.uk with smtp (Exim 1.82 #2)
+	id 0ykY7n-0007af-00; Fri, 12 Jun 1998 19:00:27 +0100
+Received: from sunderland.ac.uk by skuld.sund.ac.uk (SMI-8.6/SMI-SVR4)
+	id SAA19230; Fri, 12 Jun 1998 18:57:05 +0100
+Sender: Stefan.Wermter@sunderland.ac.uk
+Message-ID: <35816BF0.53A4D1E4@sunderland.ac.uk>
+Date: Fri, 12 Jun 1998 18:57:04 +0100
+From: Stefan Wermter <stefan.wermter@sunderland.ac.uk>
+X-Mailer: Mozilla 4.04 [en] (X11; I; SunOS 5.5.1 sun4u)
+MIME-Version: 1.0
+To: colibri@let.ruu.nl, ccl@dfki.uni-sb.de,
+        "corpora@hd.uib.no" <corpora@hd.uib.no>,
+        "elsnet-list@cogsci.ed.ac.uk" <elsnet-list@cogsci.ed.ac.uk>,
+        "elsnet-list@let.ruu.nl" <elsnet-list@let.ruu.nl>, ln@cnusc.fr,
+        nl-kr@snyside.sunnyside.com, empiricists@csli.stanford.edu,
+        fj-ai@etl.go.jp, "LINGUIST@TAMVM1.TAMU.EDU" <LINGUIST@TAMVM1.TAMU.EDU>,
+        cneuro@bbb.caltech.edu,
+        "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>,
+        SCIENCE-JOBS-DE@RELAY.URZ.UNI-HEIDELBERG.DE, hybrid-list@cs.ua.edu,
+        nats@nats.informatik.uni-hamburg.de, INDUCTIVE@hermes.csd.unb.ca,
+        IR-L@LISTSERV.UCOP.EDU, cogpsy@cogsci.soton.ac.uk
+CC: stefan.wermter@sunderland.ac.uk
+Subject: Job: Neural and Intelligent Systems
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Please post,
+thank you very much,
+
+Stefan Wermter
+
+---------------------------
+
+Research Assistant in Neural and Intelligent Systems
+
+(reference number CIRG28)
+
+Applications are invited for a three year research assistant
+position in the School of Computing and Information Systems
+investigating the development of hybrid neural/symbolic techniques
+for intelligent processing. This is an exciting new project which
+aims at developing new environments for integrating neural networks
+and symbolic processing. You will play a key role in the development
+of such hybrid subsymbolic/symbolic environments. It is intended
+to apply the developed hybrid environments in areas such as natural
+language processing, intelligent information extraction, or the
+integration of speech/language in multimedia applications.
+
+You should have a degree in a computing discipline and will be
+able to register for a higher degree. A demonstrated interest in
+artificial neural networks, software engineering skills and
+programming experience are essential (preferably including a subset
+of C, C++, CommonLisp, Java, GUI). Experience and interest in neural
+network software and simulators would be an advantage (e.g. Planet,
+SNNS, Tlearn, Matlab, etc). Salary is according to the researcher A
+scale (currently up to  13,871, under revision).
+
+Application forms and further particulars are available from the
+Personnel department under +44 191 515 and extensions 2055, 2429,
+2054, 2046, or 2425 or E-Mail employee.recruitment@sunderland.ac.uk
+quoting the reference number CIRG28.
+
+For informal inquiries please contact Professor Stefan Wermter,
+e-mail: Stefan.Wermter@sunderland.ac.uk. Closing date:  10 July 1998.
+The successful candidate is expected to start the job as soon as
+possible.
+
+
+
+********************************************
+Professor Stefan Wermter
+University of Sunderland
+Dept. of Computing & Information Systems
+St Peters Way
+Sunderland SR6 0DD
+United Kingdom
+
+phone: +44 191 515 3279
+fax:   +44 191 515 2781
+email: stefan.wermter@sunderland.ac.uk
+http://osiris.sunderland.ac.uk/~cs0stw/
+********************************************
+

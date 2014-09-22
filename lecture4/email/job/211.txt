@@ -1,0 +1,49 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Oct 30 05:27:29 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id FAA29350;
+	Sat, 30 Oct 1999 05:27:26 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab20669;
+          29 Oct 99 21:48 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab20667;
+          29 Oct 99 21:42 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27566;
+          29 Oct 99 21:42 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa12530; 29 Oct 99 12:48 EDT
+Received: from avion.cs.umd.edu by edrc.cmu.edu id aa13215; 29 Oct 99 12:48 EDT
+Received: (from reggia@localhost)
+	by avion.cs.umd.edu (8.9.3/8.9.1) id MAA28723
+	for connectionists@cs.cmu.edu; Fri, 29 Oct 1999 12:48:09 -0400 (EDT)
+Date: Fri, 29 Oct 1999 12:48:09 -0400 (EDT)
+From: "James A. Reggia" <reggia@cs.umd.edu>
+Message-Id: <199910291648.MAA28723@avion.cs.umd.edu>
+To: connectionists@cs.cmu.edu
+Subject: postdoc position, computational neuroscience and language
+Status: RO
+X-Status: 
+
+
+Post-doctoral Fellowships in the Cognitive Neuroscience of Language and its
+Disorders
+
+Two-year National Research Service Award fellowships are available at the 
+University of Maryland School of Medicine, in Baltimore, Maryland.  Training 
+opportunities will provide experience in the application of contemporary 
+research methods (including computational modeling, cognitive neuropsychology,
+event-related potentials and functional neuroimaging) to the topic of normal 
+and disordered language processing.   Applicants with doctoral degrees in 
+related basic science areas (computer sciene, neuroscience, linguistics, 
+cognitive psychology, etc.) and clinical disciplines (speech/language 
+pathology; clinical neuropsychology) are invited to apply.  Applicants must 
+be U.S. citizens or permanent residents to be considered, under the terms 
+of the NRSA program.  Inquiries may be directed to Rita Berndt at 
+rberndt@umaryland.edu or to Jim Reggia at reggia@cs.umd.edu .   To apply, 
+send HARD COPIES of your C.V., the names and addresses of three referees, 
+and a statement of research interests and career goals to: 
+
+   Rita S. Berndt, Ph.D. 
+   Department of Neurology 
+   University of Maryland School of Medicine 
+   22 South Greene Street 
+   Baltimore, Maryland  21201 USA 

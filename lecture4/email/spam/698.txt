@@ -1,0 +1,39 @@
+
+
+From getaways123@england.com Sat Nov 27 20:12:33 MET 1999
+Received: from hendrix.imm.dtu.dk (hendrix.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id UAA02408
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 27 Nov 1999 20:12:32 +0100 (MET)
+From: getaways123@england.com
+Received: from england.com (1Cust75.tnt4.daytona-beach.fl.da.uu.net [63.22.0.75])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with SMTP id UAA01411
+	for <www@hendrix.imm.dtu.dk>; Sat, 27 Nov 1999 20:14:01 +0100 (MET)
+To: www@hendrix.imm.dtu.dk
+Subject: Is this you ?
+Date: Sat, 27 Nov 1999 14:22:20
+Message-Id: <48.652052.342044@england.com>
+Reply-To: getaway@aol.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Status: RO
+X-Status: 
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Click Here</title>
+</head>
+
+<body>
+
+<p><b><a href="http://getaways1.net/"><font color="#0000FF" size="6" face="Albertus Extra Bold">Click
+Here</font></a></b></p>
+
+</body>
+
+</html>

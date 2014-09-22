@@ -1,0 +1,105 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Mar  6 04:37:41 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id EAA27594;
+	Sat, 6 Mar 1999 04:37:21 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab12576;
+          5 Mar 99 21:22 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab12574;
+          5 Mar 99 21:12 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27057;
+          5 Mar 99 21:11 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa10955; 5 Mar 99 11:33 EST
+Received: from faceng.anu.edu.au by EDRC.CMU.EDU id aa13720;
+          5 Mar 99 11:32:50 EST
+Received: from first.gmd.de (smola@bass.anu.edu.au [150.203.43.123]) by faceng (8.6.11/8.6.4) with ESMTP id DAA08319 for <Connectionists@cs.cmu.edu>; Sat, 6 Mar 1999 03:32:44 +1100
+Sender: smola@faceng.anu.edu.au
+Message-ID: <36DF41CE.306494D8@first.gmd.de>
+Date: Fri, 05 Mar 1999 03:30:38 +0100
+From: Alex Smola <smola@first.gmd.de>
+Organization: GMD FIRST
+X-Mailer: Mozilla 4.5 [en] (X11; I; Linux 2.0.36 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connect <Connectionists@CS.cmu.edu>
+Subject: PhD Thesis on "Learning with Kernels"
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear Connectionists,
+
+the PhD Thesis "Learning with Kernels" was unavailable for download in
+the past two months since i discovered a couple of wrong constants in
+sections 6-8. These are fixed now and the thesis can be downloaded again
+at
+	http://svm.first.gmd.de/papers/Smola98.ps.gz
+I apologize for the inconvenience that this may have caused to you.
+
+Alex J. Smola
+
+[ Moderator's note:  here is the abstract from the previous announcment.  -- DST]
+
+  Support Vector (SV) Machines combine several techniques from
+  statistics, machine learning and neural networks. One of the most 
+  important ingredients are kernels, i.e. the concept of transforming
+  linear algorithms into nonlinear ones via a map into feature
+  spaces. The present work focuses on the following issues:
+
+  - Extensions of Support Vector Machines.
+  - Extensions of kernel methods to other algorithms such as
+    unsupervised learning. 
+  - Capacity bounds which are particularly well suited for kernel
+    methods.  
+
+  After a brief introduction to SV regression it is shown how the
+  classical \epsilon insensitive loss function can be replaced by other
+  cost functions while keeping the original advantages or adding other
+  features such as automatic parameter adaptation.
+
+  Moreover the connection between kernels and regularization is pointed 
+  out. A theoretical analysis of several common kernels follows and
+  criteria to check Mercer's condition more easily are presented. 
+  Further modifications lead to semiparametric models and greedy 
+  approximation schemes.  Next three different types of optimization
+  algorithms, namely interior point codes, subset selection algorithms,
+  and sequential minimal optimization (including pseudocode) are
+  presented. The primal--dual framework is used as an analytic tool 
+  in this context.
+
+  Unsupervised learning is an extension of kernel methods to new
+  problems. Besides Kernel PCA one can use the regularization to obtain
+  more general feature exractors. A second approach leads to regularized
+  quantization functionals which allow a smooth transition between the
+  Generative Topographic Map and Principal Curves.
+
+  The second part of the thesis deals with uniform convergence bounds
+  for the algorithms and concepts presented so far. It starts with a
+  brief self contained overview over existing techniques and an
+  introduction to functional analytic tools which play a crucial role in
+  this problem. By viewing the class of kernel expansions as an image of
+  a linear operator it is possible to give bounds on the generalization
+  ability of kernel expansions even when standard concepts like the VC
+  dimension fail or give way too conservative estimates.
+
+  In particular it is shown that it is possible to compute the covering
+  numbers of the given hypothesis classes directly instead of taking the
+  detour via the VC dimension. Applications of the new tools to SV
+  machines, convex combinations of hypotheses (i.e. boosting and sparse
+  coding), greedy approximation schemes, and principal curves conclude
+  the presentation.
+
+
+-- 
+    / Address until 3/17/99                                         /
+   / Alex J. Smola                  Department of Engineering      /
+  / Australian National University Canberra 0200, Australia       /
+ / Tel: (+61) 2 6279 8536         smola@first.gmd.de             /
+/ Fax: (+61) 2 6249 0506         http://www.first.gmd.de/~smola /
+
+   / Private Address 
+  / University House               GPO Box 1535                  /
+ / Australian National University Canberra 2601, Australia      /
+/ Tel: (+61) 2 6249 5378                                       /

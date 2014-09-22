@@ -1,0 +1,72 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Dec  2 01:58:35 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA02463;
+	Wed, 2 Dec 1998 01:58:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05012;
+          1 Dec 98 18:55 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05010;
+          1 Dec 98 18:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00623;
+          1 Dec 98 18:37 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aq18987; 1 Dec 98 16:41 EST
+Received: from comp.uark.edu by RI.CMU.EDU id aa06040; 1 Dec 98 15:16:22 EST
+Received: from comp.uark.edu (dangermouse.uark.edu [130.184.201.233])
+	by comp.uark.edu (8.9.0/8.9.0) with ESMTP id OAA27137
+	for <connectionists@cs.cmu.edu>; Tue, 1 Dec 1998 14:16:13 -0600 (CST)
+Sender: dblank@comp.uark.edu
+Message-ID: <36644E53.1C470D51@comp.uark.edu>
+Date: Tue, 01 Dec 1998 14:15:15 -0600
+From: Douglas Blank <dblank@comp.uark.edu>
+Organization: University of Arkansas, CS
+X-Mailer: Mozilla 4.06 [en] (X11; I; Linux 2.0.35 i686)
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>
+Subject: PhD Fellowships, Fall 1999: Please Post
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+PhD Fellowships, Fall 1999
+
+	    Department of Computer Science and Engineering
+	    Artificial Intelligence & Robotics Laboratory
+
+The University of Arkansas, Fayetteville, is now accepting
+applications for PhD fellowships. Students may study any of a wide
+range of computer science topics, including high-level connectionist
+modeling, intelligent robotic control, textual processing, software
+agency, data mining, and methods of emergent computation.
+
+Five fellowships are available starting Fall 1999, each providing
+$15k/year plus tuition. Each fellowship is renewable for a total of 4
+years.
+
+Candidates for this fellowship should be US citizens, or permanent
+residents of the US. 
+
+UA is located in the Ozark Mountains on the borders of Arkansas,
+Missouri, and Oklahoma.
+
+Applicants should apply to the Graduate School, and for a Graduate
+Assistantship. Application materials are available online at
+http://www.uark.edu/depts/gradinfo/
+
+For more information, please contact:
+
+              Graduate Advisor
+              Department of Computer Science
+              Science-Engineering 232
+              University of Arkansas
+              Fayetteville, AR 72701
+	      Voice: (501)575-6427 FAX: (501)575-3817
+              http://csci.uark.edu/
+              csci@cavern.uark.edu
+
+-- 
+=====================================================================
+dblank@comp.uark.edu            Douglas Blank, University of Arkansas
+Assistant Professor                                  Computer Science
+==================== http://www.uark.edu/~dblank ====================

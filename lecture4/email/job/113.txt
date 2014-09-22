@@ -1,0 +1,85 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri May  7 06:43:53 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA04027;
+	Fri, 7 May 1999 06:43:46 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab04638;
+          6 May 99 10:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa04636;
+          6 May 99 10:03 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26119;
+          6 May 99 10:03 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13701; 6 May 99 4:41 EDT
+Received: from icpc.icpc.fukui-u.ac.jp by CS.CMU.EDU id aa13180;
+          6 May 99 4:41:18 EDT
+Received: from synapse.fuis.fukui-u.ac.jp by icpc. (SMI-8.6/SMI-SVR4)
+	id RAA22978; Thu, 6 May 1999 17:40:08 +0900
+Received: from synapse.fuis.fukui-u.ac.jp ([133.7.61.247]) by synapse.fuis.fukui-u.ac.jp (8.7.3+2.6Wbeta5/3.4W4) with ESMTP id RAA17036 for <Connectionists@CS.CMU.EDU>; Thu, 6 May 1999 17:38:21 +0900 (JST)
+Message-ID: <373152B8.5A09912E@synapse.fuis.fukui-u.ac.jp>
+Date: Thu, 06 May 1999 17:28:40 +0900
+From: kazuyuki murase <murase@synapse.fuis.fukui-u.ac.jp>
+X-Mailer: Mozilla 4.5 [ja] (WinNT; I)
+X-Accept-Language: ja
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+Subject: Professor Positions in Japan
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+Dear Sirs;
+
+I would like to announce the following openings of three Professor
+and/or Associate Professor positions in the Department of Human and
+Artificial Intelligent Systems at Fukui University in Japan. Potential
+candidates are welcome to apply, and also I would appreciate if you
+inform this to your colleagues who might be interested.
+
+Sincerely yours,
+
+Kazuyuki Murase
+Chairman
+Department of Human and Artificial Intelligent Systems (HARTs)
+Faculty of Engineering, Fukui University
+3-9-1 Bunkyo, Fukui 910-8507, Japan.
+Phone: (+81) 776-27-8774, Fax: (+81) 776-27-8751
+E-mail: murase@synapse.fuis.fukui-u.ac.jp
+
+
+THREE FACULTY POSITIONS AVAILABLE
+
+The Faculty of Engineering at the Fukui University, a National
+University of Japan, seeks candidates for three professor and/or
+associate professor positions in the newly established Department of
+Human and Artificial Intelligent Systems (HARTs). The department is
+aimed to study and teach fundamentals and applications of systems with
+intelligence. It is consisted of three academic units, the Basic
+Intelligent Systems, the Applied Intelligent Systems, and the
+Intelligent Systems for Human Aid, and is planed to have a total of
+twenty-two faculty members by the fiscal year of 2002.  Candidates
+with a variety of backgrounds related to the human and artificial
+intelligence as well as systems science and engineering are encouraged
+to apply. The area of research includes; Intelligent Robotics,
+Intelligent Sensing, Cognitive Science, Emergent Systems, Automatic
+Control, Artificial Intelligence, AI Systems, Adaptive Learning and
+Autonomous Systems, Evolutionary Systems, Multi-agent Systems, and
+others. Applicants are expected to establish an independent, and
+highly original, research program. They are to teach graduate and
+undergraduate courses, in which students are mostly Japanese, and to
+supervise student research at the levels of Undergraduate, Master and
+Doctor degrees.
+
+Applicants should send a curriculum vitae, copies of publications,
+summaries of twelve representative publications, a statement of
+present and future research plans and teaching interest, and two names
+of references by August 31, 1999, to Dr. Kazuyuki Murase, Department
+of Human and Artificial Intelligent Systems, Fukui University, 3-9-1
+Bunkyo, Fukui 910-8507, Japan.
+
+For informal inquiries, phone: (0776) 27-8774, fax:(0776) 27-8751.
+E-mail: murase@synapse.fuis.fukui-u.ac.jp
+
+
+

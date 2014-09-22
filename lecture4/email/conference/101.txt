@@ -1,0 +1,171 @@
+
+
+From ml-connectionists-request@telnet-1.SRV.CS.CMU.EDU Wed May 20 09:30:50 MET 1998
+Received: from telnet-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id JAA05453
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 20 May 1998 09:30:48 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id ab15572;
+          19 May 98 21:33:16 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id ab15570;
+          19 May 98 21:08:30 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17432;
+          19 May 98 21:08 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab29651; 19 May 98 12:49 EDT
+Received: from [146.80.9.20] by RI.CMU.EDU id aa06200; 19 May 98 12:48:38 EDT
+Received: from byron.dra.hmg.gb (byron.dra.hmg.gb [193.61.199.121])
+        by signal.dra.hmg.gb (8.8.5/) with ESMTP id RAA26808
+        for <Connectionists@CS.CMU.EDU>; Tue, 19 May 1998 17:48:20 +0100
+Received: from ovid.dra.hmg.gb (ovid.dra.hmg.gb [193.61.199.62])
+        by byron.dra.hmg.gb (8.8.5/) with ESMTP id RAA31526
+        for <Connectionists@CS.CMU.EDU>; Tue, 19 May 1998 17:48:19 +0100 (BST)
+Received: from localhost (localhost [127.0.0.1])
+        by ovid.dra.hmg.gb (8.8.5/) with SMTP id RAA04634
+        for Connectionists@CS.CMU.EDU; Tue, 19 May 1998 17:48:19 +0100 (BST)
+Message-Id: <RAA04634@ovid.dra.hmg.gb>
+To: Connectionists@cs.cmu.edu
+Subject: CFP: EuroFusion98 Conference
+Date: Tue, 19 May 98 17:48:19 +0100
+From: "John V. Black" <black@signal.dera.gov.uk>
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+
+EuroFusion98 Conference
+
+6th-7th October 1998
+
+The EuroFusion98 Conference will be held on Tuesday 6th (pm only) and 
+Wednesday 7th  October 1998 in the Elgar Suite at the Abbey Hotel, Great 
+Malvern, UK. The official language of the conference will be English.
+
+The aim of the conference is to bring together researchers, users and 
+others interested in any aspect of data fusion. The conference will 
+comprise presentations, practical demonstrations, displays and posters on 
+theoretical developments and practical applications on data fusion topics 
+including, but not limited to, the following:
+
+Bayesian methods
+Dempster-Shafer techniques
+Probability Fusion
+Decision-level Fusion
+Neural networks
+Medical applications
+Condition monitoring
+Aerospace applications
+Financial applications
+Defence applications
+Security applications
+Transport applications
+Remote sensing
+Demining
+
+Original papers on research and development are solicited for a regular 
+session of refereed presentations and for a workshop of selected unrefereed 
+short presentations. Workshop papers will be selected for originality of 
+the approach or the importance of the application. The conference also 
+offers keynote talks by invited speakers.
+
+If you are interested in presenting your work at this conference please 
+send a one-page abstract to the programme chair at the address below by 
+Monday 8th June, indicating the presenting author, his / her contact 
+details and whether the work is to be considered for a standard refereed 
+paper, a short workshop paper or a poster. All accepted papers will be 
+published in the conference proceedings. Anyone wishing to give a practical 
+demonstration or display should also contact the programme chair as soon as 
+possible.
+
+Authors will be notified by Monday 29th June regarding the acceptance of 
+their paper and camera-ready papers must be submitted by Monday 7th 
+September.
+
+Conference General Chair	
+Jane O'Brien	
+Pattern and Information Processing	
+DERA	
+St. Andrews Road	
+Malvern	
+Worcestershire, WR14 3PS, UK	
+Telephone: +44 1684 895618	
+Fax: +44 1684 894384	
+Email: job@signal.dera.gov.uk	
+
+Conference Programme Chair	
+Mark Bedworth	
+Pattern and Information Processing	
+DERA	
+St. Andrews Road	
+Malvern	
+Worcestershire, WR14 3PS, UK	
+Telephone: +44 1684 894521	
+Fax: +44 1684 894384	
+Email: bedworth@signal.dera.gov.uk	
+
+---------------------------------------------------------------------
+
+Registration
+
+Registration forms can be obtained from
+
+Jenny Green
+Conference Administrator
+Pattern and Information Processing
+DERA
+St. Andrews Road
+Malvern
+Worcestershire
+WR14 3PS
+UK
+Phone: +44 1684 894300
+Fax: +44 1684 89 4384
+Email: jagreen@signal.dera.gov.uk
+
+---------------------------------------------------------------------
+
+Accommodation and Travel
+
+A limited number of rooms have been reserved at the Abbey Hotel at a 
+special rate of L65 single occupancy (inclusive of breakfast) and at the 
+Foley Arms Hotel (two minutes walk from The Abbey) at a special rate of L58 
+single occupancy (inclusive of breakfast). Bookings should be made directly 
+with the hotels quoting "EuroFusion98".
+
+Abbey Hotel				Foley Arms Hotel
+Abbey Road				Worcester Road
+Great Malvern				Great Malvern
+Worcestershire				Worcestershire
+Phone: +44 1684 892332		Phone: +44 1684 573397
+
+DERA Malvern's General Administration Office will be pleased to advise on 
+and arrange other accommodation. Some of the hotels in the area offer a 
+discount to our visitors provided they are booked through the General 
+Administration Office, Telephone +44 1684 894387.
+
+Travel by Air:
+Malvern is approximately 50 miles south of Birmingham International Airport 
+and can be reached from the airport easily by either rail or road.
+
+Travel by Rail:
+There are two railway stations in Malvern - Malvern Link and Great Malvern. 
+The closest to all the hotels is Great Malvern.
+Trains run regularly from London Paddington to Great Malvern and from 
+Birmingham International Airport via Birmingham New Street to Great 
+Malvern. There are also rail links from Gatwick and Heathrow airports via 
+Reading.
+
+Travel by Road:
+Visitors travelling on the M5 from the south should exit on the M50 at 
+Junction 8. Leave the M50 at Junction 1 and follow the signposts for Great 
+Malvern.
+>From the north, leave the M5 at Junction 7 and follow the route signposted 
+to Malvern.
+
+-----------------------------------------------------------------
+Dr John V Black         |Pattern and Information Processing Group
+black@signal.dera.gov.uk|Defence Evaluation and Research Agency
+Tel: +44 (0)1684 894206 |Malvern, Worcs WR14 3PS, United Kingdom.
+Fax: +44 (0)1684 894384 |http://www.dera.gov.uk/
+
+
+
+

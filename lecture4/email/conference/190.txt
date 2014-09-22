@@ -1,0 +1,111 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sun Dec 27 12:01:50 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA04715;
+	Sun, 27 Dec 1998 12:01:44 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24070;
+          26 Dec 98 20:39 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24052;
+          26 Dec 98 20:23 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05554;
+          26 Dec 98 20:22 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa08039; 26 Dec 98 13:28 EST
+Received: from listserv.okstate.edu by CS.CMU.EDU id aa27263;
+          26 Dec 98 13:27:49 EST
+Received: from okway.okstate.edu by listserv.okstate.edu (LSMTP for Windows NT v1.1a) with SMTP id <0.C95A4A50@listserv.okstate.edu>; Sat, 26 Dec 1998 12:18:03 -0600
+Received: from ccMail by okway.okstate.edu (ccMail Link to SMTP R8.30.00.7)
+    id AA914696654; Sat, 26 Dec 1998 12:24:16 -0600
+Message-Id: <9812269146.AA914696654@okway.okstate.edu>
+X-Mailer: ccMail Link to SMTP R8.30.00.7
+Date: Sat, 26 Dec 1998 12:27:44 -0600
+From: Gary Yen <gyen@okway.okstate.edu>
+To: ml@ics.uci.edu, eletter-request@win.tue.nl, echong@ecn.purdue.edu,
+        cis-wg@mail.amia.org, passino@ee.eng.ohio-state.edu,
+        Connectionists@cs.cmu.edu, ai-stats@watstat.uwaterloo.ca,
+        neuron@CATTELL.psych.upenn.edu, ep-list@me.fau.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: IJCNN99- submission deadline extended
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Description: "cc:Mail Note Part"
+Status: RO
+X-Status: 
+
+     ontributed by: Gary G. Yen    gyen@master.ceat.okstate.edu
+     
+     
+     
+     CONFERENCE UPDATE:  IJCNN'99 900 Submissions and Counting
+     Deadline Extended for Email Submissions
+     
+     
+     1999 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS
+     
+     RENAISSANCE HOTEL
+     WASHINGTON, D.C.
+     JULY 10-16, 1999
+     
+     We have 900 submissions in hand now; however, due to numerous 
+     requests, we are extending the submission deadline. Email submission 
+     may still be made directly to the Conference General Chair, David 
+     Brown, at dgb@cdrh.fda.gov. Submissions received after January 22 will 
+     only be considered for poster presentation unless invited by session 
+     chairs. Details on the web site 
+     www.cas.american.edu/~medsker/ijcnn99/ijcnn99.html (or via 
+     www.inns.org) as shown below:
+     
+     IJCNN'99 review and acceptance will be based on a one-page summary, 
+     which will be distributed to Conference participants in a summary 
+     book. Conference proceedings will be in CD form. Hard-copy proceedings 
+     may be available for an additional fee. Use of illustrations is 
+     encouraged in the summaries, within the single allowed page. Use of 
+     audio and video segments in the CD proceedings will be considered. 
+     Poster presentations will be encouraged, with "single-slide" poster 
+     presentations interspersed with regular oral sessions. Monetary awards 
+     presented for best poster in several categories. Best student paper 
+     awards will also be given.
+     
+     INSTRUCTIONS FOR AUTHORS:
+     Paper summary format information
+     
+     The summary must be accompanied by a cover sheet listing the following 
+     information:
+     1. Paper title
+     2. Author information - full names and affiliations as they will 
+     appear in the program
+     3. Mailing address, telephone, fax, and email for each author 4. 
+     Request for oral or poster presentation
+     5. Topic(s), selected from the list below:
+     
+     Biological foundations                       Neural systems 
+     Mathematical foundations                     Architectures
+     Learning algorithms                          Intelligent control 
+     Artificial systems                           Data analysis Pattern 
+     recognition                                  Hybrid systems 
+     Intelligent computation (including fuzzy and GA)
+     Applications
+     
+     The one-page, camera-ready summary must conform to the following 
+     requirements:
+     1. All text and illustrations must appear within a 7x9 in. (178x229mm)
+     area. For US standard size paper (8.5x11 in.), set margins to 0.75 in. 
+     (18mm) left and right and 1 in. top and bottom. For A4 size paper, set 
+     margins to 17mm left and right, 25mm top, and 45 mm bottom.
+     2. Use 10-point Times Roman or equivalent typeface for the main text.
+     Single space all text, allowing extra space between paragraphs.
+     3. Title (16 pt. Bold, centered) Capitalize only first word and proper
+     names.
+     4. Authors names, affiliation (12 pt., centered) omit titles or 
+     degrees.
+     5. Five section headings (11 pt. bold). The following five headings 
+     MUST be used: Purpose, Method, Results, New or breakthrough aspect of 
+     work, and Conclusions.
+     
+     Submit by email to dgb@cdrh.fda.gov
+     
+     Acceptance will be determined by February 8, 1999 in most cases, and 
+     complete papers are due in digital form for CD publication by May 3, 
+     1999.
+     

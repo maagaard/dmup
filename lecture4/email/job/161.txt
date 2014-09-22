@@ -1,0 +1,148 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Aug  5 00:27:31 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA13054;
+	Thu, 5 Aug 1999 00:27:22 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27769;
+          4 Aug 99 16:59 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27767;
+          4 Aug 99 16:47 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10281;
+          4 Aug 99 16:47 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id ab05647; 4 Aug 99 8:06 EDT
+Received: from brain.sedal.usyd.edu.au by CS.CMU.EDU id aa24077;
+          4 Aug 99 8:05:41 EDT
+Received: from majhome (dgmodem-3.sedal.usyd.edu.au [129.78.24.203])
+	by brain.sedal.usyd.edu.au (8.8.8/8.8.8) with SMTP id WAA26029
+	for <connectionists@cs.cmu.edu>; Wed, 4 Aug 1999 22:05:32 +1000 (EST)
+Reply-To: marwan@ee.usyd.edu.au
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+From: Marwan Jabri <marwan@ee.usyd.edu.au>
+To: connectionists@cs.cmu.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Subject: Faculty Positions
+Date: Wed, 4 Aug 1999 22:06:39 +1000
+Message-ID: <002201bede71$ceabf840$cb184e81@majhome.sedal.usyd.edu.au>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+Status: RO
+X-Status: 
+
+POSITION: Lecturer/Senior Lecturer in Computer Engineering (2 positions)
+DEPARTMENT: School of Electrical and Information Engineering, The University
+of Sydney
+TYPE: Academic
+APPOINTMENT: continuing
+REF NO: A20/01
+Closing Date: 26/08/99
+
+The School of Electrical and Information Engineering is expanding its
+teaching and research programs in the area of computer and software
+engineering following the introduction of degree programs in these areas,
+and invites applications for two continuing positions. Applicants should be
+able to contribute to teaching of advanced courses in these areas and
+research in one or more of the Schools major research areas.
+
+The existing academic staff in related areas have research interests in low
+power integrated circuits, artificial intelligence and neuromorphic
+engineering, biomedical systems, automatic control, communications systems
+and image processing. Within computer engineering, particular areas of
+interest include neuromorphic engineering, reconfigurable computing;
+integrated circuits and systems; hardware/software co-design; advanced
+digital engineering; and parrallel and distributed processing. The
+development of software engineering is occurring in collaboration with the
+Department of Computer Science.
+
+Applicants at the Senior Lecturer level should have a PhD in Electrical or
+Computer Engineering. Applicants at the Lecturer level should have or should
+be expecting soon to be awarded a PhD. A PhD in computer science with a
+substantial engineering background may be considered. The position requires
+commitment to leadership in research and teaching. Candidates must have a
+high level of research outcomes and would have the capability to teach
+undergraduate classes and supervise research students. Undergraduate
+teaching experience and industrial applications experience are desirable.
+
+The position is full-time continuing, subject to the completion of a
+satisfactory probation period for new appointees. Membership of a University
+approved superannuation scheme is a condition of employment for new
+appointees. For further information contact Professor M A Jabri on (+61-2)
+9351 2240, fax: (+61-2) 9351 7209, email: marwan@sedal.usyd.edu.au, or the
+Head of Department, Professor D J Hill on (+61-2) 9351 4647, fax (+61-2)
+9351 3847, e-mail: davidh@ee.usyd.edu.au.
+
+(Level of appointment and responsibility will be commensurate with
+qualifications and experience)
+
+Academic staff at the School of Electrical and Information Engineering is
+currently entitled to receive a market loading (up to a maximum of 33.33% of
+base salary). The market loading scheme is expected to continue until the
+end of 1999 when it will be reviewed.
+
+WE ARE AN EQUAL OPPORTUNITY EMPLOYER AND WE OFFER A
+SMOKE FREE WORKPLACE
+
+Availability: Internal & External
+Salary: Lecturer $48,440 -$57,523 p.a.
+Senior Lecturer $59,338 - $68,422 p.a.
+
+
+----------------------------------------------------------------------------
+----
+
+
+
+
+
+Application Information
+
+No smoking in the workplace is University policy.
+Equal employment opportunity is University policy.
+Other than in exceptional circumstances all vacancies within the University
+are advertised in the Bulletin Board and on the World Wide Web.
+Intending applicants are encouraged to seek further information from the
+contact given before submitting a formal application.
+
+Academic positions: Applications (five copies for levels A-D and ten copies
+for level E), which should quote the reference no, address the selection
+criteria, and include a CV, a list of publications, the names, addresses,
+e-mail, fax and phone number of confidential referees (three for levels A-D
+and five for level E), should be forwarded to:
+
+General Staff positions: Applications, which should quote the reference no,
+address the selection criteria, and include a CV, the names, addresses,
+e-mail, fax and phone number of two confidential referees, should be
+forwarded to:
+
+The Personnel Officer, College of Sciences and Technology, Carslaw Building,
+(F07), The University of Sydney, NSW, 2006
+
+The University is a non-smoking workplace and is committed to the policies
+and principles of equal employment opportunity and cultural diversity. The
+University reserves the right not to proceed with any appointment for
+financial or other reasons.
+
+----------------------------------------------------------------------------
+----
+
+Authorised Publication of Personnel Services ~ Last updated 4/8/99
+
+
+
+--------------
+Marwan Jabri, Professor
+Director, Computer & Software Engineering Programs
+School of Electrical & Information Engineering
+The University of Sydney
+NSW 2006, Australia
+Tel: (+61-2) 9351-2240,	Fax:(+61-2) 9351-7209
+Email: marwan@sedal.usyd.edu.au, http://www.sedal.usyd.edu.au/~marwan/
+
+

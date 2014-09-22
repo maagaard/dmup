@@ -1,0 +1,155 @@
+
+
+From AXEL@axp.psl.ku.dk Mon Mar 10 07:10:11 EST 1997
+Received: from axp.psl.ku.dk (axp.psl.ku.dk [130.225.121.173]) by eivind.imm.dtu.dk with SMTP (8.7.1/8.7.1) id NAA25927; Mon, 10 Mar 1997 13:10:10 +0100 (MET)
+Received: from axp.psl.ku.dk by axp.psl.ku.dk (MX V4.1 AXP) with SMTP; Mon, 10
+          Mar 1997 13:04:56 +0100
+Date: Mon, 10 Mar 1997 13:04:56 +0000
+From: "Axel Larsen, IKP" <AXEL@axp.psl.ku.dk>
+To: Claus Svarer <csvarer@pet.rh.dk>
+CC: fig <anders@axp.psl.ku.dk>, apb@kennedy.dk, b.sperling@inet.uni-c.dk,
+        blink@pet.rh.dk, blk@eivind.imm.dtu.dk, blund@eivind.imm.dtu.dk,
+        borring@pet.rh.dk, bundesen@axp.psl.ku.dk, c918480@student.dtu.dk,
+        cgerlach@axp.psl.ku.dk, CSVARER@pet.rh.dk, cv@pet.rh.dk,
+        EGILLR@IMM.DTU.DK, elgarde@hendrix.imm.dtu.dk,
+        fnielsen@eivind.imm.dtu.dk, gerlach@pet.rh.dk, gitte@kiku.dk,
+        hanson@fys.ku.dk, henrik@pet.rh.dk, hitomi@axp.psl.ku.dk,
+        iida@pet.rh.dk, ilaw@pet.rh.dk, kjaer@nordita.dk,
+        kjems@eivind.imm.dtu.dk, lautrup@connect.nbi.dk, Lis@axp.psl.ku.dk,
+        lkhansen@eivind.imm.dtu.dk, markus@nmr.ku.dk, mikaelj@pet.rh.dk,
+        nal@login.dknet.dk, nmorch@eivind.imm.dtu.dk, pap@eivind.imm.dtu.dk,
+        paulson@pet.rh.dk, pinborg@pet.rh.dk, pmadsen@pet.rh.dk,
+        POULR@IMM.DTU.DK, ptoft@eivind.imm.dtu.dk, ras@eivind.imm.dtu.dk,
+        sholm@pet.rh.dk, sk@axp.psl.ku.dk, snour@pet.rh.dk,
+        thko@eivind.imm.dtu.dk, tjernigan@ucsd.edu, William@axp.psl.ku.dk,
+        winther@connect.nbi.dk
+Subject: Symposium on vision
+In-Reply-To: <Pine.HPP.3.91.970301113349.1592A-100000@babinski.pet.rh.dk>
+Message-ID: <Pine.VMS.3.91-vms-b4.970310130244.14654A-100000@axp.psl.ku.dk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+           THE COPENHAGEN SYMPOSIUM ON VISION AND VISUAL COGNITION
+
+          An international symposium on Vision and Visual Cognition is
+          held 25-27 April 1997 at the Southern Campus (KUA) of the
+          University of Copenhagen (Njalsgade 80, lecture hall 10.1.30A).
+          The symposium is organized by Claus Bundesen and Axel Larsen.
+          The main topics of the symposium are (1) Basic Sensory
+          Processes, (2) Recognition and Categorization, (3) Selective
+          Attention, and (4) Mental Imagery. The emphasis is on
+          computational and neuropsychological perspectives. The programme
+          is as follows.
+
+          --------------------------------------------------------------------
+          Friday 25th April
+          ---------------------------------------------------------------------
+
+          13.00 Welcome
+
+                  BASIC SENSORY PROCESSES
+
+          13.05 Roger J. Watt, University of Stirling, Scotland, UK  What
+          clues to visual processing can we find in the visual
+          environment?
+
+          14.00 Svein Magnussen, University of Oslo, Norway  The
+          psychophysics of perceptual memory
+
+          14.50 Coffee break
+
+          15.20 Leonardo Chelazzi, University of Verona, Italy  Attending
+          and ignoring: Toward the underlying neuronal  mechanisms in the
+          visual cortex of the macaque
+
+                  RECOGNITION AND CATEGORIZATION
+
+          16.10 Irving Biederman, University of Southern California, Los
+          Angeles, USA  The neural-computational basis of face and object
+          recognition
+
+          --------------------------------------------------------------------
+          Saturday 26th April
+          ---------------------------------------------------------------------
+
+          9.00 Glyn W. Humphreys, University of Birmingham, UK  Top-down
+          processes and independent surface and edge-based  routes to
+          object recognition
+
+          9.50 Koen Lamberts, University of Birmingham, UK  Stochastic
+          feature sampling in perceptual categorization
+
+          10.40 Coffee break
+
+
+                  SELECTIVE ATTENTION
+
+          11.10 Kyle Cave, Vanderbilt University, Nashville, USA
+          Selection of locations and objects within the FeatureGate model
+
+          12.00 Lunch
+
+          13.30 Claus Bundesen, University of Copenhagen, Denmark  TVA:
+          Outlines of a theory of visual attention
+
+          14.20 Gordon D. Logan, University of Illinois, USA  Attention,
+          perception, and memory
+
+          15.10 Coffee break
+
+          15.40 Werner X. Schneider, Ludwig-Maximilians-University,
+          Munich, Germany  Control processes in visual working memory: A
+          neuro-cognitive  perspective
+
+          --------------------------------------------------------------------
+          Sunday 27th April
+          ---------------------------------------------------------------------
+
+          9.00 Pierre Jolicoeur, University of Waterloo, Canada  Central
+          demands of visual encoding
+
+                  MENTAL IMAGERY
+
+          9.50 Michel Denis, Universite de Paris-Sud, France  Visual and
+          mental exploration of visuo-spatial configurations:  Behavioral
+          and neuroimaging approaches
+
+          10.40 Coffee break
+
+          11.10 Axel Larsen, University of Copenhagen, Denmark  Spatial
+          separation in visual pattern matching: Evidence on the  role of
+          mental translation of visual images
+
+          12.00 Lynn A. Cooper, Columbia University, New York, USA
+          Functional and neuroanatomical evidence for dissociable systems
+          in object recognition
+
+          REGISTRATION. The registration fee is 150 DKK (approximately US$
+          25), which should be paid in cash at the registration counter
+          outside lecture hall 10.1.30A. The counter is open Friday 25th
+          April from 11 p.m. to 14 p.m. The fee covers coffee/tea during
+          the symposium and lunch on the Saturday.
+
+          If you want to attend the symposium, please send a request for
+          admission by e-mail or regular mail before April 15, 1997.
+          E-mail should be sent to vision@axp.psl.ku.dk. Regular mail
+          should be sent to  Center for Visual Cognition  Dept. of
+          Psychology  University of Copenhagen  Njalsgade 90  DK-2300
+          Copenhagen S  Denmark
+
+          The requests are processed in the order in which they are
+          received.
+
+          The Copenhagen Symposium on Vision and Visual Cognition is
+          funded by the Faculty of Humanities at the University of
+          Copenhagen as part of the initiative called "The Visual
+          Construction of Reality." The symposium is also supported by
+          "The Year of the Brain." The edited proceedings of the symposium
+          will be published as a special issue of "Psychological
+          Research/Psychologische Forschung: An International Journal of
+          Perception, Attention, Memory, and Action" (Berlin:
+          Springer-Verlag).

@@ -1,0 +1,64 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Jun 10 01:00:02 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA13576;
+	Thu, 10 Jun 1999 00:59:53 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab20209;
+          9 Jun 99 16:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab20207;
+          9 Jun 99 16:23 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13031;
+          9 Jun 99 16:22 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa28273; 9 Jun 99 8:17 EDT
+Received: from dirc.bris.ac.uk by RI.CMU.EDU id aa12455; 9 Jun 99 8:17:24 EDT
+Received: from zeus.bris.ac.uk by dirc.bris.ac.uk with SMTP-PRIV (PP) 
+          with ESMTP; Wed, 9 Jun 1999 13:17:13 +0100
+Received: (from enicgc@localhost)	by zeus.bris.ac.uk (8.8.8/8.8.7) 
+          id NAA12541	for Connectionists@CS.CMU.EDU;
+          Wed, 9 Jun 1999 13:16:17 +0100 (BST)
+From: I C G Campbell <C.Campbell@bristol.ac.uk>
+Message-Id: <199906091216.NAA12541@zeus.bris.ac.uk>
+Subject: PhD studentship available
+To: Connectionists@cs.cmu.edu
+Date: Wed, 9 Jun 1999 13:16:16 +0100 (BST)
+X-Mailer: ELM [version 2.4 PL21]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+PhD STUDENTSHIP AVAILABLE
+
+A three year studentship is available 
+in the area of Support Vector Machines 
+and their applications. The project 
+has a theoretical component and an 
+applied component, principally the 
+application of SVMs and related 
+kernel classifiers to biosequences.
+
+The student will be a member of the 
+Computational Intelligence Group 
+(see our web pages http://lara.enm.bris.ac.uk/cig/ ) 
+which is part of the Advanced Computing 
+Research Centre, Bristol University 
+(http://www.cs.bris.ac.uk/ACRC/ ).
+
+Suitable applicants should have a 
+strong mathematical background 
+and some additional computing experience 
+would be preferred. The studentship 
+comprises payment of fees and an annual 
+maintenance grant at EPSRC rates.
+
+To apply for this post please send 
+a current CV to: 
+C.Campbell@bris.ac.uk
+
+Colin Campbell
+
+ACRC, Bristol University.
+United Kingdom
+

@@ -1,0 +1,100 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Sat Mar 28 23:19:13 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id XAA17119
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 28 Mar 1998 23:19:10 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa08046;
+          28 Mar 98 13:03:48 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa08043;
+          28 Mar 98 12:50:26 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23215;
+          28 Mar 98 12:50 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa11989; 28 Mar 98 8:45 EST
+Received: from zeus.csis.ul.ie by RI.CMU.EDU id aa29814; 28 Mar 98 8:44:13 EST
+Received: by zeus.csis.ul.ie; id AA20770; Sat, 28 Mar 1998 13:37:00 GMT
+Date: Sat, 28 Mar 1998 13:37:00 GMT
+Message-Id: <9803281337.AA20770@zeus.csis.ul.ie>
+From: Niall Griffith <niall@zeus.csis.ul.ie>
+To: Connectionists@CS.cmu.edu
+Subject: IEE Colloqiuim - Neural Nets and MultiMedia
+Status: RO
+X-Status: 
+
+Please pass this on to anyone or any group you think may be interested.
+
+==============================================================
+IEE Colloquium on  "Neural Networks in Multimedia Interactive Systems"
+
+Thursday 22 October 1998, Savoy Place, London.
+
+Call for Papers
+---------------
+
+The IEE are holding a colloquium at Savoy Place on the use of neural
+network models in multimedia systems. This is a developing field of
+importance to both Multimedia applications developers who want to develop
+more responsive and adaptive systems as well as to neural network
+researchers.
+
+The aim of the colloquium is to present a range of current neural network
+applications in the area of interactive multimedia. The aim is cover a
+range of topics including learning, intelligent agents within multimedia
+systems, data mining, image processing and intelligent application
+interfaces.
+
+Invited Speakers:
+-----------------
+
+Bruce Blumberg, MIT Media Lab.
+Jim Austin, York.
+Russell Beale, Birmingham.
+
+
+Call For Papers
+---------------
+
+Submissions are invited in any (but not exclusively) of the following
+areas:
+
+Adaptive and plastic behaviour in multi-media systems
+Concept and behaviour learning and acquisition
+Browsing mechanisms
+Preference and strategy identification and learning
+Data mining
+Image processing in multimedia systems
+Cross modal and media representations and processes
+Intelligent agents
+
+Interested parties are invited to submit a two page (maximum) abstract of
+their proposed talk to either
+
+Dr. Niall Griffith,
+Department of Computer Science and Information Science,
+University of Limerick,
+Limerick,
+Ireland.
+email:     niall.griffith@ul.ie
+Telephone: +353 61 202785
+Fax:       +353 61 330876
+
+or
+
+Professor Nigel M Allinson
+Dept. of Elec. Eng. & Electronics
+UMIST
+PO Box 88
+Manchester, M60 1QD, UK
+Voice:  (+44) (0) 161-200-4641
+Fax:    (+44) (0) 161-200-4781/4
+Internet: allinson@umist.ac.uk
+
+Timetable:
+----------
+
+29th April: Deadline for talk submissions
+
+15th June:  Authors notified.
+
+24th November: Colloquium at IEE, Savoy Place, London
+=====================================================

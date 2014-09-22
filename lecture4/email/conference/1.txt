@@ -1,0 +1,398 @@
+From www-vrml-owner@hardly.hotwired.com Sun Apr 28 22:18 MET 1996
+Received: from vrml.organic.com by eivind.ei.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA10320; Sun, 28 Apr 1996 22:18:39 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: from hardly.hotwired.com by kether via ESMTP (940816.SGI.8.6.9/8.7.2-Turbo)
+	 id NAA20577; Sun, 28 Apr 1996 13:09:44 -0700
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id LAA03929 for www-vrml14; Sun, 28 Apr 1996 11:12:51 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id LAA03878 for www-vrml-out; Sun, 28 Apr 1996 11:12:35 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id LAA03873 for <www-vrml@hardly.hotwired.com>; Sun, 28 Apr 1996 11:12:32 -0700 (PDT)
+Received: from fully.organic.com (h32.n145.organic.com [204.152.145.32]) by wired.com (8.7.4/8.7.3) with SMTP id LAA06245 for <www-vrml@wired.com>; Sun, 28 Apr 1996 11:12:25 -0700 (PDT)
+Received: (from brian@localhost) by fully.organic.com (8.6.12/8.6.12) id SAA03656; Sun, 28 Apr 1996 18:15:55 GMT
+Date: Sun, 28 Apr 1996 11:15:55 -0700 (PDT)
+From: Brian Behlendorf <brian@organic.com>
+To: www-vrml@wired.com
+Subject: InfoBahn Latest Calls for Participation (fwd)
+Message-Id: <Pine.SGI.3.91.960428111548.3322I-100000@fully.organic.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+
+---------- Forwarded message ----------
+Date: Thu, 25 Apr 1996 23:21:31 -0700
+From: Your VE info source <infobahn@cs.nps.navy.mil>
+To: www-vrml@wired.com
+Subject: InfoBahn Latest Calls for Participation
+
+The following are some of the latest Infobahn 
+     Calls for Participation:
+
+--> V R A I S   ' 9 7  C A L L   F O R   P A R T I C I P A T I O N
+    --> Call date: 15 July 1996
+
+--> PRESENCE Special Issue on: Autonomous Agents, Adaptive Behaviors, and 
+                               Distributed Simulations
+    --> Call Date: 1 October 96
+^L
+
+--------------------------------------------------------------------
+
+V R A I S   ' 9 7  C A L L   F O R   P A R T I C I P A T I O N
+
+IEEE Virtual Reality Annual International Symposium (VRAIS '97)
+
+Sponsored by:
+IEEE Neural Networks Council Virtual Reality Technical Committee
+IEEE Computer Society Technical Committee on Computer Graphics
+
+March 01 - March 05 1997, Hyatt Regency, Albuquerque, NM
+Tutorials and Workshops March 01-02, General Session March 03-05, Exhibits
+March 02-04
+
+INVITATION
+You are invited to take part in the IEEE 1997 Virtual Reality Annual
+International Symposium (VRAIS '97).  VRAIS has established itself as the
+premiere venue for the presentation of research and development in virtual
+reality and related areas.  This fourth in the series will take place in
+Albuquerque, NM and will be located in the Hyatt Regency, just ten minutes
+from the Albuquerque International Airport and within easy driving 
+distance
+of many local attractions and some of the country's best skiing.  We
+welcome your submissions and look forward to your participation in VRAIS
+'97.
+
+General Chair
+Sharon Stansfield
+Sandia National Laboratories
+
+Program Chairs
+Larry Hodges, Georgia Institute of Technology
+Mark Green, University of Alberta
+
+************************************
+*                                                                     *
+* PAPER SUBMISSIONS DUE BY JULY 15, 1996 *
+*                                                                     *
+************************************
+
+PAPERS
+
+VRAIS '97 seeks original, high-quality technical papers in all areas of
+virtual reality. Papers must be in English. FAX or e-mail submissions will
+not be accepted. Papers may be submitted as either LONG
+(maximum of eight double-column, single-spaced pages) or SHORT  (maximum 
+of
+four double-column, single-spaced pages) papers.  Both formats will be
+peer-reviewed.  The length of the paper should be appropriate to the
+results presented.  Papers are solicited, and will be reviewed, as either
+research or applied:
+
+RESEARCH PAPERS should describe results that contribute to the
+advancement the state of the art in virtual reality software, hardware, 
+3-D
+CHI,
+or systems development.
+
+APPLIED PAPERS should present prototype or fielded virtual reality
+systems.  Applied papers should include a concise description of the
+application area, provide insight into the relevant VR system 
+implementation
+issues, and discuss the effectiveness of the VR system with respect to the
+application area.
+
+Papers must include a COVER PAGE that lists:
+1.      Complete title of the paper.
+2.      Names and affiliations of all authors.
+3.      Type of paper (research or applied).
+4.      Paper format (long or short).
+5.      The name, postal address, phone, fax, and email address of the 
+author
+designated as the point-of-contact for the paper.
+6.      Whether an associated video tape has been submitted with the paper
+for the
+reviewers.
+
+Send SIX COPIES of the full paper and associated videotapes to:
+
+Larry F. Hodges, VRAIS '97 Program Co-Chair
+Graphics, Visualization & Usability Center
+College of Computing
+801 Atlantic Drive
+Georgia Institute of Technology
+Atlanta, GA 30332-0280
+(404) 894-8787
+hodges@cc.gatech.edu
+
+*******************************************
+*
+*
+* POSTER, PANEL, VIDEO, TUTORIAL AND WORKSHOP   *
+* SUBMISSIONS DUE BY SEPTEMBER 16, 1996.              *
+*
+*
+*******************************************
+
+POSTER PRESENTATIONS
+Posters should present preliminary results of new or on- going work in
+virtual reality.  A poster proposal of not more than two pages  should be
+submitted for review by the program co-chairs.  Posters that are accepted
+for presentation at VRAIS '97 will also be invited to submit a one-page
+abstract that will be published in the Proceedings.  Each poster
+presentation proposal submitted should include the complete title of the
+poster, names and affiliations of all authors, and the name, postal
+address, phone, fax, and e-mail address of the author designated as the
+point-of-contact for the poster.
+Poster presentation proposals should be submitted via e-mail to Larry F.
+Hodges at hodges@cc.gatech.edu.
+
+PANELS
+Panels are presentations that cover a specific area from several
+perspectives including lively discussion of controversial issues. Panel
+proposals should include: a title for the panel session; a brief
+description of the overall issues to be discussed; an abstract of each
+panelist's presentation; and the names and contact information of the
+organizer and panelists. Panel proposals should be submitted via e-mail to
+Larry F.  Hodges at hodges@cc.gatech.edu.
+
+VIDEOS
+Video submissions demonstrate hardware and software systems and
+applications. Each video should stand on its own. A submission consists 
+of:
+3 copies of a video segment not to exceed 5 minutes in length in 1/2 inch
+NTSC VHS format; a one-page information sheet containing a 200 word
+abstract plus references and acknowledgments; title, authors, 
+affiliations,
+and contact information including email address for the lead author. Label
+tapes with title and authors. Videos should be submitted to Norman Badler,
+University of Pennsylvania, badler@cis.upenn.edu
+
+TUTORIALS AND WORKSHOPS
+Tutorials are half-day or full-day in length covering topics of interest 
+to
+the virtual reality community. They may be introductory or advanced and
+address general or specialized topics. Workshops are full-day in length 
+and
+should bring together researchers and developers interested in a targeted
+application or topic for lively discussion of issues and informal exchange
+of ideas and information.  Tutorial and Workshop proposals should be
+submitted to Tom Caudell, University of New Mexico, tpc@eece.unm.edu
+
+EXHIBITS
+Vendors, manufacturers, and publishers are invited to display and
+demonstrate their latest innovations to  a highly targeted group of
+researchers and developers in VR.  For information on exhibiting at VRAIS
+'97 contact Henry Sowizral, Sun Microsystems Computer Corp,
+sowizral@hsmpk14a-103.Eng.Sun.COM
+
+Up to date information concerning VRAIS '97 may be found at:
+http://www.eece.unm.edu/eece/conf/vrais/
+
+*****************************************************************************
+
+
+                             P R E S E N C E
+                  Teleoperators and Virutal Environments
+
+
+                       C A L L  F O R  P A P E R S
+
+
+                             Special Issue on
+
+
+       Autonomous Agents, Adaptive Behaviors, and Distributed Simulations
+
+
+   Guest Co-Editors: Martin R. Stytz, Eugene Santos Jr., and Sheila B. Banks
+
+           {http://www.afit.af.mil/Schools/EN/ENG/LABS/AI/presence.html} 
+
+
+---------------------------------------------------------------------------
+-----
+
+
+Aims and Scope
+--------------
+
+With the continuing advances being made in interactive simulation 
+environments,
+the appeal of low-cost, low-risk training systems is especially important 
+to
+domains where mistakes during real-world training can be extremely 
+expensive as
+well as dangerous. For example, such domains include medicine, military
+training, air traffic control, and nuclear waste disposal. Training in
+distributed virtual environments provides great potential for providing 
+the
+level of realism required to adequately train individuals for these tasks 
+while
+increasing safety as well as minimizing costs.
+
+Common among the above domains is the need for intelligent autonomous 
+agents to
+populate the virtual environment. This is especially important in large 
+scale
+simulations where the number of entities/actors required can far exceed 
+the
+number of people available to participate. Such agents may also include 
+monitors
+or sentinels whose job is to watch the simulation and provide advice or 
+alerts
+as well as present the information in a way most accessible for potential 
+human
+users.
+
+This special issue focuses on the use of artificial intelligence within 
+virtual
+environments. For example, state-of-the-art research on the design, 
+development
+and/or architecture of intelligent autonomous agents for virtual 
+environments as
+well as intelligent user interfaces are of interest. In addition, we also
+welcome survey papers and reviews on progress made in the past few years 
+and
+descriptions of the significant problems that remain to be addressed.
+
+This special issue is being published on an accelerated schedule, with 
+acceptance notification to be made five months after receipt of 
+manuscript.
+
+
+---------------------------------------------------------------------------
+-----
+
+
+Topics of Interest
+------------------
+
+Topics of interest include (but are not limited to):
+
+    --  Action Selection and Planning
+    --  Adaptive Behaviors
+    --  Autonomous Agents
+    --  Avatars and Sentinels
+    --  Complex Agent Interactions
+    --  Distributed Decision Making
+    --  Exploratory Entities
+    --  Focus of Attention
+    --  Intelligent User Interfaces 
+    --  Life-like Qualities
+    --  Managing Uncertainty
+    --  Modeling and Simulation
+    --  Multi-agent Collaboration
+    --  Operational Behavior Modeling
+    --  Simulation vs. Implementation
+    --  User Intent
+
+For papers focused on applications in specific domains, they should 
+address
+issues such as:
+
+    -- Why was AI necessary for your domain?
+    -- What practical problems did you encounter?
+    -- What distinguishing properties of your domain dictated your AI 
+approach?
+    -- What methods were used to measure the effectiveness of the system?
+    -- What AI approaches were effective (ineffective)?
+
+
+---------------------------------------------------------------------------
+-----
+
+
+Submission Information
+----------------------
+
+Manuscripts should be in 12 point type with double spacing for all text,
+including references. Manuscripts that are submitted must represent 
+original
+material and must not be under consideration for publication elsewhere. 
+Manuscripts should range in length from 30 to 60 double-spaced pages, 
+including
+figures. The title page must also include a list of keywords preferably 
+from
+the above topics list. All submitted papers will be peer-reviewed by 
+experts in
+the field.
+
+SEVEN hard-copies of the manuscript should be submitted to the FIRST 
+contact
+address below. We are NOT accepting FAX or electronic submissions. Please
+include an electronic mail address for acknowledgment of manuscript 
+receipt.
+The firm deadline for this special issue is October 1, 1996. The seven 
+copies
+of the manuscript must arrive by that date in order for us to have 
+sufficient
+review time to meet our publication schedule.
+
+Additional information on the final manuscript format is available in the
+"Instructions to Contributors" note on the inside back cover of PRESENCE
+as well as through the World-Wide Web (see below).
+
+
+---------------------------------------------------------------------------
+-----
+
+
+Important Dates
+---------------
+
+    -- October 1, 1996           Submission deadline
+
+    -- February 15, 1997         Acceptance notification
+
+    -- April 1, 1997             Final camera-ready manuscript
+
+
+---------------------------------------------------------------------------
+-----
+
+
+Contact Address
+---------------
+
+    Dr. Eugene Santos Jr. 
+    PRESENCE Special Issue 
+    Artificial Intelligence Laboratory 
+    Department of Electrical and Computer Engineering
+    Air Force Institute of Technology 
+    2950 P Street 
+    Wright-Patterson AFB, OH 45433
+
+    Email: esantos@afit.af.mil
+    Tel:   (513) 255-3636 x4540
+
+
+    Lt. Colonel Martin R. Stytz, Ph.D.
+    Virtual Environments, 3D Medical Imaging and Computer Graphics 
+Laboratory
+    Department of Electrical and Computer Engineering
+    Air Force Institute of Technology
+    2950 P Street
+    Wright-Patterson AFB, OH 45433
+    
+    Email: mstytz@afit.af.mil
+    Tel:   (513) 255-9270
+
+
+---------------------------------------------------------------------------
+-----
+
+
+About Presence
+--------------
+
+Presence is an interdisciplinary journal published by MIT Press dedicated
+to the dissemination of original and unpublished results, ideas, practical
+applications, or survey and tutorial material. Managing editor: Nathaniel 
+I.
+Durlach.  {http://www-mitpress.mit.edu/jrnls-catalog/presence.html}.
+
+
+

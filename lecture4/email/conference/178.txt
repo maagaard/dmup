@@ -1,0 +1,129 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Nov 26 03:38:51 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA10157;
+	Thu, 26 Nov 1998 03:38:45 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24042;
+          25 Nov 98 19:22 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24026;
+          25 Nov 98 19:09 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23029;
+          25 Nov 98 19:08 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa23587; 25 Nov 98 11:11 EST
+Received: from neuron.tau.ac.il by CS.CMU.EDU id aa21124; 25 Nov 98 11:11:24 EST
+Received: from localhost (horn@localhost) by neuron.tau.ac.il (8.8.5/8.7.5) with SMTP id SAA01420 for <Connectionists@cs.cmu.edu>; Wed, 25 Nov 1998 18:11:04 +0200 (IST)
+Date: Wed, 25 Nov 1998 18:11:03 +0200 (IST)
+From: David Horn <horn@neuron.tau.ac.il>
+To: Connectionists@cs.cmu.edu
+Subject: NCST-99
+Message-ID: <Pine.SGI.3.96-heb-2.07.981125180827.24405L-100000@neuron.tau.ac.il>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+                                                                                
+                        Conference Announcement         
+                       -------------------------
+                                                                                
+              Neural Computation in Science and Technology
+              ---------------------------------------------                                                                     
+                    Israel, October 10-13, 1999
+
+
+   
+    This conference, sponsored by the Israel Ministry of Science, aims
+    to bring together scientists and practitioners of neural computation 
+    who are interested in scientific as well as technological
+    applications. It will focus on two main general topics: 
+    A. The use of neural network techniques in various applications
+    in science and technology.
+    B. Modeling in computational neuroscience.
+
+    
+     The conference's dual focus on neuroscience and technological themes
+   follows one of the fundamental ideas of the field of Computational 
+   Neuroscience, i.e., the belief that such cross-disciplinary
+   interactions will be beneficial to researchers of both schools. 
+   Such cross-fertilization of ideas has already manifested itself in
+   both directions over the last decade: On one hand, thinking about the brain 
+   in computational concepts has given rise to the development of artificial
+   neural networks as leading computing devices for performing a multitude
+   of technological tasks, such as classification, function approximation,
+   prediction and control.  On the other hand, basic engineering and 
+   technological methods such as principal component analysis, 
+   blind separation, learning vector quantization and reinforcement learning 
+   have all led to the development of neurally-based realizations. The latter,
+   in turn, have given rise to many interesting ideas about
+   the possible central role that such networks may play in the brain in a
+   multitude of information processing tasks, varying from odor processing
+   to reward-related action selection to self-organization of cortical maps,
+   just to name a few. Moreover, new frontiers of neural computation such
+   as neuromorphic engineering and adaptive autonomous control manifest
+   even further the growing need for technological-scientific interaction, to
+   fully exploit the potential promises of neural computation.
+
+
+   The conference will consist of a four day meeting that will include 
+   tutorials, a series of invited and contributed talks, a poster session,
+   and a discussion panel. An informal atmosphere will be maintained,
+   encouraging questions and discussions. It will take place in a hotel
+   that serves also as a conference center in Kibbutz Maale Hachamisha,
+   located between Tel Aviv and Jerusalem. It has the nice scenery,
+   and pleasant weather, of the Judean hills.   
+                                                                                
+
+                   Currently Confirmed Invited Speakers:    
+                  --------------------------------------
+                                                                                
+             D. Amit, Y. Baram, W. Bialek, E. Domany, 
+             R. Douglas, G. Dreyfus, D. Golomb, M. Hasselmo, 
+             J. Hertz, D. Horn, N. Intrator, I. Kanter, 
+             W. Kinzel, H. Oja, E. Ruppin, I. Segev, 
+             T. Sejnowski, H. Sompolinsky, N. Tishby 
+             M. Tsodyks and V. Vapnik. 
+                                                
+      
+
+
+                          Call for Papers
+                        ------------------
+    
+    We call herewith for the submission of papers for oral or poster 
+    presentation at the conference. The papers should fit into the 
+    two general categories of the conference. Submitted papers should 
+    be limited to seven pages in length and indicate physical and e-mail 
+    addresses of all authors and the author to whom correspondence should 
+    be addressed. Four copies of the submitted papers should reach the 
+    conference scientific committee by May 15th, 1999. Mail submissions to
+    
+    Prof. David Horn, NCST-99,  School of Physics and Astronomy, 
+    Tel Aviv University, Tel Aviv 69978, Israel.
+
+        
+                    Scientific Organizing Committee 
+                   ---------------------------------
+
+     D. Horn (chairman), H. Abramowicz, A. Agranat, Y. Baram,
+     I. Kanter, E. Ruppin, N. Tishby, M. Tsodyks, G. Ariely and B. Shimony.
+                                                                                
+                                                                                
+                    Information and Registration:              
+                    -----------------------------
+                                                                                
+     Registration forms and information about the conference are
+     available at the website
+                   http://neuron.tau.ac.il/NCST-99                
+
+
+
+
+
+----------------------------------------------------------------------------
+Prof. David Horn                     horn@neuron.tau.ac.il
+School of Physics and Astronomy      http://neuron.tau.ac.il/~horn
+Tel Aviv University                  Tel: ++972-3-642-9305, 640-7377
+Tel Aviv 69978, Israel.              Fax: ++972-3-640-7932
+

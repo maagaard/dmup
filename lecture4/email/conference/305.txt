@@ -1,0 +1,66 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Sep 18 07:23:52 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA27264;
+	Sat, 18 Sep 1999 07:23:48 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab08131;
+          17 Sep 99 23:43 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab08129;
+          17 Sep 99 23:35 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03834;
+          17 Sep 99 23:34 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa05176; 17 Sep 99 3:22 EDT
+Received: from [134.184.129.1] by CS.CMU.EDU id aa17185; 17 Sep 99 3:21:33 EDT
+Received: from mach.vub.ac.be (mach.vub.ac.be [134.184.129.3]) by rc1.vub.ac.be (8.8.8/3.17.0.ap (rc1))
+        id JAA18360; Fri, 17 Sep 1999 09:20:56 +0200 (MET DST) for <Dave_Touretzky@cs.cmu.edu>
+Received: from [164.15.11.80] (iridiamac1.ulb.ac.be [164.15.11.80]) by mach.vub.ac.be (8.8.5/%I%.1.ap (mach.test))
+        id JAA07817; Fri, 17 Sep 1999 09:21:29 +0200 (MET DST) for <Dave_Touretzky@cs.cmu.edu>
+X-Sender: mdorigo@pop.vub.ac.be
+Message-Id: <l03130303b4079ac3ca26@[164.15.11.80]>
+In-Reply-To: <2712.937551357@skinner.boltz.cs.cmu.edu>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 17 Sep 1999 09:21:31 +0200
+To: Dave_Touretzky@cs.cmu.edu
+From: Marco DORIGO <mdorigo@ulb.ac.be>
+Subject: New book on Swarm Intelligence
+X-UIDL: 896d8a0e761cc0ea099118c313f47da7
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id HAA27264
+Status: RO
+X-Status: 
+
+Swarm Intelligence: From Natural to Artificial Systems.
+Bonabeau E., M. Dorigo & G. Theraulaz (1999).
+New York: Oxford University Press.
+
+The book "Swarm Intelligence" provides a detailed look at models of
+social insect behavior and how to apply these models in the design of
+complex systems. In the book it is shown how these models replace an
+emphasis on control, preprogramming, and centralization with designs
+featuring autonomy, emergence, and distributed functioning.  These
+designs are proving flexible and robust, able to adapt quickly to
+changing environments and to continue functioning even when individual
+elements fail. In particular, these designs are a novel approach to
+the tremendous growth of complexity in software and information. The
+book draws on up-to-date research from biology, neuroscience,
+artificial intelligence, robotics, operations research, and computer
+graphics, and each chapter is organized around a particular biological
+example, which is then used to develop an algorithm, a mutiagent
+systems, or a group of robots.
+
+
+Contents :
+1.  Introduction
+2.  Ant Foraging Behavior, Combinatorial Optimization, and Routing in Communication Networks
+3.  Division of Labor and Task Allocation
+4.  Cemetery Organization, Brood Sorting, Data Analysis, and Graph Partitioning
+5.  Self-Organization and Templates: Application to Data Analysis and Graph Partitioning
+6.  Nest Building and Self-Assembling
+7.  Cooperative Transport by Insects and Robots
+8.  Epilogue
+
+
+Information on how to order the book is available at: http://www.oup-usa.org/
+

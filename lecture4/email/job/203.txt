@@ -1,0 +1,70 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Oct 19 17:45:00 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id RAA28744;
+	Tue, 19 Oct 1999 17:44:57 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25752;
+          19 Oct 99 9:46 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25750;
+          19 Oct 99 9:36 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16329;
+          19 Oct 99 9:35 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa06192; 19 Oct 99 6:49 EDT
+Received: from perseus.ion.ucl.ac.uk by edrc.cmu.edu id aa03360;
+          19 Oct 99 6:48 EDT
+Received: (from wolpert@localhost)
+	by perseus.ion.ucl.ac.uk (8.8.7/8.8.7) id LAA22885;
+	Tue, 19 Oct 1999 11:48:49 +0100
+From: daniel wolpert <wolpert@hera.ucl.ac.uk>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Date: Tue, 19 Oct 1999 11:48:25 +0100 (GMT)
+To: connectionists@cs.cmu.edu
+Subject: Positions in Computational Sensorimotor Control
+X-Mailer: VM 6.43 under 20.4 "Emerald" XEmacs  Lucid
+Message-ID: <14348.19526.664653.987081@perseus.ion.ucl.ac.uk>
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id RAA28744
+Status: RO
+X-Status: 
+
+
+*********************************************************************
+Nature advertisement October 21st
+
+          Institute of Neurology, University College London
+
+Applications are invited for three posts to work with Dr. Daniel
+Wolpert under a Wellcome Programme Grant entitled Computational Human
+Sensorimotor Control. These positions are available for three years in
+the first instance with a starting date from January 2000, but
+candidates who wish to start later in 2000 are also encouraged to
+apply.  Further details of all posts are available on
+http://www.hera.ucl.ac.uk
+
+TWO POSTDOCTORAL RESEARCH FELLOWS 
+Two Fellows are required with PhDs relevant to the study of human
+motor control. One Fellow will work on modelling of the motor system
+using optimal control and connectionist approaches and should have a
+background in a computational field (e.g. Computational Neuroscience,
+Engineering, Physics, Maths). One Fellow will work on psychophysical
+studies of human motor control and should have a background in an
+experimental field (e.g. Neuroscience, Psychology).
+
+RESEARCH ASSISTANT 
+The Research Assistant will provide software and hardware support for
+the group.  Experience with C/C++ programming essential and experience
+with NT, Linux, OpenGL, external device interface/control and
+electronics would be advantageous.
+
+Starting salary for all positions is up to £27,586 pa inclusive,
+`depending on experience. Applications (2 copies of CV and names of 3
+referees) to Miss E Bertram, Assistant Secretary (Personnel),
+Institute of Neurology, Queen Square, London WC1N 3BG (fax: +44 (0)
+171 278 5069) by 1 December 1999.  Informal enquiries to Dr. Daniel
+Wolpert (email: wolpert@hera.ucl.ac.uk; tel: 0171 837 3611 ext 4183;
+fax: 0171 813 3107).
+
+            Working toward Equal Opportunity
+*********************************************************************

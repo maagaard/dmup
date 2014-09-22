@@ -1,0 +1,52 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Feb  4 02:55:04 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA27171;
+	Thu, 4 Feb 1999 02:54:58 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25812;
+          3 Feb 99 14:14 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25810;
+          3 Feb 99 14:05 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08605;
+          3 Feb 99 14:05 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa05955; 3 Feb 99 12:39 EST
+Received: from [134.219.44.52] by RI.CMU.EDU id aa13732; 3 Feb 99 12:37:56 EST
+Received: from sartre.cs.rhbnc.ac.uk (sartre.cs.rhbnc.ac.uk [134.219.188.2])
+	by platon.cs.rhbnc.ac.uk (8.9.1a/8.9.1) with SMTP id RAA25863;
+	Wed, 3 Feb 1999 17:34:49 GMT
+Date: Wed, 3 Feb 1999 17:34:49 +0000 (GMT)
+From: John Shawe-Taylor <john@dcs.rhbnc.ac.uk>
+X-Sender: john@sartre.cs.rhbnc.ac.uk
+To: "'Camelia Voinea - Black Sea University'" <cvoinea@frigg.racai.ro>,
+        "'colt'" <colt@cs.uiuc.edu>,
+        "'comp-neuro'" <comp-neuro@smaug.bbb.caltech.edu>,
+        "'connectionists'" <connectionists@cs.cmu.edu>,
+        "'NC2-all'" <nc2-all@dcs.rhbnc.ac.uk>,
+        "'neuron-request'" <neuron-request@cattell.psych.upenn.edu>,
+        "'neur-sci'" <neur-sci@dl.ac.uk>
+Subject: Informal pre-EuroCOLT'99 Workshop on Kernel Methods
+In-Reply-To: <01BE0EFC.3AF90BA0.jkh@dcs.rhbnc.ac.uk>
+Message-ID: <Pine.OSF.3.96.990203173036.4079B-100000@sartre.cs.rhbnc.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+We are hosting a one day informal workshop on Sunday 28th March at
+Nordkirchen Castle, Germany, on the Sunday before the EuroCOLT'99
+conference; particular interest of the organisers is the analysis of
+Kernel Methods and this will be one of the themes of the workshop. 
+
+To find out more information and registration procedures please go to the
+web site:
+http://svm.first.gmd.de/eurocolt99/workshop.html
+
+Organizing Committee
+
+  John Shawe-Taylor, john@dcs.rhbnc.ac.uk 
+  Alex J. Smola, smola@first.gmd.de 
+  Bernhard. Schoelkopf, bs@first.gmd.de 
+  Robert C. Williamson, Bob.Williamson@anu.edu.au 
+

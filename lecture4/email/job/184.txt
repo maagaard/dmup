@@ -1,0 +1,131 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Sep 16 17:19:09 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id RAA01955;
+	Thu, 16 Sep 1999 17:19:05 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa03296;
+          16 Sep 99 5:10 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa03291;
+          16 Sep 99 5:02 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01319;
+          16 Sep 99 5:02 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa08684; 16 Sep 99 4:25 EDT
+Received: from dv.op.dlr.de by CS.CMU.EDU id aa01757; 16 Sep 99 4:25:18 EDT
+Received: from euphrat.robotic.dlr.de (euphrat.robotic.dlr.de [129.247.189.80])
+	by dv.op.dlr.de (8.9.3/8.9.3) with ESMTP id KAA85230
+	for <connectionists@cs.cmu.edu>; Thu, 16 Sep 1999 10:25:02 +0200
+Received: from ilz.robotic (ilz [129.247.189.84]) by euphrat.robotic.dlr.de (8.7.5/8.7.3) with ESMTP id KAA28589 for <connectionists@cs.cmu.edu>; Thu, 16 Sep 1999 10:25:01 +0200 (MET DST)
+Received: (from smagt@localhost)
+	by ilz.robotic (8.9.1b+Sun/8.9.1) id KAA03547
+	for connectionists@cs.cmu.edu; Thu, 16 Sep 1999 10:25:01 +0200 (MET DST)
+From: Patrick van der Smagt <smagt@dlr.de>
+Message-Id: <199909160825.KAA03547@ilz.robotic>
+Subject: 3 PhD job openings at DLR, Oberpfaffenhofen, Germany
+To: connectionists@cs.cmu.edu
+Date: Thu, 16 Sep 1999 10:25:00 +0200 (MET DST)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+The Robotics neuro-group at the German Aerospace Center in
+Oberpfaffenhofen, Germany, has three Ph.D. position openings on the
+following subjects:
+
+* Learning changing environments in large neural networks 
+* Multiresolution neural networks for fast and accurate learning 
+* Active vision using statistical inference neural networks 
+
+Visit http://www.robotic.dlr.de/LEARNING/jobs/ for more information.
+
+
+Condensed versions of these job descriptions follow:
+----------------------------------------------------------------------
+Learning changing environments in large neural networks
+
+Goal of this research project is the exploration and development of
+learning methodologies (optimization) for large-scale neural networks.
+Secondly, the effect of incremental learning in such networks is to be
+investigated. Close cooperation with the vision and DLR
+Four-Finger-Hand groups in our department are important in the
+development and application of the methodologies.
+
+We are looking for a candidate to join our currently expanding
+neuro-group in the DLR Robotics Department in Oberpfaffenhofen,
+Germany. The desired candidate has a strong background in mathematics
+as well as statistics, and knows her way around programming in C++ and
+Mathematica.
+----------------------------------------------------------------------
+Multiresolution neural networks for fast and accurate learning
+
+Goal of this Ph.D. research is the further development of a
+multiresolution approximation method in the application of on-line
+learning of high-dimensional data, using MARS as well as the Nested
+Network as a starting-point.  An important issue is the applicability
+to high-dimensional problems.  The theoretical and implementational
+aspects of this projects are of equal importance; as a result, the
+algorithm should be implemented as a real-time shape-from-shading task,
+as dynamics control in complex hand-eye coordination tasks, and for
+learning data resulting from grasping tasks using the DLR
+Four-Finger-Hand, which is developed and available in the DLR Robotics
+group.
+
+For pursuing research in this area we are looking for an oudstanding
+qualifying candidate to join or currently expanding neuro-group in the
+DLR Robotics Department in Oberpfaffenhofen, Germany. The research
+project has a major computer science component; therefore, the
+applicant ideally comes from a CS background, while having a strong
+foothold in statistics.  Knowledge of function approximation with
+neural networks are a plus.  Prerequisite is comfortability with a UNIX
+environment and knowledge of C++.
+
+----------------------------------------------------------------------
+Active Vision using statistical inference neural networks
+
+The goal of this Ph.D. research is to develop a methodology based on
+statistical inference neural networks, which can be used in active
+vision control. The theoretical and implementational aspects are of
+equal importance; in the end, a system should result which can be used
+on the DLR Four-Finger-Hand in combination with the DLR Light-Weight
+robot, both of which are developed and available in the DLR Robotics
+Department. The resulting system should eventually cooperate with a
+grasping methodology which is currently in development.
+
+For pursuing research in this exciting field we are looking for an
+outstanding candidate to join our currently expanding neuro-group in
+the DLR Robotics Department in Oberpfaffenhofen, Germany. In-depth
+knowledge and practice in applied mathematics and strong programming
+skills are mandatory.  Experience is expected in at least one of the
+following areas:
+
+   * statistical modeling, statistical inference
+   * data mining
+   * artificial neural networks/machine learning
+   * image processing
+----------------------------------------------------------------------
+
+
+Please direct all application material (CV/resume, xeroxed diplomas,
+letters of reference, where available reprints of articles) or further
+questions to
+
+     Dr. Patrick van der Smagt
+     Institute of Robotics and Systems Dynamics
+     DLR Oberpfaffenhofen
+     D-82334 Wessling
+     Phone +49 8153 281152
+     Fax +49 8153 281134
+     Email smagt@dlr.de
+
+Start of appointments: immediate
+Salary: conform half BAT IIa
+
+Each of the appointments are limited for a period of 3 years.
+Standard EU regulations apply.
+-- 
+Dr Patrick van der Smagt                phone +49 8153 281152, fax -34
+DLR/Institute of Robotics and System Dynamics             smagt@dlr.de
+P.O.Box 1116, 82230 Wessling, Germany     http://www.robotic.de/Smagt/

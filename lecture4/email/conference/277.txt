@@ -1,0 +1,252 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jul 13 08:06:34 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA12188;
+	Tue, 13 Jul 1999 08:06:28 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06531;
+          13 Jul 99 1:12 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06528;
+          13 Jul 99 1:06 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa10719;
+          13 Jul 99 1:05 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa10115; 12 Jul 99 23:32 EDT
+Received: from manage.ims.u-tokyo.ac.jp by RI.CMU.EDU id aa09061;
+          12 Jul 99 23:32:09 EDT
+Received: from moris-dh223.ims.u-tokyo.ac.jp (moris-dh223.ims.u-tokyo.ac.jp [133.11.196.223])
+	by manage.ims.u-tokyo.ac.jp (8.8.8+2.7Wbeta7/3.6W) with SMTP id MAA05654;
+	Tue, 13 Jul 1999 12:32:05 +0900 (JST)
+Received: by moris-dh223.ims.u-tokyo.ac.jp with Microsoft Mail
+	id <01BECD2B.9A4EDCE0@moris-dh223.ims.u-tokyo.ac.jp>; Tue, 13 Jul 1999 12:31:16 +0900
+Message-ID: <01BECD2B.9A4EDCE0@moris-dh223.ims.u-tokyo.ac.jp>
+From: Shinichi Morishita <moris@ims.u-tokyo.ac.jp>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Cc: "'moris@ims.u-tokyo.ac.jp'" <moris@ims.u-tokyo.ac.jp>
+Subject: Re: Call for Papers: PAKDD2000
+Date: Tue, 13 Jul 1999 12:31:16 +0900
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+========================================================================
+                  CALL FOR PAPERS: PAKDD-2000
+========================================================================
+
+                The Fourth Pacific-Asia Conference on 
+                Knowledge Discovery and Data Mining
+
+			Kyoto, Japan
+		       April 18-20, 2000
+
+                   Papers Due: October 10, 1999
+
+                       Sponsored by: (to be confirmed)
+
+        Japanese Society of Artificial Intelligence
+          SIG-KBS (Knowledge Base Systems)
+          SIG-FAI (Fundamental AI)
+        The Institute of Electronics, Information and Communication Engineers 
+        　SIG-DE  (Data Engineering), SIG-AI (Artificial Intelligence)
+        Japan Society for Software Science and Technology
+        　SIG-DM  (Data Mining)
+        Information Processing Society of Japan
+        　SIG-DB  (Data Base)   SIC-ICS (Intelligent & Complex Systems)
+        ACM SIG-MOD Japan
+        Keihanna Interaction Plaza, Inc. 
+
+The Fourth Pacific-Asia Conference on Knowledge Discovery and Data
+Mining (PAKDD-2000) will provide an international forum for the sharing
+of original research results and practical development experiences
+among researchers and application developers from different KDD
+related areas such as machine learning, databases, statistics,
+knowledge acquisition, data visualization, knowledge-based systems,
+soft computing, and high performance computing. It will follow the
+success of PAKDD-97 held in Singapore in 1997, PAKDD-98 held in
+Australia in 1998, and PAKDD-99 held in China in 1999 by bringing
+together participants from universities, industry and government.
+
+Papers on all aspects of knowledge discovery and data mining are
+welcome. Areas of interest include, but are not limited to:
+
+      - Theory and Foundational Issues in KDD
+
+	* Data and Knowledge Representation
+	* Logic for/of Knowledge Discovery
+	* Expanding the Autonomy of Machine Discovers
+	* Human Factors 
+	* Scientific Discovery 
+        * New Theory, Philosophy, and Methodology 
+
+      - KDD Algorithms and Methods 
+
+	* Machine Learning Methods 
+ 	* Statistical Methods 
+	* Heuristic Search 
+	* Inductive Logic Programming
+	* Deduction, Induction and Abduction 
+	* Discovery of Exceptions and Deviations
+	* Multi-criteria Evaluation and Data Mining Metrics
+        * Hybrid and Multi-agent Methods 
+	* Evaluation of Complexity, Efficiency, and Scalability of Algorithms
+
+      - Process-Centric KDD
+
+	* Models and Framework of the Knowledge Discovery Process
+	* Data and Dimensionality Reduction 
+	* Preprocessing and Postprocessing 
+	* Interestingness Checking of Data and Rules
+	* Management and Refinement for the Discovered Knowledge
+	* Decomposition of Large Data Sets
+	* Discretisation of Continuous Data 
+	* Data and Knowledge Visualization 
+	* Role of Domain Knowledge and Reuse of Discovered Knowledge 
+	* KDD Process and Human Interaction
+
+      - Soft Computing for KDD
+
+	* Information Granulation and Granular Computing 
+	* Rough Sets in Data Mining
+	* Neural Networks, Probabilistic Reasoning 
+	* Noise Handling and Uncertainty Management 
+	* Hybrid Symbolic/Connectionist KDD Systems
+
+      - High Performance Data Mining and Applications
+
+	* Multi-Database Mining 
+	* Data Mining in Advanced Databases (OODB, Spatial DB, Multimedia DB)
+	* Database Reverse Engineering 
+	* Integration of Data Warehousing, OLAP and Data Mining
+	* Combining Data Mining with Database Querying
+	* Parallel and Distributed Data Mining 
+	* Data Mining on the Internet 
+	* Multi-agent, Multi-task KDD Systems
+        * Data Mining from Unstructured and Multimedia Data
+	* Unification of Data Mining with Intelligent Information Retrieval
+	* Security and Privacy Issues 
+	* Successful/Innovative KDD Applications in Science, Engineering,
+          Medicine, Business, Education, Government, and Industry 
+
+
+Both research and applications papers are solicited. All submitted
+papers will be reviewed on the basis of technical quality, relevance
+to KDD, originality, significance, and clarity. Accepted papers are
+expected to be published in the conference proceedings by
+Springer-Verlag in the Lecture Notes in Artificial Intelligence
+series. A selected number of PAKDD-2000 accepted papers will be expanded
+and revised for inclusion in major Japanese and/or international
+journals.  Candidates include "Knowledge and Information Systems: An
+International Journal" by Springer-Verlag
+(http://kais.mines.edu/~kais/). PAKDD Best Paper Award will be
+conferred on the authors of the best paper at the conference. The
+winner will be honored US$500 and free registration.
+
+Authors are invited to email postscript files of their papers to
+terano@gssm.otsuka.tsukuba.ac.jp or to send Four copies of them to
+
+     Prof. Takao Terano (PAKDD-2000)
+     Graduate School of Systems Management, 
+     The University of Tsukuba, Tokyo
+     3-29-1 Otsuka, Bunkyo-ku, Tokyo 112, Japan
+     Tel.: +81-3-3942-6855  
+     Fax.: +81-3-3942-6829
+     Email: terano@gssm.otsuka.tsukuba.ac.jp
+
+Electronic submission is highly preferred. Papers must be received by
+October 10, 1999.  Notification of acceptance will be emailed to the
+first (or designated) author by December 15, 1999. Camera-ready copy of
+accepted papers will be due January 15, 2000.
+
+Format: The paper should consist of a cover page with title, authors'
+names, postal and e-mail addresses, an approximately 200 word summary,
+up to 5 keywords and a body not longer than ten pages with a single
+space. It is recommended that the authors use the style file of
+Springer-Verlag (http://www.springer.de/comp/lncs/authors.html) to
+minimize the possible conflict of paper length when preparing the
+camera ready.
+
+
+PAKDD Steering Committee:
+=========================
+Xindong Wu, Colorado School of Mines, USA (Chair)
+Hongjun Lu, National University of Singapore (Co-Chair)
+Rao Kotagiri, University of Melbourne, Australia 
+Huan Liu, National University of Singapore 
+Hiroshi Motoda, Osaka University, Japan
+Lizhu Zhou, Tsinghua University, China 
+Ning Zhong, Yamaguchi University, Japan
+
+Conference Chairs:
+==================
+Masaru Kitsuregawa, University of Tokyo, Japan
+Hiroshi Motoda, Osaka University, Japan
+
+Program Chairs:
+===============
+Takao Terano, Tsukuba University, Japan (Chair)
+Arbee L. P. Chen, National Tsing Hua University, Taiwan (Co-chair)
+Huan Liu, National University of Singapore, Singapore (Co-chair)
+
+Publicity Chair:
+===============
+Shinichi Morishita, University of Tokyo, Japan
+
+Workshop Chair:
+===============
+Takahira Yamaguchi, Shizuoka University, Japan
+
+Tutorial Chair:
+===============
+Shusaku Tsumoto, Shimane Medical University, Japan
+
+Local Organizing Committee Chair:
+============================
+Shiro Takata, Keihanna Interaction Plaza, Inc., Japan
+
+Program Committee: (To be announced)
+===============
+
+Further Information:
+====================
+Takao Terano (PAKDD-2000)
+Graduate School of Systems Management, 
+The University of Tsukuba, Tokyo
+3-29-1 Otsuka, Bunkyo-ku, Tokyo 112, Japan
+Tel.: +81-3-3942-6855  
+Fax.: +81-3-3942-6829
+Email :terano@gssm.otsuka.tsukuba.ac.jp
+---------------------------------------------------------------
+
+Call for Tutorial Proposals
+~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+PAKDD-2000 will offer a tutorial program on KDD topics. We would be able
+to present only a limited number of tutorials, and the selection would
+be guided by the perceived quality and relevance to the conference. If
+you are interested in giving a tutorial, please send a proposal to
+tsumoto@computer.org by Oct. 10, 1999.
+
+Call for Workshop Proposals 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PAKDD-2000 will provide a venue for a few workshops to focus on advanced
+research areas of KDD.  Please submit suggestions for workshop
+proposals to yamaguti@cs.inf.shizuoka.ac.jp by Oct. 10, 1999.
+
+Call for Panel Proposals
+ ~~~~~~~~~~~~~~~~~~~~~~~~ 
+Proposals are sought for panels that stimulate interaction between the
+communities contributing to KDD. Include title, the main goals,
+prospective participants and a summary of the topics to be
+discussed. Please email panel proposals to
+terano@gssm.otsuka.tsukuba.ac.jp by Oct. 10, 1999.
+
+Call for Exhibits and Industry Sessions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PAKDD-2000 will organize a data mining, OLAP and data warehouse product
+exhibition.  Please send proposals for exhibits to
+terano@gssm.otsuka.tsukuba.ac.jp by Oct. 10, 1999.
+
+--------------------------------------------------------------------
+
+
+

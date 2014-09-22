@@ -1,0 +1,74 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Oct 28 22:54:50 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id WAA22217;
+	Thu, 28 Oct 1999 22:54:45 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa16252;
+          28 Oct 99 13:32 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa16247;
+          28 Oct 99 13:14 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa26160;
+          28 Oct 99 13:14 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa17113; 25 Oct 99 20:54 EDT
+Received: from palm.ucdavis.edu by cs.cmu.edu id aa04927; 25 Oct 99 20:54 EDT
+Received: from ucdavis.edu (localhost.ucdavis.edu [127.0.0.1]) by palm.ucdavis.edu (980427.SGI.8.8.8/980728.SGI.AUTOCF) via ESMTP id RAA15837 for <connectionists@cs.cmu.edu>; Mon, 25 Oct 1999 17:54:20 -0700 (PDT)
+Sender: bruno@ucdavis.edu
+Message-ID: <3814FBBB.CB843FC8@ucdavis.edu>
+Date: Mon, 25 Oct 1999 17:54:19 -0700
+From: Bruno Olshausen <baolshausen@ucdavis.edu>
+Organization: Center for Neuroscience, UC Davis
+X-Mailer: Mozilla 4.51C-SGI [en] (X11; I; IRIX 6.5 IP32)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Institute for Theoretical Dynamics, UC Davis
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+
+Dear Colleagues,
+
+     The University of California, Davis, and the National Science
+Foundation have established a multidisciplinary training group,
+"Nonlinear Dynamics in Biology".  The program is designed to provide
+graduate students with research training that will allow them to
+address questions in biology using computational and mathematical
+modelling.  Specifically, our trainees focus on complex processes in
+cell biology, neuroscience, biofluiddynamics, ecology, and population
+biology that involve nonlinear dynamics.
+
+     The curriculum includes training in computational, mathematical,
+and experimental methods.  Students are mentored by faculty trainers,
+postdoctoral researchers, and more advanced graduate students in both
+formal and informal settings.  Financial support is available for all
+graduate trainees.
+
+     Admission to the graduate training program requires strong
+interest in biological research that involves nonlinear dynamics,
+acceptance to a graduate program at UC Davis, and a year-long course
+in calculus.  We strongly encourage additional coursework in
+mathematics, computer science, and biology.
+
+     Please alert students who might be interested in this program to
+the training grant web site, http://www.itd.ucdavis.edu/rtg/, for
+additional information and application materials. You also may contact
+our academic coordinator, Carole Hom (clhom@ucdavis.edu; 530-754-9117)
+should you or your students have questions not addressed in the 
+information on the web site.
+
+     In addition, we seek postdoctoral fellows in biofluiddynamics,
+cell or neurobiology, and population biology or ecology.  Application
+materials for postdocs also can be found on the web page.
+
+     Thank you for your assistance.
+
+
+-- 
+Bruno A. Olshausen              Phone: (530) 757-8749
+Center for Neuroscience         Fax:   (530) 757-8827
+UC Davis                        Email: baolshausen@ucdavis.edu
+1544 Newton Ct.                 WWW:   http://redwood.ucdavis.edu
+Davis, CA 95616

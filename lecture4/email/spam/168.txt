@@ -1,0 +1,54 @@
+
+
+From spm-request@mailbase.ac.uk  Tue Sep 29 18:06:18 1998
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id SAA13616
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 29 Sep 1998 18:06:17 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id RAA06442;
+	Tue, 29 Sep 1998 17:02:43 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id QAA28264;
+        Tue, 29 Sep 1998 16:58:07 +0100 (BST)
+Received: from vs6.virtualisys.com ([209.116.148.16]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id QAA28244;
+        Tue, 29 Sep 1998 16:58:02 +0100 (BST)
+Received: from itcmex (mex36-240.telmex.net.mx [148.233.158.240])
+	by vs6.virtualisys.com (8.9.0/8.9.0) with SMTP id IAA25391
+	for spm@mailbase.ac.uk; Tue, 29 Sep 1998 08:58:54 -0700 (PDT)
+Date: Tue, 29 Sep 1998 08:58:54 -0700 (PDT)
+Message-Id: <eaep.3.1.sh.10.36067.4575585648@www.itcmex.com>
+Content-Type: TEXT/PLAIN charset=US-ASCII
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: y2k solutions for pc and mainframes(SOLUCION ITCMEX 2000 PC AND MAINFRAMES)
+From: "itcmex.com" <dmerlo@itcmex.com>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "itcmex.com" <dmerlo@itcmex.com>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+  -You can obtain info about y2k solutions SOLUCION ITCMEX 2000(tm)
+at: http://www.itcmex.com
+
+assesment,tools and solutions easy and good price in an integral program
+what apply robotic for linecodes change.ALL PLATAFORMS,ALL 
+LENGUAGE /PC Y MAINFRAMES.
+
+regards,
+
+Itcmex s,a de c.v
+
+==============
+Usted encontrará información sobre año 2000 en http://www.itcmex.com
+assesment,herramientas y solución integrada en un solo paquete fácil de 
+instalar y programar.
+toda plataforma,todo lenguaje. PC Y M,AINFRAMES

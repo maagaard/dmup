@@ -1,0 +1,202 @@
+
+
+From jbang@imv.au.dk Fri Aug 20 17:47:45 MET 1999
+Received: from imv.au.dk (imv.au.dk [130.225.2.2])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id RAA18277
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 20 Aug 1999 17:47:43 +0200 (METDST)
+Received: from [130.225.2.23] (mimer.imv.aau.dk [130.225.2.20])
+	by imv.au.dk (8.9.3/8.9.3) with ESMTP id RAA257249;
+	Fri, 20 Aug 1999 17:38:01 +0200 (MDT)
+Message-Id: <v03130318b3e477fd63fc@[130.225.2.23]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Sat, 21 Aug 1999 17:41:09 +0200
+To: abelin@ling.gu.se, asax@mot.chalmers.se, josef@medialab.chalmers.se,
+        schroeder@mot.chalmers.se, ilona@mot.chalmers.se, ira@cs.tut.fi,
+        thko@imm.dtu.dk, samuli@cc.jyu.fi, svagla@hf.ntnu.no,
+        bouvin@daimi.au.dk, Robert.Burnett@kau.se, Steve.Gibson@kau.se,
+        Andreas.Kitzmann@kau.se, robert_hamilton@yahoo.com, dagnyst@ifi.uio.no,
+        asa.harvard@interactiveinstitute.se, konzack@imv.au.dk,
+        mbrman@nethotel.dk, blain@blain.swinternet.co.uk,
+        cary.welling@ntu.ac.uk, b.k.engen@intermedia.uio.no,
+        jhyang@dsg.kaist.ac.kr, sorsha@daimi.au.dk, bettina@pertempus.dk,
+        fnielsen@eivind.imm.dtu.dk, ylva.gislen@kk.mah.se
+From: =?iso-8859-1?Q?J=F8rgen?= Bang <jbang@imv.au.dk (Joergen Bang)>
+Subject: Summerschool NIMRES
+Cc: robin@ruc.dk, simon@coco.ihi.ku.dk, eks@hum.auc.dk, ruth@daimi.au.dk
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id RAA18277
+Status: RO
+X-Status: 
+
+Interaction and Collaboration
+in Virtual Environments
+3rd Nordic Interactive Multimedia Research School
+September 8-11, 1999
+The IT-University in Copenhagen
+
+
+
+
+Dear Colleagues
+
+Thank you for your interest in the 3rd Nordic Interactive Multimedia
+Research School on 'Interaction and Collaboration in Virtual Environments'.
+
+The submitted abstracts have been accepted and you will be allocated a time
+slot in the programme on Wednesday or Friday afternoon for a presentation.
+Presentation by groups will be in the plenary on Wednesday and individual
+presentations will be on Friday in one of four groups on the following
+themes: VR, collaboration, creativity, learning and narrative. For the
+presentations on Friday, please, prepare OHP and not PPP. Around September
+1st your will be notified on which group we propose you join.
+
+Early next week all the abstracts will be available on the web
+http://www.intermedia.uni.dk/ResearchSchool. Please read the abstracts
+before we meet in Copenhagen. If any of you want to adjust the submitted
+abstract, please, forward a new edition.
+
+After the summerschool we will prepare a publication of the presentations
+in The InterMedia Working Paper Series. Each presenter may submit a small
+elaborated paper with 7500 characters before October 1st.
+
+Due to vacation at the accounting department we have are not able to send
+you the detailed information on the account to which you is transferring
+the registration fee of DKK 1500. Early next week you receive this
+information together with a list of participants and a revised version of
+the programme. Please send the money no later than Monday, August 30th.
+
+Remember that accommodation is not covered by the registration and should
+be arranged by yourself.
+
+We recommend the following cheap hotels and hostels. If you are planning to
+participate in ECSCW '99 you may want to register at one of the conference
+hotels for the whole period.
+
+CAB INN SCANDINAVIA
+Vodroffsvej 55
+DK-1900 Frederiksberg C
+Phone: +45 3536 1111
+Fax: +45 3536 1114
+E-mail: cab-inn@cab-inn.dk
+Web: http://www.dkhotellist.dk/cab-inn/	CAB INN COPENHAGEN
+Danasvej 32-34
+DK-1910 Frederiksberg C
+Phone: +45 3321 0400
+Fax: +45 3321 7409
+E-mail: cab-inn@cab-inn.dk
+Web: http://www.dkhotellist.dk/cab-inn/
+
+Danhostel Copenhagen Amager,
+Vejlandsalle 200,
+2300 Copenhagen S.
+Phone: +45 3252 2908
+Web: http://www.danhostel.dk
+Prices:
+1 person in dormitory pr. night dkr 85,-
+2 persons in one room pr. night dkr 230,-
+3 persons in one room pr. night dkr 295,-
+4 persons in one room pr. night dkr 360,-
+excl. breakfast.	Danhostel Copenhagen Bellahøj,
+Herbervejen 8,
+2700 Brønshøj
+Phone: +45 3828 9715
+Web: http://www.danhostel.dk
+Prices:
+1 person in dormitory pr. night dkr 85,- excl. breakfast.
+For groups of 10 or more persons the price is dkr. 125,- pr. person pr.
+night. incl. breakfast.
+
+
+Information about the venue for the summerschool and how to get there will
+be available on the web around September 1st.
+
+See you in Copenhagen!
+
+Have a nice week-end.
+
+
+Aarhus, August 20th 1999
+
+
+
+
+Joergen Bang
+
+Updated program:
+
+Sessions
+Wednesday 8th,  September
+09.00-10.30
+10.30-10.45
+11.00-12.15     Registration
+
+12.15-13.15     Lunch
+13.15-14.45     Keynote by John Bowers, Royal Institute of Technology, Sweden.
+14.45-15.00     Coffee
+15.00-16.30     Distributed Classrooms and learning models by Jørgen Bang
+and Bo Fibiger, University of Aarhus.
+16.30-16.45     Break
+16.45-19.00     Doctoral workshops
+19.00 - 21.0o   Dinner
+21.00 - ?         Social activity in the city
+
+Thursday 9th,  September
+09.00-10.30     Dialogue Design and mutual learning between participants by
+Oluf Danielsen, Roskilde University, Lone Dirckinck-Holmfeld, Aalborg
+University
+10.30-10.45     Coffee
+10.45-12.15     - Movement, Body and Space by Ingelise Flensborg, The Royal
+Danish School of Educational Studies
+- Visual interpretations and embodiments by Janni Nielsen, Copenhagen
+Business School
+12.15-13.15     Lunch
+13.15-14.45     Academy of unbound Creativity, Copenhagen, Denmark.
+14.45-15.00     Coffee
+15.00-16.30     Academy of unbound Creativity, Copenhagen, Denmark
+16.30-16.45     Break
+16.45-18.00     Academy of unbound Creativity, Copenhagen, Denmark
+19.00 -  ?        Dinner at 19.30: Hosted by Copenhagen Business School
+
+Friday 10th,   September
+09.00-10.30     Open Collaborative Hypermedia by Kaj Grønbæk, University of
+	        Aarhus.
+10.30-10.45     Coffee
+10.45-12.15     Collaborative authoring on the Web by Jim Whitehead,
+University of California at Irvine.
+12.15-13.15     Lunch
+13.15-14.45     Common Infor-mation Spaces by Peter Carstensen et al.,
+Danish Technical University.
+14.45-15.00     Coffee
+15.00-16.30     Doctoral workshops
+16.30-16.45     Break
+16.45-19.00     Doctoral workshops
+19.00 -21.00    Dinner
+21.00 - ?         Social activity in the city
+
+Saturday 11th,  September
+09.00-10.30     Augmented Reality and Mediaspaces byWendy Mackay,
+	        University of Aarhus.:
+10.30-10.45     Coffee
+10.45-12.15     Interactive rooms and Roomwareby Norbert Streits, GMD, Germany
+12.15-13.15     Lunch
+13.15-14.45     Collaborative Virtual Environmentsby NN
+14.45-15.00     Coffee
+15.00-16.30     Reflection on the lectures
+16.30-16.45     Closing seession
+
+Program Committee:
+Jørgen Bang, jbang@imv.au.dk, (Contact person:);Janni Nielsen,
+janni.nielsen@cbs.dk; Peter Carstensen, carstensen@cti.dtu.dk; and Kaj
+Grønbæk, kgronbak@intermedia.au.dk.
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+JOERGEN BANG, ASSOCIATE PROFESSOR               phone: + 45 89 42 19 63
+Department of Information and Medie Science     fax:   + 45 89 42 19 52
+Aarhus University                               e-mail:jbang@imv.aau.dk
+Niels Juelsgade 84
+DK-8200 AARHUS N, DENMARK                       Home phone:+ 45 86 21 45 39
+
+

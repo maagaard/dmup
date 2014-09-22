@@ -1,0 +1,116 @@
+
+
+From spm-request@mailbase.ac.uk  Thu Jan 28 17:47:26 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id RAA14643
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 28 Jan 1999 17:47:24 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id QAA10987;
+	Thu, 28 Jan 1999 16:48:57 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id QAA00781;
+        Thu, 28 Jan 1999 16:42:47 GMT
+Received: from mailhub.Stanford.EDU (mailhub.Stanford.EDU [171.64.14.35]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id QAA00770;
+        Thu, 28 Jan 1999 16:42:43 GMT
+Received: from leland.stanford.edu (brahma.Stanford.EDU [171.65.60.26])
+	by mailhub.Stanford.EDU (8.8.8/8.8.8/L) with ESMTP id IAA07950;
+	Thu, 28 Jan 1999 08:42:28 -0800 (PST)
+Message-ID: <36B0935E.951A9C4C@leland.stanford.edu>
+Date: Thu, 28 Jan 1999 08:42:06 -0800
+Organization: Stanford University School of Medicine
+X-Mailer: Mozilla 4.06 [en] (WinNT; I)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="------------704003622650CF784A29E746"
+Subject: two postdoctoral positions available
+From: Vinod Menon <menon@leland.stanford.edu>
+To: spm@mailbase.ac.uk
+Cc: "menon@leland.Stanford.EDU" <menon@leland.stanford.edu>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Vinod Menon <menon@leland.stanford.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+--------------704003622650CF784A29E746
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+     Postdoctoral Positions in Functional Neuroimaging
+
+     Department of Psychiatry & Behavioral Sciences
+     Stanford University School of Medicine
+
+
+     Two postdoctoral positions are available in the Stanford Psychiatry
+     Neuroimaging Laboratory to participate in a wide range of functional
+     MRI
+     research projects. The projects will investigate perceptual and
+     cognitive function
+     and development in normal children and their dysfunction in specific
+     psychiatric
+     and neurogenetic disorders. We are looking for candidates with a
+     strong background
+     in neuroscience/neuropsychology/cognitive neuroscience/  and
+     fMRI/PET
+     research experience. Opportunities exist for participation in
+     ongoing research projects
+     as well as the development of new ones that match the candidate's
+     specific experience and interests.
+
+     Applicants should send a curriculum vitae together with a list of
+     publications,
+     summary of research experience and research interests, and the names
+     of three referees to:
+
+     Vinod Menon, Ph.D.
+     Department of Psychiatry & Behavioral Sciences
+     Stanford University School of Medicine
+     Stanford, CA 94305-5719
+
+     Email: menon@leland.stanford.edu
+     Fax: 650-723-4655
+
+--------------704003622650CF784A29E746
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+
+<BLOCKQUOTE>Postdoctoral Positions in Functional Neuroimaging
+<P>Department of Psychiatry &amp; Behavioral Sciences
+<BR>Stanford University School of Medicine
+<BR>&nbsp;
+<P>Two postdoctoral positions are available in the Stanford Psychiatry
+<BR>Neuroimaging Laboratory to participate in a wide range of functional
+MRI
+<BR>research projects. The projects will investigate perceptual and cognitive
+function
+<BR>and development in normal children and their dysfunction in specific
+psychiatric
+<BR>and neurogenetic disorders. We are looking for candidates with a strong
+background
+<BR>in neuroscience/neuropsychology/cognitive neuroscience/&nbsp; and&nbsp;
+fMRI/PET
+<BR>research experience. Opportunities exist for participation in ongoing
+research projects
+<BR>as well as the development of new ones that match the candidate's specific
+experience and interests.
+<P>Applicants should send a curriculum vitae together with a list of publications,
+<BR>summary of research experience and research interests, and the names
+of three referees to:
+<P>Vinod Menon, Ph.D.
+<BR>Department of Psychiatry &amp; Behavioral Sciences
+<BR>Stanford University School of Medicine
+<BR>Stanford, CA 94305-5719
+<P>Email: menon@leland.stanford.edu
+<BR>Fax: 650-723-4655</BLOCKQUOTE>
+</HTML>
+
+--------------704003622650CF784A29E746--

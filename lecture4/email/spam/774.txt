@@ -1,0 +1,38 @@
+
+
+From zeusjr@mail.ru Sun Jan  2 22:47:33 MET 2000
+Received: from hendrix.imm.dtu.dk (hendrix.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id WAA22275
+	for <fnielsen@eivind.imm.dtu.dk>; Sun, 2 Jan 2000 22:47:32 +0100 (MET)
+From: zeusjr@mail.ru
+Received: from unknown (bay1-251.orlando.ziplink.net [209.206.57.11])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with SMTP id WAA24911
+	for <www@hendrix.imm.dtu.dk>; Sun, 2 Jan 2000 22:48:52 +0100 (MET)
+To: www@hendrix.imm.dtu.dk
+Subject: thanks for subcribing; keri opt-in list
+Date: Sun, 2 Jan 2000 16:58:08
+Message-Id: <840.532313.559374@unknown>
+Reply-To: zeusjr@mail.ru
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Status: RO
+X-Status: 
+
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p><font size="6"><a href="http://205.167.152.51/getaway/">Click Here</a></font></p>
+
+</body>
+
+</html>

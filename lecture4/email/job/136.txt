@@ -1,0 +1,52 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jun 23 00:36:15 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA11169;
+	Wed, 23 Jun 1999 00:36:06 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21085;
+          22 Jun 99 16:35 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21083;
+          22 Jun 99 16:20 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12311;
+          22 Jun 99 16:19 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03895; 22 Jun 99 13:01 EDT
+Received: from iserv.iki.kfki.hu by EDRC.CMU.EDU id aa10806;
+          22 Jun 99 13:00:18 EDT
+Received: (from lorincz@localhost) by iserv.iki.kfki.hu (8.8.8/8.8.2) id QAA35342; Tue, 22 Jun 1999 16:58:42 GMT
+Date: Tue, 22 Jun 1999 18:58:42 +0200 (MET)
+From: Andras Lorincz <lorincz@iserv.iki.kfki.hu>
+To: Connectionists@cs.cmu.edu, cneuro@bbb.caltech.edu
+cc: Rufin.Vogels@med.kuleuven.ac.be
+Subject: Post-doctoral position in electrophysiology
+Message-ID: <Pine.A32.3.91.990622185037.29175C-100000@iserv.iki.kfki.hu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+A post-doctoral position is available for 3 years from the 
+
+                1st of January 2000 
+
+in the field of visual electrophysiology. The project is on 
+the coding of various depth (3D) cues by inferior temporal neurons.
+The work involves behavioral training of rhesus monkeys and recording 
+of single cortical neurons in the awake monkey.
+
+For more information and applications contact:
+
+Dr. Rufin Vogels
+
+email: Rufin.Vogels@med.kuleuven.ac.be
+http://www.kuleuven.ac.be/facdep/medicine/dep_neu/neufys/
+
+Lab. Neuro- en Psychofysiologie
+Fac. Geneeskunde
+Onderwijs en Navorsing
+Campus Gasthuisberg
+B-3000 Leuven
+Belgium
+Tel: +32 16 345857
+
+

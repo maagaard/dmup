@@ -1,0 +1,98 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Aug 31 00:51:07 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA11207;
+	Tue, 31 Aug 1999 00:50:54 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab23634;
+          30 Aug 99 15:26 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab23632;
+          30 Aug 99 15:10 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa20586;
+          30 Aug 99 15:09 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa25654; 30 Aug 99 12:32 EDT
+Received: from dublin.ai.univie.ac.at by CS.CMU.EDU id aa13122;
+          30 Aug 99 12:31:28 EDT
+Received: from ai.univie.ac.at (georg@esche.ai.univie.ac.at [131.130.174.20])
+	by dublin.ai.univie.ac.at (8.9.3/8.9.3) with ESMTP id SAA27670
+	for <connectionists@cs.cmu.edu>; Mon, 30 Aug 1999 18:31:21 +0200 (MET DST)
+Sender: georg@ai.univie.ac.at
+Message-ID: <37CAB21A.4C1FA72C@ai.univie.ac.at>
+Date: Mon, 30 Aug 1999 18:32:26 +0200
+From: Georg Dorffner <georg@ai.univie.ac.at>
+X-Mailer: Mozilla 4.6 [en] (X11; I; Linux 2.2.11 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: connectionists@cs.cmu.edu
+Subject: Workshop: Future and Prospects of Neural Networks
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+The following workshop is open to everyone. Your input to the discussion
+is needed!
+
+Since the workshop will take place during ICANN'99 at the conference
+venue, it will be of particular interest to conference participants.
+
+
+=============================================================           
+                The Future and Prospects of 
+                     Neural Networks
+
+=============================================================
+                       a workshop
+
+                  Edinburgh University
+            Appleton Tower, Lecture Theatre 2
+            Wednesday, Sep. 8, 1999, 6-8 p.m.
+
+
+
+
+Purpose
+
+
+The purpose of the workshop is to consolidate views and discuss
+perspectives of where the field of neural networks will be heading in
+the near and medium-term future. The ultimate goal of NEuroNet - the
+organiser of this workshop - is to compile a so-called "technological
+roadmap" of neural networks and related methodologies, that presents a
+visionary overview of the current trends in neural networks, as well as
+likely future developments, foci and prospects of both basic and applied
+research. For this, the opinions  from neural network researchers are
+solicited.
+
+
+Format
+
+A number of panellists will present their short position papers about
+the future of neural networks. This will be followed by an open
+discussion, where everybody is invited to contribute their own view
+about the prospects of the field.
+
+Refreshments will be served to enable a continuation of the discussion
+over a glass of wine.
+
+
+Panellists:
+
+       Georg Dorffner, OFAI Vienna 
+       Geoffrey Hinton, Univ. College London 
+       Erkki Oja, Helsinki Univ. of Technology 
+       Nic Schraudolph, IDSIA Lugano 
+       John Taylor, King's College London 
+       David Willshaw, Edinburgh Univ. 
+
+       Moderation: Mark Plumbley, NEuroNet
+
+
+The organizer
+
+This workshop is organised by NEuroNet - the network of excellence on
+neural networks, sponsored by the EU commission
+(http://www.kcl.ac.uk/neuronet).
+
+More information about the workshop can be found at
+http://www.ai.univie.ac.at/oefai/nn/neuronet/workshop.html

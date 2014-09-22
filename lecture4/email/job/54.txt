@@ -1,0 +1,57 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Jan 26 15:23:14 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id PAA21237;
+	Tue, 26 Jan 1999 15:23:02 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02023;
+          25 Jan 99 21:20 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02021;
+          25 Jan 99 21:16 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa18937;
+          25 Jan 99 21:15 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa07450; 25 Jan 99 20:58 EST
+Received: from mail.ucsf.EDU by RI.CMU.EDU id aa05724; 25 Jan 99 20:57:45 EST
+Received: from itsa.ucsf.edu (itsa [128.218.95.21])
+	by mail.ucsf.edu (8.8.7/CDR8.8.7) with SMTP id RAA19711;
+	Mon, 25 Jan 1999 17:57:20 -0800 (PST)
+Date: Mon, 25 Jan 1999 17:57:19 -0800 (PST)
+From: Karl Young <kyoung@itsa.ucsf.edu>
+To: researchers@santafe.edu, colt@cs.uiuc.edu,
+        comp-neuro@smaug.bbb.caltech.edu, connectionists@cs.cmu.edu,
+        neuron-request@cattell.psych.upenn.edu, psalist@itssrv1.ucsf.edu
+Subject: Post-Doctoral Research in Novel Brain Imaging Methods
+Message-ID: <Pine.A41.3.95.990125175355.49226C-100000@itsa.ucsf.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Postdoctoral position at the University of California, San Francisco;
+in the Laboratory of Dr. Michael Weiner.
+
+The research involves the development and comparison of statistical 
+classification techniques for medical imaging data. Knowledge of 
+some subset of the following topics is important: feature extraction
+techniques, such as projection pursuit or principal component analysis,
+and cluster analysis techniques, such as linear discriminant analysis,
+CART, neural networks, or Bayesian techniques. While these are 
+important, significant stress will be placed on the development of novel
+classification techniques based on recently proposed measures of 
+structural complexity. Development of metrics for comparison of the 
+new techniques with more standard ones will be an important 
+component of the research. The candidate will also contribute to the 
+design of a medical image data warehouse that is optimized for use by 
+the automated classification techniques. Some familiarity with medical
+imaging would be useful but is not required; primary interaction will
+be with research physicists and mathematicians in Dr. Weiner's group
+and from the Santa Fe Institute.
+
+Send CV and references to:
+
+Dr. Karl Young
+University of California, SF          Phone:  (415) 750-2158  lab
+VA Medical Center, MRS Unit (114M)    FAX:    (415) 668-2864
+4150 Clement Street                   Email:  kyoung@itsa.ucsf.edu
+San Francisco, CA 94121

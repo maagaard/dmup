@@ -1,0 +1,191 @@
+
+
+From bartz@gris.uni-tuebingen.de  Thu Dec 10 19:07:49 1998
+Received: from mx01.uni-tuebingen.de (root@mx01.uni-tuebingen.de [134.2.3.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id TAA05699
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 10 Dec 1998 19:07:48 +0100 (MET)
+Received: from sowa (sowa.gris.uni-tuebingen.de [134.2.176.72])
+	by mx01.uni-tuebingen.de (8.8.8/8.8.8) with SMTP id TAA19815;
+	Thu, 10 Dec 1998 19:08:55 +0100
+Received: by sowa (950413.SGI.8.6.12/930416.SGI)
+	for vis99_12 id TAA07707; Thu, 10 Dec 1998 19:05:34 +0100
+From: "Dirk Bartz" <bartz@gris.uni-tuebingen.de>
+Message-Id: <9812101905.ZM7705@sowa>
+Date: Thu, 10 Dec 1998 19:05:34 +0000
+X-Mailer: Z-Mail (3.2.3 08feb96 MediaMail)
+To: vis99_12@sowa
+Subject: CFP: IEEE Visualization 1999
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Status: RO
+X-Status: 
+
+Please excuse the accidently sent email yesterday.
+
+=======================================================================
+
+First  C A L L   F O R   P A R T I C I P A T I O N
+
+IEEE Visualization 1999
+Celebrating Ten Years
+
+October 24 - October 29, 1999
+San Francisco Airport Hyatt
+San Francisco, California, USA
+
+Sponsored by IEEE Computer Society Technical Committee on
+Computer Graphics In Cooperation with ACM/SIGGRAPH
+
+VISUALIZATION is a vital research and applications frontier
+shared by a variety of science, medical, engineering, business,
+and entertainment fields. The tenth IEEE Visualization conference
+focuses on interdisciplinary methods. Collaboration among developers
+and users of visualization methods across all of science, engineering,
+medicine, and commerce is addressed at Visualization '99. Sunday through
+Tuesday of Conference Week will include tutorials, symposia, and
+mini-workshops. Papers, panels, case studies, and late-breaking hot
+topics will be presented Wednesday through Friday.
+
+We invite you to participate in IEEE Visualization '99 by submitting
+your original research through papers, panels, case studies, late
+breaking hot topics, and demonstrations. Share your perspectives
+through panels and workshops, or your experience through tutorials.
+Please select the forum
+appropriate to your submission, where it will be considered by your
+peers for presentation. Particular focus on parallel techniques in
+visualization and information visualization are addressed in special
+two-day symposia.
+
+For further information on the conference or evolving symposia contact:
+
+Steve Bryson, Conference Co-Chair, NASA Ames Research Center,
++1 (650) 604 4524, Fax: +1 (650) 604 3957, bryson@nas.nasa.gov
+
+Theresa-Marie Rhyne, Conference Co-Chair,
+Lockheed Martin/US EPA Scientific Visualization Center,
++1 (919) 541 0207, Fax: +1 (919) 541 0056, trhyne@vislab.epa.gov
+
+See the conference web page for complete up-to-date information and
+submission details at http://www.erc.msstate.edu/vis99
+
+
+Conference Papers
+(due March 31, 1999)
+Papers are solicited that present research results related to
+all areas of visualization. Original papers are limited to
+5,000 words. The submission of NTSC VHS video (up to 5 minutes
+in length) to accompany the paper is strongly recommended.
+Please submit 7 copies of all materials to Bernd Hamann (at the
+address below). Accepted papers will
+be included in the conference proceedings; the videos will be
+included in the conference video proceedings.  In addition, we
+MUST receive, by submission deadline, a complete paper submission
+form.
+Paper submissions (hard copy only) should be sent to Bernd
+Hamann, Center for Image Processing and Integrated Computing,
+2343 Academic Surge Building, One Shields Avenue, University
+of California, Davis, Davis, CA 95616-8553, USA
+
+Panel Proposals
+(due March 31, 1999)
+Panels should address the most important issues in visualization
+today. Panel proposals should describe the topic to be addressed
+and identify the prospective panelists. Each panelist should
+include a position statement on the topic and a short biography
+(limit 500 words for both per panelist). The statements will be
+included in the conference proceedings.
+Panel proposals should (hard copy or email) be sent to J. Edward
+Swan, Naval Research Laboratory, Code 5580, 4555 Overlook Ave. SW
+Washington, D.C. 20375-5320, USA. 202-404-4984. Fax: 202-767-1122.
+swan@ait.nrl.navy.mil
+
+Case Study Papers
+(due March 31, 1999)
+Case studies are reports on how visualization has contributed to the
+analysis of data. They may have an application focus or relate to
+the visualization process.  Possible application areas include
+physical, life, social and information sciences, engineering, and
+commerce. An emphasis on lessons learned from practical experience
+is strongly encouraged, particularly where visualization has been
+employed in a real, working environment. A short paper limited to
+2500 words (maximum 4 pages B/W plus 1 page color) will be included
+in the conference proceedings. Images and/or NTSC VHS video to
+accompany the paper are recommended; the video will be included in
+the conference videotape. Submit six copies of all materials.
+Case study submissions (hard copy only) should be sent to David Kao,
+NASA Ames Research Center, M/S T27A-2, Moffett Field CA 94035-1000,
+USA. davidkao@nas.nasa.gov
+
+Late Breaking Hot Topics Papers
+(due June 15, 1999)
+Submissions will be accepted on Late Breaking Hot Topics that pertain
+to all areas of Visualization. These submissions must be original, may
+show work in progress, and may not exceed 1000 words or a maximum
+of 4 pages including images. Images and/or NTSC VHS video to accompany the
+paper are recommended; the video will be included in the conference
+video proceedings. Accepted papers will be published and distributed
+at the conference. Authors of accepted papers will have an opportunity
+to submit a revised paper. Submissions will be done electronically.
+Submission details can be found at the conference web site or by
+contracting Craig Wittenbrink at craig_wittenbrink@hpl.hp.com
+Videotape should be send to Craig M. Wittenbrink, Hewlett-Packard
+Laboratories, 1501 Page Mill Rd, MS3U-4, Palo Alto, CA 94304-1126, USA.
+650-857-2329. Fax: 650-852-3791
+
+Tutorial Proposals
+(due March 31, 1999)
+Tutorials are full or half-day presentations designed to cover specific
+visualization methods or application areas in depth. Subjects can
+include, but not limited to, standard visualization techniques, existing
+languages or toolkits, and mathematical fundamentals, databases,
+usability analysis, or commercialization of software. It is the intention
+of the Vise '99 tutorial committee to provide one classroom equipped with
+workstations for hands-on instruction. Tutorials proposing to use this
+interactive classroom should clearly state this preference and how the
+course is designed for this setting. For more detailed information
+concerning submission and format content, see the conference web site,
+or contact Kelly Gaither, Mississippi State University, P.O. Box 9627,
+Mississippi State University, MS 39762, USA. 601-325-2067.
+Fax: 601-325-7692. kelly@erc.msstate.edu
+
+Mini-Workshop and Birds-of-a-Feather Proposals
+(due March 31, 1999)
+Proposals may be submitted for Mini-Workshops and evening
+Birds-Of-A-Feather (BOF) gathering on visualization methods or
+application areas. They should deal with state-of-the-art topics
+and involve experts in the field. Discipline-focused proposals
+devoted to a particular discipline's methods and needs are
+encouraged.
+Mini-Workshop and Birds-of-a-Feather Proposals (hard copy or email)
+should be sent to Rob Erbacher, University of Idaho, Department of
+Computer Science, Moscow, ID 83844-1010, USA, erbacher@cs.uidaho.edu
+
+Demonstration Proposals
+Visualization '99 is a unique opportunity to present your products or
+research to visualization experts from a wide variety of fields. We
+invite demonstrations of commercial hardware, software, integrated
+systems peripherals, and literature, as well as academic research.
+We encourage demonstrators to have technical representatives in attendance.
+For more information on participating in Visualization '99
+demonstrations, contact Upul Obeysekare at obey@ctc.com
+
+Creative Applications Lab
+The Creative Applications Lab (CAL) is designed to let Visualization '99
+attendees run their software to show off their latest work. CAL will have
+a variety of computers available.
+For details on participating in the CAL see the conference web site or
+contact Kelly Gaither at kelly@erc.msstate.edu.
+
+
+Symposium on Parallel Visualization and Graphics
+(submission deadline March 31, 1999)
+Papers and case studies in parallel visualization and graphics, with
+particular interest in using clusters of commodity PCs and graphics
+cards for high-performance visualization and graphics tasks.
+http://www.acl.lanl.gov/PVG99/pvg99.html
+
+Symposium on Information Visualization (Info Vis 99)
+(submission deadline March 31, 1999)
+Papers, panels and case studies concentrating on issues specific to
+abstract information visualization.
+http://www.erc.msstate.edu/infovis99

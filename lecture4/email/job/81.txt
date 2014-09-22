@@ -1,0 +1,83 @@
+
+
+From spm-request@mailbase.ac.uk Tue Mar  9 12:35:04 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id MAA26957
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Mar 1999 12:35:03 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id LAA01512;
+	Tue, 9 Mar 1999 11:39:36 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id LAA07475;
+        Tue, 9 Mar 1999 11:38:05 GMT
+Received: from mailhub.abdn.ac.uk (mailhub.abdn.ac.uk [139.133.7.23]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id LAA07466;
+        Tue, 9 Mar 1999 11:38:02 GMT
+Received: from Miller.psyc.abdn.ac.uk (miller.psyc.abdn.ac.uk [139.133.68.163])
+	by mailhub.abdn.ac.uk (8.8.7/8.8.5) with SMTP id LAA07395
+	for <spm@mailbase.ac.uk>; Tue, 9 Mar 1999 11:37:31 GMT
+Message-Id: <199903091137.LAA07395@mailhub.abdn.ac.uk>
+Date: Tue, 9 Mar 1999 11:33:57 -0000
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+Priority: normal
+X-mailer: Pegasus Mail for Win32 (v3.01b)
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from Quoted-printable to 8bit by naga.mailbase.ac.uk id LAA07466
+Subject: 4 Lectureships at Aberdeen
+From: "Dr. Arash Sahraie" <psy255@mailserv.abdn.ac.uk>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: "Dr. Arash Sahraie" <psy255@mailserv.abdn.ac.uk>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+Please circulate the following job advert. 
+We would very much like to hear from researchers with  interests in 
+any of the following areas: visual psychophysics, development of 
+non-invasive techniques  for monitoring retinal/cortical pathology 
+and functional neuro-imaging (PET& fMRI). 
+Many thanks, 
+Arash Sahraie, 
+Department of Psychology 
+University of Aberdeen, 
+Aberdeen, 
+Scotland 
+
+University of Aberdeen, Aberdeen, Scotland 
+4 Lecturers/Senior Lecturers in Psychology 
+£16,655 - £29,048 per annum (Lecturer),  
+£30,496 - £34,464 per annum (Senior Lecturer) 
+
+  The Department of Psychology has 4 Lecturer/Senior Lecturer  
+vacancies.  Applications are welcome from those with interests in  
+any area of Psychology,  however, particularly from candidates with 
+ research interests in social, industrial/organisational, cognitive,  
+developmental, clinical/abnormal or neuropsychology. Appointment 
+ may be made at any point on the Lecturer or Senior Lecturer scale 
+ depending on the qualifications and research record of each    
+appointee. A Readership may be available for extremely well  
+qualified candidates.  You should have an excellent publication  
+record and will be able to attract external research income. The  
+Department obtained a rating of 4 in the 1996 RAE and is seeking  
+to build on this. The Department has excellent facilities for  
+research including a Silicon Graphics™ virtual reality laboratory,  
+several other specialist laboratories, local access to PET and MRI  
+for brain imaging, strong links with the local oil and gas  industry,  
+access to a large pool of volunteers for group or individual  
+experimental  work and excellent access to patients for  
+neuropsychological research. Informal enquiries may be directed to 
+ Professor Robert H Logie, Head of Department (tel:  +44 (0)1224  
+272241, email: r.logie@abdn.ac.uk). The Department’s website is 
+  http://www.psyc.abdn.ac.uk (Post reference FPY044A) 
+Applications and further particulars are available from Personnel  
+Services, University of  Aberdeen, Regent Walk, Aberdeen AB24  
+3FX, tel +44 (0)1224 272727, quoting reference  number FPY044A. 
+ A 24 hour answering service is in operation. 
+Closing date for applications: 26 March 1999. 

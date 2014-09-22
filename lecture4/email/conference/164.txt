@@ -1,0 +1,152 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Oct 30 09:40:21 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id JAA29924;
+	Fri, 30 Oct 1998 09:40:14 +0100 (MET)
+Message-Id: <199810300840.JAA29924@eivind.imm.dtu.dk>
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12775;
+          30 Oct 98 1:57 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12772;
+          30 Oct 98 1:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17113;
+          30 Oct 98 1:44 EST
+From: Dimitris Tsaptsinos <MA_S435@kingston.ac.uk>
+Organization: Kingston University
+To: Connectionists@cs.cmu.edu
+Date: Thu, 8 Oct 1998 13:17:14 +0100
+Subject: CFP - EANN99
+Reply-to: ma_s435@kingston.ac.uk
+Priority: normal
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id JAA29924
+Status: RO
+X-Status: 
+
+International Conference on Engineering Applications
+of Neural Networks (EANN '99)
+
+Fifth
+International Conference on
+Engineering Applications of Neural Networks
+(EANN '99)
+
+Warsaw, Poland 
+13-15 September 1999
+
+First Call for Papers
+
+The conference is a forum for presenting the  latest results on 
+neural network applications in technical fields.  The applications 
+may be  in any engineering or technical    field, including but not 
+limited to systems engineering,     mechanical  engineering, 
+robotics,  process engineering,  metallurgy,  pulp   and  paper 
+technology,  aeronautical engineering,  computer science,  
+machine  vision,  chemistry, chemical engineering,  physics,    
+electrical  engineering,  electronics, civil engineering,    
+geophysical  sciences,       biomedical  systems,  and
+environmental engineering.
+
+Summaries of two pages (about 1000 words) should be sent by e-
+mail. Various sessions are organised and
+the responsibilities for some of the sessions have been divided to 
+some extent from this year. The two page abstracts related to the 
+following areas may be sent directly to the
+person(s) coordinating the session. 
+
+Control systems (E. Tulunay, etulunay@ed.eee.metu.edu.tr and A. 
+Ruano, aruano@ualg.pt) 
+
+Vision/Image processing (S. Draghici, sod@cs.wayne.edu) 
+
+Hybrid systems (J. Fernandez de Canete, canete@ctima.uma.es 
+and D. Tsaptsinos, D.Tsaptsinos@kingston.ac.uk) 
+
+Process Engineering (R. Baratti, baratti@unica.it) 
+
+Biomedical systems (W. Duch, duch@phys.uni.torun.pl) 
+
+Metallurgy (P. Myllykoski, pirkka.myllykoski@hut.fi) 
+
+Meteorology (C. Schizas, schizas@ucy.ac.cy) 
+
+Papers which do not fit any of the above categories can be sent to 
+the common address of the conference which is 
+eann99@phys.uni.torun.pl.
+
+Deadline: 15 February  1999 
+Format: in plain text format (for other formats please email eann99 
+at the previous address)
+
+Please mention two to  four  keywords.  Submissions will be  
+reviewed.
+For information  on   earlier EANN conferences  see  the  www 
+pages at http://www.abo.fi/~abulsari/EANN98.html. The local 
+organisers are putting together a web page at 
+http://www.phys.uni.torun.pl/eann99/
+
+Notification of  acceptance will be sent around  15  March. The 
+papers will be  expected by 15  April.  All papers will  be  upto 6  
+pages in length. Authors are expected to register by 15 April.
+
+
+Organising committee 
+
+R. Baratti, University of Cagliari, Italy 
+L. Bobrowski, Polish Academy of Science, Poland
+A. Bulsari, Nonlinear Solutions Oy, Finland 
+W. Duch, Nicholas Copernicus University, Poland 
+J. Fernandez de Canete, University of Malaga, Spain 
+A. Ruano, University of Algarve, Portugal 
+D. Tsaptsinos, Kingston University, UK 
+
+
+National program committee
+
+L. Bobrowski, IBIB Warsaw, 
+A. Cichocki, RIKEN, Japan
+W. Duch, Nicholas Copernicus University
+T. Kaczorek, Warsaw Polytechnic
+J. Korbicz, Technical University of Zielona Gora
+L. Rutkowski, Czestochowa Polytechnic
+R. Tadeusiewicz, Academy of Mining and Metallurgy, Krakow
+Z. Waszczyszyn, Krakow Polytechnic
+
+
+International program committee (to be confirmed, extended)
+
+S. Cho, Pohang University of Science and Technology, Korea
+T. Clarkson, King's College, UK 
+S. Draghici, Wayne State University, USA 
+G. Forsgrén, Stora Corporate Research, Sweden 
+I. Grabec, University of Ljubljana, Slovenia
+A. Iwata, Nagoya Institute of Technology, Japan 
+C. Kuroda, Tokyo Institute of Technology, Japan 
+H. Liljenström, Royal Institute of Technology, Sweden 
+L. Ludwig, University of Tubingen, Germany 
+M. Mohammadian, Monash University, Australia
+P. Myllykoski, Helsinki University of Technology, Finland
+A. Owens, DuPont, USA
+R. Parenti, Ansaldo Ricerche, Italy 
+F. Sandoval, University of Malaga, Spain 
+C. Schizas, University of Cyprus, Cyprus 
+E. Tulunay, Middle East Technical University, Turkey
+S. Usui, Toyohashi University of Technology, Japan
+P. Zufiria, Polytechnic University of Madrid, Spain
+
+
+Electronic mail  is not absolutely reliable,  so if you have not heard
+from the    conference  secretariat after  sending a   summary, 
+please contact again.  You should receive an  abstract number  in 
+a couple of days after the submission.
+
+
+Dr Dimitris Tsaptsinos
+Senior Lecturer
+School of Mathematics
+Kingston University
+Penhryn Road
+Kingston-Upon-Thames
+Surrey KT1 2EE

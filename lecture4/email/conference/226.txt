@@ -1,0 +1,97 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Feb 25 02:04:45 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id CAA27721
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 25 Feb 1999 02:04:42 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa23780;
+          24 Feb 99 17:49 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa23778;
+          24 Feb 99 17:40 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07422;
+          24 Feb 99 17:39 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa17748; 24 Feb 99 8:15 EST
+Received: from syseng.anu.edu.au by EDRC.CMU.EDU id aa08649;
+          24 Feb 99 8:14:57 EST
+Received: from reid.anu.edu.au (reid [150.203.126.7])
+	by syseng.anu.edu.au (8.8.8/8.8.8) with ESMTP id AAA02575;
+	Thu, 25 Feb 1999 00:14:50 +1100 (EST)
+From: Jonathan Baxter <Jon.Baxter@syseng.anu.edu.au>
+Received: (from jon@localhost)
+	by reid.anu.edu.au (8.8.8/8.8.8) id AAA20350;
+	Thu, 25 Feb 1999 00:14:50 +1100 (EST)
+Message-Id: <199902241314.AAA20350@reid.anu.edu.au>
+Subject: Re: Boosting methods for regression and classification.
+To: Jerry.Friedman@cmis.CSIRO.AU
+Date: Thu, 25 Feb 1999 00:14:50 +1100 (EST)
+Cc: connectionists@cs.cmu.edu
+In-Reply-To: <199902240212.NAA18316@pride.nsw.cmis.CSIRO.AU> from "Jerry.Friedman@cmis.CSIRO.AU" at Feb 24, 99 01:12:34 pm
+X-Mailer: ELM [version 2.4 PL24]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+> 
+> 
+> 
+>                   *** Technical Report Available ***
+> 
+> 
+>                     Greedy Function Approximation:
+>                      A Gradient Boosting Machine
+> 
+>                          Jerome H. Friedman
+>                          Stanford University
+> 
+>                               ABSTRACT
+> 
+> Function approximation is viewed from the perspective of numerical
+> optimization in function space, rather than parameter space. A
+> connection is made between stagewise additive expansions and
+> steepest-descent minimization. A general gradient-descent "boosting"
+> paradigm is developed for additive expansions based on any fitting
+> criterion. 
+> Specific algorithms are presented for least-squares,
+> least-absolute-deviation, and Huber-M loss functions for regression,
+> and multi-class logistic likelihood for classification. Special
+> enhancements are derived for the particular case where the individual
+> additive components are decision trees, and tools for interpreting
+> such "TreeBoost" models are presented. Gradient boosting of decision
+> trees produces competitive, highly robust, interpretable procedures
+> for regression and classification, especially appropriate for mining
+> less than clean data. Connections between this approach and the
+> boosting methods of Freund and Shapire 1996, and Friedman, Hastie, and
+> Tibshirani 1998 are discussed.
+> 
+> 
+> Available from: "http://www-stat.stanford.edu/~jhf/ftp/trebst.ps"
+
+
+There was also some discussion of the connection between boosting and
+gradient descent in function space at the NIPS workshop on large
+margins in December. I have put the slides of my talk on the
+subject---"AnyBoost: Boosting with (almost) arbitrary cost functions
+and steps"---on my web page for those who are interested
+(http://syseng.anu.edu.au/~jon/anyboost.ps).
+
+
+Cheers,
+
+Jon
+-------------
+Jonathan Baxter	
+Research Fellow
+Department of Systems Engineering
+Research School of Information Science and Engineering
+Australian National University
+http://syseng.anu.edu.au/~jon
+Tel: +61 2 6279 8678
+Fax: +61 2 6279 8688
+
+
+> 
+> 
+> 
+

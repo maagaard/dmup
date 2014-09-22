@@ -1,0 +1,87 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Mar 11 21:45:59 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA25502;
+	Thu, 11 Mar 1999 21:45:53 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa24931;
+          11 Mar 99 14:44 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa24929;
+          11 Mar 99 14:36 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03214;
+          11 Mar 99 14:35 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa29417; 11 Mar 99 7:38 EST
+Received: from mail.lafrancecorp.com by RI.CMU.EDU id aa18798;
+          11 Mar 99 7:37:42 EST
+Received: from tractatus.rutgers.edu [209.204.74.188] by snip.net with ESMTP
+  (SMTPD32-4.06) id AB3D638B0060; Thu, 11 Mar 1999 07:46:53 EST
+Message-ID: <36E7AB3C.AB5D24E4@tractatus.rutgers.edu>
+Date: Thu, 11 Mar 1999 07:38:37 -0400
+From: Stephen Jose Hanson <jose@tractatus.rutgers.edu>
+Organization: Rutgers University
+X-Mailer: Mozilla 4.5 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "connectionists@cs.cmu.edu" <connectionists@cs.cmu.edu>
+Subject: COMPUTER MANAGER/RESEARCH STAFF
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+COMPUTER MANAGER/RESEARCH STAFF
+
+
+
+
+     Reporting to the chair, responsible for administering the
+     computing
+     resources of the department.  Major component of this position
+     involves
+     research in Cognitive Science, especially related to
+     Connectionist
+     networks (or Neural Networks and Computational Neuroscience).
+     Will plan, direct,
+     and implement research approaches and concepts with faculty,
+     including
+     writing and organizing research experiments. Must be able to
+     write program
+     specifications designed for specific research control
+     situations. Other
+     responsibilities consist of installing and debugging software,
+     and
+     routine system maintenance administration.   Will participate
+     in planning and
+     design for network growth and computing facilities as it
+     relates to RU-NET
+     2000.
+
+     Requires a bachelor's degree, or MS  in Computer Science,
+     Cognitive Science,
+     Cognitive Neuroscience or AI or other related fields  or
+     equivalent
+     experience.
+
+     Requires familiarity with C-programming, UNIX system internals
+     (BSD,
+     System V, Solaris, Linux) and Windows (95, NT) as well as
+     local area networks
+     running TCP/IP.  Image processing or graphics programming
+     experience a
+     plus.
+
+     EMAIL Enquirys:  jose@psychology.rutgers.edu  please include
+     in Subject
+     Heading:  SYS ADM
+
+
+
+Salary Range 27
+Retirement System       ABP
+Send resumes to:       COMPUTER MANAGER SEARCH
+                                 Department of PSYCHOLOGY,
+                                 RUTGERS-NEWARK, 101 Warren Street,
+                                 SMITH HALL,
+                                 Newark NJ 07102
+
+

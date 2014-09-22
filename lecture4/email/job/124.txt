@@ -1,0 +1,62 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jun  4 20:11:12 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id UAA05961;
+	Fri, 4 Jun 1999 20:11:03 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa08808;
+          4 Jun 99 12:20 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08806;
+          4 Jun 99 12:06 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06296;
+          4 Jun 99 12:05 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa14175; 4 Jun 99 8:23 EDT
+Received: from [141.163.49.57] by EDRC.CMU.EDU id aa17317; 4 Jun 99 8:23:40 EDT
+Received: from cis.plym.ac.uk (sennen.cis.plym.ac.uk [141.163.49.59]) by rome.cis.plym.ac.uk (8.7.5/8.7.3) with ESMTP id NAA22909 for <Connectionists@cs.cmu.edu>; Fri, 4 Jun 1999 13:21:51 +0100 (BST)
+Message-ID: <3757C59F.247A59DD@cis.plym.ac.uk>
+Date: Fri, 04 Jun 1999 13:25:03 +0100
+From: Phil Culverhouse <phil@rome.cis.plym.ac.uk>
+Reply-To: pculverhouse@plymouth.ac.uk
+Organization: Centre for Intelligent Systems, SECEE, University of Plymouth, Plymouth 
+ PL4 8AA, UK.
+X-Mailer: Mozilla 4.5 [en] (WinNT; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "'Connectionists@cs.cmu.edu'" <Connectionists@cs.cmu.edu>
+Subject: JOB POSITION
+References: <B57613845A50D211864C0000F8FA5C28565A39@mars.otago.ac.nz>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+SCHOOL OF ELECTRONIC, COMMUNICATION & ELECTRICAL ENGINEERING, UNIVERSITY
+OF PLYMOUTH, UK.
+
+Ref:  3289/TECH
+RESEARCH ASSISTANT/FELLOW
+Salary stlg10399 to stlg17606 pa - RA/RF
+
+An exciting 20 MONTH post is IMMEDIATELY available for a Vision
+Scientist
+
+You will LEAD the development of a neural network based natural object
+categoriser for laboratory use.  The existing prototype (UNIX
+platform)is capable of categorising 23 species of marine plankton, but
+has to be further developed and a user interface tailored to Marine
+Ecologists.
+
+You should have a working knowledge of wavelet transforms, current
+machine vision techniques and multi-dimensional clustering statistics.
+You should ideally be familiar with UNIX and Windows NT operating
+systems as well as being a Matlab and C++ programmer.
+
+The POST IS AVAILABLE IMMEDIATELY  and will involve some European
+travel.
+
+For informal enquiries regarding this post, please contact Dr P
+Culverhouse on +44 1752 233517 or email:  pculverhouse@plymouth.ac.uk
+
+closing date: 30th June 1999
+
+

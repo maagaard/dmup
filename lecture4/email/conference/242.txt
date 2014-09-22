@@ -1,0 +1,87 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Mar 31 03:30:19 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id DAA13314;
+	Wed, 31 Mar 1999 03:30:13 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa03513;
+          30 Mar 99 14:43 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa03511;
+          30 Mar 99 14:38 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04003;
+          30 Mar 99 14:37 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa23581; 30 Mar 99 8:41 EST
+Received: from neuron.tau.ac.il by EDRC.CMU.EDU id aa10312;
+          30 Mar 99 8:40:58 EST
+Received: from localhost (horn@localhost) by neuron.tau.ac.il (8.8.5/8.7.5) with SMTP id PAA15469 for <Connectionists@cs.cmu.edu>; Tue, 30 Mar 1999 15:40:52 +0200 (IST)
+Date: Tue, 30 Mar 1999 15:40:51 +0200 (IST)
+From: David Horn <horn@neuron.tau.ac.il>
+To: Connectionists@cs.cmu.edu
+Subject: NCHEP-99
+Message-ID: <Pine.SGI.3.96-heb-2.07.990330153608.13451i-100000@neuron.tau.ac.il>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+              First Announcement : NCHEP-99
+                      Workshop on
+       Neural Computation in High Energy Physics 1999
+
+Place:  Maale Hachamisha, Israel
+Dates:  October 13 - 15, 1999.
+
+This workshop, sponsored by the Israel Science Foundation, will be
+devoted to the use of Neural Computation in High Energy 
+Physics. Its purpose is to review the current status of this field
+and to discuss and evaluate possible future developments.
+
+
+               Call for Papers.
+
+Applications of neural computation to HEP can be found in the area
+of data analysis and in both on-line and off-line trigger designs.
+We would like to discuss their possible involvement in the design
+of intelligent detectors and the use of reconfigurable devices.
+We call for papers on recent developments in all these subjects.
+Abstracts should be submitted electronically until July 1st, 1999.
+They should include
+postal and e-mail addresses of all authors and the author to whom 
+correspondence should be addressed. 
+Submitted papers should be limited to seven pages in length. Two copies of
+the submitted papers should reach the conference scientific committee by 
+September 1st, 1999. Mail submissions to 
+
+  Prof. Halina Abramowicz, NCHEP-99, School of Physics and Astronomy, 
+Tel Aviv University, Tel Aviv 69978, Israel. 
+     e-mail: halina@post.tau.ac.il
+
+
+                Scientific Organizing Committee
+
+Prof. H. Abramowicz and Prof. D. Horn, Tel Aviv University.
+
+
+                    General Information 
+
+Information about this workshop is available at the website
+http://neuron.tau.ac.il/NCHEP-99.
+
+Registration will be handled by Dan-Knassim. http://www.congress.co.il.
+e-mail: congress@mail.inter.net.il. Phone:+972-3-6133340 fax:+972-3-6133341.
+
+Workshop secretary is Michal Finkelman, e-mail:michal@neuron.tau.ac.il
+fax: +972-3-6407932.
+  
+                      Notice
+
+This workshop will follow the NCST-99 conference on Neural Computation
+in Science and Technology, which will take place at the same location.
+That conference covers areas of both neurobiological modeling
+and computational applications. Information about
+NCST-99 is available at http://neuron.tau.ac.il/NCST-99.
+Participants of NCHEP-99 are encouraged to make use of this opportunity and
+take part also in that conference.
+
+
+

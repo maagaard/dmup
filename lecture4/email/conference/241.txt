@@ -1,0 +1,189 @@
+
+
+From mps@imm.dtu.dk Tue Mar 30 10:35:14 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id KAA04937;
+	Tue, 30 Mar 1999 10:35:12 +0200 (METDST)
+Received: from serv4.imm.dtu.dk (mps@serv4.imm.dtu.dk [130.225.85.10])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id KAA18787;
+	Tue, 30 Mar 1999 10:42:32 +0200 (METDST)
+Received: (from mps@localhost)
+	by serv4.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) id KAA05113;
+	Tue, 30 Mar 1999 10:42:31 +0200 (METDST)
+Date: Tue, 30 Mar 1999 10:42:31 +0200 (METDST)
+From: Mads Peter Soerensen <mps@imm.dtu.dk>
+Message-Id: <199903300842.KAA05113@serv4.imm.dtu.dk>
+Subject: CIME Course, please circulate!
+To: phd_at_imm@serv4.imm.dtu.dk, vip_at_imm@serv4.imm.dtu.dk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-MD5: sYEcw3u/XbfsP0eiO5gROw==
+Status: RO
+X-Status: 
+
+------------- Begin Forwarded Message -------------
+
+>From engl@indmath.uni-linz.ac.at Fri Mar 26 19:33:27 MET 1999
+Received: from alijku04.edvz.uni-linz.ac.at (alijku04.edvz.uni-linz.ac.at 
+[140.78.182.1])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id TAA18805
+	for <mps@imm.dtu.dk>; Fri, 26 Mar 1999 19:33:26 +0100 (MET)
+Received: from dinoa0.indmath.uni-linz.ac.at (dinoa0.indmath.uni-linz.ac.at 
+[140.78.117.100])
+	by alijku04.edvz.uni-linz.ac.at (8.8.8/8.8.8) with ESMTP id TAA50652;
+	Fri, 26 Mar 1999 19:23:24 +0100
+Received: by indmath.uni-linz.ac.at (MX V5.1-X Vn9j) id 23;
+          Fri, 26 Mar 1999 19:24:27 +0100
+Date: Fri, 26 Mar 1999 19:24:26 +0100
+From: "PROF.HEINZ W. ENGL" <engl@indmath.uni-linz.ac.at>
+X-Comment: To: header was truncated; missing 62 entries.
+To: na.digest@na-net.ornl.gov, ipnet-digest@math.msu.edu,
+        im-net-digest@iwr.uni-heidelberg.de,
+        
+"x%\"caas29@vaxa.strath.ac.uk\"t\"\"en]ecmires.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"m.brons@mat.dtu.dk\"nifi.it\"\"en]ecmires.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"holden@imf.unit.no\"nifi.it\"\"en]ecmires.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"capasso@elanor.mat.unimi.it\"en]ecmires.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"neunzert@itwm.uni-kl.de\"ressen]ecmires.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"ockendon@maths.ox.ac.uk\"ressen]ecmires.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"ejam@maths.ox.ac.uk\"l.adressen]ecmires.dis"@indmath.uni-linz.ac.at,
+        x%"burkard@opt.math.tu-graz.ac.at"ecmiinsp.dis@indmath.uni-linz.ac.at,
+        
+"x%\"fismat@udini.math.unifi.it\"sen]ecmiinsp.dis"@indmath.uni-linz.ac.at,
+        
+"x%\"neunzert@itwm.uni-kl.de\"ressen]ecmiinsp.dis"@indmath.uni-linz.ac.at,
+        x%"bonilla@ing.uc3m.es"@indmath.uni-linz.ac.at,
+        
+x%"rentrop@mathematik.th-darmstadt.de"council.dis@indmath.uni-linz.ac.at,
+        schoisswohl@indmath.uni-linz.ac.at
+CC: ksigmund@esi.ac.at, itroch@email.tuwien.ac.at, marko@numa.uni-linz.ac.at,
+        franz.kappel@kfunigraz.ac.at, karl.kunisch@kfunigraz.ac.at,
+        m.deistler@tuwien.ac.at, zinterhof@EDVZ.SBG.AC.AT
+X-VMSmail-To: NANET,IPNET,IMNET,ECMIRES,ECMIINSP,ECMICOUNCIL,ECMIEDUC,EMS,ALLSC
+X-VMSmail-CC: SIGMUND,TROCH,MARKOWICH,F.KAPPEL,KUNISCH,DEISTLER,ZINTERHOF
+Message-ID: <009D5B46.B9F84F41.23@indmath.uni-linz.ac.at>
+Subject: CIME Course, please circulate!
+Content-Length: 4036
+Status: RO
+
+
+A  Course on  
+
+"Computational Mathematics driven by Industrial Applications"
+
+will be held by  CIME (International Mathematical  Summer Center)
+in Martina Franca (Apulia, Italy) during  June 21-27, 1999.
+The Directors of the Course are  Vincenzo Capasso (Univ. of Milano),
+Heinz W. Engl (Univ. of Linz), and Jacques Periaux (Dassault Aviation).
+
+
+COURSES
+
+The following  sets of 5/6 hours  lectures each  in English  will be offered
+
+1. Paths, trees and flows: graph optimization problems with industrial 
+   applications
+    by  Prof. Rainer BURKARD (Technische Universitaet Graz)
+
+2. New computational  concepts, adaptive  differential equation solvers and
+    virtual labs,  
+    by   Prof. Peter  DEUFLHARD  (Konrad Zuse Zentrum Berlin)
+
+3. Computational methods  for aerodynamic analysis and design,
+    by Prof. Antony JAMESON (Stanford University)
+
+4. Mathematical problems in industry
+    by Jacques Louis LIONS (College de France et Dassault Aviation, Paris)
+
+5. Wavelets transform and cosine transform in signal and image processing
+    by Gilbert STRANG (MIT)
+
+
+SEMINARS
+
+A set of two hours seminars in English will be offered too
+
+a. Mathematics of the crystallization process of polymers
+    by  Vincenzo CAPASSO
+
+b. Inverse problems: regularization methods and applications in industry
+    by  Heinz ENGL
+
+c. Mathematics of Glass
+    by Robert MATTHEIJ   ( Technische Universitaet Eindhoven)
+
+d. Combining game theory and genetic algorithms for solving multiobjective
+    shape optimization problems in aerodynamics Engineering
+    by  Jacques PERIAUX.
+
+Infos and Apllications for Participation:
+
+   http://www.math.unifi.it/cime/
+
+
+Deadline for applications: April  30, 1999.
+
+NO FEES are due.
+
+An important consideration in the acceptance of the application is the 
+scientific relevance
+of  the Course to the field of interest of the applicant.
+
+Applicants are requested   therefore to submit along with their 
+application, a  scientific 
+curriculum  and a letter of recommendation.
+
+There is  a chance of having your expenses partially  covered by
+the European Union if you are up to 35 years old and
+area  citizen of a member state of the EU or 
+reside in such  a state  for at least one year. 
+Please quote in the application  the need of support 
+and conditions for eligibility.
+
+SITE 
+
+Martina Franca is a delightful baroque town  made of white houses of Apulian
+spontaneous architecture. It is the major and  aristocratic centre of the 
+"Murgia dei Trulli" standing on a hill which dominates the well known Itria
+Valley  , which is spotted  with "trulli" typical dry stone houses of conical 
+shape
+which  go back to the 15th century.
+A masterpiece of the baroque architecture is the ducal palace where the Course
+will be hosted.
+Martina Franca belongs to the province of Taranto, one of the major centres
+ of Magna Grecia,
+particularly devoted to Mathematics.
+Taranto houses an outstanding museum of Magna Grecia with fabulous 
+collections of
+gold manufactures.
+
+LODGING
+
+Special rates are offered  by Park Hotel San Michele (four star hotel):
+
+Lit.  70.000  full board for  accommodation in double room 
+Lit  100.000 full board for accommodation  in single room
+
+Participants are requested to made their reservations directly at the
+hotel  (CIME may reimburse selected participants - see above)
+
+tel  +39 0804807053
+fax   +39 0804808895
+------------------------------------------------------------------------------
+Prof.Dr.Heinz W. Engl             E-Mail: engl@indmath.uni-linz.ac.at 
+Institut fuer Industriemathematik secretary:nikolaus@indmath.uni-linz.ac.at
+Johannes-Kepler-Universitaet      Phone:+43-(0)732-2468...,ext.9219 or 693, 
+Altenbergerstrasse 69             secretary: ext.9220; as Dean: ext.3220
+A-4040 Linz                       Fax:ext. 855, in Dean's affairs:ext.3225
+Oesterreich / Austria             home phone: +43-(0)732-245518            
+              World Wide Web:  http://www.indmath.uni-linz.ac.at/
+------------------------------------------------------------------------------  
+------------- End Forwarded Message -------------
+

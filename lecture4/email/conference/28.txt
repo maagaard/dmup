@@ -1,0 +1,82 @@
+
+
+From www-vrml-approval@vrml.org Tue Jul 22 22:56:34 EDT 1997
+Received: from europe.std.com (europe.std.com [199.172.62.20]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id EAA24653 for <fnielsen@eivind.imm.dtu.dk>; Wed, 23 Jul 1997 04:56:27 +0200 (METDST)
+Received: by europe.std.com (8.7.6/BZS-8-1.0)
+	id VAA29270; Tue, 22 Jul 1997 21:09:01 -0400 (EDT)
+Received: from world.std.com by europe.std.com (8.7.6/BZS-8-1.0)
+	id VAA29220; Tue, 22 Jul 1997 21:08:56 -0400 (EDT)
+Received: from xanadu.cyborganic.com (xanadu.cyborganic.net) by world.std.com (5.65c/Spike-2.0)
+	id AA18856; Tue, 22 Jul 1997 21:08:54 -0400
+Received: from smudge.curve.cyborganic.com (watermelon.curve.net [206.79.132.113]) by xanadu.cyborganic.com (8.8.2/8.7.1) with SMTP id SAA17822; Tue, 22 Jul 1997 18:08:31 -0700 (PDT)
+Message-Id: <3.0.1.32.19970722180818.00af7c30@cyborganic.net>
+X-Sender: timothy@cyborganic.net
+X-Mailer: Windows Eudora Pro Version 3.0.1 (32)
+Date: Tue, 22 Jul 1997 18:08:18 -0700
+To: (Recipient list suppressed)
+From: Timothy Childs <timothy@curve.net>
+Subject: 2nd Call: SIGGRAPH 97 VRML Demo SIG Signup
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Sender: www-vrml-approval@vrml.org
+Precedence: list
+Status: RO
+X-Status: 
+
+---Please distribute widely----
+
+***DEADLINE FOR SUBMISSIONS IS JULY 23, 1997***
+
+SIGGRAPH 97 VRML DEMO SIG  
+LA Convention Center in Los Angeles, CA (Room 151)
+*Monday, August 4th*
+6:00pm to 8:00pm
+
+This event will be styled upon the successful VRML97 Demo Night and will be
+co-hosted by LAVUG  (Los Angeles VRML Users Group) and The Virtual Reality
+Education Foundation (affectionately known as VeRGe). Curve's Timothy
+Childs will be the Monster of Ceremonies.
+
+Since the world is waiting to see some "real applications" we strongly
+encourage the submission of content and applications which answers the
+question "VRML--what's it good for?"  Show us what you've got!
+
+We are particularly interested in:
+
+ ~ Business Applications
+ ~ Art/Entertainment
+ ~ Education
+ ~ Scientific Visualization
+
+..but innovative works outside the boundaries of these limited 
+categories will be warmly received.
+
+Selected demo-ees will have a MAXIMUM OF 5 MINUTES to wow the hard to
+please audience (the room seats 630). Akin to the VRML 97 Demo Night, the
+audience will be "armed" with a number of "interactive audience feedback
+devices" to keep the event on schedule.
+
+		********IMPORTANT********  
+***DEADLINE FOR SUBMISSIONS IS JULY 23, 1997***.
+
+Demo slots are limited.  Submit your VRML Application NOW at:
+
+     http://www.verge.org/projects/siggraph/signup.html
+
+(Please make sure to double check your URLs and make sure they work before
+submitting.)
+
+Questions, feedback or suggestions?  Contact:
+
+     Timothy Childs (VeRGe/Curve) at timothy@curve.net or 
+     Carole Sumler (LAVSUG) at sumler@fastxchange.com
+
+Good luck and see you there!
+
+***DEADLINE FOR SUBMISSIONS IS JULY 23, 1997***
+
+
+-------------------------------------------------------------------------
+for list subscription instructions,
+send email to www-vrml-request@vrml.org with text "info"
+

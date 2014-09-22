@@ -1,0 +1,67 @@
+
+
+From spm-request@mailbase.ac.uk Fri Jan 14 21:00:52 MET 2000
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id VAA05178
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 14 Jan 2000 21:00:51 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id UAA17873;
+	Fri, 14 Jan 2000 20:01:39 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id TAA29928;
+        Fri, 14 Jan 2000 19:59:44 GMT
+Received: from mail.med.cornell.edu (smtp.med.cornell.edu [140.251.3.3]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id TAA29920;
+        Fri, 14 Jan 2000 19:59:39 GMT
+Received: from [140.251.58.64] by mail.med.cornell.edu
+          (Netscape Messaging Server 3.6)  with ESMTP id AAA2E3E
+          for <spm@mailbase.ac.uk>; Fri, 14 Jan 2000 14:59:37 -0500
+Message-Id: <v03100007b4a5336c334b@[140.251.58.64]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 14 Jan 2000 15:12:12 -0500
+Subject: NIMH Supported fMRI Research Fellowship Position
+From: Yihong Yang <yihong@hanazono.med.cornell.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Yihong Yang <yihong@hanazono.med.cornell.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+An NIMH grant for training researchers in functional MRI provides two years
+of fellowship support for a Ph.D, preferably with basic MR physics and
+imaging training, to focus on methodological development.  Prior image data
+acquisition, pulse sequence programming,  and data analysis experience is
+desirable.  Training will focus on developing new and optimizing present
+functional MRI methods on 1.5 and 3T GE scanners, including blood
+oxygenation level dependent (BOLD) imaging and arterial spin labeling
+perfusion imaging, for functional brain studies. Projects include novel
+event-related fMRI techniques, quantitative brain perfusion imaging, fast
+spiral and EPI scanning, and characterization of brain hemodynamic
+responses during activation. Training also includes collaboration with and
+involvement in neuropsychiatric functional imaging projects in the
+Functional Neuroimaging Laboratory. Mentors include Drs. Yihong Yang, David
+Silbersweig, Emily Stern, and Hong Pan in the Functional Neuroimaging
+Laboratory.  Dr. Michael Posner is also involved in the training program.
+
+Applications submitted should include a CV, three reference letters and a
+letter indicating interests relevant to the grant.
+
+Contact Person:
+
+Dr. Yihong Yang
+Functional Neuroimaging Laboratory
+Department of Psychiatry
+Weill Medical College of Cornell University
+1300 York Ave., Box 140, Room F-1306
+New York, NY 10021
+Tel: (212)746-3747
+Fax: (212)746-5818
+e-mail: yihong@hanazono.med.cornell.edu
+
+

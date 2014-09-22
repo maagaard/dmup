@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jun  1 19:53:58 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id TAA23179;
+	Tue, 1 Jun 1999 19:53:46 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02054;
+          1 Jun 99 9:50 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02052;
+          1 Jun 99 9:44 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa28249;
+          1 Jun 99 9:44 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa29613; 1 Jun 99 3:00 EDT
+Received: from [134.160.162.124] by RI.CMU.EDU id aa23808; 1 Jun 99 2:59:59 EDT
+Received: from localhost (manatee.brain.riken.go.jp [134.160.162.41])
+	by savanna.brain.riken.go.jp (8.9.1a/3.7W-19981203) with ESMTP id PAA06832
+	for <connectionists@cs.cmu.edu>; Tue, 1 Jun 1999 15:59:56 +0900 (JST)
+To: connectionists@cs.cmu.edu
+Subject: New Laboratory Heads of RIKEN Brain Science Institute
+X-Mailer: Mew version 1.93 on XEmacs 20.4 (Emerald)
+X-URL: http://www.islab.brain.riken.go.jp/~amari/
+Mime-Version: 1.0
+Content-Type: Text/Plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-Id: <19990601155955C.amari@brain.riken.go.jp>
+Date: Tue, 01 Jun 1999 15:59:55 +0900
+From: Shunichi Amari <amari@brain.riken.go.jp>
+X-Dispatcher: imput version 980905(IM100)
+Lines: 61
+Status: RO
+X-Status: 
+
+RIKEN Brain Science Institute, Japan
+
+Applications Invited for Heads of New Laboratories
+
+        in the "Creating the Brain" Area
+ 
+***************
+Applications are invited for heads of several new laboratories in the
+"Creating the Brain" Area of RIKEN BSI.
+
+The RIKEN Brain Science Institute was established in October 1997 to
+promote three strategic research areas: "Understanding the Brain",
+"Protecting the Brain" and "Creating the Brain".  The "Creating the
+Brain" area aims at elucidation of the information principles in the
+brain by theoretical and experimental approaches and aims to create
+new information technology based on brain-style computations and
+systems.  The targets include theoretical foundation of
+neurocomputing, modeling of structures and functions of the brain,
+their simulations, and establishment of brain-style computing systems.
+The area now consists of two research groups, the "Brainway Group"
+headed by Gen Matsumoto and the "Brain-Style Information Systems
+Group" headed by Shun-ichi Amari.  For more information, see the web
+site: http://www.brain.riken.go.jp.
+
+BSI will establish two more research groups including several
+laboratories in order to further develop activities of the creating
+the brain area.  One new group is concerned with computational
+cognitive neuroscience of higher-order brain functions.  It will
+include laboratories which study intelligent, emergent and complex
+systems, brain-style artificial intelligence, languages, logical
+reasoning, symbol processing, and brain-style super-parallel
+computation.  The other group is concerned with brain-style behavioral
+systems and robotics.  It will include laboratories which study motor
+planning, command generation, brain-style control including learnable
+inner models and inverse models, mechanisms of sensorimotor
+transformations and brain-style robot systems.  A new computational
+neuroscience research laboratory will also be established in the
+existing groups.
+
+New heads of laboratories will be required to organize a team of 5 -
+10 researchers and technical staff and be provided generous support
+for five years.  A review of progress by international review
+committee occurs every five years with possibility of contract
+renewal.  Applications are encouraged from outside Japan as well as
+inside Japan, under the condition that heads must be willing to work
+at BSI full time.
+
+Applicants interested in leading a new laboratory are invited to
+submit a research proposal (of no more than 2,000 words) and a
+suggested name for the laboratory.  In addition, applicants should
+provide a full CV, a list of all publications with reprints of five
+papers, a statement of research interests and the names and addresses
+of three referees to:
+
+Search Committee (10), RIKEN Brain Science Institute, 2-1 Hirosawa,
+Wako-shi, Saitama 351-0198, Japan Fax: +81-48-462-4796, e-mail:
+search10@brain.riken.go.jp Deadline: September 30, 1999
+
+
+
+

@@ -1,0 +1,302 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Thu Sep 24 06:21:24 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id GAA15543;
+	Thu, 24 Sep 1998 06:21:18 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab04330;
+          23 Sep 98 21:27 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab04328;
+          23 Sep 98 21:19 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa24646;
+          23 Sep 98 21:18 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa23019; 22 Sep 98 13:03 EDT
+Received: from ns1.dice.ucl.ac.be by EDRC.CMU.EDU id aa17313;
+          22 Sep 98 13:02:24 EDT
+Received: from Suzette.dice.ucl.ac.be (suzette [130.104.31.69])
+	by ns1.dice.ucl.ac.be (8.9.0/mp-ns1) with SMTP id TAA23797;
+	Tue, 22 Sep 1998 19:01:17 +0200 (MET DST)
+Message-Id: <3.0.3.32.19980922185719.006a7adc@ns1.dice.ucl.ac.be>
+X-Sender: esann@ns1.dice.ucl.ac.be
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.3 (32)
+Date: Tue, 22 Sep 1998 18:57:19 +0200
+To: esann@ns1.dice.ucl.ac.be
+From: ESANN <esann@dice.ucl.ac.be>
+Subject: CFP: ESANN'99 European Symposium on Artificial Neural Networks
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id GAA15543
+Status: RO
+X-Status: 
+
+----------------------------------------------------
+|                                                  |
+|                     ESANN'99                     |
+|                                                  |
+|              7th European Symposium              |
+|           on Artificial Neural Networks          |
+|                                                  |
+|      Bruges (Belgium) - April 21-22-23, 1999     |
+|                                                  |
+|      First announcement and call for papers      |
+----------------------------------------------------
+
+The call for papers for the ESANN 99 conference is now available on the Web:
+       http://www.dice.ucl.ac.be/esann
+For those of you who maintain WWW pages including lists of related ANN
+sites: we would appreciate if you could add the above URL to your list;
+thank you very much!
+
+We try as much as possible to avoid multiple sendings of this call for
+papers; however please apologize if you receive this e-mail twice, despite
+our precautions.
+
+You will find below a short version of this call for papers, without the
+instructions to authors (available on the Web).  If you have difficulties
+to connect to the Web please send an e-mail to
+        esann@dice.ucl.ac.be
+and we will send you a full version of the call for papers.
+
+ESANN'99 is organised in collaboration with the UCL (Universite catholique
+de Louvain, Louvain-la-Neuve) and the KULeuven (Katholiek Universiteit
+Leuven), and is technically co-sponsored by the IEEE Neural Networks
+Council, the IEEE Region 8, the IEEE Benelux section, and the INNS
+(International Neural Networks Society).
+
+
+Scope and topics
+----------------
+
+The aim of the ESANN series of conference is to provide an annual European
+forum for the presentation and discussion of recent advances in artificial
+neural networks.  ESANN focuses on fundamental aspects of ANNs: theory,
+models, learning algorithms, mathematical aspects, approximation of
+functions, classification, control, time-series prediction, statistics,
+signal processing, vision, self-organization, vector quantization,
+evolutive learning, psychological computations, biological plausibility,
+etc.  Papers on links and comparisons between ANNs and other domains of
+research (such as statistics, data analysis, signal processing, biology,
+psychology, evolutive learning, bio-inspired systems, etc.) are also
+encouraged.
+
+Papers will be presented orally (no parallel sessions) and in poster
+sessions; all posters will be complemented by a short oral presentation
+during a plenary session. It is important to mention that it is the topics
+of the paper which will decide if it better fits into an oral or a poster
+session, not its quality. The quality of posters will be the same as the
+quality of oral presentations, and both will be printed in the same way in
+the proceedings. Nevertheless, authors have the choice to indicate on the
+author submission form that they only accept to present their paper orally.
+
+The following is a non-exhaustive list of topics which will be covered
+during ESANN'99:
+o theory
+o models and architectures
+o mathematics
+o learning algorithms
+o vector quantization
+o self-organization
+o RBF networks
+o Bayesian classification
+o recurrent networks
+o approximation of functions
+o time series forecasting
+o adaptive control
+o statistical data analysis
+o independent component analysis
+o signal processing
+o natural and artificial vision
+o cellular neural networks
+o fuzzy neural networks
+o hybrid networks
+o identification of non-linear dynamic systems
+o biologically plausible artificial networks
+o bio-inspired systems
+o formal models of biological phenomena
+o neurobiological systems
+o cognitive psychology
+o adaptive behavior
+o evolutive learning
+
+Special sessions
+----------------
+
+Special sessions will be organised by renowned scientists in their
+respective fields. Papers submitted to these sessions are reviewed
+according to the same rules as any other submission. Authors who submit
+papers to one of these sessions are invited to mention it on the author
+submission form; nevertheless, submissions to the special sessions must
+follow the same format, instructions and deadlines as any other submission,
+and must be sent to the same address.
+
+The special sessions organized during ESANN'99 are:
+o      Information extraction using unsupervised neural networks
+       Colin Fyfe, Univ. of Paisley (UK).
+o      Spiking neurons
+       Wulfram Gerstner, E.P.F. Lausanne (Switzerland).
+o      Adaptive computation of structured information
+       Marco Gori, Univ. di Siena (Italy)
+o      Remote sensing spectral image analysis
+       Erzsebet Merenyi, Univ. of Arizona (USA)
+o      Large-scale recognition of sequential patterns
+       Yves Moreau, K.U. Leuven (Belgium)
+o      Support Vector Machines
+       S. Canu, INSIA Rouen (France)
+       Bernhard Schoelkopf, GMD FIRST Berlin (Germany)
+
+Location
+--------
+
+The conference will be held in Bruges (also called "Venice of the North"),
+one of the most beautiful medieval towns in Europe.  Bruges can be reached
+by train from Brussels in less than one hour (frequent trains).  The town
+of Bruges is world-wide known, and famous for its architectural style, its
+canals, and its pleasant atmosphere.
+
+The conference will be organised in an hotel located near the centre
+(walking distance) of the town. There is no obligation for the participants
+to stay in this hotel. Hotels of all level of comfort and price are
+available in Bruges; there is a possibility to book a room in the hotel of
+the conference, or in another one (50 m. from the first one) at a
+preferential rate through the conference secretariat. A list of other
+smaller hotels is also available.
+
+The conference will be held at the Novotel hotel, Katelijnestraat 65B, 8000
+Brugge, Belgium.
+
+Call for contributions
+----------------------
+
+Prospective authors are invited to submit
+- six original copies of their manuscript (including at least two originals
+or very good copies without glued material, which will be used for the
+proceedings)
+- one signed copy of the author submission form
+before December 7, 1998.  While this is not mandatory, authors are
+encouraged to join a floppy disk or CD with their contribution in (generic)
+PostScript or (preferred) PDF format. Sorry, electronic or fax submissions
+are not accepted.
+
+Working language of the conference (including proceedings) is English.  The
+instructions to authors, together with the author submission form, are
+available on the ESANN Web server:
+       http://www.dice.ucl.ac.be/esann
+A printed version of these documents is also available through the
+conference secretariat (please use email if possible).  Authors are invited
+to follow the instructions to authors.  A LaTeX style file is also
+available on the Web. 
+
+Authors must indicate their choice for oral or poster presentation on the
+author submission form.  They must also sign a written agreement that they
+will register to the conference and present the paper in case of
+acceptation of their submission.  Authors of accepted papers will have to
+register before February 28, 1999.  They will benefit from the advance
+registration fee.
+
+Submissions must be sent to:
+       Michel Verleysen
+       UCL - DICE
+       3, place du Levant
+       B-1348 Louvain-la-Neuve
+       Belgium
+       esann@dice.ucl.ac.be
+All submissions will be acknowledged by fax or email before December 15, 1998.
+
+Deadlines
+---------
+Submission of papers        December 7, 1998
+Notification of acceptance  January 31, 1999
+Symposium                   April 21-22-23, 1999
+
+Registration fees
+-----------------
+              registration before         registration after
+              February 28, 1999           February 28, 1999
+Universities  BEF 15500                   BEF 16500
+Industries    BEF 19500                   BEF 20500
+The registration fee include the attendance to all sessions, the lunches
+during the three days of the conference, the coffee breaks twice a day, the
+conference dinner, and the proceedings.
+
+Conference secretariat
+----------------------
+       Michel Verleysen		
+       D facto conference services       phone: + 32 2 420 37 57
+       27 rue du Laekenveld              Fax: + 32 2 420 02 55
+       B - 1080 Brussels (Belgium)       E-mail: esann@dice.ucl.ac.be
+                     http://www.dice.ucl.ac.be/esann
+
+Steering and local committee
+----------------------------
+
+François Blayo       Univ. Paris I (F)
+Marie Cottrell       Univ. Paris I (F)
+Jeanny Herault       INPG Grenoble (F)
+Henri Leich          Fac. Polytech. Mons (B)
+Bernard Manderick    Vrije Univ. Brussel (B)
+Eric Noldus          Univ. Gent (B)
+Jean-Pierre Peters   FUNDP Namur (B)
+Joos Vandewalle      KUL Leuven (B)
+Michel Verleysen     UCL Louvain-la-Neuve (B)
+
+Scientific committee (to be confirmed)
+--------------------
+
+Edoardo Amaldi       Cornell Univ. (USA)
+Agnes Babloyantz     Univ. Libre Bruxelles (B)
+Herve Bourlard       IDIAP Martigny (CH)
+Joan Cabestany       Univ. Polit. de Catalunya (E)
+Holk Cruse           Universitat Bielefeld (D)
+Eric de Bodt         Univ. Lille II (F) & UCL Louvain-la-Neuve (B)
+Dante Del Corso      Politecnico di Torino (I)
+Wlodek Duch          Nicholas Copernicus Univ. (PL)
+Marc Duranton        Philips / LEP (F)
+Jean-Claude Fort     Universite Nancy I (F)
+Bernd Fritzke        Ruhr-Universitat Bochum (D)
+Stan Gielen          Univ. of Nijmegen (NL)
+Manuel Grana         UPV San Sebastian (E)
+Anne Guerin-Dugue    INPG Grenoble (F)
+Martin Hasler        EPFL Lausanne (CH)
+Laurent Herault      CEA Grenoble (F)
+Christian Jutten     INPG Grenoble (F)
+Juha Karhunen        Helsinky Uniersity of Technology (FIN)
+Vera Kurkova         Acad. of Science of the Czech Rep. (CZ)
+Petr Lansky          Acad. of Science of the Czech Rep. (CZ)
+Mia Loccufier        Univ. Gent (B)
+Hans-Peter Mallot    Max-Planck Institut (D)
+Eddy Mayoraz         IDIAP Martigny (CH)
+Jean Arcady Meyer    Univ. Pierre & Marie Curie (F)
+Jose Mira Mira       UNED (E)
+Jean-Pierre Nadal    Ecole Normale Superieure Paris (F)
+Gilles Pages         Universite Paris VI (F)
+Thomas Parisini      University of Trieste (I)
+Helene Paugam-Moisy  Univ. Lumiere Lyon 2 (F)
+Alberto Prieto       Universitad de Granada (E)
+Leonardo Reyneri     Politecnico di Torino (I)
+Tamas Roska          Hungarian Academy of Science (H)
+Jean-Pierre Rospars  INRA Versailles (F)
+John Stonham         Brunel University (UK)
+Johan Suykens        KUL Leuven (B)
+John Taylor          King's College London (UK)
+Claude Touzet        CESAR ONRL Oak Ridge (USA)
+Marc Van Hulle       KUL Leuven (B)
+Christian Wellekens  Eurecom Sophia-Antipolis (F)
+
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+ESANN - European Symposium on Artificial Neural Networks
+http://www.dice.ucl.ac.be/esann
+
+* For submissions of papers, reviews,...
+Michel Verleysen
+Univ. Cath. de Louvain - Microelectronics Laboratory
+3, pl. du Levant - B-1348 Louvain-la-Neuve - Belgium
+tel: +32 10 47 25 51 - fax: + 32 10 47 25 98
+mailto:esann@dice.ucl.ac.be
+
+* Conference secretariat
+D facto conference services
+45 rue Masui - B-1000 Brussels - Belgium
+tel: + 32 2 203 43 63 - fax: + 32 2 203 42 94
+mailto:esann@dice.ucl.ac.be
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ

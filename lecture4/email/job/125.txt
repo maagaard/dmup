@@ -1,0 +1,71 @@
+
+
+From spm-request@mailbase.ac.uk Mon Jun  7 11:10:04 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id LAA01655
+	for <fnielsen@eivind.imm.dtu.dk>; Mon, 7 Jun 1999 11:10:03 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id KAA23175;
+	Mon, 7 Jun 1999 10:07:01 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id KAA21403;
+        Mon, 7 Jun 1999 10:03:12 +0100 (BST)
+Received: from fil.ion.ucl.ac.uk (cream.fil.ion.ucl.ac.uk [193.62.66.20]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id KAA21382;
+        Mon, 7 Jun 1999 10:03:08 +0100 (BST)
+Received: from zappa.fil.ion.ucl.ac.uk by fil.ion.ucl.ac.uk (SMI-8.6/SMI-SVR4)
+	id JAA01637; Mon, 7 Jun 1999 09:57:02 +0100
+Received: by zappa.fil.ion.ucl.ac.uk (SMI-8.6/SMI-SVR4)
+	id JAA05234; Mon, 7 Jun 1999 09:56:59 +0100
+Date: Mon, 7 Jun 1999 09:56:59 +0100
+Message-Id: <199906070856.JAA05234@zappa.fil.ion.ucl.ac.uk>
+X-Sun-Charset: US-ASCII
+Subject: Re: research assistant posting?
+From: john@fil.ion.ucl.ac.uk (John Ashburner)
+To: spm@mailbase.ac.uk, csmarsh@umich.edu
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: john@fil.ion.ucl.ac.uk (John Ashburner)
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+
+----- Begin Included Message -----
+
+ 	We are currently looking for a full-time research assistant/lab
+manager to work from now until at least July, 2000.
+	The Cognitive Neuroscience Laboratory, directed by John Jonides
+and Edward E. Smith, focuses on brain imaging (PET and fMRI) studies of
+memory in young and older adults.  The laboratory is part of the
+University of Michigan Department of Psychology and is affiliated with the
+University of Michigan Medical Center.  Lab members come from a variety of
+backgrounds -- psychology, medicine, statistics, and physics.
+	Responsibilities will include running behavioral and neuroimaging
+experiments, data processing and analysis, subject recruitment and the
+coordination of ongoing experiments, including some supervision of
+undergraduate assistants.
+	Familiarity with basic word processing and spreadsheet
+applications is a must, basic programming skills and knowledge of UNIX,
+Matlab, SPM, and PsyScope is highly desirable (but not a necessity).
+	This is a terrific opportunity to gain exposure to the field of
+cognitive neuroscience, and to work in a dynamic, productive laboratory.
+This job is an ideal springboard for recent college graduates who are
+interested in obtaining an advanced degree in any discipline related to
+cognitive neuroscience.
+
+Please send a resume, reference contact information, and, if possible,
+college transcripts to:
+
+Christy Marshuetz
+Department of Psychology - C&P
+The University of Michigan
+525 East University St.
+Ann Arbor, MI  48104
+
+
+----- End Included Message -----

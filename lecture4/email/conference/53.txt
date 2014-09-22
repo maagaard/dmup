@@ -1,0 +1,238 @@
+
+
+From spm-request@mailbase.ac.uk Fri Jan 16 22:34:16 MET 1998
+Received: from mailout3.mailbase.ac.uk (mailout3.mailbase.ac.uk [128.240.226.13])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id WAA05140
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 16 Jan 1998 22:33:50 +0100 (MET)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout3.mailbase.ac.uk (8.8.x/Mailout) with ESMTP id VAA00382;
+	Fri, 16 Jan 1998 21:24:54 GMT
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id VAA24404;
+        Fri, 16 Jan 1998 21:24:12 GMT
+Received: from inf.fu-berlin.de (fubinf.inf.fu-berlin.de [160.45.110.10]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id VAA24390;
+        Fri, 16 Jan 1998 21:24:08 GMT
+Received: by inf.fu-berlin.de (/\oo/\ Smail3.1.29.1)
+	  from inf.fu-berlin.de [160.45.110.53] with smtp
+	  id <m0xtJDs-002GsEC>; Fri, 16 Jan 98 22:22 MET
+Original-Sender: froetsch@mailbase.ac.uk
+Message-ID: <34BFCFA0.5AF9954B@inf.fu-berlin.de>
+Date: Fri, 16 Jan 1998 22:22:40 +0100
+Organization: Institut für Informatik, Freie Univ. Berlin
+X-Mailer: Mozilla 4.04 [en] (X11; I; SunOS 5.6 sun4u)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Subject: SECOND SPRING SCHOOL ON 
+	ARTIFICIAL INTELLIGENCE, NEURO- AND COGNITIVE SCIENCE:IK-98 - CALL FOR PARTICIPATION, CALL FOR POSTERS
+From: Bernhard Froetschl <froetsch@inf.fu-berlin.de>
+To: neuro1-l@uicvm.uic.edu, jlarson@surgmon.com, c-young@unixg.ubc.ca,
+        alfred.vella@luton.ac.uk, himanshu.gupta@luton.ac.uk,
+        Robert@uk.ac.cran.rmcs, marvit@hplabs.hpl.hp.com,
+        mof@prophet.pharm.pitt.edu, Majordomo@list.pitt.edu,
+        patrickw@cs.monash.edu.au, nab@neuroguide.com, neuro-psych@netcom.com,
+        listproc@dbai.tuwien.ac.at, fuzzy-mail@dbai.tuwien.ac.at,
+        bramerma@sis.port.ac.uk, i.d.watson@surveying.salford.ac.uk,
+        ian@geography.leeds.ac.uk, lyndon@sx.ac.uk, s.moon@qmw.ac.uk,
+        io@ukc.ac.uk, s.alexander@ulst.ac.uk, cjc@cogsci.soton.ac.uk,
+        p.jackson@ic.ac.uk, spm@mailbase.ac.uk, roehl@essex.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+Reply-To: Bernhard Froetschl <froetsch@inf.fu-berlin.de>
+Sender: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+CALL FOR PARTICIPATION: IK-98
+            CALL FOR POSTERS
+
+         SECOND SPRING SCHOOL ON 
+ARTIFICIAL INTELLIGENCE, NEURO- AND COGNITIVE SCIENCE
+
+     7.3.-14.3.98 Guenne am Moehnesee, Germany 
+
+       http://www.tzi.uni-bremen.de/ik98/
+
+IK-98 is a one week intensive spring school on artificial intelligence 
+and brain research. The courses are offered by researchers working in
+the fields of symbolic Artificial Intelligence, Neural Networks,
+Brain Sciences and Cognitive Science. The main topic of IK-98 is
+"Language and Communication". Several courses will deal with the
+neurological basis of speech, speech recognition, linguistic aspects,
+natural language processing, etc. We will have several invited talks
+dealing with brain imaging, connectionist simulation of speech
+acquisition,
+and intelligent agents.
+
+We invite all participants of IK-98 to present their research 
+results during the evening poster sessions.
+
+The main conference language is German (although some courses will be 
+held in English). The program in German, with the courses to be 
+offered, follows below.
+
+
+         EINLADUNG ZUR TEILNAHME: 
+         2. INTERDISZIPLINAERES KOLLEG IK-98
+         FRUEHJAHRSSCHULE "INTELLIGENZ UND GEHIRN"
+
+       7.3.-14.3.98 Guenne am Moehnesee, Germany
+       http://www.tzi.uni-bremen.de/ik98/
+
+
+>> Was ist das Interdisziplinaere Kolleg?
+
+Das Interdisziplinaere Kolleg (IK) ist eine intensive interdisziplinaere 
+Fruehjahrsschule zum Generalthema "Intelligenz und Gehirn". Die 
+Schirmwissenschaften des IK sind die Neurowissenschaft, die 
+Kognitionswissenschaft, die Kuenstliche Intelligenz und die 
+Neuroinformatik. Angesehene Dozenten aus diesen Disziplinen vermitteln 
+Grundlagenkenntnisse, fuehren in methodische Vorgehensweisen ein und 
+erlaeutern aktuelle Forschungsfragen. Ein abgestimmtes Spektrum von
+Grund-, 
+Theorie- und Spezialkursen, sowie an disziplinuebergreifenden 
+Veranstaltungen teilweise mit praktischen Übungen richtet sich an
+Studenten 
+und Forscher aus dem akademischen und industriellen Bereich.
+
+In den letzten Jahren gab es in Deutschland einen interdisziplinaeren 
+Aufbruch. Er fand im Herbst 1996 einen ersten Hoehepunkt in der Tagung 
+?Wege ins Hirn? (http://www.hlrz.kfa-juelich.de/~peters/WegeInsHirn/).
+Dort 
+wurde auch beschlossen, das IK als Nachfolgerin der bekannten 
+KI-Fruehjahrschulen (KIFS) auszurichten. Als Veranstalter fungierten
+unter 
+anderem die deutschen Fachverbaende der beteiligten Disziplinen. Dadurch 
+wurde das IK auch als ?Institution? abgesichert.
+
+Diese Aufbruchstimmung ging beim beim ersten IK im Fruehjahr 1997 auf
+die 
+Teilnehmenden und Dozierenden ueber. Die Kurse und die Atmosphaere
+fanden 
+grossen, oft sogar enthusiastischen Anklang. Das IK findet nun
+alljaehrlich 
+statt.
+
+>> Veranstalter
+
+Das IK98 wird veranstaltet vom Fachbereich KI der Gesellschaft 
+fuer Informatik (GI) in Kooperation mit: FG Neuronale Netze der 
+GI; GMD - Forschungszentrum Informationstechnik GmbH; 
+DFG-Graduiertenkolleg "Signalketten in Lebenden Systemen"; 
+European Neural Network Society (ENNS); German Chapter der ENNS 
+(GNNS); Gesellschaft fuer Kognitionswissenschaft e.V.; und 
+Neurowissenschaftliche Gesellschaft e.V.
+
+>> Veranstaltungsort
+
+Das Tagungsheim ist die Familienbildungsstaette 
+"Heinrich-Luebke-Haus" in Guenne (Sauerland).  Dies Haus liegt 
+abgeschieden am Moehnesee im Naturpark Arnsberger Wald.  Die 
+Teilnehmer sind im Tagungsheim untergebracht.  Alles foerdert 
+einen konzentrierten, geselligen Austausch zwischen den 
+Teilnehmern auch abends nach den eigentlichen 
+Kursveranstaltungen.
+
+>> Schwerpunktthema
+
+Das IK-98 hat als besonderen Schwerpunkt das Thema "Sprache und 
+Kommunikation", das in mehreren weiterfuehrenden Kursen von 
+unterschiedlichen Disziplinen her beleuchtet wird.
+
+>> Postergallerie
+
+Parallel zu den Kursen haben die Teilnehmer die Moeglichkeit, sich ihre 
+Forschungen in einer informellen Postergalerie vorzustellen.
+
+
+>> Kurse und Dozenten
+
+Grundkurse 
+
+G1 Neurobiologie (Gerhard Roth) 
+G2 Kuenstliche Neuronale Netze - 
+   Theorie und Praxis (Guenther Palm 
+G3 Einfuehrung in die KI (Ipke Wachsmuth) 
+G4 Kognitive Systeme - Eine Einfuehrung in die 
+   Kognitionswissenschaft (Gerhard Strube)
+
+>> Theoriekurse 
+
+T1 Das komplexe reale Neuron (Helmut Schwegler) 
+T2 Connectionist Speech Recognition (Herve Bourlard) 
+T3 Perception of Temporal Structures - 
+   Especially in Speech (Robert F. Port) 
+T4 Sprachstruktur - Hirnarchitektur ; 
+   Sprachverarbeitung - Hirnprozesse (Helmut Schnelle) 
+T5 Optimierungsstrategien fuer neuronale Lernverfahren (Helge Ritter)
+
+>> Spezialkurse 
+
+S1 Hybride konnektionistische und symbolische 
+   Ansaetze zur Verarbeitung natuerlicher Sprache (Stefan Wermter) 
+S2 Intelligente Agenten fuer Multimedia-Schnittstellen 
+   (Wolfgang Wahlster, Elisabeth Andre) 
+S3 Neurobiologie des Hoersystems (Guenter Ehret) 
+S4 Sprachproduktion (Thomas Pechmann) 
+
+>> Disziplinuebergreifende Kurse 
+
+D1 Fuzzy und Neurosysteme (Rudolf Kruse, Detlev Nauck) 
+D2 Zeitliche Kognition (Ernst Poeppel, Till Roenneberg) 
+D3 The origins and evolution of language and meaning (Luc Steels) 
+D4 Kontrolle von Bewegung in biologischen Systemen und 
+   Navigation mobiler Roboter (Josef Schmitz, Thomas Christaller) 
+D5 Optimieren neuronaler Netze durch Lernen und Evolution (Heinz Braun) 
+D6 Koordination von Sprache und Handlung (Wolfgang Heydrich, Hannes
+Rieser) 
+D7 Dynamik spikender Neurone und Zeitliche Kodierung (Andreas Herz)
+
+>> Abendprogramm
+
+In visionaeren, feurigen und/oder kuehnen "after-dinner-talks" werden 
+herausragende Forscher und Forscherinnen zu Kontroversen einladen:
+Angela 
+D. Friederici, Jerome Feldman, Robert F. Port, Hans-Dieter Burkhard.
+
+>> Kursunterlagen
+
+Zu allen Kursen wird es schriftliche Dokumentationen geben, 
+welche als Sammelband allen Teilnehmern ausgehaendigt werden.
+
+
+
+>> Beirat
+
+Um die Anliegen des Interdisziplinaeren Kollegs in den 
+verschiedenen deutschen Forscherkreisen bekanntzumachen und zu 
+vertreten, hat sich folgender Beirat aus namhaften 
+Wissenschaftlern gebildet:
+
+Wolfgang Banzhaf, Wilfried Brauer, Armin B. Cremers, Christian 
+Freksa, Otthein Herzog, Wolfgang Hoeppner, Hanspeter Mallot, 
+Thomas Metzinger, Heiko Neumann, Hermann Ney, Guenther Palm, 
+Ernst Poeppel, Wolfgang Prinz, Burghard Rieger, Helge Ritter, 
+Claus Rollinger, Werner von Seelen, Hans Spada, Gerhard Strube, 
+Helmut Schwegler, Ipke Wachsmuth, Wolfgang Wahlster.
+
+>> Organisationskomitee
+
+Thomas Christaller, Bernhard Froetschl, Christopher Habel, 
+Herbert Jaeger, Anthony Jameson, Frank Pasemann, Bjoern-Olaf 
+Peters, Annegret Pfoh, Raul Rojas (Gesamtleitung), Gerhard Roth, 
+Kerstin Schill, Werner Tack.
+
+>> Tagungsbuero 
+
+Christine Harms, c/o GMD, Schloss Birlinghoven, D-53754 Sankt 
+Augustin, Telefon 02241- 14-2473, Fax 02241-14-2472, email 
+harms@gmd.de
+
+
+>> Weitere Informationen
+
+Detaillierte Infos zum Hintergrund und dem Tagungsprogramm des 
+IK-98 sind auf dessen Internet-homepage 
+(http://www.tzi.uni-bremen.de/ik98/) abrufbar.

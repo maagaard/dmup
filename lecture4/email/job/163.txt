@@ -1,0 +1,89 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Aug 12 07:52:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA06835;
+	Thu, 12 Aug 1999 07:51:56 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa12215;
+          11 Aug 99 23:38 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa12213;
+          11 Aug 99 23:30 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by skinner.boltz.cs.cmu.edu id aa21648;
+          11 Aug 99 23:30 EDT
+Received: from TEST-HUB.FAC.CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa06437;
+          11 Aug 99 23:20 EDT
+Received: from hnc2.hnc.com by test-hub.fac.cs.cmu.edu id aa08694;
+          11 Aug 99 23:18 EDT
+Received: from pchnc.hnc.com (pchnc.hnc.com [191.9.204.105])
+	by spike.hnc.com (8.8.8+Sun/8.8.8) with ESMTP id UAA04819
+	for <connectionists@cs.cmu.edu>; Wed, 11 Aug 1999 20:18:39 -0700 (PDT)
+Received: by pchnc.hnc.com with Internet Mail Service (5.5.2448.0)
+	id <QV8HZVBX>; Wed, 11 Aug 1999 20:19:40 -0700
+Message-ID: <72A838A51366D211B3B30008C7F4D36301773BE5@pchnc.hnc.com>
+From: "Sirosh, Joseph" <sirosh@hnc.com>
+To: "'connectionists@cs.cmu.edu'" <connectionists@cs.cmu.edu>
+Subject: Neural Networks/Machine Learning Position at  HNC Software Inc
+Date: Wed, 11 Aug 1999 20:19:39 -0700
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Content-Type: text/plain
+Status: RO
+X-Status: 
+
+> POSITION: Staff Scientist/Sr. Staff Scientist 
+> BUSINESS UNIT: HNC Advanced Technology Solutions 
+> LOCATION: San Diego, CA 
+> NUMBER: A003SDW1 
+> 
+> Duties/Job Description:
+> Develop innovative solutions to a wide variety of technical problems using
+> various data mining techniques and statistics. Projects may include
+> fundamental research (e.g. new data mining technologies, multimedia and
+> web mining, mining temporal data) and applications to business problems in
+> the financial, internet, telecommunications, retail or insurance
+> industries. Opportunity to contribute to the evaluation of new,
+> externally-developed technologies and explore new business models.
+> 
+> Required Qualifications (Experience/Skills):
+> MS/Ph.D. in Computer Science, Engineering, Statistics, Math, or related
+> field. Broad experience applying data mining techniques, neural networks,
+> statistics, pattern recognition, nonlinear optimization and/or genetic
+> algorithms to real-world data. Ability to work independently and research
+> innovative solutions to challenging technical problems. Programming
+> experience in C/C++ and Unix. Familiarity with statistical packages and
+> computer software systems such as SAS, SPLUS, Matlab, Java, Tcl/Tk. Good
+> oral and written communications skills, both in terms of interacting with
+> customers and with co-workers.
+> 
+> Preferred Qualifications:
+> Ph.D. with established research expertise in one or more of the above
+> areas. Significant experience solving business problems involving retail,
+> financial, or internet data mining. Substantial expertise with large
+> business data sets. Familiarity with products in any or all of HNC's
+> business units. Good Unix scripting and rapid prototyping skill. 
+> 
+> Careers at HNC Software Inc:
+> Headquartered in San Diego, California, HNC Software Inc. (Nasdaq: HNCS)
+> is the world's leading provider of Predictive Software Solutions for
+> service industries, including financial, retail, insurance, Internet, and
+> telecommunications. It is HNC's employment philosophy to create a dynamic
+> work environment that allows each employee to feel challenged and
+> experience personal growth that maximizes each person's potential. HNC
+> also offers a comprehensive array of employee benefits including stock
+> options, employee stock purchase plan, competitive health benefits, 401(k)
+> plans and tuition support for continuing education.
+> 
+> Apply Online: http://www.hnc.com/careers/index.html
+> By Email: hnc@webhire.com 
+> By Fax: (800) 438-0957
+> By Mail:
+> 	HNC Software Inc.
+> 	c/o Resume Processing Center
+> 	P.O. Box 828
+> 	Burlington, MA 01803
+> 
+> Please reference job number: A003SDW1
+> 
+> 
+> 
+> 

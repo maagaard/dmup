@@ -1,0 +1,45 @@
+
+
+From mhurdal@zeno.math.fsu.edu Sat Mar  6 00:24:46 MET 1999
+Received: from pet.med.va.gov (godel.pet.med.va.gov [204.220.39.253])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA26480
+	for <fnielsen@eivind.imm.dtu.dk>; Sat, 6 Mar 1999 00:24:44 +0100 (MET)
+Received: by pet.med.va.gov (8.6.9/SMI-4.1.R931202)
+	id RAA16885; Fri, 5 Mar 1999 17:33:39 -0600
+Received: from gauss.math.fsu.edu(128.186.8.122) by godel.pet.med.va.gov via smap (V2.0)
+	id xma016866; Fri, 5 Mar 99 17:33:27 -0600
+Received: from bunyip.math.fsu.edu (IDENT:mhurdal@bunyip [128.186.104.216])
+	by math.fsu.edu (8.9.3/8.9.3) with ESMTP id SAA19797
+	for <hbp-vis@pet.med.va.gov>; Fri, 5 Mar 1999 18:33:26 -0500 (EST)
+Received: from localhost (mhurdal@localhost)
+	by bunyip.math.fsu.edu (8.8.7/8.8.7) with ESMTP id SAA26913
+	for <hbp-vis@pet.med.va.gov>; Fri, 5 Mar 1999 18:38:06 -0500
+X-Authentication-Warning: bunyip.math.fsu.edu: mhurdal owned process doing -bs
+Date: Fri, 5 Mar 1999 18:38:06 -0500 (EST)
+From: Monica Hurdal <mhurdal@zeno.math.fsu.edu>
+To: HBP3 <hbp-vis@pet.med.va.gov>
+Subject: Society for Neuroscience Conference
+Message-ID: <Pine.LNX.4.04.9903051829470.24896-100000@bunyip.math.fsu.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+For everyone's information, the Society for Neuroscience Conferece
+(SFN99) is Oct 23-28 in Miami. Abstracts must be postmarked by April 26.
+See http://www.sfn.org/am99/cfa99.html for more details. Do we want to
+consider submitting something to this meeting?
+
+Monica 
+
+------------------------------------------------------------
+Dr. Monica K. Hurdal 
+Department of Mathematics, Florida State University
+Tallahassee, FL. 32306-4510, U.S.A.
+
+Phone: (850) 644-7378         International: +1-850 644-7378
+Fax:   (850) 644-4053                        +1-850 644-4053
+Email: mhurdal@math.fsu.edu
+WWW: http://www.math.fsu.edu/~mhurdal
+

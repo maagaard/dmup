@@ -1,0 +1,153 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Oct 11 07:25:02 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id HAA05861;
+	Mon, 11 Oct 1999 07:24:58 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab02686;
+          10 Oct 99 20:20 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab02684;
+          10 Oct 99 20:06 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04594;
+          10 Oct 99 20:06 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa16276; 9 Oct 99 15:47 EDT
+Received: from mrelay.cc.umr.edu by cs.cmu.edu id aa09207; 9 Oct 99 15:47 EDT
+Received: from emgt (dagli-pc.emgt.umr.edu [131.151.9.99]) via SMTP by mrelay.cc.umr.edu (8.9.3/R.4.20) id OAA27409; Sat, 9 Oct 1999 14:43:24 -0500
+From: Cihan Dagli <dagli@umr.edu>
+To: Connectionists@cs.cmu.edu
+Subject: Artificial Neural Networks in Engineering Conference ANNIE'99
+Date: Sat, 9 Oct 1999 14:31:33 -0500
+Message-ID: <NDBBIANLGKODFGJOKEECOENICGAA.dagli@umr.edu>
+Status: RO
+X-Status: 
+
+Dear Colleagues
+
+On behalf of the organizing committee I would like to invite you to attend
+ANNIE 1999, an international conference to be held on November 7-10, 1999,
+at Marriott's Pavilion Hotel in downtown, St. Louis, Missouri, USA.  This
+will be the ninth international gathering of researchers interested in Smart
+Engineering System Design using neural networks, fuzzy logic, evolutionary
+programming, data mining, and complex systems. The previous conferences each
+drew approximately 150 papers from twenty countries with their proceedings
+published by ASME Press as hardbound books in eight volumes. The last
+volume, edited by Dagli, et. al., was titled ``Smart Engineering Systems:
+Neural Networks, Fuzzy Logic, Evolutionary Programming, Data Mining, and
+Rough Sets.''
+
+Enclosed Please find the preliminary program for the conference. You can get
+the latest information about the conference at
+http://www.umr.edu/~annie/annie99/ and for the details of advanced
+registration to the conference at http://www.umr.edu/~annie/rf.htm .
+
+The conference will cover the theory of Smart Engineering System Design
+techniques, namely; neural networks, fuzzy logic, evolutionary programming,
+data mining, and complex systems. Presentations dealing with applications of
+these technologies are encouraged in the areas of: manufacturing
+engineering, biology and medicine, pattern recognition, image processing,
+process monitoring, control, recent theoretical developments in neural
+networks, fuzzy logic, data mining, rough sets, evolutionary programming,
+fractals, chaos, and wavelets that can impact Smart Engineering System
+Design.
+
+
+
+The response to ANNIE '99 was excellent with 310 abstracts received.  Papers
+submitted based on these abstracts were reviewed by two referees and all
+accepted papers are included in the conference proceedings to be published
+by ASME Press as a hardbound book titled Smart Engineering System Design:
+Neural Networks, Fuzzy Logic, Evolutionary Programming, Data Mining and
+Complex Systems, edited by Drs. Dagli, Buczak, Ghosh, Embrechts and Ersoy.
+
+
+
+ Conference banquet and the presentation of Best Paper awards are scheduled
+on Tuesday evening.  Our Banquet Plenary Speaker for this year's ANNIE is
+University Professor Simon Haykin.  He is the director of Neurocomputation
+for Signal Processing Group at McMaster University, Hamilton, Ontario,
+Canada.  His banquet talk is titled "Neural Networks for Signal Processing."
+
+
+
+There are nine plenary sessions scheduled for ANNIE '99.  Dr. Walter Freeman
+will present "The Neurodynamics of Intentionality is the Basis of
+Intelligent Behavior" at the Monday morning plenary session.  At noon on
+Monday, Dr. Hojjat Adeli will present "Distributed and Neurocomputing for
+Large-Scale Engineering Design Automation."  Monday afternoon Dr. Bhavani
+Thuraisingham will present " Data Mining and Knowledge Discovery:
+Developments and Challenges".  In Tuesday plenary session, " Evolvable
+Hardware" will be presented by Dr. Adrian Stoica.  Tuesday's luncheon
+plenary "Intangled Behavior and Bizarre Systems" will be presented by Dr.
+Steve Kercel. The Tuesday afternoon plenary will be "Neural Mechanics of the
+Cerebellum and Its Application" presented by Dr. Witali Dunin-Barkowski.
+Dr. Kristin Bennett will present "Support Vector Machines:  An Overview and
+New Extensions" for the Wednesday morning plenary.  The luncheon plenary "
+Searching the Web-it's worse than you think!" will be presented by Dr. Lee
+Giles.  The Wednesday afternoon plenary will be "Neural Networks for
+Analysis of Data with Gaps" presented by Dr. Alexander Gorban.
+
+
+
+Half-day tutorials have been scheduled for Sunday, November 7th. These
+state-of-the-art workshops cover the following areas:
+
+
+
+Collective Intelligence
+
+Chaos
+
+Data Mining: Technologies, Tools and Trends
+
+Hybrid Intelligent Systems Using Soft Computing Techniques and Fractal
+Theory
+
+Computer Vision and Fuzzy-Neural Network Models
+
+Classifiers Ensembles:  how and why they work
+
+Interior Point Optimization Methods in Support Vector Machines Training
+
+Novel Applications of Neural Network, Signal Processing and Data Mining
+Technologies
+
+An Introduction to Evolutionary Engineering
+
+Pattern Recognition Applications Development: The Process
+
+
+
+I would like to thank members of the Organizing Committee, Sponsoring
+Organization, and Co-Chairs, Drs. Buczak, Ghosh, Embrechts and Ersoy, for
+putting together an excellent program for ANNIE '99. I would like to
+recognize the excellent and timely efforts of the referees and contributors
+that made the conference possible.
+
+
+
+We are looking forward to your visit and participation at the meeting.
+
+
+
+Sincerely,
+
+Cihan H. Dagli
+Conference Chairman
+
+
+Smart Engineering Systems Laboratory
+229  Engineering Management
+1870 Miner Circle
+University of Missouri-Rolla
+Rolla MO 65409-0370
+Phone: 573 341-4374
+Fax:   573 341-6567
+
+USA
+
+
+http://www.umr.edu/~annie
+
+http://www.gbhap.com/Smart_Engineering_System_Design/
+
+http://www.umr.edu/~dagli

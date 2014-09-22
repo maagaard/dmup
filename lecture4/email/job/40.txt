@@ -1,0 +1,134 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Dec 12 06:24:44 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id GAA18641;
+	Sat, 12 Dec 1998 06:23:17 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25790;
+          11 Dec 98 23:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25788;
+          11 Dec 98 23:01 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16146;
+          11 Dec 98 23:00 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa01653; 11 Dec 98 22:59 EST
+Received: from helmholtz.salk.edu by CS.CMU.EDU id aa11449;
+          11 Dec 98 22:58:48 EST
+Received: (from terry@localhost) by helmholtz.salk.edu (8.7.5/8.7.3) id TAA27939; Fri, 11 Dec 1998 19:57:32 -0800 (PST)
+Date: Fri, 11 Dec 1998 19:57:32 -0800 (PST)
+From: Terry Sejnowski <terry@salk.edu>
+Message-Id: <199812120357.TAA27939@helmholtz.salk.edu>
+To: connectionists@cs.cmu.edu
+Subject: UCSD Computational Neurobiology
+Cc: bateman@cogsci.ucsd.edu, dk@physics.ucsd.edu, hdia@routh.ucsd.edu,
+        mcwhitehead@ucsd.edu, mpoo@biomail.ucsd.edu, r@hnc.com,
+        terry@helmholtz.salk.edu, wkristan@ucsd.edu
+Status: RO
+X-Status: 
+
+            Computational Neurobiology Graduate Program
+      Department of Biology  -- University of California, San Diego 
+
+The Computational Neurobiology Graduate Program at UCSD will 
+provide students with rigorous training in neuroscience including 
+experimental methods and modern mathematical methods to 
+analyze and visualize data as well as theoretical approaches to neuronal 
+dynamics and computation. Candidates from a wide range of 
+backgrounds are invited to apply, including Biology, Psychology,
+Computer Science, Physics and Mathematics.
+
+All students are expected to master set of core courses to insure a common 
+set of knowledge and a common language.   All students will take the 
+"Advanced Neurobiology Laboratory", which presents state-of-the-art 
+imaging and electrophysiological techniques, modern techniques in 
+genetic and viral transformation for the study of neuronal function, and 
+modern statistical and spectral methods for data analysis, and "Advanced 
+Computational Methods and Dynamic Systems Theory" which include 
+training in nonlinear dynamics of single cells, the analysis of regularly 
+spiking and bursting cells, as well as reduced models and their 
+representation in phase space. 
+
+Requests for application materials should be sent to the Graduate
+Admissions Office, Department of Biology 0348, 9500 Gilman Drive,
+UCSD, La Jolla, CA, 92093-0348: [gradprog@biology.ucsd.edu].
+
+An initial pre-application form will be sent; applicants should indicate
+their interest in the Computational Neurobiology Graduate Program on
+this form. These forms will be screened and application forms will be
+sent to appropriate candidates. The deadline for completed application
+materials, including letters of reference, is January 8, 1999.
+
+More information about applying to the UCSD Biology Graduate Program:
+http://www-biology.ucsd.edu/sa/Admissions.html.
+
+The Biology Department home page is located at:
+http://www-biology.ucsd.edu/
+
+Other inquiries about the Computational Neurobiology Graduate
+Program should be directed to:
+
+Terrence Sejnowski
+Institute for Neural Computation 0523
+University of California, San Diego
+La Jolla, CA 92093
+[tsejnowski@ucsd.edu].
+
+Participating Faculty include: 
+
+  Henry Abarbanel (Physics): Nonlinear and oscillatory dynamics; modeling 
+central pattern generators in the lobster stomatogastric ganglion. 
+  Thomas Albright (Salk Institute): Motion processing in primate visual 
+cortex; linking the responses of single neurons to perception; functional 
+agnetic Resonance Imaging (fMRI) in awake, behaving monkeys; 
+  Darwin Berg (Biology): Regulation of synaptic components of neurons; 
+how neurons become committed to synthesizing specific synaptic 
+components, how the components are assembled and localized in the 
+synaptic membrane, and how the function and long-term stability of the 
+components are controlled; 
+  Mark Ellisman (Neurosciences): High resolution anatomy using electron 
+microscopy and light microscopy; computational procedures for 
+anatomical reconstructions; 
+  Robert Hecht-Nielsen (Electrical and Computer Engineering): Neural 
+computation and the functional organization of the cerebral cortex; 
+founder of Hecht-Nielsen Corporation, 
+  Harvey Karten (Neurosciences): Visual system function 
+and organization; anatomical, physiological and computational studies of 
+the retina and optic tectum of birds and squirrels. 
+  David Kleinfeld (Physics): Collective properties of neuronal assemblies; 
+optical recording of electrical activity in cortex; analysis of large-scale 
+activity in nervous systems; 
+  William Kristan (Biology): Neuroethology of the leech; functional and 
+developmental studies of the leech nervous system, including 
+computational studies of the bending reflex and locomotion; 
+  Herbert Levine (Physics): Nonlinear dynamics and pattern formation in 
+physical and biological systems, including cardiac dynamics and the 
+growth and form of bacterial colonies. 
+  Mu-ming Poo (Biology): Mechanisms for synaptic plasticity; synaptic 
+learning rules underlying developmental plasticity and learning in 
+nervous systems; development of sensory maps in lower vertebrate visual 
+systems. 
+  Terrence Sejnowski (Salk Institute/Biology): Computational neurobiology; 
+detailed biophysical and large-scale network models of nervous systems; 
+physiological studies of neuronal reliability and synaptic mechanisms; 
+  Michael Rabinovich (Institute for Nonlinear Studies): Analysis of neural 
+dynamics in the stomatogastric ganglion of the lobster and the olfactory 
+system of insects. 
+  Martin Sereno (Cognitive Science): Organization of the visual system in 
+primates and squirrels; computer models of neural systems and 
+development of new techniques for studying human cognition with 
+functional magnetic resonance imaging (fMRI). 
+  Nicholas Spitzer (Biology): Regulation of ionic channels and 
+neurotransmitters in neurons; effects of electrical activity in developing 
+neurons on neural function; 
+  Charles Stevens (Salk Institute): Synaptic physiology; physiological studies 
+and biophysical models of synaptic plasticity in hippocampal neurons. 
+  Roger Tsien (Chemistry): Second messenger systems in neurons; 
+development of new optical and MRI probes of neuron function, 
+including calcium indicators and caged neurotransmitters. 
+  Mark Whitehead (Neurosurgery): Peripheral and central taste systems; 
+anatomical and functional studies of regions in the caudal brainstem 
+important for feeding behavior. 
+  Ruth Williams (Mathematics): Probability theory, stochastic processes and 
+their applications, including learning in stochastic networks. 
+  Kent Wilson (Chemistry): Multi-photon techniques in scanning optical 
+microscopy of living biological systems; multi-sensual use of computer 
+visualization, sound and touch as tools in research and education. 

@@ -1,0 +1,55 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Apr 23 00:28:38 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA04323;
+	Fri, 23 Apr 1999 00:28:23 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02012;
+          22 Apr 99 16:48 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02010;
+          22 Apr 99 16:33 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa08358;
+          22 Apr 99 16:32 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa02426; 22 Apr 99 14:34 EDT
+Received: from neuron.cs.Colorado.EDU by CS.CMU.EDU id aa16809;
+          22 Apr 99 14:34:06 EDT
+Received: from localhost.cs.colorado.edu (localhost.cs.colorado.edu [127.0.0.1])
+	by neuron.cs.colorado.edu (8.9.3/8.9.2) with SMTP id MAA17147
+	for connectionists@cs.cmu.edu; Thu, 22 Apr 1999 12:33:25 -0600 (MDT)
+Message-Id: <199904221833.MAA17147@neuron.cs.colorado.edu>
+X-Authentication-Warning: neuron.cs.colorado.edu: localhost.cs.colorado.edu [127.0.0.1] didn't use HELO protocol
+To: connectionists@cs.cmu.edu
+Subject: Positions in Boulder, Colorado
+Date: Thu, 22 Apr 99 12:33:25 -0600
+From: Mike Mozer <mozer@cs.colorado.edu>
+X-Mts: smtp
+Status: RO
+X-Status: 
+
+
+Athene Software, Inc.
+Positions in Machine Learning, Statistics, and Data Mining
+
+Athene Software has immediate openings for machine learning, statistical,
+and data mining professionals in Boulder, Colorado.  We are seeking
+qualified candidates to develop and enhance models of subscriber behavior
+for telecommunications companies.
+
+Responsibilities will include statistical investigation of large data
+sets, application of machine learning algorithms, development and tuning
+of data representations, and presentation of results to internal and
+external customers. Strong communication skills are very important.
+
+A Ph.D. in Statistics, Computer Science, Electrical Engineering, or related
+field is desirable. Experience with Java and Oracle is helpful.
+
+Send applications to:
+
+Richard Wolniewicz, Ph.D.
+VP Engineering
+Athene Software, Inc.
+2060 Broadway, Suite 300
+Boulder, CO  80302
+
+email: richard@athenesoft.com
+www.athenesoft.com

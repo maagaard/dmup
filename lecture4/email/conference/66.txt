@@ -1,0 +1,255 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU Fri Mar 13 22:29:50 MET 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id WAA19332;
+	Fri, 13 Mar 1998 22:29:42 +0100 (MET)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa03928;
+          13 Mar 98 11:38:11 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa03919;
+          13 Mar 98 11:13:13 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa03099;
+          13 Mar 98 11:13 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa00769; 13 Mar 98 3:26 EST
+Received: from wasabi.it.uq.edu.au by EDRC.CMU.EDU id aa17110;
+          13 Mar 98 3:26:16 EST
+Received: from flute.it.uq.edu.au (blair@flute.it.uq.edu.au [130.102.64.11]) by wasabi.it.uq.edu.au (8.8.7/8.8.7) with ESMTP id SAA14887 for <connectionists@cs.cmu.edu>; Fri, 13 Mar 1998 18:26:07 +1000 (EST)
+Received: from localhost (blair@localhost) by flute.it.uq.edu.au (8.8.8/8.8.8) with SMTP id SAA08280 for <connectionists@cs.cmu.edu>; Fri, 13 Mar 1998 18:26:01 +1000 (EST)
+X-Authentication-Warning: flute.it.uq.edu.au: blair owned process doing -bs
+Date: Fri, 13 Mar 1998 18:26:01 +1000 (EST)
+From: Alan Blair <blair@csee.uq.edu.au>
+X-Sender: blair@flute
+To: connectionists@cs.cmu.edu
+Subject: CFP - Simulated Evolution And Learning (SEAL'98)
+Message-ID: <Pine.GSO.3.95q.980313181849.8247B-100000@flute>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+		  ***********************************
+		  * C A L L    F O R    P A P E R S *
+		  ***********************************
+
+
+The Second Asia-Pacific Conference on Simulated Evolution And Learning
+(SEAL'98)
+
+		            Canberra, Australia
+
+			    24-27 November 1998
+
+				Hosted by 
+			School of Computer Science
+	     University College, the University of New South Wales
+	Australian Defence Force Academy, Canberra, ACT 2600, Australia
+
+			    in cooperation with
+	COMPLEX SYSTEMS '98, Sydney, Australia, Nov 30 - Dec 4, 1998
+			      IEEE ACT Section
+
+     	 Conference URL: http://www.cs.adfa.oz.au/conference/seal98
+
+
+Aims and Scopes
+---------------
+
+Evolution and learning are two fundamental forms of adaptation. This
+conference follows the successful SEAL'96 (The First Asia-Pacific
+Conference on Simulated Evolution And Learning) in Taejon, Korea, 9-12
+November 1996, and aims at exploring these two forms of adaptation and
+their roles and interactions in adaptive systems. Cross-fertilisation between
+evolutionary learning and other machine learning approaches, such as
+neural network learning, reinforcement learning, decision tree learning,
+fuzzy system learning, etc., will be strongly encouraged by the conference.
+The other major theme of the conference is optimisation by evolutionary
+approaches or hybrid evolutionary approaches. 
+
+The conference will feature both academic and application streams
+in order to encourage more interactions between researchers and
+practitioners in the field of simulated evolution and learning. To provide
+timely feedback, the applications stream will use a two-stage reviewing
+process featuring preliminary acceptance by abstract and final acceptance
+by complete paper. The refereeing panel for the applications stream will
+consist of eminent practitioners in the field.
+
+The topics of interest to this conference include but are not limited to
+the following:
+
+1. Evolutionary Learning
+
++ Fundamental Issues in Evolutionary Learning 
+  (e.g., Generalisation, Scalability, and Computational Complexity)
++ Co-Evolutionary Learning
++ Modular Evolutionary Learning Systems
++ Classifier Systems
++ Artificial Immune Systems
++ Representation Issue in Evolutionary Learning 
+  (e.g., rules, trees, graphs, etc.)
++ Interactions Between Learning and Evolution
++ Comparison between Evolutionary Learning and Other Learning Approaches
+  (Neural Network, Decision Tree, Reinforcement Learning, etc.)
+
+2. Evolutionary Optimisation
+
++ Global (Numerical/Function) Optimisation
++ Combinatorial Optimisation (e.g., scheduling, allocation, planning, packing,
+  transportation, and various tree/graph problems.)
++ Comparison between evolutionary and non-evolutionary optimisation
+algorithms
++ Hybrid Optimisation Algorithms
+
+3. Hybrid Learning
+
++ Evolutionary Artificial Neural Networks
++ Evolutionary Fuzzy Systems
++ Combinations Between Evolutionary and Reinforcement Learning
++ Combinations Between Evolutionary and Decision Tree Learning
++ Evolutionary Clustering and Unsupervised Learning
++ Genetic Programming
++ Other Hybrid Learning Systems
+
+4. Adaptive Systems
+
++ Complexity in Adaptive Systems
++ Evolutionary Robotics
++ Artificial Ecology
+
+5. Evolutionary Economics and Games
+
++ Analysis and Simulation in Evolutionary Economics, Finance and Marketing
++ Evolutionary Games
++ Evolutionary Computation Techniques in Economics, Finance and Marketing
+
+6. Theoretical Issues in Evolutionary Computation 
+
++ Convergence and Convergence Rate of Evolutionary Algorithms
++ Computational Complexity of Evolutionary Algorithms
++ Self-Adaptation in Evolutionary Algorithms
+
+7. Evolvable Hardware (EHW)
+
++ FPGA Implementation of EHW
++ Algorithms for EHW
++ EHW Systems and Chips
+
+8. Applications
+
++ Novel Applications of Evolutionary Techniques
++ Optimisation Algorithms for Real-World Problems
++ Solving classical OR (Operations Research) problems by Evolutionary Algorithms
++ Pattern Classification and Recognition
++ Time-Series Prediction
++ System Identification
++ Others
+
+
+Important Dates
+---------------
+
+Regular Papers
+03 July 1998	Deadline for submission of papers (<=8 pages)
+21 Aug. 1998	Notification of acceptance
+25 Sep. 1998	Deadline for camera-ready copies of accepted papers
+24-27 Nov. 1998	Conference sessions
+
+Applications Papers
+19 June 1998	Deadline for submission of applications abstracts (<= 1 page)
+		(abstracts to be submitted by email)
+03 July 1998	Notification of preliminary acceptance of applications papers
+31 July 1998	Deadline for submission of applications papers (<=8 pages)
+21 Aug. 1998	Notification of acceptance of applications papers
+25 Sep. 1998	Deadline for camera-ready copies of applications papers
+24-27 Nov. 1998	Conference sessions
+
+Paper Submission
+----------------
+
+Applications paper abstracts should be submitted by email before the
+cutoff date to SEAL98@cs.adfa.oz.au.
+
+FOUR (4) hard copies of the completed paper should be submitted to the
+programme committee chair by the due date. All manuscripts should be
+prepared in LaTeX according to Springer-Verlag's llncs style 
+(URL: gopher://trick.ntp.springer.de/11/tex/latex/llncs). 
+Each submitted paper must include a title, a 300-400 word abstract, 
+a list of keywords, the names and addresses of all authors (including
+email addresses, and telephone and fax numbers), and the body. The length of 
+submitted papers must be no more than 8 single-spaced, single-column pages 
+including all figures, tables, and bibliography. Shorter papers are
+strongly encouraged.
+
+Papers should be submitted to the following address:
+
+Dr Xin Yao
+School of Computer Science
+University College, UNSW
+Australian Defence Force Academy
+Canberra, ACT 2600, Australia
+
+
+Publications
+------------
+
+All accepted papers which are presented at the conference will be included
+in the conference proceedings. Outstanding papers will be considered for 
+inclusion in a proposed volume of Springer Verlag's Lecture Notes in
+Artificial Intelligence (LNAI). Some of them will be invited to further
+expand and revise their papers for inclusion in an international journal. 
+(Selections from SEAL'96 papers were published by Springer-Verlag as
+ Volume 1285 of LNAI.)
+
+Special Sessions and Tutorials
+------------------------------
+
+Special sessions and tutorials will be organised at the conference.
+The conference is calling for special session and tutorial proposals. 
+
+
+Contact Persons
+---------------
+
+Conference General Chair: 	Professor Charles Newton
+				School of Computer Science
+				University College, UNSW, ADFA
+				Canberra, ACT 2600, Australia
+
+Organising Committee Chair:	Dr Bob McKay
+				School of Computer Science
+				University College, UNSW, ADFA
+				Canberra, ACT 2600, Australia
+
+Programme Committee Co-Chair: 	Dr Xin Yao
+				School of Computer Science
+				University College, UNSW, ADFA
+				Canberra, ACT 2600, Australia
+
+Programme Committee Co-Chair:	Professor Jong-Hwan Kim
+				Department of Electrical Engineering
+				KAIST
+				373-1, Kusung-dong, Yusung-gu, Taejon-shi
+				305-701, Republic of Korea
+				Email: johkim@vivaldi.kaist.ac.kr
+
+Programme Committee Co-Chair:	Professor Takeshi Furuhashi
+				Department of Information Electronics
+				Nagoya University
+				Furo-cho, Chikusa-ku, Nagoya 464-01
+				Japan
+				Email: furuhashi@nuee.nagoya-u.ac.jp
+
+Special Sessions Chair:		Professor Kit Po Wong
+				Department of Electrical Engineering
+				The University of Western Australia
+				Nedlands, WA 6009, Australia
+				Email: kitpo@ee.uwa.edu.au
+
+Conference Secretary: 		Miss Alison McMaster
+				School of Computer Science
+				University College, UNSW, ADFA
+				Canberra, ACT 2600, Australia
+				Email: SEAL98@cs.adfa.oz.au
+				Phone: +61 2 6268 8184,  Fax: +61 2 6268 8581
+
+
+

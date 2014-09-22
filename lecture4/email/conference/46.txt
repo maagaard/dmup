@@ -1,0 +1,57 @@
+
+
+From ebert@cs.umbc.edu Wed Oct 15 18:54:45 MET 1997
+Received: from wyrsa.cs.umbc.edu (root@wyrsa.cs.umbc.edu [130.85.100.164]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id SAA03092 for <fnielsen@eivind.imm.dtu.dk>; Wed, 15 Oct 1997 18:54:44 +0200 (METDST)
+Received: from dogbert.cs.umbc.edu (ebert@dogbert.cs.umbc.edu [130.85.100.95])
+	by wyrsa.cs.umbc.edu (8.8.7/8.8.6) with ESMTP id MAA18139;
+	Wed, 15 Oct 1997 12:52:02 -0400 (EDT)
+From: "Dr. David Ebert" <ebert@cs.umbc.edu>
+Received: (from ebert@localhost)
+	by dogbert.cs.umbc.edu (8.8.7/8.8.6) id MAA01071;
+	Wed, 15 Oct 1997 12:52:01 -0400 (EDT)
+Message-Id: <199710151652.MAA01071@dogbert.cs.umbc.edu>
+Subject: Re: CIKM'97 Workshop on New Paradigms in Information Visualization and Manipulation
+To: fnielsen@eivind.imm.dtu.dk (Finn Aarup Nielsen)
+Date: Wed, 15 Oct 1997 12:52:01 -0400 (EDT)
+Cc: ebert@cs.umbc.edu (Dr. David Ebert)
+In-Reply-To: <Pine.HPP.3.95.971015181153.23870T-100000@eivind.imm.dtu.dk> from "Finn Aarup Nielsen" at Oct 15, 97 06:40:34 pm
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+More details on the presentation format will be forth coming. It will be
+20 minutes for presentation followed by 10 minutes for questions. You should
+prepare a 20 minute talk with slides.
+
+
+> "Printed version"? Should I submit a Postscript file, - in gray or color?
+> And how does the maximum length apply to me: My Postscript file is 4 pages
+> long, but the converted HTML file printed from Netscape is longer.
+
+A Postscript file would make it print in a nicer format. It will be printed
+in grayscale, but our printer can do the conversion from color.
+
+David
+-----
+
+
+> 
+> Yours sincerely Finn
+> 
+> __________________________________________________________________
+> 
+> 	Finn Aarup Nielsen, BScEE, MScE, Research Assistant
+> 	Section for Digital Signal Processing (DSP)
+> 	Department of Mathematical Modelling (IMM)
+> 	Technical University of Denmark (DTU)
+> 	Mail: Bygning 321, DTU, DK-2800 Lyngby
+> 	Site: Bygning 305.218, DTU, DK-2800 Lyngby
+> 	mailto:fnielsen@eivind.imm.dtu.dk
+> 	http://hendrix.imm.dtu.dk/staff/fnielsen/
+> 	Phone:(+45) 45 25 39 21, Fax: (+45) 45 87 25 99
+> __________________________________________________________________
+> 
+

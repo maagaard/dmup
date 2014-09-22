@@ -1,0 +1,54 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Nov 26 07:31:25 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id HAA26013;
+	Fri, 26 Nov 1999 07:31:21 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa27293;
+          25 Nov 99 23:22 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa27290;
+          25 Nov 99 23:15 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa12587;
+          25 Nov 99 23:14 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa25866; 25 Nov 99 22:24 EST
+Received: from syseng.anu.edu.au by ri.cmu.edu id aa01546; 25 Nov 99 22:24 EST
+Received: from anu.edu.au (IDENT:bartlett@ananke [150.203.126.155])
+	by syseng.anu.edu.au (8.9.3/8.9.3) with ESMTP id OAA19168;
+	Fri, 26 Nov 1999 14:23:50 +1100 (EST)
+Sender: Peter.Bartlett@syseng.anu.edu.au
+Message-ID: <383DFD81.9D933520@anu.edu.au>
+Date: Fri, 26 Nov 1999 14:24:49 +1100
+From: Peter Bartlett <Peter.Bartlett@anu.edu.au>
+Reply-To: Peter.Bartlett@anu.edu.au
+Organization: Australian National University
+X-Mailer: Mozilla 4.51 [en] (X11; I; Linux 2.2.5-15 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: colt@cs.uiuc.edu, connectionists@cs.cmu.edu, ai-stats@watstat.uwaterloo.ca,
+        ml@ics.uci.edu, mlnet@swi.psy.uva.nl
+Subject: machine learning position at ANU
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+We're currently advertising a position in machine learning at the
+Australian National University.  It's a limited term (3-5 year) research
+position at academic level B (Research Fellow).  Researchers in the
+group (which currently includes Peter Bartlett, Jonathan Baxter, Markus
+Hegland, John Lloyd and Stephen Roberts) work on a variety of
+theoretical
+and experimental areas in machine learning, including: reinforcement
+learning, computational learning theory, neural networks, large margin
+classification and prediction, scalable data analysis for data mining,
+and logic for machine learning.
+
+See http://wwwrsise.anu.edu.au/ad.html#LevB_CSL for more information.
+-- 
+Peter.
+
+Peter Bartlett                       email: Peter.Bartlett@anu.edu.au
+Computer Sciences Laboratory                   Phone: +61 2 6279 8681
+Research School of Information Sciences and Engineering
+Australian National University                 Fax:   +61 2 6279 8645
+Canberra, 0200 AUSTRALIA              http://csl.anu.edu.au/~bartlett

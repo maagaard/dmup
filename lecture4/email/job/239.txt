@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 30 12:42:40 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id MAA14681;
+	Tue, 30 Nov 1999 12:42:32 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ac06866;
+          29 Nov 99 15:56 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab06828;
+          29 Nov 99 15:39 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17851;
+          29 Nov 99 15:39 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa29549; 29 Nov 99 12:23 EST
+Received: from mercurio.srv.dsi.unimi.it by cs.cmu.edu id aa11546;
+          29 Nov 99 12:22 EST
+Received: from [159.149.174.141] (random141.mc.dsi.unimi.it [159.149.174.141])
+	by mercurio.srv.dsi.unimi.it (8.9.3/8.9.3) with ESMTP id SAA04335
+	for <Connectionists@cs.cmu.edu>; Mon, 29 Nov 1999 18:19:52 +0100 (MET)
+Message-Id: <l03130302b46876263b9b@[159.149.174.141]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 29 Nov 1999 19:28:51 +0100
+To: Connectionists@cs.cmu.edu
+From: "Prof. Apolloni Bruno" <apolloni@dsi.unimi.it>
+Subject: Job position at Milano University
+Status: RO
+X-Status: 
+
+RESEARCH POST IN THE DEPT. OF COMPUTER SCIENCE, UNIVERSITY OF MILAN
+
+Applications are invited for a research post within
+the framework of the "Principled Hybrid Systems:
+Theory and Applications" (PHYSTA) research network.
+The network is funded by the Training and Mobility of
+Researchers programme (TMR) of the EC and has started
+in December 1997. It involves research groups from five
+universities:
+  i) King's College London, United Kingdom
+      (Dept. of Mathematics, Prof. J.Taylor)
+ ii) Katholic University of Nijmegen, Netherlands
+      (Centre for Neural Networks, Prof. Stan Gielen)
+iii) National Technical University of Athens, Greece
+      (Dept. of Electrical and Computer Engineering,
+       Prof. Stefanos Kollias)
+ iv) University of Milan, Italy
+       (Department of Computer Science, Prof. Bruno Apolloni)
+  v) Queen's University Belfast, United Kingdom
+       (Dept. of Psychology/English, Prof. Rodie Cowie)
+
+The aim of the research network is the development of
+a theory and a methodology for combining symbolic and
+sub-symbolic techniques. The problem domain which is
+used comes from HCI and refers to emotion understanding
+based on static/moving image and speech signals.
+
+The research post is available in the Neural Networks
+Laboratory of the Computer Science Department of the
+University of Milan. The post is available immediately
+for a period of 18 months.
+
+The successful applicant will work for the continuation
+of the development of a hybrid system prototype which
+has been implemented. This is a system combining a neural processing
+part which performs a mapping from the feature to the
+propositional variables space and a symbolic processing part.
+The latter is a series of meditation jumps to higher levels
+of abstraction following a PAC learning framework for boolean
+formulas.
+
+Candidates must have (or be close to obtaining) a PhD in a field
+such as Computer Science, Mathematics or Electrical Engineering.
+C programming skills are necessary while experience using SNNS
+and Scheme/Lisp programming skills are welcome.
+
+As the funding is provided by the EC TMR programme there are some
+restrictions on who may benefit from it:
+
+   * Candidates must be 35 years old or younger.
+   * Candidates must be nationals of a EU country, Norway, Switzerland
+     or Iceland
+   * Candidates must not be Italian nationals or have worked in Italy 18
+     out of the last 24 months.
+
+The salary for this post is approximately 2,100 Euros.
+
+To apply for this post please (e)mail your CV to the address below:
+
+     Professor Bruno Apolloni,
+     Neural Networks Laboratory
+     Computer Science Department
+     University of Milan,
+     Via Comelico 39, Milano 20135, ITALY
+
+     phone: 0039 02 55006284
+       fax: 0039 02 55006276
+     email: apolloni@dsi.unimi.it
+
+More information:
+
+     apolloni@dsi.unimi.it
+     http://www.image.ece.ntua.gr/physta
+
+

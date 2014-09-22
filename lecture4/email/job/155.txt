@@ -1,0 +1,104 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Jul 23 07:16:54 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id HAA10771;
+	Fri, 23 Jul 1999 07:16:48 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa29352;
+          22 Jul 99 23:36 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa29337;
+          22 Jul 99 23:25 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22250;
+          22 Jul 99 23:25 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa19822; 22 Jul 99 14:39 EDT
+Received: from POSTOFFICE2.MAIL.CORNELL.EDU by EDRC.CMU.EDU id aa29096;
+          22 Jul 99 14:38:16 EDT
+Received: from [128.84.253.49] (STROGATZ.TAM.CORNELL.EDU [128.84.253.49])
+	by postoffice2.mail.cornell.edu (8.9.3/8.9.3) with ESMTP id OAA24737;
+	Thu, 22 Jul 1999 14:38:08 -0400 (EDT)
+X-Sender: shs7@postoffice4.mail.cornell.edu
+Message-Id: <v03102867b3bd1650ec35@[128.84.253.49]>
+Mime-Version: 1.0
+Content-Type: text/enriched; charset="us-ascii"
+Date: Thu, 22 Jul 1999 14:43:14 -0400
+To: shs7@cornell.edu
+From: Steven Strogatz <shs7@cornell.edu>
+Subject: visiting position in Nonlinear Systems, Cornell
+Status: RO
+X-Status: 
+
+Could you please forward this ad to any friends or contacts of yours
+who might be interested in visiting Cornell next spring in connection
+with our new NSF IGERT program in Nonlinear Systems?  (See our web
+page http://www.chaos.cornell.edu/IGERT.html for a description of the
+program.)  Also, if you have suggestions for bulletin boards or places
+on the web where I should post this ad, please let me know.  Thanks,
+and sorry for the form letter, Steve
+
+
+------
+
+
+Visiting Position in Nonlinear Systems
+
+
+Cornell University seeks a visiting scholar to participate in an
+interdisciplinary graduate training program in Nonlinear Systems,
+funded by an IGERT grant from the National Science Foundation. (See the
+web page http://www.chaos.cornell.edu/IGERT.html  for a description of
+the training program's educational goals, faculty, and current
+research.)
+
+
+The visiting position is available for the Spring semester of 2000, and
+includes compensation of $25,000.  It may be possible to arrange for
+additional support, in exchange for teaching a section of an
+undergraduate course in a department of the candidate's expertise
+(subject to departmental needs). 
+
+
+The visitor would hold the title of Visiting Scholar and would be
+expected to interact (and perhaps collaborate) with the students and
+faculty in the program, and to participate in all aspects of the
+research and training activities, including weekly colloquia and
+informal seminars.  An ideal candidate would be a mathematician,
+scientist, engineer, or social scientist who enjoys interdisciplinary
+interactions with faculty and students from a wide range of fields. 
+Women and minorities are especially encouraged to apply.  
+
+
+Interested applicants should send a CV, a summary of research
+interests, and a brief statement explaining why this program appeals to
+them, to
+
+
+IGERT Visiting Position
+Attn: Dolores Pendell
+Rhodes Hall 614
+Cornell University
+Ithaca, NY 14853-3801
+USA
+
+
+The deadline for applications is November 1, 1999. 
+
+Cornell University is an affirmative action and equal opportunity
+employer.
+
+************************************************
+
+Prof. Steven H. Strogatz 
+Theoretical and Applied Mechanics
+212 Kimball Hall
+Cornell University 
+Ithaca, NY 14853-1503
+                                               
+
+strogatz@cornell.edu  
+Phone: 607-255-5999     Fax: 607-255-2011      
+http://www.tam.cornell.edu/Strogatz.html
+
+
+Graduate Fellowships in Nonlinear Systems:  
+http://www.chaos.cornell.edu/IGERT.html
+

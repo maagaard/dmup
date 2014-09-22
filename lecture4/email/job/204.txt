@@ -1,0 +1,97 @@
+
+
+From spm-request@mailbase.ac.uk Tue Oct 19 18:07:06 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with ESMTP id SAA28812
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 19 Oct 1999 18:07:05 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id RAA16328;
+	Tue, 19 Oct 1999 17:07:44 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id RAA07848;
+        Tue, 19 Oct 1999 17:05:22 +0100 (BST)
+Received: from post-ofc06.srv.cis.pitt.edu (root@post-ofc06.srv.cis.pitt.edu [136.142.185.43]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id RAA07838;
+        Tue, 19 Oct 1999 17:05:18 +0100 (BST)
+Received: from unixs5.cis.pitt.edu (wmp@unixs5.cis.pitt.edu [136.142.185.57])
+          by post-ofc06.srv.cis.pitt.edu with SMTP (8.8.8/8.8.8/cispo-7.2.2.2)
+          ID <MAA08974@post-ofc06.srv.cis.pitt.edu> for <spm@mailbase.ac.uk>;
+          Tue, 19 Oct 1999 12:02:05 -0400 (EDT)
+Date: Tue, 19 Oct 1999 12:02:05 -0400 (EDT)
+X-Sender: wmp@unixs5.cis.pitt.edu
+Message-ID: <Pine.GSO.3.96L.991019120131.20272C-100000@unixs5.cis.pitt.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: position announcement
+From: William Michael Perlstein <wmp+@pitt.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: William Michael Perlstein <wmp+@pitt.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+			University of Florida
+			Assistant Professor
+
+The Department of Clinical and Health Psychology and the NIMH Center for
+the Study of Emotion and Attention are interested in hiring a tenure-line
+Assistant Professor whose research and teaching interests are in cognition
+and emotion and their applications for the psychopathology of anxiety and
+depression.  The basic duties of the successful candidate will include:
+(a) conducting psychophysiological and functional neuroimaging research
+into emotion and affective disorders at the Center for the Study of
+Emotion and Attention, (b) clinical and research supervision of graduate
+students and interns in the Departments fear and anxiety clinic, and (c)
+teaching in the areas of clinical-cognitive neuroscience, experimental
+design and analysis, or experimental psychopathology.  The individual will
+be housed at the University of Florida laboratory of the NIMH Center for
+the Study of Emotion and Attention, and will carry out their clinical and
+teaching duties in the Department of Clinical and Health Psychology.  The
+facilities of the Center, including laboratory space, instrumentation,
+laboratory assistants, and bio-engineering and secretarial support will be
+available to the appointee.  It is planned that the successful candidate
+will devote full time to research and research related activities in the
+first year of the appointment, and will receive half-time Center research
+support for up to three subsequent years. During this initial period, it
+is anticipated that the appointee will develop their own grant-supported
+research program, consonant with the overall aims of the Center and
+Department.  Appropriate qualifications for consideration include:  (a) A
+Ph.D. in clinical psychology and an internship from APA-accredited
+institutions; (b) research interests and experience in anxiety disorders,
+cognitive neuroscience, and experimental psychopathology; (c) technical,
+psychophysiological laboratory and computer programming skills, including
+experience in the acquisition, reduction, and analysis of high-density
+event-related potentials and/or functional magnetic resonance imaging
+data; (d) license eligibility as a psychologist in Florida, and (e)
+evidence that the applicant can obtain external grant funding.
+Interested candidates should submit a cover letter, curriculum vitae and
+the names and addresses of three references to:  Peter J. Lang, Ph.D., Box
+100165, Gainesville , FL 32610-0165; Phone (352) 392-2439; FAX (352)
+392-6047.  EMAIL: langlab@nersp.nerdc.ufl.edu.  Application materials are
+due by February 1, 2000.  EEO/AAE Employee searches are conducted under
+the provision of Florida Sunshine Law.
+
+
+
+=====================
+
+William M. Perlstein				Phone:	(352) 392-2439
+Assistant Professor					FAX:	(352) 392-6047
+Departments of Clinical and Health Psychology
+   and Psychiatry
+Health Science Center
+PO Box 100165
+Gainesville, FL 32610-0165
+
+Adjunct Assistant Professor
+Department of Psychiatry
+Western Psychiatric Institute and Clinic
+University of Pittsburgh School of Medicine
+Pittsburgh, PA  15213
+

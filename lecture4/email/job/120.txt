@@ -1,0 +1,69 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue May 18 22:40:43 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA25227;
+	Tue, 18 May 1999 22:40:31 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01739;
+          18 May 99 14:52 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01615;
+          18 May 99 12:33 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11654;
+          18 May 99 12:32 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa23479; 18 May 99 11:24 EDT
+Received: from grey.Colorado.EDU by RI.CMU.EDU id aa20538;
+          18 May 99 11:23:41 EDT
+Received: (from oreilly@localhost)
+	by grey.colorado.edu (8.9.3/8.9.3) id JAA08370;
+	Tue, 18 May 1999 09:24:25 -0600
+Date: Tue, 18 May 1999 09:24:25 -0600
+Message-Id: <199905181524.JAA08370@grey.colorado.edu>
+X-Authentication-Warning: grey.colorado.edu: oreilly set sender to oreilly@grey.colorado.edu using -f
+From: "Randall C. O'Reilly" <oreilly@grey.colorado.edu>
+To: connectionists@cs.cmu.edu
+CC: jdc@princeton.edu
+Subject: Postdoc Position Available
+Reply-to: oreilly@psych.colorado.edu
+Status: RO
+X-Status: 
+
+A postdocotral position is available starting immediately for someone
+interested in pursuing computational modeling approaches to the role
+of neuromodulation and/or prefrontal cortical function in cognition.
+The nature of the position is flexible, depending upon the
+individual's interest and expertise.  Approaches can be focused at the
+neurobiological level (e.g., modeling detailed physiological
+characteristics of neuromodulatory systems, such as locus coeruleus
+and/or dopaminergic nuclei, or the circuitry of prefrontal cortex), or
+at the more systems/cognitive level (e.g., the nature of
+representations and/or the mechanisms involved in active maintenance
+of information within prefrontal cortex, and their role in working
+memory).  The primary requirement for the position is a Ph.D. in the
+cognitive, computational, or neurosciences, and extensive experience
+with computational modeling work, either at the PDP/connectionist or
+detailed biophysical level.
+
+The postdoc is funded from a collaborative research grant involving
+Jonathan Cohen at the Department of Psychology and Center for the
+Study of Brain, Mind, and Behavior at Princeton University
+(http://www.csbmb.princeton.edu/ncc/jdc.html) and the Western Psychiatric
+Institute and Clinic at the University of Pittsburgh, and Randall
+O'Reilly at the Department of Psychology and Institute for Cognitive
+Science at the University of Colorado, Boulder
+(http://psych.colorado.edu/~oreilly).  Further information about the
+resources and affiliated faculty at the possible sponsoring
+institutions and programs is available at:
+http://www.csbmb.princeton.edu, http://www.cnbc.cmu.edu,
+http://psych.colorado.edu/~oreilly/postdoc.html.
+
+Interested individuals should send a curriculum vitae, representative
+publications, a statement of research interests, and three letters of
+reference via email to jdc@princeton.edu (please begin subject with
+the words ``Modeling Position'') or via snail mail to Jonathan
+D. Cohen, Department of Psychology, Green Hall, Princeton University,
+Princeton, NJ 08544.  We will begin reviewing applications as they are
+received, continuing until the position is filled.  Princeton
+University, the University of Pittsburgh, and the University of
+Colorado are all equal opportunity employers; minorities and women are
+encouraged to apply.
+

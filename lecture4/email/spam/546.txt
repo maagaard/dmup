@@ -1,0 +1,43 @@
+
+
+From tofufoe97@it.cas.uec.ac.jp Fri Aug 27 13:34:39 MET 1999
+Received: from serv1.imm.dtu.dk (root@serv1.imm.dtu.dk [130.225.85.9])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id NAA26205
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 27 Aug 1999 13:34:38 +0200 (METDST)
+Received: from osus1 (osus1.concourt.cz [194.108.8.1])
+	by serv1.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id NAA24464;
+	Fri, 27 Aug 1999 13:28:24 +0200 (METDST)
+Received: by osus1 (5.57/1.08 )
+	id AA14294; Fri, 27 Aug 99 13:14:04 +0200
+Date: Fri, 27 Aug 99 13:14:04 +0200
+To: tofufoe97@it.cas.uec.ac.jp
+From: tofufoe97@it.cas.uec.ac.jp (wemsner)
+Comments: Authenticated sender is <tofufoe97@it.cas.uec.ac.jp>
+Subject:  ADV: Boost Windows reliability
+Message-Id: <199908271892PAA28855@unmo.sidf.ders.concourt.cz>
+Status: RO
+X-Status: 
+
+To be removed, email kikoman76@bigfoot.com with the subject "delete"
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Dear Windows User,
+
+Now you can boost the reliability of ordinary Windows 3.x, 95 and 98
+to nearly the level of Windows NT, Microsoft's professional and
+industrial version of Windows.  
+
+The new WinFix(tm) 4.2 is a very effective way to improve the
+reliability of Windows, because it makes Windows fault-tolerant and
+self-repairing. And WinFix is very safe, because it operates
+completely independent of Windows. 
+
+WinFix is the safest, most effective way to keep you working, by
+keeping your PC working non-stop.  To find out more about WinFix,
+send and email to kikoman76@bigfoot.com with the subject "winfix"
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+This announcement is aimed at PC users who asked to be kept
+informed about new developments in Windows(tm) technology.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

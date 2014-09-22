@@ -1,0 +1,62 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Oct  3 06:14:31 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id GAA03117;
+	Sat, 3 Oct 1998 06:14:25 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02613;
+          2 Oct 98 20:50 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02610;
+          2 Oct 98 20:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11079;
+          2 Oct 98 20:42 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa09781; 2 Oct 98 16:38 EDT
+Received: from amethea.nsi.edu by RI.CMU.EDU id aa12743; 2 Oct 98 16:37:20 EDT
+Received: from nsi.edu (IDENT:ols@vespa.nsi.edu [198.133.185.78])
+	by nsi.edu (8.9.1/8.9.1) with ESMTP id NAA05540;
+	Fri, 2 Oct 1998 13:36:44 -0700 (PDT)
+Sender: ols@nsi.edu
+Message-ID: <36152B7F.6158FBDB@nsi.edu>
+Date: Fri, 02 Oct 1998 19:37:36 +0000
+From: Olaf Sporns <sporns@nsi.edu>
+X-Mailer: Mozilla 4.04 [en] (X11; I; Linux 2.0.34 i686)
+MIME-Version: 1.0
+To: Connectionists@CS.cmu.edu
+Subject: job applications invited
+Status: RO
+X-Status: 
+
+Job applications are invited:
+
+POSTDOCTORAL FELLOWS
+W.M. KECK MACHINE PSYCHOLOGY LABORATORY
+
+The Neurosciences Institute, located in San Diego, California, invites
+applications for POSTDOCTORAL FELLOWSHIPS to study biologically based
+models of behaving real world devices (robots) as part of the newly
+established W.M. Keck Machine Psychology Laboratory.  Continuing
+previous research conducted at the Institute, this Laboratory will be
+focusing on the construction of autonomous robots, the design of
+simulated models of large-scale neuronal networks that are capable of
+guiding behavior in the real world, and on developing methods for the
+simultaneous analysis of neural and behavioral states.  Applicants
+should have a background in computational neuroscience, robotics,
+computer science, behavioral or cognitive science.
+
+Fellows will receive stipends appropriate to their qualifications and
+experience.  Submit a curriculum vitae, statement of research
+interests, and names of three referees to:
+
+Dr. Olaf Sporns
+The Neurosciences Institute
+10640 John Jay Hopkins Drive
+San Diego, California 92121
+Fax: 619-626-2099
+email: sporns@nsi.edu
+URL: http://www.nsi.edu.
+URL: http://www.nsi.edu/users/sporns/.
+
+Key reference:
+Almassy, N., G.M. Edelman, O. Sporns (1998) Behavioral
+constraints in the development of neuronal properties: A cortical
+model embedded in a real-world device.  Cerebral Cortex 8:346-361.

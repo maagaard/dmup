@@ -1,0 +1,227 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Mon Jan 17 22:07:57 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id WAA18466;
+	Mon, 17 Jan 2000 22:07:53 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07594;
+          17 Jan 2000 13:05 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07592;
+          17 Jan 2000 12:52 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa00847;
+          17 Jan 2000 12:51 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa16926; 17 Jan 2000 6:23 EST
+Received: from tesla-e0.salk.edu by cs.cmu.edu id aa08003; 17 Jan 2000 6:23 EST
+Received: from hebb.salk.edu (hebb.salk.edu [198.202.70.14]) by tesla-e0.salk.edu (8.7.5/8.7.3) with ESMTP id DAA26137; Mon, 17 Jan 2000 03:23:13 -0800 (PST)
+From: terry@salk.edu
+Received: (from terry@localhost) by hebb.salk.edu (8.7.5/8.7.3) id DAA15542; Mon, 17 Jan 2000 03:23:12 -0800 (PST)
+Date: Mon, 17 Jan 2000 03:23:12 -0800 (PST)
+Message-Id: <200001171123.DAA15542@hebb.salk.edu>
+To: Connectionists@cs.cmu.edu
+Subject: Telluride Workshop 2000
+Cc: terry@salk.edu
+Status: RO
+X-Status: 
+
+
+                      NEUROMORPHIC ENGINEERING WORKSHOP
+
+                 Sunday, JUNE 25 - Saturday, JULY 15, 2000
+
+                            TELLURIDE, COLORADO
+
+  ------------------------------------------------------------------------
+             Avis COHEN (University of Maryland)
+             Rodney DOUGLAS (Institute of Neuroinformatics,
+             UNI/ETH Zurich, Switzerland)
+             Timmer HORIUCHI (Johns Hopkins University)
+             Giacomo INDIVERI (Institute of Neuroinformatics,
+             UNI/ETH Zurich, Switzerland)
+             Christof KOCH (California Institute of Technology)
+             Terrence SEJNOWSKI (Salk Institute and UCSD)
+             Shihab SHAMMA (University of Maryland)
+  ------------------------------------------------------------------------
+
+We invite applications for a three week summer workshop that will be held in
+Telluride, Colorado from Sunday, June 26 to Sunday, July 15, 2000. The
+application deadline is Friday, March 3, and application instructions are
+described at the bottom of this document.
+
+The 1999 summer workshop on "Neuromorphic Engineering", sponsored by the
+National Science Foundation, the Gatsby Foundation, NASA, the Office of
+Naval Research, and by the Center for Neuromorphic Systems Engineering at
+the California Institute of Technology, was an exciting event and a great
+success. A detailed report on the workshop is available here. We strongly
+encourage interested parties to browse through the previous workshop web
+pages.
+
+
+
+GOALS:
+
+Carver Mead introduced the term "Neuromorphic Engineering" for a new field
+based on the design and fabrication of artificial neural systems, such as
+vision systems, head-eye systems, and roving robots, whose architecture and
+design principles are based on those of biological nervous systems. The goal
+of this workshop is to bring together young investigators and more
+established researchers from academia with their counterparts in industry
+and national laboratories, working on both neurobiological as well as
+engineering aspects of sensory systems and sensory-motor integration. The
+focus of the workshop will be on active participation, with demonstration
+systems and hands-on-experience for all participants.
+Neuromorphic engineering has a wide range of applications from nonlinear
+adaptive control of complex systems to the design of smart sensors. Many of
+the fundamental principles in this field, such as the use of learning
+methods and the design of parallel hardware (with an emphasis on analog and
+asynchronous digital VLSI), are inspired by biological systems. However,
+existing applications are modest and the challenge of scaling up from small
+artificial neural networks and designing completely autonomous systems at
+the levels achieved by biological systems lies ahead. The assumption
+underlying this three week workshop is that the next generation of
+neuromorphic systems would benefit from closer attention to the principles
+found through experimental and theoretical studies of real biological
+nervous systems as whole systems.
+
+FORMAT:
+
+The three week summer workshop will include background lectures on systems
+neuroscience (in particular learning, oculo-motor and other motor systems
+and attention), practical tutorials on analog VLSI design, small mobile
+robots (Koalas and Kheperas), hands-on projects, and special interest
+groups. Participants are required to take part and possibly complete at
+least one of the projects proposed (soon to be defined). They are
+furthermore encouraged to become involved in as many of the other activities
+proposed as interest and time allow. There will be two lectures in the
+morning that cover issues that are important to the community in general.
+Because of the diverse range of backgrounds among the participants, the
+majority of these lectures will be tutorials, rather than detailed reports
+of current research. These lectures will be given by invited speakers.
+Participants will be free to explore and play with whatever they choose in
+the afternoon. Projects and interest groups meet in the late afternoons, and
+after dinner.
+The analog VLSI practical tutorials will cover all aspects of analog VLSI
+design, simulation, layout, and testing during the three weeks of the
+workshop. The first week covers basics of transistors, simple circuit design
+and simulation. This material is intended for participants who have no
+experience with analog VLSI. The second week will focus on design frames for
+silicon retinas, from the silicon compilation and layout of on-chip video
+scanners, to building the peripheral boards necessary for interfacing analog
+VLSI retinas to video output monitors. Retina chips will be provided. The
+third week will feature sessions on floating gates, including lectures on
+the physics of tunneling and injection, and on inter-chip communication
+systems. We will also feature a tutorial on the use of small, mobile robots,
+focussing on Koala's, as an ideal platform for vision, auditory and
+sensory-motor circuits.
+
+Projects that are carried out during the workshop will be centered in a
+number of groups, including
+
+   * active vision
+   * audition
+   * olfaction
+   * motor control
+   * central pattern generator
+   * robotics, multichip communication
+   * analog VLSI
+   * learning
+
+The active perception project group will emphasize vision and human
+sensory-motor coordination. Issues to be covered will include spatial
+localization and constancy, attention, motor planning, eye movements, and
+the use of visual motion information for motor control. Demonstrations will
+include a robot head active vision system consisting of a three
+degree-of-freedom binocular camera system that is fully programmable.
+
+The central pattern generator group will focus on small walking and
+undulating robots. It will look at characteristics and sources of parts for
+building robots, play with working examples of legged and segmented robots,
+and discuss CPG's and theories of nonlinear oscillators for locomotion. It
+will also explore the use of simple analog VLSI sensors for autonomous
+robots.
+
+The robotics group will use rovers and working digital vision boards as well
+as other possible sensors to investigate issues of sensorimotor integration,
+navigation and learning.
+
+The audition group aims to develop biologically plausible algorithms and
+aVLSI implementations of specific auditory tasks such as source localization
+and tracking, and sound pattern recognition. Projects will be integrated
+with visual and motor tasks in the context of a robot platform.
+
+The multichip communication project group will use existing interchip
+communication interfaces to program small networks of artificial neurons to
+exhibit particular behaviors such as amplification, oscillation, and
+associative memory. Issues in multichip communication will be discussed.
+
+LOCATION AND ARRANGEMENTS:
+
+The workshop will take place at the new Telluride Public High School (and
+not at the Elementary School which is being renovated this year) located in
+the small town of Telluride, 9000 feet high in Southwest Colorado, about 6
+hours drive away from Denver (350 miles). Continental and United Airlines
+provide daily flights directly into Telluride. All facilities within the
+beautifully renovated public school building are fully accessible to
+participants with disabilities. Participants will be housed in ski
+condominiums, within walking distance of the school. Participants are
+expected to share condominiums.
+
+No cars are required. Bring hiking boots, warm clothes and a backpack, since
+Telluride is surrounded by beautiful mountains.
+The workshop is intended to be very informal and hands-on. Participants are
+not required to have had previous experience in analog VLSI circuit design,
+computational or machine vision, systems level neurophysiology or modeling
+the brain at the systems level. However, we strongly encourage active
+researchers with relevant backgrounds from academia, industry and national
+laboratories to apply, in particular if they are prepared to work on
+specific projects, talk about their own work or bring demonstrations to
+Telluride (e.g. robots, chips, software).
+Internet access will be provided. Technical staff present throughout the
+workshops will assist with software and hardware issues. We will have a
+network of workstations running UNIX, MACs and PCs running LINUX and
+Microsoft Windows.
+Unless otherwise arranged with one of the organizers, we expect participants
+to stay for the entire duration of this three week workshop.
+
+FINANCIAL ARRANGEMENT:
+
+We have several funding requests pending to pay for most of the costs
+associated with this workshop.
+As in 1999, after notification of acceptances have been mailed out around
+April 1. 2000, participants are expected to pay a $275.- workshop fee. In
+case of real hardship, this can be waived.
+Shared condominiums will be provided for all academic participants at no
+cost to them. We expect participant from National Laboratories and Industry
+to pay for these modestly priced condominiums.
+We expect to have funds to reimburse student participants for travel (up to
+$500 for US domestic travel and up to $800 for overseas travel). Please
+specify on the application whether such financial help is needed.
+
+HOW TO APPLY:
+
+The deadline for receipt of applications is March 3. 2000.
+Applicants should be at the level of graduate students or above (i.e.
+postdoctoral fellows, faculty, research and engineering staff and the
+equivalent positions in industry and national laboratories). We actively
+encourage qualified women and minority candidates to apply.
+
+Application should include:
+
+   * First name, Last name, valid email address.
+   * Curriculum Vitae.
+   * One page summary of background and interests relevant to the workshop.
+   * Description of special equipment needed for demonstrations that could
+     be brought to the workshop.
+   * Two letters of recommendation
+
+Complete applications should be sent to:
+
+Prof. Terrence Sejnowski
+The Salk Institute
+10010 North Torrey Pines Road
+San Diego, CA 92037
+
+email: terry@salk.edu
+
+FAX: (619) 587 0417
+
+Applicants will be notified by email around March 31. 1999

@@ -1,0 +1,74 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sun Feb 28 13:45:54 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id NAA05025;
+	Sun, 28 Feb 1999 13:45:48 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01359;
+          28 Feb 99 6:35 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01356;
+          28 Feb 99 6:22 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa13326;
+          28 Feb 99 6:21 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa13519; 28 Feb 99 5:31 EST
+Received: from [139.18.2.23] by EDRC.CMU.EDU id aa09870; 28 Feb 99 5:31:12 EST
+Received: from neuron1 (localhost [127.0.0.1])
+	by neuron1.informatik.uni-leipzig.de (8.8.8/8.8.8) with SMTP id LAA10719
+	for <Connectionists@cs.cmu.edu>; Sun, 28 Feb 1999 11:30:47 +0100 (MET)
+Sender: schierwa@informatik.uni-leipzig.de
+Message-ID: <36D91AD6.1D12@informatik.uni-leipzig.de>
+Date: Sun, 28 Feb 1999 11:30:46 +0100
+From: Andreas Schierwagen <schierwa@informatik.uni-leipzig.de>
+Organization: Univ. Leipzig, Inst. fuer Informatik, Intelligente Systeme
+X-Mailer: Mozilla 3.01Gold (X11; I; SunOS 5.5 sun4m)
+MIME-Version: 1.0
+To: Connectionists@cs.cmu.edu
+Subject: SECOND AND FINAL ANNOUNCEMENT FNS '99
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+SECOND AND FINAL ANNOUNCEMENT
+
+
+                6th International Workshop           
+           
+                  Fuzzy-Neuro Systems '99
+                
+                    March 18-19, 1999
+             University of Leipzig, Leipzig, Germany              
+
+
+
+Dear reader of this news group or list: 
+(Our apologies, if you receive this several times)
+
+Please visit the Workshop web page at 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+     http://www.informatik.uni-leipzig.de/~brewka/FNS/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+and find actual information on 
+
+ORGANISATION, SCIENTIFIC PROGRAM, INVITED SPEAKERS, 
+OTHER PROGRAM PARTS and REGISTRATION.
+
+
+We are looking forward to meeting you at FNS '99!
+
+
+
+
+-- 
+Prof. Dr. Andreas Schierwagen
+Universitaet Leipzig, Institut fuer Informatik
+
+Augustuspl. 10/11
+D - 04109 Leipzig, Germany
+
+
+Phone:   ++49-341-9732234, Fax:     ++49-341-9732299
+e-mail:  schierwa@informatik.uni-leipzig.de

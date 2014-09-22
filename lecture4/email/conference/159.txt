@@ -1,0 +1,142 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Wed Oct 14 05:27:06 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id FAA02439;
+	Wed, 14 Oct 1998 05:26:50 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa02102;
+          13 Oct 98 19:45 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa02100;
+          13 Oct 98 19:34 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23838;
+          13 Oct 98 19:34 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa06679; 13 Oct 98 16:22 EDT
+Received: from CNS.BU.EDU by RI.CMU.EDU id aa22880; 13 Oct 98 16:21:03 EDT
+Received: from arlington.bu.edu (arlington [128.197.61.70])
+	by cns (8.8.5/8.8.5/(BU-S-02/10/97-v1.0)) with SMTP id QAA02256;
+	Tue, 13 Oct 1998 16:20:42 -0400 (EDT)
+Received: from localhost by arlington.bu.edu (8.6.13/BU_Client-1.1)
+	id QAA06286; Tue, 13 Oct 1998 16:20:40 -0400
+Date: Tue, 13 Oct 1998 16:20:39 -0400 (EDT)
+From: Fevzi Alimoglu <alimoglu@cns.bu.edu>
+X-Sender: alimoglu@arlington.bu.edu
+To: connectionists@cs.cmu.edu
+Subject: Call For Papers: TAINN'99
+Message-ID: <Pine.GSU.4.03.9810131619330.6276-100000@arlington.bu.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by eivind.imm.dtu.dk id FAA02439
+Status: RO
+X-Status: 
+
+CALL FOR PAPERS
+
+TAINN'99
+The Eighth Turkish Symposium on Artificial Intelligence and Neural Networks
+
+June 23-25 1999
+Bogazici University, Istanbul, TURKEY
+
+ORGANIZED BY:
+Bogazici University
+
+
+BACKGROUND:
+TAINN^Ò99 is the eighth in a series of symposia intended to bring together
+researchers from the fields of artificial intelligence and neural networks.
+The symposium will be held in the historical city of Istanbul, which has been
+the capital of two empires, and is the economic and cultural center of modern
+Turkey.
+
+SCOPE:
+AI Architectures, Artificial Life, Automated Modeling, Automated Reasoning,
+Bayesian Learning and Belief Networks, Control, Causality, Cognitive
+Modeling, Common Sense Reasoning, Computer-Aided Education, Decision Trees,
+Design, Diagnosis, Discourse, Discovery, Distributed AI, Expert Systems,
+Fuzzy Logic, Game Playing, Genetic Algorithms, Geometric or Spatial
+Reasoning, Hardware Realizations of Neural Networks and Fuzzy Systems,
+Information Retrieval, Knowledge Acquisition, Knowledge Representation, Logic
+Programming, Machine Discovery, Machine Learning, Machine Translation,
+Mathematical Foundations, Multi-agent Systems, Multimedia, Natural Language
+Processing, Neural Networks, Non-monotonic Reasoning, Pattern Recognition,
+Perception, Philosophical Foundations, Planning, Problem Solving, Qualitative
+Reasoning, Real-Time Systems, Reinforcement Learning, Robotics, Scheduling,
+Search, Simulation, Software Agents, Speech Understanding, Symbolic
+Computation, Temporal Reasoning, Vision.
+
+PAPER SUBMISSION:
+Original papers from all areas listed above are solicited. The symposium
+languages are Turkish and English. All submitted papers will be refereed on
+the basis of quality, significance, and clarity by program committee members
+and other reviewers. All accepted papers will be published in the symposium
+proceedings which will be available at the meeting. The symposium will
+consist of technical presentations, invited talk(s) and poster sessions.
+        Prospective authors are invited to submit full papers exclusively in
+electronic media in the format of postscript files attached to e-mail
+messages. Papers are limited to 10 pages, including figures and references,
+in single-spaced one-column format using a font size of 11 points.
+        See the symposium webpage for style information.
+
+PROGRAM COMMITTEE:
+L. Akarun               Turkey
+H. L. Akin              Turkey
+V. Akman                Turkey
+F. Alpaslan             Turkey
+E. Alpaydin             Turkey
+V. Atalay               Turkey
+I. Aybay                N. Cyprus
+C. Bozsahin             Turkey
+I. Bratko               Slovenia
+I. Cicekli              Turkey
+T. Ciftcibasi           N. Cyprus
+D. Davenport            Turkey
+C. Dichev               Bulgaria
+G. W. Ernst             USA
+A. Fatholahzadeh        France
+M. Guler                Turkey
+F. Gurgen               Turkey
+H. A. Guvenir           Turkey
+C. Guzelis              Turkey
+U. Halici               Turkey
+H. Hamburger            USA
+S. Kocabas              Turkey
+F. Masulli              Italy
+K. Oflazer              Turkey
+E. Oztemel              Turkey
+Y. Ozturk               USA
+J.-I. Tsujii            UK, Japan
+G. Ucoluk               Turkey
+N. Yalabik              Turkey
+F. T. Yarman-Vural      Turkey
+A. Yazici               Turkey
+
+PROGRAM  CO-CHAIRS:
+A. C. Cem Say
+        say@boun.edu.tr
+Gunhan Dundar
+        dundar@boun.edu.tr
+
+DEADLINES:
+Submission:
+        February 1, 1999
+Notification:
+        April 5, 1999
+Final Copy Due:
+        May 3, 1999
+
+For more information, frequently access the URL:
+http://www.cmpe.boun.edu.tr/~tainn99/
+
+
+CONTACTS:
+        TAINN'99
+        Department of Computer Engineering
+        Boðaziçi University,
+        Bebek 80815, Ýstanbul, TURKEY
+
+e-mail: say@boun.edu.tr
+phone:  90-212-2631540  Ext.  1628 (leave message)
+fax:    90-212-2872461
+
+

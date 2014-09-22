@@ -1,0 +1,143 @@
+
+
+From www-vrml-owner@hardly.hotwired.com Sun Apr 28 16:18 MET 1996
+Received: from vrml.organic.com by eivind.ei.dtu.dk with SMTP(1.38.193.4/16.2)
+	for fnielsen id AA09318; Sun, 28 Apr 1996 16:18:36 +0200
+Return-Path: <www-vrml-owner@hardly.hotwired.com>
+Received: from hardly.hotwired.com by kether via ESMTP (940816.SGI.8.6.9/8.7.2-Turbo)
+	 id HAA17371; Sun, 28 Apr 1996 07:08:57 -0700
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id GAA02955 for www-vrml14; Sun, 28 Apr 1996 06:54:31 -0700 (PDT)
+Received: (from daemon@localhost) by hardly.hotwired.com (8.7.5/8.7.3) id GAA02927 for www-vrml-out; Sun, 28 Apr 1996 06:54:24 -0700 (PDT)
+Received: from wired.com (get.wired.com [204.62.131.5]) by hardly.hotwired.com (8.7.5/8.7.3) with ESMTP id GAA02922 for <www-vrml@hardly.hotwired.com>; Sun, 28 Apr 1996 06:54:08 -0700 (PDT)
+Received: from ani.univie.ac.at (heraklit.ani.univie.ac.at [131.130.32.104]) by wired.com (8.7.4/8.7.3) with SMTP id GAA17795 for <www-vrml@wired.com>; Sun, 28 Apr 1996 06:53:59 -0700 (PDT)
+Received: by ani.univie.ac.at id AA13385
+  (5.65c8/IDA-1.4.4 for www-vrml@wired.com); Sun, 28 Apr 1996 15:42:43 +0200
+Date: Sun, 28 Apr 1996 15:42:43 +0200
+From: Gabriele Kotsis <gabi@ani.univie.ac.at>
+Message-Id: <199604281342.AA13385@ani.univie.ac.at>
+To: distributed-vr@mail.csh.rit.edu, interact@goober.mbhs.edu,
+        www-vrml@wired.com
+Subject: Final CFP 96/06/01 DVRE HICSS-30
+X-Charset: ASCII
+X-Char-Esc: 29
+Sender: owner-www-vrml@wired.com
+Precedence: bulk
+Status: RO
+X-Status: 
+
+
+This message has also been sent to several mailing lists. Sorry, if you
+receive it more than once.
+
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ *                         Final Call For Papers                     *
+ *                            in the Minitrack                       *
+ *                                                                   *    
+ *              DISTRIBUTED VIRTUAL REALITY ENVIRONMENTS             *
+ *                                                                   *    
+ *                 Maui, Hawaii - January 7-10, 1997                 *
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *                 
+                   (PAPER DEADLINE: JUNE 1ST 1996)
+
+Distributed Virtual Reality is a timely and attractive topic requiring
+the interaction of interdisciplinary techniques. The neccessity to 
+use existing technologies up to their limits is a challenge for VR 
+application designers and programmers. But also from the point of analysis,
+DVR systems provide an interesting testbed for performance evaluation, 
+including both, modeling and measurements approaches. While solutions for 
+the efficient implementation for single-user VR systems do exist - numerous
+VR applications nowadays in the market prove this statement - there are 
+many open problems concerning the design, implementation, and analysis of 
+distributed/networked VR environment.
+
+For this minitrack, we invite you to submit papers related to the following
+research issues:
+
+   + distributed virtual world representation
+   + multimedia data processing in virtual worlds
+   + networking and communication issues in DVREs
+   + user interface 
+   + performance evaluation
+   + quality of service
+
+
+Please submit eight copies of the full manuscript by June 1, 1996 to:
+
+	Guenter Haring
+	Institut Fuer Angewandte Informatik
+	Universitaet Wien, Lanaugasse 2/8
+	A-1080 Vienna, AUSTRIA
+        Phone: + 43 1 408 63 66 12
+
+Please, also submit a PostScript version of your paper electronically
+to gabi@ani.univie.ac.at.
+
+
+Manuscripts should be 22-25 typewritten, double-spaced
+pages in length. Please do not send submissions that are
+significantly shorter or longer than this.  Papers must
+not have been previously presented or published, nor currently
+submitted for journal publication.  Each manuscript will be
+subjected to a rigorous refereeing process.  Manuscripts should
+have a title page that includes the title of the paper, full
+name(s) of author(s), affiliation(s), complete postal and electronic
+mail address(es), and telephone number(s), and an abstract.
+
+Important Deadlines
+-------------------
+   + Eight copies of the manuscript by June 1
+   + Notification of accepted papers by August 31
+   + Camera-ready copies of accepted manuscripts are due by October 1
+
+
+
+The DVRE Minitrack is part of the
+_______________________________________________________________________
+_______________________________________________________________________
+
+                      Software Technology Track
+                              of the
+     30th Hawaii International Conference on System Sciences, HICSS-30
+                Maui, Hawaii - January 7-10, 1997
+_______________________________________________________________________
+_______________________________________________________________________
+
+Track Chairman
+--------------
+Hesham El-Rewini
+Department of Computer Science
+University of Nebraska at Omaha
+Omaha, NE 68182  
+Phone:  (402) 554-2852 
+Fax:    (402) 554-2975 
+Email: rewini@cs.unomaha.edu
+_______________________________________________________________________
+
+Track Advisory Committee
+------------------------
+o Gul Agha, University of Illinois, USA
+o Khalil M. Ahmed, University of Alexandria, EGYPT
+o Jim Anderson, University of North Carolina, USA
+o Jim Costa, Sandia National Laboratories, USA
+o Karsten M. Decker, Swiss Scientific Computing Center, SWITZERLAND
+o Alois Ferscha, Universitaet Wien, AUSTRIA
+o Apostolos Gerasoulis, Rutgers University, USA
+o Wolfgang A. Halang, Fernuniversitaet, GERMANY
+o Alexey Lastovetsky, Institute for System Programming, RUSSIA
+o Thomson Leighton, MIT, USA
+o Sartaj Sahni, University of Florida, USA
+o Alok Sinha, Microsoft, USA
+o Pradip Srimani, Colorado State University, USA
+o Ivan Stojmenovic, University of Ottawa, CANADA
+o Caetano Traina Junior, University of Sao Paulo, BRAZIL
+o Peter Wegner, Brown University, USA
+o Chung-Kwong Yuen, National University of Singapore, SINGAPORE
+o Albert Y. Zomaya, The University of Western Australia, AUSTRALIA
+_______________________________________________________________________
+
+HICSS Information
+-----------------
+http://www.cba.hawaii.edu/hicss
+_______________________________________________________________________
+
+

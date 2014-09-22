@@ -1,0 +1,142 @@
+
+
+From stetson@idfs3.it.dtu.dk Mon Mar 10 11:11:24 EST 1997
+Received: from idfs3.it.dtu.dk (idfs3.it.dtu.dk [130.225.76.53]) by eivind.imm.dtu.dk with ESMTP (8.7.1/8.7.1) id RAA28556; Mon, 10 Mar 1997 17:11:21 +0100 (MET)
+Received: from stetson.it.dtu.dk (stetson.it.dtu.dk [130.225.76.235]) by idfs3.it.dtu.dk (8.8.5/8.6.4) with SMTP id RAA01134; Mon, 10 Mar 1997 17:08:35 +0100
+Message-Id: <1.5.4.32.19970310160800.00682c74@idfs3.it.dtu.dk>
+X-Sender: stetson@idfs3.it.dtu.dk
+X-Mailer: Windows Eudora Light Version 1.5.4 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 10 Mar 1997 17:08:00 +0100
+To: Morten With Pedersen <with@eivind.imm.dtu.dk>,
+        nngroup -- Benny Lonstrup <blk@eivind.imm.dtu.dk>,
+        Bent Lundsager <blund@eivind.imm.dtu.dk>, c918980@student.dtu.dk,
+        c947007@student.dtu.dk, Carsten Helbo <ch@eivind.imm.dtu.dk>,
+        Claus Svarer <csvarer@eivind.imm.dtu.dk>,
+        Finn Aarup Nielsen <fnielsen@eivind.imm.dtu.dk>,
+        Torben Fog <fog@eivind.imm.dtu.dk>,
+        Cyril Goutte <goutte@eivind.imm.dtu.dk>,
+        Mads Hintz Madsen <hintz@eivind.imm.dtu.dk>,
+        John Aasted Sorensen <jaas@eivind.imm.dtu.dk>, jgk@imm.dtu.dk,
+        Jan Larsen <jlarsen@eivind.imm.dtu.dk>,
+        Ulrik Kjems <kjems@eivind.imm.dtu.dk>,
+        Kaare Jean Jensen <kjn@eivind.imm.dtu.dk>,
+        Kim Tilgaard Petersen <ktp@eivind.imm.dtu.dk>,
+        Lars Kai Hansen <lkhansen@eivind.imm.dtu.dk>,
+        Michael A Larsen <mal@eivind.imm.dtu.dk>,
+        Malene Schlaikjer <masc@eivind.imm.dtu.dk>, nielsm@internet.dk,
+        Niels Moerch <nmorch@eivind.imm.dtu.dk>,
+        Lars Nonboe Andersen <nonboe@eivind.imm.dtu.dk>,
+        ohlsson@eivind.imm.dtu.dk,
+        Peter Alshede Philipsen <pap@eivind.imm.dtu.dk>,
+        Pedro Hoejen-Soerensen <phs@eivind.imm.dtu.dk>, pmn@iau.dtu.dk,
+        pra@imm.dtu.dk, Peter Toft <ptoft@eivind.imm.dtu.dk>,
+        Allan Rene Rasmussen <ras@eivind.imm.dtu.dk>,
+        Soeren Riis <riis@eivind.imm.dtu.dk>,
+        Rune Thorsen <rune@eivind.imm.dtu.dk>,
+        "S.Duus Hansen" <sdh@eivind.imm.dtu.dk>,
+        Soeren Sennels <sennels@eivind.imm.dtu.dk>, sf@tele.dtu.dk,
+        stetson@iddth.it.dtu.dk, Thomas Kolenda <thko@eivind.imm.dtu.dk>,
+        Uffe Tomasson <uffe@eivind.imm.dtu.dk>, wilhjelm@iddth.it.dtu.dk,
+        Morten With Pedersen <with@eivind.imm.dtu.dk>, jaj@idfs3.it.dtu.dk,
+        pm@idfs3.it.dtu.dk, skj@idfs3.it.dtu.dk, wilhjelm@idfs3.it.dtu.dk,
+        ota@idfs3.it.dtu.dk
+From: Paul Stetson <stetson@it.dtu.dk>
+Subject: DANVIS seminar series
+Status: RO
+X-Status: 
+
+
+__________________________________________________________________________
+
+      Pattern Recognition:  From Classical to Neural Techniques
+    Paul F. Stetson, Ph.D., Department of Information Technology, DTU
+__________________________________________________________________________
+
+   This seminar series will trace the common roots and interrelationships 
+   of some of the newer techniques in pattern classification.  
+   Examples will include applications in medical ultrasound imaging.
+
+      All seminars will be held in DTU Building 344, Room 211.
+
+==========================================================================
+
+
+First Seminar:  Classical Pattern Recognition
+3:00 - 4:30 pm, Wednesday, April 9
+
+At this first meeting, we look at example problems which will be used 
+throughout the series.  We first consider the preprocessing of data and the 
+representation of this "cleaned-up" data to our classifying system.  
+Feature Selection can then be performed using the Karhunen-Loeve Transform 
+(Principal Components Analysis).  Once the feature set has been formed, we 
+estimate the most likely classification using Bayes' Theorem from basic 
+statistics.  Usually this involves the assumption of Gaussian statistics, 
+but non-parametric models will also be examined.  We will also see how to 
+make the Gaussian parametric classifier adaptive using recursive parameter 
+estimation.
+
+
+
+Second and Third Seminars:  
+3:00 - 4:30 pm, Friday, April 11
+3:00 - 4:30 pm, Wednesday, April 16
+
+Adaptive FIR Filters, mu-LMS and MADALINE
+Here we examine some variations on the basic linear classifier and the 
+following methods for regression of the minimum mean-square-error solution:  
+Newton's method, steepest-descent search, mu-LMS, and LMS/Newton (Recursive 
+Least-Squares).  From the basic units of linear classifiers, we can build a 
+network called the MADALINE.
+
+Nonlinear Polynomial Regression
+This is a simple linear classifier with a preprocessor that generates 
+polynomial product terms from the features.  This allows more flexible 
+partitioning of feature-space, which is useful in implementing the 
+exclusive-OR function and similar functions.  
+Recursive learning of parameters will also be addressed in this context.
+
+
+
+Fourth Seminar: Perceptrons
+3:00 - 4:30 pm, Wednesday, April 23
+
+A Perceptron net also uses linear classifiers, and we can use the 
+Backpropagation algorithm to fit the data in its training set.  
+We examine the similarity between Backpropagation and recursive learning 
+in the polynomial classifier, and we relate Backpropagation to the MADALINE 
+structure.
+
+
+
+Fifth Seminar:  Radial Basis Function methods
+3:00 - 4:30 pm, Wednesday, April 30
+
+Here we examine old and new methods which use distance metrics for 
+classification:  Nearest-Neighbor classification, the RCE network, and 
+clustering methods.
+
+
+
+Sixth Seminar:  Review; Survey of Applications in Medical Imaging
+3:00 - 4:30 pm, Wednesday, May 7
+
+In this final meeting, we will make various comparisons of old and new 
+classifiers and review the motivations for particular architectures or 
+algorithms. 
+A survey of various research applications in the medical imaging literature 
+will also be presented as real-world examples of what we have learned.
+
+______________________________________________________________________
+
+Paul F. Stetson, Ph.D.
+Department of Information Technology
+Building 344
+Technical University of Denmark
+DK-2800 Lyngby
+Denmark
+
+office phone: (+45) 45 25 39 05
+home/mobile:  (+45) 30 48 63 26
+

@@ -1,0 +1,79 @@
+
+
+From spm-request@mailbase.ac.uk  Thu Oct 15 13:20:15 1998
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id NAA09676
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 15 Oct 1998 13:20:14 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id MAA00026;
+	Thu, 15 Oct 1998 12:19:24 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id MAA04718;
+        Thu, 15 Oct 1998 12:14:38 +0100 (BST)
+Received: from mailhost.rug.nl (mailhost.rug.nl [129.125.4.6]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with SMTP id MAA04671;
+        Thu, 15 Oct 1998 12:14:18 +0100 (BST)
+Received: from mailhost.azg.nl by mailhost.rug.nl with local-SMTP (MMTA) with ESMTP;
+          Thu, 15 Oct 1998 13:14:11 +0200
+Received: from TheWizard (actually host 145.39.4.24) by mailhost.azg.nl           
+          with SMTP (PP); Thu, 15 Oct 1998 13:15:18 +0200
+Original-Sender: antoon@azg.nl
+Message-ID: <3625E13E.43A6@pet.azg.nl>
+Date: Thu, 15 Oct 1998 11:49:18 +0000
+Organization: PET-Center Groningen
+X-Mailer: Mozilla 3.01Gold (X11; I; SunOS 5.4 sun4m)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Graduate student position
+From: Antoon Willemsen <a.t.m.willemsen@pet.azg.nl>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Antoon Willemsen <a.t.m.willemsen@pet.azg.nl>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Content-Transfer-Encoding: 7bit
+Status: RO
+X-Status: 
+
+GRADUATE STUDENT POSITION
+
+At the PET Center, University Hospital Groningen and University of
+Groningen, Groningen, The Netherlands, a graduate student position 
+(for 4 years) is available. The successfull applicant will work in
+the methodology group on the development of new non-parametric 
+processing and analysis methods for (dynamic) Positron Emission
+Tomography (PET) data. In particular the processing and analysis 
+of dynamic PET data applying principal component, wavelet and
+artificial neural network techniques will be pursued.
+
+TOPICS
+- Intelligent temporal filtering of dynamic PET data.
+- Automated classification and segmentation of dynamic PET data.
+- "Optimal" visualisation of dynamic PET data.
+- Input function extraction from output data (i.e. PET).
+
+REQUIREMENTS
+  Candidates should have an university degree (M.Sc. or equivalent)
+in (applied) physics or (electrical) engineering with an interest in
+data-analysis and/or image processing. Experience with one or more 
+of the techniques mentioned above or PET is an advantage but not
+essential. This position is for 4 years and must result in a Ph.D.
+thesis.
+
+INFORMATION
+  For further information or to apply for this position contact 
+A. Willemsen, Ph.D. (a.t.m.willemsen@pet.azg.nl) or A. Paans, Ph.D.
+(a.m.j.paans@pet.azg.nl).
+
+
+A.T.M. Willemsen, Ph.D.
+PET-Center
+University Hospital Groningen
+  & University of Groningen
+P.O.Box 30.001
+9700RB Groningen
+The Netherlands

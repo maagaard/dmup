@@ -1,0 +1,99 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 23 01:07:40 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id BAA29179;
+	Tue, 23 Nov 1999 01:07:31 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa18158;
+          22 Nov 99 16:46 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa18156;
+          22 Nov 99 16:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07763;
+          22 Nov 99 16:36 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa28090; 22 Nov 99 7:19 EST
+Received: from morgana.elet.polimi.it by cs.cmu.edu id aa17100;
+          22 Nov 99 7:19 EST
+Received: from host pc-piuri and sender pc-piu.elet.polimi.it [131.175.21.51];
+	by mail relay Morgana.Elet.PoliMi.IT (Sendmail Ver. 8.x.x / 2 Nov. 1998);
+	with protocol SMTP and identifier NAA11198;
+	for recipient <connectionists@cs.cmu.edu>;
+	on date and time Mon, 22 Nov 1999 13:18:50 +0100 (MET).
+Message-Id: <3.0.5.32.19991122133455.015bda30@elet.polimi.it>
+X-Sender: piuri@elet.polimi.it
+X-Mailer: QUALCOMM Windows Eudora Light Version 3.0.5 (32)
+Date: Mon, 22 Nov 1999 13:34:55 +0100
+To: connectionists@cs.cmu.edu
+From: Vincenzo Piuri <piuri@elet.polimi.it>
+Subject: IJCNN'2000: Call for Special Sessions
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+========================================================================
+    IEEE-INNS-ENNS INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS
+         Grand Hotel di Como, Como, Italy - 24-27 July 2000 
+ 
+sponsored by the IEEE Neural Network Council, the International Neural 
+Network Society, and the European Neural Network Society
+with the technical cooperation of the Japanese Neural Network Society, 
+AEI, SIREN, and AI*IA 
+
+
+      >  >  >  > > >  CALL FOR SPECIAL SESSIONS  < < <  <  <  <
+
+
+Proposals for special sessions for IJCNN 2000 are solicited.
+
+Special sessions consist of three to five papers related to neural 
+networks or related area.  Proposals are due on December 31, 1999 and 
+must include
+
+1. The title of the special session and a one paragraph summary 
+   describing the session's themes.
+
+2. The names, affiliations and e-mail of the organizers of the special
+   session with identification of one of these individuals as the 
+   contact person.
+
+3. A list of papers including (a) authors (b) author affiliation and 
+   e-mail and (c) paper title
+
+4. A statement from the session organizer that (a) the authors have 
+   been contacted and agree to write the paper and (b) at least one 
+   author per paper will register and attend IJCNN2000 to present the 
+   paper (the registration is due by 30 April 2000 to guarantee 
+   inclusion of the paper in the proceedings - see the detailed 
+   conditions in the conference Call for Papers on the conference web 
+   site).
+
+Final papers for publication in the conference record will be due on
+January 31, 2000.
+
+Proposals for Special Sessions should be submitted electronically to
+ijcnn2000@ee.washington.edu
+   
+For the complete Call for Papers and other information (including 
+information about Como, Italy), visit the conference web site at: 
+http://www.ims.unico.it/2000ijcnn.html
+
+======================================================================
+IJCNN 2000 Special Sessions Committee
+	Payman Arabshahi, JPL, USA
+	Alexandre P. Alves da Silva, Federal Engineering School at 
+           Itajuba, Brazil
+	Mohamed El-Sharkawi, University of Washington, USA
+	Michael Healy, The Boeing Airplane Company, USA
+	Jae-Byung Jung, University of Washington, USA
+	Robert J. Marks II (Chair), University of Washington, USA
+
+======================================================================
+
+
+
+
+Vincenzo Piuri
+Department of Electronics and Information, Politecnico di Milano
+piazza L. da Vinci 32, 20133 Milano, Italy
+phone +39-02-2399-3606    secretary +39-02-2399-3623
+fax   +39-02-2399-3411    email     piuri@elet.polimi.it

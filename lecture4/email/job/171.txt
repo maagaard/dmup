@@ -1,0 +1,55 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Aug 21 12:53:39 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id MAA25762;
+	Sat, 21 Aug 1999 12:53:33 +0200 (METDST)
+Message-Id: <199908211053.MAA25762@eivind.imm.dtu.dk>
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa01536;
+          21 Aug 99 2:33 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa01531;
+          21 Aug 99 2:29 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa05016;
+          21 Aug 99 2:29 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa27264; 21 Aug 99 0:49 EDT
+Received: from [129.100.38.42] by RI.CMU.EDU id aa26570; 21 Aug 99 0:48:51 EDT
+Received: from localhost by sunrae.sscl.uwo.ca. (SMI-8.6/SMI-SVR4)
+	id AAA05982; Sat, 21 Aug 1999 00:37:09 -0400
+Date: Sat, 21 Aug 1999 00:37:09 -0400 (EDT)
+From: kenm@sunrae.sscl.uwo.ca
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+To: Connectionists@cs.cmu.edu
+Subject: Faculty Position in Cognition at Western Ontario
+Status: RO
+X-Status: 
+
+ 
+FACULTY POSITION IN COGNITION.
+
+The University of Western Ontario, Department of Psychology invites
+applications for a tenure-track position for a Cognitive Psychologist
+at the Assistant Professor level.  Individuals with research interests
+in any area of Cognition, including memory, language, computational
+modelling, concepts and categorization, cognitive development, or
+animal cognition are invited to apply.  Duties will include
+maintaining an active research program, graduate student supervision,
+and graduate and undergraduate teaching.  The Cognition Program at the
+University of Western Ontario emphasizes a multidisciplinary approach
+to research in the cognitive sciences, featuring close ties with
+researchers in artificial intelligence, linguistics, visual
+neuroscience, neuroimaging, and evolutionary psychology.
+
+Applicants should submit a vita, copies of representative publications
+and arrange to have three letters of recommendation sent to Dr. Jim
+Olson, Chair, Department of Psychology, The University of Western
+Ontario, London, Ontario, Canada N6A 5C2 by January 1, 2000.  This
+position is subject to budgetary approval.  The scheduled starting
+date is July 1, 2000.
+
+In accordance with Canadian Immigration requirements, first priority
+will be given to applicants who are Canadian Citizens or Permanent
+Residents of Canada.  The University of Western Ontario is committed
+to employment equity, welcomes diversity in the workplace, and
+encourages applications from all qualified individuals including
+women, members of visible minorities, aboriginal persons, and persons
+with disabilities.

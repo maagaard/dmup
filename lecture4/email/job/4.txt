@@ -1,0 +1,103 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Oct  6 05:42:42 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id FAA12399;
+	Tue, 6 Oct 1998 05:42:31 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10790;
+          5 Oct 98 22:11 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10788;
+          5 Oct 98 22:05 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14364;
+          5 Oct 98 22:05 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa18171; 5 Oct 98 21:40 EDT
+Received: from curie.psychology.McMaster.CA by CS.CMU.EDU id aa03785;
+          5 Oct 98 21:39:39 EDT
+Received: from meitner.psychology.mcmaster.ca (meitner [130.113.218.66])
+	by curie.psychology.mcmaster.ca (980427.SGI.8.8.8/8.8.8-ajr) with ESMTP id VAA08513
+	for <Connectionists@CS.CMU.EDU>; Mon, 5 Oct 1998 21:38:44 -0400 (EDT)
+Received: from localhost (becker@localhost)
+	by meitner.psychology.mcmaster.ca (980427.SGI.8.8.8/8.8.8-ajr-cl) with SMTP id VAA23405
+	for <Connectionists@CS.CMU.EDU>; Mon, 5 Oct 1998 21:38:24 -0400 (EDT)
+Date: Mon, 5 Oct 1998 21:38:24 -0400 (EDT)
+From: Sue Becker <becker@curie.psychology.mcmaster.ca>
+Reply-To: Sue Becker <becker@mcmaster.ca>
+To: Connectionists@cs.cmu.edu
+Subject: faculty positions
+Message-ID: <Pine.SGI.3.96.981005213412.23386A-100000@meitner.psychology.mcmaster.ca>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear connectionists,
+
+There are a number of open faculty positions at McMaster University which
+may interest you or your colleagues. Please feel free to pass this message
+on or post to other sites.
+
+Position in Psychology:
+Appended to the bottom of this message is an advertisement for a
+faculty position in the Department of Psychology at McMaster University,
+targeting Cognitive Psychology or Animal Behaviour. Computational modellers
+whose research intersects with the study of brain and behaviour are
+encouraged to apply. Please drop me a note if you plan on applying. 
+
+Positions in Computer Science and Software Engineering:
+The Department of Computing and Software at McMaster also has a number of
+open positions. Several areas are being targeted but all outstanding
+applicants will be considered. See http://www.cas.mcmaster.ca
+This department has recently moved into the Faculty of Engineering and
+is expanding rapidly.
+
+Positions in Electrical Engineering:
+The Department of Electrical and Computer Engineering is also expanding
+rapidly, with information technology having been designated a priority
+area at McMaster. This department is presently targeting the areas of
+signal processing, computer networking and VLSI. For further details, see
+http://ece.mcmaster.ca/job_ft2.htm
+
+McMaster University is the first, and to our knowledge, the only
+university to offer an Honours Degree in Neural Computation. It is by many
+standards Canada's most research-intensive university - financial support
+from governments, foundations and business for our research projects is,
+on a per capita basis, the highest in the country. We have been recognized
+for several years as Canada's most innovative university.  McMaster's
+Psychology Department is considered by many to be the best in Canada - for
+example, it ranks highest in the country in terms of publications per 
+faculty member. 
+
+Sincerely,
+Sue Becker, Associate Professor
+Dept. of Psychology
+
+--------------------------------------------------------------------------
+
+			     FACULTY POSITION IN
+		    COGNITIVE PSYCHOLOGY/ANIMAL BEHAVIOUR
+
+
+The Department of Psychology at McMaster University invites applications 
+from candidates eligible to be sponsored for a Natural Sciences 
+and Engineering Research Council University Faculty Award (UFA),
+an award that is directed toward women.  We plan to sponsor an 
+application for a UFA, and will offer the successful applicant a 
+tenure track position at the level of Assistant Professor.  The 
+duration of the UFA, 3 years initially with a possibility of renewal 
+for a further 2 years, will count toward the normal probationary 
+period for tenure.  We are seeking candidates with an active research 
+program in either animal behaviour or cognitive psychology.  Preference
+for the cognition opening is for someone with an interest in memory
+or decision making, and whose research program extends to 
+neuroscience/neuropsychology domains.  Applications are encouraged from 
+all qualified candidates, including aboriginal peoples, persons with 
+disabilities, and members of visible minorities.  Interested candidates 
+should consult the eligibility criteria for the UFA on the NSERC website: 
+http://www.nserc.ca/programs/sf/UFA_e.  To apply, send a curriculum 
+vitae, a short statement of research interests, a publication list 
+with selected reprints, and three letters of reference to:  
+Dr. Bruce Milliken, Department of Psychology, McMaster University, 
+Hamilton, Ontario, CANADA L8S 4K1.  Closing date for applications 
+and supporting material is November 15, 1998.
+
+

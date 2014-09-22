@@ -1,0 +1,104 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Jan  9 00:00:30 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA15740;
+	Sat, 9 Jan 1999 00:00:24 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa19938;
+          8 Jan 99 16:43 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa19936;
+          8 Jan 99 16:27 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa16916;
+          8 Jan 99 16:26 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa03532; 8 Jan 99 4:45 EST
+Received: from tournesol.lps.ens.fr by EDRC.CMU.EDU id aa18352;
+          8 Jan 99 4:45:47 EST
+Received: from localhost (risc@localhost)
+	by tournesol.lps.ens.fr (8.8.6/8.8.6) with SMTP id KAA24427;
+	Fri, 8 Jan 1999 10:45:45 +0100 (CET)
+Date: Fri, 8 Jan 1999 10:45:45 +0100 (CET)
+From: risc@lps.ens.fr
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+To: connectionists@cs.cmu.edu
+cc: hansel@cpht.polytechnique.fr
+Subject: Workshop: Neurophysics and Physiology of the Motor System
+Message-ID: <Pine.BSF.3.96.990108104231.14363A-100000@tournesol.lps.ens.fr>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+
+	Neurophysics and Physiology of the Motor System
+
+	 Les Houches (France), February, 7-12, 1999
+
+
+Les Houches school is located in a well known ski resort
+near Chamonix (in the french Alps). It  has been for more than forty years
+a highly prestigious institution for physicists all over the world.
+The present session will be the first to be ever dedicated, 
+at Les Houches, to integrated Neurosciences.   It will bring 
+together physiologists and physicists, who will discuss 
+recent experimental and theoretical advances on the structure, 
+dynamics and functions of the motor system. It will provide a unique 
+opportunity for the participants to become familiar with many of the 
+fundamental issues related to the elaboration, the execution and the 
+control of movement in the central nervous system. It will also bring 
+to light how Neurophysics can contribute to understanding the motor 
+system. Among the topics discussed will be: emerging functional 
+properties, the role of the nonlinearities of neural dynamics, the
+synchrony of neural activity. These questions will be introduced in 
+the framework of the different nervous structures involved (cortex, 
+cerebellum, basal ganglia, spinal cord), and further discussed in 
+the wider context of the integrated physiology of the motor system.
+Mornings (8:30 AM to 11:30 AM) and late afternoons (5:00 PM to
+7:15 PM) will be devoted to lectures.
+
+Organization: D. Hansel and C. Meunier, C.Ph.T.
+UMR 7644 CNRS Ecole Polytechnique 91128 Palaiseau, France.
+D. Golomb, Dept. of Physiology, Faculty of Health Sciences
+Ben Gurion University of the Negev, Beersheva, 84105, Israel
+
+Scientific committee:
+H. Bergman (Jerusalem),
+P. Collet (Paris), C. Masson (Dijon),
+A. Schmied (Marseille), I. Segev (Jerusalem)
+
+
+Speakers:
+M. Abeles (Jerusalem), H. Bergman (Jerusalem), E. Fetz (Seattle),
+C. Feuerstein (Grenoble), D. Golomb (Beersheva), D. Hansel (Paris), 
+L. Jami (Paris), R. Lemon (London), Y. Manor (Beersheva),
+C. Meunier (Paris), A. Riehle (Marseille), A. Schmied (Marseille),
+I. Segev (Jerusalem), H. Sompolinsky (Jerusalem), E. Vaadia (Jerusalem),
+C. van Vreeswijk (London), Y. Yarom (Jerusalem), J. Yelnik (Paris),
+D. Zytnicki (Paris).
+
+
+Les Houches is a resort village in the Chamonix valley of the French Alps.
+Established in 1951, the School is located in a group of mountain chalets
+surrounded by meadows and woods at an altitude of 1150 m. It is above the
+village, facing the Mont-Blanc range.
+
+Registration fees are 2200FF including accommodation and meals during the
+whole session. Number of participants is limited to 40, speakers included.
+The participation of students and young scientists is encouraged, and they may
+benefit from reduced fees (limited number).
+
+Applications (short curriculum vitae and publications list)  should be
+sent before January, 15, 1999 to Mrs. Martine Escoute, URA 1448, UFR
+biom\'edicale, 45 rue des Saints-P\`eres, 75270 Paris cedex 06;
+telephone: 0142862138; fax: 0149279062;
+e-mail: Martine.Escoute@biomedicale.univ-paris5.fr.
+
+Les Houches Physics school is affiliated to Universit\'e Joseph Fourier 
+(Grenoble) and Institut National Polytechnique de Grenoble.  
+It is subsidized by Minist\`ere de l'Education Nationale et de 
+l'Enseignement Sup\'erieur, Centre National
+de la Recherche Scientifique and Commissariat \`a l'Energie Atomique .
+
+----------------------
+David Hansel
+hansel@cpht.polytechnique.fr

@@ -1,0 +1,163 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Nov 18 20:10:43 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id UAA05752;
+	Thu, 18 Nov 1999 20:10:37 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa07549;
+          18 Nov 99 11:40 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa07547;
+          18 Nov 99 11:32 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02387;
+          18 Nov 99 11:31 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa29296; 18 Nov 99 4:25 EST
+Received: from vanessa.diee.unica.it by edrc.cmu.edu id aa00778;
+          18 Nov 99 4:25 EST
+Received: from [192.167.131.155] (macgiacinto.diee.unica.it [192.167.131.155])
+	by vanessa.diee.unica.it (8.9.1/8.9.1) with ESMTP id KAA17748;
+	Thu, 18 Nov 1999 10:08:20 GMT
+User-Agent: Microsoft Outlook Express Macintosh Edition - 5.0 (1513)
+Date: Thu, 18 Nov 1999 10:24:54 +0100
+Subject: 1st Internation Workshop on Multiple Cassifier Systems
+From: Giorgio Giacinto <giorgio.giacinto@computer.org>
+To: Connectionists@cs.cmu.edu, ml@ics.uci.edu
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Message-ID: <B4598476.EBC%giorgio.giacinto@computer.org>
+Mime-version: 1.0
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+Status: RO
+X-Status: 
+
+**Apologies for multiple copies**
+
+**************************************************
+***** First Announcement and Call for Papers *****
+**************************************************
+
+**********************************************************************
+1st MCS
+FIRST INTERNATIONAL WORKSHOP ON MULTIPLE CLASSIFIER SYSTEMS
+Santa Margherita di Pula, Cagliari, Italy, June 21-23 2000
+
+**********************************************************************
+
+*** Updated information: http://www.diee.unica.it/mcs ***
+*** E-mail: mcs@diee.unica.it                         ***
+
+WORKSHOP OBJECTIVES
+The main goal of the workshop is to assess the state of the art of the
+theory and the applications of multiple classifier systems and related
+approaches. Contributions from all the research communities working in the
+field are welcome in order to compare the different approaches and to
+define the common research priorities. Special attention is also devoted to
+assess the applications of multiple classifier systems and the potential
+market perspectives. The workshop program will include both plenary
+lectures given by invited speakers and papers accepted for oral
+presentation. The papers will be published in the workshop proceedings, and
+extended versions of selected papers will be considered for publication in
+a special issue of the Pattern Analysis and Applications Journal on
+Classifier Fusion
+
+WORKSHOP TOPICS
+Papers describing original work in the following and related research
+topics are welcome:
+
+Theoretical foundations of multiple classifier systems
+Methods for classifier combination
+Methods for classifier selection
+Neural network ensembles
+Modular neural networks
+Mixture models
+Multiple expert systems
+Hybrid systems
+Learning in multiple classifier systems
+Design of multiple classifier systems
+Multiple models in data mining
+Related approaches (intelligent agents, multi-criteria decision making,
+etc.)
+Applications (biometrics, document analysis, data mining, remote sensing,
+etc.)
+
+WORKSHOP CHAIRS
+Josef Kittler (Univ. of Surrey, United Kingdom)
+Fabio Roli (Univ. of Cagliari, Italy)
+
+INVITED SPEAKERS
+Thomas G. Dietterich (Oregon State University, USA)
+Robert P.W. Duin (Delft Univ. of Tech., The Netherlands)
+Amanda J.C. Sharkey (Dept. Computer Science, Univ. of Sheffield, UK)
+Sargur N. Srihari (CEDAR, State Univ. of New York, Buffalo, USA)
+Ching Y. Suen (CENPARMI, Concordia Univ., Montreal, Canada)
+
+PROGRAM CHAIR
+Gianni Vernazza (Univ. of Genoa, Italy)
+
+SCIENTIFIC COMMITTEE
+J. A. Benediktsson (Iceland)
+H. Bunke (Switzerland)
+L. P. Cordella (Italy)
+T.G. Dietterich (USA)
+R. P.W. Duin (The Netherlands)
+J. Ghosh (USA)
+S. Impedovo (Italy)
+D. Landgrebe (USA)
+D.S. Lee (USA)
+A. K. Jain (USA)
+T. K. Ho (USA)
+D. Partridge (UK)
+C.Scagliola (Italy)
+R. Schapire (USA)
+A. J.C. Sharkey (UK)
+S. N. Srihari (USA)
+C.Y. Suen (Canada)
+D. Wolpert (USA)
+
+LOCAL COMMITTEE
+G.Armano (Univ. of Cagliari, Italy)
+G.Giacinto (Univ. of Cagliari, Italy)
+G.Fumera (Univ. of Cagliari, Italy)
+
+PAPER SUBMISSION
+Three hard copies of the full papers should be mailed to:
+
+1st MCS
+Prof. Fabio Roli
+Electrical and Electronic Engineering Dept. - University of Cagliari
+Piazza d'Armi
+09123 Cagliari Italy
+
+In addition, participants should submit an electronic version of the
+manuscript (PostScript or PDF format) to mcs@diee.unica.it
+The papers should not exceed 15 A4 pages (12pt, double-spaced). A cover
+sheet with the authors names and affiliations is also requested, with the
+complete address of the corresponding author, and an abstract (200 words).
+The papers will be refereed by two separate reviewers of the Scientific
+Committee.
+
+IMPORTANT DATES
+February 1, 2000: Paper Submission
+March 15, 2000: Notification of Acceptance
+April 30, 2000: Camera-ready Manuscripts
+May 2000: Early registration
+
+WORKSHOP VENUE
+The workshop will be held at the Is Molas Golf Hotel, Santa Margherita di
+Pula, Cagliari, Italy. Additional information concerning the workshop venue
+can be found at http://www.ismolas.it
+
+WORKSHOP PROCEEDINGS
+The papers will be published in the workshop proceedings, and extended
+versions of selected papers will be considered for publication in a special
+issue of the Pattern Analysis and Applications Journal on Classifier Fusion
+
+====================================================================
+Fabio Roli, Phd
+
+Associate Professor of Computer Science
+Electrical and Electronic Engineering Dept. - University of Cagliari
+Piazza d'Armi 09123 Cagliari Italy
+Phone +39 070 675 5874 Fax +39 070 6755900  e-mail roli@diee.unica.it
+Web Page at http://www.diee.unica.it
+ 
+

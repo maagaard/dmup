@@ -1,0 +1,93 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Sat Jan  8 13:44:20 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id NAA16770;
+	Sat, 8 Jan 2000 13:44:16 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa13812;
+          8 Jan 2000 1:05 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa13810;
+          8 Jan 2000 1:01 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa04882;
+          8 Jan 2000 1:01 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa28288;
+          7 Jan 2000 18:56 EST
+Received: from usc.edu by edrc.cmu.edu id aa25997; 7 Jan 2000 18:55 EST
+Received: from relay.usc.edu (root@relay.usc.edu [128.125.29.164])
+	by usc.edu (8.9.3.1/8.9.3/usc) with ESMTP
+	id PAA21408 for <connectionists@cs.cmu.edu>; Fri, 7 Jan 2000 15:55:58 -0800 (PST)
+Received: from bsl6.usc.edu (marbib.extern.ucsd.edu [137.110.76.9])
+	by relay.usc.edu (8.9.3.1/8.9.3/usc) with SMTP
+	id PAA01066 for <connectionists@cs.cmu.edu>; Fri, 7 Jan 2000 15:55:55 -0800 (PST)
+Message-Id: <200001072355.PAA01066@relay.usc.edu>
+X-Sender: arbib@pollux.usc.edu
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.0.1 
+Date: Fri, 07 Jan 2000 15:52:35 -0800
+To: connectionists@cs.cmu.edu
+From: Michael Arbib <arbib@pollux.usc.edu>
+Subject: Faculty Position in Computational Neuroscience/Neuroinformatics
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+The University of Southern California (USC) Department of Computer
+Science (www.usc.edu/dept/cs) invites applications for a tenure-track
+position in computational neuroscience/neuroinformatics.  We are
+looking for an individual who has an exceptional track record in
+modeling large-scale neural systems and working with experimentalists
+to link their data to these models. The successful applicant will be
+involved in teaching in a computer science and interdisciplinary
+environment, and will also have the technical ability to serve as
+Associate Director of the USC Brain Project (http://www-hbp.usc.edu).
+In particular, the candidate is expected to supervise and contribute
+to the development of a database environment for integration of
+empirical neuroscience data and brain models.
+
+The computer science community at USC is large and diverse, with
+faculty both on the University Park Campus and at USC's Information
+Sciences Institute (ISI). Research topics include algorithms and
+cryptography, collaborative agents, computational neuroscience,
+computer architecture, databases and information management,
+educational technology, genomics & DNA computing, graphics and
+multi-media, knowledge acquisition, knowledge representation,
+learning, natural language processing, networking, neural networks,
+neuroinformatics, ontologies, planning, robotics, software
+engineering, virtual humans, and vision.
+
+Computer Science at USC has a long history as a key component of the
+University's Neuroscience Program (NIBS: Neural, Informational and
+Behavioral Sciences) with work in cognitive neuroscience,
+computational neuroscience, language mechanisms, neural engineering
+(through the Center for Neural Engineering
+(http://www.usc.edu/dept/engineering/CNE), neuroinformatics, vision,
+and visuomotor coordination (with links to biomimetic robotics). In
+particular, the USC Brain Project (USCBP), funded in part by the Human
+Brain Project consortium, integrates empirical research in the
+neuroanatomy, neurochemistry and neurophysiology of synaptic
+plasticity, motivation, and visuomotor coordination with research in
+neuroinformatics, adapting such computational techniques as databases,
+the World Wide Web, data mining, and visualization to the analysis of
+neuro-science data, and employing computational neuroscience to study
+the relations between structure and function. USC is also part of the
+Dynamic Brain Project, an international research focus on
+computational motor control.
+
+USC's broader computer science community includes not only the
+Computer Science Department, the Computer Engineering Program and ISI
+but also the Integrated Media Systems Center (IMSC), an NSF
+Engineering Research Center focusing on computer interfaces,
+information management and media communications; and the newly created
+Institute for Creative Technologies that brings together expertise
+from USC's Schools of Engineering, Cinema-Television, and
+Communications (Annenberg) plus the entertainment industry, to develop
+the art and technology for compellingly realistic virtual experiences.
+
+Preliminary enquiries and requests for further information may be sent to
+Michael Arbib (arbib@pollux.usc.edu).
+
+Applicants should send a comprehensive resume, a list of references,
+and a statement of goals to: Paulina Tagle, Computer Science, USC SAL
+300, Los Angeles, CA 90089-0781 (paulina@pollux.usc.edu). USC is an
+Equal Opportunity/Affirmative Action Employer and encourages
+applications from women and minorities.

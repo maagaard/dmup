@@ -1,0 +1,89 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Aug 18 21:56:37 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id VAA23518;
+	Wed, 18 Aug 1999 21:56:30 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25860;
+          18 Aug 99 14:27 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25852;
+          18 Aug 99 14:15 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01036;
+          18 Aug 99 14:14 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab17493; 18 Aug 99 11:55 EDT
+Received: from [130.209.240.50] by RI.CMU.EDU id aa27442; 18 Aug 99 11:54:14 EDT
+Received: from dcs.gla.ac.uk (actually host oxna) by vanuata 
+          with SMTP DCS (MMTA) with ESMTP; Wed, 18 Aug 1999 16:53:53 +0100
+Message-ID: <37BAD710.F449D98@dcs.gla.ac.uk>
+Date: Wed, 18 Aug 1999 16:53:52 +0100
+From: Roderick Murray-Smith <rod@dcs.gla.ac.uk>
+Organization: Glasgow University
+X-Mailer: Mozilla 4.6 [en] (WinNT; I)
+X-Accept-Language: en
+To: connectionists@cs.cmu.edu
+CC: Roderick Murray-Smith <rod@dcs.gla.ac.uk>
+Subject: Post-doc position at University of Glasgow
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+
+
+Vacancy: Post-doctoral research assistant at University of Glasgow,
+Dept. of Computing Science
+
+Applications are invited for a Post-doctoral Research Assistantship
+(RA-1A, salary range 16,286-18,185, depending on experience, up to a
+maximum of scale point 6) at the University of Glasgow. The appointee
+will be based in the Department of Computing Science. The work will be
+directed by R. Murray-Smith (Computing Science), D. M. Titterington
+(Statistics) and
+K. J. Hunt (Mechanical Engineering). The appointment is for three years,
+
+funded by an EPSRC project "Modern Statistical Approaches to
+off-equilibrium modelling for nonlinear system control", which starts on
+
+1st January 2000, or as soon as possible thereafter.
+
+This project aims to develop modern statistical theory and methodology
+to improve the performance and interpretability of the multiple-model
+approach to modelling and control of dynamic systems in engineering. The
+
+primary application will be in rehabilitation engineering, where
+improved modelling and control methods are needed.
+
+Candidates should ideally have a strong statistics background. Skills in
+
+the following areas will be advantageous: Markov-Chain Monte Carlo
+methods, Bayesian inference, time series modelling and control. The
+candidate should also be keen on applying leading-edge techniques to
+challenging problems, and dealing with the concrete programming work
+needed to produce successful results. The work will involve algorithm
+implementation, application and some system development in MATLAB.
+
+Further details available at:
+http://www.dcs.gla.ac.uk/~rod/vacancy.htm
+http://www.dcs.gla.ac.uk/~rod/MSAFCproject.htm
+
+Please send a letter of application and c.v. to Roderick Murray-Smith,
+rod@dcs.gla.ac.uk (informal enquiries by e-mail welcome) before the end
+of September 1999.
+
+Please note that because of work permit restrictions, non European
+Union/European Economic Area nationals can only be considered if no
+suitably qualified EU/EEA national can be found.
+
+Postal address:
+Roderick Murray-Smith,
+Department of Computing Science,
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+UK
+Fax. +44 141 330 4913
+http://www.dcs.gla.ac.uk/~rod
+
+
+
+

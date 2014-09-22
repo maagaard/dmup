@@ -1,0 +1,9 @@
+DTU course 028200 is taught by Mr. Bartlomiej Wilkowski, 
+Mr. Marcin Marek Szewczyk & Finn Årup Nielsen, Ph.D. Some of aspects
+of the course are: machine learning and web 2.0. The telephone to Finn
+is (+45) 4525 3921, and his email is fn@imm.dtu.dk. A book
+published by O'Reilly called 'Programming Collective 
+Intelligence' might be useful. It costs $39.99 or 285.00 kroner in
+Polyteknisk Boghandle. Is 'Text Processing in Python' appropriate for
+the course? Perhaps! The constructor function in Python is called
+"__init__()". fMRI will not be a topic of the course.

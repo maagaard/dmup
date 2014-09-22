@@ -1,0 +1,56 @@
+
+
+From amc@dsp2.dspnet.com Thu Nov 18 02:54:31 MET 1999
+Received: from dsp2.dspnet.com ([198.3.252.25])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id CAA29910
+	for <fnielsen@eivind.imm.dtu.dk>; Thu, 18 Nov 1999 02:54:29 +0100 (MET)
+Received: (from amc@localhost)
+	by dsp2.dspnet.com (8.8.7/8.8.7) id WAA22450
+	for fnielsen@eivind.imm.dtu.dk; Wed, 17 Nov 1999 22:02:35 -0500
+Date: Wed, 17 Nov 1999 22:02:35 -0500
+From: Applied Microsystems <amc@dsp2.dspnet.com>
+Message-Id: <199911180302.WAA22450@dsp2.dspnet.com>
+To: fnielsen@eivind.imm.dtu.dk
+Subject: Shrink the Debug Cycle with AMCs LiveCODE!
+Status: RO
+X-Status: 
+
+Analyze Trace Interactively
+Fix Code On-The-Fly
+Check out LiveCODE, Win a DVD Player!
+
+As many software developers know, debugging an application while
+trying to meet critical time-to-market and quality pressures can
+be a tedious undertaking. Finding those intermittent bugs that only
+occur at run-time is nearly impossible. Applied Microsystems 
+introduces LiveCODE, a new software debug tool that enables 
+developers to trace execution history, as well as insert statements 
+into the executable, all while the applications RUNS IN-TARGET!
+LiveCODE dramatically increases developer productivity by liminating 
+time consuming breakpoint-single steps and "printf" 
+compile/link/load cycles during the traditional debug process.
+
+For a LiveCODE product tour and a chance to win a DVD player, visit
+http://www.amc.com/livecode
+
+About Applied Microsystems
+(http://www.amc.com) (1-800-426-3925) (mailto:getinfo@amc.com)
+AMC leads the market in providing a broad range of development
+tools for engineers who design, debug and test embedded systems. 
+AMC's goal is to help engineers develop high-reliability products 
+much faster at a lower cost-per-engineer via an optimum balance of 
+software and hardware-enhanced tools along with services. AMC's 
+embedded development solutions include:
+
+- CodeOPTIX high-level software visibility tools based on 
+  instrumentation for application software verification, analysis 
+  and test as well as in-target, on-the-fly debugging;
+
+- In-circuit emulators, from low-cost models for software engineers, 
+  to full-featured models for software and hardware development;
+
+- RTOS solutions including support for WindRiver's VxWorks®, 
+  Integrated Systems' pSOS™, and Lynx Real-Time Systems' LynxOS™;
+
+- A consulting services group that provides customers with solutions to 
+  fit their unique development environment, toolchain and RTOS.

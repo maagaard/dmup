@@ -1,0 +1,197 @@
+
+
+From robertl@cwi.nl Tue Nov  9 20:09:29 MET 1999
+Received: from hera.cwi.nl (hera.cwi.nl [192.16.191.1])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id UAA11537
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Nov 1999 20:09:28 +0100 (MET)
+Received: from medusa.cwi.nl (medusa.cwi.nl [192.16.196.7]) by hera.cwi.nl with ESMTP
+	id UAA00821 for <fnielsen@eivind.imm.dtu.dk>; Tue, 9 Nov 1999 20:10:27 +0100 (MET)
+Received: by medusa.cwi.nl 
+	id UAA787901; Tue, 9 Nov 1999 20:10:26 +0100 (MET)
+Date: Tue, 9 Nov 1999 20:10:26 +0100 (MET)
+From: Robert.van.Liere@cwi.nl
+Message-Id: <UTC199911091910.UAA787901.robertl@medusa.cwi.nl>
+To: fnielsen@eivind.imm.dtu.dk
+Status: RO
+X-Status: 
+
+
+Second and LAST call for papers. ONLY three weeks left !
+Our apologies for cross-postings.
+
+      _____________________________________________________________
+     
+     
+                ***   C A L L   F O R   P A P E R S   ***    
+     
+       Joint EUROGRAPHICS - IEEE TCVG Symposium on Visualization
+     
+               May 29-31, 2000,  Amsterdam, the Netherlands
+      _____________________________________________________________
+     
+                         http://www.cwi.nl/vissym00
+
+
+Aims and Scope
+--------------
+
+Following nine Eurographics workshops on Visualization in Scientific Computing
+and the Eurographics - IEEE TCVG Symposium on Visualization in 1999, we invite
+you to participate in the second 
+
+        Joint Eurographics - IEEE TCVG Symposium on Visualization
+
+Papers and case studies will form the scientific content of the the event.
+Papers are invited that present research results from all areas 
+of visualization. Case studies report on practical applications of 
+visualization to data analysis.
+
+Suggested topics for research papers include, but are not limited to :
+
+- Flow visualization
+- Information visualization
+- Human factors in visualization
+- Large data sets
+- Volume rendering
+- Internet-based visualization
+- User interaction techniques
+- Multi-Variate visualization
+- Surface extraction
+- Data base visualization
+- Visualization systems
+- Multi resolution techniques
+
+Case studies are invited from any application area, including:
+Physics, Aerospace, Automotive, Biomedicine, Chemistry,
+Molecular Biology, Finance, Mathematics, Hypermedia Structures,
+Data Mining.
+
+Accepted papers and case studies will be published in a book by
+Springer-Verlag. 
+
+
+Important Dates
+---------------
+
+ 3 December 1999 : Paper submission deadline
+17 January  2000 : Notification of acceptance
+18 February 2000 : Camera ready copies
+29-31 May   2000 : EG-IEEE VisSym'00
+
+
+Paper Submission
+----------------
+
+Authors are requested to prepare their contribution as a full paper.
+Accepted papers will be published in a book by Springer-Verlag. 
+Accepted research and case study papers are limited to 10 pages. In the
+book one additional page of color plates per paper is available. 
+Further instructions for the preparation and uploading of papers
+are available via http://www.cwi.nl/vissym00
+
+If you are not able to upload your paper electronically
+you alternatively can send two copies of the full paper
+including figures and images by regular mail to  
+Conference co-chair Robert van Liere (see address below)
+
+
+Program Committee
+-----------------
+
+ * Dirk Bartz           Univ. of Tuebingen, Germany 
+ * Ken Brodlie          Univ. of Leeds, UK
+ * Daniel Cohen-Or      Tel Aviv University, Israel
+ * Sabine Coquillart    INRIA, France
+ * Roger Crawfis        Ohio State Univ. USA
+ * Stephen Eick         Visual Insights, USA
+ * Thomas Ertl          Univ. of Stuttgart, Germany
+ * Sarah Gibson         MERL, USA
+ * Michel Grave         ONERA Chatillon France 
+ * Eduard Groeller      Vienna Univ. of Technology, Austria 
+ * Markus Gross         ETH, Switzerland 
+ * Hans Hagen           Univ. of Kaiserslautern, Germany 
+ * Ivan Herman          CWI, the Netherlands
+ * Arie Kaufman         SUNY Stony Brook, USA 
+ * Daniel Keim          Univ. of Halle, Germany 
+ * David N. Kenwright   NASA, USA
+ * Wim de Leeuw CWI     the Netherlands
+ * Robert van Liere     CWI, the Netherlands
+ * Wilfrid Lefer        Univ. of Littoral, France
+ * Nelson Max           LLNL, USA   
+ * Robert Moorhead      Mississippi State Univ, USA 
+ * Gregory Nielson      Arizona State Univ., USA
+ * Hans-Georg Pagendarm DLR, Germany
+ * Hanspeter Pfister    MERL, USA
+ * Frits Post           Delft Univ. of Technology, the Netherlands 
+ * William Ribarsky     Georgia Inst. of Technology, USA
+ * Martin Rumpf         Univ. of Bonn, Germany
+ * Georgios Sakas       FHG, Germany 
+ * Roberto Scopigno     IEI-CNR Pisa, Italy 
+ * Deborah Silver       Rutgers University, USA
+ * Pavel Slavik         Czech Technical Univ., Czech Republic 
+ * Robert Spence        Imperial College London, UK
+ * Hans Spoelder        Vrije Universiteit Amsterdam, the Netherlands 
+ * Jarke van Wijk       Eindhoven Univ. of Technology, the Netherlands
+
+
+EG-IEEE VisSym'00 Committee
+---------------------------
+
+Symposium Co-Chairs:
+        Robert van Liere, Center for Mathematics and Computer Science
+        Ivan Herman, Center for Mathematics and Computer Science
+        William Ribarsky, College of Computing, Georgia Institute of Technology
+
+Papers Co-Chairs:
+        Frits Post,Technical University Delft
+        Jarke van Wijk, Technical University Eindhoven
+
+Local organization co-chairs:
+        Wim de Leeuw, Center for Mathematics and Computer Science
+        Guy Melancon, Center for Mathematics and Computer Science
+
+
+Symposium Venue and Format
+--------------------------
+
+The event will be held in Amsterdam at the Center for Mathematics and 
+Computer Science. The event is open to all those with an interest in 
+visualization. Students, in particular, are encouraged to participate.
+The three day symposium will be organized as an assembly of plenary 
+presentations.  Invited presentations will be included.
+
+
+Related Events
+--------------
+
+VisSym'00 is followed by:
+
+6th Eurographics Workshop on Virtual Environments. This workshop will 
+be held on June 1st and 2nd also at the Center for Mathematics and 
+Computer Science.
+
+
+Contact
+-------
+
+Any questions concerning the goals, scope and organization can 
+be addressed to: vissym00@cwi.nl
+
+or to: 
+
+Robert van Liere
+Symposium Co-Chair of VisSym '00
+Center for Mathematics and Computer Science
+Department of Software Engineering
+Kruislaan 413
+1098 SJ, Amsterdam
+The Netherlands
+email: robertl@cwi.nl
+tel: +31 20 5924118
+fax: +31 20 5924199
+
+Robert van Liere
+Department of Software Engineering
+Center of Mathematics and Computer Science
+Amsterdam, The Netherlands
+<http://www.cwi.nl/~robertl>

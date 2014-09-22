@@ -1,0 +1,148 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Nov 30 01:41:38 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id BAA11842;
+	Tue, 30 Nov 1999 01:41:28 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa06824;
+          29 Nov 99 15:50 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa06821;
+          29 Nov 99 15:37 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa17819;
+          29 Nov 99 15:37 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13986; 28 Nov 99 18:52 EST
+Received: from uspfsc.ifqsc.sc.usp.br by cs.cmu.edu id aa29236;
+          28 Nov 99 18:52 EST
+Received: from localhost (luciano@localhost)
+	by ultra3000.if.sc.usp.br (8.8.8/8.8.8) with SMTP id VAA19645;
+	Sun, 28 Nov 1999 21:40:54 -0200 (EDT)
+Date: Sun, 28 Nov 1999 21:40:54 -0200 (EDT)
+From: Luciano Da Fontoura Costa <luciano@if.sc.usp.br>
+To: afuzzy@ea5.yz.yamagata-u.ac.jp, biomedical-sig-inns@msc.anl.gov,
+        cells@tce.ing.uniroma1.it, cogneuro@ptolemy.arc.nasa.gov,
+        cogpsy-request@phil.ruu.nl, comp-neuro@smaug.bbb.caltech.edu,
+        Connectionists@cs.cmu.edu, EP-List@magenta.me.fau.edu,
+        fuzzy-mail@dbai.tuwien.ac.at, GA-List@AIC.NRL.NAVY.MIL, lug@lisp.de,
+        MPSYCH-L@brownvm.brown.edu, nafips-l@sphinx.Gsu.EDU,
+        NEURO-1@UICVM.UIC.EDU, neuron-request@CATTELL.psych.upenn.edu,
+        neuropl@plearn.edu.pl, publish@wavelet.org
+Subject: Research opportunities
+Message-ID: <Pine.SOL.3.96.991128214012.19199D-100000@ultra3000>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Dear Sir/Madam:  Please help disseminating the following
+message:
+
+====================================================================
+
+OPPORTUNITY FOR POST-GRAD, POST-DOC AND SABBATICAL STUDIES
+
+Cybernetic Vision Research Group
+IFSC, University of Sco Paulo,
+Caixa Postal 369
+Sco Carlos, SP, 13560-970
+Brazil
+____________________________________________________________________
+
+We would like to communicate about possibilities for post-grad,
+post-doc and sabbatical programs at the Cybernetic Vision Research
+Group, University of Sco Paulo, Brazil.  Additional information is
+presented in the following:
+
+THE CYBERNETIC VISION RESEARCH GROUP:  Started in 1993, the
+Cybernetic Vision Research Group has become nationally and
+internationally recognized for research in the areas of shape
+analysis, computer and biological vision, and computational
+neuroscience.  The group currently includes 15 researchers, most
+of them MSc and PhD students, each with access to individual
+computational resources.  The group is part of the Instituto de
+Fisica de Sao Carlos, which has modern computational and network
+resources (alpha workstations) as well as a well-equipped library.
+Additional information can be found at the following homepages:
+
+*** Group homepage:
+           http://cyvision.if.sc.usp.br/
+*** Luciano's personal homepage:
+           http://www.if.sc.usp.br/visao/group/members/luciano/luciano.htm
+
+SAO CARLOS:  Sao Carlos, where the group is located, is a small and
+quiet town (about 150 000 inhabitants) in the heart of the state of
+Sao Paulo, in Brazil.  The university campus is within a residential
+area, where accommodation is very affordable. Our town, which includes
+two major Brazilian universities as well as many small industries, is
+know as one of the most prominent Brazilian high-technology centers.
+Sao Carlos is not far from Sao Paulo (230km), the state capital, where
+flights to most Brazilian and international destinations can be found.
+Weather is mild (no snow throughout the year), with an average
+temperature around 20C.
+
+RESEARCH POSSIBILITIES:  Well-motivated and dynamic students and
+researchers, with background in the most diverse areas - including
+Physics, Mathematics, Computer Science, Engineering, Biology, and
+Medicine - are  welcome to apply for studies in our group.  The full
+time MSc and PhD programs last up to 2 and 4 years, respectively, but
+it is possible to proceed directly to PhD.  Post-doc and sabbatical
+programs can last from a few months to one year or more.  It is
+possible to apply for Brazilian sponsorship covering travelling
+and/or the basic living expenses.
+
+Research possibilities include but are not limited to the following:
+
+*1* Neuromorphology and neuromorphic modeling: development of new
+neural shape measures, validation, and application to classification
+of neural cells and neuromorphic modeling.  We are particularly
+interested in investigating how neural shapes constrain and help
+define neural behavior;
+*2* Scale space shape representations in 2D and 3D, including
+multiresolution curvature and skeletonization, singularity theory,
+differential geometry and differential equations;
+*3* Visual inspection and image analysis applied to microscopy;
+*4* Mathematical physics applications to image analysis and vision;
+*5* Datamining and its applications to visual design, visual
+quality assessment, neural modeling, and shape analysis.
+
+Candidates should contact Prof Luciano da F. Costa at
+luciano@if.sc.usp.br, indicating the specific interests and including
+curricular information as well as at least three addresses for
+recommendation purposes.
+
+=====================================================================
+Prof. Luciano da Fontoura Costa
+Coordinator - Cybernetic Vision Research Group
+DFI-IFSC, Universidade de Sao Paulo
+Caixa Postal 369
+Sao Carlos, SP
+13560-970
+Brazil
+FAX: +55 162 73 9879  or  +55 162 71 3616
+
+e-mail:  
+   luciano@if.sc.usp.br
+Group homepage:
+   http://cyvision.if.sc.usp.br/
+Personal homepage: 
+   http://www.if.sc.usp.br/visao/group/members/luciano/luciano.htm
+---------------------------------------------------------------------
+
+Forthcoming book:  Shape Analysis and Recognition (CRC Press)
+   http://www.ime.usp.br/~cesar/shape_crc/
+
+Have you been to The Scientist?
+   http://www.the-scientist.library.upenn.edu/index.html
+
+BMCV2000:
+   http://image.korea.ac.kr/BMCV2000/
+
+=====================================================================
+
+END OF MESSAGE
+==============
+
+
+
+
+

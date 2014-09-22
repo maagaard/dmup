@@ -1,0 +1,68 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Nov 20 00:53:13 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA11546;
+	Fri, 20 Nov 1998 00:53:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa08851;
+          19 Nov 98 13:44 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08849;
+          19 Nov 98 13:33 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa14555;
+          19 Nov 98 13:33 EST
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa27234; 19 Nov 98 5:57 EST
+Received: from hermes.ex.ac.uk by EDRC.CMU.EDU id aa19521; 19 Nov 98 5:56:46 EST
+Received: from cspc62 [144.173.14.162] by hermes via SMTP (KAA24011); Thu, 19 Nov 1998 10:56:30 GMT
+From: Sameer Singh <S.Singh@exeter.ac.uk>
+Sender: S.Singh@exeter.ac.uk
+To: connectionists@cs.cmu.edu
+Subject: PhD Studentship in Financial Forecasting Using Neural Networks
+Message-ID: <SIMEON.9811191033.A@cspc62.ex.ac.uk>
+Date: Thu, 19 Nov 1998 10:53:33 +0000 (GMT Standard Time)
+Priority: NORMAL
+X-Mailer: Simeon for Win32 Version 4.1.2 Build (32)
+X-Authentication: IMSP
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Status: RO
+X-Status: 
+
+PhD STUDENTSHIP IN FINANCIAL FORECASTING
+
+SCHOOL OF ENGINEERING AND COMPUTER SCIENCE
+
+Department of Computer Science
+
+Applications are now invited for a PhD studentship in the 
+area of "Financial Forecasting using Neural Networks". The 
+project will develop student skills in areas including 
+neural networks, financial markets, forecasting, and 
+pattern recognition.
+
+Candidates for this studentship should have a degree in 
+computer science, engineering or a related subject. They 
+should have programming skills in C/C++/JAVA and knowledge 
+of unix operating system. The studentships are only open to 
+UK and EU applicants, the latter being on a fees-only 
+basis. The successful candidate should expect to take up 
+the studentships no later than 1 February, 1999.
+
+Applicants should send a CV, including the names and 
+addresses of two referees, to Dr Sameer Singh, Department 
+of Computer Science, University of Exeter, Exeter EX4 4PT, 
+UK. The applications can also be emailed at 
+s.singh@exeter.ac.uk and informal enquiries can be made at 
++44-1392-264053.
+
+
+--------------------------------------------
+Sameer Singh
+Department of Computer Science
+University of Exeter
+Exeter EX4 4PT
+UK
+tel: +44-1392-264053
+fax: +44-1392-264067
+email: s.singh@exeter.ac.uk
+web: http://www.dcs.exeter.ac.uk/academics/sameer
+--------------------------------------------

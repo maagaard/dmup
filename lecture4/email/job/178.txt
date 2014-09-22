@@ -1,0 +1,78 @@
+
+
+From spm-request@mailbase.ac.uk Wed Sep  1 04:44:46 MET 1999
+Received: from mailout2.mailbase.ac.uk (mailout2.mailbase.ac.uk [128.240.226.12])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id EAA28011
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 1 Sep 1999 04:44:45 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout2.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id DAA06709;
+	Wed, 1 Sep 1999 03:38:08 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id DAA26476;
+        Wed, 1 Sep 1999 03:36:31 +0100 (BST)
+Received: from math.la.asu.edu (kchen@math.la.asu.edu [129.219.51.75]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id DAA26470;
+        Wed, 1 Sep 1999 03:36:27 +0100 (BST)
+Received: from localhost (kchen@localhost) by math.la.asu.edu with ESMTP (8.8.6 (PHNE_17135)/8.7.1) id TAA26707 for <spm@mailbase.ac.uk>; Tue, 31 Aug 1999 19:36:19 -0700 (MST)
+Date: Tue, 31 Aug 1999 19:36:19 -0700 (MST)
+Message-ID: <Pine.HPX.4.10.9908311931340.26480-100000@math.la.asu.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: postdoc for Alz study (PET/MRI)
+From: Kewei Chen <kchen@math.la.asu.edu>
+To: SPM broadcast <spm@mailbase.ac.uk>
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Kewei Chen <kchen@math.la.asu.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+
+Postdoc position available for Alzheimer study with the use
+of neuro-imaging (PET/MRI) techniques.
+
+We invite applications for a postdoctoral research fellow with a joint
+position in the Departments of Mathematics and Computer Science. The
+position, which is funded under the Computerized Brain Imaging Project in
+conjunction with the Arizona Alzheimer's Disease Research Center, is open
+immediately and is initially funded until June 30, 2000.  Extension of the
+appointment is contingent on renewed funding.
+
+The successful candidate will collaborate with a research team of faculty and
+graduate students from the departments of Computer Science and Mathematics on
+the development of high performance serial and parallel numerical algorithms
+for neuro-imaging studies.
+
+All candidates must have a recent doctoral degree in mathematics, computer
+science, computational science, or closely related area with an emphasis in
+computational mathematics and evidence of strong proficiency in high-level
+programming in a Unix environment.  Experience in the design and
+implementation of algorithms for image deformation, segmentation or other
+specialized image-processing applications for bio-medical imaging studies is
+desired. Familiarity with parallel algorithms and architectures as well as a
+strong working knowledge of C and/or Fortran is also desirable.
+
+Additional information about this position can be obtained by contacting
+Professor Renaut, renaut@asu.edu, Professor Farin, farin@asu.edu or Professor
+Chen, kchen@IMAP1.ASU.EDU.
+
+Applicants must send their full curriculum vita including a list of
+publications, a list of three referees and a statement addressing their
+research interests and agenda to:
+     Computational Math Postdoctoral Fellow
+     Attn :  Professor Rosemary Renaut, Chair
+     Department of Mathematics
+     Box 871804
+     Arizona State University
+     Tempe, AZ 85287-1804
+
+Application Deadline: Review of the applications will begin on September 1,
+1999 and will continue weekly until the position is filled.
+AA/EOE.
+
+
+

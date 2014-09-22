@@ -1,0 +1,109 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Dec 29 22:26:05 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id WAA21239;
+	Tue, 29 Dec 1998 22:26:00 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa00508;
+          29 Dec 98 14:03 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa00506;
+          29 Dec 98 13:49 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa02568;
+          29 Dec 98 13:49 EST
+Replied: Mon, 28 Dec 1998 17:20:57 -0500
+Replied: "Sameer Singh <S.Singh@exeter.ac.uk> "
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa16171; 22 Dec 98 12:51 EST
+Received: from hermes.ex.ac.uk by RI.CMU.EDU id aa10620; 22 Dec 98 12:50:51 EST
+Received: from cspc62 [144.173.14.162] by hermes via SMTP (RAA09922); Tue, 22 Dec 1998 17:50:48 GMT
+From: Sameer Singh <S.Singh@exeter.ac.uk>
+Sender: S.Singh@exeter.ac.uk
+To: connectionists@cs.cmu.edu
+Subject: FELLOWSHIP
+Message-ID: <SIMEON.9812221756.W@cspc62.ex.ac.uk>
+Date: Tue, 22 Dec 1998 17:44:56 +0000 (GMT Standard Time)
+Priority: NORMAL
+X-Mailer: Simeon for Win32 Version 4.1.2 Build (32)
+X-Authentication: IMSP
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Status: RO
+X-Status: 
+
+PANN SENIOR RESEARCH FELLOWSHIP
+
+Pattern Analysis and Neural Networks research, Exeter 
+University, UK
+http://www.dcs.exeter.ac.uk/research/PANN
+
+Pattern Analysis and Applications research group at Exeter 
+University has research interests in image processing, 
+pattern recognition and neural networks. The research group 
+provides, from time to time, finances to support Faculty 
+members from other research institutions to visit and work 
+on projects of mutual interest. The 1999 Visiting 
+Fellowship will provide for return airfares and full 
+accommodation costs in Exeter for a period of up to one 
+year. It is expected that senior academics who are taking a 
+study leave or post-doctoral staff who wish to expand their 
+research interests in our laboratory will find this 
+appointment suitable. Normally, visiting scientists will 
+receive partial or full salaries at their home 
+institutions. The 1999 fellowship must be taken on or 
+before 1 October 1999; the actual starting date is flexible 
+and can be negotiated with the group Director.
+
+For the 1999 fellowship, we invite interested candidates in 
+the area of "Adaptive Image Analysis". An abstract of our 
+current interests is appended at the end of this message. 
+We are particularly interested in candidates who would 
+pursue research in any of the areas mentioned in the 
+abstract below. We would specially encourage those 
+complement the expertise available within our research 
+group, for example those who have an interest in robotics 
+and learning in image processing. The exact nature of 
+research undertaken can be discussed through email. 
+
+One of the key aims of the fellowship is to encourage 
+collaboration between PANN research group and other 
+scientists working in similar areas. This is particularly 
+useful for stimulating further research activity through 
+research grants within the UK and European communities. 
+Since the proposed project is of significance to defence, 
+transportation and space agencies, this fellowship will 
+provide excellent contacts with the industry for further 
+support in this research area.
+
+If you are interested in making an application, then please 
+send a copy of your CV to Sameer Singh at 
+s.singh@exeter.ac.uk at the earliest possible opportunity. 
+Please note that the fellowship is only open at the 
+post-doctoral level.
+
+Adaptive Scene Analysis
+
+We are currently interested in researching intelligent 
+scene analysis on a number of sub-areas in collaboration 
+with the Defence Evaluation and Research Agency. These 
+research areas include adaptive classifier development, 
+modelling feedback mechanisms in image processing at 
+various levels, optimal feature selection, dynamic control, 
+development of contextual, spatial and temporal awareness 
+models, self-assessment, validation and learning mechanisms 
+and building robotic systems that incorporate such vision 
+infrastructure for navigation and control. 
+
+___
+
+
+--------------------------------------------
+Sameer Singh
+Director, PANN Research
+Department of Computer Science
+University of Exeter
+Exeter EX4 4PT
+UK
+tel: +44-1392-264053
+fax: +44-1392-264067
+email: s.singh@exeter.ac.uk
+web: http://www.dcs.exeter.ac.uk/academics/sameer
+--------------------------------------------

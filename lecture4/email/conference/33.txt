@@ -1,0 +1,409 @@
+
+
+From icsc@compusmart.ab.ca Wed Sep 24 12:15:07 MET 1997
+Received: from bernie.compusmart.ab.ca (root@bernie.compusmart.ab.ca [199.185.130.34]) by eivind.imm.dtu.dk with ESMTP (8.7.5/8.7.3) id MAA04009 for <fnielsen@eivind.imm.dtu.dk>; Wed, 24 Sep 1997 12:15:05 +0200 (METDST)
+Received: from icsc.compusmart.ab.ca (remote205.compusmart.ab.ca [206.75.84.30]) by bernie.compusmart.ab.ca (8.8.5/8.8.5) with SMTP id RAA07102; Tue, 23 Sep 1997 17:13:28 -0600 (MDT)
+Message-Id: <3.0.1.32.19970923171332.006a2d64@mail.compusmart.ab.ca>
+X-Sender: icscpl@mail.compusmart.ab.ca (Unverified)
+X-Mailer: Windows Eudora Pro Version 3.0.1 (32)
+Date: Tue, 23 Sep 1997 17:13:32 -0600
+To: Prospective Authors <icsc@compusmart.ab.ca>
+From: ICSC Planning <icsc@compusmart.ab.ca>
+Subject: NC'98 / NEURAL COMPUTATION
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Status: RO
+X-Status: 
+
+ANNOUNCEMENT / CALL FOR PAPERS
+
+International ICSC/IFAC Symposium on
+NEURAL COMPUTATION  /  NC'98
+To be held at the Technical University of Vienna
+September 23 - 25, 1998
+
+http://www.compusmart.ab.ca/icsc/nc98.htm
+
+
+
+SPONSORS
+
+- IFAC International Federation of Automatic Control
+- IEEE Institute of Electrical & Electronics Engineers
+  Section Austria 
+- OeCG Oesterreichische Computer Gesellschaft
+- OeVE Oesterreichischer Verband fuer Elektrotechnik
+- Siemens AG, Vienna, Austria
+- TU University of Technology, Vienna
+- ICSC International Computer Science Conventions,
+  Canada/Switzerland
+
+*************************************************
+
+
+SYMPOSIUM ORGANIZATION
+
+- HONORARY CHAIR
+  Prof. Tomaso Poggio
+  Co-Director
+  Center for Biological and Computational Learning
+  Massachusetts Institute of Technology, E25-201
+  Cambridge, MA 02139 / USA
+  Email:    tp-temp@ai.mit.edu
+  Web Site: http://www.ai.mit.edu/people/poggio/
+
+
+- SYMPOSIUM CHAIR
+  Dr. Michael Heiss
+  ECANSE
+  Siemens AG Austria
+  Gudrunstrasse 11
+  A-1100 Vienna / Austria
+  Phone:    +43-1-1707-47149
+  Fax:      +43-1-1707-56256
+  Email:    michael.heiss@siemens.at
+            m.heiss@ieee.org
+  Web Site: http://www.siemens.at/~ecanse/heiss.html
+
+
+- SYMPOSIUM ORGANIZER
+  ICSC International Computer Science Conventions
+  P.O. Box 279
+  Millet, AB T0C 1Z0 / Canada
+  Phone:    +1-403-387-3546
+  Fax:      +1-403-387-4329
+  Email:    icsc@compusmart.ab.ca
+  Web Site: http://www.compusmart.ab.ca/icsc
+
+
+- PROGRAM COMMITTEE
+  Shai Ben-David, Israel
+  Horst Bischof, Austria
+  Hans H. Bothe, Germany
+  Martin Brown, U.K.
+  Frans M. Coetzee, USA
+  Juan Lopez Coronado, Spain
+  Georg Dorffner, Austria
+  K. Fukushima, Japan
+  Wulfram Gertner, Switzerland
+  Stan Gielen, Netherlands
+  C. Lee Giles, USA
+  C.J. Harris, U.K.
+  J. Herault, France
+  Kurt Hornik, Austria
+  Nikola Kasabov, New Zealand
+  Bart Kosko, USA
+  Fa-Long Luo, Germany
+  Wolfgang Maass, Austria
+  Giuseppe Martinelli, Italy
+  Fazel Naghdy, Australia
+  Sankar K. Pal, India
+  Y.H. Pao, USA
+  Martin Pottmann, USA
+  Raul Rojas, Germany
+  Tariq Samad, USA
+  V. David Sanchez A., USA
+  Robert Sanner, USA 
+  Bernd Schuermann, Germany
+  J.S. Shawe-Taylor, U.K.
+  Peter Sincak, Slovakia
+  George D. Smith, U.K. 
+  Nigel Steele, U.K.
+  Piotr Szczepaniak, Poland
+  Csaba Szepesvzari, Hungary
+  Henning Tolle, Germany
+  S. Usui, Japan
+  J. Vandewalle, Belgium
+  A. Weinmann, Austria 
+  T. Yamakawa, Japan
+
+The symposium is organized under the honorary patronage of Prof. Alexander
+Weinmann, University of Technology, Vienna.
+
+*************************************************
+
+
+NATIONAL ORGANIZING COMMITTEE
+
+M. Budil - T. Gruenberger - E. Thurner - B. Knapp - M. Kuehrer - C. Stroh
+
+*************************************************
+
+
+PURPOSE OF THE CONFERENCE
+
+NC’98 will bring together scientists and practitioners in the field of
+Artificial Neural Networks. The conference will concentrate on the
+computational aspects of Neural Networks in the widest sense, from
+convergence theory, numerical aspects and hybrid systems through to neural
+software and hardware. In addition the conference will provide a venue for
+the discussion of commercial and other practical applications of the
+technology.
+
+It is hoped that participants will have a common interest in, and a
+fascination for, self-learning systems in nature, their theoretical
+modeling and interpretation, and in their computational implementation
+
+*************************************************
+
+
+TOPICS
+
+Contributions are sought in areas based on the list below, which is
+indicative only. Contributions from new applications areas will be
+particularly welcome.
+
+Neural Network Theory
+- Mathematical, computational background
+- Mathematical theories of networks in dynamical systems
+- Neural network architectures and algorithms
+- Neural models for cognitive science and brain functions
+- Convergence
+- Numerical aspects
+- Statistical properties
+- Artificial associative memories
+- Self-organization
+- Hybrid systems
+- Neuro-Fuzzy
+- Knowledge extraction from neural networks
+- Genetic algorithms
+- Optimization
+- Radial basis function networks
+- CMAC
+- Pre-filtering and pre-selection of input-data
+- Chaos-theoretical methods for data evaluation
+- Vector quantization
+
+Tools and Hardware Implementation
+- Rapid prototyping tools
+- Graphical programming tools
+- Simulation and analyzation tools
+- Heuristics for neural network design
+- Neuro-computers
+- Electronic and optic implementations
+- Neuro-chips
+- Spiking-Neurons
+- Parallel processing
+
+Applications
+- Pattern recognition
+- Signal processing
+- Neural filters
+- Speech recognition
+- Robotics
+- Control
+- System Identification
+- Time series prediction
+- Sales forecast
+- Electrical power load forecast
+- X-ray image analysis
+
+*************************************************
+
+
+SCIENTIFIC PROGRAM
+
+Prof. Tomaso Poggio, Honarary Chairman of NC'98 will give an invited
+plenary talk on 'Learning Sparse Representations'.
+
+NC'98 will include other invited plenary talks, contributed sessions,
+invited sessions, poster sessions, workshops and demonstrations. Various
+projects are under consideration.
+
+*************************************************
+
+
+WORKSHOPS, TUTORIALS AND OTHER CONTRIBUTIONS
+
+Proposals should be submitted as soon as possible to the Symposium Chairman
+or the Symposium Organizer. Deadline for proposals: January 31, 1998.
+
+Tutorials and workshops will partly be organized prior to the conference on
+September 21-22, 1998.
+
+*************************************************
+
+
+EXHIBITION
+
+An exhibition may be arranged at the conference site, displaying products,
+services and literature related to the conference topics technolgy.
+Interested exhibitors are requested to contact the Symposium Organizers for
+further information.
+
+Conference participants may display any written information related to the
+conference topic at the information desk (papers, call for papers, product
+information). For non-participants we offer a handling charge of US$ 100
+for each 5 kilograms.
+
+*************************************************
+
+
+SUBMISSION OF PAPERS
+
+Prospective authors are requested to send an abstract of 1000 - 2000 words
+for review by the International Program Committee. All abstracts must be
+written in English, starting with a succinct statement of the problem, the
+results achieved, their significance and a comparison with previous work. 
+
+The abstract should also include:
+- Title of conference (NC'98)
+- Type of paper (regular, demonstration, poster, tutorial or invited)
+- Title of proposed paper
+- Authors names, affiliations, addresses
+- Name of author to contact for correspondence
+- E-mail address and fax # of contact author
+- Topics which best describe the paper (max. 5 keywords)
+
+Contributions are welcome from those working in industry and having
+experience in the topics of this conference as well as from academics. The
+conference language is English. Tutorial papers and demonstrations are also
+encouraged.
+
+It is recommended to submit abstracts by electronic mail to 
+
+icsc@compusmart.ab.ca 
+
+or else by fax or mail (2 copies) to the following address:
+
+  ICSC Canada 
+  P.O. Box 279
+  Millet, Alberta T0C 1Z0
+  Canada
+  Email: icsc@compusmart.ab.ca
+  Fax: +1-403-387-4329
+
+Submissions for poster presentations (minimum 4 pages) are accepted until
+June 30, 1997. These papers will neither be reviewed, nor included in the
+proceedings and later amendments are still possible.
+
+*************************************************
+
+
+DEMONSTRATION SESSIONS
+
+Instead of submitting a paper, proposals for a 20 minute demonstration of a
+practical application can also be submitted. A regular 220V power outlet
+and a VHS-video recorder will be available at the demonstration room. The
+proposal should follow the above abstract submission guidelines. Only the
+abstract of the demonstration will be printed in the conference proceedings.
+
+*************************************************
+
+
+POSTER SESSIONS
+
+Poster presentations are encouraged for people who whish to receive peer
+feedback on research, which is not yet ready for publication. Practical
+examples of applied research are particularly welcome. Poster sessions will
+allow the presentation and discussion of respective papers.
+
+Papers for poster presentations should contain at least 4 pages and be
+submitted to the symposium organizers until June 30, 1998 to be included in
+the conference program. These papers will neither be reviewed, nor included
+in the proceedings and later amendments are thus still possible.
+
+*************************************************
+
+
+INVITED SESSIONS
+
+Prospective organizers of invited sessions are requested to send a session
+proposal (consisting of 4-5 invited paper abstracts, the recommended
+session-chair and co-chair, as well as a short statement describing the
+title and the purpose of the session to the Symposium Chairman or the
+Symposium Organizer. All invited sessions should start with a tutorial paper.
+
+*************************************************
+
+
+SIEMENS BEST PRESENTATION AWARD
+
+The best presentation of each session will be honored with a best
+presentation award.
+
+*************************************************
+
+
+PUBLICATIONS
+
+Conference proceedings (including all accepted papers) will be published by
+ICSC Academic Press and be available for the delegates at the symposium in
+printed form or on CD-ROM.
+
+Authors of a selected number of innovative papers will be invited to submit
+extended manuscripts for publication in a special issue of the Elsevier
+Journal on Neurocomputing.
+
+*************************************************
+
+
+IMPORTANT DATES
+
+- Submission of Abstracts:            January 31, 1998
+- Notification of Acceptance:	        March 31, 1998
+- Delivery of full papers:	        May 31, 1998
+- Submission of poster presentations: June 30, 1998
+- Tutorials and Workshops:            September 21-22, 1998
+- NC'98 Symposium:                    September 23-25, 1998
+
+*************************************************
+
+
+ACCOMMODATION
+
+Accommodation at reasonable rates will be available at nearby hotels. Full
+details will follow with the letters of acceptance.
+
+*************************************************
+
+
+SOCIAL AND TOURIST ACTIVITIES
+
+A social program, including a reception and a "Heurigen Dinner" will be
+organized and also be available for accompanying persons.
+
+Discover, why Vienna is one of the most favored conference cities worldwide.
+The month of September is the best time for a visit to Vienna. Visit the
+Stephansdom, relax at the prater where you can take a trip with the
+Riesenrad, eat the world's best pastries (e.g. the original Sacher-Torte)
+in one of the famous coffee houses, listen to an opera at the Vienna State
+Opera, or visit one of the many museums, such as the famous Klimt
+Collection in the Belvedere Castle.
+
+Post-conference tours to Wachau, Salzburg or Prag may be organized. Please
+mail your preferences to the symposium organizer.  
+
+Further tourist information is available from 
+
+http://www.aaf.or.at/tom/Wien/ 
+http://info.wien.at/e/index.htm 
+http://info.wien.at/e/wienkart.htm 
+http://austria-info.at/ 
+http://www.magwien.gv.at/gismap/cgi-bin/wwwgis/adrsuche/ 
+
+*************************************************
+
+
+FURTHER INFORMATION
+
+Full updated information is available from
+
+http://www.compusmart.ab.ca/icsc/nc98.htm 
+
+or contact
+
+- ICSC Canada, P.O. Box 279, Millet, Alberta T0C 1Z0, Canada
+  E-mail: icsc@compusmart.ab.ca
+  Fax:    +1-403-387-4329
+  Phone:  +1-403-387-3546
+
+- Dr. Michael Heiss, Symposium Chair NC'98
+  PSE NLT2 ECANSE, Siemens AG Austria, 
+  Gudrunstrasse 11, A-1100 Vienna, Austria
+  Email:  michael.heiss@siemens.at 
+  or:     m.heiss@ieee.org
+  Fax:    +43-1-1707-56256
+  Phone:  +43-1-1707-47149
+
+

@@ -1,0 +1,145 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Wed Apr 29 10:09:04 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id KAA12479;
+	Wed, 29 Apr 1998 10:08:37 +0200 (METDST)
+Received: by TELNET-1.SRV.CS.CMU.EDU id aa24677; 28 Apr 98 21:52:48 EDT
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa24506;
+          28 Apr 98 20:17:08 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa24502;
+          28 Apr 98 19:56:04 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22029;
+          28 Apr 98 19:55 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa24660; 28 Apr 98 7:57 EDT
+Received: from myelin.hut.fi by CS.CMU.EDU id aa10130; 28 Apr 98 7:57:17 EDT
+Received: (from aapo@localhost) by myelin.hut.fi (950413.SGI.8.6.12/950213.SGI.AUTOCF) id OAA06512; Tue, 28 Apr 1998 14:57:08 +0300
+Date: Tue, 28 Apr 1998 14:57:08 +0300
+Message-Id: <199804281157.OAA06512@myelin.hut.fi>
+From: Aapo Hyvarinen <aapo@myelin.hut.fi>
+To: connectionists@cs.cmu.edu
+Subject: ICA'99 call for papers
+Status: RO
+X-Status: 
+
+
+-- We apologize if you receive multiple copies of this message.
+
+
+
+
+                           First Call for Papers:
+
+                               -------------
+                                I C A ' 9 9
+                               -------------
+
+                         International Workshop on
+
+                       INDEPENDENT COMPONENT ANALYSIS
+                                    and
+                          BLIND SIGNAL SEPARATION
+
+                            January 11-15, 1999
+                              Aussois, France
+
+                         http://sig.enst.fr/~ica99
+
+                     Submission deadline: July 15, 1998
+
+----------------------------------------------------------------------------
+SCOPE
+----------------------------------------------------------------------------
+
+The workshop is devoted to recent advances in Independent Component Analysis
+and   Blind  Separation  of  Signals.   It  is  intended  to bring  together
+researchers   from  the  fields    of  artificial   neural networks,  signal
+processing,   statistics,  data analysis and  all other domains connected to
+information processing.
+
+We are soliciting contributions covering all aspects of ICA and BSS: theory,
+methods,  implementation and recent experimental  results. The workshop will
+feature  poster  and oral  presentations  (no  parallel sessions)   and many
+opportunities for exchanges and informal discussions.
+
+----------------------------------------------------------------------------
+SPECIAL  SESSIONS  
+----------------------------------------------------------------------------
+
+Three special sessions will be organized on ICA applications:
+
+T. Sejnowski,  Salk Institute,  USA:   Biomedical applications
+K. Torkkola, Motorola, Phoenix, USA:   Speech and audio applications
+Y. Deville,  UPS,  Toulouse, France:   General applications of ICA and BSS
+
+----------------------------------------------------------------------------
+VENUE
+----------------------------------------------------------------------------
+
+This  one-week   workshop  will be  held  in   Aussois,  a small ski  resort
+(alt. 1500m) in the magnificent mountains of La Vanoise in  the heart of the
+French Alpes. The venue offers all the  workshop facilities and we expect an
+enjoyable and productive `workshop atmosphere'.
+
+----------------------------------------------------------------------------
+SUBMISSION  and  PUBLICATION 
+----------------------------------------------------------------------------
+
+Submission information will be available from our web site:
+http://sig.enst.fr/~ica99
+
+Important dates:
+
+    July 15, 1998     Submission of *full* paper
+    Sep. 30, 1998     Notification of acceptance
+    Jan. 11-15, 1999  Workshop
+
+All  papers  presented at the  workshop will be  collected  in a  volume of
+proceedings, which will be distributed to the participants on site.
+
+----------------------------------------------------------------------------
+SCIENTIFIC COMMITTEE
+----------------------------------------------------------------------------
+
+Shun-ichi Amari        Brain Science Institute, RIKEN, Japan
+Tony Bell              Salk Institute, USA
+Andrzej Cichocki       Brain Science Institute, RIKEN, Japan
+Pierre Comon           Eurecom, France
+Gustave Deco           Siemens Research, Germany.
+Lieven De Lathauwer    Katholieke Universiteit Leuven, Belgium
+Colin Fyfe             University of Paisley, UK
+Simon Godsill          University of Cambridge, UK
+Jean-Louis Lacoume     Institut Nat. Polytechnique de Grenoble, France
+Ruey-Wen Liu           University of Notre Dame, USA
+Odile Macchi           CNRS/LSS, France
+Jean-Pierre Nadal      Ecole Normale Superieure, Paris, France
+Erkki Oja              Helsinki University of Technology, Finland
+Dinh-Tuan Pham         CNRS/IMAG, France
+Jitendra Tugnait       Auburn University, USA
+
+----------------------------------------------------------------------------
+ORGANIZATION
+----------------------------------------------------------------------------
+
+Organizers:
+Jean-Francois Cardoso  CNRS and ENST, Paris, France
+Christian Jutten       Institut Nat. Polytechnique de Grenoble, France 
+Philippe Loubaton      Universite de la Marne la Vallee, France
+
+Publicity:
+Aapo Hyvarinen         Helsinki University of Technology, Finland
+Lieven De Lathauwer    Katholieke Universiteit Leuven, Belgium
+
+----------------------------------------------------------------------------
+CONTACT INFORMATION
+----------------------------------------------------------------------------
+
+For more information contact:
+Jean-Francois Cardoso, ENST/SIG, 46 rue Barrault
+F-75634 Paris Cedex 13, France
+
+Internet:
+web site               http://sig.enst.fr/~ica99
+email                  ica99@sig.enst.fr
+
+----------------------------------------------------------------------------

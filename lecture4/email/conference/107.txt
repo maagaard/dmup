@@ -1,0 +1,146 @@
+
+
+From SKALA@kron.zcu.cz  Sat Jun  6 17:23:19 1998
+Received: from eros.zcu.cz (eros.zcu.cz [147.228.1.10])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with ESMTP id RAA17091
+	for <fnielsen@ei.dtu.dk>; Sat, 6 Jun 1998 17:23:17 +0200 (METDST)
+From: SKALA@kron.zcu.cz
+Received: from kron.zcu.cz (kron.zcu.cz [147.228.63.5])
+	by eros.zcu.cz (8.8.8/8.8.8) with ESMTP id RAA13695
+	for <fnielsen@ei.dtu.dk>; Sat, 6 Jun 1998 17:09:47 +0200 (MET DST)
+Received: from KRON/SpoolDir by kron.zcu.cz (Mercury 1.21);
+    6 Jun 98 17:09:47 +0100
+Received: from SpoolDir by KRON (Mercury 1.21); 6 Jun 98 17:08:42 +0100
+To: fnielsen@eivind.imm.dtu.dk
+Date:          Sat, 6 Jun 1998 17:08:42 MET
+Subject:       WSCG conf.,Plzen(Prague,Czech)
+Priority: normal
+X-mailer: Pegasus Mail v3.22
+Message-ID: <1696E476282@kron.zcu.cz>
+Status: RO
+X-Status: 
+
+----------------------------------------------------------------
+>>>     Sorry for duplicates - we lost all the data and just <<<
+>>>     recovering - to be removed from the list, please     <<<
+>>> REPLY to skala@kiv.zcu.cz  subj: REMOVE <e-mail address> <<<
+----------------------------------------------------------------
+
+You have the very last opportunity to present your paper 
+                 before the year 2000
+-----------------------------------------------------------
+
+	                   W S C G'99 
+
+    The Seventh International Conference in Central Europe 
+         on Computer Graphics and Visualization 99 
+
+                    in cooperation with 
+
+         EUROGRAPHICS and IFIP working group 5.10
+         on Computer Graphics and Virtual Worlds
+
+          will be held in February 8 - 12, 1999 
+        in Plzen at the University of West Bohemia
+       close to PRAGUE, the capital of the Czech Republic 
+
+-----------------------------------------------------------------------
+>> If you are willing to help us as a REVIEWER, please,              <<
+>> fill in the form at the http://wscg.zcu.cz/reviewer.htm           << 
+-----------------------------------------------------------------------
+>>Spare WSCG'98 proceedings are still available - ask your librarian <<
+>>to order one - form is available from  http://wscg.zcu.cz & WSCG99 <<
+-----------------------------------------------------------------------
+
+                         Conference Chairs
+                         =================
+     Nadia Magnenat Thalmann, MIRALab-CUI, Univ. of Geneva, Switzerland
+           Vaclav Skala, Univ. of West Bohemia, Czech Republic
+
+                 International Programme Committee
+                 =================================
+Bergougnoux,P.(F)    Chalmers,A.(UK)   Chen,J.(USA)      Fellner,D.(D) 
+Ferko,A.(SK)         Groeller,E.(A)    Hubbold,R.(UK)    Iones,A.(RU) 
+Jensen,W.H.(D)       Klein,R.(D)       Mockrzycki,V.(PL) Peroche,B.(F) 
+Pratt,M.(USA)        Rossignac,J.(USA) Sbert, M.(ES)     Seidel,H.-P.(D) 
+Sillion,F.(F)        Slavik,P.(CR)     Sochor, J.(CR)    Strasser,W.(D) 
+Stuerzlinger,W.(USA) Szirmay-Kalos,L.(H) Tokuta,A. (USA) Willis, P.(UK) 
+Wuetrich,C.(D)       Yagel, R.(USA)    Yukita,S.(J)      Zara, J.(CR) 
+ 
+                              
+                Sponsors and supporting organizations
+                =====================================
+              Digital Equipments, Hewlett Packard, IBM, 
+               Silicon Graphics, Intergraph, Microsoft
+
+
+                     Information for authors
+                     ========================
+Deadline for contributions: 	October 15, 1998 
+				original(full affiliation)
+				+3 copies(non-affiliated) 
+				+electronic form in CORRECT Postscript 
+                                  to be compressed to gz format
+				format A4 (strictly NOT B4, properly formated), 
+				8 pages including figures, tables etc. 
+
+For details, please, see http://wscg.zcu.cz select WSCG'99
+
+
+                        Topics included
+                        ---------------
+Fundamental algorithms, rendering and visualization, virtual reality, 
+animation and multimedia, medical imaging, geometric modelling and fractals, 
+graphical interaction, object-oriented graphics, WWW technologies, standards, 
+computer vision, parallel and distributed graphics, computational geometry, 
+computer aided geometric design, CAD/CAM, DTP and GIS systems, 
+educational aspects of related fields, usage of graphics within mathematical 
+software (Maple, Mathematica, MathCAD etc.) in education
+
+The program includes international books exhibition and video show, too.
+                     ---------------------------------------------
+
+                      W S C G '99 International Exhibition
+                      ------------------------------------
+
+Information for exhibitors: Please contact the organiser as soon as possible
+--------------------------  for detailed information and conditions.
+
+The WSCG98 Exhibition will be held in parallel. Top leading European and Czech 
+companies active in computer graphics, visualization and computer vision, 
+CAD/CAM  and GIS systems, virtual reality, multimedia systems and others 
+will be presenting their latest products.
+
+Special programme will be available, too.
+-----------------
+
+Accepted papers will be published in the Conference proceedings with ISBN. 
+They are reviewed by INSPEC, Cambridge Scientific Abstracts, InfoStore, 
+IEEE , ISI , AIMS , INIST and others for citations index and other purposes. 
+ 
+The best papers will be considered for possible publication in the Journal of 
+Visualisation and Computer Animation, Computers&Graphics, Machine Graphics 
+& Vision and others journals. 
+
+	
+
+             	Organizer and conference secretariat
+             	------------------------------------
+                            Vaclav Skala
+                c/o Computer Science Dept., Univ.of West Bohemia
+             Univerzitni 8, Box 314, 306 14 Plzen, Czech Republic
+
+	e-mail: skala@kiv.zcu.cz	Subject: INFO WSCG99
+	tel.:+420-19-7491-188		fax:+420-19-7491-188
+					fax:+420-19-7822-578
+
+
+The latest information is available at: 
+
+		http://wscg.zcu.cz	select WSCG'99
+
+Information on all WSCG conferences:    http://wscg.zcu.cz	
+
+In case of any problems:                http://147.228.63.9
+
+

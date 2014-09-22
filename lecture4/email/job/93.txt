@@ -1,0 +1,78 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Fri Mar 26 16:15:30 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id QAA04531;
+	Fri, 26 Mar 1999 16:15:21 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25774;
+          26 Mar 99 8:17 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25772;
+          26 Mar 99 8:02 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27105;
+          26 Mar 99 8:01 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa08355; 26 Mar 99 5:41 EST
+Received: from [141.163.11.5] by CS.CMU.EDU id aa03780; 26 Mar 99 5:40:56 EST
+Received: from smccabe.plym.ac.uk (smccabe.soc.plym.ac.uk [141.163.210.98])
+	by hebe.soc.plym.ac.uk (8.8.8+Sun/8.8.8) with SMTP id KAA14505
+	for <connectionists@cs.cmu.edu>; Fri, 26 Mar 1999 10:36:00 GMT
+Message-Id: <1.5.4.32.19990326104113.006e91cc@soc.plym.ac.uk>
+X-Sender: suem@soc.plym.ac.uk
+X-Mailer: Windows Eudora Light Version 1.5.4 (32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 26 Mar 1999 10:41:13 +0000
+To: Connectionist Mailing List <connectionists@cs.cmu.edu>
+From: Sue Denham <sue@soc.plym.ac.uk>
+Subject: Academic Positions in Computational Neuroscience
+Status: RO
+X-Status: 
+
+The University of Plymouth is considering the possibility of making some senior
+academic appointments, ie Professor, Reader or Senior Lecturer, in the area
+of Computational Neuroscience, with the aim of further strengthening this
+research area. 
+
+The possible appointments are also linked to a proposal to create a
+multidisciplinary Institute of Cognitive Neuroscience, involving links
+between experimental neuroscientists at the Plymouth Marine Laboratory,
+neurologists at the Postgraduate Medical School, and cognitive scientists
+and neuropsychologists (including two new Professorship appointments) in
+the Faculty of Human Sciences.
+
+We would like to hear, informally at present, from anyone who might have an
+interest in such an appointment, without obligation to either party. If you
+were able to email a curriculum vitae, setting out in particular your
+research achievements in this area, we would be very grateful. We would
+also be happy to respond to any enquiries. All expressions of interest and
+enquiries will be treated as confidential.
+
+Please respond by email to: Professor Mike Denham <mike@soc.plym.ac.uk>
+
+
+Michael J Denham
+Siebe Professor of Neural and Adaptive Systems
+Centre for Neural and Adaptive Systems
+School of Computing
+University of Plymouth
+Plymouth PL4 8AA
+England
+
+tel: +44 1752 232541
+fax: +44 1752 232540
+e-mail: mike @soc.plym.ac.uk;  mdenham@plym.ac.uk
+http://www.tech.plym.ac.uk/soc/research/neural/index.html
+
+
+
+Dr Sue Denham
+Centre for Neural and Adaptive Systems
+School of Computing
+University of Plymouth
+Plymouth PL4 8AA
+England
+
+tel: +44 17 52 23 26 10
+fax: +44 17 52 23 25 40
+e-mail: sue@soc.plym.ac.uk
+http://www.tech.plym.ac.uk/soc/research/neural/index.html
+

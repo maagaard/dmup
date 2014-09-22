@@ -1,0 +1,86 @@
+
+
+From spm-request@mailbase.ac.uk Fri Oct  8 16:15:46 MET 1999
+Received: from mailout1.mailbase.ac.uk (mailout1.mailbase.ac.uk [128.240.226.11])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with ESMTP id QAA20048
+	for <fnielsen@eivind.imm.dtu.dk>; Fri, 8 Oct 1999 16:15:45 +0200 (METDST)
+Received: from naga.mailbase.ac.uk (naga.mailbase.ac.uk [128.240.226.3])
+	by mailout1.mailbase.ac.uk (8.9.1a/8.9.1) with ESMTP id PAA27677;
+	Fri, 8 Oct 1999 15:13:46 +0100 (BST)
+Received: (from daemon@localhost) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) id PAA01917;
+        Fri, 8 Oct 1999 15:12:11 +0100 (BST)
+Received: from revere3.musc.edu (revere3.musc.edu [128.23.203.10]) 
+        by naga.mailbase.ac.uk (8.8.x/Mailbase) with ESMTP id PAA01526;
+        Fri, 8 Oct 1999 15:11:37 +0100 (BST)
+Received: from atrium2.musc.edu (atrium2.musc.edu [128.23.203.29])
+	by revere3.musc.edu (8.8.8/8.8.8) with ESMTP id KAA28020
+	for <spm@mailbase.ac.uk>; Fri, 8 Oct 1999 10:11:36 -0400 (EDT)
+Received: from localhost by atrium2.musc.edu (sendmail 8.8.7) id KAA11850; Fri, 8 Oct 1999 10:11:36 -0400 (EDT)
+Date: Fri, 8 Oct 1999 10:11:36 -0400 (EDT)
+Message-ID: <Pine.OSF.3.96.991008100950.1283A-100000@atrium2.musc.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: Postdoctoral Position
+From: Daryl E Bohning <bohninde@musc.edu>
+To: spm@mailbase.ac.uk
+X-List: spm@mailbase.ac.uk
+X-Unsub: To leave, send text 'leave spm' to mailbase@mailbase.ac.uk
+X-List-Unsubscribe: <mailto:mailbase@mailbase.ac.uk?body=leave%20spm>
+Reply-To: Daryl E Bohning <bohninde@musc.edu>
+Sender: spm-request@mailbase.ac.uk
+Errors-To: spm-request@mailbase.ac.uk
+Precedence: list
+Status: RO
+X-Status: 
+
+CONTACT: Daryl E. Bohning, Ph.D., DABR
+               Department of Radiology
+               Medical University of South Carolina
+               171 Ashley Avenue
+               Charleston, South Carolina 29425
+               (843)792-6171; FAX: (843)792-9503
+			  E-mail: bohninde@musc.edu
+
+website:http//www,musc.edu/psychiatry/fnrd/function.htm
+
+POSITION: MR Physics Postdoctoral Fellow
+
+The Radiology Department of the Medical University of South Carolina in
+Charleston is looking for a second postdoctoral fellow in MR physics.  The
+Department has a 1.5T Picker EDGE and a 1.5T GE Signa MR scanner.  Both 1H
+and 31P spectroscopy are available.  The 1.5T Picker EDGE has single-shot
+EPI capability and is equipped with a multichannel stimulation/monitoring
+system for "functional" imaging.  A third 1.5T system with single-shot EPI
+capability has been purchased (Philips NT) and will be similarly equipped
+for "interactive" functional imaging.  A dedicated MR lab has four(4) Sun
+SPARCstations, a DEC ALPHA and multiple Macintosh computers available for
+image/spectra processing.   
+
+Projects involve MR physics and/or data analysis related to MR image- and
+spectroscopy-based determinations of brain function. These include studies
+of diffusion, perfusion, and quantitative flow/motion as well as clinical
+1H and 31P spectroscopy, as part of an expanding "functional"
+neuroimaging collaboration with MUSC's Institute of Psychiatry.  The
+individual would be expected to help with an NIH funded study in which
+transcranial magnetic stimulation (TMS) is combined with fMRI to stimulate
+and simultaneously monitor brain response. There is a good possibility of
+this position leading to a junior faculty position.
+
+Charleston, located on the South Carolina coast, is one of America's
+oldest cities.  Its charming historic town center is a popular tourist
+stop with activities throughout the year made accessible by the city's
+relatively small size.
+
+Interested persons should send a CV and a letter describing their research
+interests to the above address. The Medical University of South Carolina
+is an Equal Opportunity Employer.
+
+
+/********************************************************/
+/*                                        		*/
+/* Daryl E. Bohning, Ph.D.	bohninde@musc.edu	*/
+/*	(843)792-6171	FAX#(843)792-9503		*/
+/*							*/
+/********************************************************/
+

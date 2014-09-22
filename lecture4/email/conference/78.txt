@@ -1,0 +1,114 @@
+
+
+From ml-connectionists-request@TELNET-1.SRV.CS.CMU.EDU  Wed Apr  1 17:06:06 1998
+Received: from TELNET-1.SRV.CS.CMU.EDU (TELNET-1.SRV.CS.CMU.EDU [128.2.254.108])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id RAA03299
+	for <fnielsen@eivind.imm.dtu.dk>; Wed, 1 Apr 1998 17:06:04 +0200 (METDST)
+Received: from TELNET-1.SRV.CS.CMU.EDU by telnet-1.srv.cs.CMU.EDU id aa17161;
+          1 Apr 98 4:25:09 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by TELNET-1.SRV.CS.CMU.EDU id aa17157;
+          1 Apr 98 3:56:44 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa27974;
+          1 Apr 98 3:56 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa13631; 1 Apr 98 3:51 EST
+Received: from spanner.eng.cam.ac.uk by CS.CMU.EDU id aa19046;
+          1 Apr 98 3:51:38 EST
+Received: from wjfmac.eng.cam.ac.uk
+          (via wjfmac.eng.cam.ac.uk [129.169.64.11])
+          by spanner.eng.cam.ac.uk with SMTP id JAA25936
+          for <connectionists@cs.cmu.edu>; Wed, 1 Apr 1998 09:51:29 +0100 (BST)
+Date: Wed, 01 Apr 1998 08:58:02 +0000
+From: W J Fitzgerald <wjf@eng.cam.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject:  BAYESIAN SIGNAL PROCESSING
+Message-ID: <117594.3100409882@wjfmac.eng.cam.ac.uk>
+X-Mailer: Mulberry (MacOS) [1.2.3, s/n S-100001]
+X-Authenticated: wjf by imap-serv.eng.cam.ac.uk
+X-Licensed-To: University of Cambridge
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id RAA03299
+Status: RO
+X-Status: 
+
+Dear Friends,
+
+I hope this might be of interest to some of you.
+
+regards
+Bill Fitzgerald 
+
+             Isaac Newton Institute for Mathematical Sciences
+
+                             EC SUMMER SCHOOL
+
+                        BAYESIAN SIGNAL PROCESSING
+
+                             19 - 31 July 1998
+
+Organisers: WJ Fitzgerald (Cambridge), RL Smith (North Carolina),
+AT Walden (Imperial), PC Young (Lancaster)
+
+The main focus and thrust of this workshop will be that Bayesian methods
+provide a unifying methodology whereby different kinds of mathematical
+models may  be examined within a common statistical framework. The workshop
+will bring together the statistical and computational expertise of leading
+statisticians and the modelling expertise of mathematicians and subject
+matter
+specialists, with the broad objective of developing new signal processing
+tools which make efficient use of modern computational resources while
+combining the most up-to-date research of both groups of specialists.
+
+Specific topics to be covered include:
+
+- Bayesian methods in general and numerical methods in particular;
+- Nonlinear and nonstationary time series estimation;
+- Forecasting and changepoint modelling;
+- Nonlinear signal processing in econometrics and financial time series;
+- Dynamical systems and statistics;
+- Environmental applications and spatial data analysis.
+
+The workshop will take place at the start of a six month programme on
+Nonlinear and Nonstationary Signal Processing to be held at the Isaac Newton
+Institute in Cambridge (July - Dec 1998), where it is hoped that many of the
+problems identified during the workshop will be studied in detail by the
+participants.
+
+Grants:  The conference is supported by a grant from the European Community
+which will provide funding towards the registration, travel and subsistence
+costs of selected young (under 35 years) participants.  Applications from
+women and anyone living in Greece, Ireland and Portugal and other less
+favoured regions of the European Community are particularly encouraged.
+
+Other limited funds exist for participants from outside the EC.
+Self-supporting applications of any age and nationality are welcome.
+
+Applications: The workshop will take place at the Newton Institute and
+accommodation for participants will be provided at Christ's College. The
+conference package costs £650, which includes registration fees,
+accommodation, breakfast and evening meals plus lunch and refreshments
+during the days that lectures take place.
+
+Further Information and Application Forms: are available from the WWW at
+http://www.newton.cam.ac.uk/programs/nspw01.html Completed application
+forms should be sent to Heather Hughes at the Newton Institute, or via email
+to h.hughes@newton.cam.ac.uk The programme home page is at
+              http://www.newton.cam.ac.uk/programs/nsp.html
+
+     **Closing Date for the receipt of applications is 24 April 1998**
+
+
+********************************************************************
+*  Dr. W.J.Fitzgerald,   http://www-sigproc.eng.cam.ac.uk/~wjf     *
+*  Signal Processing Group, Cambridge University Engineering Dept. *
+*  Cambridge CB2 1PZ, U.K.					   *
+*  and/or                                                          *
+*  Christ's College,                                               *
+*  Cambridge CB2 3BU                                               *
+*                                                                  *
+*    tel: +44-(1223)-332719, fax: +44-(1223)-332662		   *
+*    email: wjf@eng.cam.ac.uk                                      *
+********************************************************************
+
+

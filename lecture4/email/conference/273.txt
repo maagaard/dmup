@@ -1,0 +1,165 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Jun 30 00:37:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id AAA05189;
+	Wed, 30 Jun 1999 00:36:56 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa05315;
+          29 Jun 99 16:35 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa05313;
+          29 Jun 99 16:26 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa23958;
+          29 Jun 99 16:26 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id ab07732; 29 Jun 99 9:24 EDT
+Received: from santra.hut.fi by RI.CMU.EDU id aa24528; 29 Jun 99 9:24:47 EDT
+Received: from james.hut.fi (james.hut.fi [130.233.173.1])
+	by santra.hut.fi (8.9.3/8.9.3) with ESMTP id QAA21159;
+	Tue, 29 Jun 1999 16:24:38 +0300 (EET DST)
+Received: (from aapo@localhost) by james.hut.fi (980427.SGI.8.8.8/980728.SGI.AUTOCF) id QAA17887; Tue, 29 Jun 1999 16:24:37 +0300 (EEST)
+Date: Tue, 29 Jun 1999 16:24:37 +0300 (EEST)
+Message-Id: <199906291324.QAA17887@james.hut.fi>
+From: Aapo Hyvarinen <aapo@james.hut.fi>
+To: connectionists@cs.cmu.edu
+Subject: ICA 2000: 1st CFP
+Status: RO
+X-Status: 
+
+[Our apologies if you receive multiple copies of this message.]
+
+
+                           First Call for Papers:
+
+                               -------------
+                                I C A 2000
+                               -------------
+
+                         International Workshop on
+
+                       INDEPENDENT COMPONENT ANALYSIS
+                                    and
+                          BLIND SIGNAL SEPARATION
+
+                              19-22 June 2000
+                             Helsinki, Finland
+
+                       http://www.cis.hut.fi/ica2000/
+
+                      Submission deadline: 1 March 2000
+
+
+----------------------------------------------------------------------------
+AIMS AND SCOPE
+----------------------------------------------------------------------------
+
+This workshop is the second in the series initiated by the highly succesful
+ICA'99 workshop in Aussois, France. It is devoted to recent
+advances in Independent Component Analysis and Blind Signal Separation.
+An important goal of the workshop is to bring together
+researchers from artificial neural networks, signal processing, and
+other related fields to provide interdisciplinary exchange.
+
+Papers describing original work on ICA and BSS are invited.
+Relevant topics include, for example:
+- Theory and estimation methods
+- Extensions of basic models
+- Convolutive and noisy mixtures
+- Nonlinear methods
+- Hardware implementations
+- Audio and telecommunications applications
+- Biomedical applications
+- Image processing applications
+- Data mining applications
+- Sensory coding models
+
+
+----------------------------------------------------------------------------
+PAPER SUBMISSION  
+----------------------------------------------------------------------------
+
+Important dates:
+
+    1  March, 2000     Submission of *full* paper
+    15 April, 2000     Notification of acceptance
+    19-22 June, 2000   Workshop
+
+Detailed submission information will be available from our web site:
+http://www.cis.hut.fi/ica2000/
+
+Submitted papers will be peer-reviewed, and acceptance 
+will be based on quality, relevance and originality.
+All the papers presented at the workshop will be published in the
+Proceedings of ICA 2000.
+
+
+----------------------------------------------------------------------------
+INTERNATIONAL PROGRAM COMMITTEE
+----------------------------------------------------------------------------
+
+L. Almeida, INESC, Portugal
+S.-I. Amari, RIKEN, Japan
+A. Bell, Interval Research, USA
+J.-F. Cardoso, ENST, France
+A. Cichocki, RIKEN, Japan
+P. Comon, Universite de Nice, France
+S. Douglas, Southern Methodist University, USA
+C. Fyfe, Univ. of Paisley, UK
+S. Haykin, McMaster University, Canada
+A. Hyvarinen, Helsinki Univ. of Technology, Finland
+C. Jutten, INPG, France
+J. Karhunen, Helsinki Univ. of Technology, Finland
+S. Kassam, Univ. of Pennsylvania, USA
+V. Koivunen, Helsinki Univ. of Technology, Finland
+T.-W. Lee, Salk Institute, USA
+R.-W. Liu, Univ. of Notre Dame, USA
+P. Loubaton, Universite de Marne la Vallee, France
+K.-R. Mueller, GMD First, Germany
+B. Olshausen, UC Davis, USA
+E. Oja, Helsinki Univ. of Technology, Finland
+P. Pajunen, Helsinki Univ. of Technology, Finland
+J. Principe, Univ. of Florida, USA
+T. Sejnowski, Salk Institute, USA
+K. Torkkola, Motorola Corporate Research, USA
+J. Tugnait, Auburn University, USA
+L. Xu, The Chinese Univ. of Hong Kong, China
+
+
+----------------------------------------------------------------------------
+LOCAL ORGANIZING COMMITTEE 
+----------------------------------------------------------------------------
+
+General Chair:
+E. Oja
+Program Chair:
+J. Karhunen
+Local Arrangements Chair:
+V. Koivunen
+Publications Chair;
+P. Pajunen
+Publicity Chair;
+A. Hyvarinen
+Treasurer:
+J. Iivarinen
+Web Master:
+J. Sarela
+
+
+----------------------------------------------------------------------------
+COOPERATING SOCIETIES
+----------------------------------------------------------------------------
+
+European Neural Network Society, IEEE Signal Processing Society, 
+EURASIP, IEEE Neural Networks Council, IEEE Circuits and Systems Society
+
+----------------------------------------------------------------------------
+CONTACT INFORMATION
+----------------------------------------------------------------------------
+
+web site               http://www.cis.hut.fi/ica2000/
+email                  ica2000@mail.cis.hut.fi
+postal mail            ICA 2000, P.O.Box 5400
+                       Lab of Comp. and Info. Science
+                       Helsinki Univ. of Technology
+                       FIN-02015 HUT, Finland
+
+----------------------------------------------------------------------------
+

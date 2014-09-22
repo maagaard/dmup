@@ -1,0 +1,253 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Feb 24 01:59:10 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id BAA17149;
+	Wed, 24 Feb 1999 01:59:04 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa21601;
+          23 Feb 99 18:10 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa21599;
+          23 Feb 99 17:58 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa06122;
+          23 Feb 99 17:57 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa25745; 23 Feb 99 13:02 EST
+Received: from timbal.ci.uv.es by CS.CMU.EDU id aa08640; 23 Feb 99 13:01:01 EST
+Received: from [147.156.3.187] (jmb.estadi.uv.es [147.156.3.187])
+	by gong.uv.es (8.9.0/8.9.0) with ESMTP id MAA22855;
+	Tue, 23 Feb 1999 12:37:06 +0100 (MET)
+X-Sender: bernardo@post.uv.es
+Message-Id: <l03102803b2f84336327e@[147.156.3.187]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Tue, 23 Feb 1999 12:41:16 +0100
+To: Sttistics Lists: ;
+From: "Jose M. Bernardo" <jose.m.bernardo@uv.es>
+Subject: Workshop of Bayesian Objective Methodology
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eivind.imm.dtu.dk id BAA17149
+Status: RO
+X-Status: 
+
+Apologies for cross-posting
+
+INTERNATIONAL WORKSHOP ON OBJECTIVE BAYESIAN METHODOLOGY
+SECOND INFORMATION BULLETIN
+
+1499--1999: Five Centuries of the Universitat de València
+Valencia, Spain, June 11th -- June 13th, 1999
+
+The  Universitat of València, Spain, will celebrate
+next year its 500 anniversary. Within the Centenary
+Programme, the University  of Valencia is sponsoring an
+International Workshop on Objective Bayesian Methodology
+
+Objective Bayesian Methodology:
+
+Objective Bayesian methodology is of increasing importance today
+for at least two reasons. First, application of Bayesian analysis
+is rapidly growing among nonspecialists, most of whom seek
+automatic or objective Bayesian procedures. Second, computational
+advances have allowed Bayesian methodology to be employed in
+problems of such complexity that determination of serious
+subjective priors is essentially impossible. The corresponding
+explosion of research on objective Bayesian methods makes a
+workshop in this area particularly timely.
+
+Objective Bayesian methodology is, for the most part, oriented
+towards the development of prior distributions that can be used
+automatically, ie that do not require subjective input. There
+are three quite distinct statistical domains in which this
+development has taken place: parametric estimation, parametric
+testing, and nonparametric analysis. The specific topics in these
+areas that are currently being considered for the Workshop are
+listed below. Note, however, that it is planned to maintain
+considerable flexibility so as to be able to include late-breaking
+developments.
+
+1. Objective Priors and Frequentist Statistics
+2. Determination of Objective Priors in Important Problems
+3. Priors for Objective Bayesian Testing and Model Selection
+4. Objective Priors in Nonparametric Analysis
+5. The Roles of Objective Bayesian Analysis
+
+Workshop Organization:
+
+The three day workshop will take place at the Peset Center, a reconverted
+XVIII century palace  in the medieval old
+town of the city of Valencia, with appropriate facilities.
+
+Workshop Web sites:
+
+http://www.uv.es/~bernardo/workshop.html  (Spain)
+http://www.stat.duke.edu/~bernardo/workshop.html  (USA mirror)
+
+Programme Committee:
+
+Professor James O. Berger ({ Duke University, USA})
+Professor José M. Bernardo ({ Universitat de València, Spain})
+Professor Jayanta K. Ghosh ({ Indian Statistical Institute, India and
+Purdue University, USA})
+Professor Malay  Ghosh ({ University of Florida, USA})
+Professor Christian P. Robert  ({ Université de Rouen, France})
+
+Scientific Programme:
+
+The scientific programme will feature the following invited lectures
+
+Berger, James, Duke University, USA
+(Generalized) Reference Priors for Spatial Models
+(with B. Sanso, and V. De Oliveira)
+
+Bernardo, José, Universidad de Valencia, Spain
+Bayesian Reference Multivariate Hypothesis Testing
+(with  Rueda)
+
+Datta, Gauri, University of Georgia, USA
+Bayesian Prediction with Approximate Frequentist Validity
+
+Dawid, a. Phil, University College London, UK
+The Trouble with Bayes Factors
+
+Fraser, Donald, University of Toronto, Canada
+Objective priors and model dependence: the frequentist-Bayesian interface
+
+Ghosh, Jayanta, Indian Statistical Institute, India
+Prior Elicitation, Default Priors and Prediction Loss
+
+Ghosh, Malay, University of Florida, USA
+Noninformative Priors for Item Response Models
+
+Ghosal, Subhashis, Vrije Universiteit Amsterdam, the Netherlands
+Default Priors, Model Selection and Adaptation in Density Estimation
+
+Liseo, Brunero, Università di Roma La Sapienza, Italy,
+Semiparametric Inference for Long Memory Time Series: on
+Bayesian-Frequentist Interface
+(with D. Marinucci  and L. Petrella)
+
+Mukerjee, Rahul, Indian Institute of Management, India
+On Confidence Intervals Associated with the Usual and Adjusted  Likelihoods
+(with  N. Reid)
+
+Pérez, José M., Universidad Simon Bolivar, Venezuela
+Expected Posterior Priors for Default Model Selection
+
+Pericchi, Luis, Universidad Simón Bolívar,  Venezuela
+The Intrinsic Bayes Factor as a Constructive Method to Develop Default or
+Conventional Priors for Hypothesis Testing and Model Selection.
+
+Robert, Christian, CREST-ENSAE, France
+Nonidentifiable Models and Symmetric Priors: How to Teach MCMC Samplers to
+Jump Farther
+(with M.  Hurn)
+
+Rousseau, Judith, CREST-ENSAE, France
+Edgeworth expansion for a Gaussian long-memory process with
+application to matching priors
+
+Sun, Dongchu, University of Missouri-Columbia, USA
+Random Effects in Generalized Linear Mixed Models
+
+Sweeting, Trevor, University of Surrey, UK
+Coverage Probability Bias, Objective Bayes and the Likelihood Principle
+
+Wasserman, Larry, Carnegie Mellon University, USA
+Priors for Infinite Dimensional Problems
+
+
+Each lecture will be followed by invited discussions and by discussion
+from the floor.
+
+Invited discussants include:
+
+Barbieri, Marilena, Università di Roma La Sapienza, Italy
+Bayarri, Susie, Universitat de València, Spain
+Clarke, Bertrand, University of British Columbia, Canada
+Clyde,  Merlise, Duke University , USA
+de Santis, Fulvio, Università di Roma La Sapienza, Italy
+DiCiccio, Thomas, Stanford University, USA
+Gelfand, Alan, University of Connecticut, USA
+George, Edward, University of Texas, USA
+Girón, Javier, Universidad de Málaga, Spain
+Gutiérrez-Peña, Eduardo, UNAM, Mexico
+Mendoza, Manuel, ITAM, Mexico
+Moreno, Elías, Universidad de Granada, Spain
+Mortera, Julia, Università di Roma 3, Italy
+Petrone, Sonia, Università di Pavia, Italy
+Ramamoorthi, R., Michigan State University, USA
+Reid, Nancy, University of Toronto, Canada
+Rueda, Raúl, UNAM, Mexico
+Severini, Thomas, Northwestern University, USA
+Sivaganesan, Siva, University of Cincinnati, USA
+van der Linde, Angelika, University of Edinburgh, UK
+Wells,  Martin, Cornell University, USA
+Ye, Keying, Virginia Polytechnic Institute and State University, USA
+
+Contributed papers are encouraged. These will be presented
+in two plenary poster sessions, organized in the
+tradition of the Valencia meetings.
+
+The abstracts deadline is  April 30th . The abstract should be sent by
+e-mail using the abstract format
+http://www.uv.es/~bernardo/abstract.html (Spain)
+http://www.stat.duke.edu/~bernardo/abstract.html  (USA mirror)
+accessible at the workshop web sites.
+
+
+There will not be  published proceedings, but a booklet of extended
+abstracts will be  distributed at the Workshop.
+
+Travel Information:
+
+Delegates will be expected to arrive
+on  Thursday June 10th evening,  and to depart on Monday 14th morning.
+
+The opening ceremony will be on the morning of Friday 11th, and the
+Conference Dinner  on the evening of Sunday 13th.
+
+Valencia international airport, 7 km. from town, has direct connections to
+many european cities, and frequent connexions to both Madrid and Barcelona.
+
+Registration:
+
+To register, please mail or fax the registration form
+http://www.uv.es/~bernardo/registration.html (Spain)
+http://www.stat.duke.edu/~bernardo/registration.html  (USA mirror)
+accessible at the workshop web sites.
+
+Those possibly interested in participating, but not ready to register,
+should e-mail
+the local organizer, José M. Bernardo  mailto:jose.m.bernardo@uv.es
+Periodic electronic Information Bulletins,  will be sent to those who
+who have declared their interest.
+
+Additional information:
+
+Further information on the workshop, including pointers to the first draft
+of the talks as they become available is posted in the workshop web sites.
+
+http://www.uv.es/~bernardo/workshop.html  (Spain)
+http://www.stat.duke.edu/~bernardo/workshop.html  (USA mirror)
+
+For tourist information on the area, please visit
+he Web site of the Tourism Agency of the State of Valencia,
+http://www.comunitat-valenciana.com
+
+
+
+
+
+
+PLEASE NOTE: On April 4th, all Spanish telephone numbers added a "9" after
+the country code "34'.
+Thus, my more direct  (phone and fax) line is now:  +34.96.364.3560
+____________________________________________________________________
+Prof. Dr. Jose M. Bernardo, Universidad de Valencia
+Dept. Estadistica, Fac. Matematicas, 46100-Burjassot, Valencia, Spain
+Tel.  +34.96.364.3560 and  +34.96.386.4313  (direct), +34.96.386.4362 (office).
+Fax: +34.96.364.3560 (direct), +34.96.386.4735 (office).
+E Mail: jose.m.bernardo@uv.es,
+Web Pages: http://www.uv.es/~bernardo/  or http://www.stat.duke.edu/~bernardo/
+____________________________________________________________________
+
+

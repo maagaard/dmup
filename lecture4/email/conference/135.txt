@@ -1,0 +1,117 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Tue Aug 11 07:35:43 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id HAA26646;
+	Tue, 11 Aug 1998 07:35:31 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa08884;
+          10 Aug 98 23:57 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa08882;
+          10 Aug 98 23:43 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22755;
+          10 Aug 98 23:43 EDT
+Received: from EDRC.CMU.EDU by ux3.sp.cs.cmu.edu id aa28520; 10 Aug 98 14:29 EDT
+Received: from burdell.cc.gatech.edu by EDRC.CMU.EDU id aa03563;
+          10 Aug 98 14:28:08 EDT
+Received: from green.cc.gatech.edu (green.cc.gatech.edu [130.207.119.162])
+	by burdell.cc.gatech.edu (8.9.1/8.9.1) with ESMTP id OAA01297
+	for <connectionists@cs.cmu.edu>; Mon, 10 Aug 1998 14:28:06 -0400 (EDT)
+Received: (from skoenig@localhost)
+	by green.cc.gatech.edu (8.9.1/8.9.1) id OAA08684
+	for connectionists@cs.cmu.edu; Mon, 10 Aug 1998 14:28:06 -0400 (EDT)
+From: Sven Koenig <skoenig@cc.gatech.edu>
+Message-Id: <199808101828.OAA08684@green.cc.gatech.edu>
+Subject: CFP: AAAI Spring Symposium
+To: connectionists@cs.cmu.edu
+Date: Mon, 10 Aug 1998 14:28:06 -0400 (EDT)
+X-Mailer: ELM [version 2.4 PL25]
+Content-Type: text
+Status: RO
+X-Status: 
+
+----------------------------------------------------------------------
+
+                        Call for Papers
+ 
+1999 AAAI Spring Symposium on Search Techniques for Problem Solving
+          under Uncertainty and Incomplete Information
+
+             March 22-24, 1999, Stanford University
+                (Paper Deadline: October 30, 1998)
+
+----------------------------------------------------------------------
+ 
+To build practical AI systems, one has to address issues related to
+uncertainty and incomplete information.  Uncertainty and incomplete
+information can result from various sources, including actuator and
+sensor noise, reasoning with approximate models, limited communication
+bandwidth, and insufficient domain understanding.
+ 
+This symposium will focus on the selection of search strategies for
+problem solving under uncertainty and incomplete information, where
+the large number of contingencies can create large search spaces.
+Therefore, system performance ultimately depends largely on the
+efficiency of the selected search strategies.  Using appropriate
+search strategies can significantly increase system performance by
+exploiting problem-specific knowledge and restricting the search to
+the right regions of the search spaces to find satisfactory solutions
+quickly.
+ 
+The main purpose of the symposium is to bring together researchers and
+practitioners from areas such as planning, heuristic search, robotics,
+constraint satisfaction, game playing, and information gathering.  We
+want to discuss when and how traditional search techniques (such as
+state-space search and local search) should be applied; how uncertain
+and incomplete information can be exploited to control search
+processes; whether there is a difference in principle between
+reasoning with deterministic and probabilistic representations of
+uncertain and incomplete information (for example, with constraint
+networks or belief networks); how the level of uncertainty affects
+problem complexity; how different search paradigms (such as heuristic
+search and dynamic programming) can be combined to provide additional
+pruning power; and how the structure of search spaces can be exploited
+to speed up search.  We also intend to explore how these search
+strategies can be applied across domains and application areas, and
+speculate on promising future search strategies.
+ 
+The symposium will consist of one or two invited talks, followed by
+short presentations and longer discussions, in an atmosphere that
+encourages the interaction of researchers with different backgrounds.
+There will be plenty of opportunity to discover common ground between
+different fields and application domains.
+ 
+All types of papers are sought, including papers describing theory,
+algorithms, applications, systems, performance measures, and other
+issues related to search strategies for problem solving under
+uncertainty and incomplete information.  Papers on work in progress
+are encouraged.  Other interested participants should send a short
+description of their research interests with a list of relevant
+publications.  Suggestions for panel and group discussions are also
+welcome.
+ 
+Submission in postscript format should be sent, electronically, to
+zhang@isi.edu.  Authors should follow the general AAAI submission
+guidelines (see http://www.aaai.org/Publications/Author/authorinstructions.html
+for details). The maximum length is six pages, in AAAI format.
+Detailed information about the symposium can be found at
+http://www.isi.edu/isd/zhang/SearchStrategies.html.
+
+----------------------------------------------------------------------
+ 
+Important dates:
+
+Abstracts or papers due on October 30, 1998.
+Camera-ready version (limited to six pages) due on Jan 29, 1999.
+
+----------------------------------------------------------------------
+ 
+Organizing committee:
+ 
+Weixiong Zhang (Cochair), (USC/ISI, zhang@isi.edu)
+Sven Koenig (Cochair), (Georgia Tech, skoenig@cc.gatech.edu)
+Tom Dean (Brown, tld@cs.brown.edu)
+Rina Dechter (UC Irvine, dechter@ics.uci.edu)
+Subbarao Kambhampati (Arizona State, rao@asu.edu)
+Craig Knoblock (USC/ISI, knoblock@isi.edu)
+Lydia Kavraki (Rice, kavraki@cs.rice.edu)
+Shlomo Zilberstein (U Mass, shlomo@cs.umass.edu)

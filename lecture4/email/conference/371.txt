@@ -1,0 +1,75 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Tue Jan 25 05:53:35 MET 2000
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with SMTP id FAA25756;
+	Tue, 25 Jan 2000 05:53:31 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25400;
+          24 Jan 2000 17:36 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25398;
+          24 Jan 2000 17:31 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa01039;
+          24 Jan 2000 17:30 EST
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa17783; 24 Jan 2000 15:35 EST
+Received: from blueness.krl.caltech.edu by cs.cmu.edu id aa03540;
+          24 Jan 2000 15:34 EST
+Received: from chabry.caltech.edu ([131.215.80.208])
+	by blueness.alife.org with esmtp (Exim 3.03 #1)
+	id 12Cpjo-00011x-00
+	for alife7-spam-announce@alife.org; Mon, 24 Jan 2000 12:05:24 -0800
+Received: from t by chabry.caltech.edu with local (Exim 3.03 #2)
+	id 12Cphr-0003eH-00; Mon, 24 Jan 2000 12:03:23 -0800
+Date: Mon, 24 Jan 2000 12:03:23 -0800
+From: Hamid Bolouri <H.Bolouri@herts.ac.uk>
+To: titus@caltech.edu
+Subject: CFP: Computation in Cells
+Message-ID: <20000124120323.I13844@cns.caltech.edu>
+Reply-To: h.bolouri@herts.ac.uk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 1.0i
+X-Actual-Not-Fake-Sender: Titus Brown <titus@caltech.edu>
+Sender: Titus Brown <t@chabry.caltech.edu>
+Status: RO
+X-Status: 
+
+Call for Papers	(submission deadline 14 February 2000)
+
+COMPUTATION IN CELLS :
+molecular & cellular networks as computational systems, e.g.:
+
+     robustness in biochemical networks. 
+     computational and dynamical motifs in molecular biology. 
+     tools and algorithms for unravelling biochemical systems. 
+     computational properties of signalling pathways. 
+     models of gene regulation and genetic regulatory networks. 
+     evolution of biochemical and genetic networks. 
+     deterministic computation from stochastic interactions. 
+     cell differentiation and pattern formation. 
+
+April 17 & 18th 2000
+University of Hertfordshire, UK
+
+http://strc.herts.ac.uk/NSGweb/emergent/
+
+A UK Eng. & Phys. Sci. Research Council Emergent Computing
+workshop
+
+Co-sponsored by: 
+the Wellcome Trust, the British Computer Society, & British
+Telecom
+
+Invited speakers (who have confirmed so far, more to come!):
+
+Baltazar Aguda	(Laurentian U, Canada) 
+Maria Blair	(Sheffield Hallam, UK) 
+Mark Borisuk	(Caltech, USA) 
+Dennis Bray	(U. Cambridge, UK) 
+Igor Goryanin	(Glaxo-SmithKline, UK) 
+Charles Hodgman (Glaxo-SmithKline, UK) 
+Maria Samsonova	(Inst. for High Performance Computing, 
+Russia) 
+Denis Thieffry 	(Free U. of Brussels & U. Gent, Belgium) 
+David Willshaw	(U. Edinburgh, UK) 
+Tau-Mu Yi	(Caltech, USA) 
+

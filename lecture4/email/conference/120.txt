@@ -1,0 +1,193 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Sat Jun 20 08:08:07 1998
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6/8.8.6) with SMTP id IAA15289;
+	Sat, 20 Jun 1998 08:08:01 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa25099;
+          19 Jun 98 23:51 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa25096;
+          19 Jun 98 23:40 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa11612;
+          19 Jun 98 23:40 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa28973; 19 Jun 98 11:03 EDT
+Received: from dns1.rhbnc.ac.uk by RI.CMU.EDU id aa00630; 19 Jun 98 11:02:40 EDT
+Received: from pc7.cs.rhbnc.ac.uk (pc7.cs.rhbnc.ac.uk [134.219.96.17])
+	by platon.cs.rhbnc.ac.uk (8.8.8/8.8.8) with SMTP id QAA03443;
+	Fri, 19 Jun 1998 16:02:02 +0100 (BST)
+Received: by pc7.cs.rhbnc.ac.uk with Microsoft Mail
+	id <01BD9B9B.86E172C0@pc7.cs.rhbnc.ac.uk>; Fri, 19 Jun 1998 16:01:32 +-100
+Message-ID: <01BD9B9B.86E172C0@pc7.cs.rhbnc.ac.uk>
+From: Keith Howker <jkh@dcs.rhbnc.ac.uk>
+To: "'colt'" <colt@cs.uiuc.edu>,
+        "'comp-neuro'" <comp-neuro@smaug.bbb.caltech.edu>,
+        "'connectionists'" <connectionists@cs.cmu.edu>,
+        "'neur-sci'" <neur-sci@dl.ac.uk>,
+        "'neuron-request'" <neuron-request@cattell.psych.upenn.edu>
+Cc: "'Camelia Voinea - Black Sea University'" <cvoinea@frigg.racai.ro>
+Subject: Technical Report Series in Neural and Computational Learning (second attempt to send)
+Date: Fri, 19 Jun 1998 16:01:26 +-100
+Encoding: 160 TEXT
+Status: RO
+X-Status: 
+
+[Apologies if you get more than one copy: the first attempt ]
+[had some non-deliveries.            rgds, K.               ]
+
+The European Community ESPRIT Working Group in Neural and Computational
+Learning Theory (NeuroCOLT) has been funded for a further three years
+as the Working Group NeuroCOLT2. The overall objective of the Working
+Group is to demonstrate the effectiveness of technologies that arise
+from a deep understanding of the performance and implementation of
+learning systems on real world data. We will continue to maintain the
+Technical Report Archive of papers produced by members or associates of
+the group's partners. We have created a new web site:
+	http://www.neurocolt.com/ 
+which gives more information about the project, including access to the
+Technical Reports (see below for further access instructions).
+
+Best wishes
+John Shawe-Taylor
+
+--------------------------------------------------------------------
+
+Titles follow:
+Abstracts are available via the Web Site
+
+1998 Document Archive
+
+    Ref.                    Title                        Author         
+
+  1998-abs                Complete Abstract File For 1998              
+
+            JNN, a Randomized Algorithm for                            
+  1998-001  Learning Multilayer Networks in       Elisseeff &
+            Polynomial Time                       Paugam-Moisy         
+
+                                                                       
+  1998-002  A comparison of non-informative       Grunwald
+            priors for Bayesian networks                               
+
+            Data-Dependent Structural Risk                             
+  1998-003  Minimisation for Perceptron Decision  Shawe-Taylor
+            Trees                                                      
+
+                                                                       
+  1998-004  Are Lower Bounds Easier over the      Fournier & Koiran
+            Reals?                                                     
+
+                                                                       
+  1998-005  Query, PACS and simple-PAC Learning   Castro & Guijarro
+                                                                       
+
+                                                                       
+  1998-006  The Real Dimension Problem is         Koiran
+            NPR-Complete                                               
+
+                                                                       
+  1998-007  Elimination of Parameters in the      Koiran
+            Polynomial Hierarchy                                       
+
+            Bayesian Classifiers are Large        Cristiani,           
+  1998-008  Margin Hyperplanes in a Hilbert       Shawe-Taylor,
+            Space                                 Sykacek              
+
+                                                                       
+  1998-009  Learning via Internal Representation  Dichterman
+                                                                       
+
+            Discrete versus analog computation:
+                                                                       
+  1998-010  Some aspects of studying the same     Meer
+            problem in different computational                         
+            models
+
+                                                                       
+  1998-011  How many connected components must a  Matamala & Meer
+            difficult set have?                                        
+
+            The Separation Theorem for the                             
+  1998-012  Relation Classes Associated to the    Gakwaya
+            Extended Grzegorczyk Classes                               
+
+            Isomorphism Theorem for BSS                                
+  1998-013  Recursively Enumerable Sets over      Michaux & Troestler
+            Real Closed Fields                                         
+
+            Efficient Read-Restricted Monotone                         
+  1998-014  CNF/DNF Dualization by Learning with  Domingo, Mishra,
+            Membership Queries                    Pitt                 
+
+                                                                       
+  1998-015  Equality Is a Jump                    Boldi & Vigna
+                                                                       
+
+                                                  Cristianini,         
+  1998-016  Multiplicative Updatings for          Campbell,
+            Support-Vector Learning                                    
+                                                  Shawe-Taylor
+
+                                                  Cristianini,         
+  1998-017  Dynamically Adapting Kernels in       Campbell,
+            Support Vector Machines                                    
+                                                  Shawe-Taylor
+
+                                                                       
+  1998-018  Practical Algorithms for On-line      Domingo, Gavalda,
+            Sampling                              Watanabe             
+
+---------------------------------------------------------------------------
+
+***************** ACCESS INSTRUCTIONS ******************
+
+The files and abstracts may be accessed via WWW starting from the NeuroCOLT 
+homepage:
+
+http://www.neurocolt.com/
+
+or from the archive:
+ftp://ftp.dcs.rhbnc.ac.uk/pub/neurocolt/tech_reports
+
+Alternatively, it is still possible to use ftp access as follows:
+
+% ftp ftp.dcs.rhbnc.ac.uk  (134.219.96.1)
+Name: anonymous
+password: your full email address
+ftp> cd pub/neurocolt/tech_reports/1998
+ftp> binary
+ftp> get nc-tr-1998-001.ps.Z
+ftp> bye
+% zcat nc-tr-1998-001.ps.Z | lpr 
+
+Similarly for the other technical reports.
+
+
+In some cases there are two files available, for example,
+nc-tr-97-002-title.ps.Z
+nc-tr-97-002-body.ps.Z
+The first contains the title page while the second contains the body 
+of the report. The single command,
+ftp> mget nc-tr-97-002*
+will prompt you for the files you require.
+
+
+
+
+
+
+---------------------------------------------------------------------
+| Keith Howker                     |   e-mail: jkh@dcs.rhbnc.ac.uk  |
+| Dept. of Computer Science        |   Phone : +44 1784 443696      |
+| RHUL                             |   Fax   : +44 1784 439786      |
+| EGHAM  TW20  0EX, UK             |   Home:   +44 1932 222529      |
+---------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------
+| Keith Howker                     |   e-mail: jkh@dcs.rhbnc.ac.uk  |
+| Dept. of Computer Science        |   Phone : +44 1784 443696      |
+| RHUL                             |   Fax   : +44 1784 439786      |
+| EGHAM  TW20  0EX, UK             |   Home:   +44 1932 222529      |
+---------------------------------------------------------------------
+

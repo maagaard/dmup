@@ -1,0 +1,150 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Thu Oct 14 10:43:03 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id KAA29185;
+	Thu, 14 Oct 1999 10:42:59 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa11306;
+          13 Oct 99 23:46 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa11304;
+          13 Oct 99 23:39 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa09347;
+          13 Oct 99 23:38 EDT
+Received: from CS.CMU.EDU by ux3.sp.cs.cmu.edu id aa19995; 13 Oct 99 23:23 EDT
+Received: from soc.plymouth.ac.uk by cs.cmu.edu id aa20319; 13 Oct 99 23:22 EDT
+Received: from hermes.comp (hermes.soc.plym.ac.uk [141.163.11.4])
+	by hebe.soc.plym.ac.uk (8.8.8+Sun/8.8.8) with SMTP id EAA00969
+	for <connectionists@cs.cmu.edu>; Thu, 14 Oct 1999 04:23:33 +0100 (BST)
+Received: from localhost by hermes.comp (SMI-8.6/SMI-SVR4)
+	id EAA12926; Thu, 14 Oct 1999 04:21:00 +0100
+Date: Thu, 14 Oct 1999 04:21:00 +0100 (BST)
+From: "Guido.Bugmann xtn 2566" <gbugmann@soc.plym.ac.uk>
+To: connectionists@cs.cmu.edu
+Subject: Postdoctoral Research Associate and one PhD student
+Message-ID: <Pine.GSO.4.05.9910140409310.12917-100000@hermes.soc.plym.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+Dear Moderator,
+
+the annoucement below may be of interest to
+members of the list, the project involves 
+learning (via instruction) and knowledge 
+representation (probably connectionnist).
+
+Thanks in advance for posting this
+announcement.
+
+Guido Bugmann 
+
+-----------------------------
+Dr. Guido Bugmann
+Senior Research Fellow
+Centre for Neural and Adaptive Systems
+School of Computing
+University of Plymouth
+Plymouth PL4 8AA
+United Kingdom
+-----------------------------
+
+Tel: (+44) 1752 23 25 66 / 41
+Fax: (+44) 1752 23 25 40
+Email: gbugmann@soc.plym.ac.uk
+or gbugmann@plymouth.ac.uk
+http://www.tech.plym.ac.uk/soc/Staff/GuidBugm/Bugmann.htm
+-----------------------------
+
+
+Sorry if you receive multiple copies of this announcements.
+-----------------------------------------------------------
+
+A Postdoctoral Research Associate and one PhD student are sought for an
+exciting project aimed at developing principles of "Instruction-Based
+Learning", i.e. teaching robots using natural language.
+
+This project explores a still-untapped method of knowledge acquisition
+and learning by intelligent systems: the acquisition of knowledge from
+Natural Language (NL) instruction. This is very effective in human
+learning and will be essential for adapting future intelligent systems to
+the needs of naive users. The aim of the project is to investigate real
+world Instruction Based-Learning (IBL) in a generic route instruction
+task. Users will engage in a dialogue with a mobile robot equipped with
+artificial vision, in order to teach it how to navigate a simplified
+maze-like environment. This experimental set-up will limit perceptual
+and control problems and also reduce the complexity of NL processing. The
+research will focus on the problem of how NL instructions can be used by 
+an intelligent embodied agent to build a hierarchy of complex functions
+based on a limited set of low-level perceptual, motor and cognitive
+functions. We will investigate how the internal representations required 
+for robot sensing and navigation can support a usable speech-based 
+interface. Given the use of artificial vision and voice input, such a
+system can contribute to assisting visually impaired people and wheelchair 
+users.
+
+This 3 year project for 2 research associates and one PhD student is
+funded by the UK Engineering and Physical Sciences Research Council. It
+is jointly managed by Dr. G. Bugmann of the Centre for Neural and Adaptive
+Systems of the University of Plymouth and by Dr. E. Klein of the
+Institute for Communicating and Collaborative Systems at the University of
+Edinburgh. The tasks are subdivided into two broad categories: (i)
+natural language processing and dialogue management at Edinburgh (1 RA)
+and (ii) robot experiments, knowledge representation and systems
+integration in Plymouth (1 RA, 1 RS).  The project will involve sustained
+interaction and coordination between the two groups in order to support
+the required level of integration.
+
+The positions offered in Plymouth are:
+
+1. Research Associate
+This position requires a strong background in the areas of systems
+architecture, knowledge representation, systems integration, robotics
+and artificial vision.  Salary scale: 15205-19999 UK Pounds (Pay award
+pending.)
+
+2. Research student
+The PhD student will examine some of the more speculative and open-ended
+aspects of IBL as a form of robot learning. Bursary: 6805 UK Pounds
+(funding for non-UK students submitted to restrictions).
+
+The two positions require skills in programming C++ and Perl/Python
+under Windows NT or LINUX. Experience with hardware issues and real
+world image processing is desirable.
+
+Applications should be received before 1 December, but the positions
+will remain open until suitable candidates are found.
+
+Candidates should send a CV, a description of motivations and the names
+of three references (by surface mail of email) to:
+
+Carole Watson
+School of Computing
+University of Plymouth
+Drake Circus
+Plymouth PL4 8AA, UK
+
+c.watson@plymouth.ac.uk
+Tel: +44 (0) 1752 23 25 41
+Fax: +44 (0) 1752 23 25 40
+
+Informal questions can be asked to:
+
+Dr. Guido Bugmann (abroad from 8 - 18 Oct.)
+gbugmann@soc.plym.ac.uk
+Tel: +44 (0) 1752 23 25 66
+Fax: +44 (0) 1752 23 25 40
+http://techweb.plym.ac.uk/soc/staff/guidbugm/bugmann.htm
+
+-----------------------------
+
+
+
+
+
+
+
+
+
+
+

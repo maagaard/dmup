@@ -1,0 +1,51 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu  Fri Jan 29 08:55:50 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_14041)/8.8.6) with SMTP id IAA20234;
+	Fri, 29 Jan 1999 08:55:44 +0100 (MET)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id aa10150;
+          28 Jan 99 18:40 EST
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id aa10140;
+          28 Jan 99 18:35 EST
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa22800;
+          28 Jan 99 18:35 EST
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa03439; 28 Jan 99 18:21 EST
+Received: from smaug-gw.caltech.edu by RI.CMU.EDU id aa13834;
+          28 Jan 99 18:21:08 EST
+Received: from smaug.bbb.caltech.edu ([131.215.137.60] helo=bbb.caltech.edu)
+	by gateway.bbb.caltech.edu with smtp (Exim 2.05 #2)
+	id 1060kA-0002uV-00
+	for Connectionists@CS.CMU.EDU; Thu, 28 Jan 1999 15:21:02 -0800
+Received: from [131.215.137.89] (jimmac.bbb.caltech.edu) by bbb.caltech.edu (4.1/SMI-4.1)
+	id AA29906; Thu, 28 Jan 99 15:20:57 PST
+Message-Id: <v04011726b2d6a26c3419@[131.215.137.89]>
+Date: Thu, 28 Jan 1999 15:26:05 -0800
+To: Connectionists@CS.cmu.edu
+From: "James M. Bower" <jbower@bbb.caltech.edu>
+Subject: Postdoctoral Position 
+Status: RO
+X-Status: 
+
+
+Postdoctoral Position Available in Neuroimaging and Computational Neuroscience:
+
+A postdoctoral position is available in an NINDS-funded research project
+combining human neuroimaging (e.g., fMRI),  healthy and patient population
+psychophysics, rat electrophysiology (multi-unit recordings), and
+computational modeling to investigate novel hypotheses about cerebellar
+function.  The project is a collaboration between James Bower (at Caltech)
+and Lawrence Parsons and Peter Fox (at the Research Imaging Center,
+University of Texas Health Science Center at San Antonio).  Term of
+position is 2-3 years,available immediately.  Particular interest exists
+for candidates with a Ph.D. or M.D. who have experience in neuroimaging,
+experimental psychophysics, or neurology.  Qualified women and minority
+candidates are strongly encouraged to apply.  Send CV, three letters of
+recommendation, and two reprints to either: Professor J. M. Bower, Division
+of Biology 216-76, California Institute of Biology, Pasadena, CA 91125,
+USA; or Professor L. M. Parsons, Research Imaging Center, University of
+Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78284,
+USA.  Email inquiries can be made to parsons@uthscsa.edu or
+jbower@bbb.caltech.edu.  For related publications, see: Gao, Parsons, Bower
+et al., Science 272, 545 1996;  and the chapters by Bower and by Parsons &
+Fox in Cerebellum & Cognition (J. Schmahmann, Ed., Academic Press, 1997).

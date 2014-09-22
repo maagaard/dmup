@@ -1,0 +1,45 @@
+
+
+From Webmaster@RobotBooks.com Tue Nov 30 09:15:23 MET 1999
+Received: from hendrix.imm.dtu.dk (hendrix.imm.dtu.dk [192.38.71.100])
+	by eivind.imm.dtu.dk (8.9.3 (PHNE_18979)/8.8.6) with ESMTP id JAA13428
+	for <fnielsen@eivind.imm.dtu.dk>; Tue, 30 Nov 1999 09:15:22 +0100 (MET)
+From: Webmaster@RobotBooks.com
+Received: from proxy2.ba.best.com (root@proxy2.ba.best.com [206.184.139.14])
+	by hendrix.imm.dtu.dk (8.9.1/8.9.1) with ESMTP id JAA14588
+	for <www@hendrix.imm.dtu.dk>; Tue, 30 Nov 1999 09:16:50 +0100 (MET)
+Received: from c998836-a (c998836-a.smateo1.sfba.home.com [24.5.200.103])
+	by proxy2.ba.best.com (8.9.3/8.9.2/best.out) with SMTP id AAA28144
+	for <www@hendrix.imm.dtu.dk>; Tue, 30 Nov 1999 00:12:51 -0800 (PST)
+Date: Tue, 30 Nov 1999 00:12:51 -0800 (PST)
+To: www@hendrix.imm.dtu.dk
+Subject: Re: Mindstorms Robotic Invention Systems
+Organization: Robot Books.com
+Message-Id: <4I55WA8A.CT1ZNL14@RobotBooks.com>
+Status: RO
+X-Status: 
+
+
+We are happy to announce that international shipping of
+the Lego Mindstorms Robotic Invention System is now available!
+
+And in case you haven't seen it yet, make sure to take a look at
+the new kit, Lego MindStorms Robotics Discovery Set.
+
+You can read more about these two great kits as well as the
+Lego Mindstorms Extreme Creatures Expansion Set,and the
+Lego Mindstorms RoboSports Expansion Set at
+http://www.robotbooks.com/
+
+You will need to order now if you want to have it delivered
+by Christmas.
+
+Thanks,
+
+Carlo Bertocchini
+http://www.robotbooks.com/
+
+To unsubscribe, reply to this message with the word "unsubscribe"
+in the subject line.
+
+

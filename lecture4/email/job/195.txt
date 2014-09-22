@@ -1,0 +1,81 @@
+
+
+From ml-connectionists-request@mlist-1.sp.cs.cmu.edu Wed Oct 13 04:06:42 MET 1999
+Received: from mlist-1.sp.cs.cmu.edu (MLIST-1.SP.CS.CMU.EDU [128.2.185.162])
+	by eivind.imm.dtu.dk (8.8.6 (PHNE_17135)/8.8.6) with SMTP id EAA20886;
+	Wed, 13 Oct 1999 04:06:38 +0200 (METDST)
+Received: from mlist-1.sp.cs.cmu.edu by mlist-1.sp.cs.cmu.edu id ab07863;
+          12 Oct 99 19:46 EDT
+Received: from SKINNER.BOLTZ.CS.CMU.EDU by mlist-1.sp.cs.cmu.edu id ab07857;
+          12 Oct 99 19:33 EDT
+Received: from skinner.boltz.cs.cmu.edu by skinner.boltz.cs.cmu.edu id aa07401;
+          12 Oct 99 19:32 EDT
+Received: from RI.CMU.EDU by ux3.sp.cs.cmu.edu id aa15880; 12 Oct 99 17:43 EDT
+Received: from cse.ogi.edu by RI.CMU.EDU id aa07346; 12 Oct 99 17:42:50 EDT
+Received: from sideous (sideous.cse.ogi.edu [129.95.54.120])
+	by church.cse.ogi.edu (8.9.3/8.9.3) with SMTP id OAA22500;
+	Tue, 12 Oct 1999 14:42:47 -0700 (PDT)
+From: Phil Cohen <pcohen@cse.ogi.edu>
+To: connectionists@cs.cmu.edu, SCRIB-L@NIC.SURFNET.NL
+MMDF-Warning:  Parse error in original version of preceding line at skinner.boltz.cs.cmu.edu
+Cc: Phil Cohen <pcohen@cse.ogi.edu>
+Subject: Postdoctoral Position:   Gesture recognition at OGI
+Date: Tue, 12 Oct 1999 14:44:52 -0700
+Message-ID: <007601bf14fb$03f41d60$78365f81@cse.ogi.edu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook 8.5, Build 4.71.2173.0
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+Importance: Normal
+Status: RO
+X-Status: 
+
+The following position is available at the Center for Human-Computer
+Communication at the Oregon Graduate Institute:
+
+TOPIC: Two-dimensional and three-dimensional gesture recognition as
+part of multimodal systems.  You will be an integral member of a
+multidisciplinary team that has developed leading edge technology.
+Topics will include gesture interaction for 2-D map-based
+interactions, and also for 3-D real and virtual worlds.
+
+EXPERIENCE: Postdoctoral researcher (new Ph.D. or more experienced),
+extensive knowledge of neural networks (especially committee-based
+approaches), and HMMs.  Prior work with gesture recognition and/or
+handwriting recognition is essential.  Experience with natural
+language processing would also be desirable.
+
+SOFTWARE DEVELOPMENT ENVIRONMENTS:  Should be familiar with MatLab,
+and program in C++ on PC's and Unix.  Experience with Windows CE would
+also be desirable.
+
+Compensation will be competitive.
+
+INSTITUTION: CHCC at OGI is one of the world's leading institutions
+engaged in research on multimodal interaction.  We are well-supported
+by DARPA, NSF, ONR, and other organizations. The QuickSet multimodal
+system is highly regarded and is a key part of numerous Government
+programs.  To learn more about our Center and our work, please visit
+http://www.cse.ogi.edu/CHCC.
+
+AREA: Portland, Oregon is a fine place to live.  There are numerous
+outdoors activities (skiing, windsurfing, hiking, beach combing, etc.)
+within 1 hour's drive.  Yes, it rains here in winter (but it probably
+does something nasty where you live too.)  However, one can often have
+5 months of no/little rain in Spring/Summer/Fall.
+
+To apply, please send a resume, research statment,
+and names/contact information for at least 3 references to:
+
+Prof. Phil Cohen
+Center for Human-Computer Communication
+Oregon Graduate Institute of Science and Technology
+20000 NW Walker Rd.
+Beaverton, OR 97006
+503-690-1326
+Fax:  503-690-1548
+
