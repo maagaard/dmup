@@ -1,0 +1,9 @@
+Projects:
+
+1) Twitter sentiment analysis:
+	
+
+
+2) ODAA - car and road use analysis:
+	
+	

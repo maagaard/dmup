@@ -11,6 +11,8 @@
 		}
 	],
 	"git":"git@github.com:emaagaard/dmup.git",
-	"description":"Description",
+	"description":"Description
+
+	",
 	"modules":[""]
 }
