@@ -1,0 +1,16 @@
+{
+	"title": "Title not decided yet",
+	"members": [
+		{
+			"name":"Emil Rask Maagaard",
+			"study_number":"s142955"
+		},
+		{
+			"name":"Bjarke Vad Andersen",
+			"study_number":"s14xxxx"
+		}
+	],
+	"git":"git@github.com:emaagaard/dmup.git",
+	"description":"Description",
+	"modules":[""]
+}
