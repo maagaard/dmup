@@ -16,4 +16,12 @@ def segment_text():
 
 	print sentences
 
-segment_text()
+def segment_text2():
+	fid = open('string.txt', 'r')
+	text = fid.read()
+	fid.close()
+	sentences = nltk.sent_tokenize(text)
+
+	print sentences
+
+segment_text2()

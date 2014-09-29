@@ -1,11 +1,11 @@
 documents = [ dict(
-            email=open("conference/%d.txt" % n).read().strip(), 
+            email=open("email/conference/%d.txt" % n).read().strip(), 
             category='conference') for n in range(1,372) ]
 documents.extend([ dict( 
-            email=open("job/%d.txt" % n).read().strip(),
+            email=open("email/job/%d.txt" % n).read().strip(),
             category='job') for n in range(1,275)])
 documents.extend([ dict( 
-            email=open("spam/%d.txt" % n).read().strip(), 
+            email=open("email/spam/%d.txt" % n).read().strip(), 
             category='spam') for n in range(1,799) ])
  
  
@@ -33,13 +33,18 @@ def document_features(document):
   for word in word_features:
     features['contains(%s)' % word] = (word in document_words)
   return features
-
-
+ 
+ 
 import random
 random.shuffle(documents)
 
 featuresets = [(document_features(d), d['category']) for d in documents]
 train_set, test_set = featuresets[721:], featuresets[:721]
-
+ 
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 
+# print classifier.classify(document_features(documents[53]))
+# print documents[53]['text'][:60]
+print nltk.classify.accuracy(classifier, test_set)
+
+# print classifier.show_most_informative_features(10)
