@@ -12,5 +12,5 @@
 	],
 	"git":"git@github.com:emaagaard/dmup.git",
 	"description":"Twitter sentiment analysis: Analyse sentiment by hashtags, get user sentiment concerning a topic(hastag). Should have user input - so that any hashtag can be explored. Show sentiment development over time (eg. from start to finish in a football match)",
-	"modules":[""]
+	"modules":["nltk", "pands", "twitter", "flask", "sklearn", "networkx"]
 }

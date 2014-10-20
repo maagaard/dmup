@@ -1,6 +1,8 @@
 dmup
 ====
 
-Data mining using python
+Emil Maagaard and Bjarke Vads shared repository for DTU course 02819 - Data mining using python
 
-SUP BITCH
+The repository contains files from lectures and exercises as well as the course project.
+
+
