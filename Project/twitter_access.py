@@ -19,7 +19,6 @@ def access_twitter():
 
 	client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
 
-	# "search?q=%23liverpool%20since%3A2014-10-20&src=typd"
 
 	query_tag = "%23liverpool"
 	start_date = "2014-10-01"
@@ -57,18 +56,6 @@ def access_twitter():
 		print status['text']
 
 
-
-	# consumer = oauth.Consumer(key=twitterkeys.consumer_key, secret=twitterkeys.consumer_secret)
-	# client = oauth.Client(consumer)
-	# response, content = client.request(request_token_url, "GET")
-	# request_token = dict(urlparse.parse_qsl(content))
-	# url = "%s?oauth_token=%s" % (authorize_url, request_token["oauth_token"])
-	# webbrowser.open(url)
-	# token = oauth.Token(request_token["oauth_token"], request_token["oauth_token_secret"])
-
-	# token.set_verifier(oauth_verifier)
-	# client = oauth.Client(consumer, token)
-	# response, content = client.request(access_token_url, "POST")
 
 
 def get_tweets_with_tag(tag):
