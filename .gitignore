@@ -7,6 +7,7 @@ __pycache__/
 
 # Private files
 Project/dmup_project.json
+Project/twitterkeys.py
 
 # Distribution / packaging
 .Python
