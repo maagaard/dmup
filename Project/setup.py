@@ -11,13 +11,11 @@ setup(
 	license='MIT',	#include LICENSE-MIT or something like that
 	keywords=''
 	url='http://github.com/maagaard/dmup/project'
-	packages=find_packages(),
+	# packages=find_packages(),
 	install_requirements=[],
-	tests_requires=[],
+	tests_require=[],
 	classifiers=[
 		'Programming Language :: Python :: 2.7',
 		'Licence :: OSI Approved :: MIT License'
 	],
-	
-
 )
