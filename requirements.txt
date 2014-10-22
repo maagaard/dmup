@@ -12,7 +12,6 @@ decorator==3.4.0
 gnureadline==6.3.3
 ipython==2.2.0
 itsdangerous==0.24
-matplotlib==1.4.0
 mock==1.0.1
 networkx==1.9
 nltk==2.0.4
