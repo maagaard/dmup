@@ -62,34 +62,6 @@ def get_tweets_with_tag(tag, count):
 
 	return get_tweets_with_tag_and_period(tag, count, None, None)
 
-	# tag = "%23" + tag
-
-	# client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
-
-	# query = tag + "&count=" + str(count)  # str(MAX_TWEET_COUNT)
-
-	# # tweets = client.request(twitter_api_url + query_tweets_url + query)
-	# response_json = client.request(twitter_api_url + query_tweets_url + query)
-	# response_dict = json.loads(json.dumps(response_json, sort_keys=True))
-	# search_metadata = response_dict['search_metadata']
-
-	# print "Query for " + tag
-	# print "query time: " + str(search_metadata['completed_in'])
-
-	# statuses = response_dict['statuses']
-
-	# tweets = []
-	# for status in statuses:
-	# 	tweet = Tweet(status)
-	# 	tweets.append(tweet)
-
-	# 	# print "Tweet: " + tweet.text
-	# 	# print "From user: " + tweet.user.name
-	# 	# print "Favorited: " + str(tweet.favorite_count)
-	# 	# print "Retweeted: " + str(tweet.retweet_count)
-
-	# return tweets
-
 
 if __name__ == '__main__':
 	get_tweets_with_tag("test_tag")
