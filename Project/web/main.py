@@ -1,11 +1,15 @@
 from flask import Flask, render_template
+from collections import namedtuple
+
 app = Flask(__name__)
 
 
-class NavigationItem:
-    def __init__(self, href, caption):
-        self.href = href
-        self.caption = caption
+# class NavigationItem:
+#     def __init__(self, href, caption):
+#         self.href = href
+#         self.caption = caption
+
+NavigationItem = namedtuple("NavigationItem", ['href', 'caption'])
 
 
 @app.route('/')
