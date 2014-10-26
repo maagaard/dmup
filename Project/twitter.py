@@ -2,6 +2,7 @@
 # encoding: utf-8
 import twitterkeys
 import json
+# import datetime
 from application_only_auth import Client
 from model import Tweet
 
@@ -63,5 +64,64 @@ def get_tweets_with_tag(tag, count):
 	return get_tweets_with_tag_and_period(tag, count, None, None)
 
 
+def get_tweets_with_tag_and_max_id(client, tag, max_id):
+	tag = "%23" + tag
+
+	# client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
+
+	query = tag
+	query += "&result_type=" + "recent"  # result_type
+	if max_id is not None:
+		query += "&max_id=" + str(max_id)
+	query += "&count=" + str(MAX_TWEET_COUNT)
+
+	# tweets = client.request(twitter_api_url + query_tweets_url + query)
+
+	response_json = client.request(twitter_api_url + query_tweets_url + query)
+	response_dict = json.loads(json.dumps(response_json, sort_keys=True))
+	search_metadata = response_dict['search_metadata']
+
+	print "Query for " + tag
+	print "query time: " + str(search_metadata['completed_in'])
+
+	statuses = response_dict['statuses']
+
+	tweets = []
+	for status in statuses:
+		tweet = Tweet(status)
+		tweets.append(tweet)
+		print str(tweet.id) + ", " + tweet.created_at
+		# print "Tweet: " + tweet.text
+		# print "From user: " + tweet.user.name
+		# print "Favorited: " + str(tweet.favorite_count)
+		# print "Retweeted: " + str(tweet.retweet_count)
+
+	new_max_id = tweets[-1].id
+	return (tweets, new_max_id)
+
+
+def get_full_timeline(search_tag):
+	# now = datetime.datetime.now()
+	# print now.date()
+	client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
+
+	max_id = None
+	new_max_id = None
+	loop_counter = 0
+
+	# Iterate over timeline
+	while (loop_counter == 0) | (max_id != new_max_id):
+
+		max_id -= new_max_id - 1 if new_max_id is not None else None
+
+		(new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(client, search_tag, max_id)
+
+		loop_counter += 1
+		print loop_counter
+		print str(max_id) + ", " + str(new_max_id)
+
+
+
 if __name__ == '__main__':
-	get_tweets_with_tag("test_tag")
+	# get_tweets_with_tag("test_tag")
+	get_full_timeline("liverpool")
