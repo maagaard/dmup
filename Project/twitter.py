@@ -2,7 +2,7 @@
 # encoding: utf-8
 import twitterkeys
 import json
-# import datetime
+import datetime
 import codecs
 from application_only_auth import Client
 from model import Tweet
@@ -71,9 +71,10 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 		query += "&max_id=" + str(max_id)
 	query += "&count=" + str(MAX_TWEET_COUNT)
 
-	# tweets = client.request(twitter_api_url + query_tweets_url + query)
-
+	request_start = datetime.datetime.now()
 	response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
+	print "request time: " + str(datetime.datetime.now() - request_start)
+
 	response_dict = json.loads(json.dumps(response_json, sort_keys=True))
 	search_metadata = response_dict['search_metadata']
 
@@ -101,6 +102,7 @@ def get_timeline(search_tag):
 	# now = datetime.datetime.now()
 	# print now.date()
 	client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
+	client._get_access_token()
 
 	max_id = None
 	new_max_id = None
@@ -120,10 +122,11 @@ def get_timeline(search_tag):
 		print loop_counter
 		# print str(max_id) + ", " + str(new_max_id)
 
-		# if loop_counter == 10:
-		# 	break
+		if loop_counter == 3:
+			break
 
 		# write_tweets_to_file("test1.txt", timeline)
+	return timeline
 
 
 def write_tweets_to_file(filename, tweets):
