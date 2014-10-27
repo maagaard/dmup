@@ -3,6 +3,7 @@
 import twitterkeys
 import json
 # import datetime
+import codecs
 from application_only_auth import Client
 from model import Tweet
 
@@ -49,25 +50,20 @@ def get_tweets_with_tag_and_period(tag, count, from_date, until_date):
 	for status in statuses:
 		tweet = Tweet(status)
 		tweets.append(tweet)
-
 		# print "Tweet: " + tweet.text
 		# print "From user: " + tweet.user.name
 		# print "Favorited: " + str(tweet.favorite_count)
 		# print "Retweeted: " + str(tweet.retweet_count)
-
 	return tweets
 
 
 
 def get_tweets_with_tag(tag, count):
-
 	return get_tweets_with_tag_and_period(tag, count, None, None)
 
 
 def get_tweets_with_tag_and_max_id(client, tag, max_id):
 	tag = "%23" + tag
-
-	# client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
 
 	query = tag
 	query += "&result_type=" + "recent"  # result_type
@@ -77,7 +73,7 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 
 	# tweets = client.request(twitter_api_url + query_tweets_url + query)
 
-	response_json = client.request(twitter_api_url + query_tweets_url + query)
+	response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
 	response_dict = json.loads(json.dumps(response_json, sort_keys=True))
 	search_metadata = response_dict['search_metadata']
 
@@ -90,7 +86,8 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 	for status in statuses:
 		tweet = Tweet(status)
 		tweets.append(tweet)
-		print str(tweet.id) + ", " + tweet.created_at
+		# print str(tweet.id) + ", " + tweet.created_at
+
 		# print "Tweet: " + tweet.text
 		# print "From user: " + tweet.user.name
 		# print "Favorited: " + str(tweet.favorite_count)
@@ -100,7 +97,7 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 	return (tweets, new_max_id)
 
 
-def get_full_timeline(search_tag):
+def get_timeline(search_tag):
 	# now = datetime.datetime.now()
 	# print now.date()
 	client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
@@ -109,19 +106,33 @@ def get_full_timeline(search_tag):
 	new_max_id = None
 	loop_counter = 0
 
+	timeline = []
+
 	# Iterate over timeline
 	while (loop_counter == 0) | (max_id != new_max_id):
-
-		max_id -= new_max_id - 1 if new_max_id is not None else None
+		loop_counter += 1
+		max_id = new_max_id - 1 if new_max_id is not None else None
 
 		(new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(client, search_tag, max_id)
 
-		loop_counter += 1
-		print loop_counter
-		print str(max_id) + ", " + str(new_max_id)
+		timeline.extend(new_tweets)
 
+		print loop_counter
+		# print str(max_id) + ", " + str(new_max_id)
+
+		if loop_counter == 10:
+			break
+
+		# write_tweets_to_file("test1.txt", timeline)
+
+
+def write_tweets_to_file(filename, tweets):
+	with codecs.open(filename, 'w', "utf-8") as file:
+		for tweet in tweets:
+			file.write("%s\n" % tweet.text)
+	file.close()
 
 
 if __name__ == '__main__':
 	# get_tweets_with_tag("test_tag")
-	get_full_timeline("liverpool")
+	get_timeline("liverpool")
