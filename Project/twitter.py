@@ -73,13 +73,13 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 
 	request_start = datetime.datetime.now()
 	response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
-	print "request time: " + str(datetime.datetime.now() - request_start)
+	# print "request time: " + str(datetime.datetime.now() - request_start)
 
 	response_dict = json.loads(json.dumps(response_json, sort_keys=True))
 	search_metadata = response_dict['search_metadata']
 
-	print "Query for " + tag
-	print "query time: " + str(search_metadata['completed_in'])
+	# print "Query for " + tag
+	# print "query time: " + str(search_metadata['completed_in'])
 
 	statuses = response_dict['statuses']
 
@@ -116,12 +116,9 @@ def get_timeline(search_tag):
 		max_id = new_max_id - 1 if new_max_id is not None else None
 
 		(new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(client, search_tag, max_id)
-
 		timeline.extend(new_tweets)
 
-		print loop_counter
 		# print str(max_id) + ", " + str(new_max_id)
-
 		if loop_counter == 3:
 			break
 
