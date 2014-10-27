@@ -120,8 +120,8 @@ def get_timeline(search_tag):
 		print loop_counter
 		# print str(max_id) + ", " + str(new_max_id)
 
-		if loop_counter == 10:
-			break
+		# if loop_counter == 10:
+		# 	break
 
 		# write_tweets_to_file("test1.txt", timeline)
 
