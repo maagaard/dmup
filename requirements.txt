@@ -28,5 +28,5 @@ requests==2.4.1
 scikit-learn==0.15.1
 scipy==0.14.0
 six==1.8.0
--f git+git://github.com/pabluk/twitter-application-only-auth/archive/master.ziptwitter-application-only-auth==0.3.1
+-e git://github.com:pabluk/twitter-application-only-auth.git
 wsgiref==0.1.2
