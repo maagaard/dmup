@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 import twitter
-# import nltk
+import nltk
 from textblob import TextBlob
 
 
@@ -30,5 +30,30 @@ def do_analysis():
 	return tweets
 
 
+def do_nltk():
+	tweets = twitter.get_timeline("swiftlang")
+
+	tokens = []
+	for tweet in tweets:
+		tokens.extend(nltk.word_tokenize(tweet.text))
+
+	print len(tokens)
+
+	return tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == '__main__':
-	do_analysis()
+	do_nltk()
+	# do_analysis()
