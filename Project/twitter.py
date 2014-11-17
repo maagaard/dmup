@@ -57,7 +57,6 @@ def get_tweets_with_tag_and_period(tag, count, from_date, until_date):
     return tweets
 
 
-
 def get_tweets_with_tag(tag, count):
     return get_tweets_with_tag_and_period(tag, count, None, None)
 
@@ -66,7 +65,6 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
     tag = "%23" + tag
 
     query = tag
-    # query += "%20%3A("
     query += "&result_type=" + "recent"  # result_type
     if max_id is not None:
         query += "&max_id=" + str(max_id)
@@ -99,10 +97,7 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
     return (tweets, new_max_id)
 
 
-# def get_timeline(search_tag):
-#   return get_timeline(search_tag, 100)
-
-def get_timeline(search_tag, length):
+def get_timeline(search_tag):
     # now = datetime.datetime.now()
     # print now.date()
     client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
@@ -119,11 +114,12 @@ def get_timeline(search_tag, length):
         loop_counter += 1
         max_id = new_max_id - 1 if new_max_id is not None else None
 
-        (new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(client, search_tag, max_id)
+        (new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(
+            client, search_tag, max_id)
         timeline.extend(new_tweets)
 
         # print str(max_id) + ", " + str(new_max_id)
-        if len(timeline) >= length:
+        if loop_counter == 3:
             break
 
         # write_tweets_to_file("test1.txt", timeline)
@@ -137,23 +133,17 @@ def write_tweets_to_file(filename, tweets):
     tweet_file.close()
 
 
+# def get_training_data():
+#   timeline1 = get_timeline("LFC")
+#   timeline2 = get_timeline("manutd")
+#   timeline3 = get_timeline("swiftlang")
+#   timeline4 = get_timeline("lollipop")
 
-def get_training_data():
-    timeline1 = get_timeline("LFC")
-    timeline2 = get_timeline("manutd")
-    timeline3 = get_timeline("swiftlang")
-    timeline4 = get_timeline("lollipop")
+#   timelines = [timeline1, timeline2, timeline3, timeline4]
 
-    timelines = [timeline1, timeline2, timeline3, timeline4]
-
-    # for timeline in timelines:
-    #   for tweet in timeline:
-    #       if tweet.:
-
-
-
-
+#   for timeline in timelines:
+#       for tweet in timeline:
 
 if __name__ == '__main__':
     # get_tweets_with_tag("test_tag")
-    get_timeline("liverpool", 100)
+    get_timeline("liverpool")
