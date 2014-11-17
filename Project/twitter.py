@@ -127,10 +127,25 @@ def get_timeline(search_tag):
 
 
 def write_tweets_to_file(filename, tweets):
-	with codecs.open(filename, 'w', "utf-8") as file:
+	with codecs.open(filename, 'w', "utf-8") as tweet_file:
 		for tweet in tweets:
-			file.write("%s\n" % tweet.text)
-	file.close()
+			tweet_file.write("%s\n" % tweet.text)
+	tweet_file.close()
+
+
+
+def get_training_data():
+	timeline1 = get_timeline("LFC")
+	timeline2 = get_timeline("manutd")
+	timeline3 = get_timeline("swiftlang")
+	timeline4 = get_timeline("lollipop")
+
+	timelines = [timeline1, timeline2, timeline3, timeline4]
+
+	for timeline in timelines:
+		for tweet in timeline:
+			
+
 
 
 if __name__ == '__main__':
