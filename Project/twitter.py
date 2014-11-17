@@ -65,13 +65,14 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
     tag = "%23" + tag
 
     query = tag
+    # query += "%20%3A("
     query += "&result_type=" + "recent"  # result_type
     if max_id is not None:
         query += "&max_id=" + str(max_id)
     query += "&count=" + str(MAX_TWEET_COUNT)
 
     request_start = datetime.datetime.now()
-    response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
+    response_json = client.request(twitter_api_url + query_tweets_url + query) # Time consuming!!!
     # print "request time: " + str(datetime.datetime.now() - request_start)
 
     response_dict = json.loads(json.dumps(response_json, sort_keys=True))
@@ -97,7 +98,10 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
     return (tweets, new_max_id)
 
 
-def get_timeline(search_tag):
+# def get_timeline(search_tag):
+#   return get_timeline(search_tag, 100)
+
+def get_timeline(search_tag, length):
     # now = datetime.datetime.now()
     # print now.date()
     client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
@@ -119,7 +123,7 @@ def get_timeline(search_tag):
         timeline.extend(new_tweets)
 
         # print str(max_id) + ", " + str(new_max_id)
-        if loop_counter == 3:
+        if len(timeline) >= length:
             break
 
         # write_tweets_to_file("test1.txt", timeline)
@@ -138,6 +142,10 @@ def write_tweets_to_file(filename, tweets):
 #   timeline2 = get_timeline("manutd")
 #   timeline3 = get_timeline("swiftlang")
 #   timeline4 = get_timeline("lollipop")
+#   for timeline in timelines:
+#       for tweet in timeline:
+#       if tweet.:
+
 
 #   timelines = [timeline1, timeline2, timeline3, timeline4]
 
@@ -146,4 +154,4 @@ def write_tweets_to_file(filename, tweets):
 
 if __name__ == '__main__':
     # get_tweets_with_tag("test_tag")
-    get_timeline("liverpool")
+    get_timeline("liverpool", 100)

@@ -3,14 +3,15 @@
 <head>
     <title>My Webpage</title>
 </head>
+    <h1>Twitter Sentiment Analysis</h1>
+    <h2>02819 - Datamining Using Python</h2>
 <body>
     <ul id="navigation">
     {% for item in tweets %}
         <li>
-          <a>{{ item.text }}</a>
+          <a>{{ item.text + item.str() }}</a>
         </li>
     {% endfor %}
     </ul>
-    <h1>My Webpage</h1>
 </body>
 </html>
