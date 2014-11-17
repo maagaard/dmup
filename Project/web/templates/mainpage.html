@@ -3,13 +3,27 @@
 <head>
     <title>My Webpage</title>
 </head>
+    <ul id="navigation">
+      {% for item in navigationitems %}
+        <li>
+          <a href={{ item.href }}>{{ item.caption }} </a>
+        </li>
+      {% endfor %}
+    </ul>
     <h1>Twitter Sentiment Analysis</h1>
     <h2>02819 - Datamining Using Python</h2>
 <body>
-    <ul id="navigation">
-    {% for item in tweets %}
+  <form method="post" name="search">
+    <p>
+      Enter a hashtag: <br>
+    </p>
+    <p><input type="text" name="hashtag"></p>
+    <p><input type="submit" value="Search"></p>
+  </form>
+    <ul id="tweets">
+    {% for tweet in tweets %}
         <li>
-          <a>{{ item.text + item.str() }}</a>
+          <a>{{ tweet.text }}</a>
         </li>
     {% endfor %}
     </ul>
