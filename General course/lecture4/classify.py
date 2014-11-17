@@ -40,7 +40,7 @@ random.shuffle(documents)
 
 featuresets = [(document_features(d), d['category']) for d in documents]
 train_set, test_set = featuresets[721:], featuresets[:721]
- 
+
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 
 # print classifier.classify(document_features(documents[53]))
