@@ -146,6 +146,14 @@ def write_tweets_to_file(filename, tweets):
     tweet_file.close()
 
 
+def write_jsondata_to_file(filename, data):
+    with open(filename, 'w') as outfile:
+        json.dump(data, outfile)
+
+
+def read_json_from_file(filename):
+    with open(filename, 'r') as data_file:
+        return json.load(data_file)
 # def get_training_data():
 #     timeline1 = get_timeline("LFC%20%3A)")
 #     timeline2 = get_timeline("manutd%20%3A)")
@@ -158,6 +166,21 @@ def write_tweets_to_file(filename, tweets):
 #     #   for tweet in timeline:
           # if tweet.:
 
+def tweets_from_json(json_data):
+    response_dict = json.loads(json.dumps(json_data, sort_keys=True))
+    # search_metadata = response_dict['search_metadata']
+
+    statuses = response_dict['statuses']
+
+    tweets = []
+    for status in statuses:
+        tweet = Tweet(status)
+        tweets.append(tweet)
+
+    return tweets
+
+
+
 def get_training_tweets():
     pos1 = get_timeline("LFC%20%3A)", 100)
     pos2 = get_timeline("manutd%20%3A)", 100)
@@ -169,6 +192,17 @@ def get_training_tweets():
     # neg3 = get_timeline("swiftlang%20%3A(", 100)
     # neg4 = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
+
+    return {"pos": pos1 + pos2, "neg": neg1 + neg2}
+
+
+def get_offline_tweets():
+
+    pos1 = tweets_from_json(read_json_from_file("lfc_pos.json"))
+    pos2 = tweets_from_json(read_json_from_file("manutd_pos.json"))
+    neg1 = tweets_from_json(read_json_from_file("lfc_neg.json"))
+    neg2 = tweets_from_json(read_json_from_file("manutd_neg.json"))
+
 
     return {"pos": pos1 + pos2, "neg": neg1 + neg2}
 
