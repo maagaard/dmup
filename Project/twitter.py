@@ -68,6 +68,7 @@ def get_tweets_with_tag(tag, count):
 
 
 def get_tweets_with_tag_and_max_id(client, tag, max_id):
+    # filename = tag
     tag = "%23" + tag
 
     query = tag
@@ -84,6 +85,8 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
     response_dict = json.loads(json.dumps(response_json, sort_keys=True))
     search_metadata = response_dict['search_metadata']
 
+    # write_jsondata_to_file(filename, response_json)
+    
     # print "Query for " + tag
     # print "query time: " + str(search_metadata['completed_in'])
 
@@ -196,6 +199,21 @@ def get_training_tweets():
     return {"pos": pos1 + pos2, "neg": neg1 + neg2}
 
 
+
+def get_test_tweets():
+    # pos_test = get_timeline("swiftlang%20%3A)", 100)
+    # pos_test = get_timeline("kimkardashian%20%3A)", 100)
+    # pos5 = get_timeline("cometlanding%20%3A)", 100)
+    pos_test = get_timeline("StarWars%20%3A)", 100)
+
+    # neg_test = get_timeline("swiftlang%20%3A(", 100)
+    # neg_test = get_timeline("kimkardashian%20%3A(", 100)
+    # neg5 = get_timeline("cometlanding%20%3A(", 100)
+    neg_test = get_timeline("StarWars%20%3A(", 100)
+
+    return {"pos_test": pos_test, "neg_test": neg_test}
+
+
 def get_offline_tweets():
 
     pos1 = tweets_from_json(read_json_from_file("lfc_pos.json"))
@@ -205,6 +223,14 @@ def get_offline_tweets():
 
 
     return {"pos": pos1 + pos2, "neg": neg1 + neg2}
+
+
+def get_offline_test_tweets():
+
+    pos1 = tweets_from_json(read_json_from_file("starwars_pos.json"))
+    neg1 = tweets_from_json(read_json_from_file("starwars_neg.json"))
+
+    return {"pos": pos1, "neg": neg1}
 
 if __name__ == '__main__':
     # get_tweets_with_tag("test_tag")

@@ -3,7 +3,7 @@ from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import movie_reviews
 from re import split
 import twitter
-import model
+import happyfuntokenizing
 
 # Training on movie_reviews
 # train on twitter data as well?
@@ -33,52 +33,91 @@ def film_review_features():
     classifier.show_most_informative_features()
 
 
+def extract_features(feature_data):
+
+
+    return
 
 print "My testing"
 
 
 # tweets = twitter.get_training_tweets()
 tweets = twitter.get_offline_tweets()
+test_tweets = twitter.get_offline_test_tweets()
 
 
-pos_tweets = tweets["pos"]
-neg_tweets = tweets["neg"]
+# --- Word split method
+# pos_tweets = tweets["pos"]
+# neg_tweets = tweets["neg"]
+# pos_words = [split('\W+', tweet.text) for tweet in pos_tweets]
+# neg_words = [split('\W+', tweet.text) for tweet in neg_tweets]
+# tweets = pos_words + neg_words
+# # -
+# pos_test_tweets = test_tweets["pos"]
+# neg_test_tweets = test_tweets["neg"]
+# pos_test_words = [split('\W+', tweet.text) for tweet in pos_test_tweets]
+# neg_test_words = [split('\W+', tweet.text) for tweet in neg_test_tweets]
+# test_tweets = pos_test_words + neg_test_words
+
+# --- Full tweet method
+# pos_tweets = [t.text for t in tweets["pos"]]
+# neg_tweets = [t.text for t in tweets["neg"]]
+# tweets = pos_tweets + neg_tweets
+# # -
+# pos_test_tweets = [t.text for t in test_tweets["pos"]]
+# neg_test_tweets = [t.text for t in test_tweets["neg"]]
+# test_tweets = pos_test_tweets + neg_test_tweets
 
 
-pos_words = [split('\W+', tweet.text) for tweet in pos_tweets]
-neg_words = [split('\W+', tweet.text) for tweet in neg_tweets]
-documents = pos_words + neg_words
+# # ----
+# all_words = nltk.FreqDist(w.lower() for t in tweets for w in t)
+# word_features = all_words.keys()    # set a limit so not all words are used. e.g. [:len(self)/2]
+# # print len(all_words.keys())
 
-# for n in range(len(documents)):
-#   html = message_from_string(documents[n]['email']).get_payload()
-#   while not isinstance(html, str):                 # Multipart problem
-#     html = html[0].get_payload()
-#   text = ' '.join(BS(html).findAll(text=True))      # Strip HTML
-#   documents[n]['html'] = html
-#   documents[n]['text'] = text
-#   documents[n]['words'] = split('\W+', text)        # Find words
-
-all_words = nltk.FreqDist(w.lower() for d in documents for w in d)
-
-# word_features = all_words.keys()[:2000]
-print len(all_words.keys())
-
-# def document_features(document):
-#   document_words = set(document['words'])
-#   features = {}
-#   for word in word_features:
-#     features['contains(%s)' % word] = (word in document_words)
-#   return features
+# all_test_words = nltk.FreqDist(w.lower() for t in test_tweets for w in t)
+# test_word_features = all_test_words.keys()
 
 
-# import random
-# random.shuffle(documents)
+# --- Tokenize method
+tokenizer = happyfuntokenizing.Tokenizer(preserve_case=False)
+pos_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="positive") for tweet in tweets["pos"]]
+neg_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="negative") for tweet in tweets["neg"]]
+tweets = pos_tweet_tokens + neg_tweet_tokens
+# print pos_tweet_tokens
+# -
+pos_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="positive") for tweet in test_tweets["pos"]]
+neg_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="negative") for tweet in test_tweets["neg"]]
+test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
 
-# featuresets = [(document_features(d), d['category']) for d in documents]
-# train_set, test_set = featuresets[721:], featuresets[:721]
+# test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
 
-# classifier = nltk.NaiveBayesClassifier.train(train_set)
+import nltk
+all_words = nltk.FreqDist(t.lower() for d in tweets for t in d["tokens"])
+word_features = all_words.keys()
 
-# # print classifier.classify(document_features(documents[53]))
-# # print documents[53]['text'][:60]
-# print nltk.classify.accuracy(classifier, test_set)
+
+def tweet_features(tweet):
+    tweet_words = set(tweet)
+    features = {}
+    for word in word_features:
+        features['contains(%s)' % word] = (word in tweet_words)
+    return features
+
+
+import random
+random.shuffle(tweets)
+random.shuffle(test_tweets)
+
+
+train_set = [(tweet_features(d["tokens"]), d["polarity"]) for d in tweets]
+test_set = [(tweet_features(d["tokens"]), d["polarity"]) for d in test_tweets]
+
+print tweets[0:10]
+
+classifier = nltk.NaiveBayesClassifier.train(train_set)
+
+# print classifier.classify(document_features(documents[53]))
+# print documents[53]['text'][:60]
+
+print nltk.classify.accuracy(classifier, test_set)
+classifier.show_most_informative_features()
