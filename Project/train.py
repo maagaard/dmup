@@ -5,6 +5,8 @@ from nltk.corpus import movie_reviews
 import twitter
 import happyfuntokenizing
 from twokenize import simpleTokenize
+import nltk
+import random
 
 # Training on movie_reviews
 # train on twitter data as well?
@@ -43,16 +45,6 @@ def extract_features(feature_data):
     return
 
 
-print "My testing"
-
-
-if OFFLINE:
-    tweets = twitter.get_offline_tweets()
-    test_tweets = twitter.get_offline_test_tweets()
-else:
-    tweets = twitter.get_training_tweets()
-    test_tweets = twitter.get_test_tweets()
-
 
 # --- Word split method
 # pos_tweets = tweets["pos"]
@@ -85,45 +77,7 @@ else:
 # all_test_words = nltk.FreqDist(w.lower() for t in test_tweets for w in t)
 # test_word_features = all_test_words.keys()
 
-
-
-# --- Tokenize method - HappyFunTokenizing
-if TOKENIZER == "HAPPYFUN":
-    tokenizer = happyfuntokenizing.Tokenizer(preserve_case=False)
-    pos_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
-                        polarity="positive") for tweet in tweets["pos"]]
-    neg_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
-                        polarity="negative") for tweet in tweets["neg"]]
-    tweets = pos_tweet_tokens + neg_tweet_tokens
-    # print pos_tweet_tokens
-    # -
-    pos_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
-                                  polarity="positive") for tweet in test_tweets["pos"]]
-    neg_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
-                                  polarity="negative") for tweet in test_tweets["neg"]]
-    test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
-
-else:
-    pos_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="positive") for tweet in tweets["pos"]]
-    neg_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="negative") for tweet in tweets["neg"]]
-    tweets = pos_tweet_tokens + neg_tweet_tokens
-    # print pos_tweet_tokens
-    # -
-    pos_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
-                                  polarity="positive") for tweet in test_tweets["pos"]]
-    neg_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
-                                  polarity="negative") for tweet in test_tweets["neg"]]
-    test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
-
-
-# test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
-
-import nltk
-all_words = nltk.FreqDist(t.lower() for d in tweets for t in d["tokens"])
-word_features = all_words.keys()
-
-
-def tweet_features(tweet):
+def tweet_features(tweet, word_features):
     tweet_words = set(tweet)
     features = {}
     for word in word_features:
@@ -131,19 +85,86 @@ def tweet_features(tweet):
     return features
 
 
-import random
-random.shuffle(tweets)
-random.shuffle(test_tweets)
+def train():
+
+    if OFFLINE:
+        tweets = twitter.get_offline_tweets()
+        test_tweets = twitter.get_offline_test_tweets()
+    else:
+        tweets = twitter.get_training_tweets()
+        test_tweets = twitter.get_test_tweets()
 
 
-train_set = [(tweet_features(d["tokens"]), d["polarity"]) for d in tweets]
-test_set = [(tweet_features(d["tokens"]), d["polarity"]) for d in test_tweets]
+    # --- Tokenize method - HappyFunTokenizing
+    if TOKENIZER == "HAPPYFUN":
+        tokenizer = happyfuntokenizing.Tokenizer(preserve_case=False)
+        pos_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                            polarity="positive") for tweet in tweets["pos"]]
+        neg_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                            polarity="negative") for tweet in tweets["neg"]]
+        tweets = pos_tweet_tokens + neg_tweet_tokens
+        # print pos_tweet_tokens
+        # -
+        pos_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                                      polarity="positive") for tweet in test_tweets["pos"]]
+        neg_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                                      polarity="negative") for tweet in test_tweets["neg"]]
+        test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
+
+    else:
+        pos_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="positive") for tweet in tweets["pos"]]
+        neg_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="negative") for tweet in tweets["neg"]]
+        tweets = pos_tweet_tokens + neg_tweet_tokens
+        # print pos_tweet_tokens
+        # -
+        pos_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
+                                      polarity="positive") for tweet in test_tweets["pos"]]
+        neg_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
+                                      polarity="negative") for tweet in test_tweets["neg"]]
+        test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
 
 
-classifier = nltk.NaiveBayesClassifier.train(train_set)
+    # test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
 
-# print classifier.classify(document_features(documents[53]))
-# print documents[53]['text'][:60]
 
-print nltk.classify.accuracy(classifier, test_set)
-classifier.show_most_informative_features()
+    all_words = nltk.FreqDist(t.lower() for d in tweets for t in d["tokens"])
+    word_features = all_words.keys()
+
+    random.shuffle(tweets)
+    random.shuffle(test_tweets)
+
+
+    train_set = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in tweets]
+    test_set = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in test_tweets]
+
+
+    classifier = nltk.NaiveBayesClassifier.train(train_set)
+
+    # print classifier.classify(document_features(documents[53]))
+    # print documents[53]['text'][:60]
+
+    print nltk.classify.accuracy(classifier, test_set)
+    classifier.show_most_informative_features()
+
+    return classifier
+
+
+def featstuff(tokens):
+        tweet_tokens = set(tokens)
+        features = {}
+        for word in tweet_tokens:
+            features['contains(%s)' % word] = (word in tweet_tokens)
+        return features
+
+
+def classify_tweets(classifier, tweet_objects):
+
+    tweets = [simpleTokenize(tweet.text) for tweet in tweet_objects]
+
+    feat_set = [(featstuff(tokens), "polarity") for tokens in tweets]
+
+
+    # featuresets = [(document_features(d), d['category']) for d in documents]
+
+    for pdist in classifier.prob_classify(feat_set):
+        print('%.4f %.4f' % (pdist.prob(classifier.labels()[0], pdist.prob(classifier.labels()[1]))))
