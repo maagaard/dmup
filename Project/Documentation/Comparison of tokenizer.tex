@@ -1,0 +1,58 @@
+Comparison of tokenizer
+
+Tokenizer ARK: http://www.ark.cs.cmu.edu/TweetNLP/
+Tokenizer HappyFun: http://sentiment.christopherpotts.net/tokenizing.html
+
+
+---- ARK ----------
+[u'@Sherlin_LFC', u'@KopAce74', u'Well', u'I', u'want', u'them', u'to', u'die', u'then', u'...', u'fucking', u'horrible', u'rats', u'can', u'fuck', u'off', u'and', u'support', u'someone', u'else', u':))', u'#LFC']
+---- HappyFun -----
+[u'@sherlin_lfc', u'@kopace74', u'well', u'i', u'want', u'them', u'to', u'die', u'then', u'...', u'fucking', u'horrible', u'rats', u'can', u'fuck', u'off', u'and', u'support', u'someone', u'else', u':)', u')', u'#lfc']
+
+
+---- ARK ----------
+[u'@Kita___K', u'maybe', u'yesterday', u'was', u'the', u'official', u'start', u'of', u'out', u'campaign', u':)', u'#LFC']
+---- HappyFun -----
+[u'@kita___k', u'maybe', u'yesterday', u'was', u'the', u'official', u'start', u'of', u'out', u'campaign', u':)', u'#lfc']
+
+
+---- ARK ----------
+[u'Gapapa', u':p', u'RT', u'@zolafirdaus9', u':', u'ada', u'apa', u'??', u':)', u'"', u'dony_sudjatmiko', u':', u'Tjieh', u':)', u'RT', u'@zolafirdaus9', u':', u'headernya', u'juga', u'baruu', u'lohhh', u'#LFC', u'\xed', u'\xbd\xed\xb8\x99\xed', u'\xbd\xed\xb8\ufffd']
+---- HappyFun -----
+[u'gapapa', u':p', u'rt', u'@zolafirdaus9', u':', u'ada', u'apa', u'?', u'?', u':)', u'"', u'dony_sudjatmiko', u':', u'tjieh', u':)', u'rt', u'@zolafirdaus9', u':', u'headernya', u'juga', u'baruu', u'lohhh', u'#lfc', u'\xed', u'\xbd\xed', u'\xb8', u'\x99', u'\xed', u'\xbd\xed', u'\xb8', u'\ufffd']
+
+
+---- ARK ----------
+[u'ada', u'apa', u'??', u':)', u'"', u'@dony_sudjatmiko', u':', u'Tjieh', u':)', u'RT', u'@zolafirdaus9', u':', u'headernya', u'juga', u'baruu', u'lohhh', u'#LFC', u'\xed', u'\xbd\xed\xb8\x99\xed', u'\xbd\xed\xb8\x8d', u'"']
+---- HappyFun -----
+[u'ada', u'apa', u'?', u'?', u':)', u'"', u'@dony_sudjatmiko', u':', u'tjieh', u':)', u'rt', u'@zolafirdaus9', u':', u'headernya', u'juga', u'baruu', u'lohhh', u'#lfc', u'\xed', u'\xbd\xed', u'\xb8', u'\x99', u'\xed', u'\xbd\xed', u'\xb8', u'\x8d', u'"']
+
+
+---- ARK ----------
+[u'Tjieh', u':)', u'RT', u'@zolafirdaus9', u':', u'headernya', u'juga', u'baruu', u'lohhh', u'#LFC', u'\xed\xa0\xbd\xed\xb8\x99\xed\xa0\xbd\xed\xb8\x8d']
+---- HappyFun -----
+[u'tjieh', u':)', u'rt', u'@zolafirdaus9', u':', u'headernya', u'juga', u'baruu', u'lohhh', u'#lfc', u'\xed', u'\xbd\xed', u'\xb8', u'\x99', u'\xed', u'\xbd\xed', u'\xb8', u'\x8d']
+
+
+---- ARK ----------
+[u'@_TheLiverBird', u'@azoceanblue', u'@timbolton1', u'@CR458', u'Thanks', u'Kirsty', u':', u')', u'\u26bd\ufe0f', u'#YNWA', u'#LFC']
+---- HappyFun -----
+[u'@_theliverbird', u'@azoceanblue', u'@timbolton1', u'@cr458', u'thanks', u'kirsty', u':', u')', u'\u26bd', u'\ufe0f', u'#ynwa', u'#lfc']
+
+
+---- ARK ----------
+[u':)', u'"', u'@TeleFootball', u':', u'Roma', u'hope', u'to', u'persuade', u'Glen', u'Johnson', u'to', u'sign', u'pre-contract', u'in', u'January', u'http://t.co/rEuPcSOekJ', u'#LFC', u'http://t.co/KP6KUa4OER', u'"']
+---- HappyFun -----
+[u':)', u'"', u'@telefootball', u':', u'roma', u'hope', u'to', u'persuade', u'glen', u'johnson', u'to', u'sign', u'pre-contract', u'in', u'january', u'http', u':/', u'/', u't', u'.', u'co', u'/', u'reupcsoekj', u'#lfc', u'http', u':/', u'/', u't', u'.', u'co', u'/', u'kp6kua4oer', u'"']
+
+
+---- ARK ----------
+[u'RT', u'@lfchkfans', u':', u'Good', u'then', u':)', u'#lfc', u'http://t.co/NTUMCdwlYE']
+---- HappyFun -----
+[u'rt', u'@lfchkfans', u':', u'good', u'then', u':)', u'#lfc', u'http', u':/', u'/', u't', u'.', u'co', u'/', u'ntumcdwlye']
+
+
+---- ARK ----------
+[u'Good', u'then', u':)', u'#lfc', u'http://t.co/NTUMCdwlYE']
+---- HappyFun -----
+[u'good', u'then', u':)', u'#lfc', u'http', u':/', u'/', u't', u'.', u'co', u'/', u'ntumcdwlye']
