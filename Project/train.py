@@ -1,12 +1,17 @@
 import nltk.classify.util
 from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import movie_reviews
-from re import split
+# from re import split
 import twitter
 import happyfuntokenizing
+from twokenize import simpleTokenize
 
 # Training on movie_reviews
 # train on twitter data as well?
+
+# TOKENIZER = "HAPPYFUN"
+TOKENIZER = "ARK"
+OFFLINE = False
 
 
 def word_feats(words):
@@ -35,15 +40,18 @@ def film_review_features():
 
 def extract_features(feature_data):
 
-
     return
+
 
 print "My testing"
 
 
-# tweets = twitter.get_training_tweets()
-tweets = twitter.get_offline_tweets()
-test_tweets = twitter.get_offline_test_tweets()
+if OFFLINE:
+    tweets = twitter.get_offline_tweets()
+    test_tweets = twitter.get_offline_test_tweets()
+else:
+    tweets = twitter.get_training_tweets()
+    test_tweets = twitter.get_test_tweets()
 
 
 # --- Word split method
@@ -78,16 +86,35 @@ test_tweets = twitter.get_offline_test_tweets()
 # test_word_features = all_test_words.keys()
 
 
-# --- Tokenize method
-tokenizer = happyfuntokenizing.Tokenizer(preserve_case=False)
-pos_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="positive") for tweet in tweets["pos"]]
-neg_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="negative") for tweet in tweets["neg"]]
-tweets = pos_tweet_tokens + neg_tweet_tokens
-# print pos_tweet_tokens
-# -
-pos_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="positive") for tweet in test_tweets["pos"]]
-neg_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text), polarity="negative") for tweet in test_tweets["neg"]]
-test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
+
+# --- Tokenize method - HappyFunTokenizing
+if TOKENIZER == "HAPPYFUN":
+    tokenizer = happyfuntokenizing.Tokenizer(preserve_case=False)
+    pos_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                        polarity="positive") for tweet in tweets["pos"]]
+    neg_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                        polarity="negative") for tweet in tweets["neg"]]
+    tweets = pos_tweet_tokens + neg_tweet_tokens
+    # print pos_tweet_tokens
+    # -
+    pos_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                                  polarity="positive") for tweet in test_tweets["pos"]]
+    neg_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                                  polarity="negative") for tweet in test_tweets["neg"]]
+    test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
+
+else:
+    pos_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="positive") for tweet in tweets["pos"]]
+    neg_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="negative") for tweet in tweets["neg"]]
+    tweets = pos_tweet_tokens + neg_tweet_tokens
+    # print pos_tweet_tokens
+    # -
+    pos_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
+                                  polarity="positive") for tweet in test_tweets["pos"]]
+    neg_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
+                                  polarity="negative") for tweet in test_tweets["neg"]]
+    test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
+
 
 # test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
 
@@ -112,7 +139,6 @@ random.shuffle(test_tweets)
 train_set = [(tweet_features(d["tokens"]), d["polarity"]) for d in tweets]
 test_set = [(tweet_features(d["tokens"]), d["polarity"]) for d in test_tweets]
 
-print tweets[0:10]
 
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 

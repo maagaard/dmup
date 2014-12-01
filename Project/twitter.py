@@ -73,20 +73,21 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 
     query = tag
     # query += "%20%3A("
+    query += "%20lang%3Aen"
     query += "&result_type=" + "recent"  # result_type
     if max_id is not None:
         query += "&max_id=" + str(max_id)
     query += "&count=" + str(MAX_TWEET_COUNT)
 
     request_start = datetime.datetime.now()
-    response_json = client.request(twitter_api_url + query_tweets_url + query) # Time consuming!!!
+    response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
     # print "request time: " + str(datetime.datetime.now() - request_start)
 
     response_dict = json.loads(json.dumps(response_json, sort_keys=True))
     search_metadata = response_dict['search_metadata']
 
     # write_jsondata_to_file(filename, response_json)
-    
+
     # print "Query for " + tag
     # print "query time: " + str(search_metadata['completed_in'])
 
@@ -169,6 +170,7 @@ def read_json_from_file(filename):
 #     #   for tweet in timeline:
           # if tweet.:
 
+
 def tweets_from_json(json_data):
     response_dict = json.loads(json.dumps(json_data, sort_keys=True))
     # search_metadata = response_dict['search_metadata']
@@ -185,33 +187,42 @@ def tweets_from_json(json_data):
 
 
 def get_training_tweets():
-    pos1 = get_timeline("LFC%20%3A)", 100)
-    pos2 = get_timeline("manutd%20%3A)", 100)
-    # pos3 = get_timeline("swiftlang%20%3A)", 100)
+    pos = []
+    neg = []
+
+    pos.extend(get_timeline("LFC%20%3A)", 100))
+    pos.extend(get_timeline("manutd%20%3A)", 100))
+    pos.extend(get_timeline("swiftlang%20%3A)", 100))
+    pos.extend(get_timeline("StarWars%20%3A)", 100))
     # pos4 = get_timeline("kimkardashian%20%3A)", 100)
     # pos5 = get_timeline("cometlanding%20%3A)", 100)
-    neg1 = get_timeline("LFC%20%3A(", 100)
-    neg2 = get_timeline("manutd%20%3A(", 100)
-    # neg3 = get_timeline("swiftlang%20%3A(", 100)
+
+    neg.extend(get_timeline("LFC%20%3A(", 100))
+    neg.extend(get_timeline("manutd%20%3A(", 100))
+    neg.extend(get_timeline("swiftlang%20%3A(", 100))
+    neg.extend(get_timeline("StarWars%20%3A(", 100))
     # neg4 = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
 
-    return {"pos": pos1 + pos2, "neg": neg1 + neg2}
+    return {"pos": pos, "neg": neg}
 
 
 
 def get_test_tweets():
+    pos = []
+    neg = []
+
     # pos_test = get_timeline("swiftlang%20%3A)", 100)
     # pos_test = get_timeline("kimkardashian%20%3A)", 100)
     # pos5 = get_timeline("cometlanding%20%3A)", 100)
-    pos_test = get_timeline("StarWars%20%3A)", 100)
+    pos.extend(get_timeline("Ferguson%20%3A)", 100))
 
     # neg_test = get_timeline("swiftlang%20%3A(", 100)
     # neg_test = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
-    neg_test = get_timeline("StarWars%20%3A(", 100)
+    neg.extend(get_timeline("Ferguson%20%3A(", 100))
 
-    return {"pos_test": pos_test, "neg_test": neg_test}
+    return {"pos": pos, "neg": neg}
 
 
 def get_offline_tweets():
@@ -231,6 +242,7 @@ def get_offline_test_tweets():
     neg1 = tweets_from_json(read_json_from_file("starwars_neg.json"))
 
     return {"pos": pos1, "neg": neg1}
+
 
 if __name__ == '__main__':
     # get_tweets_with_tag("test_tag")
