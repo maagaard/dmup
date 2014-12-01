@@ -34,6 +34,8 @@ def film_review_features():
     testfeats = negfeats[negcutoff:] + posfeats[poscutoff:]
     print 'train on %d instances, test on %d instances' % (len(trainfeats), len(testfeats))
 
+    print testfeats.get_
+
     classifier = NaiveBayesClassifier.train(trainfeats)
 
     print 'accuracy:', nltk.classify.util.accuracy(classifier, testfeats)
@@ -157,14 +159,44 @@ def featstuff(tokens):
         return features
 
 
+def document_features(document):
+    return dict([('contains-word(%s)' % w, True) for w in document])
+
+
 def classify_tweets(classifier, tweet_objects, word_features):
 
     tweets = [simpleTokenize(tweet.text) for tweet in tweet_objects]
+    # feat_set = []
+    # for tokens in tweets:
+    #     feats = {}
+    #     feat_tuple = ()
+    #     for token in tokens:
+    #         feats[token] = True
+    #     feat_tuple = (feats, )
+    #     feat_set.append(feat_tuple)
 
-    feat_set = [(tweet_features(tokens, word_features), "pol") for tokens in tweets]
+    # negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
+    feat_set = [word_feats(tokens) for tokens in tweets]
+    # feat_set = [((word_feats(tokens)), 'what') for tokens in tweets]
 
+    # feat_set = [dict(token=True) for tokens in tweets for token in tokens]
+    # feat_set = [dict(tokens=tokens) for tokens in tweets]
+    # feat_set = [(tweet_features(tokens, word_features)) for tokens in tweets]
+
+    # print feat_set[0:2]
 
     # featuresets = [(document_features(d), d['category']) for d in documents]
 
-    for pdist in classifier.prob_classify(feat_set):
-        print('%.4f %.4f' % (pdist.prob(classifier.labels()[0], pdist.prob(classifier.labels()[1]))))
+    for pdist in classifier.prob_classify_many(feat_set):
+        print('%.4f %.4f' % (pdist.prob(classifier.labels()[0]), pdist.prob(classifier.labels()[1])))
+
+    return feat_set
+
+
+def test_test(classifier):
+    lols = ({u'all': True, u'right': True, u'http://t.co/BG3sEog9cl': True, u'am': True, u'To': True, u'Sorry': True, u'#Ferguson': True, u'Happy': True, u'RT': True, u'no': True, u're': True, u'tweets': True, u':': True, u'http': True, u'Thanksgiving': True, u'now': True, u'by': True, u'--': True, u'consumed': True, u'\u2026': True, u'@ExposingALEC': True, u':))': True, u'ALEC': True}, {u'RT': True, u'and': True, u'#Ferguson': True, u':)': True, u'@Op_Israel': True, u'heartwarming': True, u'is': True, u'#Palestine': True, u'so': True, u'between': True, u':': True, u'Solidarity': True})
+    # lol = ({'cute': True, 'all': True, 'think': True, 'letterman': True, 'just': True, 'moments': True, 'when': True, 'move': True, 'effects': True, 'enjoyable': True, 'reclaim': True, 'executed': True, 'feat': True, 'its': True, 'before': True, 'note': True, 'style': True, 'death': True, 'buddy': True, 'everything': True, 'reluctant': True, '(': True, 'had': True, ',': True, 'send': True, 'actually': True, 'better': True, 'to': True, 'must': True, 'wags': True, 'win': True, 'save': True, 'norm': True, '?': True, 'then': True, 'his': True, 'prowess': True, 'very': True, 'big': True, 'possibly': True, 'game': True, 'cannot': True, 'courtroom': True, 'they': True, 'formula': True, 'not': True, 'gloom': True, 'school': True, 'gets': True, 'name': True, '--': True, 'follows': True, 'clad': True, 'yeah': True, 'michael': True, 'make': True, 'clown': True, 'father': True, 'true': True, 'stupid': True, 'rockets': True, 't': True, 'shots': True, 'team': True, 'where': True, 'heavy': True, 'lie': True, 'quicker': True, 'old': True, 'picture': True, 'splish': True, 'idea': True, 'ends': True, 'see': True, 'are': True, 'sight': True, 'mine': True, 'absurdity': True, 'special': True, 'out': True, 'even': True, 'comeuppance': True, 'plays': True, 'both': True, "'": True, 'solemn': True, 'movie': True, 'while': True, 'current': True, 're': True, 'connection': True, 'sneakers': True, 'new': True, 'slapstick': True, 'approach': True, 'disney': True, 'be': True, 'we': True, 'were': True, 'here': True, 'quite': True, 'credits': True, 'pooch': True, 'basketball': True, 'sink': True, 'although': True, 'alone': True, 'musical': True, 'predictability': True, 'retriever': True, 'boy': True, 'pairs': True, 'actual': True, 'anything': True, 'of': True, 'could': True, 'or': True, 'david': True, 'motion': True, 'accomplished': True, 'chain': True, 'asked': True, 'jersey': True, 'golden': True, 'own': True, 'family': True, 'josh': True, 'abusive': True, 'mopey': True, 'washington': True, 'number': True, 'whatever': True, 'one': True, 'appropriate': True, 'esteem': True, 'sequences': True, 'owner': True, 'fernwell': True, 'story': True, '"': True, 'from': True, 'i': True, 'would': True, 'paint': True, 'there': True, 'two': True, 'been': True, '.': True, 'zegers': True, 'their': True, 'splash': True, 'newspapers': True, 'recent': True, 'climax': True, 'opens': True, 'more': True, 'back': True, 'snively': True, 'himself': True, 'on': True, 'successful': True, 'but': True, 'surprisingly': True, 'visual': True, 'last': True, 'trying': True, 'with': True, 'than': True, 'bud': True, 'he': True, 'fades': True, 'hire': True, ':': True, 'places': True, 'this': True, 'yeller': True, 'straight': True, 'insists': True, 'up': True, 'air': True, 'trick': True, 'matter': True, 'mascot': True, 'can': True, 'joke': True, 'spilled': True, 'cans': True, 'and': True, 'escapes': True, 'is': True, 'cleaned': True, 'it': True, 'doesn': True, 'an': True, 'twist': True, 'player': True, 'as': True, 'proves': True, 'exist': True, 'at': True, 'have': True, 'in': True, 'faux': True, 'seem': True, 'saw': True, 'tells': True, 'kevin': True, 'if': True, '!': True, 'funny': True, 'court': True, 'no': True, ')': True, 'granted': True, 'cope': True, '-': True, 's': True, 'occasional': True, 'contracts': True, 'that': True, 'interested': True, 'animal': True, 'tricks': True, 'k9': True, 'comedy': True, 'events': True, 'surfaces': True, 'begin': True, 'used': True, 'okay': True, 'marches': True, 'forced': True, 'may': True, 'moment': True, 'buried': True, 'end': True, 'friend': True, 'else': True, 'segment': True, 'finals': True, 'off': True, 'kid': True, 'a': True, 'realized': True, 'least': True, 'for': True, 'montage': True, 'light': True, 'calculated': True, 'well': True, 'dog': True, 'face': True, 'tale': True, 'pet': True, 'cheer': True, 'block': True, 'jeter': True, 'rabies': True, 'the': True, 'self': True, 'once': True})
+
+    return classifier.prob_classify_many(lols)
+    # for pdist in
+    #     print('%.4f %.4f' % (pdist.prob(classifier.labels()[0], pdist.prob(classifier.labels()[1]))))
