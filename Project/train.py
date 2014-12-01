@@ -146,7 +146,7 @@ def train():
     print nltk.classify.accuracy(classifier, test_set)
     classifier.show_most_informative_features()
 
-    return classifier
+    return classifier, word_features
 
 
 def featstuff(tokens):
@@ -157,11 +157,11 @@ def featstuff(tokens):
         return features
 
 
-def classify_tweets(classifier, tweet_objects):
+def classify_tweets(classifier, tweet_objects, word_features):
 
     tweets = [simpleTokenize(tweet.text) for tweet in tweet_objects]
 
-    feat_set = [(featstuff(tokens), "polarity") for tokens in tweets]
+    feat_set = [(tweet_features(tokens, word_features), "pol") for tokens in tweets]
 
 
     # featuresets = [(document_features(d), d['category']) for d in documents]
