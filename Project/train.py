@@ -7,6 +7,7 @@ import happyfuntokenizing
 from twokenize import simpleTokenize
 import nltk
 import random
+from debug import DLOG
 
 # Training on movie_reviews
 # train on twitter data as well?
@@ -14,12 +15,6 @@ import random
 # TOKENIZER = "HAPPYFUN"
 TOKENIZER = "ARK"
 OFFLINE = False
-DEBUG = False
-
-
-def DLOG(log_message):
-    if DEBUG:
-        print log_message
 
 
 def word_feats(words):
@@ -343,3 +338,7 @@ def training():
     classifier.show_most_informative_features()
 
     return classifier, word_features
+
+
+def test_dlog():
+    DLOG("Print if debug is True")
