@@ -2,6 +2,9 @@
 
 """
 import psycopg2
+import model
+import sys
+sys.path.insert(0, '../')
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -85,16 +88,31 @@ def create_tables(connection):
     );
     """)
 
-
     connection.commit()
     cur.close()
 
 
-def create_tweet(connection, tweet):
-    for hashtag in tweet['entities']['hashtags']:
-        text = hashtag['text']
-        print text
-    raise NotImplementedError
+def create_tweet(connection, tweet, polarity=0):
+    cur = connection.cursor()
+    hashtag_ids = []
+    for hashtag in tweet.entities['hashtags']:
+        hashtag_text = hashtag['text']
+        print hashtag_text
+        cur.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag_text)
+        count = cur.fetchone()[0]
+        print count
+        if count == 0:  # Insert and get IDs
+            cur.execute('INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
+                        (0, hashtag_text))
+            hashtag_ids.append(cur.fetchone()[0])
+        else:  # Get IDs only
+            cur.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag_text)
+            hashtag_ids.append(cur.fetchone()[0])
+
+    cur.execute('INSERT INTO tweets ')
+    print hashtag_ids
+    connection.commit()
+    cur.close()
 
 
 def read_tweets_hashtag(connection, hashtag):
