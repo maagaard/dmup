@@ -1,12 +1,25 @@
 import nltk.classify.util
 from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import movie_reviews
-from re import split
+# from re import split
 import twitter
-import model
+import happyfuntokenizing
+from twokenize import simpleTokenize
+import nltk
+import random
 
 # Training on movie_reviews
 # train on twitter data as well?
+
+# TOKENIZER = "HAPPYFUN"
+TOKENIZER = "ARK"
+OFFLINE = False
+DEBUG = True
+
+
+def DLOG(log_message):
+    if DEBUG:
+        print log_message
 
 
 def word_feats(words):
@@ -27,6 +40,8 @@ def film_review_features():
     testfeats = negfeats[negcutoff:] + posfeats[poscutoff:]
     print 'train on %d instances, test on %d instances' % (len(trainfeats), len(testfeats))
 
+    print testfeats.get_
+
     classifier = NaiveBayesClassifier.train(trainfeats)
 
     print 'accuracy:', nltk.classify.util.accuracy(classifier, testfeats)
@@ -34,51 +49,213 @@ def film_review_features():
 
 
 
-print "My testing"
+
+# --- Word split method
+# pos_tweets = tweets["pos"]
+# neg_tweets = tweets["neg"]
+# pos_words = [split('\W+', tweet.text) for tweet in pos_tweets]
+# neg_words = [split('\W+', tweet.text) for tweet in neg_tweets]
+# tweets = pos_words + neg_words
+# # -
+# pos_test_tweets = test_tweets["pos"]
+# neg_test_tweets = test_tweets["neg"]
+# pos_test_words = [split('\W+', tweet.text) for tweet in pos_test_tweets]
+# neg_test_words = [split('\W+', tweet.text) for tweet in neg_test_tweets]
+# test_tweets = pos_test_words + neg_test_words
+
+# --- Full tweet method
+# pos_tweets = [t.text for t in tweets["pos"]]
+# neg_tweets = [t.text for t in tweets["neg"]]
+# tweets = pos_tweets + neg_tweets
+# # -
+# pos_test_tweets = [t.text for t in test_tweets["pos"]]
+# neg_test_tweets = [t.text for t in test_tweets["neg"]]
+# test_tweets = pos_test_tweets + neg_test_tweets
 
 
-# tweets = twitter.get_training_tweets()
-tweets = twitter.get_offline_tweets()
+# # ----
+# all_words = nltk.FreqDist(w.lower() for t in tweets for w in t)
+# word_features = all_words.keys()    # set a limit so not all words are used. e.g. [:len(self)/2]
+# # print len(all_words.keys())
+
+# all_test_words = nltk.FreqDist(w.lower() for t in test_tweets for w in t)
+# test_word_features = all_test_words.keys()
+
+def tweet_features(tweet, word_features):
+    tweet_words = set(tweet)
+    features = {}
+    for word in word_features:
+        features['contains(%s)' % word] = (word in tweet_words)
+    return features
 
 
-pos_tweets = tweets["pos"]
-neg_tweets = tweets["neg"]
+def train():
+
+    if OFFLINE:
+        tweets = twitter.get_offline_tweets()
+        test_tweets = twitter.get_offline_test_tweets()
+    else:
+        tweets = twitter.get_training_tweets()
+        test_tweets = twitter.get_test_tweets()
 
 
-pos_words = [split('\W+', tweet.text) for tweet in pos_tweets]
-neg_words = [split('\W+', tweet.text) for tweet in neg_tweets]
-documents = pos_words + neg_words
+    # --- Tokenize method - HappyFunTokenizing
+    if TOKENIZER == "HAPPYFUN":
+        tokenizer = happyfuntokenizing.Tokenizer(preserve_case=False)
+        pos_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                            polarity="positive") for tweet in tweets["pos"]]
+        neg_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                            polarity="negative") for tweet in tweets["neg"]]
+        tweets = pos_tweet_tokens + neg_tweet_tokens
+        # print pos_tweet_tokens
+        # -
+        pos_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                                      polarity="positive") for tweet in test_tweets["pos"]]
+        neg_test_tweet_tokens = [dict(tokens=tokenizer.tokenize(tweet.text),
+                                      polarity="negative") for tweet in test_tweets["neg"]]
+        test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
 
-# for n in range(len(documents)):
-#   html = message_from_string(documents[n]['email']).get_payload()
-#   while not isinstance(html, str):                 # Multipart problem
-#     html = html[0].get_payload()
-#   text = ' '.join(BS(html).findAll(text=True))      # Strip HTML
-#   documents[n]['html'] = html
-#   documents[n]['text'] = text
-#   documents[n]['words'] = split('\W+', text)        # Find words
-
-all_words = nltk.FreqDist(w.lower() for d in documents for w in d)
-
-# word_features = all_words.keys()[:2000]
-print len(all_words.keys())
-
-# def document_features(document):
-#   document_words = set(document['words'])
-#   features = {}
-#   for word in word_features:
-#     features['contains(%s)' % word] = (word in document_words)
-#   return features
+    else:
+        pos_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="positive") for tweet in tweets["pos"]]
+        neg_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text), polarity="negative") for tweet in tweets["neg"]]
+        tweets = pos_tweet_tokens + neg_tweet_tokens
+        # print pos_tweet_tokens
+        # -
+        pos_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
+                                      polarity="positive") for tweet in test_tweets["pos"]]
+        neg_test_tweet_tokens = [dict(tokens=simpleTokenize(tweet.text),
+                                      polarity="negative") for tweet in test_tweets["neg"]]
+        test_tweets = pos_test_tweet_tokens + neg_test_tweet_tokens
 
 
-# import random
-# random.shuffle(documents)
+    # test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
 
-# featuresets = [(document_features(d), d['category']) for d in documents]
-# train_set, test_set = featuresets[721:], featuresets[:721]
 
-# classifier = nltk.NaiveBayesClassifier.train(train_set)
+    all_words = nltk.FreqDist(t.lower() for d in tweets for t in d["tokens"])
+    word_features = all_words.keys()
 
-# # print classifier.classify(document_features(documents[53]))
-# # print documents[53]['text'][:60]
-# print nltk.classify.accuracy(classifier, test_set)
+    random.shuffle(tweets)
+    random.shuffle(test_tweets)
+
+
+    train_set = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in tweets]
+    test_set = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in test_tweets]
+
+
+    classifier = nltk.NaiveBayesClassifier.train(train_set)
+
+    # print classifier.classify(document_features(documents[53]))
+    # print documents[53]['text'][:60]
+
+    print nltk.classify.accuracy(classifier, test_set)
+    classifier.show_most_informative_features()
+
+    return classifier, word_features
+
+
+def featstuff(tokens):
+    tweet_tokens = set(tokens)
+    features = {}
+    for word in tweet_tokens:
+        features['contains(%s)' % word] = (word in tweet_tokens)
+    return features
+
+
+def document_features(document):
+    return dict([('contains-word(%s)' % w, True) for w in document])
+
+
+def extract_features(tweets):
+    tweets = tweets
+
+
+
+
+def classify_tweets(classifier, tweet_objects, word_features):
+
+    tweets = [simpleTokenize(tweet.text) for tweet in tweet_objects]
+    # feat_set = []
+    # for tokens in tweets:
+    #     feats = {}
+    #     feat_tuple = ()
+    #     for token in tokens:
+    #         feats[token] = True
+    #     feat_tuple = (feats, )
+    #     feat_set.append(feat_tuple)
+
+    print tweets[0:2]
+
+    # negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
+    feat_set = [word_feats(tokens) for tokens in tweets]
+    # feat_set = [((word_feats(tokens)), 'what') for tokens in tweets]
+
+    # feat_set = [dict(token=True) for tokens in tweets for token in tokens]
+    # feat_set = [dict(tokens=tokens) for tokens in tweets]
+    # feat_set = [(tweet_features(tokens, word_features)) for tokens in tweets]
+
+    # print feat_set[0:2]
+
+    # featuresets = [(document_features(d), d['category']) for d in documents]
+
+    for pdist in classifier.prob_classify_many(feat_set):
+        print('%.4f %.4f' % (pdist.prob(classifier.labels()[0]), pdist.prob(classifier.labels()[1])))
+
+    return feat_set
+
+
+
+def test_test(classifier):
+    lols = (
+            {u'all': True, u'right': True, u'http://t.co/BG3sEog9cl': True, u'am': True, u'To': True, u'Sorry': True,
+             u'#Ferguson': True, u'Happy': True, u'RT': True, u'no': True, u're': True, u'tweets': True, u':': True,
+             u'http': True, u'Thanksgiving': True, u'now': True, u'by': True, u'--': True, u'consumed': True,
+             u'\u2026': True, u'@ExposingALEC': True, u':))': True, u'ALEC': True},
+            {u'RT': True, u'and': True,
+             u'#Ferguson': True, u':)': True, u'@Op_Israel': True, u'heartwarming': True, u'is': True,
+             u'#Palestine': True, u'so': True, u'between': True, u':': True, u'Solidarity': True})
+
+    return classifier.prob_classify_many(lols)
+    # for pdist in
+    #     print('%.4f %.4f' % (pdist.prob(classifier.labels()[0], pdist.prob(classifier.labels()[1]))))
+
+
+
+def test_filter():
+    lol = [
+            [u'Well', u'shut', u'my', u'mouth', u'...', u':)', u'Meet', u'#Devonte', u',', u'the', u'little', u'boy',
+             u'with', u'a', u'big', u'heart', u'-', u'Paper', u'Trail', u'#ferguson', u'#freehugs',
+             u'http://t.co/Fd6GEpI73D'],
+            [u'RT', u'@Nettaaaaaaaa', u':', u'I', u'love', u'this', u'!', u'Some', u'@STLouisRams', u'players',
+             u'come', u'out', u'with', u'their', u'HANDS', u'UP', u'for', u'#Ferguson', u'https://t.co/36D4h14p5S',
+             u':)', u'great', u'shot', u'@', u'\u2026']]
+
+    print "Testing tweet filtering:"
+    print lol
+    print "Number of tokens: " + str(len(lol[0]))
+    print "---------"
+    filtered_tokens = [filter_tokens(tokens) for tokens in lol]
+    print filtered_tokens
+    print "Number of tokens: " + str(len(filtered_tokens[0]))
+
+
+def filter_tokens(tokens):
+    # for tokens in token_list:
+    filtered_tokens = list(tokens)
+    for token in tokens:
+        if (token.find("http") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif (token.find("RT") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif (token.find("@") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif (token.find("#") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif token.find("www") > -1:
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+
+    return filtered_tokens
