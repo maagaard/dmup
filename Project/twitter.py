@@ -73,9 +73,8 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
     # tag = "%23" + tag
 
     query = tag
-    # query += "%20%3A("
-    # query += "%20lang%3Aen"
-    # query += "&result_type=" + "mixed"  # result_type
+    query += "%20lang%3Aen"
+    query += "&result_type=" + "mixed"  # result_type
     if max_id is not None:
         query += "&max_id=" + str(max_id)
     query += "&count=" + str(MAX_TWEET_COUNT)
@@ -84,10 +83,7 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 
 
     # normal tweet search
-    # response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
-
-    # user timeline search
-    response_json = client.request(twitter_api_url + query_user_timeline + query)  # Time consuming!!!
+    response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
 
     # print "request time: " + str(datetime.datetime.now() - request_start)
 
@@ -98,8 +94,13 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 
     # print "Query for " + tag
     # print "query time: " + str(search_metadata['completed_in'])
+    statuses = response_dict['statuses']
 
-    statuses = response_dict  # ['statuses']
+
+    ######## user timeline search #########
+    # response_json = client.request(twitter_api_url + query_user_timeline + query)  # Time consuming!!!
+    # statuses = response_dict
+
 
     tweets = []
     for status in statuses:
