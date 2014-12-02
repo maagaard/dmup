@@ -130,20 +130,21 @@ def create_tweet(connection, tweet, polarity=0):
         cur.execute('INSERT INTO tweets (created, polarity, data) VALUES (\'%s\', %s, \'%s\') RETURNING id'
                     % (parse(tweet.created_at), polarity, json.dumps(tweet.__dict__)))
         tweet_id = cur.fetchone()[0]
-        
+
     except Exception as e:
         dlog("Could not add tweet to database: " + e.strerror)
         return
-        
+
     # Insert relations between tweet and hashtags
     try:
         for hashtag_id in hashtag_ids:
-            cur.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)' % (tweet_id, hashtag_id))
-        
+            cur.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
+                        % (tweet_id, hashtag_id))
+
     except Exception as e:
         dlog("Could not add tweet/hashtag relation to database: " + e.strerror)
         return
-        
+
     connection.commit()
     cur.close()
 
