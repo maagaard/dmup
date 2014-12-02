@@ -69,12 +69,12 @@ def get_tweets_with_tag(tag, count):
 
 def get_tweets_with_tag_and_max_id(client, tag, max_id):
     # filename = tag
-    tag = "%23" + tag
+    # tag = "%23" + tag
 
     query = tag
     # query += "%20%3A("
     query += "%20lang%3Aen"
-    query += "&result_type=" + "recent"  # result_type
+    query += "&result_type=" + "mixed"  # result_type
     if max_id is not None:
         query += "&max_id=" + str(max_id)
     query += "&count=" + str(MAX_TWEET_COUNT)
@@ -131,12 +131,11 @@ def get_timeline(search_tag, length):
         loop_counter += 1
         max_id = new_max_id - 1 if new_max_id is not None else None
 
-        (new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(
-            client, search_tag, max_id)
+        (new_tweets, new_max_id) = get_tweets_with_tag_and_max_id(client, search_tag, max_id)
         timeline.extend(new_tweets)
 
         # print str(max_id) + ", " + str(new_max_id)
-        if len(timeline) >= length or new_max_id != 0:
+        if len(timeline) >= length or new_max_id == 0:
             break
 
         # write_tweets_to_file("test1.txt", timeline)
@@ -146,7 +145,7 @@ def get_timeline(search_tag, length):
 def write_tweets_to_file(filename, tweets):
     with codecs.open(filename, 'w', "utf-8") as tweet_file:
         for tweet in tweets:
-            tweet_file.write("%s\n" % tweet.text)
+            tweet_file.write("-- \n%s\n" % tweet.text)
     tweet_file.close()
 
 
@@ -158,17 +157,6 @@ def write_jsondata_to_file(filename, data):
 def read_json_from_file(filename):
     with open(filename, 'r') as data_file:
         return json.load(data_file)
-# def get_training_data():
-#     timeline1 = get_timeline("LFC%20%3A)")
-#     timeline2 = get_timeline("manutd%20%3A)")
-#     timeline3 = get_timeline("swiftlang")
-#     timeline4 = get_timeline("lollipop")
-
-#     timelines = [timeline1, timeline2, timeline3, timeline4]
-
-#     # for timeline in timelines:
-#     #   for tweet in timeline:
-          # if tweet.:
 
 
 def tweets_from_json(json_data):
@@ -190,17 +178,17 @@ def get_training_tweets():
     pos = []
     neg = []
 
-    pos.extend(get_timeline("LFC%20%3A)", 100))
-    pos.extend(get_timeline("manutd%20%3A)", 100))
-    pos.extend(get_timeline("swiftlang%20%3A)", 100))
-    pos.extend(get_timeline("StarWars%20%3A)", 100))
+    pos.extend(get_timeline("%23LFC%20%3A)", 100))
+    pos.extend(get_timeline("%23manutd%20%3A)", 100))
+    pos.extend(get_timeline("%23swiftlang%20%3A)", 100))
+    pos.extend(get_timeline("%23StarWars%20%3A)", 100))
     # pos4 = get_timeline("kimkardashian%20%3A)", 100)
     # pos5 = get_timeline("cometlanding%20%3A)", 100)
 
-    neg.extend(get_timeline("LFC%20%3A(", 100))
-    neg.extend(get_timeline("manutd%20%3A(", 100))
-    neg.extend(get_timeline("swiftlang%20%3A(", 100))
-    neg.extend(get_timeline("StarWars%20%3A(", 100))
+    neg.extend(get_timeline("%23LFC%20%3A(", 100))
+    neg.extend(get_timeline("%23manutd%20%3A(", 100))
+    neg.extend(get_timeline("%23swiftlang%20%3A(", 100))
+    neg.extend(get_timeline("%23StarWars%20%3A(", 100))
     # neg4 = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
 
@@ -215,12 +203,12 @@ def get_test_tweets():
     # pos_test = get_timeline("swiftlang%20%3A)", 100)
     # pos_test = get_timeline("kimkardashian%20%3A)", 100)
     # pos5 = get_timeline("cometlanding%20%3A)", 100)
-    pos.extend(get_timeline("Ferguson%20%3A)", 100))
+    pos.extend(get_timeline("%23Ferguson%20%3A)", 100))
 
     # neg_test = get_timeline("swiftlang%20%3A(", 100)
     # neg_test = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
-    neg.extend(get_timeline("Ferguson%20%3A(", 100))
+    neg.extend(get_timeline("%23Ferguson%20%3A(", 100))
 
     return {"pos": pos, "neg": neg}
 
@@ -244,6 +232,14 @@ def get_offline_test_tweets():
     return {"pos": pos1, "neg": neg1}
 
 
+
+def get_training_data():
+    # %3A)
+    pos = get_timeline("%3A)", 10000)
+    write_tweets_to_file("postweets.txt", pos)
+    return pos
+
+
 if __name__ == '__main__':
     # get_tweets_with_tag("test_tag")
-    get_timeline("liverpool", 100)
+    get_timeline("%23liverpool", 100)

@@ -14,7 +14,7 @@ import random
 # TOKENIZER = "HAPPYFUN"
 TOKENIZER = "ARK"
 OFFLINE = False
-DEBUG = True
+DEBUG = False
 
 
 def DLOG(log_message):
@@ -171,9 +171,12 @@ def extract_features(tweets):
 
 
 
-def classify_tweets(classifier, tweet_objects, word_features):
+def classify_tweets(classifier, tweets, word_features):
 
-    tweets = [simpleTokenize(tweet.text) for tweet in tweet_objects]
+    tokens = [simpleTokenize(tweet.text) for tweet in tweets]
+
+    filtered_tokens = [filter_tokens(token_set) for token_set in tokens]
+
     # feat_set = []
     # for tokens in tweets:
     #     feats = {}
@@ -183,11 +186,15 @@ def classify_tweets(classifier, tweet_objects, word_features):
     #     feat_tuple = (feats, )
     #     feat_set.append(feat_tuple)
 
-    print tweets[0:2]
+    # print tweets[0:2]
 
     # negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
-    feat_set = [word_feats(tokens) for tokens in tweets]
+
+    # feat_set = [word_feats(tokens) for tokens in tweets]
+
     # feat_set = [((word_feats(tokens)), 'what') for tokens in tweets]
+
+    feature_sets = [tweet_features(token_set, word_features) for token_set in filtered_tokens]
 
     # feat_set = [dict(token=True) for tokens in tweets for token in tokens]
     # feat_set = [dict(tokens=tokens) for tokens in tweets]
@@ -197,10 +204,10 @@ def classify_tweets(classifier, tweet_objects, word_features):
 
     # featuresets = [(document_features(d), d['category']) for d in documents]
 
-    for pdist in classifier.prob_classify_many(feat_set):
+    for pdist in classifier.prob_classify_many(feature_sets):
         print('%.4f %.4f' % (pdist.prob(classifier.labels()[0]), pdist.prob(classifier.labels()[1])))
 
-    return feat_set
+    return pdist
 
 
 
@@ -259,3 +266,72 @@ def filter_tokens(tokens):
             DLOG("delete" + token)
 
     return filtered_tokens
+
+
+def read_tweets_from_file(filename):
+    tweets = []
+    with open(filename, 'r') as data_file:
+        text = ""
+        for line in data_file:
+            if line != "-- \n":
+                text += line
+            else:
+                tweets.append(text.replace("\n", " "))
+                text = ""
+
+    return tweets
+
+
+def training():
+
+    pos_tweets = read_tweets_from_file("postweets.txt")
+    neg_tweets = read_tweets_from_file("negtweets.txt")
+
+    # pos_tweets2 = read_tweets_from_file("happytweets.txt")
+    # pos_tweets.extend(pos_tweets2)
+    # neg_tweets2 = read_tweets_from_file("sadtweets.txt")
+    # neg_tweets.extend(neg_tweets2)
+
+    pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:1000]]
+    neg_tokens = [simpleTokenize(tweet) for tweet in neg_tweets[:1000]]
+
+    pos_filtered_tokens = [filter_tokens(tokens) for tokens in pos_tokens]
+
+    neg_filtered_tokens = [filter_tokens(tokens) for tokens in neg_tokens]
+
+
+    #######
+
+    pos_tweet_tokens = [dict(tokens=tokens, polarity="positive") for tokens in pos_filtered_tokens]
+
+    neg_tweet_tokens = [dict(tokens=tokens, polarity="negative") for tokens in neg_filtered_tokens]
+
+    all_tokens = pos_tweet_tokens + neg_tweet_tokens
+
+    # test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
+
+    all_words = nltk.FreqDist(t.lower() for d in all_tokens for t in d["tokens"])
+    word_features = all_words.keys()
+
+    random.shuffle(all_tokens)
+
+# feate extraction?
+    featuresets = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in all_tokens]
+
+    # featuresets = [(document_features(d), d['category']) for d in documents]
+
+    feature_length = len(featuresets)  # len(pos_tweets) + len(neg_tweets)
+
+    train_set, test_set = featuresets[:int(feature_length * 0.8)], featuresets[int(feature_length * 0.8):]
+
+    # happy_set = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in happy_tokens]
+
+    classifier = nltk.NaiveBayesClassifier.train(train_set)
+
+    # print classifier.classify(document_features(documents[53]))
+    # print documents[53]['text'][:60]
+
+    print nltk.classify.accuracy(classifier, test_set)
+    classifier.show_most_informative_features()
+
+    return classifier, word_features
