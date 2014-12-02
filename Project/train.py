@@ -24,13 +24,15 @@ def word_feats(words):
     return dict([(word, True) for word in words])
 
 
-def film_review_features():
+def film_review_features(feats):
     negids = movie_reviews.fileids('neg')
     posids = movie_reviews.fileids('pos')
 
-    negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
-    posfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'pos') for f in posids]
+    print posids[0:2]
 
+    negfeats = [(tweet_features(movie_reviews.words(fileids=[f]), feats), 'neg') for f in negids]
+    posfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'pos') for f in posids]
+    print negfeats[0]
     negcutoff = len(negfeats) * 3 / 4
     poscutoff = len(posfeats) * 3 / 4
 
@@ -38,7 +40,7 @@ def film_review_features():
     testfeats = negfeats[negcutoff:] + posfeats[poscutoff:]
     print 'train on %d instances, test on %d instances' % (len(trainfeats), len(testfeats))
 
-    print testfeats.get_
+
 
     classifier = NaiveBayesClassifier.train(trainfeats)
 

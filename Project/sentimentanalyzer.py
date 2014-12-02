@@ -1,5 +1,5 @@
-from nltk.classify import NaiveBayesClassifier
-# from nltk.corpus import movie_reviews
+from nltk.classify import NaiveBayesClassifier, util
+from nltk.corpus import movie_reviews
 # import twitter
 from twokenize import simpleTokenize
 import nltk
@@ -59,6 +59,7 @@ class SentimentAnalyzer(object):
 
     classifier = None  # classifier = nltk.NaiveBayesClassifier.train(train_set)
     sentiment_features = None
+    use_movie_reviews = False
 
     def __init__(self):
         super(SentimentAnalyzer, self).__init__()
@@ -76,6 +77,8 @@ class SentimentAnalyzer(object):
             features['contains(%s)' % word] = (word in tweet_words)
         return features
 
+    def feature_extraction_movie_reviews(self, tweet):
+        return dict([(word, True) for word in tweet])
 
     def load_classifier(self):
         # load from file
@@ -85,6 +88,31 @@ class SentimentAnalyzer(object):
         with open('classifier/classifier_2014-12-02 20:42:21.pkl', 'rb') as fid:
             self.classifier = cPickle.load(fid)
 
+
+    def train_with_movie_db(self):
+        self.use_movie_reviews = True
+
+        negids = movie_reviews.fileids('neg')
+        posids = movie_reviews.fileids('pos')
+
+        negfeats = [(self.feature_extraction_movie_reviews(movie_reviews.words(fileids=[f])),
+                     "negative") for f in negids]
+        posfeats = [(self.feature_extraction_movie_reviews(movie_reviews.words(fileids=[f])),
+                     "positive") for f in posids]
+
+        negcutoff = len(negfeats) * 3 / 4
+        poscutoff = len(posfeats) * 3 / 4
+
+        trainfeats = negfeats[:negcutoff] + posfeats[:poscutoff]
+        testfeats = negfeats[negcutoff:] + posfeats[poscutoff:]
+
+        DLOG("train on %d instances, test on %d instances" % (len(trainfeats), len(testfeats)))
+
+        self.classifier = NaiveBayesClassifier.train(trainfeats)
+
+        DLOG("accuracy: " + str(util.accuracy(self.classifier, testfeats)))
+        print "accuracy: " + str(util.accuracy(self.classifier, testfeats))
+        DLOG(self.classifier.show_most_informative_features())
 
 
     def train(self, arg):
@@ -158,7 +186,11 @@ class SentimentAnalyzer(object):
 
             filtered_tokens = [filter_tokens(token_set) for token_set in tokens]
 
-            feature_sets = [self.feature_extraction(token_set) for token_set in filtered_tokens]
+            feature_sets = None
+            if self.use_movie_reviews:
+                feature_sets = [self.feature_extraction_movie_reviews(token_set) for token_set in filtered_tokens]
+            else:
+                feature_sets = [self.feature_extraction(token_set) for token_set in filtered_tokens]
 
             # feat_set = [dict(token=True) for tokens in tweets for token in tokens]
             # feat_set = [dict(tokens=tokens) for tokens in tweets]
@@ -170,9 +202,13 @@ class SentimentAnalyzer(object):
 
             return_dist = []
             for pdist in self.classifier.prob_classify_many(feature_sets):
-                print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
-                                              pdist.prob(self.classifier.labels()[1]),
-                                              pdist.prob(self.classifier.labels()[2])))
+                if self.use_movie_reviews:
+                    print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
+                                           pdist.prob(self.classifier.labels()[1])))
+                else:
+                    print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
+                                                  pdist.prob(self.classifier.labels()[1]),
+                                                  pdist.prob(self.classifier.labels()[2])))
                 return_dist.append(pdist)
 
             return return_dist
