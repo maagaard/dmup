@@ -14,6 +14,12 @@ import random
 # TOKENIZER = "HAPPYFUN"
 TOKENIZER = "ARK"
 OFFLINE = False
+DEBUG = True
+
+
+def DLOG(log_message):
+    if DEBUG:
+        print log_message
 
 
 def word_feats(words):
@@ -41,10 +47,6 @@ def film_review_features():
     print 'accuracy:', nltk.classify.util.accuracy(classifier, testfeats)
     classifier.show_most_informative_features()
 
-
-def extract_features(feature_data):
-
-    return
 
 
 
@@ -152,15 +154,21 @@ def train():
 
 
 def featstuff(tokens):
-        tweet_tokens = set(tokens)
-        features = {}
-        for word in tweet_tokens:
-            features['contains(%s)' % word] = (word in tweet_tokens)
-        return features
+    tweet_tokens = set(tokens)
+    features = {}
+    for word in tweet_tokens:
+        features['contains(%s)' % word] = (word in tweet_tokens)
+    return features
 
 
 def document_features(document):
     return dict([('contains-word(%s)' % w, True) for w in document])
+
+
+def extract_features(tweets):
+    tweets = tweets
+
+
 
 
 def classify_tweets(classifier, tweet_objects, word_features):
@@ -174,6 +182,8 @@ def classify_tweets(classifier, tweet_objects, word_features):
     #         feats[token] = True
     #     feat_tuple = (feats, )
     #     feat_set.append(feat_tuple)
+
+    print tweets[0:2]
 
     # negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
     feat_set = [word_feats(tokens) for tokens in tweets]
@@ -193,10 +203,59 @@ def classify_tweets(classifier, tweet_objects, word_features):
     return feat_set
 
 
+
 def test_test(classifier):
-    lols = ({u'all': True, u'right': True, u'http://t.co/BG3sEog9cl': True, u'am': True, u'To': True, u'Sorry': True, u'#Ferguson': True, u'Happy': True, u'RT': True, u'no': True, u're': True, u'tweets': True, u':': True, u'http': True, u'Thanksgiving': True, u'now': True, u'by': True, u'--': True, u'consumed': True, u'\u2026': True, u'@ExposingALEC': True, u':))': True, u'ALEC': True}, {u'RT': True, u'and': True, u'#Ferguson': True, u':)': True, u'@Op_Israel': True, u'heartwarming': True, u'is': True, u'#Palestine': True, u'so': True, u'between': True, u':': True, u'Solidarity': True})
-    # lol = ({'cute': True, 'all': True, 'think': True, 'letterman': True, 'just': True, 'moments': True, 'when': True, 'move': True, 'effects': True, 'enjoyable': True, 'reclaim': True, 'executed': True, 'feat': True, 'its': True, 'before': True, 'note': True, 'style': True, 'death': True, 'buddy': True, 'everything': True, 'reluctant': True, '(': True, 'had': True, ',': True, 'send': True, 'actually': True, 'better': True, 'to': True, 'must': True, 'wags': True, 'win': True, 'save': True, 'norm': True, '?': True, 'then': True, 'his': True, 'prowess': True, 'very': True, 'big': True, 'possibly': True, 'game': True, 'cannot': True, 'courtroom': True, 'they': True, 'formula': True, 'not': True, 'gloom': True, 'school': True, 'gets': True, 'name': True, '--': True, 'follows': True, 'clad': True, 'yeah': True, 'michael': True, 'make': True, 'clown': True, 'father': True, 'true': True, 'stupid': True, 'rockets': True, 't': True, 'shots': True, 'team': True, 'where': True, 'heavy': True, 'lie': True, 'quicker': True, 'old': True, 'picture': True, 'splish': True, 'idea': True, 'ends': True, 'see': True, 'are': True, 'sight': True, 'mine': True, 'absurdity': True, 'special': True, 'out': True, 'even': True, 'comeuppance': True, 'plays': True, 'both': True, "'": True, 'solemn': True, 'movie': True, 'while': True, 'current': True, 're': True, 'connection': True, 'sneakers': True, 'new': True, 'slapstick': True, 'approach': True, 'disney': True, 'be': True, 'we': True, 'were': True, 'here': True, 'quite': True, 'credits': True, 'pooch': True, 'basketball': True, 'sink': True, 'although': True, 'alone': True, 'musical': True, 'predictability': True, 'retriever': True, 'boy': True, 'pairs': True, 'actual': True, 'anything': True, 'of': True, 'could': True, 'or': True, 'david': True, 'motion': True, 'accomplished': True, 'chain': True, 'asked': True, 'jersey': True, 'golden': True, 'own': True, 'family': True, 'josh': True, 'abusive': True, 'mopey': True, 'washington': True, 'number': True, 'whatever': True, 'one': True, 'appropriate': True, 'esteem': True, 'sequences': True, 'owner': True, 'fernwell': True, 'story': True, '"': True, 'from': True, 'i': True, 'would': True, 'paint': True, 'there': True, 'two': True, 'been': True, '.': True, 'zegers': True, 'their': True, 'splash': True, 'newspapers': True, 'recent': True, 'climax': True, 'opens': True, 'more': True, 'back': True, 'snively': True, 'himself': True, 'on': True, 'successful': True, 'but': True, 'surprisingly': True, 'visual': True, 'last': True, 'trying': True, 'with': True, 'than': True, 'bud': True, 'he': True, 'fades': True, 'hire': True, ':': True, 'places': True, 'this': True, 'yeller': True, 'straight': True, 'insists': True, 'up': True, 'air': True, 'trick': True, 'matter': True, 'mascot': True, 'can': True, 'joke': True, 'spilled': True, 'cans': True, 'and': True, 'escapes': True, 'is': True, 'cleaned': True, 'it': True, 'doesn': True, 'an': True, 'twist': True, 'player': True, 'as': True, 'proves': True, 'exist': True, 'at': True, 'have': True, 'in': True, 'faux': True, 'seem': True, 'saw': True, 'tells': True, 'kevin': True, 'if': True, '!': True, 'funny': True, 'court': True, 'no': True, ')': True, 'granted': True, 'cope': True, '-': True, 's': True, 'occasional': True, 'contracts': True, 'that': True, 'interested': True, 'animal': True, 'tricks': True, 'k9': True, 'comedy': True, 'events': True, 'surfaces': True, 'begin': True, 'used': True, 'okay': True, 'marches': True, 'forced': True, 'may': True, 'moment': True, 'buried': True, 'end': True, 'friend': True, 'else': True, 'segment': True, 'finals': True, 'off': True, 'kid': True, 'a': True, 'realized': True, 'least': True, 'for': True, 'montage': True, 'light': True, 'calculated': True, 'well': True, 'dog': True, 'face': True, 'tale': True, 'pet': True, 'cheer': True, 'block': True, 'jeter': True, 'rabies': True, 'the': True, 'self': True, 'once': True})
+    lols = (
+            {u'all': True, u'right': True, u'http://t.co/BG3sEog9cl': True, u'am': True, u'To': True, u'Sorry': True,
+             u'#Ferguson': True, u'Happy': True, u'RT': True, u'no': True, u're': True, u'tweets': True, u':': True,
+             u'http': True, u'Thanksgiving': True, u'now': True, u'by': True, u'--': True, u'consumed': True,
+             u'\u2026': True, u'@ExposingALEC': True, u':))': True, u'ALEC': True},
+            {u'RT': True, u'and': True,
+             u'#Ferguson': True, u':)': True, u'@Op_Israel': True, u'heartwarming': True, u'is': True,
+             u'#Palestine': True, u'so': True, u'between': True, u':': True, u'Solidarity': True})
 
     return classifier.prob_classify_many(lols)
     # for pdist in
     #     print('%.4f %.4f' % (pdist.prob(classifier.labels()[0], pdist.prob(classifier.labels()[1]))))
+
+
+
+def test_filter():
+    lol = [
+            [u'Well', u'shut', u'my', u'mouth', u'...', u':)', u'Meet', u'#Devonte', u',', u'the', u'little', u'boy',
+             u'with', u'a', u'big', u'heart', u'-', u'Paper', u'Trail', u'#ferguson', u'#freehugs',
+             u'http://t.co/Fd6GEpI73D'],
+            [u'RT', u'@Nettaaaaaaaa', u':', u'I', u'love', u'this', u'!', u'Some', u'@STLouisRams', u'players',
+             u'come', u'out', u'with', u'their', u'HANDS', u'UP', u'for', u'#Ferguson', u'https://t.co/36D4h14p5S',
+             u':)', u'great', u'shot', u'@', u'\u2026']]
+
+    print "Testing tweet filtering:"
+    print lol
+    print "Number of tokens: " + str(len(lol[0]))
+    print "---------"
+    filtered_tokens = [filter_tokens(tokens) for tokens in lol]
+    print filtered_tokens
+    print "Number of tokens: " + str(len(filtered_tokens[0]))
+
+
+def filter_tokens(tokens):
+    # for tokens in token_list:
+    filtered_tokens = list(tokens)
+    for token in tokens:
+        if (token.find("http") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif (token.find("RT") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif (token.find("@") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif (token.find("#") > -1):
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+        elif token.find("www") > -1:
+            filtered_tokens.remove(token)
+            DLOG("delete" + token)
+
+    return filtered_tokens
