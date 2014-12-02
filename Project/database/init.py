@@ -1,12 +1,12 @@
 """
 
 """
+import sys
+sys.path.insert(0, '../')
 import psycopg2
 import model
-import sys
 import json
 from dateutil.parser import *
-sys.path.insert(0, '../')
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -150,7 +150,19 @@ def create_tweet(connection, tweet, polarity=0):
 
 
 def read_tweets_hashtag(connection, hashtag):
-    raise NotImplementedError
+    cur = connection.cursor()
+    sql = """
+        SELECT COUNT(*)
+        FROM hashtags
+        INNER JOIN tweet_hashtag
+            ON tweet_hashtag.hashtag_id = hashtags.id
+        INNER JOIN tweets
+            ON tweets.id = tweet_hashtag.tweet_id
+        WHERE hashtag = \'%s\'
+    """ % hashtag
+    print sql
+    cur.execute(sql)
+    print cur.fetchone()
 
 
 def read_tweets_date(connection, from_date, to_date):
