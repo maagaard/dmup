@@ -286,6 +286,11 @@ def training():
 
     pos_tweets = read_tweets_from_file("postweets.txt")
     neg_tweets = read_tweets_from_file("negtweets.txt")
+    objective_tweets1 = read_tweets_from_file("objectivetweets.txt")
+    objective_tweets2 = read_tweets_from_file("objectivetweets2.txt")
+    objective_tweets3 = read_tweets_from_file("objectivetweets3.txt")
+    objective_tweets = objective_tweets1 + objective_tweets2 + objective_tweets3
+    random.shuffle(objective_tweets)
 
     # pos_tweets2 = read_tweets_from_file("happytweets.txt")
     # pos_tweets.extend(pos_tweets2)
@@ -294,11 +299,11 @@ def training():
 
     pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:1000]]
     neg_tokens = [simpleTokenize(tweet) for tweet in neg_tweets[:1000]]
+    objective_tokens = [simpleTokenize(tweet) for tweet in objective_tweets[:1000]]
 
     pos_filtered_tokens = [filter_tokens(tokens) for tokens in pos_tokens]
-
     neg_filtered_tokens = [filter_tokens(tokens) for tokens in neg_tokens]
-
+    objective_filtered_tokens = [filter_tokens(tokens) for tokens in objective_tokens]
 
     #######
 
@@ -306,7 +311,9 @@ def training():
 
     neg_tweet_tokens = [dict(tokens=tokens, polarity="negative") for tokens in neg_filtered_tokens]
 
-    all_tokens = pos_tweet_tokens + neg_tweet_tokens
+    objective_tweet_tokens = [dict(tokens=tokens, polarity="objective") for tokens in objective_filtered_tokens]
+
+    all_tokens = pos_tweet_tokens + neg_tweet_tokens + objective_tweet_tokens
 
     # test_tweet_tokens = [tokenizer.tokenize(tweet.text) for tweet in (test_tweets["pos"] + test_tweets["neg"])]
 
@@ -314,6 +321,7 @@ def training():
     word_features = all_words.keys()
 
     random.shuffle(all_tokens)
+
 
 # feate extraction?
     featuresets = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in all_tokens]

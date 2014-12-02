@@ -13,6 +13,7 @@ access_token_url = "https://twitter.com/oauth/access_token"
 authorize_url = "https://twitter.com/oauth/authorize"
 twitter_api_url = "https://api.twitter.com/1.1/"
 query_tweets_url = "search/tweets.json?q="
+query_user_timeline = "statuses/user_timeline.json?screen_name="
 
 # Max number of tweets
 MAX_TWEET_COUNT = 100
@@ -73,25 +74,32 @@ def get_tweets_with_tag_and_max_id(client, tag, max_id):
 
     query = tag
     # query += "%20%3A("
-    query += "%20lang%3Aen"
-    query += "&result_type=" + "mixed"  # result_type
+    # query += "%20lang%3Aen"
+    # query += "&result_type=" + "mixed"  # result_type
     if max_id is not None:
         query += "&max_id=" + str(max_id)
     query += "&count=" + str(MAX_TWEET_COUNT)
 
-    request_start = datetime.datetime.now()
-    response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
+    # request_start = datetime.datetime.now()
+
+
+    # normal tweet search
+    # response_json = client.request(twitter_api_url + query_tweets_url + query)  # Time consuming!!!
+
+    # user timeline search
+    response_json = client.request(twitter_api_url + query_user_timeline + query)  # Time consuming!!!
+
     # print "request time: " + str(datetime.datetime.now() - request_start)
 
     response_dict = json.loads(json.dumps(response_json, sort_keys=True))
-    search_metadata = response_dict['search_metadata']
+    # search_metadata = response_dict['search_metadata']
 
     # write_jsondata_to_file(filename, response_json)
 
     # print "Query for " + tag
     # print "query time: " + str(search_metadata['completed_in'])
 
-    statuses = response_dict['statuses']
+    statuses = response_dict  # ['statuses']
 
     tweets = []
     for status in statuses:
@@ -233,11 +241,20 @@ def get_offline_test_tweets():
 
 
 
-def get_training_data():
-    # %3A)
+def get_positive_training_data():
     pos = get_timeline("%3A)", 10000)
     write_tweets_to_file("postweets.txt", pos)
-    return pos
+
+
+def get_objective_training_data():
+    query_string = "reuters"
+    objective = get_timeline(query_string, 10000)
+    write_tweets_to_file("objectivetweets3.txt", objective)
+
+
+def get_negative_training_data():
+    neg = get_timeline("%3A(", 10000)
+    write_tweets_to_file("negtweets.txt", neg)
 
 
 if __name__ == '__main__':
