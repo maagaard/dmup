@@ -26,6 +26,8 @@
 #   # def text(self, text):
 #   #   self.text = text
 
+from dateutil.parser import parse
+
 
 class User(object):
     def __init__(self, json_object):
@@ -38,6 +40,8 @@ class Tweet(object):
         self.user = User(self.user)
         self.hashtags = [tag['text'] for tag in self.entities['hashtags']]
 
+    def get_date(self):
+        return parse(self.created_at)
         # self.entities = Entities(self.entities)
 
 
