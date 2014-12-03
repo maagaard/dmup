@@ -115,20 +115,19 @@ def create_tweet(connection, tweet, polarity=0):
     cur = connection.cursor()
     hashtag_ids = []
     # Insert hashtags if they do not already exist, and get the IDs of all hashtags for tweet
-    for hashtag in tweet.entities['hashtags']:
-        hashtag_text = hashtag['text']
-        cur.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag_text)
+    for hashtag in tweet.hashtags:
+        cur.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
         count = cur.fetchone()[0]
         try:
             if count == 0:  # Insert and get IDs
                 cur.execute('INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
-                            (0, hashtag_text))
+                            (0, hashtag))
                 hashtag_ids.append(cur.fetchone()[0])
             else:  # Get IDs only
-                cur.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag_text)
+                cur.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
                 hashtag_ids.append(cur.fetchone()[0])
 
-            DLOG("Inserted hashtag: " + hashtag_text)
+            DLOG("Inserted hashtag: " + hashtag)
 
         except Exception as e:
             DLOG("Could not add hashtag to database: " + repr(e))
