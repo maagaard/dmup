@@ -117,17 +117,17 @@ class SentimentAnalyzer(object):
 
 
     def train(self, arg):
-        pos_tweets = read_tweets_from_file("postweets.txt")
-        neg_tweets = read_tweets_from_file("negtweets.txt")
-        objective_tweets1 = read_tweets_from_file("objectivetweets.txt")
-        objective_tweets2 = read_tweets_from_file("objectivetweets2.txt")
-        objective_tweets3 = read_tweets_from_file("objectivetweets3.txt")
+        pos_tweets = read_tweets_from_file("traindata/postweets.txt")
+        neg_tweets = read_tweets_from_file("traindata/negtweets.txt")
+        objective_tweets1 = read_tweets_from_file("traindata/objectivetweets.txt")
+        objective_tweets2 = read_tweets_from_file("traindata/objectivetweets2.txt")
+        objective_tweets3 = read_tweets_from_file("traindata/objectivetweets3.txt")
         objective_tweets = objective_tweets1 + objective_tweets2 + objective_tweets3
         random.shuffle(objective_tweets)
 
-        # pos_tweets2 = read_tweets_from_file("happytweets.txt")
+        # pos_tweets2 = read_tweets_from_file("traindata/happytweets.txt")
         # pos_tweets.extend(pos_tweets2)
-        # neg_tweets2 = read_tweets_from_file("sadtweets.txt")
+        # neg_tweets2 = read_tweets_from_file("traindata/sadtweets.txt")
         # neg_tweets.extend(neg_tweets2)
 
         pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:3000]]

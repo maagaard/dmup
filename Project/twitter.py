@@ -337,10 +337,10 @@ def get_test_tweets():
 
 def get_offline_tweets():
 
-    pos1 = tweets_from_json(read_json_from_file("lfc_pos.json"))
-    pos2 = tweets_from_json(read_json_from_file("manutd_pos.json"))
-    neg1 = tweets_from_json(read_json_from_file("lfc_neg.json"))
-    neg2 = tweets_from_json(read_json_from_file("manutd_neg.json"))
+    pos1 = tweets_from_json(read_json_from_file("testdata/lfc_pos.json"))
+    pos2 = tweets_from_json(read_json_from_file("testdata/manutd_pos.json"))
+    neg1 = tweets_from_json(read_json_from_file("testdata/lfc_neg.json"))
+    neg2 = tweets_from_json(read_json_from_file("testdata/manutd_neg.json"))
 
 
     return {"pos": pos1 + pos2, "neg": neg1 + neg2}
@@ -348,8 +348,8 @@ def get_offline_tweets():
 
 def get_offline_test_tweets():
 
-    pos1 = tweets_from_json(read_json_from_file("starwars_pos.json"))
-    neg1 = tweets_from_json(read_json_from_file("starwars_neg.json"))
+    pos1 = tweets_from_json(read_json_from_file("testdata/starwars_pos.json"))
+    neg1 = tweets_from_json(read_json_from_file("testdata/starwars_neg.json"))
 
     return {"pos": pos1, "neg": neg1}
 
