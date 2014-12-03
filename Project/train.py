@@ -8,6 +8,9 @@ from twokenize import simpleTokenize
 import nltk
 import random
 from debug import DLOG
+import cPickle
+import datetime
+
 
 # Training on movie_reviews
 # train on twitter data as well?
@@ -21,13 +24,15 @@ def word_feats(words):
     return dict([(word, True) for word in words])
 
 
-def film_review_features():
+def film_review_features(feats):
     negids = movie_reviews.fileids('neg')
     posids = movie_reviews.fileids('pos')
 
-    negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
-    posfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'pos') for f in posids]
+    print posids[0:2]
 
+    negfeats = [(tweet_features(movie_reviews.words(fileids=[f]), feats), 'neg') for f in negids]
+    posfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'pos') for f in posids]
+    print negfeats[0]
     negcutoff = len(negfeats) * 3 / 4
     poscutoff = len(posfeats) * 3 / 4
 
@@ -35,7 +40,7 @@ def film_review_features():
     testfeats = negfeats[negcutoff:] + posfeats[poscutoff:]
     print 'train on %d instances, test on %d instances' % (len(trainfeats), len(testfeats))
 
-    print testfeats.get_
+
 
     classifier = NaiveBayesClassifier.train(trainfeats)
 
@@ -199,11 +204,14 @@ def classify_tweets(classifier, tweets, word_features):
 
     # featuresets = [(document_features(d), d['category']) for d in documents]
 
+    return_dist = []
     for pdist in classifier.prob_classify_many(feature_sets):
-        print('%.4f %.4f' % (pdist.prob(classifier.labels()[0]), pdist.prob(classifier.labels()[1])))
+        print('%.3f, %.3f, %.3f  ' % (pdist.prob(classifier.labels()[0]),
+                                      pdist.prob(classifier.labels()[1]),
+                                      pdist.prob(classifier.labels()[2])))
+        return_dist.append(pdist)
 
-    return pdist
-
+    return return_dist
 
 
 def test_test(classifier):
@@ -292,9 +300,9 @@ def training():
     # neg_tweets2 = read_tweets_from_file("sadtweets.txt")
     # neg_tweets.extend(neg_tweets2)
 
-    pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:1000]]
-    neg_tokens = [simpleTokenize(tweet) for tweet in neg_tweets[:1000]]
-    objective_tokens = [simpleTokenize(tweet) for tweet in objective_tweets[:1000]]
+    pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:3000]]
+    neg_tokens = [simpleTokenize(tweet) for tweet in neg_tweets[:3000]]
+    objective_tokens = [simpleTokenize(tweet) for tweet in objective_tweets[:3000]]
 
     pos_filtered_tokens = [filter_tokens(tokens) for tokens in pos_tokens]
     neg_filtered_tokens = [filter_tokens(tokens) for tokens in neg_tokens]
@@ -315,10 +323,15 @@ def training():
     all_words = nltk.FreqDist(t.lower() for d in all_tokens for t in d["tokens"])
     word_features = all_words.keys()
 
+    time_stamp = str(datetime.datetime.now())[:19]
+    feature_file = "tweet_features_" + time_stamp + ".pkl"
+    with open(feature_file, "wb") as fid:
+        cPickle.dump(word_features, fid)
+
     random.shuffle(all_tokens)
 
 
-# feate extraction?
+# feature extraction?
     featuresets = [(tweet_features(d["tokens"], word_features), d["polarity"]) for d in all_tokens]
 
     # featuresets = [(document_features(d), d['category']) for d in documents]
@@ -336,6 +349,10 @@ def training():
 
     print nltk.classify.accuracy(classifier, test_set)
     classifier.show_most_informative_features()
+
+    classifier_file = "classifier_" + time_stamp + ".pkl"
+    with open(classifier_file, "wb") as fid:
+        cPickle.dump(classifier, fid)
 
     return classifier, word_features
 

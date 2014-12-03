@@ -1,0 +1,112 @@
+{
+	u'contributors': None, 
+	u'truncated': False, 
+	u'text': u"@WOS_NorthWest This Fri 31 at @LTLiv it's @StellaProduct's stunning show, #TheRiseAndFallOfANorthernStar #Liverpool http://t.co/cASXRGxXlD", 
+	u'in_reply_to_status_id': 526724836840980481, 
+	u'in_reply_to_user_id': 25314480, 
+	u'id': 526725011173023744, 
+	u'favorite_count': 0, 
+	u'entities': 
+	{
+		u'symbols': [], 
+		u'media': 
+		[
+			{
+				u'source_status_id_str': u'526724836840980481', 
+				u'expanded_url': u'http://twitter.com/clearasabell/status/526724836840980481/photo/1', 
+				u'display_url': u'pic.twitter.com/cASXRGxXlD', 
+				u'source_status_id': 526724836840980481, 
+				u'media_url_https': u'https://pbs.twimg.com/media/B09NcotIEAE4_2U.jpg', 
+				u'url': u'http://t.co/cASXRGxXlD', 
+				u'id_str': u'526724835784003585', 
+				u'sizes': 
+				{
+					u'large': 
+					{
+						u'h': 320, 
+						u'w': 320, 
+						u'resize': u'fit'
+					}, 
+					u'small': 
+					{
+						u'h': 320, 
+						u'w': 320, 
+						u'resize': u'fit'
+					}, 
+					u'medium': 
+					{
+						u'h': 320, 
+						u'w': 320, 
+						u'resize': 
+						u'fit'
+					}, 
+					u'thumb': 
+					{
+						u'h': 150, 
+						u'w': 150, 
+						u'resize': u'crop'
+					}
+				}, 
+				u'indices': [116, 138], 
+				u'type': u'photo', 
+				u'id': 526724835784003585, 
+				u'media_url': u'http://pbs.twimg.com/media/B09NcotIEAE4_2U.jpg'
+			}
+		], 
+		u'hashtags': 
+		[
+			{
+				u'indices': [74, 104], 
+				u'text': u'TheRiseAndFallOfANorthernStar'
+			}, 
+			{
+				u'indices': [105, 115], 
+				u'text': u'Liverpool'
+			}
+		], 
+		u'user_mentions': 
+		[
+			{
+				u'indices': [0, 14], 
+				u'screen_name': u'WOS_NorthWest', 
+				u'id': 85856926, 
+				u'name': u'WOS North West', 
+				u'id_str': u'85856926'
+			}, 
+			{
+				u'indices': [30, 36], 
+				u'screen_name': u'LTLiv', 
+				u'id': 387035724, 
+				u'name': u'Lantern Theatre Liv', 
+				u'id_str': u'387035724'
+			}, 
+			{
+				u'indices': [42, 56], 
+				u'screen_name': u'StellaProduct', 
+				u'id': 1397509915, 
+				u'name': u'Stella Productions', 
+				u'id_str': u'1397509915'
+			}
+		], 
+		u'urls': []
+	}, 
+	u'retweeted': False, 
+	u'coordinates': None, 
+	u'source': u'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 
+	u'in_reply_to_screen_name': u'clearasabell', 
+	u'id_str': u'526725011173023744', 
+	u'retweet_count': 0, 
+	u'metadata': 
+	{
+		u'iso_language_code': u'en', u'result_type': u'recent'
+	}, 
+	u'favorited': False, 
+	u'user': <model.User object at 0x1027e1250>, 
+	u'geo': None, 
+	u'in_reply_to_user_id_str': u'25314480', 
+	u'possibly_sensitive': False, 
+	u'lang': u'en', 
+	u'created_at': u'Mon Oct 27 13:20:03 +0000 2014', 
+	u'in_reply_to_status_id_str': u'526724836840980481', 
+	u'place': None
+}
