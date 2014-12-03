@@ -80,14 +80,6 @@ class SentimentAnalyzer(object):
     def feature_extraction_movie_reviews(self, tweet):
         return dict([(word, True) for word in tweet])
 
-    def load_classifier(self):
-        # load from file
-        with open('tweetfeatures/tweet_features_2014-12-02 20:42:21.pkl', 'rb') as fid:
-            self.sentiment_features = cPickle.load(fid)
-
-        with open('classifier/classifier_2014-12-02 20:42:21.pkl', 'rb') as fid:
-            self.classifier = cPickle.load(fid)
-
 
     def train_with_movie_db(self):
         self.use_movie_reviews = True
@@ -111,8 +103,17 @@ class SentimentAnalyzer(object):
         self.classifier = NaiveBayesClassifier.train(trainfeats)
 
         DLOG("accuracy: " + str(util.accuracy(self.classifier, testfeats)))
-        print "accuracy: " + str(util.accuracy(self.classifier, testfeats))
         DLOG(self.classifier.show_most_informative_features())
+
+
+
+    def load_classifier(self):
+        # load from file
+        with open('tweetfeatures/tweet_features_2014-12-02 20:42:21.pkl', 'rb') as fid:
+            self.sentiment_features = cPickle.load(fid)
+
+        with open('classifier/classifier_2014-12-02 20:42:21.pkl', 'rb') as fid:
+            self.classifier = cPickle.load(fid)
 
 
     def train(self, arg):
@@ -154,7 +155,6 @@ class SentimentAnalyzer(object):
 
         random.shuffle(all_tokens)
 
-
         # feature extraction
         featuresets = [(self.feature_extraction(d["tokens"]), d["polarity"]) for d in all_tokens]
 
@@ -192,15 +192,9 @@ class SentimentAnalyzer(object):
             else:
                 feature_sets = [self.feature_extraction(token_set) for token_set in filtered_tokens]
 
-            # feat_set = [dict(token=True) for tokens in tweets for token in tokens]
-            # feat_set = [dict(tokens=tokens) for tokens in tweets]
-            # feat_set = [(tweet_features(tokens, word_features)) for tokens in tweets]
-
-            # print feat_set[0:2]
-
-            # featuresets = [(document_features(d), d['category']) for d in documents]
 
             return_dist = []
+
             for pdist in self.classifier.prob_classify_many(feature_sets):
                 if self.use_movie_reviews:
                     print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
