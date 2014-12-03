@@ -2,10 +2,12 @@ import sys
 sys.path.insert(0, '../database/')
 from database import database
 import psycopg2
+from offlinedata import read_json_from_file, tweets_from_json
 
 test_db = 'dmup_test'
 
 con = None
+tweets = tweets_from_json(read_json_from_file('Project/testdata/starwars_pos.json'))
 
 
 def setup_module():
@@ -16,7 +18,10 @@ def setup_module():
 
 
 def teardown_module():
-    delete_db()
+    try:
+        delete_db()
+    except Exception as e:
+        print repr(e)
 
 
 def setup_func():
@@ -43,14 +48,13 @@ def delete_db():
 
 
 def test_create_tweet():
-    tweet = None
-    assert(database.create_tweet(con, tweet))
+    t = tweets[6]
+    assert(database.create_tweet(con, t))
 
 
 def test_create_tweets():
-    tweets = None
-    assert(database.create_tweets(con, tweets))
-    assert(False)
+    ts = tweets[0:10]
+    assert(database.create_tweets(con, ts))
 
 
 def test_read_tweets_hashtag():

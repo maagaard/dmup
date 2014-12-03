@@ -1,19 +1,18 @@
 # import twitter
-import sentimentanalyzer
+from sentimentanalyzer import SentimentAnalyzer
 from tweetfetcher import TweetFetcher
 
 
 class TSA(object):
     """docstring for TwitterSentimentAnalyzer"""
 
-    tsa = None
-    tweet_fetcher = None
+    sa = SentimentAnalyzer()
+    tweet_fetcher = TweetFetcher()
 
     def __init__(self):
         super(TSA, self).__init__()
-        self.tsa = sentimentanalyzer.SentimentAnalyzer()
-        self.tsa.load_classifier()
-        self.tweet_fetcher = TweetFetcher()
+        self.sa.load_classifier()
+        # self.tweet_fetcher = TweetFetcher()
 
 
     def analyze_hashtag(self, hashtag):
