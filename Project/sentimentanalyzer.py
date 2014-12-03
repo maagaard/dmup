@@ -7,7 +7,7 @@ import random
 from debug import DLOG
 import datetime
 import cPickle
-
+from model import AnalyzedTag
 
 
 ##### HELPER METHODS ######
@@ -109,10 +109,12 @@ class SentimentAnalyzer(object):
 
     def load_classifier(self):
         # load from file
-        with open('tweetfeatures/tweet_features_2014-12-02 20:42:21.pkl', 'rb') as fid:
+        # time_stamp = "2014-12-02 20:42:21"
+        time_stamp = "2014-12-03 16:15:10"
+        with open("tweetfeatures/tweet_features_" + time_stamp + ".pkl", 'rb') as fid:
             self.sentiment_features = cPickle.load(fid)
 
-        with open('classifier/classifier_2014-12-02 20:42:21.pkl', 'rb') as fid:
+        with open("classifier/classifier_" + time_stamp + ".pkl", 'rb') as fid:
             self.classifier = cPickle.load(fid)
 
 
@@ -130,9 +132,15 @@ class SentimentAnalyzer(object):
         # neg_tweets2 = read_tweets_from_file("traindata/sadtweets.txt")
         # neg_tweets.extend(neg_tweets2)
 
-        pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:3000]]
-        neg_tokens = [simpleTokenize(tweet) for tweet in neg_tweets[:3000]]
-        objective_tokens = [simpleTokenize(tweet) for tweet in objective_tweets[:3000]]
+        training_tweet_number = 3000
+        if arg is not None:
+            if arg > 0 & arg < 10000:
+                training_tweet_number = arg
+
+
+        pos_tokens = [simpleTokenize(tweet) for tweet in pos_tweets[:training_tweet_number]]
+        neg_tokens = [simpleTokenize(tweet) for tweet in neg_tweets[:training_tweet_number]]
+        objective_tokens = [simpleTokenize(tweet) for tweet in objective_tweets[:training_tweet_number]]
 
         pos_filtered_tokens = [filter_tokens(tokens) for tokens in pos_tokens]
         neg_filtered_tokens = [filter_tokens(tokens) for tokens in neg_tokens]
@@ -178,7 +186,8 @@ class SentimentAnalyzer(object):
             DLOG("Training is needed")
 
             # INFORM TO USER THAT TRAINING IS NEED AND CAN TAKE SOME TIME
-            self.train()
+            self.load_classifier()
+
             self.classify(tweets)
 
         else:
@@ -193,16 +202,19 @@ class SentimentAnalyzer(object):
                 feature_sets = [self.feature_extraction(token_set) for token_set in filtered_tokens]
 
 
-            return_dist = []
+            prob_dists = []
 
             for pdist in self.classifier.prob_classify_many(feature_sets):
-                if self.use_movie_reviews:
-                    print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
-                                           pdist.prob(self.classifier.labels()[1])))
-                else:
-                    print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
-                                                  pdist.prob(self.classifier.labels()[1]),
-                                                  pdist.prob(self.classifier.labels()[2])))
-                return_dist.append(pdist)
+                # if self.use_movie_reviews:
+                #     print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
+                #                            pdist.prob(self.classifier.labels()[1])))
+                # else:
+                #     print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
+                #                                   pdist.prob(self.classifier.labels()[1]),
+                #                                   pdist.prob(self.classifier.labels()[2])))
+                prob_dists.append(pdist)
 
-            return return_dist
+            # return prob_dists
+
+            analyzed_tweets = [AnalyzedTag(tweets[prob_dists.index(pdist)], pdist) for pdist in prob_dists]
+            return analyzed_tweets
