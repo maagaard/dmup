@@ -42,23 +42,30 @@ class AnalyzedTag(object):
     tweet = None
     hashtags = []
     date = None
-    polarity = 0
+    polarity = None
     pdist = None
 
     def __init__(self, tweet, pdist):
-
         self.hashtags = [tag['text'] for tag in tweet.entities['hashtags']]
         self.pdist = pdist
 
 
-    def polarity(self):
+    def get_polarity(self):
         if self.polarity is None:
             self.polarity = self.calculate_polarity()
+        return self.polarity
 
 
     def calculate_polarity(self):
         pos = self.pdist.prob("positive")
         neg = self.pdist.prob("negative")
-        # obj = self.pdist.prob("objective")
-        polarity = pos - neg
+        obj = self.pdist.prob("objective")
+
+    # print "Positive: " + str(pos) + ", negative: " + str(neg) + ", objective: " + str(self.pdist.prob("objective"))
+        
+        # print("positve: %.2f, negative: %.2f, objective: %.2f" % (round(pos, 2),
+        #                                                           round(neg, 2),
+        #                                                           round(obj, 2)))
+
+        polarity = round(round(pos, 2) - round(neg, 2), 2)
         return polarity
