@@ -1,22 +1,27 @@
-import twitter
+# import twitter
 import sentimentanalyzer
+from tweetfetcher import TweetFetcher
 
 
 class TSA(object):
-    """docstring for TwitterSentimentAnalysis"""
+    """docstring for TwitterSentimentAnalyzer"""
 
     tsa = None
+    tweet_fetcher = None
 
     def __init__(self):
         super(TSA, self).__init__()
         self.tsa = sentimentanalyzer.SentimentAnalyzer()
         self.tsa.load_classifier()
+        self.tweet_fetcher = TweetFetcher()
 
 
     def analyze_hashtag(self, hashtag):
-        tweet_count = 1000
-        tweets = twitter.get_timeline("%23" + hashtag, tweet_count)
+        # tweet_count = 1000
 
-        tsa.clasify(tweets)
+        # perhaps make a for loop ?
+        # tweets = twitter.get_timeline("%23" + hashtag, tweet_count)
 
+        tweets = self.tweet_fetcher.get_tweets(hashtag)
 
+        self.tsa.clasify(tweets)
