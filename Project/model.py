@@ -35,3 +35,11 @@ class Tweet(object):
     def __init__(self, json_object):
         self.__dict__ = json_object
         self.user = User(self.user)
+
+
+class AnalyzedTag(object):
+    def __init__(self, something):
+        self.__dict__ = something
+        self.
+
+    
