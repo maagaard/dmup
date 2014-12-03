@@ -8,28 +8,19 @@ from nose.tools import with_setup
 test_db = 'dmup_test'
 
 tweets = tweets_from_json(read_json_from_file('Project/testdata/starwars_pos.json'))
-con = None
 
 def setup_module():
     try:
         create_db()
     except Exception as e:
-        print "Could not create DB" + repr(e)
+        print "Could not create DB: " + repr(e)
 
 
 def teardown_module():
     try:
         delete_db()
     except Exception as e:
-        print repr(e)
-
-
-def setup_func():
-    con = database.connect(dbname=test_db)
-
-
-def teardown_func():
-    con.close()
+        print "Could not delete DB: "  + repr(e)
 
 
 def create_db():
@@ -46,20 +37,35 @@ def delete_db():
     con.set_isolation_level(0)
     database.execute_sql(con, 'DROP DATABASE %s' % test_db)
 
+def delete_db_data():
+    con = database.connect(dbname=test_db)
+    database.execute_sql(con, 'DELETE FROM tweet_hashtag')
+    database.execute_sql(con, 'DELETE FROM tweets')
+    database.execute_sql(con, 'DELETE FROM hashtags')
 
-@with_setup(setup_func, teardown_func)
+
 def test_create_tweet():
+    con = database.connect(dbname=test_db)
     t = tweets[6]
     assert(database.create_tweet(con, t))
     cur = con.cursor()
     cur.execute('SELECT id FROM tweets WHERE created = \'%s\'' % t.created_at)
-    print "DONE!!"
-    print cur.fetchone()[0]
+    id = cur.fetchone()[0]
+    assert(id > 0)
+    delete_db_data()
 
 
 def test_create_tweets():
-    ts = tweets[0:10]
-    assert(database.create_tweets(con, ts))
+    con = database.connect(dbname=test_db)
+    ts = tweets
+    inserted = database.create_tweets(con, ts)
+    #assert(inserted = len(tweets))
+    print "Inserted count: " + str(inserted)
+    cur = con.cursor()
+    cur.execute('SELECT COUNT(*) FROM tweets')
+    count = cur.fetchone()[0]
+    assert(count == 10)
+    delete_db_data()
 
 
 def test_read_tweets_hashtag():

@@ -108,24 +108,41 @@ TODO: Exception handling on cur.execute()
 
 
 def create_tweets(connection, tweets):
-    raise NotImplemented
-
-
-def create_tweet(connection, tweet, polarity=0):
     cur = connection.cursor()
+
+    failed = []
+    
+    for tweet in tweets:
+        if (not _insert_tweet(cur, tweet)):
+            failed.append(tweet)
+
+    connection.commit()
+    cur.close()
+    return len(tweets) - len(failed)
+
+
+def create_tweet(connection, tweet):
+    cur = connection.cursor()
+    _insert_tweet(cur, tweet)
+    connection.commit()
+    cur.close()
+    return True
+
+
+def _insert_tweet(cursor, tweet):
     hashtag_ids = []
     # Insert hashtags if they do not already exist, and get the IDs of all hashtags for tweet
     for hashtag in tweet.hashtags:
-        cur.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
-        count = cur.fetchone()[0]
+        cursor.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
+        count = cursor.fetchone()[0]
         try:
             if count == 0:  # Insert and get IDs
-                cur.execute('INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
+                cursor.execute('INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
                             (0, hashtag))
-                hashtag_ids.append(cur.fetchone()[0])
+                hashtag_ids.append(cursor.fetchone()[0])
             else:  # Get IDs only
-                cur.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
-                hashtag_ids.append(cur.fetchone()[0])
+                cursor.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
+                hashtag_ids.append(cursor.fetchone()[0])
 
             DLOG("Inserted hashtag: " + hashtag)
 
@@ -136,9 +153,10 @@ def create_tweet(connection, tweet, polarity=0):
     # Insert the tweet into the database
     tweet.user = None
     try:
-        cur.execute('INSERT INTO tweets (created, polarity, data) VALUES (\'%s\', %s, \'%s\') RETURNING id'
-                    % (parse(tweet.created_at), polarity, json.dumps(tweet.__dict__)))
-        tweet_id = cur.fetchone()[0]
+        cursor.execute(
+            'INSERT INTO tweets (created, polarity, data) VALUES (\'%s\', %s, \'%s\') RETURNING id'
+            % (tweet.get_date(), 0, json.dumps(tweet.__dict__)))
+        tweet_id = cursor.fetchone()[0]
 
         DLOG("Inserted tweet with id: " + str(tweet_id))
 
@@ -149,16 +167,14 @@ def create_tweet(connection, tweet, polarity=0):
     # Insert relations between tweet and hashtags
     try:
         for hashtag_id in hashtag_ids:
-            cur.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
+            cursor.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
                         % (tweet_id, hashtag_id))
-            DLOG("Inserted tweet/hashtag relation with id: " + tweet_id + "-" + hashtag_id)
+            DLOG("Inserted tweet/hashtag relation with id: " + str(tweet_id) + "-" + str(hashtag_id))
 
     except Exception as e:
         DLOG("Could not add tweet/hashtag relation to database: " + repr(e))
         return False
 
-    connection.commit()
-    cur.close()
     return True
 
 
