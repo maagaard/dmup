@@ -23,4 +23,10 @@ class TSA(object):
 
         tweets = self.tweet_fetcher.get_tweets(hashtag)
 
-        self.tsa.clasify(tweets)
+        analyzed_tweets = self.tsa.clasify(tweets)
+
+        analyzed_tweets.sort(key=lambda x: datetime.datetime.strptime(x.tweet.created_at, '%Y-%m-%d'))
+
+        
+        for at in analyzed_tweets:
+            .sort(key=lambda x: datetime.datetime.strptime(x['date'], '%Y-%m-%d'))
