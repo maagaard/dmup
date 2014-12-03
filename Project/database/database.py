@@ -6,7 +6,12 @@ sys.path.insert(0, '../')
 import psycopg2
 import model
 import json
+# from debug import DLOG
 from dateutil.parser import *
+
+
+def DLOG(msg):
+    print msg
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -108,7 +113,6 @@ def create_tweet(connection, tweet, polarity=0):
     # Insert hashtags if they do not already exist, and get the IDs of all hashtags for tweet
     for hashtag in tweet.entities['hashtags']:
         hashtag_text = hashtag['text']
-        print hashtag_text
         cur.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag_text)
         count = cur.fetchone()[0]
         try:
@@ -120,8 +124,10 @@ def create_tweet(connection, tweet, polarity=0):
                 cur.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag_text)
                 hashtag_ids.append(cur.fetchone()[0])
 
+            DLOG("Inserted hashtag: " + hashtag_text)
+
         except Exception as e:
-            dlog("Could not add hashtag to database: " + e.strerror)
+            DLOG("Could not add hashtag to database: " + repr(e))
             return
 
     # Insert the tweet into the database
@@ -131,8 +137,10 @@ def create_tweet(connection, tweet, polarity=0):
                     % (parse(tweet.created_at), polarity, json.dumps(tweet.__dict__)))
         tweet_id = cur.fetchone()[0]
 
+        DLOG("Inserted tweet with id: " + str(tweet_id))
+
     except Exception as e:
-        dlog("Could not add tweet to database: " + e.strerror)
+        DLOG("Could not add tweet to database: " + repr(e))
         return
 
     # Insert relations between tweet and hashtags
@@ -140,9 +148,10 @@ def create_tweet(connection, tweet, polarity=0):
         for hashtag_id in hashtag_ids:
             cur.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
                         % (tweet_id, hashtag_id))
+            DLOG("Inserted tweet/hashtag relation with id: " + tweet_id + "-" + hashtag_id)
 
     except Exception as e:
-        dlog("Could not add tweet/hashtag relation to database: " + e.strerror)
+        DLOG("Could not add tweet/hashtag relation to database: " + repr(e))
         return
 
     connection.commit()
@@ -152,7 +161,7 @@ def create_tweet(connection, tweet, polarity=0):
 def read_tweets_hashtag(connection, hashtag):
     cur = connection.cursor()
     sql = """
-        SELECT COUNT(*)
+        SELECT tweets.id, tweets.created, tweets.data
         FROM hashtags
         INNER JOIN tweet_hashtag
             ON tweet_hashtag.hashtag_id = hashtags.id
@@ -162,7 +171,7 @@ def read_tweets_hashtag(connection, hashtag):
     """ % hashtag
     print sql
     cur.execute(sql)
-    print cur.fetchone()
+    print cur.fetchone()[0]
 
 
 def read_tweets_date(connection, from_date, to_date):
