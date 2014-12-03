@@ -107,6 +107,10 @@ TODO: Exception handling on cur.execute()
 """
 
 
+def create_tweets(connection, tweets):
+    raise NotImplemented
+
+
 def create_tweet(connection, tweet, polarity=0):
     cur = connection.cursor()
     hashtag_ids = []
@@ -173,6 +177,9 @@ def read_tweets_hashtag(connection, hashtag):
     print sql
     cur.execute(sql)
     print cur.fetchone()[0]
+
+def update_hashtag_polarity(connection, hashtag, new_polarity):
+    raise NotImplemented
 
 
 def read_tweets_date(connection, from_date, to_date):

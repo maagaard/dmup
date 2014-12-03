@@ -46,5 +46,16 @@ def test_create_tweet():
     tweet = None
     assert(database.create_tweet(con, tweet))
 
-def test_dummy():
-    assert(True)
+
+def test_create_tweets():
+    tweets = None
+    assert(database.create_tweets(con, tweets))
+    assert(False)
+
+
+def test_read_tweets_hashtag():
+    assert(False)
+
+
+def test_read_tweets_date():
+    assert(False)
