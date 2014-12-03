@@ -40,6 +40,6 @@ class Tweet(object):
 class AnalyzedTag(object):
     def __init__(self, something):
         self.__dict__ = something
-        self.
+        #self.
 
     

@@ -27,10 +27,10 @@ def execute_sql(connection, sql):
     cur.close()
 
 
-def create_database(connection):
+def create_database(connection, name):
     """Creates the database used in the DMUP project"""
     execute_sql(connection,
-                "CREATE DATABASE dmup WITH OWNER 'dmup'")
+                "CREATE DATABASE %s WITH OWNER dmup" % name)
 
 
 def create_user(connection):
@@ -128,7 +128,7 @@ def create_tweet(connection, tweet, polarity=0):
 
         except Exception as e:
             DLOG("Could not add hashtag to database: " + repr(e))
-            return
+            return False
 
     # Insert the tweet into the database
     tweet.user = None
@@ -141,7 +141,7 @@ def create_tweet(connection, tweet, polarity=0):
 
     except Exception as e:
         DLOG("Could not add tweet to database: " + repr(e))
-        return
+        return False
 
     # Insert relations between tweet and hashtags
     try:
@@ -152,10 +152,11 @@ def create_tweet(connection, tweet, polarity=0):
 
     except Exception as e:
         DLOG("Could not add tweet/hashtag relation to database: " + repr(e))
-        return
+        return False
 
     connection.commit()
     cur.close()
+    return True
 
 
 def read_tweets_hashtag(connection, hashtag):
