@@ -55,10 +55,13 @@ class Tweet(object):
 
 
     def set_polarity(self, pdist):
-        self.pdist = pdist
-        pos = self.pdist.prob("positive")
-        neg = self.pdist.prob("negative")
-        obj = self.pdist.prob("objective")
+        self.pdist = dict(postive=pdist.prob("positive"),
+                          negative=pdist.prob("negative"),
+                          objective=pdist.prob("objective"))
+
+        pos = self.pdist["positive"]
+        neg = self.pdist["negative"]
+        obj = self.pdist["objective"]
     # print "Positive: " + str(pos) + ", negative: " + str(neg) + ", objective: " + str(self.pdist.prob("objective"))
         # print("positve: %.2f, negative: %.2f, objective: %.2f" % (round(pos, 2),
         #                                                           round(neg, 2),
