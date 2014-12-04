@@ -6,14 +6,7 @@ sys.path.insert(0, '../')
 import psycopg2
 import model
 import json
-# from debug import DLOG
-from dateutil.parser import *
-from re import escape
-
-
-def DLOG(msg):
-    if False:
-        print msg
+from debug import DLOG
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -31,7 +24,6 @@ def execute_sql(connection, sql):
 
 def create_database(connection, name='dmup'):
     """Creates the database used in the DMUP project"""
-    #connection.
     execute_sql(connection,
                 "CREATE DATABASE %s WITH OWNER dmup" % name)
 
@@ -40,6 +32,7 @@ def create_user(connection):
     """Creates the user used in the DMUP project"""
     execute_sql(connection,
                 "CREATE ROLE dmup WITH LOGIN CREATEDB PASSWORD 'dmup123'")
+
 
 def create_tables(connection):
     """Creates the tables used in the DMUP project
@@ -112,16 +105,16 @@ TODO: Do not insert tweets already in the database
 def create_tweets(connection, tweets):
     cur = connection.cursor()
 
-    failed = []
-    
+    failed = 0
+
     for tweet in tweets:
         if (not _insert_tweet(cur, tweet)):
             print "INDEX OF FAILED TWEET: " + str(tweets.index(tweet))
-            failed.append(tweet)
+            failed = failed + 1
 
     connection.commit()
     cur.close()
-    return len(tweets) - len(failed)
+    return len(tweets) - failed
 
 
 def create_tweet(connection, tweet):
@@ -141,8 +134,9 @@ def _insert_tweet(cursor, tweet):
         count = cursor.fetchone()[0]
         try:
             if count == 0:  # Insert and get IDs
-                cursor.execute('INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
-                            (0, hashtag))
+                cursor.execute(
+                    'INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
+                    (0, hashtag))
                 hashtag_ids.append(cursor.fetchone()[0])
             else:  # Get IDs only
                 cursor.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
@@ -175,7 +169,9 @@ def _insert_tweet(cursor, tweet):
         for hashtag_id in hashtag_ids:
             cursor.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
                            % (tweet_id, hashtag_id))
-            DLOG("Inserted tweet/hashtag relation with id: " + str(tweet_id) + "-" + str(hashtag_id))
+            DLOG("Inserted tweet/hashtag relation with id: "
+                 + str(tweet_id)
+                 + "-" + str(hashtag_id))
 
     except Exception as e:
         DLOG("Could not add tweet/hashtag relation to database: " + repr(e))

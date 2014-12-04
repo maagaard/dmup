@@ -29,7 +29,8 @@ def main_page():
         tweets = get_timeline(hashtag, 10) if hashtag else []
         db_con = database.connect()
         database.create_tweets(db_con, tweets)
-        chart = create_bar_chart(hashtag, tweets).render(is_unicode=True)
+        # chart = create_bar_chart(hashtag, tweets).render(is_unicode=True)
+         chart = create_date_chart(hashtag, tweets).render(is_unicode=True)
         return render_template('mainpage.html',
                                # tweets=tweets,
                                navigationitems=navigation_items,
