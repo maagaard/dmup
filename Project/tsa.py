@@ -30,7 +30,7 @@ class TSA(object):
         self.sa.load_classifier()
         # self.tweet_fetcher = TweetFetcher()
 
-    def set_output_mode(self, mode):
+    def set_output_mode(self, mode="hours"):
         if (mode == "hours") | (mode == "days") | (mode == "weeks"):
             self.output_mode = mode
         else:
@@ -57,61 +57,7 @@ class TSA(object):
         self.analyzed_tweets = analyzed_tweets
 
 
-        if len(analyzed_tweets) < 500:
-            bin_size = 10
-        else:
-            bin_size = int(len(analyzed_tweets) * .02)
-
-        bins = []
-        for count in range(0, int(len(analyzed_tweets) / bin_size)):
-            pol_bin = [tweet.polarity for tweet in analyzed_tweets[(count * bin_size):((count + 1) * bin_size)]]
-            bins.append(pol_bin)
-
-
-        DLOG([sum(bin) for bin in bins])
-
-        # plt.boxplot(bins)
-        # plt.show()
-
-
-
-        splitter = 0
-        if (self.output_mode == "days"):
-            splitter = 86400  # 1 day in seconds
-            pass
-        elif (self.output_mode == "weeks"):
-            splitter = 604800  # 1 week in seconds
-            pass
-        else:
-            splitter = 3600  # 1 hours in seconds
-            pass
-
-
-        oldest = analyzed_tweets[0].get_date()
-        newest = analyzed_tweets[-1].get_date()
-
-        delta = int(((newest - oldest).total_seconds()) / splitter)
-
-        bins = []
-        for x in xrange(1, delta):
-            upper_limit = oldest + datetime.timedelta(hours=x)
-            lower_limit = upper_limit - datetime.timedelta(hours=1)
-            hour_bin = []
-            for tweet in analyzed_tweets:
-                if tweet.get_date() > upper_limit:
-                    bins.append(hour_bin)
-                    break
-                elif tweet.get_date() < lower_limit:
-                    continue
-                else:
-                    hour_bin.append(tweet)
-
-
-        self.output_bins = bins
-
-
-
-        return bins
+        return analyzed_tweets
 
 
     def output_tweets(self):
@@ -151,11 +97,19 @@ class TSA(object):
         DLOG("Bin containing " + str(len(hour_bin)) + " tweets")
         bins.append(hour_bin)
 
-
         self.output_bins = bins
 
         return bins
-
+        #### Alternate binning ####
+        # if len(analyzed_tweets) < 500:
+        #     bin_size = 10
+        # else:
+        #     bin_size = int(len(analyzed_tweets) * .02)
+        # bins = []
+        # for count in range(0, int(len(analyzed_tweets) / bin_size)):
+        #     pol_bin = [tweet.polarity for tweet in analyzed_tweets[(count * bin_size):((count + 1) * bin_size)]]
+        #     bins.append(pol_bin)
+        # DLOG([sum(bin) for bin in bins])
 
 
 if __name__ == '__main__':
