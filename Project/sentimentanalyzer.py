@@ -7,7 +7,8 @@ import random
 from debug import DLOG
 import datetime
 import cPickle
-from model import AnalyzedTag
+
+# from model import AnalyzedTag
 
 
 ##### HELPER METHODS ######
@@ -216,5 +217,8 @@ class SentimentAnalyzer(object):
 
             # return prob_dists
 
-            analyzed_tweets = [AnalyzedTag(tweets[prob_dists.index(pdist)], pdist) for pdist in prob_dists]
-            return analyzed_tweets
+            [tweet.set_polarity(prob_dists[tweets.index(tweet)]) for tweet in tweets]
+
+            # [tweets[prob_dists.index(pdist)], pdist) for pdist in prob_dists]
+            # analyzed_tweets = [AnalyzedTag(tweets[prob_dists.index(pdist)], pdist) for pdist in prob_dists]
+            return tweets
