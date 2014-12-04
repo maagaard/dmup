@@ -35,14 +35,36 @@ class User(object):
 
 
 class Tweet(object):
+    pdist = None
+    polarity = None
+
     def __init__(self, json_object):
         self.__dict__ = json_object
         self.user = User(self.user)
         self.hashtags = [tag['text'] for tag in self.entities['hashtags']]
 
+
     def get_date(self):
         return parse(self.created_at)
         # self.entities = Entities(self.entities)
+
+
+    def get_polarity(self):
+        return self.polarity
+
+
+    def set_polarity(self, pdist):
+        self.pdist = pdist
+        pos = self.pdist.prob("positive")
+        neg = self.pdist.prob("negative")
+        obj = self.pdist.prob("objective")
+    # print "Positive: " + str(pos) + ", negative: " + str(neg) + ", objective: " + str(self.pdist.prob("objective"))
+        # print("positve: %.2f, negative: %.2f, objective: %.2f" % (round(pos, 2),
+        #                                                           round(neg, 2),
+        #                                                           round(obj, 2)))
+
+        self.polarity = round(round(pos, 2) - round(neg, 2), 2)
+        return self.polarity
 
 
 class AnalyzedTag(object):
