@@ -174,7 +174,7 @@ def _insert_tweet(cursor, tweet):
     try:
         for hashtag_id in hashtag_ids:
             cursor.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
-                        % (tweet_id, hashtag_id))
+                           % (tweet_id, hashtag_id))
             DLOG("Inserted tweet/hashtag relation with id: " + str(tweet_id) + "-" + str(hashtag_id))
 
     except Exception as e:
@@ -187,7 +187,7 @@ def _insert_tweet(cursor, tweet):
 def read_tweets_hashtag(connection, hashtag):
     cur = connection.cursor()
     sql = """
-        SELECT tweets.id, tweets.created, tweets.data
+        SELECT tweets.data
         FROM hashtags
         INNER JOIN tweet_hashtag
             ON tweet_hashtag.hashtag_id = hashtags.id
@@ -195,13 +195,19 @@ def read_tweets_hashtag(connection, hashtag):
             ON tweets.id = tweet_hashtag.tweet_id
         WHERE hashtag = \'%s\'
     """ % hashtag
-    print sql
     cur.execute(sql)
-    print cur.fetchone()[0]
+    data = cur.fetchone()[0]
+    print "THE DATA: " + str(data)
+    return model.Tweet(data)
+
 
 def update_hashtag_polarity(connection, hashtag, new_polarity):
-    raise NotImplemented
+    execute_sql(connection,
+                'UPDATE hashtags SET polarity = %s WHERE hashtag = \'%s\''
+                % (new_polarity, hashtag))
 
 
 def read_tweets_date(connection, from_date, to_date):
-    raise NotImplementedError
+    execute_sql(connection,
+                'SELECT * FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
+                % (from_date, to_date))

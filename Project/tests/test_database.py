@@ -68,9 +68,22 @@ def test_create_tweets():
     delete_db_data()
 
 
+def test_update_hashtag_polarity():
+    con = database.connect(dbname=test_db)
+    t = tweets[8]
+    database.create_tweet(con, t)
+    database.update_hashtag_polarity(con, t.hashtags[0], 0.1337)
+    cur = con.cursor()
+    cur.execute('SELECT polarity FROM hashtags WHERE hashtag = \'%s\'' % t.hashtags[0])
+    assert(cur.fetchone()[0] == 0.1337)
+    delete_db_data()
+
+    
 def test_read_tweets_hashtag():
-    assert(False)
+    con = database.connect(dbname=test_db)
+    database.create_tweets(con, tweets[10:20])
+    database.read_tweets_hashtag(con, 'starwars')
 
 
-def test_read_tweets_date():
-    assert(False)
+# def test_read_tweets_date():
+#     assert(False)
