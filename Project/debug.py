@@ -1,7 +1,7 @@
 
 
 # Debug defines
-DEBUG = False
+DEBUG = True
 
 
 def DLOG(log_message):
