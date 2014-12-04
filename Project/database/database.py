@@ -106,7 +106,6 @@ def create_tables(connection):
 Insert a tweet into the database in connection
 
 TODO: Do not insert tweets already in the database
-TODO: Exception handling on cur.execute()
 """
 
 
@@ -197,7 +196,6 @@ def read_tweets_hashtag(connection, hashtag):
     """ % hashtag
     cur.execute(sql)
     data = cur.fetchone()[0]
-    print "THE DATA: " + str(data)
     return model.Tweet(data)
 
 
@@ -208,6 +206,12 @@ def update_hashtag_polarity(connection, hashtag, new_polarity):
 
 
 def read_tweets_date(connection, from_date, to_date):
-    execute_sql(connection,
-                'SELECT * FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
+    cur = connection.cursor()
+    cur.execute('SELECT data FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
                 % (from_date, to_date))
+    rows = cur.fetchall()
+    res = []
+    for row in rows:
+        res.append(model.Tweet(row[0]))
+
+    return res

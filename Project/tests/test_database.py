@@ -3,11 +3,12 @@ sys.path.insert(0, '../database/')
 from database import database
 import psycopg2
 from offlinedata import read_json_from_file, tweets_from_json
-from nose.tools import with_setup
+from datetime import datetime
+# from nose.tools import with_setup
 
 test_db = 'dmup_test'
-
 tweets = tweets_from_json(read_json_from_file('Project/testdata/starwars_pos.json'))
+
 
 def setup_module():
     try:
@@ -20,7 +21,7 @@ def teardown_module():
     try:
         delete_db()
     except Exception as e:
-        print "Could not delete DB: "  + repr(e)
+        print "Could not delete DB: " + repr(e)
 
 
 def create_db():
@@ -36,6 +37,7 @@ def delete_db():
     con = psycopg2.connect(database='postgres', user='dmup', password='dmup123')
     con.set_isolation_level(0)
     database.execute_sql(con, 'DROP DATABASE %s' % test_db)
+
 
 def delete_db_data():
     con = database.connect(dbname=test_db)
@@ -60,7 +62,6 @@ def test_create_tweets():
     ts = tweets
     inserted = database.create_tweets(con, ts)
     assert(inserted == len(ts))
-    print "Inserted count: " + str(inserted)
     cur = con.cursor()
     cur.execute('SELECT COUNT(*) FROM tweets')
     count = cur.fetchone()[0]
@@ -78,12 +79,17 @@ def test_update_hashtag_polarity():
     assert(cur.fetchone()[0] == 0.1337)
     delete_db_data()
 
-    
+
 def test_read_tweets_hashtag():
     con = database.connect(dbname=test_db)
     database.create_tweets(con, tweets[10:20])
     database.read_tweets_hashtag(con, 'starwars')
+    delete_db_data()
 
 
-# def test_read_tweets_date():
-#     assert(False)
+def test_read_tweets_date():
+    con = database.connect(dbname=test_db)
+    database.create_tweets(con, tweets)
+    res = database.read_tweets_date(con, datetime(2014, 12, 1, 12, 19, 0), datetime.now())
+    assert(len(res) == 13)
+    delete_db_data()
