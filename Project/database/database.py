@@ -29,8 +29,9 @@ def execute_sql(connection, sql):
     cur.close()
 
 
-def create_database(connection, name):
+def create_database(connection, name='dmup'):
     """Creates the database used in the DMUP project"""
+    #connection.
     execute_sql(connection,
                 "CREATE DATABASE %s WITH OWNER dmup" % name)
 

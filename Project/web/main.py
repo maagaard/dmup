@@ -7,6 +7,7 @@ from twitter import get_timeline
 import pygal
 from pygal.style import DarkGreenBlueStyle
 from charting import create_bar_chart
+from database import database
 
 app = Flask(__name__)
 
@@ -26,17 +27,41 @@ def main_page():
 
     try:
         tweets = get_timeline(hashtag, 10) if hashtag else []
+        db_con = database.connect()
+        database.create_tweets(db_con, tweets)
         chart = create_bar_chart(hashtag, tweets).render(is_unicode=True)
         return render_template('mainpage.html',
                                # tweets=tweets,
                                navigationitems=navigation_items,
                                chart=chart)
     except ClientException:
-        # Too many request, show something...
+        # Too many request,  show something...
         return render_template('mainpage.html')
 
 
 if __name__ == '__main__':
     # app.debug = True
-    app.run(host='0.0.0.0', debug=True)
-    app.run()
+    tmp_con = database.connect(user='postgres', password='', dbname='postgres')
+
+    try:
+        tmp_con.set_isolation_level(0)
+        database.create_user(tmp_con)
+    except Exception as e:
+        tmp_con.close()
+        tmp_con = database.connect(user='postgres', password='', dbname='postgres')
+        print repr(e)
+
+    try:
+        tmp_con.set_isolation_level(0)
+        database.create_database(tmp_con)
+    except Exception as e:
+        print repr(e)
+
+    tmp_con.close()
+    tmp_con = database.connect()
+    try:
+        database.create_tables(tmp_con)
+    except Exception as e:
+        print repr(e)
+
+    app.run(host='0.0.0.0', debug=True) 
