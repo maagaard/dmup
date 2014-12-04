@@ -135,7 +135,8 @@ def create_tweet(connection, tweet):
 def _insert_tweet(cursor, tweet):
     hashtag_ids = []
     # Insert hashtags if they do not already exist, and get the IDs of all hashtags for tweet
-    for hashtag in tweet.hashtags:
+    for h in tweet.hashtags:
+        hashtag = h.lower()
         cursor.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
         count = cursor.fetchone()[0]
         try:
@@ -195,8 +196,11 @@ def read_tweets_hashtag(connection, hashtag):
         WHERE hashtag = \'%s\'
     """ % hashtag
     cur.execute(sql)
-    data = cur.fetchone()[0]
-    return model.Tweet(data)
+    rows = cur.fetchall()
+    res = []
+    for row in rows:
+        res.append(model.Tweet(row[0]))
+    return res
 
 
 def update_hashtag_polarity(connection, hashtag, new_polarity):
