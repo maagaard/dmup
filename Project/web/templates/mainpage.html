@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html lang="en">
 <head>
-    <title>My Webpage</title>
+    <title>Twitter Sentiment Analysis</title>
 </head>
     <ul id="navigation">
       {% for item in navigationitems %}
@@ -27,5 +27,6 @@
         </li>
     {% endfor %}
     </ul>
+    {% block content %} {{chart|safe}} {% endblock %}
 </body>
 </html>

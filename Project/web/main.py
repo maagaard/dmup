@@ -1,11 +1,12 @@
 import sys
-from application_only_auth import ClientException
 sys.path.insert(0, '../')
-
-from flask import Flask, render_template, request
+from application_only_auth import ClientException
 from collections import namedtuple
-# from model import Tweet
+from flask import Flask, render_template, request
 from twitter import get_timeline
+import pygal
+from pygal.style import DarkGreenBlueStyle
+from charting import create_bar_chart
 
 app = Flask(__name__)
 
@@ -25,9 +26,11 @@ def main_page():
 
     try:
         tweets = get_timeline(hashtag, 10) if hashtag else []
+        chart = create_bar_chart(hashtag, tweets).render(is_unicode=True)
         return render_template('mainpage.html',
-                               tweets=tweets,
-                               navigationitems=navigation_items)
+                               # tweets=tweets,
+                               navigationitems=navigation_items,
+                               chart=chart)
     except ClientException:
         # Too many request, show something...
         return render_template('mainpage.html')
@@ -36,3 +39,4 @@ def main_page():
 if __name__ == '__main__':
     # app.debug = True
     app.run(host='0.0.0.0', debug=True)
+    app.run()

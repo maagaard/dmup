@@ -40,7 +40,6 @@ def create_user(connection):
     execute_sql(connection,
                 "CREATE ROLE dmup WITH LOGIN CREATEDB PASSWORD 'dmup123'")
 
-
 def create_tables(connection):
     """Creates the tables used in the DMUP project
 
