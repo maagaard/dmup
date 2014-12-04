@@ -59,12 +59,12 @@ def test_create_tweets():
     con = database.connect(dbname=test_db)
     ts = tweets
     inserted = database.create_tweets(con, ts)
-    #assert(inserted = len(tweets))
+    assert(inserted == len(ts))
     print "Inserted count: " + str(inserted)
     cur = con.cursor()
     cur.execute('SELECT COUNT(*) FROM tweets')
     count = cur.fetchone()[0]
-    assert(count == 10)
+    assert(count == len(ts))
     delete_db_data()
 
 

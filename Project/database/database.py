@@ -8,10 +8,12 @@ import model
 import json
 # from debug import DLOG
 from dateutil.parser import *
+from re import escape
 
 
 def DLOG(msg):
-    print msg
+    if False:
+        print msg
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -80,9 +82,10 @@ def create_tables(connection):
     cur.execute("""
     CREATE TABLE tweet_hashtag
     (
+      id serial NOT NULL,
       tweet_id integer NOT NULL,
       hashtag_id integer NOT NULL,
-      CONSTRAINT tweet_hashtag_pkey PRIMARY KEY (tweet_id, hashtag_id),
+      CONSTRAINT tweet_hashtag_pkey PRIMARY KEY (id, tweet_id, hashtag_id),
       CONSTRAINT tweet_hashtag_hashtag_id_fkey FOREIGN KEY (hashtag_id)
           REFERENCES hashtags (id) MATCH SIMPLE
           ON UPDATE NO ACTION ON DELETE NO ACTION,
@@ -114,6 +117,7 @@ def create_tweets(connection, tweets):
     
     for tweet in tweets:
         if (not _insert_tweet(cur, tweet)):
+            print "INDEX OF FAILED TWEET: " + str(tweets.index(tweet))
             failed.append(tweet)
 
     connection.commit()
@@ -155,13 +159,15 @@ def _insert_tweet(cursor, tweet):
     try:
         cursor.execute(
             'INSERT INTO tweets (created, polarity, data) VALUES (\'%s\', %s, \'%s\') RETURNING id'
-            % (tweet.get_date(), 0, json.dumps(tweet.__dict__)))
+            % (tweet.get_date(), 0, json.dumps(tweet.__dict__, skipkeys=True).replace("'", "")))
         tweet_id = cursor.fetchone()[0]
 
         DLOG("Inserted tweet with id: " + str(tweet_id))
 
     except Exception as e:
         DLOG("Could not add tweet to database: " + repr(e))
+        with open('stupidtweet', 'w') as f:
+            f.write(json.dumps(tweet.__dict__))
         return False
 
     # Insert relations between tweet and hashtags
