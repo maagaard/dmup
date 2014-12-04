@@ -8,10 +8,12 @@ import model
 import json
 # from debug import DLOG
 from dateutil.parser import *
+from re import escape
 
 
 def DLOG(msg):
-    print msg
+    if False:
+        print msg
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -46,7 +48,7 @@ def create_tables(connection):
 
     cur = connection.cursor()
     # should switch from datatype 'json' to 'jsonb' when using Postgres >9.4
-    # and apply GIN for better query performance
+    # and apply GIN on the column for better query performance
     cur.execute("""
     CREATE TABLE tweets
     (
@@ -80,9 +82,10 @@ def create_tables(connection):
     cur.execute("""
     CREATE TABLE tweet_hashtag
     (
+      id serial NOT NULL,
       tweet_id integer NOT NULL,
       hashtag_id integer NOT NULL,
-      CONSTRAINT tweet_hashtag_pkey PRIMARY KEY (tweet_id, hashtag_id),
+      CONSTRAINT tweet_hashtag_pkey PRIMARY KEY (id, tweet_id, hashtag_id),
       CONSTRAINT tweet_hashtag_hashtag_id_fkey FOREIGN KEY (hashtag_id)
           REFERENCES hashtags (id) MATCH SIMPLE
           ON UPDATE NO ACTION ON DELETE NO ACTION,
@@ -114,6 +117,7 @@ def create_tweets(connection, tweets):
     
     for tweet in tweets:
         if (not _insert_tweet(cur, tweet)):
+            print "INDEX OF FAILED TWEET: " + str(tweets.index(tweet))
             failed.append(tweet)
 
     connection.commit()
@@ -155,20 +159,22 @@ def _insert_tweet(cursor, tweet):
     try:
         cursor.execute(
             'INSERT INTO tweets (created, polarity, data) VALUES (\'%s\', %s, \'%s\') RETURNING id'
-            % (tweet.get_date(), 0, json.dumps(tweet.__dict__)))
+            % (tweet.get_date(), 0, json.dumps(tweet.__dict__, skipkeys=True).replace("'", "")))
         tweet_id = cursor.fetchone()[0]
 
         DLOG("Inserted tweet with id: " + str(tweet_id))
 
     except Exception as e:
         DLOG("Could not add tweet to database: " + repr(e))
+        with open('stupidtweet', 'w') as f:
+            f.write(json.dumps(tweet.__dict__))
         return False
 
     # Insert relations between tweet and hashtags
     try:
         for hashtag_id in hashtag_ids:
             cursor.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
-                        % (tweet_id, hashtag_id))
+                           % (tweet_id, hashtag_id))
             DLOG("Inserted tweet/hashtag relation with id: " + str(tweet_id) + "-" + str(hashtag_id))
 
     except Exception as e:
@@ -181,7 +187,7 @@ def _insert_tweet(cursor, tweet):
 def read_tweets_hashtag(connection, hashtag):
     cur = connection.cursor()
     sql = """
-        SELECT tweets.id, tweets.created, tweets.data
+        SELECT tweets.data
         FROM hashtags
         INNER JOIN tweet_hashtag
             ON tweet_hashtag.hashtag_id = hashtags.id
@@ -189,13 +195,19 @@ def read_tweets_hashtag(connection, hashtag):
             ON tweets.id = tweet_hashtag.tweet_id
         WHERE hashtag = \'%s\'
     """ % hashtag
-    print sql
     cur.execute(sql)
-    print cur.fetchone()[0]
+    data = cur.fetchone()[0]
+    print "THE DATA: " + str(data)
+    return model.Tweet(data)
+
 
 def update_hashtag_polarity(connection, hashtag, new_polarity):
-    raise NotImplemented
+    execute_sql(connection,
+                'UPDATE hashtags SET polarity = %s WHERE hashtag = \'%s\''
+                % (new_polarity, hashtag))
 
 
 def read_tweets_date(connection, from_date, to_date):
-    raise NotImplementedError
+    execute_sql(connection,
+                'SELECT * FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
+                % (from_date, to_date))

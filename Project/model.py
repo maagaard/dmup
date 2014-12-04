@@ -40,7 +40,8 @@ class Tweet(object):
 
     def __init__(self, json_object):
         self.__dict__ = json_object
-        self.user = User(self.user)
+        if self.user is not None:
+            self.user = User(self.user)
         self.hashtags = [tag['text'] for tag in self.entities['hashtags']]
 
 
