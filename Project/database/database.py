@@ -48,7 +48,7 @@ def create_tables(connection):
 
     cur = connection.cursor()
     # should switch from datatype 'json' to 'jsonb' when using Postgres >9.4
-    # and apply GIN for better query performance
+    # and apply GIN on the column for better query performance
     cur.execute("""
     CREATE TABLE tweets
     (
