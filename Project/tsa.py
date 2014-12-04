@@ -1,11 +1,10 @@
 from sentimentanalyzer import SentimentAnalyzer
 from tweetfetcher import TweetFetcher
 from debug import DLOG
+import datetime
 
 
-import numpy as np
-import numpy.random
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 
 def sort_tweets(tweets):
@@ -20,10 +19,26 @@ class TSA(object):
     sa = SentimentAnalyzer()
     tweet_fetcher = TweetFetcher()
 
+    output_modes = ["hours", "days", "weeks"]
+    output_mode = output_modes[0]
+
+    analyzed_tweets = None
+    output_bins = None
+
     def __init__(self):
         super(TSA, self).__init__()
         self.sa.load_classifier()
         # self.tweet_fetcher = TweetFetcher()
+
+    def set_output_mode(self, mode):
+        if (mode == "hours") | (mode == "days") | (mode == "weeks"):
+            self.output_mode = mode
+        else:
+            try:
+                self.output_mode = self.output_modes[mode]
+            except Exception, e:
+                DLOG("Output mode not set correctly: " + str(e))
+                self.output_mode = "hours"
 
 
     def analyze_hashtag(self, hashtag):
@@ -39,6 +54,8 @@ class TSA(object):
         analyzed_tweets = sort_tweets(self.sa.classify(tweets))
         # analyzed_tweets = sort_tweets(self.sa.classify(tweets))
 
+        self.analyzed_tweets = analyzed_tweets
+
 
         if len(analyzed_tweets) < 500:
             bin_size = 10
@@ -53,36 +70,91 @@ class TSA(object):
 
         DLOG([sum(bin) for bin in bins])
 
-        plt.boxplot(bins)
-        plt.show()
-
-
-        # plt.xticks(range(1, 11), bin_nums)
-
-        # print [(sum(bin) / bin_size) for bin in bins]
-
-        # numbers = [(sum(bin) / bin_size) for bin in bins]
-
-        # bin_nums = [bins.index(bin) for bin in bins]
-
-        # plt.figure(1)
-
-
-        # # plt.bar([-1, -0.5, 0, 0.5, 1], ((sum(bin) / bin_size) for bin in bins))
-
-        # # plt.hist([(sum(bin) / bin_size) for bin in bins], bins=bin_nums)
-
-        # # (array([0, 2, 1]), array([0, 1, 2, 3]), <a list of 3 Patch objects>)
+        # plt.boxplot(bins)
         # plt.show()
 
-        # # np.histogram(bins, bins=len(bins))
 
-        # # heatmap, xedges, yedges = np.histogram2d(x, y, bins=50)
-        # # extent = [xedges[0], xedges[-1], yedges[0], yedges[-1]]
 
-        # # plt.clf()
-        # # plt.imshow(heatmap, extent=extent)
-        # # plt.show()
+        splitter = 0
+        if (self.output_mode == "days"):
+            splitter = 86400  # 1 day in seconds
+            pass
+        elif (self.output_mode == "weeks"):
+            splitter = 604800  # 1 week in seconds
+            pass
+        else:
+            splitter = 3600  # 1 hours in seconds
+            pass
+
+
+        oldest = analyzed_tweets[0].get_date()
+        newest = analyzed_tweets[-1].get_date()
+
+        delta = int(((newest - oldest).total_seconds()) / splitter)
+
+        bins = []
+        for x in xrange(1, delta):
+            upper_limit = oldest + datetime.timedelta(hours=x)
+            lower_limit = upper_limit - datetime.timedelta(hours=1)
+            hour_bin = []
+            for tweet in analyzed_tweets:
+                if tweet.get_date() > upper_limit:
+                    bins.append(hour_bin)
+                    break
+                elif tweet.get_date() < lower_limit:
+                    continue
+                else:
+                    hour_bin.append(tweet)
+
+
+        self.output_bins = bins
+
+
+
+        return bins
+
+
+    def output_tweets(self):
+        splitter = 0
+        if (self.output_mode == "days"):
+            splitter = 86400  # 1 day in seconds
+            pass
+        elif (self.output_mode == "weeks"):
+            splitter = 604800  # 1 week in seconds
+            pass
+        else:
+            splitter = 3600  # 1 hours in seconds
+            pass
+
+        oldest = self.analyzed_tweets[0].get_date()
+        newest = self.analyzed_tweets[-1].get_date()
+
+        delta = int(((newest - oldest).total_seconds()) / splitter)
+
+        bins = []
+        hour_bin = []
+        for x in xrange(1, delta + 2):
+            upper_limit = oldest + datetime.timedelta(seconds=splitter * x)
+            lower_limit = upper_limit - datetime.timedelta(seconds=splitter)
+
+            hour_bin = []
+            for tweet in self.analyzed_tweets:
+                if tweet.get_date() > upper_limit:
+                    bins.append(hour_bin)
+                    DLOG("Bin containing " + str(len(hour_bin)) + " tweets")
+                    break
+                elif tweet.get_date() < lower_limit:
+                    continue
+                else:
+                    hour_bin.append(tweet)
+
+        DLOG("Bin containing " + str(len(hour_bin)) + " tweets")
+        bins.append(hour_bin)
+
+
+        self.output_bins = bins
+
+        return bins
 
 
 
