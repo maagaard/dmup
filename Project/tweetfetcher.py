@@ -20,24 +20,32 @@ MAX_TWEET_COUNT = 100
 
 
 class TweetFetcher(object):
-    """docstring for TweetFetcher"""
+    """
+    TweetFetcher
+    Class for fetching tweets
+    """
 
     twitter_client = None
     tweet_max_id = None
 
     def __init__(self):
         super(TweetFetcher, self).__init__()
-        # self.arg = arg
         self.twitter_client = Client(twitterkeys.consumer_key, twitterkeys.consumer_secret)
         self.twitter_client._get_access_token()
 
 
     def get_client_status(self):
+        """
+        Returns the remaining amount of tweet queries available for the current 15 minute period.
+        """
         status = self.twitter_client.rate_limit_status()
         return status['resources']['search']['/search/tweets']['remaining']
 
 
-    def get_tweets(self, search_tag):
+    def get_tweets_as_json(self, search_tag):
+        """
+        Returns 100 tweets containing the search hashtag as a json dictionary
+        """
         query = search_tag
         query += "%20lang%3Aen"
         query += "&result_type=" + "mixed"  # result_types: "recent", "popular", "mixed"
@@ -47,12 +55,19 @@ class TweetFetcher(object):
         query += "&count=" + str(MAX_TWEET_COUNT)
 
         request_start = datetime.datetime.now()  # request timing
-
         response_json = self.twitter_client.request(twitter_api_url + query_tweets_url + query)
 
         DLOG("Request time: " + str(datetime.datetime.now() - request_start))  # request timing
 
         response_dict = json.loads(json.dumps(response_json, sort_keys=True))
+        return response_dict
+
+
+    def get_tweets(self, search_tag):
+        """
+        Returns 100 tweets containing the search hashtag as Tweet objects
+        """
+        response_dict = self.get_tweets_as_json(search_tag)
         statuses = response_dict['statuses']
         # search_metadata = response_dict['search_metadata']
 
@@ -64,20 +79,23 @@ class TweetFetcher(object):
         if len(tweets) > 0:
             self.tweet_max_id = tweets[-1].id
             return tweets
-            # return tweets, search_metadata
         else:
             self.tweet_max_id = None
             return tweets
 
 
     def get_newest(self, search_tag, id):
-        
+        """
+        Method for updating timeline.
 
-
-        pass
+        """
+        raise NotImplementedError
 
 
     def stop_fetching(self):
+        """
+        Resets max id so that any query will start from "scratch"
+        """
         self.tweet_max_id = None
 
 
