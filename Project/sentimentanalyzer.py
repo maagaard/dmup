@@ -1,3 +1,7 @@
+__author__ = "Emil Maagaard & Bjarke Vad Andersen"
+__credits__ = ["Myle Ott for twokenize"]
+__version__ = "1.0"
+
 from nltk.classify import NaiveBayesClassifier, util, accuracy
 from nltk import FreqDist
 from nltk.corpus import movie_reviews

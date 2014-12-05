@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # encoding: utf-8
+
+__author__ = "Emil Maagaard & Bjarke Vad Andersen"
+__credits__ = ["Pablo Seminario", "Rafael Reimberg", "Chris Hawkins"]
+__version__ = "1.0"
+
 import twitterkeys
 import json
 import datetime

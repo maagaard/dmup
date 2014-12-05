@@ -1,3 +1,7 @@
+__author__ = "Emil Maagaard & Bjarke Vad Andersen"
+__credits__ = []
+__version__ = "1.0"
+
 import sys
 sys.path.insert(0, '../')
 from application_only_auth import ClientException

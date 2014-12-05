@@ -1,3 +1,7 @@
+__author__ = "Emil Maagaard & Bjarke Vad Andersen"
+__credits__ = []
+__version__ = "1.0"
+
 from setuptools import setup
 
 # import main_module

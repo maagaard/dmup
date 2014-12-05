@@ -1,3 +1,7 @@
+__author__ = "Emil Maagaard & Bjarke Vad Andersen"
+__credits__ = []
+__version__ = "1.0"
+
 import tweetfetcher
 from model import Tweet
 from debug import DLOG

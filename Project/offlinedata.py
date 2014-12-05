@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # encoding: utf-8
+__author__ = "Emil Maagaard & Bjarke Vad Andersen"
+__credits__ = ["Myle Ott for twokenize"]
+__version__ = "1.0"
+
 import json
-import datetime
 import codecs
 from model import Tweet
-from debug import DLOG
 from twitter import get_timeline
 import tweetfetcher
 
