@@ -32,13 +32,13 @@
 
 
 %-------- Page setup
-\textwidth 16cm
-\textheight 22cm
-\oddsidemargin 0cm
-\topmargin -1cm
-\def\x{{\bf x}}
-\def\w{{\bf w}}
-\def\squeeze{\itemsep=0pt\parskip=0pt}
+% \textwidth 16cm
+% \textheight 22cm
+% \oddsidemargin 0cm
+% \topmargin -1cm
+% \def\x{{\bf x}}
+% \def\w{{\bf w}}
+% \def\squeeze{\itemsep=0pt\parskip=0pt}
 
 % - From FN
 \hypersetup{colorlinks=true,citecolor=[rgb]{0,0.4,0}}
