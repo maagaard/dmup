@@ -3,13 +3,12 @@ sys.path.insert(0, '../')
 from application_only_auth import ClientException
 from collections import namedtuple
 from flask import Flask, render_template, request
-from twitter import get_timeline
-import pygal
-from pygal.style import DarkGreenBlueStyle
-from charting import create_bar_chart
+from charting import create_date_chart
 from database import database
+from tsa import TSA
 
 app = Flask(__name__)
+tsa = TSA()
 
 NavigationItem = namedtuple('NavigationItem', ['href', 'caption'])
 navigation_items = [
@@ -25,12 +24,16 @@ def main_page():
 
     print "Querying hashtag: " + hashtag
 
+    if not hashtag:
+        return render_template('mainpage.html')
+
     try:
-        tweets = get_timeline(hashtag, 10) if hashtag else []
+        tsa.analyze_hashtag(hashtag)
+        tweets = tsa.analyzed_tweets
         db_con = database.connect()
-        database.create_tweets(db_con, tweets)
+        # database.create_tweets(db_con, tweets)
         # chart = create_bar_chart(hashtag, tweets).render(is_unicode=True)
-         chart = create_date_chart(hashtag, tweets).render(is_unicode=True)
+        chart = create_date_chart(hashtag, tsa.output_tweets()).render(is_unicode=True)
         return render_template('mainpage.html',
                                # tweets=tweets,
                                navigationitems=navigation_items,
