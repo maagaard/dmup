@@ -1,0 +1,30 @@
+\documentclass[Main]{subfiles}
+\begin{document}
+The application as a whole can be run through ``website.py'', 
+which renders a web front-end on ``localhost:5000'' and gives the user access to querying tweets.
+The front-end is shown on \autoref{fig:website}, where the hashtag ``\#python'' has been queried.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{website.png}
+  \caption{Web-interface for the application}
+  \label{fig:website}
+\end{figure}
+
+While the web-interface does look rather simplistic, there's a lot of moving parts behind it.
+The steps for querying a hashtag are listed below:
+\begin{enumerate}
+\item Look up tweets using the Twitter API
+\item De-serialize the tweet from JSON to the appropriate domain model
+\item Extract the feature-set of the tweets
+\item Analyze the sentiment polarity of the tweets
+\item Insert the analyzed tweets into the PostgreSQL database
+\item Render a graph of the analyzed tweets
+\item Render the updated web-interface to the user
+\end{enumerate}
+
+One of the limitations of the current implementation, is that querying Twitter takes a relatively long period of time,
+approximately 5 seconds per 100 tweets. 
+This makes it hard to get a very precise and dense result set, but it does give us an impression of how a more complete system would behave.
+
+\end{document}
