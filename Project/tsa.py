@@ -41,14 +41,15 @@ class TSA(object):
                 self.output_mode = "hours"
 
 
-    def analyze_hashtag(self, hashtag):
+    def analyze_hashtag(self, hashtag, count=200):
         # tweet_count = 1000
 
         # perhaps make a for loop ?
 
         tweets = []
-        # for x in xrange(1, 10):
-        tweets.extend(self.tweet_fetcher.get_tweets(hashtag))
+
+        for x in xrange(0, int(count / 10)):
+            tweets.extend(self.tweet_fetcher.get_tweets(hashtag))
 
         analyzed_tweets = sort_tweets(self.sa.classify(tweets))
         # analyzed_tweets = sort_tweets(self.sa.classify(tweets))
