@@ -1,8 +1,7 @@
-from nltk.classify import NaiveBayesClassifier, util
+from nltk.classify import NaiveBayesClassifier, util, accuracy
+from nltk import FreqDist
 from nltk.corpus import movie_reviews
-# import twitter
 from twokenize import simpleTokenize
-import nltk
 import random
 from debug import DLOG
 import datetime
@@ -154,7 +153,7 @@ class SentimentAnalyzer(object):
         all_tokens = pos_tweet_tokens + neg_tweet_tokens + objective_tweet_tokens
 
 
-        all_words = nltk.FreqDist(t.lower() for d in all_tokens for t in d["tokens"])
+        all_words = FreqDist(t.lower() for d in all_tokens for t in d["tokens"])
         self.sentiment_features = all_words.keys()
 
         time_stamp = str(datetime.datetime.now())[:19]
@@ -173,7 +172,7 @@ class SentimentAnalyzer(object):
 
         self.classifier = NaiveBayesClassifier.train(train_set)
 
-        DLOG(nltk.classify.accuracy(self.classifier, test_set))
+        DLOG(accuracy(self.classifier, test_set))
         self.classifier.show_most_informative_features()
 
         classifier_file = "classifier/classifier_" + time_stamp + ".pkl"
