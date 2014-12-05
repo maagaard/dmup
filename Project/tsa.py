@@ -61,7 +61,7 @@ class TSA(object):
         """
         tweets = []
 
-        for x in xrange(0, int(count / 10)):
+        for x in xrange(0, int(count / 100)):
             tweets.extend(self.tweet_fetcher.get_tweets(hashtag))
 
         analyzed_tweets = sort_tweets(self.sa.classify(tweets))

@@ -1,3 +1,7 @@
+"""
+dataminer.py is mainly intended for use by the authors
+"""
+
 __author__ = "Emil Maagaard & Bjarke Vad Andersen"
 __credits__ = []
 __version__ = "1.0"
