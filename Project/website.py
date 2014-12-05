@@ -2,10 +2,11 @@ import sys
 sys.path.insert(0, '../')
 from application_only_auth import ClientException
 from collections import namedtuple
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, g
 from charting import create_date_chart
 from database import database
 from tsa import TSA
+from debug import DLOG
 
 app = Flask(__name__)
 tsa = TSA()
@@ -16,6 +17,24 @@ navigation_items = [
     NavigationItem('top', 'Top Tweets'),
     NavigationItem('about', 'About'),
     ]
+
+
+def get_db():
+    """
+    Gets a database connection for the current request
+    """
+    if hasattr(g, 'db_con'):
+        g.db_con = database.connect()
+    return g.db_con
+
+
+@app.teardown_appcontext
+def close_db():
+    """
+    Closes the database after the current request
+    """
+    if hasattr(g, 'db_con'):
+        g.db_con.close()
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -30,7 +49,7 @@ def main_page():
     try:
         tsa.analyze_hashtag(hashtag)
         tweets = tsa.analyzed_tweets
-        db_con = database.connect()
+        db_con = get_db()
         database.create_tweets(db_con, tweets)
         chart = create_date_chart(hashtag, tsa.output_tweets()).render(is_unicode=True)
         return render_template('mainpage.html',
@@ -39,6 +58,9 @@ def main_page():
                                chart=chart)
     except ClientException:
         # Too many request,  show something...
+        return render_template('mainpage.html')
+    except Exception as e:
+        DLOG("Something went wrong: " + repr(e))
         return render_template('mainpage.html')
 
 
@@ -67,4 +89,4 @@ if __name__ == '__main__':
     except Exception as e:
         print repr(e)
 
-    app.run(host='0.0.0.0', debug=True) 
+    app.run(host='0.0.0.0', debug=True)
