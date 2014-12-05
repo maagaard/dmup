@@ -12,7 +12,20 @@ The sentiment analysis uses the Python modules nltk,
 
 
 \textbf{Tokenizing the tweets}
-In stead of using a simple \'split\' function on the tweets, a tokenizer designed for tweets is used. Two different tokenizers have been considered; \"HappyFunTokenizing\" from [ref] and \"ark-twokenize\" from a Carnegie Mellon University research group \href{http://www.ark.cs.cmu.edu/TweetNLP/}{\tt Tweet NLP}
+In stead of using a simple \'split\' function on the tweets, a tokenizer designed for tweets is used. Two different tokenizers have been considered; \"HappyFunTokenizing\" from [ref: ] \href{http://sentiment.christopherpotts.net/tokenizing.html}{\tt C. Potts, Stanford Linguistics} and \"ark-twokenize\" from a Carnegie Mellon University research group \href{http://www.ark.cs.cmu.edu/TweetNLP/}{\tt Tweet NLP}
+
+The chosen tokenizer, \"ark-twokenize\", performs visibly better on links, which is an important feature. E.g. [HappyFun] will return the following ${u'http', u':/', u'/', u't', u'.', u'co', u'/', u'reupcsoekj'}$, whereas [ARK] will return ${u'http://t.co/rEuPcSOekJ'}$. 
+
+Tokenizing is important, since the classification features will be based on the tokens. 
+
+
+
+\subsection{Sentiment analysis}
+
+\textbf{Feature extraction}
+
+
+\textbf{Classification}
 
 
 
