@@ -17,6 +17,37 @@
 \subfile{introduction}
 
 
+\begin{lstlisting} [language=Python]
+class TSA(object):
+    """docstring for TwitterSentimentAnalyzer"""
+
+    sa = SentimentAnalyzer()
+    tweet_fetcher = TweetFetcher()
+
+    output_modes = ["hours", "days", "weeks"]
+    output_mode = output_modes[0]
+
+    analyzed_tweets = None
+    output_bins = None
+
+    def __init__(self):
+        super(TSA, self).__init__()
+        self.sa.load_classifier()
+        # self.tweet_fetcher = TweetFetcher()
+
+    def set_output_mode(self, mode="hours"):
+        if (mode == "hours") | (mode == "days") | (mode == "weeks"):
+            self.output_mode = mode
+        else:
+            try:
+                self.output_mode = self.output_modes[mode]
+            except Exception, e:
+                DLOG("Output mode not set correctly: " + str(e))
+                self.output_mode = "hours"
+
+\end{lstlisting}
+
+
 \newpage
 \section*{Subsection 1}
 \subfile{subsection}

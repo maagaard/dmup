@@ -46,7 +46,6 @@ class TSA(object):
 
         # perhaps make a for loop ?
 
-
         tweets = []
         for x in xrange(0, 10):
             tweets.extend(self.tweet_fetcher.get_tweets(hashtag))
@@ -55,7 +54,6 @@ class TSA(object):
         # analyzed_tweets = sort_tweets(self.sa.classify(tweets))
 
         self.analyzed_tweets = analyzed_tweets
-
 
         return analyzed_tweets
 
