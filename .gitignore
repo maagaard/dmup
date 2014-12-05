@@ -92,3 +92,4 @@ docs/_build/
 # JSON files that are too large
 Project/Ferguson-2014-12-05
 Project/ferguson_analyzed.pkl
+src/*
