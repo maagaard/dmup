@@ -8,7 +8,7 @@ from application_only_auth import ClientException
 from collections import namedtuple
 from flask import Flask, render_template, request, g
 from charting import create_date_chart
-from database import database
+import database
 from tsa import TSA
 from debug import DLOG
 
