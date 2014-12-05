@@ -43,7 +43,7 @@ class TweetFetcher(object):
         query += "&result_type=" + "mixed"  # result_type
 
         if self.tweet_max_id is not None:
-            query += "&max_id=" + str(self.tweet_max_id)
+            query += "&max_id=" + str(self.tweet_max_id - 1)
         query += "&count=" + str(MAX_TWEET_COUNT)
 
         request_start = datetime.datetime.now()  # request timing
