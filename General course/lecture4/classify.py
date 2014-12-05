@@ -28,7 +28,7 @@ word_features = all_words.keys()[:2000]
  
  
 def document_features(document):
-  document_words = set(document['words'])
+ > document_words = set(document['words'])
   features = {}
   for word in word_features:
     features['contains(%s)' % word] = (word in document_words)

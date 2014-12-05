@@ -1,32 +1,80 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html lang="en">
-<head>
-    <title>Twitter Sentiment Analysis</title>
-</head>
-    <ul id="navigation">
-      {% for item in navigationitems %}
-        <li>
-          <a href={{ item.href }}>{{ item.caption }} </a>
-        </li>
-      {% endfor %}
-    </ul>
-    <h1>Twitter Sentiment Analysis</h1>
-    <h2>02819 - Datamining Using Python</h2>
-<body>
-  <form method="post" name="search">
-    <p>
-      Enter a hashtag: <br>
-    </p>
-    <p><input type="text" name="hashtag"></p>
-    <p><input type="submit" value="Search"></p>
-  </form>
-    <ul id="tweets">
-    {% for tweet in tweets %}
-        <li>
-          <a>{{ tweet.text }}</a>
-        </li>
-    {% endfor %}
-    </ul>
-    {% block content %} {{chart|safe}} {% endblock %}
-</body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <title>Twitter Sentiment Analysis</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}" media="screen" />
+    </head>
+    <body>
+            <div id="top">
+                <h2><a href="#">Twitter Sentiment Analysis</a></h2>
+                <!-- <div id="menu">
+                <ul >
+                <li><a href="#" class="current">home</a></li>
+                {% for item in navigationitems %}
+                <li><a href="{{ item.href }}">{{item.caption}}</a></li>
+                {% endfor %}
+                </ul>
+                </div> -->
+            </div>
+        <div id="wrap">
+
+            <div id="content">
+                <div id="left">
+                    <form method="post" name="search">
+                        <h2></h2>
+                        <h1 style="float:left;font-size:30px;margin:10px 10px 0 0;">#</h1>
+                        <p><input id="searchbox" type="text" name="hashtag"></p>
+                        <p><input id="searchbutton" type="submit" value="Analyze"></p>
+                    </form>
+
+                    {% if error %}
+                    <p>Error: {{ error }}</p>
+                    {% endif %}
+
+                    <ul id="tweets">
+                        {% for tweet in tweets %}
+                        <li>
+                            <a>{{ tweet.text }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+      <div id="right">
+          <div class="box">
+              <h2>About</h2>
+              <p>
+                  This project is the final project for the DTU course <a href="http://www.kurser.dtu.dk/02819.aspx?menulanguage=en-GB">02819 Datamining Using Python</a>.
+                  The application uses the <a href="https://twitter.com">Twitter</a> API
+                  to query <a href="https://en.wikipedia.org/wiki/Hashtag">hashtags</a>
+                  for use in sentiment analysis.
+                  Please note that queries might take a long time,
+                  and that concurrent requests are not possible in the current implementation.
+              </p>
+              {% if cachedqueries %}
+              <h2>Cached Queries</h2>
+              <ul>
+                  {% for query in cachedqueries %}
+                  <li><a href="{{ query.href }}"></a>{{ query.date }}</li>
+                  {% endfor %}
+                  <!-- <li><a href="#">Passages of lorem ipsum</a> <i>3 nov 06</i></li> -->
+              </ul>
+              {% endif %}
+              <h2>Source code</h2>
+              <p>The source code for the project is available on <a href="https://github.com/maagaard/dmup">Github</a>.</p>
+          </div>
+      </div>
+                <div id="clear"></div>
+            </div>
+            <div style="margin:20px 0">
+                    {% block content %} {{chart|safe}} {% endblock %}
+            </div>
+            <div id="footer">
+                <p>Copyright 2014
+                    <a href="http://www.maagaardsapps.com">Emil Maagaard s142955,</a>
+                    <a href="https://bjarkevad.dk">Bjarke Vad s142941</a>
+                </p>
+            </div>
+        </div>
+    </body>
 </html>

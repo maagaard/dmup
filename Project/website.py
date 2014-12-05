@@ -16,23 +16,24 @@ navigation_items = [
     NavigationItem('#', 'Home'),
     NavigationItem('top', 'Top Tweets'),
     NavigationItem('about', 'About'),
-    ]
+]
 
 
 def get_db():
     """
     Gets a database connection for the current request
     """
-    if hasattr(g, 'db_con'):
+    if not hasattr(g, 'db_con'):
         g.db_con = database.connect()
-    return g.db_con
+        return g.db_con
 
 
 @app.teardown_appcontext
-def close_db():
+def close_db(error):
     """
     Closes the database after the current request
     """
+    DLOG("Teardown error: " + str(error))
     if hasattr(g, 'db_con'):
         g.db_con.close()
 
@@ -41,13 +42,12 @@ def close_db():
 def main_page():
     hashtag = request.form['hashtag'] if request.method == 'POST' else request.args.get('hashtag', '')
 
-    print "Querying hashtag: " + hashtag
-
     if not hashtag:
-        return render_template('mainpage.html')
+        return render_template('mainpage.html', navigationitems=navigation_items)
 
     try:
-        tsa.analyze_hashtag(hashtag)
+        tsa.analyze_hashtag(hashtag, count=10)
+        DLOG("Querying hashtag: " + hashtag)
         tweets = tsa.analyzed_tweets
         db_con = get_db()
         database.create_tweets(db_con, tweets)
@@ -58,11 +58,19 @@ def main_page():
                                chart=chart)
     except ClientException:
         # Too many request,  show something...
-        return render_template('mainpage.html')
+        return render_template('mainpage.html', error='Twitter API exhausted, please wait (max. 15 minutes)')
     except Exception as e:
         DLOG("Something went wrong: " + repr(e))
         return render_template('mainpage.html')
 
+
+@app.route('/layoutdebug')
+def layoutdebug():
+    chart = create_date_chart('DEBUG', []).render(is_unicode=True)
+    return render_template('mainpage.html',
+                           # tweets=tweets,
+                           navigationitems=navigation_items,
+                           chart=chart)
 
 if __name__ == '__main__':
     # app.debug = True
@@ -82,8 +90,9 @@ if __name__ == '__main__':
     except Exception as e:
         print repr(e)
 
-    tmp_con.close()
-    tmp_con = database.connect()
+        tmp_con.close()
+        tmp_con = database.connect()
+
     try:
         database.create_tables(tmp_con)
     except Exception as e:
