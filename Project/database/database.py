@@ -142,7 +142,7 @@ def _insert_tweet(cursor, tweet):
                 cursor.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
                 hashtag_ids.append(cursor.fetchone()[0])
 
-            DLOG("Inserted hashtag: " + hashtag)
+            # DLOG("Inserted hashtag: " + hashtag)
 
         except Exception as e:
             DLOG("Could not add hashtag to database: " + repr(e))
@@ -156,7 +156,7 @@ def _insert_tweet(cursor, tweet):
             % (tweet.get_date(), 0, json.dumps(tweet.__dict__, skipkeys=True).replace("'", "")))
         tweet_id = cursor.fetchone()[0]
 
-        DLOG("Inserted tweet with id: " + str(tweet_id))
+        # DLOG("Inserted tweet with id: " + str(tweet_id))
 
     except Exception as e:
         DLOG("Could not add tweet to database: " + repr(e))
@@ -169,9 +169,9 @@ def _insert_tweet(cursor, tweet):
         for hashtag_id in hashtag_ids:
             cursor.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
                            % (tweet_id, hashtag_id))
-            DLOG("Inserted tweet/hashtag relation with id: "
-                 + str(tweet_id)
-                 + "-" + str(hashtag_id))
+            # DLOG("Inserted tweet/hashtag relation with id: "
+            # + str(tweet_id)
+            # + "-" + str(hashtag_id))
 
     except Exception as e:
         DLOG("Could not add tweet/hashtag relation to database: " + repr(e))
