@@ -36,7 +36,8 @@ class TSA(object):
 
     def set_output_mode(self, mode="hours"):
         """
-        
+        Sets the preffered bin size for output.
+        input "mode" can be any of "hours", "days", "weeks", 0, 1 or 2.
         """
         if (mode == "hours") | (mode == "days") | (mode == "weeks"):
             self.output_mode = mode
@@ -49,17 +50,17 @@ class TSA(object):
 
 
     def analyze_hashtag(self, hashtag, count=200):
-        # tweet_count = 1000
-
-        # perhaps make a for loop ?
-
+        """
+        Analyze a hashtag given as input.
+        Amount of tweets are 200 be default, but can be given as argument also.
+        Returns analyzed tweets in a list.
+        """
         tweets = []
 
         for x in xrange(0, int(count / 10)):
             tweets.extend(self.tweet_fetcher.get_tweets(hashtag))
 
         analyzed_tweets = sort_tweets(self.sa.classify(tweets))
-        # analyzed_tweets = sort_tweets(self.sa.classify(tweets))
 
         self.analyzed_tweets = analyzed_tweets
 
@@ -67,6 +68,13 @@ class TSA(object):
 
 
     def output_tweets(self):
+        """
+        Outputs analyzed tweets in bins.
+        Bin size (hours, days or weeks) determined by self.output_mode
+        """
+        if self.analyzed_tweets is None:
+            return None
+
         splitter = 0
         if (self.output_mode == "days"):
             splitter = 86400  # 1 day in seconds
