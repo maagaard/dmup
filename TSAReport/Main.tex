@@ -8,9 +8,7 @@
 % \usepackage[table]{xcolor}
 % \usepackage{pdfpages}
 
-\usepackage[backend=biber]{biblatex}
 \graphicspath{ {./figures/} }
-\addbibresource{bibliography.bib}
 %---------- Title
 \title{Live Twitter Sentiment Analysis}
 \author{Emil Rask Maagaard --- s142955\\Bjarke Vad Andersen --- s142941}
@@ -42,7 +40,8 @@
 \section{Conclusion}
 \subfile{conclusion}
 
-\printbibliography{}
+\bibliographystyle{plain}
+\bibliography{bibliography}
 
 \clearpage
 \onecolumn
