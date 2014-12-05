@@ -31,8 +31,7 @@ def main_page():
         tsa.analyze_hashtag(hashtag)
         tweets = tsa.analyzed_tweets
         db_con = database.connect()
-        # database.create_tweets(db_con, tweets)
-        # chart = create_bar_chart(hashtag, tweets).render(is_unicode=True)
+        database.create_tweets(db_con, tweets)
         chart = create_date_chart(hashtag, tsa.output_tweets()).render(is_unicode=True)
         return render_template('mainpage.html',
                                # tweets=tweets,

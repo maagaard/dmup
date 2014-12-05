@@ -40,7 +40,7 @@ class TweetFetcher(object):
     def get_tweets(self, search_tag):
         query = search_tag
         query += "%20lang%3Aen"
-        query += "&result_type=" + "popular"  # result_type
+        query += "&result_type=" + "mixed"  # result_types: "recent", "popular", "mixed"
 
         if self.tweet_max_id is not None:
             query += "&max_id=" + str(self.tweet_max_id - 1)
