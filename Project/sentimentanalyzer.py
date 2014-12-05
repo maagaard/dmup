@@ -33,19 +33,19 @@ def filter_tokens(tokens):
     for token in tokens:
         if (token.find("http") > -1):
             filtered_tokens.remove(token)
-            DLOG("delete" + token)
+            # DLOG("delete" + token)
         elif (token.find("RT") > -1):
             filtered_tokens.remove(token)
-            DLOG("delete" + token)
+            # DLOG("delete" + token)
         elif (token.find("@") > -1):
             filtered_tokens.remove(token)
-            DLOG("delete" + token)
+            # DLOG("delete" + token)
         elif (token.find("#") > -1):
             filtered_tokens.remove(token)
-            DLOG("delete" + token)
+            # DLOG("delete" + token)
         elif token.find("www") > -1:
             filtered_tokens.remove(token)
-            DLOG("delete" + token)
+            # DLOG("delete" + token)
 
     return filtered_tokens
 
@@ -196,25 +196,35 @@ class SentimentAnalyzer(object):
 
             filtered_tokens = [filter_tokens(token_set) for token_set in tokens]
 
+
+            extraction_start = datetime.datetime.now()  # request timing
+            DLOG("Start feature extraction")
             feature_sets = None
             if self.use_movie_reviews:
                 feature_sets = [self.feature_extraction_movie_reviews(token_set) for token_set in filtered_tokens]
             else:
                 feature_sets = [self.feature_extraction(token_set) for token_set in filtered_tokens]
+            DLOG("Feature extraction time: " + str(datetime.datetime.now() - extraction_start))  # request timing
 
 
+            classification_start = datetime.datetime.now()  # request timing
+            DLOG("Start classification")
             prob_dists = []
 
-            for pdist in self.classifier.prob_classify_many(feature_sets):
-                # if self.use_movie_reviews:
-                #     print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
-                #                            pdist.prob(self.classifier.labels()[1])))
-                # else:
-                #     print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
-                #                                   pdist.prob(self.classifier.labels()[1]),
-                #                                   pdist.prob(self.classifier.labels()[2])))
-                prob_dists.append(pdist)
+            for feature_set in feature_sets:
+                prob_dists.append(self.classifier.prob_classify(feature_set))
 
+            # for pdist in self.classifier.prob_classify_many(feature_sets):
+            #     # if self.use_movie_reviews:
+            #     #     print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
+            #     #                            pdist.prob(self.classifier.labels()[1])))
+            #     # else:
+            #     #     print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
+            #     #                                   pdist.prob(self.classifier.labels()[1]),
+            #     #                                   pdist.prob(self.classifier.labels()[2])))
+            #     prob_dists.append(pdist)
+
+            DLOG("Classification time: " + str(datetime.datetime.now() - classification_start))  # request timing
             # return prob_dists
 
             [tweet.set_polarity(prob_dists[tweets.index(tweet)]) for tweet in tweets]
