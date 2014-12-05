@@ -7,12 +7,12 @@ from debug import DLOG
 import datetime
 import cPickle
 
-# from model import AnalyzedTag
-
 
 ##### HELPER METHODS ######
-
 def read_tweets_from_file(filename):
+    """
+    Helper method for reading training tweets from file.
+    """
     tweets = []
     with open(filename, 'r') as data_file:
         text = ""
@@ -27,7 +27,11 @@ def read_tweets_from_file(filename):
 
 
 def filter_tokens(tokens):
-    # for tokens in token_list:
+    """
+    Helper method.
+    Token filtering method.
+    List of tokens given as input, filtered list returned.
+    """
     filtered_tokens = list(tokens)
     for token in tokens:
         if (token.find("http") > -1):
@@ -51,37 +55,52 @@ def filter_tokens(tokens):
 
 
 class SentimentAnalyzer(object):
-    """docstring for SentimentAnalyzer"""
+    """
+    SentimentAnalyzer class for analyzing tweets
 
-    labels = ['positive', 'negative', 'objective']
+    """
 
-    feature_map = dict()
-
-    classifier = None  # classifier = nltk.NaiveBayesClassifier.train(train_set)
+    classifier = None
     sentiment_features = None
     use_movie_reviews = False
 
     def __init__(self):
         super(SentimentAnalyzer, self).__init__()
-        # self.arg = arg
 
 
     def is_trained(self):
+        """
+        Helper method for classify
+        """
         return True if self.classifier is not None else False
 
 
     def feature_extraction(self, tweet):
+        """
+        Extraction of features.
+        Tweets given as input
+        Dictionary with features returned
+        """
         tweet_words = set(tweet)
         features = {}
         for word in self.sentiment_features:
             features['contains(%s)' % word] = (word in tweet_words)
         return features
 
+
     def feature_extraction_movie_reviews(self, tweet):
+        """
+        Features for training with movie reviews
+        - this does not yield particularly good results
+        """
         return dict([(word, True) for word in tweet])
 
 
     def train_with_movie_db(self):
+        """
+        Training possible with movie reviews
+        - this does not yield particularly good results
+        """
         self.use_movie_reviews = True
 
         negids = movie_reviews.fileids('neg')
@@ -108,8 +127,10 @@ class SentimentAnalyzer(object):
 
 
     def load_classifier(self):
-        # load from file
-        # time_stamp = "2014-12-02 20:42:21"
+        """
+        Load classifier from file.
+        Given classifier is hardcoded at the time being.
+        """
         time_stamp = "2014-12-03 16:15:10"
         with open("tweetfeatures/tweet_features_" + time_stamp + ".pkl", 'rb') as fid:
             self.sentiment_features = cPickle.load(fid)
@@ -119,6 +140,11 @@ class SentimentAnalyzer(object):
 
 
     def train(self, arg):
+        """
+        Trains the classifier with saved train data
+        Sentiment features and classifier are stored in class variables,
+        and also dumped with cPickle
+        """
         pos_tweets = read_tweets_from_file("traindata/postweets.txt")
         neg_tweets = read_tweets_from_file("traindata/negtweets.txt")
         objective_tweets1 = read_tweets_from_file("traindata/objectivetweets.txt")
@@ -178,16 +204,20 @@ class SentimentAnalyzer(object):
         classifier_file = "classifier/classifier_" + time_stamp + ".pkl"
         with open(classifier_file, "wb") as fid:
             cPickle.dump(self.classifier, fid)
-        # return classifier, word_features
+        # return classifier
 
 
     def classify(self, tweets):
+        """
+        Classify tweets
+        Tweets given as input
+        Tweets returned with polarity indicating positive or negative sentiment
+        """
         if not self.is_trained():
-            DLOG("Training is needed")
+            DLOG("Training is needed. Loading classifier from disk.")
 
             # INFORM TO USER THAT TRAINING IS NEED AND CAN TAKE SOME TIME
             self.load_classifier()
-
             self.classify(tweets)
 
         else:
@@ -213,21 +243,8 @@ class SentimentAnalyzer(object):
             for feature_set in feature_sets:
                 prob_dists.append(self.classifier.prob_classify(feature_set))
 
-            # for pdist in self.classifier.prob_classify_many(feature_sets):
-            #     # if self.use_movie_reviews:
-            #     #     print('%.3f, %.3f ' % (pdist.prob(self.classifier.labels()[0]),
-            #     #                            pdist.prob(self.classifier.labels()[1])))
-            #     # else:
-            #     #     print('%.3f, %.3f, %.3f  ' % (pdist.prob(self.classifier.labels()[0]),
-            #     #                                   pdist.prob(self.classifier.labels()[1]),
-            #     #                                   pdist.prob(self.classifier.labels()[2])))
-            #     prob_dists.append(pdist)
 
             DLOG("Classification time: " + str(datetime.datetime.now() - classification_start))  # request timing
-            # return prob_dists
 
             [tweet.set_polarity(prob_dists[tweets.index(tweet)]) for tweet in tweets]
-
-            # [tweets[prob_dists.index(pdist)], pdist) for pdist in prob_dists]
-            # analyzed_tweets = [AnalyzedTag(tweets[prob_dists.index(pdist)], pdist) for pdist in prob_dists]
             return tweets
