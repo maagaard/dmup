@@ -96,13 +96,14 @@ def create_tables(connection):
 
 
 """
-Insert a tweet into the database in connection
-
 TODO: Do not insert tweets already in the database
 """
 
 
 def create_tweets(connection, tweets):
+    """
+    Inserts multiple tweets into the database
+    """
     cur = connection.cursor()
 
     failed = 0
@@ -118,6 +119,9 @@ def create_tweets(connection, tweets):
 
 
 def create_tweet(connection, tweet):
+    """
+    Inserts a single tweet into the database
+    """
     cur = connection.cursor()
     _insert_tweet(cur, tweet)
     connection.commit()
@@ -126,6 +130,9 @@ def create_tweet(connection, tweet):
 
 
 def _insert_tweet(cursor, tweet):
+    """
+    Private function, inserts a tweet into the database
+    """
     hashtag_ids = []
     # Insert hashtags if they do not already exist, and get the IDs of all hashtags for tweet
     for h in tweet.hashtags:
@@ -181,6 +188,9 @@ def _insert_tweet(cursor, tweet):
 
 
 def read_tweets_hashtag(connection, hashtag):
+    """
+    Read tweets by hashtag
+    """
     cur = connection.cursor()
     sql = """
         SELECT tweets.data
@@ -200,12 +210,18 @@ def read_tweets_hashtag(connection, hashtag):
 
 
 def update_hashtag_polarity(connection, hashtag, new_polarity):
+    """
+    Updates the polarity for a certain hashtag
+    """
     execute_sql(connection,
                 'UPDATE hashtags SET polarity = %s WHERE hashtag = \'%s\''
                 % (new_polarity, hashtag))
 
 
 def read_tweets_date(connection, from_date, to_date):
+    """
+    Reads tweets with dates between from_date and to_date
+    """
     cur = connection.cursor()
     cur.execute('SELECT data FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
                 % (from_date, to_date))
