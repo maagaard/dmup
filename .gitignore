@@ -86,3 +86,7 @@ docs/_build/
 *.bcf
 *.fdb_latexmk
 *.run.xml
+
+
+# JSON files that are too large
+Project/Ferguson-2014-12-05

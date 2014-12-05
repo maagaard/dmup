@@ -1,4 +1,12 @@
-\documentclass{dtu_report_short}
+\documentclass{dtu_report_columns}
+
+% \usepackage{subfiles}
+% \usepackage{graphicx}
+% \usepackage{hyperref}
+% \usepackage[utf8]{inputenc}
+% \usepackage{listings}
+% \usepackage[table]{xcolor}
+% \usepackage{pdfpages}
 
 %---------- Title
 \title{Title}
@@ -12,12 +20,17 @@
 \maketitle{}
 \titlepage
 
+% Abstract
+\subfile{abstract}
 
 \section*{Introduction}
 \subfile{introduction}
 
 
-\begin{lstlisting} [language=Python]
+\begin{lstlisting}[language=Python]
+from sentimentanalyzer import SentimentAnalyzer
+from tweetfetcher import TweetFetcher
+
 class TSA(object):
     """docstring for TwitterSentimentAnalyzer"""
 
