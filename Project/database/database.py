@@ -6,14 +6,7 @@ sys.path.insert(0, '../')
 import psycopg2
 import model
 import json
-# from debug import DLOG
-from dateutil.parser import *
-from re import escape
-
-
-def DLOG(msg):
-    if False:
-        print msg
+from debug import DLOG
 
 
 def connect(dbname="dmup", user="dmup", password="dmup123"):
@@ -29,7 +22,7 @@ def execute_sql(connection, sql):
     cur.close()
 
 
-def create_database(connection, name):
+def create_database(connection, name='dmup'):
     """Creates the database used in the DMUP project"""
     execute_sql(connection,
                 "CREATE DATABASE %s WITH OWNER dmup" % name)
@@ -106,23 +99,22 @@ def create_tables(connection):
 Insert a tweet into the database in connection
 
 TODO: Do not insert tweets already in the database
-TODO: Exception handling on cur.execute()
 """
 
 
 def create_tweets(connection, tweets):
     cur = connection.cursor()
 
-    failed = []
-    
+    failed = 0
+
     for tweet in tweets:
         if (not _insert_tweet(cur, tweet)):
             print "INDEX OF FAILED TWEET: " + str(tweets.index(tweet))
-            failed.append(tweet)
+            failed = failed + 1
 
     connection.commit()
     cur.close()
-    return len(tweets) - len(failed)
+    return len(tweets) - failed
 
 
 def create_tweet(connection, tweet):
@@ -136,19 +128,21 @@ def create_tweet(connection, tweet):
 def _insert_tweet(cursor, tweet):
     hashtag_ids = []
     # Insert hashtags if they do not already exist, and get the IDs of all hashtags for tweet
-    for hashtag in tweet.hashtags:
+    for h in tweet.hashtags:
+        hashtag = h.lower()
         cursor.execute('SELECT COUNT(*) FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
         count = cursor.fetchone()[0]
         try:
             if count == 0:  # Insert and get IDs
-                cursor.execute('INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
-                            (0, hashtag))
+                cursor.execute(
+                    'INSERT INTO hashtags (polarity, hashtag) VALUES (%s, %s) RETURNING id',
+                    (0, hashtag))
                 hashtag_ids.append(cursor.fetchone()[0])
             else:  # Get IDs only
                 cursor.execute('SELECT id FROM hashtags WHERE hashtag = \'%s\'' % hashtag)
                 hashtag_ids.append(cursor.fetchone()[0])
 
-            DLOG("Inserted hashtag: " + hashtag)
+            # DLOG("Inserted hashtag: " + hashtag)
 
         except Exception as e:
             DLOG("Could not add hashtag to database: " + repr(e))
@@ -162,7 +156,7 @@ def _insert_tweet(cursor, tweet):
             % (tweet.get_date(), 0, json.dumps(tweet.__dict__, skipkeys=True).replace("'", "")))
         tweet_id = cursor.fetchone()[0]
 
-        DLOG("Inserted tweet with id: " + str(tweet_id))
+        # DLOG("Inserted tweet with id: " + str(tweet_id))
 
     except Exception as e:
         DLOG("Could not add tweet to database: " + repr(e))
@@ -175,7 +169,9 @@ def _insert_tweet(cursor, tweet):
         for hashtag_id in hashtag_ids:
             cursor.execute('INSERT INTO tweet_hashtag (tweet_id, hashtag_id) VALUES (%s, %s)'
                            % (tweet_id, hashtag_id))
-            DLOG("Inserted tweet/hashtag relation with id: " + str(tweet_id) + "-" + str(hashtag_id))
+            # DLOG("Inserted tweet/hashtag relation with id: "
+            # + str(tweet_id)
+            # + "-" + str(hashtag_id))
 
     except Exception as e:
         DLOG("Could not add tweet/hashtag relation to database: " + repr(e))
@@ -196,9 +192,11 @@ def read_tweets_hashtag(connection, hashtag):
         WHERE hashtag = \'%s\'
     """ % hashtag
     cur.execute(sql)
-    data = cur.fetchone()[0]
-    print "THE DATA: " + str(data)
-    return model.Tweet(data)
+    rows = cur.fetchall()
+    res = []
+    for row in rows:
+        res.append(model.Tweet(row[0]))
+    return res
 
 
 def update_hashtag_polarity(connection, hashtag, new_polarity):
@@ -208,6 +206,12 @@ def update_hashtag_polarity(connection, hashtag, new_polarity):
 
 
 def read_tweets_date(connection, from_date, to_date):
-    execute_sql(connection,
-                'SELECT * FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
+    cur = connection.cursor()
+    cur.execute('SELECT data FROM tweets WHERE created BETWEEN \'%s\' AND \'%s\''
                 % (from_date, to_date))
+    rows = cur.fetchall()
+    res = []
+    for row in rows:
+        res.append(model.Tweet(row[0]))
+
+    return res
