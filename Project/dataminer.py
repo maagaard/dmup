@@ -8,7 +8,11 @@ import sentimentanalyzer as sa
 
 
 def fetch_data(tag, count):
-
+    """
+    Fetch tweets with hashtag.
+    Hashtag and amount of tweets given as arguments.
+    Nothing returned, tweets saved to json-file
+    """
     fetcher = tweetfetcher.TweetFetcher()
 
     json_tweets = []
@@ -21,7 +25,10 @@ def fetch_data(tag, count):
     write_jsondata_to_file(filename, json_tweets)
 
 
-def analyze_tweets(filename):
+def analyze_tweets_from_file(filename):
+    """
+    Method intended for running "batch" analyzing jobs on tweets from file
+    """
     json_tweets = read_json_from_file(filename)
     tweets = tweets_from_json(json_tweets)
     SA = sa.SentimentAnalyzer()
@@ -37,26 +44,25 @@ def analyze_tweets(filename):
 
 
 def write_jsondata_to_file(filename, data):
+    """
+    Save json data to file with filename
+    """
     with open(filename, 'w') as outfile:
         json.dump(data, outfile)
 
 
 def read_json_from_file(filename):
+    """
+    Read json data from file with filename given as input
+    """
     with open(filename, 'r') as data_file:
         return json.load(data_file)
 
 
-def write_tweets_to_file(filename, tweets):
-    with codecs.open(filename, 'w', "utf-8") as tweet_file:
-        for tweet in tweets:
-            tweet_file.write("-- \n%s\n" % tweet.text)
-    tweet_file.close()
-
-
 def tweets_from_json(json_data):
-    # response_dict = json.loads(json.dumps(json_data, sort_keys=True))
-    # statuses = response_dict['statuses']
-
+    """
+    Returns Tweet objects from json tweets
+    """
     tweets = []
     for status in json_data:
         tweet = Tweet(status)
@@ -65,5 +71,16 @@ def tweets_from_json(json_data):
     return tweets
 
 
+def write_tweets_to_file(filename, tweets):
+    """
+    Write tweet text to file.
+    All tweets separated by new lines and "--"
+    """
+    with codecs.open(filename, 'w', "utf-8") as tweet_file:
+        for tweet in tweets:
+            tweet_file.write("-- \n%s\n" % tweet.text)
+    tweet_file.close()
+
+
 if __name__ == '__main__':
-    fetch_data("%23Obama", 1000)
+    fetch_data("%23Obama", 500)
