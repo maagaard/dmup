@@ -1,0 +1,37 @@
+\documentclass[Main]{subfiles}
+\begin{document}
+
+% - Querying the twitter timeline
+%     - max_id's and so on
+
+% - Classification
+%     - size of featureset --> cost/benefit 
+%     - atm. 100 tweets --> 30 seconds
+
+% - Discrimination:
+%     - How do decide what a tweet is?
+%     - How to use the information (positive, negative, objective)
+
+% - Many more interesting things to conclude, other than the ones that we have done:
+%     - Country
+%     - gender
+%     - time of day
+%     - other tendencies?
+    
+% - If were to used together with more mining:
+%     - compare with data from news media to see if there are any indications on anything? or connections
+
+% - Location:
+%     - user location
+
+This section is used to discuss some of the features and properties that the implementation in its current state leaves to be desired.
+
+First of all the performance of the system is not quite up to par, where it can take up towards 30 seconds to query and analyze just a 100 tweets.
+We've found two major weaknesses: The Twitter API and the speed of which classification can be done on off-the-shelf laptops 
+--- the latter can be solved by a combination of throwing more hardware at the problem, write some clever parallel code and make heavy use of caching.
+The former issue could potentially be solved by getting access to the Firehose (\url{https://gnip.com/products/realtime/firehose/}),
+but getting access to that would require a lot more resources.
+
+An obvious, but cool, feature that we would've liked to implement is customization of queries, enabling the user of e.g setting the number of tweets queried or the type of graph that should be output.
+
+\end{document}
