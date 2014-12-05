@@ -1,19 +1,17 @@
 #!/usr/bin/env python
 # encoding: utf-8
 __author__ = "Emil Maagaard & Bjarke Vad Andersen"
-__credits__ = ["Myle Ott for twokenize"]
+__credits__ = []
 __version__ = "1.0"
 
 import json
 import codecs
 from model import Tweet
-from twitter import get_timeline
 import tweetfetcher
 
-
-def test_data():
-
-    pass
+"""
+Mainly used for debug and testing purposes
+"""
 
 
 def write_tweets_to_file(filename, tweets):
@@ -49,20 +47,28 @@ def tweets_from_json(json_data):
 
 
 def get_training_tweets():
+    fetcher = tweetfetcher.TweetFetcher()
     pos = []
     neg = []
 
-    pos.extend(get_timeline("%23LFC%20%3A)", 100))
-    pos.extend(get_timeline("%23manutd%20%3A)", 100))
-    pos.extend(get_timeline("%23swiftlang%20%3A)", 100))
-    pos.extend(get_timeline("%23StarWars%20%3A)", 100))
+    pos.extend(fetcher.get_tweets("%23LFC%20%3A)"))
+    fetcher.stop_fetching()
+    pos.extend(fetcher.get_tweets("%23manutd%20%3A)"))
+    fetcher.stop_fetching()
+    pos.extend(fetcher.get_tweets("%23swiftlang%20%3A)"))
+    fetcher.stop_fetching()
+    pos.extend(fetcher.get_tweets("%23StarWars%20%3A)"))
+    fetcher.stop_fetching()
     # pos4 = get_timeline("kimkardashian%20%3A)", 100)
     # pos5 = get_timeline("cometlanding%20%3A)", 100)
 
-    neg.extend(get_timeline("%23LFC%20%3A(", 100))
-    neg.extend(get_timeline("%23manutd%20%3A(", 100))
-    neg.extend(get_timeline("%23swiftlang%20%3A(", 100))
-    neg.extend(get_timeline("%23StarWars%20%3A(", 100))
+    neg.extend(fetcher.get_tweets("%23LFC%20%3A("))
+    fetcher.stop_fetching()
+    neg.extend(fetcher.get_tweets("%23manutd%20%3A("))
+    fetcher.stop_fetching()
+    neg.extend(fetcher.get_tweets("%23swiftlang%20%3A("))
+    fetcher.stop_fetching()
+    neg.extend(fetcher.get_tweets("%23StarWars%20%3A("))
     # neg4 = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
 
@@ -71,18 +77,19 @@ def get_training_tweets():
 
 
 def get_test_tweets():
+    fetcher = tweetfetcher.TweetFetcher()
     pos = []
     neg = []
 
     # pos_test = get_timeline("swiftlang%20%3A)", 100)
     # pos_test = get_timeline("kimkardashian%20%3A)", 100)
     # pos5 = get_timeline("cometlanding%20%3A)", 100)
-    pos.extend(get_timeline("%23Ferguson%20%3A)", 100))
-
+    pos.extend(fetcher.get_tweets("%23Ferguson%20%3A)", 100))
+    fetcher.stop_fetching()
     # neg_test = get_timeline("swiftlang%20%3A(", 100)
     # neg_test = get_timeline("kimkardashian%20%3A(", 100)
     # neg5 = get_timeline("cometlanding%20%3A(", 100)
-    neg.extend(get_timeline("%23Ferguson%20%3A(", 100))
+    neg.extend(fetcher.get_tweets("%23Ferguson%20%3A(", 100))
 
     return {"pos": pos, "neg": neg}
 
@@ -113,22 +120,25 @@ def get_random_test_data():
 
 
 def get_positive_training_data():
-    pos = get_timeline("%3A)", 10000)
-    write_tweets_to_file("postweets.txt", pos)
+    # pos = get_timeline("%3A)", 10000)
+    # write_tweets_to_file("postweets.txt", pos)
+    pass
 
 
 def get_objective_training_data():
-    query_string = "reuters"
-    objective = get_timeline(query_string, 10000)
-    write_tweets_to_file("objectivetweets3.txt", objective)
+    # query_string = "reuters"
+    # objective = get_timeline(query_string, 10000)
+    # write_tweets_to_file("objectivetweets3.txt", objective)
+    pass
 
 
 def get_negative_training_data():
-    neg = get_timeline("%3A(", 10000)
-    write_tweets_to_file("negtweets.txt", neg)
+    # neg = get_timeline("%3A(", 10000)
+    # write_tweets_to_file("negtweets.txt", neg)
+    pass
 
 
 if __name__ == '__main__':
     # get_tweets_with_tag("test_tag")
     # get_timeline("%23liverpool", 100)
-    test_data()
+    pass
