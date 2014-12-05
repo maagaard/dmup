@@ -5,6 +5,7 @@
 \colorlet{punct}{red!60!black}
 \definecolor{background}{HTML}{EEEEEE}
 \definecolor{delim}{RGB}{20,105,176}
+\definecolor{darkgreen}{rgb}{0, 0.4, 0}
 \colorlet{numb}{magenta!60!black}
 
 
@@ -48,5 +49,11 @@
     tabsize=4,
     commentstyle=itshape,
     basicstyle=\normalfont\ttfamily,
-    morekeywords={models, lambda, forms}
+    morekeywords={models, lambda, forms},
+    numbers=left,
+    % identifierstyle=\color{blue},
+    keywordstyle=\bfseries,
+    commentstyle=\color{darkgreen},
+    stringstyle=\color{red},
+    literate={Ö}{{\"O}}1 {é}{{\'e}}1 {Å}{{\AA}}1
 }
