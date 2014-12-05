@@ -5,7 +5,8 @@ import datetime
 import codecs
 from model import Tweet
 from debug import DLOG
-
+from twitter import get_timeline
+import tweetfetcher
 
 
 def test_data():
@@ -102,6 +103,11 @@ def get_offline_test_tweets():
 
     return {"pos": pos1, "neg": neg1}
 
+
+def get_random_test_data():
+    fetcher = tweetfetcher.TweetFetcher()
+    tweets = fetcher.get_tweets("%23StarWars")
+    return tweets
 
 
 def get_positive_training_data():

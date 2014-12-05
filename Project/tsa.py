@@ -4,17 +4,19 @@ from debug import DLOG
 import datetime
 
 
-# import matplotlib.pyplot as plt
-
-
 def sort_tweets(tweets):
+    """
+    Helper method for sorting tweets in chronological order.
+    """
     tweets.sort(key=lambda x: x.get_date())
     return tweets
 
 
-
 class TSA(object):
-    """docstring for TwitterSentimentAnalyzer"""
+    """
+    TwitterSentimentAnalyzer
+    Class for sentiment analyzing tweets.
+    """
 
     sa = SentimentAnalyzer()
     tweet_fetcher = TweetFetcher()
@@ -25,12 +27,17 @@ class TSA(object):
     analyzed_tweets = None
     output_bins = None
 
+
     def __init__(self):
         super(TSA, self).__init__()
         self.sa.load_classifier()
         # self.tweet_fetcher = TweetFetcher()
 
+
     def set_output_mode(self, mode="hours"):
+        """
+        
+        """
         if (mode == "hours") | (mode == "days") | (mode == "weeks"):
             self.output_mode = mode
         else:

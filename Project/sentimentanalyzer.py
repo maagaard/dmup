@@ -139,7 +139,7 @@ class SentimentAnalyzer(object):
             self.classifier = cPickle.load(fid)
 
 
-    def train(self, arg):
+    def train(self, arg=None):
         """
         Trains the classifier with saved train data
         Sentiment features and classifier are stored in class variables,
@@ -193,8 +193,8 @@ class SentimentAnalyzer(object):
         featuresets = [(self.feature_extraction(d["tokens"]), d["polarity"]) for d in all_tokens]
 
         feature_length = len(featuresets)
-
         train_set, test_set = featuresets[:int(feature_length * 0.8)], featuresets[int(feature_length * 0.8):]
+
 
         self.classifier = NaiveBayesClassifier.train(train_set)
 
