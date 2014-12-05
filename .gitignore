@@ -86,6 +86,7 @@ docs/_build/
 *.bcf
 *.fdb_latexmk
 *.run.xml
+*.pdf
 
 
 # JSON files that are too large
