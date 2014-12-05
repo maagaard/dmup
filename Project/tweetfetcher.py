@@ -70,6 +70,13 @@ class TweetFetcher(object):
             return tweets
 
 
+    def get_newest(self, search_tag, id):
+        
+
+
+        pass
+
+
     def stop_fetching(self):
         self.tweet_max_id = None
 
