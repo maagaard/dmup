@@ -19,6 +19,7 @@ def create_bar_chart(hashtag, tweets):
 def create_date_chart(hashtag, tweet_bins):
     date_chart = pygal.DateY(x_label_rotation=45)
     date_chart.title = "Sentiment for #%s over time" % hashtag
+    date_chart.x_labels_format = "%Y-%m-%d %h:%m"
     res = []
     for bin in tweet_bins:
         if(len(bin) > 0):
@@ -26,6 +27,5 @@ def create_date_chart(hashtag, tweet_bins):
             res.append((bin[0].get_date(), avg))
 
     date_chart.add('sentiment', res)
-    date_chart.x_labels_format = "%Y-%m-%d"
 
     return date_chart

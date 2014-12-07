@@ -39,7 +39,10 @@ def close_db(error):
     """
     Closes the database after the current request
     """
-    DLOG("Teardown error: " + str(error))
+    if(error):
+        DLOG("Teardown error: " + str(error))
+
+    # tsa.set_analyzed_tweets(None)
     if hasattr(g, 'db_con'):
         g.db_con.close()
 
@@ -78,21 +81,28 @@ def layoutdebug():
                            navigationitems=navigation_items,
                            chart=chart)
 
-@app.route('/ferguson')
-def ferguson():
-    file = open('Ferguson-2014-12-07-analyzed.pkl')
+def filtershort(tweets):
+    if(len(tweets) < 10):
+        return []
+    else:
+        return tweets
+
+def chart_file(filename, hashtag):
+    file = open(filename)
     tweets = pickle.load(file)
     file.close()
-    print "Tweet count: " + str(len(tweets))
-    # tsa.analyzed_tweets = sort_tweets(tsa.sa.classify(tweets))
-    tsa.analyzed_tweets = tweets
-    atweets = tsa.output_tweets()
-    print "Analyzed tweet count: " + str(len(atweets))
-    chart = create_date_chart('Ferguson', atweets).render(is_unicode=True)
-    return render_template('mainpage.html',
-                           # tweets=tweets,
-                           navigationitems=navigation_items,
-                           chart=chart)
+    tsa.set_output_mode('hours')
+    tsa.set_analyzed_tweets(tweets)
+    atweets = map(filtershort, tsa.output_tweets())
+    return create_date_chart(hashtag, atweets).render_response(is_unicode=True)
+
+@app.route('/ferguson')
+def ferguson():
+    return chart_file('Ferguson-slim.pkl', 'Ferguson')
+
+@app.route('/obama')
+def obama():
+    return chart_file('Obama-slim.pkl', 'Obama')
 
 if __name__ == '__main__':
     # app.debug = True
