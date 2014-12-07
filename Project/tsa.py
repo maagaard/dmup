@@ -25,7 +25,7 @@ class TSA(object):
     sa = SentimentAnalyzer()
     tweet_fetcher = TweetFetcher()
 
-    output_modes = ["hours", "days", "weeks"]
+    output_modes = ["minutes", "hours", "days", "weeks"]
     output_mode = output_modes[0]
 
     analyzed_tweets = None
@@ -38,19 +38,19 @@ class TSA(object):
         # self.tweet_fetcher = TweetFetcher()
 
 
-    def set_output_mode(self, mode="hours"):
+    def set_output_mode(self, mode="minutes"):
         """
         Sets the preffered bin size for output.
         input "mode" can be any of "hours", "days", "weeks", 0, 1 or 2.
         """
-        if (mode == "hours") | (mode == "days") | (mode == "weeks"):
+        if (mode == "minutes") | (mode == "hours") | (mode == "days") | (mode == "weeks"):
             self.output_mode = mode
         else:
             try:
                 self.output_mode = self.output_modes[mode]
             except Exception, e:
                 DLOG("Output mode not set correctly: " + str(e))
-                self.output_mode = "hours"
+                self.output_mode = "minutes"
 
 
     def analyze_hashtag(self, hashtag, count=200):
@@ -93,9 +93,11 @@ class TSA(object):
         elif (self.output_mode == "weeks"):
             splitter = 604800  # 1 week in seconds
             pass
-        else:
+        elif (self.output_mode == "hours"):
             splitter = 3600  # 1 hours in seconds
             pass
+        else:
+            splitter = 300  # 5 minutes in second
 
         sorted_tweets = sort_tweets(self.analyzed_tweets)
         self.analyzed_tweets = sorted_tweets
