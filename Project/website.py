@@ -9,11 +9,13 @@ from collections import namedtuple
 from flask import Flask, render_template, request, g
 from charting import create_date_chart
 import database
-from tsa import TSA
+import tsa
+from tsa import sort_tweets
 from debug import DLOG
+import pickle
 
 app = Flask(__name__)
-tsa = TSA()
+tsa = tsa.TSA()
 
 NavigationItem = namedtuple('NavigationItem', ['href', 'caption'])
 navigation_items = [
@@ -50,7 +52,7 @@ def main_page():
         return render_template('mainpage.html', navigationitems=navigation_items)
 
     try:
-        tsa.analyze_hashtag(hashtag, count=10)
+        tsa.analyze_hashtag(hashtag, count=100)
         DLOG("Querying hashtag: " + hashtag)
         tweets = tsa.analyzed_tweets
         db_con = get_db()
@@ -71,6 +73,22 @@ def main_page():
 @app.route('/layoutdebug')
 def layoutdebug():
     chart = create_date_chart('DEBUG', []).render(is_unicode=True)
+    return render_template('mainpage.html',
+                           # tweets=tweets,
+                           navigationitems=navigation_items,
+                           chart=chart)
+
+@app.route('/ferguson')
+def ferguson():
+    file = open('Ferguson-2014-12-07-analyzed.pkl')
+    tweets = pickle.load(file)
+    file.close()
+    print "Tweet count: " + str(len(tweets))
+    # tsa.analyzed_tweets = sort_tweets(tsa.sa.classify(tweets))
+    tsa.analyzed_tweets = tweets
+    atweets = tsa.output_tweets()
+    print "Analyzed tweet count: " + str(len(atweets))
+    chart = create_date_chart('Ferguson', atweets).render(is_unicode=True)
     return render_template('mainpage.html',
                            # tweets=tweets,
                            navigationitems=navigation_items,
