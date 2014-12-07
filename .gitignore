@@ -96,3 +96,5 @@ src/*
 Project/testdata/Ferguson
 Project/testdata/Ferguson-2014-12-05
 Project/testdata/ferguson_analyzed.pkl
+TwitterLiveSentimentAnalysis
+TwitterLiveSentimentAnalysis.zip
