@@ -71,6 +71,13 @@ class TSA(object):
         return analyzed_tweets
 
 
+    def set_analyzed_tweets(self, tweets):
+        """
+        Set analyzed tweets sorted. E.g. from saved analyzed tweets.
+        """
+        self.analyzed_tweets = sort_tweets(self.analyzed_tweets)
+
+
     def output_tweets(self):
         """
         Outputs analyzed tweets in bins.
@@ -89,6 +96,9 @@ class TSA(object):
         else:
             splitter = 3600  # 1 hours in seconds
             pass
+
+        sorted_tweets = sort_tweets(self.analyzed_tweets)
+        self.analyzed_tweets = sorted_tweets
 
         oldest = self.analyzed_tweets[0].get_date()
         newest = self.analyzed_tweets[-1].get_date()
