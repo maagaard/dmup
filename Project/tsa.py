@@ -75,7 +75,7 @@ class TSA(object):
         """
         Set analyzed tweets sorted. E.g. from saved analyzed tweets.
         """
-        self.analyzed_tweets = sort_tweets(self.analyzed_tweets)
+        self.analyzed_tweets = sort_tweets(tweets)
 
 
     def output_tweets(self):
