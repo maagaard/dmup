@@ -65,6 +65,12 @@ class TweetFetcher(object):
         DLOG("Request time: " + str(datetime.datetime.now() - request_start))  # request timing
 
         response_dict = json.loads(json.dumps(response_json, sort_keys=True))
+
+        if len(response_dict['statuses']) > 0:
+            self.tweet_max_id = response_dict['statuses'][-1]['id']
+        else:
+            self.tweet_max_id = None
+
         return response_dict
 
 
@@ -81,12 +87,7 @@ class TweetFetcher(object):
             tweet = Tweet(status)
             tweets.append(tweet)
 
-        if len(tweets) > 0:
-            self.tweet_max_id = tweets[-1].id
-            return tweets
-        else:
-            self.tweet_max_id = None
-            return tweets
+        return tweets
 
 
     def get_newest(self, search_tag, id):

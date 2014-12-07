@@ -13,6 +13,7 @@ import codecs
 import json
 import datetime
 import sentimentanalyzer as sa
+import cPickle
 
 
 def fetch_data(tag, count):
@@ -40,13 +41,20 @@ def analyze_tweets_from_file(filename):
     json_tweets = read_json_from_file(filename)
     tweets = tweets_from_json(json_tweets)
     SA = sa.SentimentAnalyzer()
+    SA.load_classifier()
 
     DLOG("Loaded " + str(len(tweets)) + " tweets")
 
-    analyzed_tweets = []
-    for x in xrange(0, len(tweets) / 100):
-        analyzed_tweets.extend(SA.classify(tweets[(x * 100):(x + 1) * 100]))
-        print "Tweets classified: " + str(len(analyzed_tweets))
+
+    # for x in xrange(0, len(tweets) / 100):
+    #     analyzed_tweets.extend(SA.classify(tweets[(x * 100):(x + 1) * 100]))
+    #     print "Tweets classified: " + str(len(analyzed_tweets))
+
+    analyzed_tweets = SA.classify(tweets)
+
+    feature_file = filename + "-analyzed.pkl"
+    with open(feature_file, "wb") as fid:
+        cPickle.dump(analyzed_tweets, fid)
 
     return analyzed_tweets
 
