@@ -6,6 +6,7 @@ from sentimentanalyzer import SentimentAnalyzer
 from tweetfetcher import TweetFetcher
 from debug import DLOG
 import datetime
+from model import SlimTweet
 
 
 def sort_tweets(tweets):
@@ -75,7 +76,8 @@ class TSA(object):
         """
         Set analyzed tweets sorted. E.g. from saved analyzed tweets.
         """
-        self.analyzed_tweets = sort_tweets(tweets)
+        slim_tweets = [SlimTweet(tweet) for tweet in tweets]
+        self.analyzed_tweets = sort_tweets(slim_tweets)
 
 
     def output_tweets(self):
