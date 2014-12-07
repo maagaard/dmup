@@ -26,7 +26,7 @@ Collection of training material has been done with the Twitter API, where 3 kind
 Before using the tweets two things are done; tokenization and filtering.
 
 \textit{Tokenization and filtering}
-In stead of using a simple `split' function on the tweets, a tokenizer designed for tweets is used. Two different tokenizers have been considered; ``HappyFunTokenizing'' from [ref: .........] \href{http://sentiment.christopherpotts.net/tokenizing.html}{\tt C. Potts, Stanford Linguistics} and ``ark-twokenize'' from a Carnegie Mellon University research group \href{http://www.ark.cs.cmu.edu/TweetNLP/}{\tt Tweet NLP}
+In stead of using a simple `split' function on the tweets, a tokenizer designed for tweets is used. Two different tokenizers have been considered; ``HappyFunTokenizing'' from \href{http://sentiment.christopherpotts.net/tokenizing.html}{\tt C. Potts, Stanford Linguistics} and ``ark-twokenize'' from a Carnegie Mellon University research group \href{http://www.ark.cs.cmu.edu/TweetNLP/}{\tt Tweet NLP}
 
 The chosen tokenizer, ``ark-twokenize'', performs visibly better on links, which is an important feature. E.g. [HappyFun] will return the following 
 \[u'http', u':/', u'/', u't', u'.', u'co', u'/', u'reupcsoekj'\], whereas [ARK] will return \[u'http://t.co/rEuPcSOekJ'\].
