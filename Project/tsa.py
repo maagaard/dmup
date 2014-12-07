@@ -99,14 +99,12 @@ class TSA(object):
         else:
             splitter = 300  # 5 minutes in second
 
-        sorted_tweets = sort_tweets(self.analyzed_tweets)
-        self.analyzed_tweets = sorted_tweets
-
         oldest = self.analyzed_tweets[0].get_date()
         newest = self.analyzed_tweets[-1].get_date()
 
         delta = int(((newest - oldest).total_seconds()) / splitter)
 
+        tweets_for_bins = list(self.analyzed_tweets)
         bins = []
         hour_bin = []
         for x in xrange(1, delta + 2):
@@ -114,7 +112,7 @@ class TSA(object):
             lower_limit = upper_limit - datetime.timedelta(seconds=splitter)
 
             hour_bin = []
-            for tweet in self.analyzed_tweets:
+            for tweet in tweets_for_bins:
                 if tweet.get_date() > upper_limit:
                     bins.append(hour_bin)
                     DLOG("Bin containing " + str(len(hour_bin)) + " tweets")
@@ -123,6 +121,7 @@ class TSA(object):
                     continue
                 else:
                     hour_bin.append(tweet)
+            [tweets_for_bins.remove(t) for t in hour_bin]
 
         DLOG("Bin containing " + str(len(hour_bin)) + " tweets")
         bins.append(hour_bin)
